@@ -2,8 +2,8 @@ package main
 
 import (
 	"bufio"
-	"encoding/xml"
 	"fmt"
+	"github.com/jaredbangs/PodcastHub/parsing"
 	"io/ioutil"
 	"net/http"
 	"os"
@@ -12,11 +12,11 @@ import (
 
 func main() {
 
-	xml, _ := ioutil.ReadFile("PhoneLosersOfAmerica.xml")
+	xml, _ := ioutil.ReadFile("parsing/TestFiles/PhoneLosersOfAmerica.xml")
 
-	processFeedContent(xml)
+	processFeedContent(&xml)
 
-	path := "subscriptions"
+	path := "parsing/TestFiles/subscriptions"
 
 	file, err := os.Open(path)
 	if err != nil {
@@ -27,7 +27,7 @@ func main() {
 	scanner := bufio.NewScanner(file)
 
 	for scanner.Scan() {
-		//	processFeedUrl(scanner.Text())
+		processFeedUrl(scanner.Text())
 	}
 
 }
@@ -40,49 +40,28 @@ func processFeedUrl(feedUrl string) {
 			response, _ := http.Get(feedUrl)
 			defer response.Body.Close()
 			body, _ := ioutil.ReadAll(response.Body)
-			processFeedContent(body)
+			processFeedContent(&body)
 		}
 	}
 }
 
-type Rss struct {
-	Channel Channel `xml:"channel"`
-}
+func processFeedContent(content *[]byte) parsing.Feed {
 
-type Channel struct {
-	// Have to specify where to find episodes since this
-	// doesn't match the xml tags of the data that needs to go into it
-	ItemList []Item `xml:"item"`
-	Title    string `xml:"title"`
-}
+	parser := parsing.RssParser{}
 
-type Item struct {
-	// Have to specify where to find the series title since
-	// the field of this struct doesn't match the xml tag
-	Title     string    `xml:"title"`
-	Enclosure Enclosure `xml:"enclosure"`
-}
+	feed, err := parser.ParseFeedContent(content)
 
-type Enclosure struct {
-	Url string `xml:"url,attr"`
-}
-
-func processFeedContent(content []byte) Rss {
-
-	var rss Rss
-
-	err := xml.Unmarshal(content, &rss)
 	if err != nil {
 		fmt.Printf("%s\n", content)
 		fmt.Printf("error: %v", err)
 	} else {
-		fmt.Println(rss)
-		fmt.Println(rss.Channel.Title)
-		for _, item := range rss.Channel.ItemList {
+		fmt.Println(feed)
+		fmt.Println(feed.Channel.Title)
+		for _, item := range feed.Channel.ItemList {
 			fmt.Println(item.Title)
 			fmt.Println(item.Enclosure.Url)
 		}
 	}
 
-	return rss
+	return feed
 }
