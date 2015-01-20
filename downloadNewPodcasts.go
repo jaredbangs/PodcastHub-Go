@@ -67,21 +67,22 @@ type Enclosure struct {
 	Url string `xml:"url,attr"`
 }
 
-func processFeedContent(content []byte) {
+func processFeedContent(content []byte) Rss {
 
-	var channel Rss
+	var rss Rss
 
-	err := xml.Unmarshal(content, &channel)
+	err := xml.Unmarshal(content, &rss)
 	if err != nil {
 		fmt.Printf("%s\n", content)
 		fmt.Printf("error: %v", err)
 	} else {
-		fmt.Println(channel)
-		fmt.Println(channel.Channel.Title)
-		for _, item := range channel.Channel.ItemList {
+		fmt.Println(rss)
+		fmt.Println(rss.Channel.Title)
+		for _, item := range rss.Channel.ItemList {
 			fmt.Println(item.Title)
 			fmt.Println(item.Enclosure.Url)
 		}
 	}
 
+	return rss
 }
