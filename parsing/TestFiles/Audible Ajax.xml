@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Audible Ajax</title>
+		<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+		<link>http://media.ajaxian.com/</link>
+		<itunes:subtitle>Cleaning up websites with Ajax</itunes:subtitle>
+		<itunes:summary>Ben and Dion of Ajaxian.com discuss issues around the new Web technology called Ajax (a.k.a. dhtml) and interview various Ajax notables.</itunes:summary>
+		<description>Ben and Dion of Ajaxian.com discuss issues around the new Web technology called Ajax (a.k.a. dhtml) and interview various Ajax notables.</description>
+		<lastBuildDate>Sat, 14 Nov 2015 01:34:08 -0500</lastBuildDate>
+		<language>en-us</language>
+		<copyright>Copyright 2005 Ajaxian.com</copyright>
+		<itunes:owner><itunes:name>Ben and Dion of Ajaxian.com</itunes:name><itunes:email>media@ajaxian.com</itunes:email></itunes:owner>
+		<itunes:image href="http://ajaxian.com/images/dionandben-300x300.png" />
+		<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+		<generator>dirCastv0.4+id3v2</generator>
+		<webMaster>media@ajaxian.com</webMaster>
+		<ttl>60</ttl>
+
+<item>
+<title>Audible Ajax Episode 32</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 32</itunes:subtitle>
+<itunes:summary> Appcelerator Titanium</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-32-titanium.mp3</link>
+<description> Appcelerator Titanium</description>
+<pubDate>Sat, 06 Dec 2008 19:41:29 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-32-titanium.mp3" length="11127574" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-32-titanium.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 31</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 31</itunes:subtitle>
+<itunes:summary> Aptana Jaxer 1.0</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-31-aptana.mp3</link>
+<description> Aptana Jaxer 1.0</description>
+<pubDate>Fri, 31 Oct 2008 14:08:51 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-31-aptana.mp3" length="12110645" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-31-aptana.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 30</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 30</itunes:subtitle>
+<itunes:summary> Interview with Kris Zyp of Sitepen</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/KrisZyp.mp3</link>
+<description> Interview with Kris Zyp of Sitepen</description>
+<pubDate>Mon, 22 Sep 2008 23:31:31 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/KrisZyp.mp3" length="25967328" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/KrisZyp.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Interview with Gavin Doughtie of Google - Audible Ajax Episode 29</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Interview with Gavin Doughtie of Google - Audible Ajax Episode 29</itunes:subtitle>
+<itunes:summary>Dion and Ben interview Dojo contributor and Google employee Gavin Doughtie, discussing browser graphics and his talks at OSCON and The Ajax Experience.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/Gavin.mp3</link>
+<description>Dion and Ben interview Dojo contributor and Google employee Gavin Doughtie, discussing browser graphics and his talks at OSCON and The Ajax Experience.</description>
+<pubDate>Fri, 05 Sep 2008 03:08:45 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/Gavin.mp3" length="20545688" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/Gavin.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Google Chrome, Chromium, V8 - Audible Ajax Episode 28</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Google Chrome, Chromium, V8 - Audible Ajax Episode 28</itunes:subtitle>
+<itunes:summary>In this episode we discuss the launch of Google Chrome and Chromium, how this adds to the hopeful world of TraceMonkey, V8, and SquirrelFish. We also delve into Canvas land and the fun and frolics that are planned for The Ajax Experience in Boston that happens shortly.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-28-googlechrome.mp3</link>
+<description>In this episode we discuss the launch of Google Chrome and Chromium, how this adds to the hopeful world of TraceMonkey, V8, and SquirrelFish. We also delve into Canvas land and the fun and frolics that are planned for The Ajax Experience in Boston that happens shortly.</description>
+<pubDate>Mon, 01 Sep 2008 17:18:48 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-28-googlechrome.mp3" length="19163999" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-28-googlechrome.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>SproutCore - Audible Ajax Episode 27</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>SproutCore - Audible Ajax Episode 27</itunes:subtitle>
+<itunes:summary>I sat down with Charles Jolley of Sproutit / SproutCore fame. Their has been a lot of SproutCore in the news, as it powers the new MobileMe from Apple, a very rich application built on the Open Web. Learn about the roots of the framework, how it is differ</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-27-sproutcore.mp3</link>
+<description>I sat down with Charles Jolley of Sproutit / SproutCore fame. Their has been a lot of SproutCore in the news, as it powers the new MobileMe from Apple, a very rich application built on the Open Web. Learn about the roots of the framework, how it is differ</description>
+<pubDate>Thu, 19 Jun 2008 17:28:36 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-27-sproutcore.mp3" length="25723266" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-27-sproutcore.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 26 - 260 North and Objective-J</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 26 - 260 North and Objective-J</itunes:subtitle>
+<itunes:summary>We sat down the with 280 North team that just released 280 Slides, an application that people call "Keynote on the Web" due to its Apple/desktop-like look and feel. The app uses a framework that the guys created, Cappuccino that uses the Objective-J language and runtime to build great looking applications.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-26-objectivej.mp3</link>
+<description>We sat down the with 280 North team that just released 280 Slides, an application that people call "Keynote on the Web" due to its Apple/desktop-like look and feel. The app uses a framework that the guys created, Cappuccino that uses the Objective-J language and runtime to build great looking applications.</description>
+<pubDate>Fri, 06 Jun 2008 16:37:20 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-26-objectivej.mp3" length="18021634" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-26-objectivej.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 25 - State of Ajax</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 25 - State of Ajax</itunes:subtitle>
+<itunes:summary>Ajaxians get together to talk about the big news in the last month or so. We discuss IE 8, the state of standards, Acid3 testing, the Open Web, and more.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-25.mp3</link>
+<description>Ajaxians get together to talk about the big news in the last month or so. We discuss IE 8, the state of standards, Acid3 testing, the Open Web, and more.</description>
+<pubDate>Fri, 04 Apr 2008 11:18:07 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-25.mp3" length="36759843" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-25.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 24 - Aptana Jaxer</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 24 - Aptana Jaxer</itunes:subtitle>
+<itunes:summary>Ajaxians interview the gents of Aptana on their Jaxer server side Ajax framework that was recently released. They discuss the difference it makes when you have a full browser in the backend instead of just a JavaScript interpreter.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-24-interview-Aptana.mp3</link>
+<description>Ajaxians interview the gents of Aptana on their Jaxer server side Ajax framework that was recently released. They discuss the difference it makes when you have a full browser in the backend instead of just a JavaScript interpreter.</description>
+<pubDate>Sat, 16 Feb 2008 13:48:15 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-24-interview-Aptana.mp3" length="25041459" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-24-interview-Aptana.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 23 - Zed Shaw on Rails community, enterprise, Ajax, patents, and a whole lot more</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 23 - Zed Shaw on Rails community, enterprise, Ajax, patents, and a whole lot more</itunes:subtitle>
+<itunes:summary>Ajaxians interview Zed Shaw covering his thoughts on the Rails community, the role of the Enterprise, the state of Ajax, JRuby and Rubinius, documentation, tests, tooling, the role of patents in software, and a whole lot of opinion.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-23-interview-ZedShaw.mp3</link>
+<description>Ajaxians interview Zed Shaw covering his thoughts on the Rails community, the role of the Enterprise, the state of Ajax, JRuby and Rubinius, documentation, tests, tooling, the role of patents in software, and a whole lot of opinion.</description>
+<pubDate>Fri, 04 Jan 2008 19:53:18 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-23-interview-ZedShaw.mp3" length="63495104" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-23-interview-ZedShaw.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 22 - Joe Hewitt on Firebug, Firefox, and iUI</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 22 - Joe Hewitt on Firebug, Firefox, and iUI</itunes:subtitle>
+<itunes:summary>Ajaxians interview Joe Hewitt of Firebug and iUI fame about debugging tips, YSlow, iPhones, the history of Firefox, and more.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-22-interview-JoeHewitt.mp3</link>
+<description>Ajaxians interview Joe Hewitt of Firebug and iUI fame about debugging tips, YSlow, iPhones, the history of Firefox, and more.</description>
+<pubDate>Tue, 31 Jul 2007 01:35:26 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-22-interview-JoeHewitt.mp3" length="28496796" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-22-interview-JoeHewitt.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 21 - Dojo Offline on Google Gears</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 21 - Dojo Offline on Google Gears</itunes:subtitle>
+<itunes:summary>We interviewed Brad Neuberg about the announcement of Google Gears, and how Dojo Offline is supporting the effort.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-21.mp3</link>
+<description>We interviewed Brad Neuberg about the announcement of Google Gears, and how Dojo Offline is supporting the effort.</description>
+<pubDate>Wed, 30 May 2007 16:17:04 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-21.mp3" length="32146286" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-21.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Audible Ajax Episode 20 - Project Tamarin</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Audible Ajax Episode 20 - Project Tamarin</itunes:subtitle>
+<itunes:summary>We introduce a new format for our 20th podcast and first of 2007 -- a feature covering Mozilla's Tamarin project featuring Kevin Lynch, Brenden Eich, and others from the community</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-20.mp3</link>
+<description>We introduce a new format for our 20th podcast and first of 2007 -- a feature covering Mozilla's Tamarin project featuring Kevin Lynch, Brenden Eich, and others from the community</description>
+<pubDate>Tue, 06 Feb 2007 14:47:27 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-20.mp3" length="14398179" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-20.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Ajaxians interview TIBCO on 3.2</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Ajaxians interview TIBCO on 3.2</itunes:subtitle>
+<itunes:summary>In our 19th show, we interview the GI tech team and founders on the recent 3.2 version of the product</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-19.mp3</link>
+<description>In our 19th show, we interview the GI tech team and founders on the recent 3.2 version of the product</description>
+<pubDate>Mon, 04 Dec 2006 09:15:42 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-19.mp3" length="28110488" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-19.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Ajaxians interview the IE 7 team</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Ajaxians interview the IE 7 team</itunes:subtitle>
+<itunes:summary>In our 18th show, we interview Chris Wilson, Laurel Reitman, and Dave Massey -- all program managers with the IE7 team -- and discuss the upcoming release.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-18-interview-ie7.mp3</link>
+<description>In our 18th show, we interview Chris Wilson, Laurel Reitman, and Dave Massey -- all program managers with the IE7 team -- and discuss the upcoming release.</description>
+<pubDate>Sun, 17 Sep 2006 02:47:27 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-18-interview-ie7.mp3" length="8149270" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-18-interview-ie7.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Ajaxians interview Jamis Buck of 37 Signals</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Ajaxians interview Jamis Buck of 37 Signals</itunes:subtitle>
+<itunes:summary>In our 17th show, we interview Jamis Buck of 37 Signals on his experiences with using Ajax in their live applications, and on the future of Ajax development in Rails.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-17-interview-JamisBuck.mp3</link>
+<description>In our 17th show, we interview Jamis Buck of 37 Signals on his experiences with using Ajax in their live applications, and on the future of Ajax development in Rails.</description>
+<pubDate>Thu, 20 Apr 2006 13:54:01 -0400</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-17-interview-JamisBuck.mp3" length="21234432" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-17-interview-JamisBuck.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Ajaxians March State of Ajax and hear from Jamis Buck from 37 Signals</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Ajaxians March State of Ajax and hear from Jamis Buck from 37 Signals</itunes:subtitle>
+<itunes:summary>In our 16th show, we discuss what is going on in the world of Ajax in March 2006. We discuss questions from the community regarding polling in Ajax frameworks, as well as commentary and features announced over the last couple of weeks.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-16.mp3</link>
+<description>In our 16th show, we discuss what is going on in the world of Ajax in March 2006. We discuss questions from the community regarding polling in Ajax frameworks, as well as commentary and features announced over the last couple of weeks.</description>
+<pubDate>Tue, 14 Mar 2006 09:35:11 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-16.mp3" length="28258026" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-16.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Ajaxians interview Kevin Hakman of TIBCO General Interface</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Ajaxians interview Kevin Hakman of TIBCO General Interface</itunes:subtitle>
+<itunes:summary>In our 15th show, we interview Kevin Hakman of TIBCO General Interface on the recent announcements surrounding TIBCO GI, the state of Ajax GUI builders, and issues that Ajax developers face.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-15-interview-TIBCO.mp3</link>
+<description>In our 15th show, we interview Kevin Hakman of TIBCO General Interface on the recent announcements surrounding TIBCO GI, the state of Ajax GUI builders, and issues that Ajax developers face.</description>
+<pubDate>Tue, 14 Feb 2006 09:33:40 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-15-interview-TIBCO.mp3" length="20066810" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-15-interview-TIBCO.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Ajaxians go over the first state of Ajax in 2006 from Denmark</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Ajaxians go over the first state of Ajax in 2006 from Denmark</itunes:subtitle>
+<itunes:summary>In our 14th show, we got together in Denmark to discuss what is going on in the world of Ajax in 2006. We discuss questions from the community on Ajax frameworks, as well as cool commentary and features announced over the new year.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-14.mp3</link>
+<description>In our 14th show, we got together in Denmark to discuss what is going on in the world of Ajax in 2006. We discuss questions from the community on Ajax frameworks, as well as cool commentary and features announced over the new year.</description>
+<pubDate>Mon, 06 Feb 2006 11:58:41 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-14.mp3" length="19083556" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-14.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+<item>
+<title>Ajaxians interview Patrick Lightbody, WebWork framework committer</title>
+<itunes:author>Ben and Dion of Ajaxian.com</itunes:author>
+<itunes:subtitle>Ajaxians interview Patrick Lightbody, WebWork framework committer</itunes:subtitle>
+<itunes:summary>In our 13th show, we interview Patrick Lightbody, a leading committer of the WebWork application framework, on his experience creating an Ajax aware Java framework.</itunes:summary>
+<link>http://media.ajaxian.com/podcasts/audibleajax-show-13-interview-PatrickLightbody.mp3</link>
+<description>In our 13th show, we interview Patrick Lightbody, a leading committer of the WebWork application framework, on his experience creating an Ajax aware Java framework.</description>
+<pubDate>Mon, 23 Jan 2006 09:55:39 -0500</pubDate>
+<enclosure url="http://media.ajaxian.com/podcasts/audibleajax-show-13-interview-PatrickLightbody.mp3" length="21476582" type="audio/mpeg"/>
+<guid>http://media.ajaxian.com/podcasts/audibleajax-show-13-interview-PatrickLightbody.mp3</guid>
+<itunes:category text="Technology"><itunes:category text="Developers"/></itunes:category>
+<itunes:keywords>ajax ajaxian web web2.0 programming development javascript java ruby rails programming consulting training dion ben dionalmaer bengalbraith</itunes:keywords>
+</item>
+
+	</channel>
+</rss>

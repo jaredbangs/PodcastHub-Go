@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="http://www.kernelpanicoggcast.net/rss.php" rel="self" type="application/rss+xml" />
+		<title>KernelPanic Oggcast</title>
+		<link>http://kernelpanicoggcast.net</link>
+		<description>KernelPanic Oggcast is a work/family friendly show that broadcasts live, fortnightly on Saturday night. Join us as we discuss Linux/FOSS news and reviews.</description>
+		<item>
+			<title>KernelPanic Oggcast 123 - Nay, We never end</title>
+			<description>This week. Only 2 days 2 hours (that might be a small porky) 2 minutes and 2 seconds to NetLabel day,  hacking medical devices, Air gaps, Beowulf clusters, $300 hack tool steals keys and much much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_123.ogg</guid>
+			<enclosure length="40739126" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_123.ogg" />
+			<pubDate>Sun, 12 Jul 2015 04:00:17 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast 122 - My little Dongle</title>
+			<description>This week the Az Attack is back with Astreya: Book 1. The Voyage South. We also discuss Netlabel day and numerous other topics (that\'s if numerous means a bloody lot)</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_122.ogg</guid>
+			<enclosure length="47248237" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_122.ogg" />
+			<pubDate>Tue, 30 Jun 2015 04:50:15 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast 121 - Philae Mignon Anybody</title>
+			<description>This week NetMiner joins us to discuss Nintendo not running Android,  Fallout, a Wheelchair controlled by eye movements and a PI, Car infotainment units running linux, Philae still in hibernation or is it ??? and much more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_121.ogg</guid>
+			<enclosure length="40178408" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_121.ogg" />
+			<pubDate>Wed, 17 Jun 2015 01:00:52 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast 120 - I got Nothing</title>
+			<description>Soundie joins us again to talk about Net Label Day, Peggie submits a story and we discuss, Photo Mining, The Nerdalizer, The Oculus rift only being developed for Windows, Mandriva says goodbye but Sourceforge doesn\'t and heaps more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_120.ogg</guid>
+			<enclosure length="56336009" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_120.ogg" />
+			<pubDate>Thu, 04 Jun 2015 06:35:02 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast 119 - The Pernicious Pronunciation Perplexity</title>
+			<description>This week Amazon wants to put it\'s junk in your trunk, NASA creates a Warp Drive ?. HP selling Linux-based laptops but they aren\'t running Susie. CBI got a new specialised forensic lab to decipher and recover data from Linux machines, Should you be worried ? We dont think so.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_119.ogg</guid>
+			<enclosure length="52736302" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_119.ogg" />
+			<pubDate>Mon, 04 May 2015 22:32:12 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast 118 - 50\'s 51</title>
+			<description>Join us this week as we discuss 51 news stories in 151 minutes, or maybe it was longer</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_118.ogg</guid>
+			<enclosure length="70885788" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_118.ogg" />
+			<pubDate>Mon, 20 Apr 2015 20:55:06 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast 117 - The User net</title>
+			<description>Join us this week as Soundie and Krayon return to discuss UEFI raising its ugly head again. Siri-us for linux, do we need it ? Nvidias Digits DevBox. Linux Mint, Yahoo leaves China, Google\'s evil-ness and so much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_117.ogg</guid>
+			<enclosure length="72358918" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_117.ogg" />
+			<pubDate>Tue, 24 Mar 2015 01:37:27 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast 116 - You\'re not in Kansas anymore (but maybe you should be)</title>
+			<description>Join us this week as we discuss the inaugural Kansas linux fest, Khronos Unveils Vulkan, Valve Releases Steam Machine Details and conducts a massive sale on Linux-based games, We learn how many lines of code the linux kernel really has and much much more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_116.ogg</guid>
+			<enclosure length="53213759" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_116.ogg" />
+			<pubDate>Mon, 09 Mar 2015 06:47:15 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 115 - Thats what they all say Buddy</title>
+			<description>A long show this fortnight to make up for the one we missed. So join us as we talk the GNU/linux, autonomous package deliveries,  NSA Barbie,  and heaps of other stuff.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_115.ogg</guid>
+			<enclosure length="70117857" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_115.ogg" />
+			<pubDate>Tue, 24 Feb 2015 17:54:58 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 114 - StarE StarE nights</title>
+			<description>This week we hit the motherload as Az and the most Handsome of all the Pirates join us again to discuss comet lovejoy, Entangle, Stellarium, Celestia, Google makes it easier to install linux on the chrome book, Wireless keystroke loggers and heaps heaps more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_114.ogg</guid>
+			<enclosure length="60047579" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_114.ogg" />
+			<pubDate>Fri, 30 Jan 2015 04:40:06 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 113 - The convoluted uppercase conundrum</title>
+			<description>Joins us this week as we discuss LNB and cavalcadeaudio.com, Firefox 4k TV, the NUC (not Nook), The compute stick,  how to search in less, the 600 or 500 rule,  Imax theatres,   curved bloody teles, Marvel V DC and heaps heaps more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_113.ogg</guid>
+			<enclosure length="51925698" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_113.ogg" />
+			<pubDate>Mon, 12 Jan 2015 05:17:34 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 112 - I ain\'t going to be Giggling</title>
+			<description>Join us this week as Soundie says goodbye, then we discuss Blitzortung, the future of linux,  Ubuntu Core and Snappy, ORMR, and much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_112.ogg</guid>
+			<enclosure length="53965690" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_112.ogg" />
+			<pubDate>Mon, 15 Dec 2014 03:44:40 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 111 - O Who ?</title>
+			<description>This week Microsoft saves Firefox, The NSA are really good blokes, RaspPi stuff, HP\'s Chromebook Killer, OSMC, and heaps more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_111.ogg</guid>
+			<enclosure length="62107984" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_111.ogg" />
+			<pubDate>Fri, 05 Dec 2014 02:20:19 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 110 - Nighty Night</title>
+			<description>Join us this week as we discuss Rosetta and Philae, the clock to end all clocks, Hilton reward points hacked, Microsoft Open Sources .net, Is your Tele watching you and lots more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_110.ogg</guid>
+			<enclosure length="53292568" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_110.ogg" />
+			<pubDate>Sun, 16 Nov 2014 14:43:39 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 109- Echo Charlie Tango</title>
+			<description>Not much of the GNU/Linux this week, but we still manage to talk for a couple of hours.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_109.ogg</guid>
+			<enclosure length="46349203" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_109.ogg" />
+			<pubDate>Mon, 03 Nov 2014 21:51:34 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 108-Holy Sh#t you dont wan\'t much</title>
+			<description>Just Soundie and I for the most part this week, Join us as we discuss SiriusXM looses to Flo and Eddie. We reminisce about wordperfect and lotus 123 as intel ceases support for lotus after 30 years. We challenge the Android App Addicts to find Soundie the perfect app, Shellshock, Jeff steps down from Bodhi just to name some stuff.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_108.ogg</guid>
+			<enclosure length="62023915" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_108.ogg" />
+			<pubDate>Mon, 06 Oct 2014 16:26:30 -0400</pubDate>
+		</item>
+		<item>
+			<title>Try that again in English</title>
+			<description>This week Peggeee makes us sad and so does SystemD, well makes some sad at least,  The Jman installs  NixOS on his Chromebook,  The Mystery of the sailing stones is solved. Net neutrality raises its ugly head again, The Japanese sell sweet potato shakes at McDonald\'s and so much more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_107.ogg</guid>
+			<enclosure length="73023734" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_107.ogg" />
+			<pubDate>Mon, 08 Sep 2014 06:45:34 -0400</pubDate>
+		</item>
+		<item>
+			<title>Don\'t make me laugh</title>
+			<description>Just 20 Days to go to help our friend 5150. 
+http://fundanything.com/en/campaigns/help-5150
+
+This week Dan and ThistleWeb join us to discuss the Adam Carolla V Personal Audio law suit.  Dan and his company http://www.knoll.com/ help 50 out with a desk and chair. Az redoes his mythbox and reintroduces us to Shadowmagic, We discuss Mythtv and XBMC, guns and chainsaws, just the usual stuff</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_106.ogg</guid>
+			<enclosure length="44738976" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_106.ogg" />
+			<pubDate>Tue, 26 Aug 2014 21:22:59 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 105 - The return of Crispy 1 Crispy</title>
+			<description>This week 50 manages to join us for a while, The EFF launches the Open Wireless Router Project, OpenSusie goes rolling, Who is spying on who, EFF flies  blimp over NSA data centre, Rosetta makes its rendezvous, How Black is Black and so much more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_105.ogg</guid>
+			<enclosure length="53930883" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_105.ogg" />
+			<pubDate>Mon, 11 Aug 2014 03:49:29 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 104 - We never said we answered them.</title>
+			<description>This week we ask the BIG questions. What happened to 5150 ? To SystemD or not ? Are you judged by the distro you run ? What HW doesn\'t run under linux these days ? Who uses a Firefox Phone? What was that url again ?</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_104.ogg</guid>
+			<enclosure length="52504093" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_104.ogg" />
+			<pubDate>Sun, 27 Jul 2014 04:34:26 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 103 - The enigmatic inebriated manifestation</title>
+			<description>Joins us this week as we discuss, well  lots of stuff I guess</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_103.ogg</guid>
+			<enclosure length="49077746" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_103.ogg" />
+			<pubDate>Mon, 14 Jul 2014 23:52:04 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 102 - The Big Red Button</title>
+			<description>This week Fifty takes the reins and leads us down a path of intrigue and discovery, well not really but I forget what we discussed so you\'ll just have to listen.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_102.ogg</guid>
+			<enclosure length="70388276" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_102.ogg" />
+			<pubDate>Wed, 02 Jul 2014 04:07:25 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 101 - I thought it was possessed</title>
+			<description>This Week, Nasa\'s Warp speed spaceship, Tesla goes open source, Booker T Washington High School cancels book reading because of Doctoros little brother book, US Marshals service auctions off 16.8 million bucks in bit coins. and heaps more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_101.ogg</guid>
+			<enclosure length="60203355" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_101.ogg" />
+			<pubDate>Tue, 17 Jun 2014 23:28:53 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 100 - I have some concerns</title>
+			<description>This week Vegemite, is it really good for you ? Who visits libraries these days ? firefox goes DRM but did they have a choice ? and we get the OCP live lowdown</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_100.ogg</guid>
+			<enclosure length="55673947" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_100.ogg" />
+			<pubDate>Mon, 02 Jun 2014 00:37:56 -0400</pubDate>
+		</item>
+		<item>
+			<title>The Peanut Butter Viscosity Conundrum</title>
+			<description>This week AZ  recommends tales of the left hand, Captain James Kirk relies on Redhat, China to tunnel under the Bearing sea ?  $20 Android Phones but that could depend on Oracle. More powerful Chrome Books on the way, and that\'s not all</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_99.ogg</guid>
+			<enclosure length="36971454" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_99.ogg" />
+			<pubDate>Tue, 20 May 2014 02:16:41 -0400</pubDate>
+		</item>
+		<item>
+			<title>Thats the part that bothers you</title>
+			<description>This week we talk about nothing much of anything really, though we seem to talk about nothing for a very very long time.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_98.ogg</guid>
+			<enclosure length="78143195" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_98.ogg" />
+			<pubDate>Mon, 05 May 2014 22:24:19 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 97 - This Week On HPR</title>
+			<description>This week we discuss VideoCore graphics drivers, automated copyright detection, Oculus VR, among other things.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_97.ogg</guid>
+			<enclosure length="38505906" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_97.ogg" />
+			<pubDate>Mon, 21 Apr 2014 17:38:26 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 96 - Look Mum I made a Stethoscope</title>
+			<description>This week 10000 linux boxes infected ? Not bloody likely.  Reckon our Sun is big,  Not even close.  Dropletons, Do they \"matter\". 8.8.8.8 the number of the beast ? and a sheet load more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_96.ogg</guid>
+			<enclosure length="74094864" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_96.ogg" />
+			<pubDate>Mon, 24 Mar 2014 05:36:37 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 95 - Poor Claudio</title>
+			<description>This week Soundie has a rant about ISP\'s. The handsomest of all the Pirates join us to  discuss Redhat and Fedora. I promise to install Fedora and go completely free (Did I have my fingers crossed) you\'ll just have to wait a fortnight and find out</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_95.ogg</guid>
+			<enclosure length="59324586" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_95.ogg" />
+			<pubDate>Mon, 10 Mar 2014 07:10:45 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 94 - Too GNUoool for School</title>
+			<description>This week we were lucky enough to be joined by +Charlie Reisinger  (IT Director), Chad (System engineer), Alex (Technology specialist) and Nick, Colin, Ben and Andrew (Students) from Penn Manor HS to discuss the launch of their 1:1 program that involved the rollout of 1,700 Linux laptops to grades 9 through 12.  So sit back and enjoy two of the most interesting and informative hours of Oggcasting you\'re likely to hear any time soon.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_94.ogg</guid>
+			<enclosure length="57923424" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_94.ogg" />
+			<pubDate>Mon, 24 Feb 2014 01:21:04 -0500</pubDate>
+		</item>
+		<item>
+			<title>I got nothing</title>
+			<description>This week we talk about tons of stuff even managed to get through all of 50\'s stories, listen and enjoy</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_92.ogg</guid>
+			<enclosure length="54723985" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_92.ogg" />
+			<pubDate>Tue, 28 Jan 2014 22:09:37 -0500</pubDate>
+		</item>
+		<item>
+			<title>2014 Here we come</title>
+			<description>Join us as we kick of the year with a short three and a half hour discussion about everything and anything</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_91.ogg</guid>
+			<enclosure length="87091805" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_91.ogg" />
+			<pubDate>Mon, 13 Jan 2014 21:26:32 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 90 - This Is A Family Show Sir</title>
+			<description>This week the Jman and Double N Dann return to discuss, Linux, it lost the battle but has it won the war? Steam OS beta out, but its not for everyone, 5 reasons why smog is great (you\'ll just have to listen) ExplainShell, High tech sneakers, Google releases an Amiga emulator and heaps heaps more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_90.ogg</guid>
+			<enclosure length="55553161" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_90.ogg" />
+			<pubDate>Mon, 16 Dec 2013 06:30:05 -0500</pubDate>
+		</item>
+		<item>
+			<title>Something Something</title>
+			<description>This week, CC 4.0 released as too was the Humble Mobile Bundle 3,  Enlightenment 1.8 will be next week. Western Digital uses a HAMR to increase HD storage.  OCZ goes belly up this week, just like 5150s SSD . and another couple of hours of stuff</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_89.ogg</guid>
+			<enclosure length="52231351" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_89.ogg" />
+			<pubDate>Mon, 02 Dec 2013 04:23:42 -0500</pubDate>
+		</item>
+		<item>
+			<title>Two Fat Ladies</title>
+			<description>This week Cobra2 and Kevin join us to discuss everything NOT Linux related.  Bitcoin, why its a much broader disruptive technology. How to get your stuff into space for a lousy $59. How to make a bomb with stuff you can buy at the Airport and heaps of other random stuff.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_88.ogg</guid>
+			<enclosure length="37555251" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_88.ogg" />
+			<pubDate>Thu, 21 Nov 2013 07:53:28 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 87 - Bath Salts And Leg Cramps</title>
+			<description>Russians bug goody bags, Crotch eating barnacles, IBM PC creator meets his maker, Why hot water freezes faster than cold, Lavabit returns, John McAfee has a product to make you anonymous, and much more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_87.ogg</guid>
+			<enclosure length="27243294" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_87.ogg" />
+			<pubDate>Fri, 08 Nov 2013 21:25:11 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 86 - HPR Needs You</title>
+			<description>This week Obamacare website uses uncredited FOSS software, Nvidia cripples its Linux driver, Silk Rd users get arrested, NSA using FF flaw to snoop on TOR users, and so much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_86.ogg</guid>
+			<enclosure length="46571939" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_86.ogg" />
+			<pubDate>Mon, 21 Oct 2013 20:42:08 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 85 - Night John Boy</title>
+			<description>This week we are joined by FXB to discuss Sugru, Makerfaire, Adobe gets hacked, Britney loves Ubuntu, Google solves death ? Creepy guy poses dead things, Github gets DDoS\'d, silk road goes bye bye and much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_85.ogg</guid>
+			<enclosure length="69679537" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_85.ogg" />
+			<pubDate>Tue, 08 Oct 2013 00:02:32 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 84 - She Flipped The Lamborghini</title>
+			<description>Linux the future of PC gaming, Munich distributes Ubuntu cd, Terrorists love GMail, will they love the Quasar Cipherphone, Gesture controlled laptops,  maggots, nymphs, parrot drones. You name it we discuss it.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_84.ogg</guid>
+			<enclosure length="54499042" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_84.ogg" />
+			<pubDate>Tue, 24 Sep 2013 02:35:31 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 83 - The Convoluted Chaotic Conversation</title>
+			<description>What happens when you cross the KernelPanic Oggcast,  with The Linux Link Tech Show, Linux in Da House and throw in a little Frostbite media podcast, Yep you guessed it, you get 4 hours of the most Chaotic Conversation you ever want to hear.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_83.ogg</guid>
+			<enclosure length="84617739" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_83.ogg" />
+			<pubDate>Tue, 10 Sep 2013 06:31:54 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 82 - I\'ll Grab Your Screenies</title>
+			<description>This Week Microsoft shares soar as Balmer announces his
+retirement, Xorg loses its 501c status, Ubuntu Edge fails to reach its target, GrokLaw says goodbye, Lavabit, Docker, Android, Comets, Shuttle Platforms, Electric Buses, Domestic Violence, in-fact everything but the kitchen sink.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_82.ogg</guid>
+			<enclosure length="44392779" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_82.ogg" />
+			<pubDate>Wed, 28 Aug 2013 01:54:14 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 81 - Aren\'t Youse Amazed</title>
+			<description>This week we are joined by a special guest, Mr Jackson, to fill us in on the Chromecast. We also discuss online banking, passwords, Mac apps on Linux, a 60 foot long thing, a planet with glass rain and another 2 hours of stuff.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_81.ogg</guid>
+			<enclosure length="57693959" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_81.ogg" />
+			<pubDate>Mon, 12 Aug 2013 22:23:33 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 80 - Let Me Edit That For You</title>
+			<description>This week we discuss Ubuntu Edge, Chromecast, GNU Replicant, mosquitos, electronic car theft and a lot more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_80.ogg</guid>
+			<enclosure length="81440875" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_80.ogg" />
+			<pubDate>Sun, 28 Jul 2013 03:21:11 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 79 - You\'re Looking Well</title>
+			<description>This week, They\'re photographing your mail, The Ruskies dump computers for typewriters, Florida outlaws all computers, tablets, smartphones that could be used in a game of chance (That\'s all of them isn\'t it?), Who knows how the rocks in Death Valley move? No one by the sound of it, and heaps more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_79.ogg</guid>
+			<enclosure length="46112881" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_79.ogg" />
+			<pubDate>Mon, 15 Jul 2013 06:17:17 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 78 - Breaker Breaker 10-19</title>
+			<description>This week Az is back and we don\'t talk about Privacy, Security, Humble Bundles, Linux or even Tech in General, well not much anyway but we still manage to talk for a few hours about, well, nothing really.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_78.ogg</guid>
+			<enclosure length="49314660" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_78.ogg" />
+			<pubDate>Wed, 03 Jul 2013 19:44:50 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 77 - 9 Thousaaaannnd</title>
+			<description>This week we are too scared to talk about PRISM, flying bicycles, quantum teleportation, and so much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_77.ogg</guid>
+			<enclosure length="53698081" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_77.ogg" />
+			<pubDate>Wed, 19 Jun 2013 22:37:20 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 76 - I\'m Fat, You Have My Attention</title>
+			<description>This week 5150 and Peggeee give us the scoop on OCP Live.  Yahoo on the road to recovery ??? LibreOffice 4.1.0 Beta 1 arrives and we list all 1000 changes, well not really. Foxconn builds Firefox phone, Ubuntu closes its original bug and lots lots more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_76.ogg</guid>
+			<enclosure length="66375851" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_76.ogg" />
+			<pubDate>Tue, 04 Jun 2013 19:42:20 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 75 - Bloody Heck Joel</title>
+			<description>This week bloody Krayon and E are back as we discuss,  Bloody Google goggles and their bloody O, The Urban bloody Dictionary,   bloody BitCoin,  The International bloody Space
+Stations runs bloody debian 6 and heaps of other bloody stuff. Fair Bloody Dinkum</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_75.ogg</guid>
+			<enclosure length="66330944" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_75.ogg" />
+			<pubDate>Mon, 20 May 2013 07:24:48 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 74 - Drunk and Disorderly</title>
+			<description>Come join us this week and see if you can work out what 5150 is trying to say, Cause sure as heck we can\'t.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_74.ogg</guid>
+			<enclosure length="40905421" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_74.ogg" />
+			<pubDate>Mon, 06 May 2013 23:51:31 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 73 - On The Edge Of Your Seat</title>
+			<description>Join us this week as we discuss the volatility of bitcoin, the IRS reading your email, the most popular Android tablet, thoughts on installing Manjaro Linux, and so much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_73.ogg</guid>
+			<enclosure length="81398908" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_73.ogg" />
+			<pubDate>Sat, 27 Apr 2013 15:06:12 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 72 - It\'s Bloody Easy</title>
+			<description>This week we are joined by NeoDragon and Lord D to discuss lightcoin V Bitcoin, Alienware and Ubuntu, Manjaro Linux,  The Mythtv Android Frontend, The Linux powered Rifle,  and thats not all</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_72.ogg</guid>
+			<enclosure length="74056900" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_72.ogg" />
+			<pubDate>Tue, 09 Apr 2013 22:39:39 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 71 - Enlighten ME</title>
+			<description>This week RasterMan joins us again and talks accessibility with Jonathan and Enlightens the gang on the e17 release and what to expect in e18 and much much more. Great stuff!</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_71.ogg</guid>
+			<enclosure length="69249717" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_71.ogg" />
+			<pubDate>Tue, 26 Mar 2013 01:00:06 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 70 - Drone On</title>
+			<description>This week, autonomous killing machines ? I don\'t think so,
+but seems I\'m in the minority. Canonical does it again, upsets the community with Mir, FBI spies on Google users. and another 2 hours of stuff.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_70.ogg</guid>
+			<enclosure length="65657871" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_70.ogg" />
+			<pubDate>Tue, 12 Mar 2013 02:52:32 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 69 Pt2 - HeayYou</title>
+			<description>Join us as +Jonathan Nadeau and I discuss heyu, domus.Link and the x10 home automation stuff. We also reminisce about old games with Delwin (aka +Derek Barnett ) and generally just talk about stuff.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_69_PT2.ogg</guid>
+			<enclosure length="28362636" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_69_PT2.ogg" />
+			<pubDate>Fri, 08 Mar 2013 02:01:59 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 69 Pt1 - 2012DA14</title>
+			<description>This week, The Sonar project, Wine coming to Android, Fedora 19, Flying VW\'s, kite powered cars and so much more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_69_PT1.ogg</guid>
+			<enclosure length="88018512" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_69_PT1.ogg" />
+			<pubDate>Sun, 10 Feb 2013 18:58:36 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 68 - Two Beer Limit</title>
+			<description>This week, Thistleweb, Jonathan Nadeau  5150, Kilo Bravo foura Kilo Bravo_jon, Delwin, The J man, Art V 61,  Aparanoidshell, and I get together to discuss http://www.indiegogo.com/sonar  and the latest news reviews and stories in the linux and tech world and many other things that have nothing to do with either. If you think this description is long wait until you hear the show</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_68.ogg</guid>
+			<enclosure length="82991581" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_68.ogg" />
+			<pubDate>Tue, 29 Jan 2013 09:27:30 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 67 - We\'re Back and Sober</title>
+			<description>This week Delwin joins us to discuss the Steam Box, Ubuntu Phone, the release of Qt5, SystemD becomes distro agnostic, Awesome gets more Awesome and much much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_67.ogg</guid>
+			<enclosure length="62241250" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_67.ogg" />
+			<pubDate>Mon, 14 Jan 2013 04:23:11 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 66 Pt2 - The Fluffy Slipper Shortage</title>
+			<description>After a great interview with Jeff we spiral to a fatal digression. Weather, hunting, a bit of linux/news then another spiral that we never safely recover from, but would you expect anymore from us ;)</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_Ep66_PT2.ogg</guid>
+			<enclosure length="70012361" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_Ep66_PT2.ogg" />
+			<pubDate>Sun, 09 Dec 2012 16:00:12 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 66 Pt1 - Our Bodhi Buddy</title>
+			<description>In Part 1 of KPO we are joined by a very special guest, Jeff Hoogland, from the Bodhi Linux project to discuss all things Bodhi.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_Ep66_PT1.ogg</guid>
+			<enclosure length="61640234" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_Ep66_PT1.ogg" />
+			<pubDate>Mon, 03 Dec 2012 18:27:26 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 65 - 3 Is Good, 2 Is Better</title>
+			<description>Nothing planned this week (then again do we ever).  We just sit around discussing TV shows, video editing, ROSA Linux and a few other things.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_65.ogg</guid>
+			<enclosure length="58367081" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_65.ogg" />
+			<pubDate>Mon, 19 Nov 2012 03:08:03 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 64 - Whole Fish Soup Button</title>
+			<description>This week Jonathan Nadeau  joins us to talk about the http://www.sonar-project.org/.  We are also joined for the first time by a long time listener 5150 and as usual we talk for hours about more stuff than I can remember.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_64.ogg</guid>
+			<enclosure length="66271760" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_64.ogg" />
+			<pubDate>Mon, 05 Nov 2012 00:31:35 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 63 Pt2 - The KrayonPanic Oggcast</title>
+			<description>This week we have a full cast of characters to discuss everything, wifi dongles, mini keyboards, XBMC, Windows 8, Linux (I think)  and last but definitely not least little baby girls (congrats Mr and Mrs AukonDK)</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_63_Pt2.ogg</guid>
+			<enclosure length="41512742" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_63_Pt2.ogg" />
+			<pubDate>Thu, 25 Oct 2012 16:48:56 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 63 Pt1 - The Pre-show</title>
+			<description>DK joins us this week to discuss, Wxgtk, GoPros, quadcopters (for a change), Superannuation, Four Zero One Bloody Ks, Ireland splits from the UK, \"Nockup\" Day, Proms, Debutante balls, The great EMOOOO War of \'32 and bloody heaps more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_63_Pt1.ogg</guid>
+			<enclosure length="21858003" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_63_Pt1.ogg" />
+			<pubDate>Tue, 23 Oct 2012 01:12:42 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 62 - Mono-Bloody-What</title>
+			<description>This week UEFI shim, Wikipedia books, windoze runs Android apps, Open Web OS released, DSL modems hacked, Nuclear fusion only 10 years away (yeah right) and that\'s not half of it.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_62.ogg</guid>
+			<enclosure length="46808703" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_62.ogg" />
+			<pubDate>Mon, 08 Oct 2012 07:29:16 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 61 - Them Words Will Get You Shot Around Here</title>
+			<description>This week, bugger, bloody swear words? To offend or not to offend, that is the question. feedback, gaming on Linux, advertising in Ubuntu, yes or no?</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_61.ogg</guid>
+			<enclosure length="44101448" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_61.ogg" />
+			<pubDate>Mon, 24 Sep 2012 23:52:03 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 60 - Fork This Ep</title>
+			<description>This week we go back to our old roots and get cranky and argue about everything, great fun</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_60.ogg</guid>
+			<enclosure length="39044074" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_60.ogg" />
+			<pubDate>Mon, 10 Sep 2012 20:39:13 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 59 - Hunting Wild Haggis Since 4AM</title>
+			<description>This week we are once again joined by Bruce from the DistroWatch Weekly podcast and Thistleweb from Crivens to discuss Blackberries, Anonymous, Netflix unleashes Chaos Monkey, how an algorithm can cost you 440 million, and Curiosity</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_59.ogg</guid>
+			<enclosure length="47824299" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_59.ogg" />
+			<pubDate>Mon, 13 Aug 2012 03:44:49 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 58 Part 2 - You\'ve Been KPO\'d</title>
+			<description>This week we go over our feedback and discuss 3D printing, NFC Hacking, Nokia still failing, Skype possibly monitoring your calls, and much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_58_PT2.ogg</guid>
+			<enclosure length="26155551" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_58_PT2.ogg" />
+			<pubDate>Tue, 31 Jul 2012 22:38:36 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 58 Part 1 - The \"Myth\", The Man, The \"Raster\"</title>
+			<description>This week we were fortunate enough to be joined not only by Dan Frey, host of the MythTVCast to update us on MythTV for Android, and talk all things media, but also Raster, the founder, head developer of Enlightenment and just an all round top bloke, who happens to be a bloody smart cookie and Australian, well mostly :)</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_58_PT1.ogg</guid>
+			<enclosure length="39821400" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_58_PT1.ogg" />
+			<pubDate>Mon, 30 Jul 2012 02:52:45 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 57 - Did Someone Say MP3 Ripper?</title>
+			<description>This week we talk about the OUYA game console, XBMC for Android, E17 gearing up for release, and Soundies 32 other links</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_57.ogg</guid>
+			<enclosure length="39549680" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_57.ogg" />
+			<pubDate>Tue, 17 Jul 2012 05:41:38 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 56 - Tell me more, tell me more</title>
+			<description>Thistleweb joins us this week as we discuss some tech news, the horrors of Windows, and a lot of non news.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_56.ogg</guid>
+			<enclosure length="56093566" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_56.ogg" />
+			<pubDate>Sun, 01 Jul 2012 14:55:43 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 55 - News and SELF</title>
+			<description>This week we talk Nokia, IPV6, Australia\'s first computer, Pegwole\'s talent at keeping the show moving and much more.  SELF wrapup starts at 01:32</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_55.ogg</guid>
+			<enclosure length="83989597" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_55.ogg" />
+			<pubDate>Sun, 17 Jun 2012 17:56:44 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 54 - Peter64 Goes Walkabout In America And Forgets To Come Back</title>
+			<description>This week we are joined by threethirty as we discuss Fedora planning to buy a UEFI secure boot certificate, news on the Oracle case, Stuxnet, Bitcoin, and even a flying cat.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_54.ogg</guid>
+			<enclosure length="34859133" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_54.ogg" />
+			<pubDate>Sun, 03 Jun 2012 19:08:47 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 53 - You Can Pry The Wires From My Cold Dead Hands</title>
+			<description>This week Pokey takes the helm and navigates us through a 3.5 hour show filled with more twists and turns then a bucket full of Cat5 cable.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_53.ogg</guid>
+			<enclosure length="67693591" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_53.ogg" />
+			<pubDate>Mon, 21 May 2012 03:57:08 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 52 - Ba Ba Ba Banana Phone</title>
+			<description>Join Az, The Jman, Double N Dann, Soundie, Peggee, E and myself for another 2.5 hour marathon show. I really don't recall a thing we talked about so you'll just have to listen.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_52.ogg</guid>
+			<enclosure length="57534098" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_52.ogg" />
+			<pubDate>Mon, 07 May 2012 11:56:05 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 51 - I Snotted Myself</title>
+			<description>This week Fishing, Basket Weaving and Woodwork, the only 3 things we didn't discuss</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_51.ogg</guid>
+			<enclosure length="65347557" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_51.ogg" />
+			<pubDate>Mon, 23 Apr 2012 02:44:44 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 50 - The Big Fifty</title>
+			<description>This week we are joined by a very special guest, Mr Neil Wallace aka Rowinggolfer or Rg to his mates, to discuss, amongst other things, Open Molar, SPDY adoption by Twitter, how to spell nutrino, Ubuntu overtakes RHEL, Anonymous-OS, or did we. And about a dozen bloody more topics, so sit back for another 3 hours of KPO goodness.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_50.ogg</guid>
+			<enclosure length="73488998" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_50.ogg" />
+			<pubDate>Mon, 26 Mar 2012 12:54:24 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 49 - I Think I Just Coughed Up A Couple Of Kidneys</title>
+			<description>This week Peggeee takes the reins, listen as the show spirals to a fatal digression from which it will never recover. Our third listener host, Kevin, joins us to discuss anonymity, SolusOS, Superluminal neutrinos, the Blender video editor, Apophis and asteroid 2011 AG45 and 400 bloody other topics thanks to E</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_49.ogg</guid>
+			<enclosure length="61533590" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_49.ogg" />
+			<pubDate>Mon, 12 Mar 2012 04:58:57 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 48 - A Little Ray of Sunshine</title>
+			<description>This week Jonathon joins us again to discuss the accessiblecomputingfoundation dot org, The Deep web,  802.11ac, MythTV forked,  A dingo ate my baby, and not much more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_48.ogg</guid>
+			<enclosure length="36927799" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_48.ogg" />
+			<pubDate>Mon, 27 Feb 2012 19:37:50 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 47 - 4 Days and Counting Up</title>
+			<description>This week "E" joins us to discuss SSL and CAs, Sabayon 8, the A HIB, and Reg gets excited about Opa</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_47.ogg</guid>
+			<enclosure length="71425411" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_47.ogg" />
+			<pubDate>Mon, 13 Feb 2012 01:53:19 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 46 - The Az is back</title>
+			<description>This week we are joined by Monsterb and Peggy to discuss Zombie Circus and the Wallabies Willy, A Bulging Budgie, A Ray Stinger, A Dugongs Dill and a Girthy Goanna. This episode is probably not safe for work.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_46.ogg</guid>
+			<enclosure length="65742783" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_46.ogg" />
+			<pubDate>Tue, 31 Jan 2012 01:31:38 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 45 - A Dead Dingo's Donger</title>
+			<description>This week, Almost Az, Detassling Corn, McOzs, flamegrilled Whoppers. Hamburgers with the lot. Synthetic eggs, BeetRoot again and thats before the show even starts</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_45.ogg</guid>
+			<enclosure length="66779990" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_45.ogg" />
+			<pubDate>Mon, 16 Jan 2012 16:13:44 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 44 - The Cats In The Cradle</title>
+			<description>This week, could you live without email? Judge dismisses Sony other OS lawsuit, A Gnu habitable world discovered, well, maybe not, There have never been signals of lost Dr Who shows recovered after traveling 25 years and no we never talked about it and so much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_44.ogg</guid>
+			<enclosure length="71312683" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_44.ogg" />
+			<pubDate>Tue, 20 Dec 2011 22:07:12 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 43 - Kernel Panics in Da House</title>
+			<description>Paige from Linux in Da House joins KPO for a discussion of nefarious online entities, gaming, software, graphics, and yacy the p2p search engine.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_43.ogg</guid>
+			<enclosure length="67166090" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_43.ogg" />
+			<pubDate>Mon, 05 Dec 2011 21:01:26 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 42 - The BITscosity COINspiracy</title>
+			<description>This week SndChaser kicks off our new segment, Linux in Da house, or something like that. We also discuss the viscosity of Veggie oil, Bit Coins, Netball, Kdenlive, debugging bash scripts and, well, you'll just have to listen.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_42.ogg</guid>
+			<enclosure length="64469006" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_42.ogg" />
+			<pubDate>Mon, 21 Nov 2011 20:46:49 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 41 - The Inertial Frame of Reference</title>
+			<description>This week Apple release their lossless audio format, Blender for Motion Graphic Artists How-Tos, the OLPC just won't die, the Linux file system and so much more</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_41.ogg</guid>
+			<enclosure length="52082085" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_41.ogg" />
+			<pubDate>Mon, 07 Nov 2011 16:44:28 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 40 Part 2 - It Just Won't Die</title>
+			<description>OpenPilot, Link-a-Dink ?????, Privacy, Google allows Pseudonymity, Privacy, Amazon Silk Browser and Privacy concerns</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_40_PT2.ogg</guid>
+			<enclosure length="36698787" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_40_PT2.ogg" />
+			<pubDate>Fri, 28 Oct 2011 06:35:32 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 40 Part 1 - This Show Is Like A Zombie</title>
+			<description>This week GNU Fdisk, we get serious about Yahoo, Open Libre Apache Office Org. privacy, more privacy and this is only Part 1!</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_40_PT1.ogg</guid>
+			<enclosure length="27958864" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_40_PT1.ogg" />
+			<pubDate>Mon, 24 Oct 2011 17:55:46 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 39 - Yeah, A One Game Bundle</title>
+			<description>This week, the terminal challenge, the Timezone DB is being sued, the HIB 72, the Google shop, and of course antennae gain and UEFI!!!</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_39.ogg</guid>
+			<enclosure length="62924803" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_39.ogg" />
+			<pubDate>Mon, 10 Oct 2011 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 38 - A Neutrino Walks Into A Bar</title>
+			<description>This week we discuss UEFI secure boot, patent deals, gaming, and much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_38.ogg</guid>
+			<enclosure length="60554904" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_38.ogg" />
+			<pubDate>Sun, 25 Sep 2011 23:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 37 - Yeah, Chucked It On The Barbie Mate</title>
+			<description>Join Krayon, Rick and the gang to talk about all things Linux this week, well mostly Linux.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_37.ogg</guid>
+			<enclosure length="62933513" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_37.ogg" />
+			<pubDate>Mon, 12 Sep 2011 23:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 36 - The Temptation Not To Answer You Was Tremendous</title>
+			<description>This week Grub, Windows, networking, Windows networking, HP and more Windows.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_36.ogg</guid>
+			<enclosure length="42106057" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_36.ogg" />
+			<pubDate>Mon, 29 Aug 2011 22:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 35 - Probably Closer To Britain Than I Am As Well</title>
+			<description>This week we are joined by 3 special guest, Bruce from DistroWatch, Jonathon and Stuzz. We discuss sick turtles, legal fun, and even talk about Linux for a change.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_35.ogg</guid>
+			<enclosure length="50420025" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_35.ogg" />
+			<pubDate>Mon, 15 Aug 2011 06:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 34 - We Hurd You Like Kernels</title>
+			<description>This week we are joined by SndChaser to discuss GNU Hurd, CentOS 6 is released, IBM supporting OpenOffice, crazy American drivers, and much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_34.ogg</guid>
+			<enclosure length="20031258" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_34.ogg" />
+			<pubDate>Sun, 17 Jul 2011 08:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 33 - Ask Not For Whom The Chime Tolls</title>
+			<description>Peter64 does America and and and sorry we ran out of time and only did the preshow.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_33.ogg</guid>
+			<enclosure length="24662473" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_33.ogg" />
+			<pubDate>Sun, 03 Jul 2011 18:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 32 - Head-On Collision</title>
+			<description>Peter64 bugs out. SndChaser, JesseJames and lostnbronx fill in for the truant cast members as we discuss ChromeOS netbooks, Oracle v Google, stealing Bitcoin, and much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_32.ogg</guid>
+			<enclosure length="36994377" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_32.ogg" />
+			<pubDate>Sun, 19 Jun 2011 20:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 31 - Skype Me Up Baby</title>
+			<description>This week Dan from MythTV Cast gives us a run down on Google Voice, the kernel goes 3.0, Skype and more Skype, Meego lives, and much much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_31.ogg</guid>
+			<enclosure length="23429398" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_31.ogg" />
+			<pubDate>Sat, 18 Jun 2011 11:47:25 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 30 - You making a smoo</title>
+			<description>This week Hanging Gardens, Skype sells out, Gnome to become Linux only?, and a bit of Apple stuff.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_30.ogg</guid>
+			<enclosure length="15965170" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_30.ogg" />
+			<pubDate>Tue, 24 May 2011 06:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 29 - You made a liar o</title>
+			<description>This week Granny gets upgraded, Unity "It's different".</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_29.ogg</guid>
+			<enclosure length="28104073" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_29.ogg" />
+			<pubDate>Sun, 08 May 2011 12:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 28 - You're Wrong</title>
+			<description>This week we are joined by Pokey to discuss Gnome 3, Opera, Blender, Task Taste, Google notebooks and much much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_28.ogg</guid>
+			<enclosure length="40194529" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_28.ogg" />
+			<pubDate>Mon, 25 Apr 2011 12:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 27 - oooh smack oooh</title>
+			<description>This week on the KernelPanicOggcastShooooow, drumbeat.org, you know what that is ?, well we don't.  Symbian goes open but its not, Confused? well so are we. The bestest WM gets even more "Awesome", oh yeah and we mention Gnome 3, a little bit of Wayland love just for Reg and so much moooooooooooore.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_27.ogg</guid>
+			<enclosure length="40043014" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_27.ogg" />
+			<pubDate>Mon, 11 Apr 2011 01:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 26.5 - Don't Reg Me Bro</title>
+			<description>Visit http://www.podiobooks.com for free, quality audio books.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_26.5.ogg</guid>
+			<enclosure length="1776626" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_26.5.ogg" />
+			<pubDate>Thu, 31 Mar 2011 21:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 26 - Don't You Reg Me </title>
+			<description>This week Jonathan joins us from Frostbite Systems to discuss accessibility in Unity, amongst some movie talk and even a bit of Linux discussion.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_26.ogg</guid>
+			<enclosure length="44194789" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_26.ogg" />
+			<pubDate>Mon, 28 Mar 2011 12:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 25 - The Knoppix Conundrum</title>
+			<description>This week, OilRush and Unigine, file systems, SystemD, more Canonical, and CUPS problems.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_25.ogg</guid>
+			<enclosure length="27298500" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_25.ogg" />
+			<pubDate>Mon, 14 Mar 2011 15:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 24 - My Hurty Head</title>
+			<description>This week, To pay or not to pay, this is the question, Debian irrelevant?, Ubuntu now a no no?, Mono and much much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_24.ogg</guid>
+			<enclosure length="43727651" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_24.ogg" />
+			<pubDate>Tue, 01 Mar 2011 08:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 23 - Part 2</title>
+			<description>In part 2 we discuss WebOS, Linux In Da House, Wayland, and more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_23_PT2.ogg</guid>
+			<enclosure length="35857889" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_23_PT2.ogg" />
+			<pubDate>Thu, 17 Feb 2011 01:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 23 - Part 1: Bread Helmet Guy</title>
+			<description>This week a lot of movie talk, the alternative to the NOT so super patch, and that's only part 1.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_23_PT1.ogg</guid>
+			<enclosure length="16995188" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_23_PT1.ogg" />
+			<pubDate>Mon, 14 Feb 2011 01:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 22 - Windows in 30 min????</title>
+			<description>This week we talk KDE, Enlightenment Foundation Libraries finally hit 1.0, internet kill switch, koalas, and much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_22.ogg</guid>
+			<enclosure length="56101176" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_22.ogg" />
+			<pubDate>Mon, 31 Jan 2011 04:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 21 - You Get Hungry, You Make A Sandwich</title>
+			<description>This week we are joined by regexorcist to discuss the Exorcist and numerous other topics, some related to Linux even.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_21.ogg</guid>
+			<enclosure length="38138310" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_21.ogg" />
+			<pubDate>Mon, 17 Jan 2011 01:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>Oggasmatron Episode 1</title>
+			<description>Dann, The Jman, Claudiom, Az, Danfry, K5_Rus, Peter64, and Joel (aka Gorkon) talk all things linux, well talk something at least.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/Oggasmatron_ep1.ogg</guid>
+			<enclosure length="25951650" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/Oggasmatron_ep1.ogg" />
+			<pubDate>Thu, 06 Jan 2011 00:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 20 - No Comment</title>
+			<description>This week KPO Uncut and Unedited, Just for you Klaatu.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_20.ogg</guid>
+			<enclosure length="33631638" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_20.ogg" />
+			<pubDate>Sat, 11 Dec 2010 23:30:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 19 - Ken of the McConnell Clan</title>
+			<description>This week we are joined by Ken McConnell author of Tyrmia, StarStrikers and Tales from Ocherva, just to name a few titles. Rex from acrossad.org also joins us to discuss the hot topics in the Linux news.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_19.ogg</guid>
+			<enclosure length="26757795" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_19.ogg" />
+			<pubDate>Mon, 29 Nov 2010 03:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 18 - Oops! Sorry, 330</title>
+			<description>This week we discuss news of the Google/Oracle legal battle, Lightworks video editor delayed until late 2011, and Apple app store license conflicts with GPLv2.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_18.ogg</guid>
+			<enclosure length="27847651" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_18.ogg" />
+			<pubDate>Sun, 14 Nov 2010 16:00:00 -0500</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 17 - Boooo</title>
+			<description>Join us this Halloween as we discuss the new PS3 exploit, Oracle shooting themselves in the foot, the FSF hardware endorsement program, and much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_17.ogg</guid>
+			<enclosure length="28788340" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_17.ogg" />
+			<pubDate>Mon, 01 Nov 2010 18:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 16 - KandaFan26</title>
+			<description>Join us this week as we discuss, bookmark syncing, Googles new service for admins, Sintel, and the Unigine engine just to name a few.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_16.ogg</guid>
+			<enclosure length="27661723" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_16.ogg" />
+			<pubDate>Mon, 18 Oct 2010 11:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 15 - The Durigerydoo</title>
+			<description>This week Beet bloody root, Az-astotle, Xmarks and OOO fork.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_15.ogg</guid>
+			<enclosure length="24498416" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_15.ogg" />
+			<pubDate>Sun, 03 Oct 2010 13:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 14 - The Coffee Ninja</title>
+			<description>This week a truly international show as we are graciously joined by CafeNinja all the way from Sardegna, Italy.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_14.ogg</guid>
+			<enclosure length="30485223" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_14.ogg" />
+			<pubDate>Mon, 20 Sep 2010 05:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 13 - Kiss My Badger</title>
+			<description>Join the gang this week as we discuss, ogg and mp3, Google, Basil Sands and much much more.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_13.ogg</guid>
+			<enclosure length="35286684" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_13.ogg" />
+			<pubDate>Tue, 07 Sep 2010 19:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 12 - Yeah, But You Haven't Been In The Middle Of It</title>
+			<description>This week we are joined by a very special guest. Rex, host of the Acrossad oggcast.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_12.ogg</guid>
+			<enclosure length="36706412" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_12.ogg" />
+			<pubDate>Mon, 23 Aug 2010 04:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 11 - Greetings and Salutations</title>
+			<description>This week, upstart vs systemD. Redhat vs Canonical, XP vs Windoze 7. Mobile vs Desktop, Android vs The World.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_11.ogg</guid>
+			<enclosure length="26033005" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_11.ogg" />
+			<pubDate>Sun, 08 Aug 2010 09:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 10 - Hey Little Girl, Want Some Peppermint?</title>
+			<description>This week Dell dumps linux, that is unless you ring them. , NASA builds a Cumulus freeus Stratus, Symbian Devco, Smokescreen and a little bit of Peppermint.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_10.ogg</guid>
+			<enclosure length="30125106" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_10.ogg" />
+			<pubDate>Sun, 25 Jul 2010 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 09 -All you did was trap kanganoos</title>
+			<description>Chad returns this week and we discuss Android for tablets, 3d displays, kdropbox, firefox 4 beta, and chat about other various topics but not Tupperware.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_09.ogg</guid>
+			<enclosure length="20362819" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_09.ogg" />
+			<pubDate>Mon, 12 Jul 2010 05:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 08 - Thats Why They Pay Me The Big Bucks</title>
+			<description>Hello Kernel Panic crew,
+
+I was hopeing you could announce Frostbite Media at
+http://www.frostbitemedia.org on the podcast. We have three podcast
+right now. One is called frostcast and we interview project leaders of
+diffrent linux distros. The second one is about hte orca screen reader
+and the third is a weekly podcast about fedora and interviewing diffrent
+people in fedora. 
+
+===================================================================================================================
+Festival Wrap 
+
+SELF and FossCon
+
+===================================================================================================================
+
+Google and YouTube defeat Viacom in copyright lawsuit
+-Reuters June 24
+
+Basically, Viacom trying to sue google and youtube for having clips that infringe on copyright, failed.
+
+"Mere knowledge of prevalence of such activity in general is not enough," [the judge] wrote. "The provider need not monitor or seek out facts indicating such activity."
+
+Full story is:
+
+http://news.yahoo.com/s/nm/20100624/med ... VhbmR5b3U-
+
+=====================================================================================================================
+Starting from VLC 1.1.0, the SHOUTcast module is not available on the distributed VLC any longer, because AOL Corporation is hindering Open Source Software.
+
+What happened?
+During the last year, the VLC developers have received several injunctions by e-mail from employees at AOL, asking us to either comply to a license not compatible with free software or remove the SHOUTcast capability in VLC.
+
+http://www.videolan.org/press/2010-1.html
+
+=====================================================================================================================
+
+
+Last week, Dell's web site said Ubuntu Linux was safer than Microsoft Windows. Now that statement has been changed. Did Microsoft pressure Dell for the change? 
+
+http://www.thevarguy.com/2010/06/17/did ... statement/
+
+==============================================================================================================
+
+
+THE PANIC ATTACK
+
+This come to us from Stuzz
+
+Just when you think it cant get any worse
+
+As if proposed mandatory censorship laws weren't bad enough and unpopular enough, now the Federal Government is considering a proposal to require all ISPs to keep a detailed log of every site their customers visit. 
+
+http://www.lifehacker.com.au/2010/06/au ... -activity/
+
+=====================================================================================================================
+
+JessiJames: a women called customer supporlt because pacman was on here home page.
+
+http://news.cnet.com/8301-17852_3-20007287-71.html
+
+===========================================================================================================
+
+
+AZ's Book review of the Weeek
+
+>Nocturnal
+Infected
+Contagious
+BloodCast, Season 1
+BloodCast, Season 2
+The Rookie: Remastered MATURE AUDIENCES Edition
+The Crypt Book 01: The Crew
+Earthcore</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_08.ogg</guid>
+			<enclosure length="27363151" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_08.ogg" />
+			<pubDate>Sun, 27 Jun 2010 08:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 07 - Me (Az) Myself (the Jman) and I (Peter64)</title>
+			<description>Abandoned by the SELFish others, JessiJames joins us to talk about all things Linux and a few things that aren't.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_07.ogg</guid>
+			<enclosure length="19449701" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_07.ogg" />
+			<pubDate>Sun, 13 Jun 2010 01:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 06 - We Say The Punchline First</title>
+			<description>Join us this week as we discuss, amongst other things, the return of LinuxCare, Fedora (yawn) 13, Pandora, and how not to tell a joke.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_06.ogg</guid>
+			<enclosure length="22556442" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_06.ogg" />
+			<pubDate>Mon, 31 May 2010 01:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 05 - Oh! I Muted Myself</title>
+			<description>Join us this week as we discuss the Humble Indie Bundle, Canonical and H.264, Google Chrome and various other big news stories in the Linux world.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_05.ogg</guid>
+			<enclosure length="18606839" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_05.ogg" />
+			<pubDate>Sun, 16 May 2010 07:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 04 - The Iwhat?</title>
+			<description>This week we are joined by 2 special guests, Joel (aka Gorkon) No ! not to discuss the droid :) and JessiJames with his Archos review.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_04.ogg</guid>
+			<enclosure length="21637968" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_04.ogg" />
+			<pubDate>Sun, 02 May 2010 07:30:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 03 - That was "the" internet!</title>
+			<description>That's right.. "the" internet.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_03.ogg</guid>
+			<enclosure length="24676655" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_03.ogg" />
+			<pubDate>Mon, 19 Apr 2010 03:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 02 - That could explain why your life's where it is</title>
+			<description>And other interesting things..</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_02.ogg</guid>
+			<enclosure length="26978604" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_02.ogg" />
+			<pubDate>Sun, 04 Apr 2010 23:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 01 - Windoze has a Community?</title>
+			<description>Join us this week as we not only discuss all things Linux but join the windows community, albeit for a limited time.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_01.ogg</guid>
+			<enclosure length="46080355" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_01.ogg" />
+			<pubDate>Mon, 22 Mar 2010 14:00:00 -0400</pubDate>
+		</item>
+		<item>
+			<title>KernelPanic Oggcast Episode 00 - The Kernel "panic" Compilation</title>
+			<description>Join us as we "try" compile the all new KernelPanic Oggcast. uname -r V 0.0.1-unleashed.</description>
+			<guid>http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_00.ogg</guid>
+			<enclosure length="13780653" type="audio/ogg" url="http://www.kernelpanicoggcast.net/Oggcasts/KernelPanic_00.ogg" />
+			<pubDate>Sun, 07 Mar 2010 17:30:00 -0500</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		
+		<title>The Truth</title>
+		<pubDate>Thu, 22 Oct 2015 23:53:38 +0000</pubDate>
+		<lastBuildDate>Fri, 23 Oct 2015 18:47:40 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://thetruthpodcast.com</link>
+		<language>en</language>
+		<copyright>Copyright 2012</copyright>
+		<docs>http://thetruthpodcast.com</docs>
+		<managingEditor>jonathan@thetruthpodcast.com (jonathan@thetruthpodcast.com)</managingEditor>
+		<itunes:summary><![CDATA[THE TRUTH makes movies for your ears. They're short stories that are sometimes dark, sometimes funny, and always intriguing. Every story is different, but they all take you to unexpected places using only sound. If you're new, some good starting places are: Silvia's Blood, That's Democracy, Moon Graffiti, Tape Delay, or whatever's most recent. Listening with headphones is encouraged!
+
+We're a proud member of Radiotopia from PRX.]]></itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/2/4/c/0/24c0aba0214bc51b/truth_logo_7.jpg</url>
+			<title>The Truth</title>
+			<link><![CDATA[http://thetruthpodcast.com]]></link>
+		</image>
+		<itunes:author>Jonathan Mitchell</itunes:author>
+		<itunes:keywords>audio,drama,fiction,film,jonathan,mitchell,prx,public,radio,radiotopia,story,storytelling</itunes:keywords>
+	<itunes:category text="Arts">
+		<itunes:category text="Performing Arts" />
+	</itunes:category>
+	<itunes:category text="TV &amp; Film" />
+	<itunes:category text="Arts" />
+		<itunes:image href="http://static.libsyn.com/p/assets/2/4/c/0/24c0aba0214bc51b/truth_logo_7.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[The Truth]]></itunes:name>
+			<itunes:email>jonathan@thetruthpodcast.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[Movies for your ears.]]></description>
+		<itunes:subtitle><![CDATA[Movies without pictures.]]></itunes:subtitle>
+				<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/thetruthapm" /><feedburner:info uri="thetruthapm" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Copyright 2012</media:copyright><media:thumbnail url="http://static.libsyn.com/p/assets/2/4/c/0/24c0aba0214bc51b/truth_logo_7.jpg" /><media:keywords>audio,drama,fiction,film,jonathan,mitchell,prx,public,radio,radiotopia,story,storytelling</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Performing Arts</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">TV &amp; Film</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts</media:category><item>
+			<title>Starburst</title>
+			<pubDate>Thu, 22 Oct 2015 23:53:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[520133789ac974e81a08695cb304b3ce]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/UacRlbiqH3Q/starburst</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/0/f/4/c0f42ad901cfc883/The_Truth_ICON.jpg" />
+			<description>&lt;p&gt;Where's your costume? Dressing up is the best part of these things! Performed by Matt Antonucci and Angela DeManti, with Kerry Kastin, Alejandro Kolleeny, and Louis Kornfeld. Written by Louis Kornfeld and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/UacRlbiqH3Q" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22578765" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Starburst.mp3" />
+			<itunes:duration>15:09</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Where's your costume? Dressing up is the best part of these things! Performed by Matt Antonucci and Angela DeManti, with Kerry Kastin, Alejandro Kolleeny, and Louis Kornfeld. Written by Louis Kornfeld and produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Starburst.mp3" fileSize="22578765" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/starburst</feedburner:origLink></item>
+		<item>
+			<title>Tuesday</title>
+			<pubDate>Thu, 24 Sep 2015 23:40:16 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[29582e3c20654c8fd20aaa325ad347be]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/4tPyutx2okw/tuesday</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/4/7/c/e47c30b954bcb3c9/The_Truth_ICON.jpg" />
+			<description>&lt;p&gt;Today's story comes to us by way of Australia, it was made by ABC RN's Creative Audio Unit, for their program Radiotonic. In Louris van de Geer's Tuesday, adapted here from a stage production, the lives of four shoppers get tangled up as they float from aisle to aisle, battling suburban drudgery while they wait for something to happen. It was produced by Jesse Cox and Timothy Nicastri. &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/4tPyutx2okw" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="44497460" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Tuesday.mp3" />
+			<itunes:duration>30:33</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Today's story comes to us by way of Australia, it was made by ABC RN's Creative Audio Unit, for their program Radiotonic. In Louris van de Geer's Tuesday, adapted here from a stage production, the lives of four shoppers get tangled up as they float...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Tuesday.mp3" fileSize="44497460" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/tuesday</feedburner:origLink></item>
+		<item>
+			<title>Enjoy the Suffering</title>
+			<pubDate>Thu, 10 Sep 2015 23:43:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d381f4ca25e10e70894b2eb24e686c9f]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/0Xlxsahm0l4/enjoy-the-suffering</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/c/5/1/fc5163f339fae088/The_Truth_ICON.jpg" />
+			<description>&lt;p&gt;Greetings, souls of the damned! This story is about a young woman who always looked up to her older sister, until they found themselves in Hell. Performed by Bianca Casusol, Kate Emswiler, Louis Kornfeld, Jake Hart, Blanche Ames, Jimmy O’Connell, and Kerry Kastin. With special musical guest Christian Colabelli. Written by Alejandro Kolleeny, with Louis Kornfeld and Jonathan Mitchell. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/0Xlxsahm0l4" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="23085532" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Enjoy_the_Suffering.mp3" />
+			<itunes:duration>15:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Greetings, souls of the damned! This story is about a young woman who always looked up to her older sister, until they found themselves in Hell. Performed by Bianca Casusol, Kate Emswiler, Louis Kornfeld, Jake Hart, Blanche Ames, Jimmy...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Enjoy_the_Suffering.mp3" fileSize="23085532" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/enjoy-the-suffering</feedburner:origLink></item>
+		<item>
+			<title>Dark Matter</title>
+			<pubDate>Thu, 16 Jul 2015 23:29:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2043590f866a9bf655c93f28c8793796]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/H78sVCJiuOg/dark-matter</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/d/2/6/5d26ecf57ad23a88/truth_logo_7.jpg" />
+			<description>&lt;p&gt;No one knows what it is, or why we can't see it. All we know is that without it, the universe would fall apart. Performed by Kevin Corrigan, Chet Siegel, Ed Herbstman, Dennis Pacheco, Alexis Lambright, Rob Webber, and Anna Sale. Written by Diana McCorry, and produced by Jonathan Mitchell. Inspired by listener Christopher Tunnell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/H78sVCJiuOg" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="29814901" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Dark_Matter.mp3" />
+			<itunes:duration>20:14</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[No one knows what it is, or why we can't see it. All we know is that without it, the universe would fall apart. Performed by Kevin Corrigan, Chet Siegel, Ed Herbstman, Dennis Pacheco, Alexis Lambright, Rob Webber, and Anna Sale. Written by Diana...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Dark_Matter.mp3" fileSize="29814901" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/dark-matter</feedburner:origLink></item>
+		<item>
+			<title>You're Not Alone</title>
+			<pubDate>Wed, 24 Jun 2015 23:23:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[eb3022575296099ded0049265333c460]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/NGuCk8X5SDE/youre-not-alone</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/6/2/a/0/62a02768799537e3/truth_logo_7.jpg" />
+			<description>&lt;p&gt;Are you hearing voices? You're not alone. Performed by Christian Paluck, Carly Monardo, Tom Stephens, Louis Kornfeld, Jon Keller, Kerry Kastin, Nick Mykins, Aina Rapoza, and Ashley Wilson. With special musical guest Elizabeth Ziman (of Elizabeth and the Catapult). Written by Louis Kornfeld, and produced by Jonathan Mitchell. (Originally released May 9, 2013)&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/NGuCk8X5SDE" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="33070739" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Youre_Not_Alone_Rerun_June_2015.mp3" />
+			<itunes:duration>21:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Are you hearing voices? You're not alone. Performed by Christian Paluck, Carly Monardo, Tom Stephens, Louis Kornfeld, Jon Keller, Kerry Kastin, Nick Mykins, Aina Rapoza, and Ashley Wilson. With special musical guest Elizabeth Ziman (of Elizabeth and...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Youre_Not_Alone_Rerun_June_2015.mp3" fileSize="33070739" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/youre-not-alone</feedburner:origLink></item>
+		<item>
+			<title>Remember the Baby</title>
+			<pubDate>Thu, 04 Jun 2015 23:40:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[76a646c231c10103ad6699e5cc6eede7]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/E15iS5z7-UA/remember-the-baby</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/3/9/d/9/39d9c871d431ac53/icon.jpg" />
+			<description>&lt;p&gt;You're having a stroke. Performed by Ann Carr, Louis Kornfeld, and Amy Warren. Written by Louis Kornfeld, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/E15iS5z7-UA" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="20856804" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Remember_the_Baby.mp3" />
+			<itunes:duration>14:15</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[You're having a stroke. Performed by Ann Carr, Louis Kornfeld, and Amy Warren. Written by Louis Kornfeld, and produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Remember_the_Baby.mp3" fileSize="20856804" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/remember-the-baby</feedburner:origLink></item>
+		<item>
+			<title>The Last Job</title>
+			<pubDate>Wed, 20 May 2015 23:52:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[88681150a73d21ef88c836828d2c8d5b]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/s2l7Os6LGyA/the-last-job</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/4/c/0/24c0aba0214bc51b/truth_logo_7.jpg" />
+			<description>&lt;p&gt;It's the Age of Leisure, and keeping it that way is a full time job. Performed by Peter McNerney, Dave Hill, Louis Kornfeld, India Kotis, Rebecca Robles, Alex Marino, Phoebe Tyers, T.J. Mannix, and Rupert Degas. Written and produced by Jonathan Mitchell. Commissioned by NPR's Planet Money.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/s2l7Os6LGyA" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="26860255" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Last_Job.mp3" />
+			<itunes:duration>18:14</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[It's the Age of Leisure, and keeping it that way is a full time job. Performed by Peter McNerney, Dave Hill, Louis Kornfeld, India Kotis, Rebecca Robles, Alex Marino, Phoebe Tyers, T.J. Mannix, and Rupert Degas. Written and produced by Jonathan...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Last_Job.mp3" fileSize="26860255" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-last-job</feedburner:origLink></item>
+		<item>
+			<title>Tape Delay</title>
+			<pubDate>Wed, 22 Apr 2015 23:08:48 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d96e19da8e46f78c3fa391c0a4f0696c]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/L1z7xw_HoV0/tape-delay-0</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/4/c/0/24c0aba0214bc51b/truth_logo_7.jpg" />
+			<description>&lt;p&gt;The recording doesn't lie. Performed by Ed Herbstman and Tami Sagher, with Libby George and Christian Paluck. It was produced by Jonathan Mitchell, and written by Jonathan Mitchell, Ed Herbstman, and Melanie Hoopes. This story originally aired on This American Life.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/L1z7xw_HoV0" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="29325164" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Tape_Delay_rerun.mp3" />
+			<itunes:duration>19:46</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The recording doesn't lie. Performed by Ed Herbstman and Tami Sagher, with Libby George and Christian Paluck. It was produced by Jonathan Mitchell, and written by Jonathan Mitchell, Ed Herbstman, and Melanie Hoopes. This story originally aired on This...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Tape_Delay_rerun.mp3" fileSize="29325164" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/tape-delay-0</feedburner:origLink></item>
+		<item>
+			<title>Can You Help Me Find My Mom?</title>
+			<pubDate>Thu, 09 Apr 2015 00:02:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[160d98c25b941ba42a1d833d579f7b4a]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/RtZ4TUdDtgw/can-you-help-me-find-my-mom</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/4/a/2/c4a25cdf0ceda01a/truth_logo_7.jpg" />
+			<description>&lt;p&gt;A girl is lost and can't find her mom. Why won't anyone help her? Performed by Bee Herbstman, Melanie Hoopes, Ed Herbstman, Evan Sudarsky Abadi, Gregory C. Jones, and Blanche Ames. Written by Diana McCorry, Produced by  Jonathan Mitchell. http://thetruthpodcast.com&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/RtZ4TUdDtgw" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="21224580" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Can_You_Help_Me_Find_My_Mom.mp3" />
+			<itunes:duration>14:25</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A girl is lost and can't find her mom. Why won't anyone help her? Performed by Bee Herbstman, Melanie Hoopes, Ed Herbstman, Evan Sudarsky Abadi, Gregory C. Jones, and Blanche Ames. Written by Diana McCorry, Produced by  Jonathan Mitchell....]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Can_You_Help_Me_Find_My_Mom.mp3" fileSize="21224580" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/can-you-help-me-find-my-mom</feedburner:origLink></item>
+		<item>
+			<title>Joe Frank</title>
+			<pubDate>Thu, 26 Mar 2015 23:06:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b72018f0515086f8c30145bd9a412486]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/mO24jt8onvo/joe-frank</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/d/2/e/cd2e060808166c54/truth_logo_7.jpg" />
+			<description>&lt;p&gt;Two pieces by legendary producer Joe Frank: Rent-a-Family and Fragments for Mixed Voices. These originally aired on his show Work In Progress, which aired on KCRW from 1986 to 1992. You can learn more about Joe Frank on his website, joefrank.com&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/mO24jt8onvo" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="40664099" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Joe_Frank.mp3" />
+			<itunes:duration>28:07</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Two pieces by legendary producer Joe Frank: Rent-a-Family and Fragments for Mixed Voices. These originally aired on his show Work In Progress, which aired on KCRW from 1986 to 1992. You can learn more about Joe Frank on his website, joefrank.com]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Joe_Frank.mp3" fileSize="40664099" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/joe-frank</feedburner:origLink></item>
+		<item>
+			<title>Living the Dream</title>
+			<pubDate>Thu, 12 Mar 2015 23:12:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[573ff2211c5311a7349b44daa3662e7d]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/nMmU6AJ0BR0/living-the-dream</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/a/b/9/bab9c6e8a9a6d118/truth_logo_7.jpg" />
+			<description>&lt;p&gt;Hoping the dream date never ends... until it doesn’t. Performed by Adam Wade, Chrissie Gruebel, and Dan Fairall. Written by Alejandro Kolleeny, and produced by Jonathan Mitchell. http://www.thetruthpodcast.com&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/nMmU6AJ0BR0" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22914503" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Living_the_Dream.mp3" />
+			<itunes:duration>15:45</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Hoping the dream date never ends... until it doesn’t. Performed by Adam Wade, Chrissie Gruebel, and Dan Fairall. Written by Alejandro Kolleeny, and produced by Jonathan Mitchell. http://www.thetruthpodcast.com]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Living_the_Dream.mp3" fileSize="22914503" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/living-the-dream</feedburner:origLink></item>
+		<item>
+			<title>Don't Touch a Thing</title>
+			<pubDate>Wed, 11 Feb 2015 23:41:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8ac2e254fcf3375d9f6805071f96eb98]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/gKsSPIdWdNg/dont-touch-a-thing</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/4/c/0/24c0aba0214bc51b/truth_logo_7.jpg" />
+			<description>&lt;p&gt;A hoarder's daughter digs through the past. Performed by Amy Warren, Armando Diaz, Jackie Hoffman, Louis Kornfeld, and Noel Dinneen. Written by Louis Kornfeld, produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/gKsSPIdWdNg" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="21617337" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Dont_Touch_a_Thing.mp3" />
+			<itunes:duration>14:43</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A hoarder's daughter digs through the past. Performed by Amy Warren, Armando Diaz, Jackie Hoffman, Louis Kornfeld, and Noel Dinneen. Written by Louis Kornfeld, produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Dont_Touch_a_Thing.mp3" fileSize="21617337" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/dont-touch-a-thing</feedburner:origLink></item>
+		<item>
+			<title>Falling</title>
+			<pubDate>Thu, 29 Jan 2015 23:30:41 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5f02b04387b1bc1ed665abedff997f95]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/3ux7aurbCUw/falling-0</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/4/c/0/24c0aba0214bc51b/truth_logo_7.jpg" />
+			<description>&lt;p&gt;An accidental love story. Performed by Chet Siegel and Peter McNerney, with Willy Appelman, Louis Kornfeld, Lauren Ashley Smith, Sebastian Conelli, Quinton Loder, Jon Bander, and Kim Ferguson. Written by Chet Siegel, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/3ux7aurbCUw" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="26336605" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Falling_January_2015.mp3" />
+			<itunes:duration>18:11</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[An accidental love story. Performed by Chet Siegel and Peter McNerney, with Willy Appelman, Louis Kornfeld, Lauren Ashley Smith, Sebastian Conelli, Quinton Loder, Jon Bander, and Kim Ferguson. Written by Chet Siegel, and produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Falling_January_2015.mp3" fileSize="26336605" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/falling-0</feedburner:origLink></item>
+		<item>
+			<title>The One about the Dead Dog</title>
+			<pubDate>Thu, 15 Jan 2015 22:06:57 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1f4871b093cef9a796b610d970c8ddc5]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/p8mJ86D7fKM/the-one-about-the-dead-dog</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/a/7/3/5a731475d82e26e1/truth_logo_7.jpg" />
+			<description>&lt;p&gt;Who knows... maybe it's true. Written by Diane McCorry. Performed by Phoebe Tyers and Dennis Pacheco, with Nick Mykins, T.J. Mannix, and Chris Dwane. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/p8mJ86D7fKM" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22545859" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_One_about_the_Dead_Dog.mp3" />
+			<itunes:duration>15:24</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Who knows... maybe it's true. Written by Diane McCorry. Performed by Phoebe Tyers and Dennis Pacheco, with Nick Mykins, T.J. Mannix, and Chris Dwane. Produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_One_about_the_Dead_Dog.mp3" fileSize="22545859" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-one-about-the-dead-dog</feedburner:origLink></item>
+		<item>
+			<title>Naughty or Nice</title>
+			<pubDate>Fri, 19 Dec 2014 00:42:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8389dc18bb4de1e5d6c2602a59e4066c]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/vMgnc0lCAlI/naughty-or-nice</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/4/c/0/24c0aba0214bc51b/truth_logo_7.jpg" />
+			<description>&lt;p&gt;An elf gets a new job in the Naughty or Nice division of Santa's workshop. This story was commissioned by NPR's All Things Considered. It was written by Jonathan Mitchell and Seth Lind, and directed &amp; produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/vMgnc0lCAlI" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="30248815" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Naughty_or_Nice.mp3" />
+			<itunes:duration>20:48</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[An elf gets a new job in the Naughty or Nice division of Santa's workshop. This story was commissioned by NPR's All Things Considered. It was written by Jonathan Mitchell and Seth Lind, and directed & produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Naughty_or_Nice.mp3" fileSize="30248815" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/naughty-or-nice</feedburner:origLink></item>
+		<item>
+			<title>The Death of Poe</title>
+			<pubDate>Wed, 29 Oct 2014 23:22:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3229f0e4d1caf5a6bd829dbcedf08210]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/1YmO2SvPFG0/the-death-of-poe-1</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/c/6/5/fc658bebb03548de/truth_logo_7.jpg" />
+			<description>&lt;p&gt;Edgar Allen Poe's death has always been shrouded in mystery. In this episode, we imagine what may have happened. It was inspired by listener Matthew Mercier, who spent time as the caretaker of Poe's last home. Performed by Christian Paluck, Ed Herbstman, Chet Siegel, and Louis Kornfeld. Produced &amp; directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/1YmO2SvPFG0" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="23073451" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Death_of_Poe_RERUN.mp3" />
+			<itunes:duration>15:55</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Edgar Allen Poe's death has always been shrouded in mystery. In this episode, we imagine what may have happened. It was inspired by listener Matthew Mercier, who spent time as the caretaker of Poe's last home. Performed by Christian Paluck, Ed...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Death_of_Poe_RERUN.mp3" fileSize="23073451" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-death-of-poe-1</feedburner:origLink></item>
+		<item>
+			<title>Silvia's Blood</title>
+			<pubDate>Thu, 16 Oct 2014 00:14:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c3f6aa497b5725faa646acc85fade2f7]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/C1YYn5FvU5c/silvia-s-blood</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/2/0/b/b20bff7464df36bc/truth_logo_7.jpg" />
+			<description>&lt;p&gt;Based on Philip K. Dick's short story "Upon the Dull Earth," originally published in 1954. Performed by Andy Moskowitz, Rebecca Robles, Diana McCorry, Ben Jones, and Al King. Produced and directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/C1YYn5FvU5c" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="29354414" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Silvias_Blood.mp3" />
+			<itunes:duration>19:53</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Based on Philip K. Dick's short story "Upon the Dull Earth," originally published in 1954. Performed by Andy Moskowitz, Rebecca Robles, Diana McCorry, Ben Jones, and Al King. Produced and directed by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Silvias_Blood.mp3" fileSize="29354414" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/silvia-s-blood</feedburner:origLink></item>
+		<item>
+			<title>Cold Read</title>
+			<pubDate>Wed, 17 Sep 2014 23:36:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ebfad663c2e755b0fb0986dced56118b]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/Lbn8hMHugt4/cold-read</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/8/8/7/5887c2507208a370/truth_logo_7.jpg" />
+			<description>&lt;p&gt;A psychic love story. Performed by Alex Marino, Christina Dabney, Blanche Ames, and T.J. Mannix. Written by Louis Kornfeld, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/Lbn8hMHugt4" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="27044114" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Cold_Read.mp3" />
+			<itunes:duration>18:36</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A psychic love story. Performed by Alex Marino, Christina Dabney, Blanche Ames, and T.J. Mannix. Written by Louis Kornfeld, and produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Cold_Read.mp3" fileSize="27044114" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/cold-read</feedburner:origLink></item>
+		<item>
+			<title>That's Democracy</title>
+			<pubDate>Wed, 20 Aug 2014 23:42:21 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3ecbc3df95210dfc8d52c1f370aad6da]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/d5J0mRLkgrY/that-s-democracy-1</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/1/9/0/c1909a51fd44d45c/truth_logo_8_v1.jpg" />
+			<description>&lt;p&gt;A teacher gives his students lesson about democracy that they'll never forget. Performed by Peter McNerney, Russ Armstrong, Alexis Lambright, Fiona Bradford, Teddy Shivers, Oscar Montoya, and Ben Jones. Written by Louis Kornfeld, produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/d5J0mRLkgrY" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="19643790" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Thats_Democracy_August_2014.mp3" />
+			<itunes:duration>13:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A teacher gives his students lesson about democracy that they'll never forget. Performed by Peter McNerney, Russ Armstrong, Alexis Lambright, Fiona Bradford, Teddy Shivers, Oscar Montoya, and Ben Jones. Written by Louis Kornfeld, produced by Jonathan...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Thats_Democracy_August_2014.mp3" fileSize="19643790" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/that-s-democracy-1</feedburner:origLink></item>
+		<item>
+			<title>Everything, Nothing, Harvey Keitel</title>
+			<pubDate>Wed, 06 Aug 2014 23:43:48 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3a2e1d829e34c9c5c027143b9faebd16]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/k__gVEYXHq0/everything-nothing-harvey-keitel-0</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/b/f/c/fbfc4e241e3b9853/truth_logo_7.jpg" />
+			<description>&lt;p&gt;Finding inner peace is difficult... especially when you're sitting next to Harvey Keitel. This story was produced by Pejk Malinovski as a Falling Tree production, and originally aired on BBC Radio 3.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/k__gVEYXHq0" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="28971274" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Everything_Nothing_Harvey_Keitel.mp3" />
+			<itunes:duration>20:05</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Finding inner peace is difficult... especially when you're sitting next to Harvey Keitel. This story was produced by Pejk Malinovski as a Falling Tree production, and originally aired on BBC Radio 3.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Everything_Nothing_Harvey_Keitel.mp3" fileSize="28971274" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/everything-nothing-harvey-keitel-0</feedburner:origLink></item>
+		<item>
+			<title>Moon Graffiti</title>
+			<pubDate>Wed, 16 Jul 2014 23:00:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b72ebdfe446a6e263c103ccfa80dfd2e]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/28nQgLpCzPc/moon-graffiti-1</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/c/6/6/ac66f0aee98d89d5/truth_logo_7.jpg" />
+			<description>&lt;p&gt;45 years ago this week, Neil Armstrong and Buzz Aldrin landed on the Moon. To commemorate, we're sharing our pilot episode which asks the question: What if they crashed? This story is based on a real speech written for Richard Nixon in 1969 called "In Event of Moon Disaster." Performed by Matt Evans and Ed Herbstman, with John Ottavino as Richard Nixon. Our story was written and produced by Jonathan Mitchell, and edited by Hillary Frank.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/28nQgLpCzPc" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="23632303" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Moon_Graffiti_July_2014.mp3" />
+			<itunes:duration>16:21</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[45 years ago this week, Neil Armstrong and Buzz Aldrin landed on the Moon. To commemorate, we're sharing our pilot episode which asks the question: What if they crashed? This story is based on a real speech written for Richard Nixon in 1969 called "In...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Moon_Graffiti_July_2014.mp3" fileSize="23632303" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/moon-graffiti-1</feedburner:origLink></item>
+		<item>
+			<title>Audio Smut</title>
+			<pubDate>Wed, 02 Jul 2014 23:22:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7e308f2d77f7b4dc44fe3b5f947566ff]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/FwbtBHSy_vg/audio-smut</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/0/b/2/40b22f8faffbb827/truth_logo_7.jpg" />
+			<description>&lt;p&gt;This episode features a story made by Audio Smut, a podcast about "your body, your heart, and your junk." Directed and produced by Kaitlin Prest in collaboration with composer Shani Aviram, this story is about how your mind can deceive you when you're falling head over heels.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/FwbtBHSy_vg" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="32640262" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Audio_Smut.mp3" />
+			<itunes:duration>22:36</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>the,audio,truth,smut,radiotopia</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode features a story made by Audio Smut, a podcast about "your body, your heart, and your junk." Directed and produced by Kaitlin Prest in collaboration with composer Shani Aviram, this story is about how your mind can deceive you when you're...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Audio_Smut.mp3" fileSize="32640262" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/audio-smut</feedburner:origLink></item>
+		<item>
+			<title>Chaotic Neutral</title>
+			<pubDate>Wed, 18 Jun 2014 23:34:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6fe1357d2cd2786c8f0119cdb8b7a13d]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/Vqohkt83phM/chaotic-neutral</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/1/6/d/e16d5395d26ded5a/truth_logo_7.jpg" />
+			<description>&lt;p&gt;A game of Dungeons and Dragons is thrown into chaos. Peformed by Elana Fishbein, Jon Bander, Justin Moran, and Matt Shafeek. Written by Alejandro Kolleeny, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/Vqohkt83phM" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="24010082" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Chaotic_Neutral.mp3" />
+			<itunes:duration>16:18</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A game of Dungeons and Dragons is thrown into chaos. Peformed by Elana Fishbein, Jon Bander, Justin Moran, and Matt Shafeek. Written by Alejandro Kolleeny, and produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Chaotic_Neutral.mp3" fileSize="24010082" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/chaotic-neutral</feedburner:origLink></item>
+		<item>
+			<title>Voyager Found</title>
+			<pubDate>Wed, 14 May 2014 08:11:49 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a54843ee52ef125eb6368815f5632d08]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/w6AI-974Tyg/voyager-found</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/3/f/b/f3fbefa06988d302/truth_logo_7.jpg" />
+			<description>&lt;p&gt;The Voyager spacecraft has landed: meet the aliens who found it. Performed by Chet Siegel and Peter McNerney. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/w6AI-974Tyg" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="20527826" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Voyager_Found.mp3" />
+			<itunes:duration>14:05</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The Voyager spacecraft has landed: meet the aliens who found it. Performed by Chet Siegel and Peter McNerney. Produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Voyager_Found.mp3" fileSize="20527826" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/voyager-found</feedburner:origLink></item>
+		<item>
+			<title>Everybody SCREAM!!!</title>
+			<pubDate>Mon, 28 Apr 2014 22:30:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[cbcbaa2dc3c61e1518787cbe52956384]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/VHSCL5OhTeQ/everybody-scream</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/7/f/f/c7ff162eacaf61aa/disco_ball_purple.jpg" />
+			<description>&lt;p&gt;Keep your knees in, chest up, stay low, elbows soft... let's go, let's GO! Performed by Chet Siegel, Emily Tarver, and Ed Herbstman. Written by Chet Siegel, produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/VHSCL5OhTeQ" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22303519" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Everybody_SCREAM_redux.mp3" />
+			<itunes:duration>15:07</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Keep your knees in, chest up, stay low, elbows soft... let's go, let's GO! Performed by Chet Siegel, Emily Tarver, and Ed Herbstman. Written by Chet Siegel, produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Everybody_SCREAM_redux.mp3" fileSize="22303519" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/everybody-scream</feedburner:origLink></item>
+		<item>
+			<title>The Extractor</title>
+			<pubDate>Mon, 10 Mar 2014 00:03:20 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[12465b625e58dc558b7a149436a063b1]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/QFTPvQxNgXc/the-extractor</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/8/3/a/e83a8a98f38bc15c/truth_logo_7.jpg" />
+			<description>&lt;p&gt;The sounds we make don't just fade away; they're embedded in the wood around us. Performed by Ed Herbstman, Kevin Cragg, Annemarie Cullen, Dennis Pacheco, and Rebecca Robles, with Melanie Hoopes, Bea Herbstman, Alex Marino, and Kerry Kastin. Music performed by Isabel Kim, Matt Evans, and Shawn Lovato. Written and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/QFTPvQxNgXc" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="27156852" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Extractor.mp3" />
+			<itunes:duration>18:16</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,in,drama,opera,ed,truth,jonathan,mitchell,experiments,extractor,herbstman,radiotopia</itunes:keywords>
+			<itunes:subtitle><![CDATA[The sounds we make don't just fade away; they're embedded in the wood around us. Performed by Ed Herbstman, Kevin Cragg, Annemarie Cullen, Dennis Pacheco, and Rebecca Robles, with Melanie Hoopes, Bea Herbstman, Alex Marino, and Kerry Kastin. Music...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Extractor.mp3" fileSize="27156852" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-extractor</feedburner:origLink></item>
+		<item>
+			<title>Eat Cake</title>
+			<pubDate>Thu, 13 Feb 2014 22:54:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a2794a3a19bc21d960c51c6496d07e24]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/MZGkCYgo13c/eat-cake-1</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/b/5/2/fb524ad0d988da3e/truth_logo_7.jpg" />
+			<description>&lt;p&gt;If you've ever been alone on Valentine's Day, this story is for you. It's performed by Eliza Skinner, Birch Harms, and Curtis Gwinn, who improvised all of the dialogue. It was originally produced in 2009 for Weekend Amercia, Hillary Frank was the editor, and it was produced by Jonathan Mitchell. Keep listening past the credits to hear a special treat.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/MZGkCYgo13c" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="19504419" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Eat_Cake__Special_Treat.mp3" />
+			<itunes:duration>13:20</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,drama,curtis,eat,loneliness,day,truth,eliza,cake,valentines,skinner,birch,harms,gwinn,prx,radiotopia</itunes:keywords>
+			<itunes:subtitle><![CDATA[If you've ever been alone on Valentine's Day, this story is for you. It's performed by Eliza Skinner, Birch Harms, and Curtis Gwinn, who improvised all of the dialogue. It was originally produced in 2009 for Weekend Amercia, Hillary Frank was the...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Eat_Cake__Special_Treat.mp3" fileSize="19504419" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/eat-cake-1</feedburner:origLink></item>
+		<item>
+			<title>It's Your Funeral (part 2)</title>
+			<pubDate>Fri, 07 Feb 2014 02:15:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6c1072b26883a2d700172419515d4f8e]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/REC3TJi_qU8/it-s-your-funeral-part-2</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/5/0/0/a500c51060bda9f4/truth_logo_7.jpg" />
+			<description>&lt;p&gt;Live the death you've always wanted. This is part 2 of a two-part story. Performed by Andy Moskowitz, Ben Jones, Amy Warren, Jackie Hoffman, Blanche Ames, and Damon Ketron. Written by David Wilcox, inspired by a segment from his podcast A Twilight World of Ultimate Smoothness. Produced and directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/REC3TJi_qU8" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="23771218" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Its_Your_Funeral_part_2.mp3" />
+			<itunes:duration>16:17</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>the,ben,radio,audio,david,drama,jones,andy,your,amy,truth,jonathan,jackie,its,damon,warren,wilcox,hoffman,mitchell,funeral,moskowitz,radiotopia,ketron</itunes:keywords>
+			<itunes:subtitle><![CDATA[Live the death you've always wanted. This is part 2 of a two-part story. Performed by Andy Moskowitz, Ben Jones, Amy Warren, Jackie Hoffman, Blanche Ames, and Damon Ketron. Written by David Wilcox, inspired by a segment from his podcast A Twilight...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Its_Your_Funeral_part_2.mp3" fileSize="23771218" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/it-s-your-funeral-part-2</feedburner:origLink></item>
+		<item>
+			<title>It's Your Funeral (part 1)</title>
+			<pubDate>Fri, 24 Jan 2014 20:38:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7a49541b34a41b67bad6c066612ebf94]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/7TDOPxg_BHc/it-s-your-funeral-part-1</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/6/1/5/f615ddb63d1d23c8/icon_final.jpg" />
+			<description>&lt;p&gt;Live the death you've always wanted. Performed by Andy Moskowitz, Jackie Hoffman, Ben Jones, Damon Ketron, Phoebe Tyres, Shacottha Fields, Blanche Ames, and Rebecca Robles. Written by David Wilcox. Produced and directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/7TDOPxg_BHc" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="23293297" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Its_Your_Funeral_part_1.mp3" />
+			<itunes:duration>15:58</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>fantasy,death,the,ben,radio,audio,david,drama,jones,suicide,andy,your,ames,truth,jonathan,jackie,its,damon,rebecca,wilcox,hoffman,mitchell,fields,funeral,blanche,robles,phoebe,tyres,moskowitz,shacottha,ketron</itunes:keywords>
+			<itunes:subtitle><![CDATA[Live the death you've always wanted. Performed by Andy Moskowitz, Jackie Hoffman, Ben Jones, Damon Ketron, Phoebe Tyres, Shacottha Fields, Blanche Ames, and Rebecca Robles. Written by David Wilcox. Produced and directed by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Its_Your_Funeral_part_1.mp3" fileSize="23293297" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/it-s-your-funeral-part-1</feedburner:origLink></item>
+		<item>
+			<title>Biological Clock</title>
+			<pubDate>Sat, 21 Dec 2013 03:12:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[171ab8a14aed338ddd0b943f26ff2817]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/U-nxl8iY7bU/biological-clock</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/b/0/3/2b03a7ca2e8e0bf9/icon2.jpg" />
+			<description>&lt;p&gt;Adam and Allie would do anything to have a baby. Performed by Tami Sagher, Ed Herbstman, Louis Kornfeld, and Kerry Kastin. Written by Ira Gamerman. Produced and directed by Jonathan Mitchell. &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/U-nxl8iY7bU" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="21232575" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Biological_Clock.mp3" />
+			<itunes:duration>15:31</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>time,the,travel,radio,audio,drama,ed,baby,kerry,truth,jonathan,ira,louis,mitchell,fertility,tami,herbstman,kornfeld,sagher,kastin,gamerman</itunes:keywords>
+			<itunes:subtitle><![CDATA[Adam and Allie would do anything to have a baby. Performed by Tami Sagher, Ed Herbstman, Louis Kornfeld, and Kerry Kastin. Written by Ira Gamerman. Produced and directed by Jonathan Mitchell. ]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Biological_Clock.mp3" fileSize="21232575" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/biological-clock</feedburner:origLink></item>
+		<item>
+			<title>Naomi's World</title>
+			<pubDate>Tue, 10 Dec 2013 00:40:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b43bcfd54a9d9cc02e6ad639996d00bb]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/uwFt66jF75I/naomi-s-world</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/d/5/8/9d58e373ebc5a9da/icon.jpg" />
+			<description>&lt;p&gt;A trip to the museum takes a surreal turn. Performed by Isabel Frohnhofer, Tom Ligon, Elana Fishbein, Imran Chowdhury, Laura Parker, Philipp Goedicke, Dennis Pacheco, Blanche Ames, Ron Palais, Willy Appelman, Andrew Yurman-Glaser, and Phoebe Tyers. Written by Elana Fishbein, produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/uwFt66jF75I" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="16871474" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Naomis_World.mp3" />
+			<itunes:duration>11:01</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,drama,world,tom,andrew,truth,jonathan,isabel,mitchell,elana,wyeth,fishbein,ligon,naomis,christinas,frohnhofer</itunes:keywords>
+			<itunes:subtitle><![CDATA[A trip to the museum takes a surreal turn. Performed by Isabel Frohnhofer, Tom Ligon, Elana Fishbein, Imran Chowdhury, Laura Parker, Philipp Goedicke, Dennis Pacheco, Blanche Ames, Ron Palais, Willy Appelman, Andrew Yurman-Glaser, and Phoebe Tyers....]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Naomis_World.mp3" fileSize="16871474" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/naomi-s-world</feedburner:origLink></item>
+		<item>
+			<title>The Devil You Know</title>
+			<pubDate>Thu, 24 Oct 2013 23:11:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ecf0a20c501cd1eddf20c57dc4f0b80e]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/GQ42atwS6Mg/the-devil-you-know</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/e/3/1/7e31fab541a62d95/american-flag_orange.jpg" />
+			<description>&lt;p&gt;A collection of horror stories that take place in the world of electoral politics. This one-hour special was produced in 2012 for broadcast on public radio, and made possible by the generous support of the Public Radio Exchange (prx.org) and SoundCloud.com, with editorial support provided by American Public Media. &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/GQ42atwS6Mg" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="78009668" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Devil_You_Know.mp3" />
+			<itunes:duration>54:09</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>fiction,the,radio,edgar,audio,party,horror,halloween,story,drama,media,public,storytelling,christian,american,politics,allen,ed,tom,amy,exchange,truth,peter,jonathan,third,warren,poe,louis,election,mitchell,chet,siegel,soundcloud,hillman,prx,ligon</itunes:keywords>
+			<itunes:subtitle><![CDATA[A collection of horror stories that take place in the world of electoral politics. This one-hour special was produced in 2012 for broadcast on public radio, and made possible by the generous support of the Public Radio Exchange (prx.org) and...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Devil_You_Know.mp3" fileSize="78009668" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-devil-you-know</feedburner:origLink></item>
+		<item>
+			<title>The Talk</title>
+			<pubDate>Sun, 13 Oct 2013 23:28:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ecaea6eacfb02dd55835c96cb661904b]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/3sxJXy51kdg/the-talk</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/f/9/a/df9a5a7004c0537b/the_talk_icon.jpg" />
+			<description>&lt;p&gt;A father comes to the rescue when three teenagers take things too far. Performed by Christian Paluck, Dmitry Shein, Willy Appelman, and Elana Fishbein. Written by Louis Kornfeld, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/3sxJXy51kdg" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22842965" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Talk.mp3" />
+			<itunes:duration>15:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>fiction,the,radio,drunk,audio,story,drama,sex,public,storytelling,christian,father,talk,parent,truth,jonathan,louis,rain,mitchell,willy,elana,dmitry,fishbein,paluck,kornfeld,shein,appelman</itunes:keywords>
+			<itunes:subtitle><![CDATA[A father comes to the rescue when three teenagers take things too far. Performed by Christian Paluck, Dmitry Shein, Willy Appelman, and Elana Fishbein. Written by Louis Kornfeld, and produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Talk.mp3" fileSize="22842965" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-talk</feedburner:origLink></item>
+		<item>
+			<title>The Mutiny</title>
+			<pubDate>Fri, 13 Sep 2013 00:03:46 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[337dbe6729abfec86aa0c7e17eb515fd]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/LWKIphiEEPY/the-mutiny</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/b/f/f/7bff25617848e84a/MUTINY_door.jpg" />
+			<description>&lt;p&gt;If you don't want your kids to drive you crazy, don't give them the keys. Performed by Melanie Hoopes. Asher Herbstman, and Bea Herbstman. With Blanche Ames, Ed Herbstman, Shacottha Fields, and Noel Dinneen. Written by Elana Fishbein, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/LWKIphiEEPY" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="13364107" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Mutiny.mp3" />
+			<itunes:duration>08:57</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[If you don't want your kids to drive you crazy, don't give them the keys. Performed by Melanie Hoopes. Asher Herbstman, and Bea Herbstman. With Blanche Ames, Ed Herbstman, Shacottha Fields, and Noel Dinneen. Written by Elana Fishbein, and...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Mutiny.mp3" fileSize="13364107" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-mutiny</feedburner:origLink></item>
+		<item>
+			<title>Sweets for the Cheat</title>
+			<pubDate>Thu, 29 Aug 2013 23:23:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[cf1c92cd4177161b4001d9fa41cdd060]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/CEjn3chysw8/sweets-for-the-cheat</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/9/9/4/e99442966e3f207a/Sweets_IMAGE.jpg" />
+			<description>&lt;p&gt;Two shock jocks make a big morning mess. Performed by Jon Bander, Alessandro King, Bianca Casusol, Brian Frange, and Elana Fishbein. Written by Ira Gamerman. Produced &amp; directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/CEjn3chysw8" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="17005589" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Sweets_for_the_Cheat.mp3" />
+			<itunes:duration>11:45</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,dj,prank,drama,morning,king,brian,shock,jock,deejay,phone,truth,jonathan,alessandro,jon,ira,bianca,mitchell,elana,bander,fishbein,gamerman,casusol,frange</itunes:keywords>
+			<itunes:subtitle><![CDATA[Two shock jocks make a big morning mess. Performed by Jon Bander, Alessandro King, Bianca Casusol, Brian Frange, and Elana Fishbein. Written by Ira Gamerman. Produced & directed by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Sweets_for_the_Cheat.mp3" fileSize="17005589" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/sweets-for-the-cheat</feedburner:origLink></item>
+		<item>
+			<title>Fine Dining</title>
+			<pubDate>Thu, 15 Aug 2013 23:38:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[140f60000c8078fcd8ad7fffbd63cf20]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/1ev2vjL5lyk/fine-dining</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/c/2/c/ac2c6183276d648a/fine_dining_image_2.jpg" />
+			<description>&lt;p&gt;Of all the five senses, taste is the most intimate. The art of cooking is more than just a meal; it's a dialogue spoken in that universal language beyond words. It's a communion between souls. It's an act of love.&lt;/p&gt;
+&lt;p&gt;Performed by Louis Kornfeld, Elana Fishbein, Nick Jaramillo, Tom Ligon, Kevin Cragg, Kerry Kastin, Brian Frange, Bob Kern, and Matt Evans. Written by Louis Kornfeld and The Truth. Produced and directed by Jonathan Mitchell.&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/1ev2vjL5lyk" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="36927783" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Fine_Dining.mp3" />
+			<itunes:duration>25:33</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Of all the five senses, taste is the most intimate. The art of cooking is more than just a meal; it's a dialogue spoken in that universal language beyond words. It's a communion between souls. It's an act of love.
+Performed by Louis Kornfeld, Elana...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Fine_Dining.mp3" fileSize="36927783" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/fine-dining</feedburner:origLink></item>
+		<item>
+			<title>You're Not Alone</title>
+			<pubDate>Fri, 10 May 2013 00:10:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d480fa72dfcfea2abe67223a2a6dfb2b]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/dPr28QLDOec/you-re-not-alone</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/3/c/a/83cade0fcae33b31/TheTruth_prxpicture_v3.jpg" />
+			<description>&lt;p&gt;Are you hearing voices? You're not alone. Performed by Christian Paluck, Carly Monardo, Tom Stephens, Louis Kornfeld, Jon Keller, Kerry Kastin, Nick Mykins, Aina Rapoza, and Ashley Wilson. With special musical guest Elizabeth Ziman. Written by Louis Kornfeld and developed collaboratively by The Truth, with dialogue improvised by the actors. Produced and directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/dPr28QLDOec" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="33070739" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Youre_Not_Alone.mp3" />
+			<itunes:duration>21:56</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,nick,audio,music,drama,christian,tom,elizabeth,kerry,truth,ashley,keller,jonathan,jon,wilson,schizophrenia,louis,ptsd,mitchell,hallucinations,stephens,carly,aina,paluck,kornfeld,kastin,monardo,mykins,rapoza,ziman</itunes:keywords>
+			<itunes:subtitle><![CDATA[Are you hearing voices? You're not alone. Performed by Christian Paluck, Carly Monardo, Tom Stephens, Louis Kornfeld, Jon Keller, Kerry Kastin, Nick Mykins, Aina Rapoza, and Ashley Wilson. With special musical guest Elizabeth Ziman. Written by Louis...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Youre_Not_Alone.mp3" fileSize="33070739" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/you-re-not-alone</feedburner:origLink></item>
+		<item>
+			<title>Falling</title>
+			<pubDate>Thu, 11 Apr 2013 00:20:29 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f6c0e846d1d6810b48a16a107d8a012a]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/ZYZxLaYWfWU/falling</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/3/2/7/d3270fab8340a961/ANNIE.jpg" />
+			<description>&lt;p&gt;A freak accident on a train platform leads to... romance? Performed by Chet Siegel and Peter McNerney, with Willy Appleman, Louis Kornfeld, Lauren Ashley-Smith, Sebastien Conelli, Quinton Loder, Jon Bander, and Kim Ferguson. Written by Chet Siegel and develped collaboratively by The Truth, with dialogue improvised by the actors. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/ZYZxLaYWfWU" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22793132" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Falling.mp3" />
+			<itunes:duration>15:44</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>fiction,the,radio,accident,audio,comedy,drama,romance,ed,com,truth,peter,lauren,jonathan,jon,louis,willie,ferguson,train,romantic,kim,mitchell,rom,sebastien,falling,chet,siegel,hillman,bander,loder,conelli,herbstman,kornfeld,clowney,kerrie,mcnerney</itunes:keywords>
+			<itunes:subtitle><![CDATA[A freak accident on a train platform leads to... romance? Performed by Chet Siegel and Peter McNerney, with Willy Appleman, Louis Kornfeld, Lauren Ashley-Smith, Sebastien Conelli, Quinton Loder, Jon Bander, and Kim Ferguson. Written by Chet Siegel and...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Falling.mp3" fileSize="22793132" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/falling</feedburner:origLink></item>
+		<item>
+			<title>Where Have You Been?</title>
+			<pubDate>Fri, 22 Mar 2013 23:35:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f406bc2205d1341328a7ad90ca71f053]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/VQZQfU_SQtI/where-have-you-been</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/c/d/9/dcd9c05e942a5b56/WhereHaveYouBeen_copy.jpg" />
+			<description>&lt;p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;"&gt;A prodigal daughter returns. Performed by Ed Herbstman, Ben Jones, Christian Paluck, Chet Siegel, Louis Kornfeld, Amy Warren, and Asher Herbstman. The story was developed collaboratively by The Truth, with dialogue improvised by the actors. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/VQZQfU_SQtI" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="17749952" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Where_Have_You_Been.mp3" />
+			<itunes:duration>12:17</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>the,ben,radio,audio,you,drama,have,christian,son,jones,ed,amy,truth,asher,jonathan,warren,louis,where,daughter,mitchell,prodigal,chet,been,siegel,herbstman,paluck,kornfeld</itunes:keywords>
+			<itunes:subtitle><![CDATA[A prodigal daughter returns. Performed by Ed Herbstman, Ben Jones, Christian Paluck, Chet Siegel, Louis Kornfeld, Amy Warren, and Asher Herbstman. The story was developed collaboratively by The Truth, with dialogue improvised by the actors. Produced...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Where_Have_You_Been.mp3" fileSize="17749952" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/where-have-you-been</feedburner:origLink></item>
+		<item>
+			<title>False Ending</title>
+			<pubDate>Wed, 23 Jan 2013 23:26:47 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[012722190cb47e8f791fef97c1a833fe]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/46XhXn7tqTA/false-ending</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/f/4/6/ef469d9e62ba4b97/falseending.jpg" />
+			<description>&lt;p&gt;Recorded live at NYC PodFest on January 13, 2013. Performed by Ed Herbstman, Louis Kornfeld, Chet Siegel, Christian Paluck, Kerry Kastin, Kelly Buttermore, Matt Weir, and Sebastian Conelli. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/46XhXn7tqTA" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="25678038" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/False_Ending.mp3" />
+			<itunes:duration>17:46</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,film,2,kelly,matt,movie,a,nyc,christian,ending,theory,ed,kerry,truth,jonathan,false,louis,q,mitchell,sebastian,chet,siegel,troll,weir,conelli,herbstman,paluck,kornfeld,podfest,kastin,buttermore</itunes:keywords>
+			<itunes:subtitle><![CDATA[Recorded live at NYC PodFest on January 13, 2013. Performed by Ed Herbstman, Louis Kornfeld, Chet Siegel, Christian Paluck, Kerry Kastin, Kelly Buttermore, Matt Weir, and Sebastian Conelli. Produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/False_Ending.mp3" fileSize="25678038" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/false-ending</feedburner:origLink></item>
+		<item>
+			<title>Happy New Year</title>
+			<pubDate>Thu, 10 Jan 2013 01:00:57 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9e7c3ddf0590e589094291ab98771bbd]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/oKWQ-SZMpLM/happy-new-year</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/a/8/6/7a8601da5aaf407e/new_year_3.jpg" />
+			<description>&lt;p&gt;You're cordially invited to spend New Year's Eve with Walt Avery. To attend, simply play this podcast. Performed by Ben Jones and Tom Ligon, and produced by Jonathan Mitchell. &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/oKWQ-SZMpLM" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="17821374" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Happy_New_Year.mp3" />
+			<itunes:duration>12:18</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,ben,radio,new,audio,party,drama,eve,happy,jones,year,tom,truth,jonathan,years,mitchell,ligon</itunes:keywords>
+			<itunes:subtitle><![CDATA[You're cordially invited to spend New Year's Eve with Walt Avery. To attend, simply play this podcast. Performed by Ben Jones and Tom Ligon, and produced by Jonathan Mitchell. ]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Happy_New_Year.mp3" fileSize="17821374" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/happy-new-year</feedburner:origLink></item>
+		<item>
+			<title>Mirror Lake</title>
+			<pubDate>Fri, 14 Dec 2012 03:02:10 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a9508930124d06c5e14df5100095f26b]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/AeaDk-3O53g/mirror-lake</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/a/c/1/9ac10e0abb22aaae/mirror_lake_2.jpg" />
+			<description>&lt;p&gt;A couple goes in search of childhood memories. Performed by Ed Herbstman, Lauren Ashely Smith, and Louis Kornfeld. Story by Jonathan Mitchell with dialogue improvised by the actors. Produced and directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/AeaDk-3O53g" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="21969189" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Mirror_Lake.mp3" />
+			<itunes:duration>15:15</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,winter,lake,audio,drama,mirror,ed,hockey,smith,truth,lauren,jonathan,memory,memories,louis,childhood,mitchell,ashely,herbstman,kornfeld</itunes:keywords>
+			<itunes:subtitle><![CDATA[A couple goes in search of childhood memories. Performed by Ed Herbstman, Lauren Ashely Smith, and Louis Kornfeld. Story by Jonathan Mitchell with dialogue improvised by the actors. Produced and directed by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Mirror_Lake.mp3" fileSize="21969189" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/mirror-lake</feedburner:origLink></item>
+		<item>
+			<title>Interruptible</title>
+			<pubDate>Thu, 29 Nov 2012 00:03:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b2165f06aac99fb079d87abbcbdbab60]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/LUUTsRkf3C0/interruptible-1</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/a/a/3/5aa38c2afd4a6d73/taxi_icon_v1.jpg" />
+			<description>&lt;p&gt;This is a re-edited version of a previoulsy released story. A taxi driver is working on his anniversary, and gets more than he expected when he picks up a couple in Lower Manhattan. Featuring: Christian Paluck as The Driver, Chet Siegel as Mary, Louis Kornfeld as Frank, and Amy Warren as Morgan. With Ed Herbstman, Melanie Hoopes, Charlotte Rabbe, and Jamie Rivera. Written collaboratively by The Truth, with dialogue improvised by the actors. Produced and directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/LUUTsRkf3C0" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="25697311" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Interruptible_re-edit.mp3" />
+			<itunes:duration>17:49</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,drama,relationship,christian,talk,ed,relationships,charlotte,coaching,amy,truth,jonathan,jamie,warren,taxi,louis,melanie,mitchell,rivera,chet,siegel,herbstman,interruptible,paluck,kornfeld,hoopes,eavsdropping,rabbe</itunes:keywords>
+			<itunes:subtitle><![CDATA[This is a re-edited version of a previoulsy released story. A taxi driver is working on his anniversary, and gets more than he expected when he picks up a couple in Lower Manhattan. Featuring: Christian Paluck as The Driver, Chet Siegel as Mary, Louis...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Interruptible_re-edit.mp3" fileSize="25697311" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/interruptible-1</feedburner:origLink></item>
+		<item>
+			<title>In Good Hands</title>
+			<pubDate>Thu, 15 Nov 2012 00:16:24 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fc0abdd60ea896d72f4e1a293a1fdcca]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/iKbzkgVgYbY/in-good-hands</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/9/a/8/e9a81a0921f5a78b/In_Good_Hands_1.jpg" />
+			<description>&lt;p&gt;Two urban explorers enter an abandoned subway. What happens next is our secret. This is the complete version of a story that was previously only available in two parts.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/iKbzkgVgYbY" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="34501022" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/In_Good_Hands.mp3" />
+			<itunes:duration>23:47</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,ben,radio,good,audio,alex,urban,in,drama,christian,emily,jones,ed,amy,truth,jonathan,hands,warren,louis,marino,mitchell,explorers,subway,apm,tarver,herbstman,paluck,kornfeld</itunes:keywords>
+			<itunes:subtitle><![CDATA[Two urban explorers enter an abandoned subway. What happens next is our secret. This is the complete version of a story that was previously only available in two parts.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/In_Good_Hands.mp3" fileSize="34501022" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/in-good-hands</feedburner:origLink></item>
+		<item>
+			<title>The Modern Prometheus</title>
+			<pubDate>Fri, 02 Nov 2012 18:29:17 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9a60f9a18dc473d7197572ef01ddba41]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/0cCa3jhNcVo/the-modern-prometheus</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/3/c/2/53c2f44513014c13/modern_prometheus.jpg" />
+			<description>&lt;p&gt;What happens when a corporation becomes a person? In this satire by Tony Award-winning playwright Greg Kotis, we follow a company called Geneva Mutual that becomes a sentient being. Performed by Louis Kornfeld, Rachel Hamilton, Tom Ligon, Chet Siegel, Amy Warren, Ed Herbstman, Christian Paluck, and Rupert Degas. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/0cCa3jhNcVo" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="23677845" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Modern_Prometheus.mp3" />
+			<itunes:duration>16:23</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,horror,drama,satire,christian,intelligence,politics,greg,political,ed,tom,healthcare,rachel,amy,truth,corporate,jonathan,hamilton,artificial,warren,louis,mitchell,rupert,chet,siegel,obamacare,degas,ligon,herbstman,paluck,kornfeld,kotis</itunes:keywords>
+			<itunes:subtitle><![CDATA[What happens when a corporation becomes a person? In this satire by Tony Award-winning playwright Greg Kotis, we follow a company called Geneva Mutual that becomes a sentient being. Performed by Louis Kornfeld, Rachel Hamilton, Tom Ligon, Chet Siegel,...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Modern_Prometheus.mp3" fileSize="23677845" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-modern-prometheus</feedburner:origLink></item>
+		<item>
+			<title>The Death of Poe</title>
+			<pubDate>Thu, 18 Oct 2012 00:33:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[082c3d0e2fa1a8c8a8eded1b9b9f1737]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/piqYn-VOxvc/the-death-of-poe</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/7/b/2/97b293e3e9f55f28/edgar-allan-poe_square.jpg" />
+			<description>&lt;p&gt;This story was inspired by a submission from listener Mathew Mercier, for our Halloween/Election crowd-sourcing experiment. It's based on his experience as caretaker of the Edgar Allan Poe estate, and imagines what Poe's last living hours may have been like. Performed by Christian Paluck, Ed Herbstman, Chet Siegel, and Louis Kornfeld. Produced &amp; directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/piqYn-VOxvc" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="21250020" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Death_of_Poe.mp3" />
+			<itunes:duration>14:43</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This story was inspired by a submission from listener Mathew Mercier, for our Halloween/Election crowd-sourcing experiment. It's based on his experience as caretaker of the Edgar Allan Poe estate, and imagines what Poe's last living hours may have...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/The_Death_of_Poe.mp3" fileSize="21250020" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/the-death-of-poe</feedburner:origLink></item>
+		<item>
+			<title>Do You Have a Minute for Equality?</title>
+			<pubDate>Thu, 04 Oct 2012 00:15:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3f0af83ff63bc59cb3aa21c3e6229be7]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/rkftMl3fKeM/do-you-have-a-minute-for-equality</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/6/7/c/c67c2d458ac8ce90/flag_smile.jpg" />
+			<description>&lt;p&gt;A canvasser gets the donation she needs, but it will cost her... Performed by Chet Siegel and Tom Ligon, with Matt J. Weir, Quentin Loder, and Melanie Hoopes. From an outline by Chet Siegel. Produced &amp; Directed by Jonathan Mitchell, with sound design help from Brendan Baker.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/rkftMl3fKeM" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22478654" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Do_You_Have_a_Minute_for_Equality_.mp3" />
+			<itunes:duration>15:36</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,matt,tom,dental,dentist,smile,truth,j,chet,siegel,aclu,logon,weir,canvassing</itunes:keywords>
+			<itunes:subtitle><![CDATA[A canvasser gets the donation she needs, but it will cost her... Performed by Chet Siegel and Tom Ligon, with Matt J. Weir, Quentin Loder, and Melanie Hoopes. From an outline by Chet Siegel. Produced & Directed by Jonathan Mitchell, with sound...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Do_You_Have_a_Minute_for_Equality_.mp3" fileSize="22478654" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/do-you-have-a-minute-for-equality</feedburner:origLink></item>
+		<item>
+			<title>Domestic Violins</title>
+			<pubDate>Thu, 20 Sep 2012 01:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[49921d013a8d223262069ee20ae2857c]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/su4hDL1X-c0/domestic-violins</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/0/9/c/509c2662b935c577/domestic_violins.jpg" />
+			<description>&lt;p&gt;Produced at the Australian Broadcasting Corporation's Radio Beyond Radio conference, featuring performances by Amie McKenna, Michele Durman, Michael Whalley, and Martin Dingle Wall. Produced by Ed Herbstman and Jonathan Mitchell.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/su4hDL1X-c0" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22407649" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Domestic_Violins.mp3" />
+			<itunes:duration>15:31</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,michael,abc,australian,broadcasting,martin,ed,corporation,truth,wall,audition,jonathan,violin,michele,mitchell,dingle,mckenna,amie,herbstman,durman,whalley</itunes:keywords>
+			<itunes:subtitle><![CDATA[Produced at the Australian Broadcasting Corporation's Radio Beyond Radio conference, featuring performances by Amie McKenna, Michele Durman, Michael Whalley, and Martin Dingle Wall. Produced by Ed Herbstman and Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Domestic_Violins.mp3" fileSize="22407649" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/domestic-violins</feedburner:origLink></item>
+		<item>
+			<title>That's Democracy</title>
+			<pubDate>Wed, 05 Sep 2012 22:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0a405c664997deac9561f8d1515763c3]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/r7L4-XY1pCk/that-s-democracy</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/0/9/b/509b85173a0168ea/civics_class_5.jpg" />
+			<description>&lt;p&gt;A teacher gives his students lesson about democracy that they'll never forget. Performed by Peter McNerney as Mr. Mohr, Russ Armstrong as Eric, and Alexis Lambright as Margaret, with  Fiona Bradford, Teddy Shivers, Oscar Montoya, and Ben Jones as the principal. From an outline by Louis Kornfeld. Produced &amp; directed by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/r7L4-XY1pCk" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="17971401" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Thats_Democracy_revised.mp3" />
+			<itunes:duration>12:27</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,ben,radio,school,audio,horror,drama,high,politics,jones,armstrong,teacher,oscar,truth,peter,jonathan,russ,louis,fiona,alexis,election,teddy,democracy,bradford,mitchell,montoya,shivers,kornfeld,mcnerney,lambright</itunes:keywords>
+			<itunes:subtitle><![CDATA[A teacher gives his students lesson about democracy that they'll never forget. Performed by Peter McNerney as Mr. Mohr, Russ Armstrong as Eric, and Alexis Lambright as Margaret, with  Fiona Bradford, Teddy Shivers, Oscar Montoya, and Ben Jones as...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Thats_Democracy_revised.mp3" fileSize="17971401" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/that-s-democracy</feedburner:origLink></item>
+		<item>
+			<title>Third Party</title>
+			<pubDate>Thu, 09 Aug 2012 23:39:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[15ba525d1daf9eee05b734de6c293b77]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/Qb4w9pvpa1o/third-party</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/0/1/5/4015350ce7624d57/third_party_1.jpg" />
+			<description>&lt;p&gt;Mike Coleman is an independent candidate running for Congress, and he's finally getting some attention... from a serial killer. Performed by Ed Herbstman, Chet Siegel, Rick Adrews, Nick Kanellis, Louis Kornfeld, Amy Warren, and Bryn Magnus. Written by Ed Herbstman, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/Qb4w9pvpa1o" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="37661857" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Third_Party.mp3" />
+			<itunes:duration>26:06</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>fiction,the,radio,nick,audio,party,horror,serial,thriller,drama,politics,killer,ed,amy,truth,jonathan,third,warren,louis,rick,candidate,election,mitchell,andrews,chet,bryn,magnus,siegel,kanellis,herbstman,kornfeld</itunes:keywords>
+			<itunes:subtitle><![CDATA[Mike Coleman is an independent candidate running for Congress, and he's finally getting some attention... from a serial killer. Performed by Ed Herbstman, Chet Siegel, Rick Adrews, Nick Kanellis, Louis Kornfeld, Amy Warren,...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Third_Party.mp3" fileSize="37661857" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/third-party</feedburner:origLink></item>
+		<item>
+			<title>Lucy and the Bike Girl</title>
+			<pubDate>Thu, 26 Jul 2012 03:31:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[949d925826ca37b8fbf359f4a5577c50]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/4nPDNCDnlvk/lucy-and-the-bike-girl</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/0/a/bf0a356c7a28bc36/TheTruth_prxpicture_v3.jpg" />
+			<description>&lt;p&gt;This is a short story written and produced by Hillary Frank, made by combining fictional narration with real interview tape. It was edited by Julie Snyder, and orginally aired on This American Life.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/4nPDNCDnlvk" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="19042247" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Lucy_and_the_Bike_Girl.mp3" />
+			<itunes:duration>13:11</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>fiction,the,radio,frank,audio,life,drama,this,american,hillary,truth,jonathan,snyder,julie,mitchell</itunes:keywords>
+			<itunes:subtitle><![CDATA[This is a short story written and produced by Hillary Frank, made by combining fictional narration with real interview tape. It was edited by Julie Snyder, and orginally aired on This American Life.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Lucy_and_the_Bike_Girl.mp3" fileSize="19042247" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/lucy-and-the-bike-girl</feedburner:origLink></item>
+		<item>
+			<title>In Good Hands (part 2)</title>
+			<pubDate>Thu, 12 Jul 2012 13:42:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f4cec43ad202da69e4b92ab6230fd6a3]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/uYZmcQsHTuI/in-good-hands-part-2</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/c/a/bfca01f4087f1012/In_Good_Hands_1.jpg" />
+			<description>&lt;p&gt;Our story about two urban explorers concludes, when they are helped by a group of very eccentric people. Performed by Emily Tarver, Alex Marino, Louis Kornfeld, Christian Paluck, Ed Herbstman, Amy Warren, and Ben Jones. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/uYZmcQsHTuI" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="20524062" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/In_Good_Hands_part_2_-_Audible.mp3" />
+			<itunes:duration>14:05</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,ben,radio,good,audio,alex,urban,in,drama,christian,emily,jones,ed,amy,truth,jonathan,hands,warren,louis,marino,mitchell,explorers,subway,apm,tarver,herbstman,paluck,kornfeld</itunes:keywords>
+			<itunes:subtitle><![CDATA[Our story about two urban explorers concludes, when they are helped by a group of very eccentric people. Performed by Emily Tarver, Alex Marino, Louis Kornfeld, Christian Paluck, Ed Herbstman, Amy Warren, and Ben Jones. Produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/In_Good_Hands_part_2_-_Audible.mp3" fileSize="20524062" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/in-good-hands-part-2</feedburner:origLink></item>
+		<item>
+			<title>Human Intelligence</title>
+			<pubDate>Wed, 20 Jun 2012 22:22:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3d2f618894cd0777e7db043c8b512cdd]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/CTbNQUQYx10/human-intelligence</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/5/2/8/d5281c4d7b0366d5/Picture_1.png" />
+			<description>&lt;p&gt;Written by Kurt Andersen, this story was originally heard on PRI's Studio 360. Narrated by Ed Herbstman, with John Ottavino as Nicholas, and Melanie Hoopes as Nancy. The story editor was David Krasnow. Produced and directed by Jonathan Mitchell. The unabridged version was published in &lt;em&gt;Stories: All New Tales&lt;/em&gt;, an anthology edited by Neil Gaiman and Al Sarrantonio.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/CTbNQUQYx10" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="34013258" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Human_Intelligence.mp3" />
+			<itunes:duration>23:36</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,john,radio,audio,literature,david,drama,north,alien,360,global,warming,pole,ed,al,christmas,neil,studio,truth,santa,jonathan,extraterrestrial,gaiman,andersen,kurt,melanie,mitchell,claus,krasnow,sarrantonio,herbstman,ottavino,hoopes</itunes:keywords>
+			<itunes:subtitle><![CDATA[Written by Kurt Andersen, this story was originally heard on PRI's Studio 360. Narrated by Ed Herbstman, with John Ottavino as Nicholas, and Melanie Hoopes as Nancy. The story editor was David Krasnow. Produced and directed by Jonathan...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Human_Intelligence.mp3" fileSize="34013258" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/human-intelligence</feedburner:origLink></item>
+		<item>
+			<title>In Good Hands (part 1)</title>
+			<pubDate>Thu, 07 Jun 2012 00:17:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[427d95bcc661853fc31581b11f737087]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/3LZfjfxMH4Y/in-good-hands-part-1</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/1/2/6/1126dcf9b0e1956a/In_Good_Hands_1.jpg" />
+			<description>&lt;p&gt;A pair of urban explorers goes underground, in the first part of a continuing story. Starring Emily Tarver, Alex Marino, Louis Kornfeld, Ed Herbstman, Christian Paluck, and Amy Warren. Produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/3LZfjfxMH4Y" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="17857683" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/In_Good_Hands_part_1.mp3" />
+			<itunes:duration>12:14</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,alex,horror,urban,drama,exploration,christian,emily,ed,amy,truth,jonathan,warren,explorer,louis,marino,mitchell,tarver,herbstman,paluck,kornfeld</itunes:keywords>
+			<itunes:subtitle><![CDATA[A pair of urban explorers goes underground, in the first part of a continuing story. Starring Emily Tarver, Alex Marino, Louis Kornfeld, Ed Herbstman, Christian Paluck, and Amy Warren. Produced by Jonathan Mitchell.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/In_Good_Hands_part_1.mp3" fileSize="17857683" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/in-good-hands-part-1</feedburner:origLink></item>
+		<item>
+			<title>Total Transparency &amp; Eye Contact</title>
+			<pubDate>Thu, 24 May 2012 00:06:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[78ff5654fa9275d8e5c6ce1392d46be4]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/LDTgqxUM_TQ/total-transparency-eye-contact</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/f/8/1/8f818408f1347bf4/eyecontact.jpg" />
+			<description>&lt;p&gt;Two different approaches to making stories that combine improvisation with the recording studio. Total Transparency is a brand new piece, it was completely improvised and recorded in one take, and then edited. It was made up on the spot by Chet Siegel, Ed Herbstman, and Louis Kornfeld. Eye Contact was made using lots of different people telling the same story, that was edited into a fractured monologue. It originally aired in 2006 on Weekend America. &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/LDTgqxUM_TQ" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="19456973" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Total_Transparency__Eye_Contact.mp3" />
+			<itunes:duration>13:24</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,drama,rogers,carl,media,public,american,ed,contact,truth,transparency,eye,jonathan,louis,total,mitchell,chet,subway,apm,siegel,preschool,herbstman,kornfeld</itunes:keywords>
+			<itunes:subtitle><![CDATA[Two different approaches to making stories that combine improvisation with the recording studio. Total Transparency is a brand new piece, it was completely improvised and recorded in one take, and then edited. It was made up on the spot by Chet...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Total_Transparency__Eye_Contact.mp3" fileSize="19456973" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/total-transparency-eye-contact</feedburner:origLink></item>
+		<item>
+			<title>People Beat</title>
+			<pubDate>Wed, 09 May 2012 20:22:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f7397440ab41ad0a4cd351bc6ba3850e]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/Lq9DgvZ9HQA/people-beat</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/f/c/4/2fc4a0b8917a121e/people_beat.jpg" />
+			<description>&lt;p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 15.0px Helvetica;"&gt;High school sophomore Samantha O'Connell has just won a math award, and Gary Vosot is on the story. Performed by India Kotis, Matt Evans, Melanie Hoopes, Carmen Berkeley, Matt J. Weir, Bryn Magnus, Christian Paluck, Ed Herbstman, and Amy Warren. With Tim Dadabo was the announcer, and Louis Kornfeld, Chet Siegel, Leanne Linsky, Jon Bander, and Kelly Moylan as the party guests. Produced by Jonathan Mitchell, with help from Kerrie Hillman and Peter Clowney. The story was written collaboratively by The Truth, and it was inspired by the Gary Vosot character, created by Matt Evans. &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/Lq9DgvZ9HQA" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="17785047" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/People_Beat.mp3" />
+			<itunes:duration>12:18</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,news,gary,evans,matt,audio,television,drama,teen,local,christian,ed,berkeley,india,amy,truth,j,beat,jonathan,people,warren,carmen,melanie,mitchell,bryn,magnus,apm,weir,herbstman,paluck,hoopes,vosot,kotis</itunes:keywords>
+			<itunes:subtitle><![CDATA[High school sophomore Samantha O'Connell has just won a math award, and Gary Vosot is on the story. Performed by India Kotis, Matt Evans, Melanie Hoopes, Carmen Berkeley, Matt J. Weir, Bryn Magnus, Christian Paluck, Ed Herbstman, and Amy Warren....]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/People_Beat.mp3" fileSize="17785047" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/people-beat</feedburner:origLink></item>
+		<item>
+			<title>Tape Delay</title>
+			<pubDate>Wed, 25 Apr 2012 19:52:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e95919de4fb0a3558c9b7995cd01dcac]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/2iYACWUJOws/tape-delay</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/f/5/9/ff594a4970a350f6/TapeDelay_Image_8.jpg" />
+			<description>&lt;p&gt;The recording doesn't lie. Performed by Ed Herbstman &amp; Tami Sagher, with Libby Geroge &amp; Christian Paluck. Produced by Jonathan Mitchell, written by Jonathan Mitchell, Ed Herbstman, &amp; Melanie Hoopes. Originally produced for This American Life. Production advisors: Peter Clowney &amp; Kerrie Hillman. Special thanks: Ira Glass, Lisa Pollack, Jonathan Menjivar, and Chris Bannon. Recorded at WNYC, KCRW, Magnet Theater, and on location in New York City. &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/2iYACWUJOws" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="24041831" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Tape_Delay.mp3" />
+			<itunes:duration>16:24</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,radio,audio,life,drama,this,george,christian,american,ed,truth,peter,jonathan,ira,glass,tape,mitchell,delay,libby,hillman,tami,herbstman,paluck,sagher,clowney,kerrie</itunes:keywords>
+			<itunes:subtitle><![CDATA[The recording doesn't lie. Performed by Ed Herbstman & Tami Sagher, with Libby Geroge & Christian Paluck. Produced by Jonathan Mitchell, written by Jonathan Mitchell, Ed Herbstman, & Melanie Hoopes. Originally produced for This American...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Tape_Delay.mp3" fileSize="24041831" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/tape-delay</feedburner:origLink></item>
+		<item>
+			<title>Everybody SCREAM!!!</title>
+			<pubDate>Wed, 11 Apr 2012 22:50:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f69aa9c601b97f5943d624a968c9eb75]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/91NOM8yhvEc/everybody-scream-</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/3/8/8/b388ae46713d9d5c/spin_ball_5.jpg" />
+			<description>&lt;p&gt;Spin class gets personal. Performed by Chet Siegel, Emily Tarver, and Ed Herbstman. Produced by Jonathan Mitchell, written by Chet Siegel &amp; The Truth.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/91NOM8yhvEc" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="15467997" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Everybody_SCREAM.mp3" />
+			<itunes:duration>10:33</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>radio,gym,audio,exercise,drama,emily,ed,bike,spin,truth,jonathan,mitchell,chet,apm,siegel,tarver,herbstman</itunes:keywords>
+			<itunes:subtitle><![CDATA[Spin class gets personal. Performed by Chet Siegel, Emily Tarver, and Ed Herbstman. Produced by Jonathan Mitchell, written by Chet Siegel & The Truth.]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Everybody_SCREAM.mp3" fileSize="15467997" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/everybody-scream-</feedburner:origLink></item>
+		<item>
+			<title>They're Made Out of Meat</title>
+			<pubDate>Tue, 20 Mar 2012 12:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3f7f114f5e966f196414740c66839448]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/DdHaRq4oqRY/they-re-made-out-of-meat</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/1/6/6/e166a2eb3141fca7/TheTruth_prxpicture_v3.jpg" />
+			<description>&lt;p&gt;Terry Bisson's classic short story "They're Made Out of Meat" originally appeared in Omni Magazine in 1991, and our audio version was produced for WNYC's Studio 360 in November 2011. We've re-mixed the story especially for this podcast, and it's followed by an interview with Bisson himself. The story was performed by Russ Armstrong &amp; Miriam Tolan, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/DdHaRq4oqRY" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="25495170" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Theyre_Made_Out_of_Meat.mp3" />
+			<itunes:duration>17:39</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>fiction,radio,audio,drama,terry,armstrong,truth,jonathan,russ,meat,mitchell,miriam,apm,bisson,tolan</itunes:keywords>
+			<itunes:subtitle><![CDATA[Terry Bisson's classic short story "They're Made Out of Meat" originally appeared in Omni Magazine in 1991, and our audio version was produced for WNYC's Studio 360 in November 2011. We've re-mixed the story especially for this podcast, and it's...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Theyre_Made_Out_of_Meat.mp3" fileSize="25495170" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/they-re-made-out-of-meat</feedburner:origLink></item>
+		<item>
+			<title>Interruptible</title>
+			<pubDate>Tue, 06 Mar 2012 21:22:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[27d00b5406428d663eb7a3e0665c0b4b]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/a4Vc9nIKXXU/interruptible</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/c/b/8/ccb8fc9d8bbc9159/taxi_icon_v1.jpg" />
+			<description>&lt;p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;"&gt;A taxi driver is working on his anniversary, and gets more than he expected when he picks up a couple in Lower Manhattan. Featuring: Christian Paluck as The Driver, Chet Siegel as Mary, Louis Kornfeld as Frank, and Amy Warren as Morgan. With Ed Herbstman, Melanie Hoopes, Charlotte Rabbe, and Jamie Rivera. Written by The Truth, and produced by Jonathan Mitchell.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/a4Vc9nIKXXU" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="25881598" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Interruptible.mp3" />
+			<itunes:duration>17:53</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>radio,audio,drama,christian,ed,amy,truth,jonathan,warren,taxi,louis,melanie,mitchell,chet,apm,siegel,herbstman,interruptible,relaionship,paluck,kornfeld,hoopes</itunes:keywords>
+			<itunes:subtitle><![CDATA[A taxi driver is working on his anniversary, and gets more than he expected when he picks up a couple in Lower Manhattan. Featuring: Christian Paluck as The Driver, Chet Siegel as Mary, Louis Kornfeld as Frank, and Amy Warren as Morgan. With Ed...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Interruptible.mp3" fileSize="25881598" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/interruptible</feedburner:origLink></item>
+		<item>
+			<title>Movie Mash-Ups</title>
+			<pubDate>Wed, 22 Feb 2012 15:10:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a91e5098deff5261656b4a5a8d627016]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/DRXjszjqeHY/movie-mash-ups</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/9/0/7/a907bca6c43675af/terminallyblonde.jpg" />
+			<description>&lt;p&gt;&lt;/p&gt;
+&lt;p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;"&gt;As we finish up some new stories for the podcast, here's a selection of three short pieces from the archives. These pieces are a little different than the stories we normally present on The Truth. They were all made by taking different characters from different movies or tv shows, and editing them together so it sounds like they're talking to one another. Included in this podcast: Terminally Blonde (2003), Sopranos in the West Wing (2004), and Buster and Spongebob in Love (2005).&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/DRXjszjqeHY" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="13171417" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Movie_Mash-Ups.mp3" />
+			<itunes:duration>09:06</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>film,comedy,movie,satire,tv,west,truth,spongebob,jonathan,buster,terminator,sopranos,mashup,wing,mitchell,blonde,legally,terminally</itunes:keywords>
+			<itunes:subtitle><![CDATA[As we finish up some new stories for the podcast, here's a selection of three short pieces from the archives. These pieces are a little different than the stories we normally present on The Truth. They were all made by taking different characters from...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Movie_Mash-Ups.mp3" fileSize="13171417" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/movie-mash-ups</feedburner:origLink></item>
+		<item>
+			<title>Eat Cake</title>
+			<pubDate>Tue, 14 Feb 2012 15:09:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0d04039087a4b032ce10e567b7385742]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/LPE3c0IJVG4/eat-cake</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/5/0/7/75076d1229c6d7a0/shapeimage_2.jpg" />
+			<description>&lt;p&gt;Can coconut cake + random phone calls = love? Find out, when these two Valentine's Day traditions collide. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Produced by Jonathan Mitchell&lt;/p&gt;
+&lt;p&gt;Edited by Hillary Frank&lt;/p&gt;
+&lt;p&gt;Performed by Eliza Skinner, Birch Harms, and Curtis Gwinn &lt;/p&gt;
+&lt;p&gt;Additional voices: Pat Etchill, Jennifer Geller, Hillary Frank, and Jonathan Mitchell&lt;/p&gt;
+&lt;p&gt;Music by Jonathan Mitchell&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/LPE3c0IJVG4" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="15828046" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Eat_Cake.mp3" />
+			<itunes:duration>10:46</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>radio,drama,curtis,truth,valentine,jonathan,eliza,skinner,mitchell,birch,apm,harms,gwinn</itunes:keywords>
+			<itunes:subtitle><![CDATA[Can coconut cake + random phone calls = love? Find out, when these two Valentine's Day traditions collide. 
+
+Produced by Jonathan Mitchell
+Edited by Hillary Frank
+Performed by Eliza Skinner, Birch Harms, and Curtis Gwinn 
+Additional voices: Pat...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Eat_Cake.mp3" fileSize="15828046" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/eat-cake</feedburner:origLink></item>
+		<item>
+			<title>Moon Graffiti</title>
+			<pubDate>Sat, 11 Feb 2012 14:49:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0670498a51cd7e67dce8b4e8a9855d0e]]></guid>
+			<link>http://feedproxy.google.com/~r/thetruthapm/~3/qkyyD7jni68/moon-graffiti</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/5/2/8/552883f103ab3d0a/MoonGrafitti_prx_image_v6.jpg" />
+			<description>&lt;p&gt;Episode #1: Moon Graffiti. In our pilot episode, we imagine what may have happened if the Apollo 11 mission ended in tragedy. Featuring performances by Matt Evans, Ed Herbsman, and John Ottavino. Inspired by a real contingency speech written in 1969 by William Safire for Richard Nixon titled “In Event of Moon Disaster."&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/thetruthapm/~4/qkyyD7jni68" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="22210205" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Moon_Graffiti.mp3" />
+			<itunes:duration>15:23</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>john,william,radio,frank,evans,matt,audio,drama,buzz,alternate,history,media,public,american,richard,ed,nixon,armstrong,hillary,neil,apollo,jonathan,11,mitchell,safire,1969,aldrin,herbstman,ottavino</itunes:keywords>
+			<itunes:subtitle><![CDATA[Episode #1: Moon Graffiti. In our pilot episode, we imagine what may have happened if the Apollo 11 mission ended in tragedy. Featuring performances by Matt Evans, Ed Herbsman, and John Ottavino. Inspired by a real contingency speech written in 1969...]]></itunes:subtitle>
+					<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Mitchell</dc:creator><media:content url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thetruthapm/Moon_Graffiti.mp3" fileSize="22210205" type="audio/mpeg" /><feedburner:origLink>http://thetruthapm.libsyn.com/moon-graffiti</feedburner:origLink></item>
+	<media:credit role="author">Jonathan Mitchell</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Movies without pictures.</media:description></channel>
+</rss>

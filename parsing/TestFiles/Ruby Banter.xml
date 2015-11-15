@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby Banter</title>
+    <link>http://media.fngtps.com/rubybanter/</link>
+    <atom:link href="http://media.fngtps.com/rubybanter/feed.xml" rel="self" type="application/rss+xml" />
+    <description>We’ll take you on a journey along the coast of Ruby, where we try to uncover gems between the driftwood and seaweed while we steer clear of the word ‘metaprogramming’ with great dexterity.</description>
+    <language>en</language>
+    <pubDate>Sun, 04 May 2008 11:57:41 +0200</pubDate>
+    <image>
+      <url>http://media.fngtps.com/rubybanter/icon.png</url>
+      <title>Ruby Banter</title>
+      <link>http://media.fngtps.com/rubybanter/</link>
+    </image>
+    <itunes:author>Fingertips</itunes:author>
+    <itunes:summary>We’ll take you on a journey along the coast of Ruby, where we try to uncover gems between the driftwood and seaweed while we steer clear of the word ‘metaprogramming’ with great dexterity.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://media.fngtps.com/rubybanter/icon.png"/>
+    <itunes:owner>
+      <itunes:name>Thijs van der Vossen</itunes:name>
+      <itunes:email>thijs@fngtps.com</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Technology">
+    </itunes:category>
+    <item>
+      <title>Ruby Banter #011 - Last week’s episode</title>
+      <description>Manfred answers some questions from our viewers about last week’s episode where Eloy defined a method called ‘Object’.</description>
+      <link>http://media.fngtps.com/rubybanter/2008/011/</link>
+      <pubDate>Sun, 04 May 2008 11:05:10 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2008/011/rubybanter011.m4v" length="23880036" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2008/011/rubybanter011.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>Manfred answers some questions from our viewers about last week’s episode where Eloy defined a method called ‘Object’.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3:42</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #010 - Struct with defaults</title>
+      <description>Eloy shows how to set up a class with default attributes in a single line of code.</description>
+      <link>http://media.fngtps.com/rubybanter/2008/010/</link>
+      <pubDate>Tue, 29 Apr 2008 20:04:25 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2008/010/rubybanter010.m4v" length="34718917" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2008/010/rubybanter010.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>Eloy shows how to set up a class with default attributes in a single line of code.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:26</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #009 - Code and data together</title>
+      <description>In Smalltalk code and data are always kept together. In Ruby this isn’t the case. Manfred looks at a poor man’s version of keeping your data with your code.</description>
+      <link>http://media.fngtps.com/rubybanter/2008/009/</link>
+      <pubDate>Sun, 20 Apr 2008 20:04:04 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2008/009/rubybanter009.m4v" length="46939417" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2008/009/rubybanter009.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>In Smalltalk code and data are always kept together. In Ruby this isn’t the case. Manfred looks at a poor man’s version of keeping your data with your code.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>10:14</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #008 - Conditional logic with methods</title>
+      <description>Ruby has dedicated keywords like if and else to define conditional logic. Other languages, like IO, use methods for conditional execution of code. Manfred shows how you can use a class in Ruby to do something similar.</description>
+      <link>http://media.fngtps.com/rubybanter/2008/008/</link>
+      <pubDate>Mon, 10 Mar 2008 14:03:08 +0100</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2008/008/rubybanter008.m4v" length="37337166" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2008/008/rubybanter008.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>Ruby has dedicated keywords like if and else to define conditional logic. Other languages, like IO, use methods for conditional execution of code. Manfred shows how you can use a class in Ruby to do something similar.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>8:11</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #007 - Act enterprisy</title>
+      <description>Sam wonders whether Ruby and Rails are really ready for the Enterprise. In this episode Manfred answers this burning question and shows how you can make Ruby feel like Java.</description>
+      <link>http://media.fngtps.com/rubybanter/2007/007/</link>
+      <pubDate>Mon, 03 Dec 2007 09:12:40 +0100</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2007/007/rubybanter007.m4v" length="13802671" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2007/007/rubybanter007.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>Sam wonders whether Ruby and Rails are really ready for the Enterprise. In this episode Manfred answers this burning question and shows how you can make Ruby feel like Java.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3:00</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #006 - Function Composition 2.0</title>
+      <description>This episode shows some syntactic improvements on the Function Composition code we demonstrated in the first video of the series.</description>
+      <link>http://media.fngtps.com/rubybanter/2007/006/</link>
+      <pubDate>Tue, 09 Oct 2007 12:10:03 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2007/006/rubybanter006.m4v" length="25064818" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2007/006/rubybanter006.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>This episode shows some syntactic improvements on the Function Composition code we demonstrated in the first video of the series.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:25</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #005 - ===</title>
+      <description>The Case Equality, Treequal or Equaal operator, however you want to call it, allows us to match objects in a more meaningful manner than plain equality. In this episode Manfred shows how you can override the method on your own classes to do advanced matching. Please note that, although Manfred thinks he’s implementing the disjoint set of markers, he’s actually implementing the union.</description>
+      <link>http://media.fngtps.com/rubybanter/2007/005/</link>
+      <pubDate>Mon, 24 Sep 2007 22:09:08 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2007/005/rubybanter005.m4v" length="34679186" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2007/005/rubybanter005.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>The Case Equality, Treequal or Equaal operator, however you want to call it, allows us to match objects in a more meaningful manner than plain equality. In this episode Manfred shows how you can override the method on your own classes to do advanced matching. Please note that, although Manfred thinks he’s implementing the disjoint set of markers, he’s actually implementing the union.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>8:00</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #004 - Memoize</title>
+      <description>Memoization is a technique for speeding up your code by caching the results of method calls. In this episode Norbert shows a Ruby implementation of memoization and how you can use it.</description>
+      <link>http://media.fngtps.com/rubybanter/2007/004/</link>
+      <pubDate>Thu, 26 Jul 2007 11:43:00 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2007/004/rubybanter004.m4v" length="21058583" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2007/004/rubybanter004.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>Memoization is a technique for speeding up your code by caching the results of method calls. In this episode Norbert shows a Ruby implementation of memoization and how you can use it.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4:52</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #003 - &amp;:to_proc</title>
+      <description>In Ruby the &amp; character maps to the to_proc method. In this episode Manfred shows what you can do with it and how it works.</description>
+      <link>http://media.fngtps.com/rubybanter/2007/003/</link>
+      <pubDate>Thu, 05 Jul 2007 15:06:00 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2007/003/rubybanter003.m4v" length="20258021" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2007/003/rubybanter003.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>In Ruby the &amp; character maps to the to_proc method. In this episode Manfred shows what you can do with it and how it works.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4:27</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #002 - The Boat</title>
+      <description>The sort method in Ruby uses the boat operator, sometimes called ‘spaceship’, to compare object instances. In this episode Manfred shows how you can make your objects sortable by defining the boat operator.</description>
+      <link>http://media.fngtps.com/rubybanter/2007/002/</link>
+      <pubDate>Thu, 28 Jun 2007 14:04:00 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2007/002/rubybanter002.m4v" length="15992291" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2007/002/rubybanter002.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>The sort method in Ruby uses the boat operator, sometimes called ‘spaceship’, to compare object instances. In this episode Manfred shows how you can make your objects sortable by defining the boat operator.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:19</itunes:duration>
+    </item><item>
+      <title>Ruby Banter #001 - Function Composition</title>
+      <description>Function composition is a common concept in functional programming languages. This first episode of ‘Ruby Banter’ shows you how to do it in Ruby.</description>
+      <link>http://media.fngtps.com/rubybanter/2007/001/</link>
+      <pubDate>Thu, 21 Jun 2007 11:34:00 +0200</pubDate>
+      <enclosure url="http://media.fngtps.com/rubybanter/2007/001/rubybanter001.m4v" length="23478290" type="video/mp4"/>
+      <guid isPermaLink="true">http://media.fngtps.com/rubybanter/2007/001/rubybanter001.m4v</guid>
+      <itunes:author>Fingertips</itunes:author>
+      <itunes:summary>Function composition is a common concept in functional programming languages. This first episode of ‘Ruby Banter’ shows you how to do it in Ruby.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>7:49</itunes:duration>
+    </item>
+  </channel>
+</rss>

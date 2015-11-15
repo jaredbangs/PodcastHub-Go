@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>The Snow Plow Show</title>
+<link>http://www.phonelosers.org/snowplowshow/</link>
+<description>The Snow Plow Show is released several dozen times a day and is hosted by RedBoxChiliPepper.</description>
+<pubDate>Wed, 5 September 2012 22:00:00 +0000</pubDate>
+<generator>ASCII EditPad - I'm hardcore, yo.</generator>
+<language>en-us</language>
+<copyright>&#xA9; 2012 Bradyus Carter</copyright>
+<category>Comedy</category>
+<managingEditor>rbcp@phonelosers.org (Bradyus Carter)</managingEditor>
+<webMaster>rbcp@phonelosers.org</webMaster>
+<image>
+<url>http://www.phonelosers.org/images/snow_plow_show144x144.jpg</url>
+<link>http://www.phonelosers.org/snowplowshow/</link>
+<width>144</width><height>144</height>
+<title>The Snow Plow Show</title>
+</image>
+<itunes:author>RedBox ChiliPepper</itunes:author>
+<itunes:subtitle>Playing music and taking your phone calls.</itunes:subtitle>
+<itunes:summary>The Snow Plow Show is released several dozen times a day and is hosted by RedBoxChiliPepper.</itunes:summary>
+<itunes:keywords>
+prank,calls,prank,phone,calls,comedy,phone,losers,of,america,hacker,hack,phreak,phreaking,hacking,celebrity
+</itunes:keywords>
+<itunes:owner>
+<itunes:name>Bradyus Carter</itunes:name>
+<itunes:email>rbcp@phonelosers.org</itunes:email>
+</itunes:owner>
+<itunes:image href="http://www.phonelosers.org/images/snow_plow_show300x300.jpg" />
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:link rel="image" type="image/jpeg" href="http://www.phonelosers.org/images/snow_plow_show300x300.jpg">The Phone Show</itunes:link> 
+<itunes:category text="Comedy">
+</itunes:category>
+
+<item>
+<title>The Snow Plow Show Episode 003 - News Story Pranks</title>
+<link>http://www.phonelosers.org/snowplowshow/</link>
+<description>
+This Dark Stranger inspired show takes a couple of different news stories that have happened recently and pranks the victim of one and what could have been victims of others.  You'll also see how easily any pizza place will give up customer information.  Music in this episode is by Rappy McRapperson.</description>
+<pubDate>Wed, 27 September 2012 21:00:00 PST</pubDate>
+<comments>http://www.phonelosers.org/snowplowshow/</comments>
+<category>The Snow Plow Show</category>
+<enclosure url="http://www.phonelosers.org/media/snowplowshow/sps003.mp3" length="3008919" type="audio/mpeg"/>
+<guid isPermaLink="false">The Snow Plow Show Episode 003 - News Story Pranks</guid>
+<itunes:author>Redbox Chilipepper</itunes:author>
+<itunes:subtitle>Who do you think I'm are?</itunes:subtitle>
+<itunes:summary>This Dark Stranger inspired show takes a couple of different news stories that have happened recently and pranks the victim of one and what could have been victims of others.  You'll also see how easily any pizza place will give up customer information.  Music in this episode is by Rappy McRapperson.</itunes:summary>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:keywords>prank, phone, calls</itunes:keywords>
+<itunes:duration>0:30:23</itunes:duration>
+</item>
+
+
+<item>
+<title>The Snow Plow Show Episode 002 - Phreak Squad</title>
+<link>http://www.phonelosers.org/snowplowshow/</link>
+<description>
+Guess how difficult it is to call various large-chain stores that repair computers and trick them out of their customer information?  This SPS episode contains calls to these customers by RBCP, Carlito, Zyklon, Rappy, Petty Pranks and Trev0r.  All music in this episode is by The Pool Boys.</description>
+<pubDate>Wed, 27 September 2012 21:00:00 PST</pubDate>
+<comments>http://www.phonelosers.org/snowplowshow/</comments>
+<category>The Snow Plow Show</category>
+<enclosure url="http://www.phonelosers.org/media/snowplowshow/sps002.mp3" length="3008919" type="audio/mpeg"/>
+<guid isPermaLink="false">The Snow Plow Show Episode 002 - Phreak Squad</guid>
+<itunes:author>Redbox Chilipepper</itunes:author>
+<itunes:subtitle>Sorry for deleting all those pics of your godchildren.</itunes:subtitle>
+<itunes:summary>Guess how difficult it is to call various large-chain stores that repair computers and trick them out of their customer information?  This SPS episode contains calls to these customers by RBCP, Carlito, Zyklon, Rappy, Petty Pranks and Trev0r.  All music in this episode is by The Pool Boys.</itunes:summary>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:keywords>prank, phone, calls</itunes:keywords>
+<itunes:duration>0:30:52</itunes:duration>
+</item>
+
+
+<item>
+<title>The Snow Plow Show Episode 001 - Car Ding Calls</title>
+<link>http://www.phonelosers.org/snowplowshow/</link>
+<description>
+The very first episode of SPS includes a bunch of car ding calls and is about 20 minutes long.  The background and ending music is Speedos and an Abraham Lincoln Hat by Rappy McRapperson.</description>
+<pubDate>Wed, 05 September 2012 21:00:00 PST</pubDate>
+<comments>http://www.phonelosers.org/snowplowshow/</comments>
+<category>The Snow Plow Show</category>
+<enclosure url="http://www.phonelosers.org/media/snowplowshow/sps001.mp3" length="2008919" type="audio/mpeg"/>
+<guid isPermaLink="false">The Snow Plow Show Episode 001 - Car Ding Calls</guid>
+<itunes:author>Redbox Chilipepper</itunes:author>
+<itunes:subtitle>My cousin is a cop.  And, oh yeah, Im a cop too.</itunes:subtitle>
+<itunes:summary>The very first episode of SPS includes a bunch of car ding calls and is about 20 minutes long.  The background and ending music is Speedos and an Abraham Lincoln Hat by Rappy McRapperson.</itunes:summary>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:keywords>prank, phone, calls</itunes:keywords>
+<itunes:duration>0:20:22</itunes:duration>
+</item>
+
+
+
+
+
+
+</channel>
+</rss>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>GeekSpeak</title>
+    <itunes:subtitle>Bridging the gap between Geeks and the rest of humanity.</itunes:subtitle>
+    <itunes:author>Lyle Troxell</itunes:author>
+    <itunes:owner>
+      <itunes:name>Lyle Troxell</itunes:name>
+      <itunes:email>lyle@geekspeak.org</itunes:email>
+    </itunes:owner>
+    <link>http://geekspeak.org/episodes/</link>
+    <atom:link href="http://geekspeak.org/episodes/rss.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 Nov 2015 21:58:22 GMT</pubDate>
+    <description>A weekly talk show about technology, science, and human creativity that excites, educates, and fosters curiosity. Discussions touch upon how technology affects society and how we react to that change. Hosts are passionate about explaining complex concepts in simple, easy to digest, explanations allowing everyone to understand. We bridge the gaps between Geeks and the rest of humanity.</description>
+    <itunes:summary>A weekly talk show about technology, science, and human creativity that excites, educates, and fosters curiosity. Discussions touch upon how technology affects society and how we react to that change. Hosts are passionate about explaining complex concepts in simple, easy to digest, explanations allowing everyone to understand. We bridge the gaps between Geeks and the rest of humanity.</itunes:summary>
+    <language>en-us</language>
+    <generator>https://github.com/lyle/geekspeak.org</generator>
+    <category>Technology</category>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:keywords>geek, geekspeek, radio, technology</itunes:keywords>
+    <itunes>new-feed-urlhttp://geekspeak.org/episodes/rss.xml</itunes>
+    <itunes:image href="http://geekspeak.org/images/GeekSpeak_Logo09022012.png"/>
+    <image>
+      <url>http://geekspeak.org/images/GeekSpeak_Logo_400x400_09022012.png</url>
+      <title>GeekSpeak</title>
+      <link>http://geekspeak.org/episodes/</link>
+    </image>
+    <copyright>Creative Commons Attribution 3.0 United States License</copyright>
+    <item>
+      <title>Vader Statue Pwns HTTPS 2015/11/14</title>
+      <link>http://geekspeak.org/episodes/2015/11/14/</link>
+      <description>&lt;p&gt;Lenin looses to Vader, make sure you buy the right &lt;span class="caps"&gt;USB&lt;/span&gt;-C cable,  caffeinated peanut butter, and a long form discussion on trust with regards to computers, password managers, and &lt;span class="caps"&gt;SSL&lt;/span&gt; certificates.&lt;/p&gt;</description>
+      <pubDate>Wed, 11 Nov 2015 02:00:00 -0800</pubDate>
+      <guid>http://geekspeak.org/episodes/2015/11/14/</guid>
+      <itunes:subtitle>Lyle Troxell, Brian Young, and Miles Elam</itunes:subtitle>
+      <itunes:summary>Lenin looses to Vader, make sure you buy the right USB-C cable,  caffeinated peanut butter, and a long form discussion on trust with regards to computers, password managers, and SSL certificates.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>00:56:54</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/11/14/teaser-original.jpg?1447124970"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-11-14.mp3?1447279025" length="40995899" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Coin Card Senses Internet of Things’ Vulnerabilities 2015/11/07</title>
+      <link>http://geekspeak.org/episodes/2015/11/07/</link>
+      <description>&lt;p&gt;Is the Internet of things a good thing?  How do your senses affect each other?  What’s the new thing in card payments?&lt;/p&gt;</description>
+      <pubDate>Wed, 04 Nov 2015 17:48:00 -0800</pubDate>
+      <guid>http://geekspeak.org/episodes/2015/11/07/</guid>
+      <itunes:subtitle>Lyle Troxell, Bonnie Jean Primbsch, Ben Jaffe, and Brian Young</itunes:subtitle>
+      <itunes:summary>Is the Internet of things a good thing?  How do your senses affect each other?  What’s the new thing in card payments?</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>00:50:55</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/11/07/teaser-original.jpg?1446522126"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-11-07.mp3?1446743016" length="36683987" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Life, Memory, and the art of Phoning it in 2015/10/31</title>
+      <link>http://geekspeak.org/episodes/2015/10/31/</link>
+      <description>&lt;p&gt;New evidence for life beginning out there, not here. The epoch of fast computer storage will change what you can do. Wifi calling is here and it is awesome. The Geeks do a long form show.&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2015 11:44:00 -0700</pubDate>
+      <guid>http://geekspeak.org/episodes/2015/10/31/</guid>
+      <itunes:subtitle>Lyle Troxell, Brian Young, Miles Elam, and Ben Jaffe</itunes:subtitle>
+      <itunes:summary>New evidence for life beginning out there, not here. The epoch of fast computer storage will change what you can do. Wifi calling is here and it is awesome. The Geeks do a long form show.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>00:50:55</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/10/31/teaser-original.jpg?1445918876"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-10-31.mp3?1445994439" length="36677181" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Warrant-less Flashing Kills Drone’s Battery 2015/10/24</title>
+      <link>http://geekspeak.org/episodes/2015/10/24/</link>
+      <description>&lt;p&gt;California has a new privacy law, Flash has a huge problem, and Siri can be hacked. Also Facebook&amp;#8217;s iOS app sucks battery life, quantum gravity experiment is possible, Apple vs University of Wisconsin-Madison and some more geeky weekly news.&lt;/p&gt;</description>
+      <pubDate>Thu, 22 Oct 2015 22:00:00 -0700</pubDate>
+      <guid>http://geekspeak.org/episodes/2015/10/24/</guid>
+      <itunes:subtitle>Bonnie Jean Primbsch, Lyle Troxell, Brian Young, and Miles Elam</itunes:subtitle>
+      <itunes:summary>California has a new privacy law, Flash has a huge problem, and Siri can be hacked. Also Facebook's iOS app sucks battery life, quantum gravity experiment is possible, Apple vs University of Wisconsin-Madison and some more geeky weekly news.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Bonnie Jean Primbsch</itunes:author>
+      <itunes:duration>00:50:55</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/10/24/teaser-original.jpg?1445310210"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-10-24.mp3?1445574993" length="36677182" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Zombie Scans Detroit, Shoots Volvo 2015/10/17</title>
+      <link>http://geekspeak.org/episodes/2015/10/17/</link>
+      <description>&lt;p&gt;Got Zombies on your phone? Scanner mixing up numbers?  What do Geeks have to do with guns? We discuss these questions and more this week on special pledge drive edition of Geekspeak.&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2015 12:56:00 -0700</pubDate>
+      <guid>http://geekspeak.org/episodes/2015/10/17/</guid>
+      <itunes:subtitle>Bonnie Jean Primbsch, Lyle Troxell, and Brian Young</itunes:subtitle>
+      <itunes:summary>Got Zombies on your phone? Scanner mixing up numbers?  What do Geeks have to do with guns? We discuss these questions and more this week on special pledge drive edition of Geekspeak.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Bonnie Jean Primbsch</itunes:author>
+      <itunes:duration>00:46:56</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/10/17/teaser-original.jpg?1444705019"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-10-17.mp3?1444783862" length="33816491" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Fermi &amp; Snowden- The Ethics of Trucking Chip-cards 2015/10/10</title>
+      <link>http://geekspeak.org/episodes/2015/10/10/</link>
+      <description>&lt;p&gt;Have you wondered about those &lt;a href="https://en.wikipedia.org/wiki/EMV"&gt;gold tabs on your latest credit card&lt;/a&gt;, or maybe &lt;a href="https://en.wikipedia.org/wiki/Fermi_paradox"&gt;where all the aliens are&lt;/a&gt;?  How about whether Software Engineers keep you in mind when they develop your apps? Covering the Geeky News and touching on some ethics on this episode of GeekSpeak&lt;/p&gt;</description>
+      <pubDate>Tue, 06 Oct 2015 09:35:00 -0700</pubDate>
+      <guid>http://geekspeak.org/episodes/2015/10/10/</guid>
+      <itunes:subtitle>Bonnie Jean Primbsch, Miles Elam, and Lyle Troxell</itunes:subtitle>
+      <itunes:summary>Have you wondered about those gold tabs on your latest credit card, or maybe where all the aliens are?  How about whether Software Engineers keep you in mind when they develop your apps? Covering the Geeky News and touching on some ethics on this episode of GeekSpeak</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Bonnie Jean Primbsch</itunes:author>
+      <itunes:duration>00:50:55</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/10/10/teaser-original.jpg?1444149375"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-10-10.mp3?1444148988" length="36677178" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Wet Martians Teach Their Cars to Program 2015/10/03</title>
+      <link>http://geekspeak.org/episodes/2015/10/03/</link>
+      <description>&lt;p&gt;Mars, the Supermoon, and US &lt;acronym title="Long Term Evolution"&gt;&lt;span class="caps"&gt;LTE&lt;/span&gt;&lt;/acronym&gt; speeds are all wet. How we teach coding, and how the &lt;acronym title="Digital Millenium Copyright Act"&gt;&lt;span class="caps"&gt;DMCA&lt;/span&gt;&lt;/acronym&gt; protects car company&amp;#8217;s secrets.&lt;/p&gt;</description>
+      <pubDate>Mon, 28 Sep 2015 13:32:00 -0700</pubDate>
+      <guid>http://geekspeak.org/episodes/2015/10/03/</guid>
+      <itunes:subtitle>Lyle Troxell, Miles Elam, Ben Jaffe, and Brian Young</itunes:subtitle>
+      <itunes:summary>Mars, the Supermoon, and US LTE speeds are all wet. How we teach coding, and how the DMCA protects car company's secrets.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>00:50:45</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/10/03/teaser-original.jpg?1443494054"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-10-03.mp3?1443544127" length="24377284" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Drone Bridge to AVG's Failure 2015/09/26</title>
+      <link>http://geekspeak.org/episodes/2015/09/26/</link>
+      <description>&lt;p&gt;A formerly trustworthy source of protection disappoints, a trio of drones does a lovely dance you walk on, and even pressing a simple key on your computer can boggle your mind.&lt;/p&gt;</description>
+      <pubDate>Mon, 21 Sep 2015 19:54:00 -0700</pubDate>
+      <guid isPermaLink="false">7a39d429-8c22-4433-ace4-3afd97bdf20f</guid>
+      <itunes:subtitle>Bonnie Jean Primbsch, Lyle Troxell, and Ben Jaffe</itunes:subtitle>
+      <itunes:summary>A formerly trustworthy source of protection disappoints, a trio of drones does a lovely dance you walk on, and even pressing a simple key on your computer can boggle your mind.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Bonnie Jean Primbsch</itunes:author>
+      <itunes:duration>00:51:51</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/09/26/teaser-original.jpg?1442892492"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-09-26.mp3?1442899030" length="24899772" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Touchy Feely Phone Hacks DoE with Science! 2015/09/19</title>
+      <link>http://geekspeak.org/episodes/2015/09/19/</link>
+      <description>&lt;p&gt;Prosthetic hand with feeling, T-Mobile using it&amp;#8217;s new spectrum, AT&amp;amp;T finally to have wifi calling on iPhone, Science, Space, and more weekly geeky news.&lt;/p&gt;</description>
+      <pubDate>Fri, 18 Sep 2015 07:32:00 -0700</pubDate>
+      <guid isPermaLink="false">875bb04f-5ec4-461f-97ae-6ee3507ec7a2</guid>
+      <itunes:subtitle>Lyle Troxell, Brian Young, and Miles Elam</itunes:subtitle>
+      <itunes:summary>Prosthetic hand with feeling, T-Mobile using it's new spectrum, AT&amp;T finally to have wifi calling on iPhone, Science, Space, and more weekly geeky news.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>00:50:51</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/09/19/teaser-original.jpg?1442287979"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-09-19.mp3?1442442530" length="24427107" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Use 3D Keys to Cheat on your Passwords 2015/09/12</title>
+      <link>http://geekspeak.org/episodes/2015/09/12/</link>
+      <description>&lt;p&gt;Lock-picking with photographs, Tech Companies fight with the US, password cracking is easy when mistakes are made, Microsoft downloads you might not use, and more tech news of the week.&lt;/p&gt;</description>
+      <pubDate>Sat, 12 Sep 2015 11:10:00 -0700</pubDate>
+      <guid isPermaLink="false">7d23b2a6-6455-4e4e-aa71-463bd257d756</guid>
+      <itunes:subtitle>Lyle Troxell, Ben Jaffe, and Brian Young</itunes:subtitle>
+      <itunes:summary>Lock-picking with photographs, Tech Companies fight with the US, password cracking is easy when mistakes are made, Microsoft downloads you might not use, and more tech news of the week.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Lyle Troxell</itunes:author>
+      <itunes:duration>00:49:43</itunes:duration>
+      <itunes:image href="http://geekspeak.org/episodes/2015/09/12/teaser-original.jpg?1442081442"/>
+      <enclosure url="http://geekspeak.org/shows/audio/GeekSpeak_2015-09-12.mp3?1442294162" length="23873096" type="audio/mp3"/>
+    </item>
+  </channel>
+</rss>

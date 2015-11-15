@@ -1,0 +1,21 @@
+<br />
+<b>Deprecated</b>:  Assigning the return value of new by reference is deprecated in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php</b> on line <b>468</b><br />
+<br />
+<b>Deprecated</b>:  Assigning the return value of new by reference is deprecated in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php</b> on line <b>483</b><br />
+<br />
+<b>Deprecated</b>:  Assigning the return value of new by reference is deprecated in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php</b> on line <b>490</b><br />
+<br />
+<b>Deprecated</b>:  Assigning the return value of new by reference is deprecated in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php</b> on line <b>526</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php:468) in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-includes/functions.php</b> on line <b>2030</b><br />
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Database Error</title>
+
+</head>
+<body>
+	<h1>Error establishing a database connection</h1>
+</body>
+</html>

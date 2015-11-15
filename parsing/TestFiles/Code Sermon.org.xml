@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Code Sermon.org</title>
+<link>http://www.codesermon.org</link>
+<description>Preaching Software Development Best Practices</description>
+<language>en-us</language>
+<generator>preacher</generator>
+<webMaster>preacher@codesermon.org</webMaster>
+<itunes:owner>
+  <itunes:name>The Preacher</itunes:name>
+  <itunes:email>preacher@codepreacher.org</itunes:email>
+</itunes:owner>
+<itunes:author>preacher@codesermon.org</itunes:author>
+<itunes:subtitle>Preaching Best Practices - A podcast for software developers.</itunes:subtitle>
+<itunes:category text="Technology">
+	<itunes:category text="Developers"/>
+</itunes:category>
+
+<item>
+        <title>Code Sermon, Episode 20: Reference Counting</title>
+        <description>Some thoughts on managing object lifetimes using reference counting</description>
+        <link>http://www.codesermon.org</link>
+        <pubDate>February 04 2007 18:01:00</pubDate>
+        <enclosure url="http://www.stevex.net/files/CodeSermon-Episode20-ReferenceCounting.mp3" length="15650106" type="audio/mpeg"/>
+</item>
+
+<item>
+        <title>Code Sermon, Episode 19: Picking Libraries</title>
+        <description>Finding the right library for your project</description>
+        <link>http://www.codesermon.org</link>
+        <pubDate>April 12 2006 10:35:00</pubDate>
+        <enclosure url="http://www.stevex.net/files/CodeSermon-Episode19-PickingLibraries.mp3" length="24284303" type="audio/mpeg"/>
+</item>
+					
+<item>
+	<title>Code Sermon, Episode 18: Release Mode Debugging</title>
+	<description>Debugging when you can't use the debugger</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>February 18 2006 12:32:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode18-ReleaseModeDebugging.mp3" length="10440027" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 17: Premature Optimization</title>
+	<description>Optimize your code.  But not that code.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>January 28 2006 18:24:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode17-PrematureOptimization.mp3" length="9870760" type="audio/mpeg"/>
+</item>
+
+
+<item>
+	<title>Code Sermon, Episode 16: Constants</title>
+	<description>A Constant is just a Variable that doesn't Vary.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>January 14 2006 10:48:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode16-Constants.mp3" length="9842983" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 15: Loops</title>
+	<description>Your computer is probably looping right now.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>December 19 2005 18:58:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode15-Loops.mp3" length="9103613" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 14: Strings</title>
+	<description>They're not as simple as you think they are.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>November 30 2005 09:14:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode14-Strings.mp3" length="18037491" type="audio/mpeg"/>
+</item>
+<item>
+	<title>Code Sermon, Episode 13: Concurrency</title>
+	<description>The best way to make your code faster.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>November 13 2005 08:41:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode13-Concurrency.mp3" length="9533275" type="audio/mpeg"/>
+</item>
+<item>
+	<title>Code Sermon, Episode 12: Naming Conventions</title>
+	<description>Thinking about what to call things.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>October 22 2005 00:11:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode12-NamingConventions.mp3" length="9369435" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 11: Platforms</title>
+	<description>Where you want to run your software dictates how you write it.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>September 29 2005 08:19:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode11-Platforms.mp3" length="14251617" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 10: Robustness</title>
+	<description>Code Sermon on Robustness.  Writing code that isn't environmentally sensitive.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>September 11 2005 08:45:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode10-Robustness.mp3" length="8128933" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 9: Warnings</title>
+	<description>Code Sermon on compiler warnings.  Your compiler is trying to tell you something.  Are you listening?.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>August 31 2005 09:00:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode9-Warnings.mp3" length="12531297" type="audio/mpeg"/>
+</item>
+
+
+<item>
+	<title>Code Sermon, Episode 8: Memory Management</title>
+	<description>Code Sermon on memory management.  Differences between garbage collected languages and C and C++.  Also a bit about locality.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>August 23 2005 22:55:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode8-MemoryManagement.mp3" length="10938454" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 7: Post Deployment</title>
+	<description>Code Sermon on post-deployment.  Stuff you should have done before you released your code.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>August 14 2005 10:00:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode7-PostDeployment.mp3" length="9180100" type="audio/mpeg"/>
+</item>
+
+
+<item>
+	<title>Code Sermon, Episode 6: Error Handling</title>
+	<description>Code Sermon on Error Handling.  Exceptions or error codes. Logging.  The importance of giving your users the information they need to fix the problems they run into.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>August 07 2005 10:00:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode6-ErrorHandling.mp3" length="7879829" type="audio/mpeg"/>
+</item>
+<item>
+	<title>Code Sermon, Episode 5: Deployment</title>
+	<description>Code Sermon on Deployment.  Thoughts on getting the software you've written from your computer onto the computers of your users.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>July 28 2005 10:00:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode5-Deployment.mp3" length="6383117" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 4: Optimizations</title>
+	<description>When not to optimize, when to optimize, and some thoughts on how to approach it.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>July 17 2005 10:00:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode4-Optimization.mp3" length="12002996" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 3: Application UI Responsiveness</title>
+	<description>If you can't be fast, seem fast.  This sermon talks about ways to make your application feel responsive in cases where many apps leave the user wondering what's up.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>July 10 2005 10:00:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode3-ApplicationUIResponsiveness.mp3" length="10760920" type="audio/mpeg"/>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 2: File IO</title>
+	<link>http://www.codesermon.org</link>
+	<pubDate>July 03 2005 10:00:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode2-FileIO.mp3" length="11583368" type="audio/mpeg"/>
+	<description>Reading and writing files is easy, right?  Here's some sins that developers often commit when reading and writing files.</description>
+</item>
+
+<item>
+	<title>Code Sermon, Episode 1: Software Testing</title>
+	<description>Testing your software should be done while you're writing your software, not after it.  Talks about unit testing, test driven development, and more.</description>
+	<link>http://www.codesermon.org</link>
+	<pubDate>June 26 2005 10:00:00</pubDate>
+	<enclosure url="http://www.stevex.net/files/CodeSermon-Episode1-UnitTesting.mp3" length="13876969" type="audio/mpeg"/>
+</item>
+
+</channel>
+</rss>

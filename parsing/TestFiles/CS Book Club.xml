@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>CS Book Club</title>
+    <description>Computer Science for Everyone</description>
+    <copyright>2015-2015 CS Book Club</copyright>
+    <language>en-us</language>
+    <link>http://www.csbookclub.com/podcast.xml</link>
+    <image>
+      <link>http://www.csbookclub.com/podcast.xml</link>
+      <title>CS Book Club</title>
+      <url>http://www.csbookclub.com/images/cover-art-512.png</url>
+    </image>
+    <itunes:author>CS Book Club</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    <itunes:summary>Computer Science for Everyone</itunes:summary>
+    <itunes:category text="Education">
+      <itunes:category text="Educational Technology"/>
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+    <item>
+      <title>Understanding Computation: Preface, Just Enough Ruby</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Thu, 15 Jan 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#preface-just-enough-ruby</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-1.mp3" type="audio/mpeg" fileSize="33649695"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-1.mp3" type="audio/mpeg" length="33649695"/>
+      <itunes:subtitle>Preface, Just Enough Ruby</itunes:subtitle>
+      <itunes:summary>Preface, Just Enough Ruby</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2103</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 2: The Meaning of Programs, Operational Semantics</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Thu, 29 Jan 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-2-the-meaning-of-programs-operational-semantics</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-2.mp3" type="audio/mpeg" fileSize="23078274"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-2.mp3" type="audio/mpeg" length="23078274"/>
+      <itunes:subtitle>Chapter 2: The Meaning of Programs, Operational Semantics</itunes:subtitle>
+      <itunes:summary>Chapter 2: The Meaning of Programs, Operational Semantics</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1442</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Fri, 13 Mar 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-2-denotational-semantics-formal-semantics-in-practice-implementing-parsers</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-3.mp3" type="audio/mpeg" fileSize="20344960"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-3.mp3" type="audio/mpeg" length="20344960"/>
+      <itunes:subtitle>Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers</itunes:subtitle>
+      <itunes:summary>Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1272</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 3: The Simplest Computers</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Fri, 27 Mar 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-3-the-simplest-computers</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-4.mp3" type="audio/mpeg" fileSize="18834304"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-4.mp3" type="audio/mpeg" length="18834304"/>
+      <itunes:subtitle>Chapter 3: The Simplest Computers</itunes:subtitle>
+      <itunes:summary>Chapter 3: The Simplest Computers</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1177</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 4: Just Add Power</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Fri, 10 Apr 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-4-just-add-power</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-5.mp3" type="audio/mpeg" fileSize="21788850"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-5.mp3" type="audio/mpeg" length="21788850"/>
+      <itunes:subtitle>Chapter 4: Just Add Power</itunes:subtitle>
+      <itunes:summary>Chapter 4: Just Add Power</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1362</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 5: The Ultimate Machine</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Fri, 24 Apr 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-5-the-ultimate-machine</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-6.mp3" type="audio/mpeg" fileSize="19759664"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-6.mp3" type="audio/mpeg" length="19759664"/>
+      <itunes:subtitle>Chapter 5: The Ultimate Machine</itunes:subtitle>
+      <itunes:summary>Chapter 5: The Ultimate Machine</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1235</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 6: Programming with Nothing</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Fri, 12 Jun 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-6-programming-with-nothing</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-7.mp3" type="audio/mpeg" fileSize="36613036"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-7.mp3" type="audio/mpeg" length="36613036"/>
+      <itunes:subtitle>Chapter 6: Programming with Nothing</itunes:subtitle>
+      <itunes:summary>Chapter 6: Programming with Nothing</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2288</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 7: Universality is Everywhere</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Tue, 28 Jul 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-7-universality-is-everywhere</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-8.mp3" type="audio/mpeg" fileSize="19564484"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-8.mp3" type="audio/mpeg" length="19564484"/>
+      <itunes:subtitle>Chapter 7: Universality is Everywhere</itunes:subtitle>
+      <itunes:summary>Chapter 7: Universality is Everywhere</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1223</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 8: Impossible Programs</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Fri, 31 Jul 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-8-impossible-programs</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-9.mp3" type="audio/mpeg" fileSize="22086443"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-9.mp3" type="audio/mpeg" length="22086443"/>
+      <itunes:subtitle>Chapter 8: Impossible Programs</itunes:subtitle>
+      <itunes:summary>Chapter 8: Impossible Programs</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1380</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Chapter 9: Programming in Toyland</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Fri, 14 Aug 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#chapter-9-programming-in-toyland</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-10.mp3" type="audio/mpeg" fileSize="17289111"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-10.mp3" type="audio/mpeg" length="17289111"/>
+      <itunes:subtitle>Chapter 9: Programming in Toyland</itunes:subtitle>
+      <itunes:summary>Chapter 9: Programming in Toyland</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1080</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+    <item>
+      <title>Understanding Computation: Tom Stuart, and The Ineffable Magic of Computation</title>
+      <link>http://www.csbookclub.com/understanding-computation</link>
+      <description>Understanding Computation
+From Simple Machines to Impossible Programs
+by Tom Stuart
+
+  Homepage: http://computationbook.com
+  Sample: http://computationbook.com/sample
+  Source Code: https://github.com/tomstuart/computationbook
+  Amazon (US): http://www.amazon.com/dp/1449329276
+  Amazon (UK): http://www.amazon.co.uk/dp/1449329276
+  Kindle: http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=
+  O'Reilly: http://shop.oreilly.com/product/0636920025481.do
+
+Readers:
+  Justin Campbell
+  Amy Unger
+  Ashton Harris
+  Brian Cobb
+
+Discussions:
+  Preface, Just Enough Ruby
+  Chapter 2: The Meaning of Programs, Operational Semantics
+  Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers
+  Chapter 3: The Simplest Computers
+  Chapter 4: Just Add Power
+  Chapter 5: The Ultimate Machine
+  Chapter 6: Programming with Nothing
+  Chapter 7: Universality is Everywhere
+  Chapter 8: Impossible Programs
+  Chapter 9: Programming in Toyland
+  Tom Stuart, and The Ineffable Magic of Computation
+
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</description>
+      <content:encoded>&lt;div class="book"&gt;&lt;h3&gt;&lt;a href="http://www.csbookclub.com/understanding-computation"&gt;&lt;span class="title"&gt;Understanding Computation&lt;/span&gt;&lt;/a&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;span class="subtitle"&gt;From Simple Machines to Impossible Programs&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;by&amp;nbsp;Tom Stuart&lt;small&gt;&amp;nbsp;(&lt;a href="http://codon.com"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/tomstuart"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/tomstuart"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&lt;ul class="links urls"&gt;&lt;li&gt;&lt;a href="http://computationbook.com"&gt;Homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://computationbook.com/sample"&gt;Sample&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/tomstuart/computationbook"&gt;Source Code&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul class="links buy"&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/dp/1449329276"&gt;Amazon (US)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.co.uk/dp/1449329276"&gt;Amazon (UK)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs-ebook/dp/B00CT3C4IM/ref=tmm_kin_title_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid="&gt;Kindle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920025481.do"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Readers&lt;/h4&gt;&lt;ul class="readers"&gt;&lt;li&gt;Justin Campbell&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.justincampbell.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/justincampbell"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/justincampbell"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Amy Unger&lt;small&gt;&amp;nbsp;(&lt;a href="https://github.com/cdwort"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/cdwort"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Ashton Harris&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.ashtonharris.me"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/aharris"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/busypixels"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Brian Cobb&lt;small&gt;&amp;nbsp;(&lt;a href="http://www.bcobb.net"&gt;Homepage&lt;/a&gt;, &lt;a href="https://github.com/bcobb"&gt;GitHub&lt;/a&gt;, &lt;a href="https://twitter.com/bcobb"&gt;Twitter&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Discussions&lt;/h4&gt;&lt;ol class="discussions"&gt;&lt;li&gt;Preface, Just Enough Ruby&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-1.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;35:03&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: The Meaning of Programs, Operational Semantics&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-2.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;24:02&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 2: Denotational Semantics, Formal Semantics in Practice, Implementing Parsers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-3.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;21:12&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 3: The Simplest Computers&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-4.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;19:37&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 4: Just Add Power&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-5.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;22:42&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 5: The Ultimate Machine&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-6.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:35&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 6: Programming with Nothing&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-7.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;38:08&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 7: Universality is Everywhere&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-8.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;20:23&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 8: Impossible Programs&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-9.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;23:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Chapter 9: Programming in Toyland&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-10.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;18:00&lt;/small&gt;&lt;/li&gt;&lt;li&gt;Tom Stuart, and The Ineffable Magic of Computation&lt;small&gt;&amp;nbsp;&lt;a href="http://episodes.csbookclub.com/understanding-computation-11.mp3"&gt;mp3&lt;/a&gt;&amp;nbsp;49:05&lt;/small&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+CS Book Club: Computer Science for Everyone
+Listen to these and more at http://www.csbookclub.com/
+</content:encoded>
+      <pubDate>Mon, 28 Sep 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://www.csbookclub.com/understanding-computation#tom-stuart-and-the-ineffable-magic-of-computation</guid>
+      <media:content url="http://episodes.csbookclub.com/understanding-computation-11.mp3" type="audio/mpeg" fileSize="47122218"/>
+      <enclosure url="http://episodes.csbookclub.com/understanding-computation-11.mp3" type="audio/mpeg" length="47122218"/>
+      <itunes:subtitle>Tom Stuart, and The Ineffable Magic of Computation</itunes:subtitle>
+      <itunes:summary>Tom Stuart, and The Ineffable Magic of Computation</itunes:summary>
+      <itunes:author>CS Book Club</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2945</itunes:duration>
+      <itunes:keywords>book club,bookclub,compsci,computer science,cs,programming</itunes:keywords>
+      <itunes:image href="http://www.csbookclub.com/images/cover-art-1400.png"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>They Might Be Giants Podcast</title>
+		<itunes:author>They Might Be Giants</itunes:author>
+		<link>http://www.tmbg.com</link>
+		<generator>Podcast Maker v1.1.5 - http://www.potionfactory.com/podcastmaker</generator>
+		<description>Direct from Brooklyn's own They Might Be Giants, this is the only authorized and official podcast from the band. Often imitated, never remunerated. Specializing in original, live and/or rare material from the band, please enjoy TMBG's finest podcast!</description>
+		<itunes:subtitle>The official podcast of They Might Be Giants.</itunes:subtitle>
+		<itunes:summary>Direct from Brooklyn's own They Might Be Giants, this is the only authorized and official podcast from the band. Often imitated, never remunerated. Specializing in original, live and/or rare material from the band, please enjoy TMBG's finest podcast!</itunes:summary>
+		<language>en</language>
+		<copyright>2008</copyright>
+		<itunes:owner>
+			<itunes:name>They Might Be Giants</itunes:name>
+			<itunes:email />
+		</itunes:owner>
+		<image>
+			<url>http://www.tmbg.com/_media/_pod/TMBGPODCAST_144.jpg</url>
+			<title>They Might Be Giants Podcast</title>
+			<link>http://www.tmbg.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://www.tmbg.com/_media/_pod/TMBGPODCAST.jpg" />
+		<category>Music</category>
+		<itunes:category text="Music" />
+		<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+<item>
+			<title>Whole Lot of Glean</title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>Direct from Brooklyn's own They Might Be Giants, this is the only authorized and official podcast from the band. Often imitated, never remunerated. Specializing in original, live and/or rare material from the band, please enjoy TMBG's finest podcast! 
+</description>
+			<itunes:subtitle>TMBG's new album GLEAN is available for pre-order in all formats including special edition vinyl. http://bit.ly/1GPEB2o All pre-orders receive a free bonus set of videos. It's VIDEO JAIL. Save on bundles and dig the new 6 FINGERS OF GLEAN t-shirt.</itunes:subtitle>
+			<itunes:summary>TMBGs new album GLEAN is available for pre-order in all formats including special edition vinyl. http://bit.ly/1GPEB2o All pre-orders receive a free bonus set of videos. It's VIDEO JAIL. Save on bundles and dig the new 6 FINGERS OF GLEAN t-shirt.</itunes:summary>
+			<enclosure type="video/mpeg" url="https://s3.amazonaws.com/TMBG_pod/Whole+Lot+of+Glean.mp4" />
+			<guid>https://s3.amazonaws.com/TMBG_pod/Whole+Lot+of+Glean.mp4</guid>
+			<pubDate>Wed, 15 April 2015 11:30:00 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:02:13</itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Glean, Dial-a-Song, dialasong.com</itunes:keywords>
+		</item>	
+<item>
+			<title>TMBG Hits The Road In April!</title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>Direct from Brooklyn's own They Might Be Giants, this is the only authorized and official podcast from the band. Often imitated, never remunerated. Specializing in original, live and/or rare material from the band, please enjoy TMBG's finest podcast! 
+</description>
+			<itunes:subtitle>This is a podcast for people who understand They Might Be Giants.</itunes:subtitle>
+			<itunes:summary>Tickets available at www.theymightbegiants.com/calendar</itunes:summary>
+			<enclosure type="video/x-m4v" url="https://s3.amazonaws.com/TMBG_pod/tmbghittheroadinapril.m4v" />
+			<guid> https://s3.amazonaws.com/TMBG_pod/tmbghittheroadinapril.m4v</guid>
+			<pubDate>Fri, 14 February 2015 12:30:00 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:01:21</itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, The Onion, Onion AVC, Join Us, Nanobots, You're On Fire, Orange Is The New Black</itunes:keywords>
+		</item>	
+<item>
+			<title>On The Drag (Session Mix)</title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>Direct from Brooklyn's own They Might Be Giants, this is the only authorized and official podcast from the band. Often imitated, never remunerated. Specializing in original, live and/or rare material from the band, please enjoy TMBG's finest podcast! 
+</description>
+			<itunes:subtitle>This is a podcast for people who understand They Might Be Giants.</itunes:subtitle>
+			<itunes:summary>This is a podcast for people who understand They Might Be Giants.</itunes:summary>
+			<enclosure type="audio/mpeg" url="https://s3.amazonaws.com/TMBG_pod/OnTheDrag.mp3" />
+			<guid>https://s3.amazonaws.com/TMBG_pod/OnTheDrag.mp3</guid>
+			<pubDate>Fri, 12 September 2014 14:00:00 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:02:16</itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, On The Drag, Session Mix</itunes:keywords>
+		</item>
+<item>
+			<title>Tesla 2 4 6 8 (Tesla remix project)</title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>Direct from Brooklyn's own They Might Be Giants, this is the only authorized and official podcast from the band. Often imitated, never remunerated. Specializing in original, live and/or rare material from the band, please enjoy TMBG's finest podcast!
+</description>
+			<itunes:subtitle>This is a podcast for people who understand They Might Be Giants.</itunes:subtitle>
+			<itunes:summary>This is a podcast for people who understand They Might Be Giants.</itunes:summary>
+			<enclosure type="audio/mpeg" url="https://s3.amazonaws.com/TMBG_pod/TMBGPodcast58.mp3" />
+			<guid>https://s3.amazonaws.com/TMBG_pod/TMBGPodcast58.mp3</guid>
+			<pubDate>Fri, 30 May 2014 14:00:00 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:02:07</itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar</itunes:keywords>
+		</item>	
+</channel>
+</rss>

@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Ruby5</title>
+    <link>http://ruby5.envylabs.com/</link>
+    <description>The latest news in the Ruby and Rails community</description>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-us</language>
+    <copyright>Copyright 2009 Envy Labs LLC</copyright>
+    <managingEditor>ruby5@envylabs.com (Envy Labs)</managingEditor>
+    <webMaster>ruby5@envylabs.com (Envy Labs)</webMaster>
+    <lastBuildDate>Tue, 13 Jan 2015 23:42:08 -0800</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2015 12:49:16 +0000</pubDate>
+    <category>Technology</category>
+    <ttl>240</ttl>
+    <image>
+      <url>http://ruby5.envylabs.comhttp://d2odjpuijo94cw.cloudfront.net/8032c85/images/ruby5-itunes-logo.png</url>
+      <title>Ruby5</title>
+      <link>http://ruby5.envylabs.com/</link>
+      <width>1400</width>
+      <height>1400</height>
+    </image>
+    <itunes:author>Envy Labs</itunes:author>
+    <itunes:subtitle>The latest news in the Ruby and Rails community</itunes:subtitle>
+    <itunes:summary>Ruby5 is a twice-weekly podcast covering all of your Ruby and Ruby on Rails news in just 5 minutes.  In each episode we talk about new gems, plugins, and frameworks, as well as other items of interest and community events.  It\'s great for everyday Ruby developers and Ruby hobbyists, alike.  Got 5 minutes?  Just give it a try...</itunes:summary>
+    <itunes:keywords>ruby5,ruby,rails,ruby on rails,gregg pollack,nathaniel bibler</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://ruby5.envylabs.comhttp://d2odjpuijo94cw.cloudfront.net/8032c85/images/ruby5-itunes-logo.png" />
+    <itunes:owner>
+      <itunes:name>Ruby5</itunes:name>
+      <itunes:email>ruby5@envylabs.com</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Ruby5" /><feedburner:info uri="ruby5" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+      <title>Episode #521 - January 13th, 2015</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/w5D7qH98-7w/558-episode-521-january-13th-2015</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/558-episode-521-january-13th-2015</guid>
+      <author>Carlos Souza and Nathaniel Bibler</author>
+      <description>
+<![CDATA[<p>
+This episode covers Ruby methods you should be using, code metrics that matter, using ES6 on the Rails asset pipeline, tampering with network connections, automatically prefixing email subject lines and phone verification using SMS.
+<br>
+</p>
+<p><a href="http://ruby5.envylabs.com/episodes/558-episode-521-january-13th-2015" rel="nofollow">Listen to this episode on Ruby5</a></p>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr bgcolor='#faf9dc'>
+<td style='padding: 15px;' valign='top'>
+<h4><a href="https://toprubyjobs.com/" style="line-height: 24px;">Sponsored by Top Ruby Jobs</a></h4>
+If you're looking for a top Ruby job or for top Ruby talent, then you should check out Top Ruby Jobs. Top Ruby Jobs is a website dedicated to the best jobs available in the Ruby community.
+</td>
+<td style='padding: 15px;' valign='top'>
+<a href='https://toprubyjobs.com/'>
+<img alt="Top Ruby Jobs" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/521/stories/4460-small.jpg?1421151892" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://blog.engineyard.com/2015/five-ruby-methods-you-should-be-using" style="line-height: 24px;">Useful Methods</a></h4>
+Ben Lewis wrote an article about Five Ruby Methods you should be using. He covers Object#tap, Array#bsearch, Enumerable#flat_map, Array.new with a block, and the sort operator (a.k.a. spaceship).
+</td>
+<td valign='top'>
+<a href='https://blog.engineyard.com/2015/five-ruby-methods-you-should-be-using'>
+<img alt="Useful Methods" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/521/stories/4462-small.jpg?1421151955" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://chriskottom.com/blog/2015/01/code-quality-metrics-that-matter/" style="line-height: 24px;">Metrics That Matter</a></h4>
+Chris Kottom published an article covering a few of the code metrics that he feels don’t necessarily matter, like 100% code coverage. He focuses on a few that do, including performance, complexity, and security.
+</td>
+<td valign='top'>
+<a href='http://chriskottom.com/blog/2015/01/code-quality-metrics-that-matter/'>
+<img alt="Metrics That Matter" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/521/stories/4463-small.jpg?1421151977" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://github.com/gunpowderlabs/traceur-rb" style="line-height: 24px;">sprockets-traceur</a></h4>
+The sprockets-traceur gem by Adam Pohorecki allows us to use the new features from ECMAScript 6 in Rails apps today, before the next version of JavaScript is officially released. Since a lot of Rails apps tend to make heavy use of JavaScript, it's good to be able to try out some of these features sooner than later.
+</td>
+<td valign='top'>
+<a href='https://github.com/gunpowderlabs/traceur-rb'>
+<img alt="sprockets-traceur" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/521/stories/4464-small.jpg?1421151998" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://github.com/shopify/toxiproxy" style="line-height: 24px;">Toxiproxy</a></h4>
+The team at Shopify recently released a new library for tampering with network connections called Toxiproxy. It provides a TCP proxy system which can be used to simulate network and system conditions.
+</td>
+<td valign='top'>
+<a href='https://github.com/shopify/toxiproxy'>
+<img alt="Toxiproxy" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/521/stories/4465-small.jpg?1421152019" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://codecrate.com/2015/01/email-prefixer-release.html?utm_source=ruby5&amp;utm_medium=podcast&amp;utm_campaign=announcement" style="line-height: 24px;">email_prefixer</a></h4>
+The email_prefixer gem by Ryan Sonnek automatically adds a prefix to the subject line of all delivered emails in development and staging. Great use of ActionMailer::Interceptor, a feature added in Rails 3.1.
+</td>
+<td valign='top'>
+<a href='http://codecrate.com/2015/01/email-prefixer-release.html?utm_source=ruby5&amp;utm_medium=podcast&amp;utm_campaign=announcement'>
+<img alt="email_prefixer" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/521/stories/4466-small.jpg?1421155723" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://blog.bigbinary.com/2015/01/12/phone-verification-using-twilio.html" style="line-height: 24px;">Phone verification using SMS via Twilio</a></h4>
+Santosh Wadghule published a guide on how to perform phone number verification in your Ruby application using the Twilio API. Who needs CAPTCHA? I’m just gonna TEXTYA!
+
+</td>
+<td valign='top'>
+<a href='http://blog.bigbinary.com/2015/01/12/phone-verification-using-twilio.html'>
+<img alt="Phone verification using SMS via Twilio" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/521/stories/4467-small.jpg?1421155744" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr bgcolor='#faf9dc'>
+<td style='padding: 15px;' valign='top'>
+<h4><a href="http://ruby5.envylabs.com" style="line-height: 24px;">Sponsored by Ruby5</a></h4>
+<p>Ruby5 is released Tuesday and Friday mornings.  To stay informed about and active with this podcast, we encourage you to do one of the following:</p>
+
+<ul>
+<li>Follow <a href="http://twitter.com/envylabs" rel="external" target="_blank">Envy Labs</a> on Twitter</li>
+<li>Or, subscribe with <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=327234205" rel="external" target="_blank">iTunes</a> or <a href="http://feeds.feedburner.com/Ruby5" rel="external" target="_blank">RSS</a></li>
+</ul>
+
+<p>This episode was co-produced and edited by audio guru <a href="https://twitter.com/jamisonrabbe" rel="external" target="_blank">Jamison Rabbe</a>.
+</td>
+<td style='padding: 15px;' valign='top'>
+<a href='http://ruby5.envylabs.com'>
+<img alt="Thank You for Listening to Ruby5" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/521/stories/4461-small.jpg?1421151914" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/558-episode-521-january-13th-2015</comments>
+      <pubDate>Tue, 13 Jan 2015 12:49:16 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>This episode covers Ruby methods you should be using, code metrics ...</itunes:subtitle>
+      <itunes:summary>This episode covers Ruby methods you should be using, code metrics that matter, using ES6 on the Rails asset pipeline, tampering with network connections, automatically prefixing email subject lines and phone verification using SMS.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>7:13</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/558-episode-521-january-13th-2015</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/_gl7UDoRefY/521-ruby5.mp3" length="12192121" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/521-ruby5.mp3?1421153041</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #520 - January 9th, 2015</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/OjFiXPyIrjk/557-episode-520-january-9th-2015</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/557-episode-520-january-9th-2015</guid>
+      <author>Karle Durante and Chris Mar</author>
+      <description>
+<![CDATA[<p>
+Rails Misconceptions, performance and minecraft
+<br>
+</p>
+<p><a href="http://ruby5.envylabs.com/episodes/557-episode-520-january-9th-2015" rel="nofollow">Listen to this episode on Ruby5</a></p>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr bgcolor='#faf9dc'>
+<td style='padding: 15px;' valign='top'>
+<h4><a href="http://blog.newrelic.com/2014/12/31/top-10-2014-bl0g-posts/" style="line-height: 24px;">Sponsored by NewRelic</a></h4>
+most popular posts for 2014
+</td>
+<td style='padding: 15px;' valign='top'>
+<a href='http://blog.newrelic.com/2014/12/31/top-10-2014-bl0g-posts/'>
+<img alt="NewRelic" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/520/stories/4453-small.jpg?1420805480" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="tp://codefol.io/posts/why-do-they-say-rails-doesnt-scale" style="line-height: 24px;">Why Do They Say Rails Doesn't Scale?</a></h4>
+Why Do They Say Rails Doesn't Scale?Noah Gibbs posted 4 reasons
+why this miconception still persists
+</td>
+<td valign='top'>
+<a href='tp://codefol.io/posts/why-do-they-say-rails-doesnt-scale'>
+<img alt="Why Do They Say Rails Doesn't Scale?" height="114" src="http://d2odjpuijo94cw.cloudfront.net/thumbnails/small/missing.png" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://viget.com/extend/rails-front-end-performance" style="line-height: 24px;">Speed Up Rails By Starting on the Front</a></h4>
+DOUG AVERY Front-End Development Director at Vigit says
+you Speed Up Rails By Starting on the Front
+</td>
+<td valign='top'>
+<a href='http://viget.com/extend/rails-front-end-performance'>
+<img alt="Speed Up Rails By Starting on the Front" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/520/stories/4455-small.jpg?1420805506" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://blog.phusion.nl/2015/01/06/researching-http-caching-optimization" style="line-height: 24px;">Researching a potential new form of HTTP caching optimization</a></h4>
+the Phusion team is researching a potential new form of HTTP caching optimization
+</td>
+<td valign='top'>
+<a href='http://blog.phusion.nl/2015/01/06/researching-http-caching-optimization'>
+<img alt="Researching a potential new form of HTTP caching optimization" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/520/stories/4456-small.jpg?1420805527" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://www.youtube.com/playlist?list=PLN2jfHfKDn4eQ1B1O_gazraS53i77puGn" style="line-height: 24px;">MicroServices Tutorial!</a></h4>
+MicroServices in Minecraft
+</td>
+<td valign='top'>
+<a href='https://www.youtube.com/playlist?list=PLN2jfHfKDn4eQ1B1O_gazraS53i77puGn'>
+<img alt="MicroServices Tutorial!" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/520/stories/4457-small.jpg?1420805549" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://narkoz.github.io/ginatra/" style="line-height: 24px;">Ginatra 4.0 Released</a></h4>
+Ginatra is a simple web-based git repository browser built on Ruby Sinatra.
+</td>
+<td valign='top'>
+<a href='http://narkoz.github.io/ginatra/'>
+<img alt="Ginatra 4.0 Released" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/520/stories/4458-small.jpg?1420805570" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://ruby5.envylabs.com" style="line-height: 24px;">Closing</a></h4>
+Thank you for listening to Ruby5. Be sure to tune in every Tuesday and Friday
+for the latest news in the Ruby and Rails community.
+</td>
+<td valign='top'>
+<a href='http://ruby5.envylabs.com'>
+<img alt="Closing" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/520/stories/4459-small.jpg?1420805592" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/557-episode-520-january-9th-2015</comments>
+      <pubDate>Fri, 09 Jan 2015 11:31:23 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Rails Misconceptions, performance and minecraft</itunes:subtitle>
+      <itunes:summary>Rails Misconceptions, performance and minecraft</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:32</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/557-episode-520-january-9th-2015</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/_MLWw3m951E/520-ruby5.mp3" length="10533864" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/520-ruby5.mp3?1420802818</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #519 - January 6th, 2015</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/gyrkp_n2zuA/556-episode-519-january-6th-2015</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/556-episode-519-january-6th-2015</guid>
+      <author>Olivier Lacan and Gregg Pollack</author>
+      <description>
+<![CDATA[<p>
+The holidays brought us Ruby 2.2.0 and Rails 4.2.0, Finishing Moves, the end/beginning of RubySpec, a nifty way to bind data from JavaScript to Rails, tips on testing controllers, and the tragic news of James Golick's death.
+<br>
+</p>
+<p><a href="http://ruby5.envylabs.com/episodes/556-episode-519-january-6th-2015" rel="nofollow">Listen to this episode on Ruby5</a></p>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr bgcolor='#faf9dc'>
+<td style='padding: 15px;' valign='top'>
+<h4><a href="https://toprubyjobs.com/" style="line-height: 24px;">Sponsored by Top Ruby Jobs</a></h4>
+If you're looking for a top Ruby job or for top Ruby talent, then you should check out Top Ruby Jobs. Top Ruby Jobs is a website dedicated to the best jobs available in the Ruby community.
+</td>
+<td style='padding: 15px;' valign='top'>
+<a href='https://toprubyjobs.com/'>
+<img alt="Top Ruby Jobs" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4444-small.jpg?1420564271" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://www.ruby-lang.org/en/news/2014/12/25/ruby-2-2-0-released/" style="line-height: 24px;">Ruby 2.2.0 Released</a></h4>
+Ruby 2.2.0 was released on Christmas day, containing a bunch of new features and improvements. The new garbage collector is now able to collect Symbol type objects, reducing memory usage of Symbols. This new version has reduced pause time for garbage collection thanks to the Incremental Garbage Collector. Rails 5.0 will take full advantage of both of these features, when it eventually comes out sometime in the Fall of 2015, requiring Ruby 2.2 or greater.
+</td>
+<td valign='top'>
+<a href='https://www.ruby-lang.org/en/news/2014/12/25/ruby-2-2-0-released/'>
+<img alt="Ruby 2.2.0 Released" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4445-small.jpg?1420564293" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://weblog.rubyonrails.org/2014/12/19/Rails-4-2-final/" style="line-height: 24px;">Rails 4.2.0</a></h4>
+Rails 4.2.0 was also released over the holidays. There’s AdequateRecord, the painstaking multi-year rewrite of ActiveRecord led by Aaron Patterson to improve the performance of ActiveRecord beyond what it was in Rails 2.3 days, which means a lot.There’s also ActiveJob, which was originally planned for Rails 4. It brings a centralized interface for queuing jobs for any queueing systems like Resque, Sidekiq or Delayed Job. There’s also Web Console which gives you the ability to run queries you would usually run in the rails console, but right inside the browser when an exception occurs, which is similar to the better_errors gem. And now, adding and removing foreign keys is properly supported in Rails migrations.
+</td>
+<td valign='top'>
+<a href='http://weblog.rubyonrails.org/2014/12/19/Rails-4-2-final/'>
+<img alt="Rails 4.2.0" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4446-small.jpg?1420564314" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://github.com/forgecrafted/finishing_moves" style="line-height: 24px;">Finishing Moves</a></h4>
+Every now and then you find yourself in a situation where Ruby doesn’t have that one method you need. For example, a nil_chain method, which allows you to write method chains without fear of tripping over a NoMethodError and NameError exception when something throws out a nil value. Sometimes you just want to call something if it exists, and not if it’s nil. The folks over at Forge Software wrapped up a bunch of these useful methods into a gem called “Finishing Moves”. 
+</td>
+<td valign='top'>
+<a href='https://github.com/forgecrafted/finishing_moves'>
+<img alt="Finishing Moves" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4447-small.jpg?1420564335" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://rubini.us/2014/12/31/matz-s-ruby-developers-don-t-use-rubyspec/" style="line-height: 24px;">RubySpec</a></h4>
+On new year’s eve Ruby Hero Brian Shirai wrote a blog post explaining why he is ending the RubySpec project. RubySpec is a set of specifications, or tests, on how Ruby is supposed to run that was taken out of the Rubinius project. The objective was to have a common set of tests, not written in C, that could be run against any Ruby implementation to see if it had all the right behavior for Ruby. The reason why RubySpec is no longer is quite contentious but it seems like collaboration on the project wasn’t optimal between Ruby implementation. There was already a fork from people working on the MRI implementation that tackles some of the issues with RubySpec itself. At the very least we can, we can all agree that knowing how Ruby should behave matters.
+
+Broader discussion available at: https://gist.github.com/nateberkopec/11dbcf0ee7f2c08450ea
+</td>
+<td valign='top'>
+<a href='http://rubini.us/2014/12/31/matz-s-ruby-developers-don-t-use-rubyspec/'>
+<img alt="RubySpec" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4448-small.jpg?1420564356" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://databound.me/" style="line-height: 24px;">Databound</a></h4>
+Domas Bitvinskas dropped us a line yesterday to let us know about Databound, a Ruby gem that provides JavaScript a simple API to the Ruby on Rails CRUD.  Basically it provides you a simple way to write ActiveRecord like functions directly from your JavaScript. So you can do things like User.find(1) from your JavaScript methods, and Databound will take care of calling into your Rails app to find the user with an ID of 1. You don’t even need a controller for the models you want to be able to query for, if you don’t already have one. All you need to do is write a line in your routes file specifying the model you want to be able to query for, and the columns you’re permitted to set from your JavaScript calls. This could be really useful if you want to write more code on the front-end, and less on the back-end.
+
+</td>
+<td valign='top'>
+<a href='http://databound.me/'>
+<img alt="Databound" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4449-small.jpg?1420564377" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://mixandgo.com/blog/how-to-test-controllers-in-rails" style="line-height: 24px;">How to test controllers in Rails</a></h4>
+Occasionally it’s nice to cover a beginner tutorial, and we'd like to mention Cezar Halmagean’s tutorial on testing controllers in Rails. Controllers can be pretty easy to test assuming you know how to stub out calls and set expectations properly. Otherwise they can mimic your integration tests, which is not very useful.
+
+</td>
+<td valign='top'>
+<a href='http://mixandgo.com/blog/how-to-test-controllers-in-rails'>
+<img alt="How to test controllers in Rails" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4450-small.jpg?1420564399" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://medium.com/@benkaufman/remembering-james-golick-23c1dc3ab920" style="line-height: 24px;">Remembering James Golick</a></h4>
+Thanks for everything you did James.
+
+</td>
+<td valign='top'>
+<a href='https://medium.com/@benkaufman/remembering-james-golick-23c1dc3ab920'>
+<img alt="Remembering James Golick" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4451-small.jpg?1420564420" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr bgcolor='#faf9dc'>
+<td style='padding: 15px;' valign='top'>
+<h4><a href="http://ruby5.envylabs.com" style="line-height: 24px;">Sponsored by Ruby5</a></h4>
+<p>Ruby5 is released Tuesday and Friday mornings.  To stay informed about and active with this podcast, we encourage you to do one of the following:</p>
+
+<ul>
+<li>Follow <a href="http://twitter.com/envylabs" rel="external" target="_blank">Envy Labs</a> on Twitter</li>
+<li>Or, subscribe with <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=327234205" rel="external" target="_blank">iTunes</a> or <a href="http://feeds.feedburner.com/Ruby5" rel="external" target="_blank">RSS</a></li>
+</ul>
+
+<p>This episode was co-produced and edited by audio guru <a href="https://twitter.com/jamisonrabbe" rel="external" target="_blank">Jamison Rabbe</a>.
+</td>
+<td style='padding: 15px;' valign='top'>
+<a href='http://ruby5.envylabs.com'>
+<img alt="Thank You for Listening to Ruby5" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/519/stories/4452-small.jpg?1420564441" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/556-episode-519-january-6th-2015</comments>
+      <pubDate>Tue, 06 Jan 2015 16:53:21 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>The holidays brought us Ruby 2.2.0 and Rails 4.2.0, Finishing Moves...</itunes:subtitle>
+      <itunes:summary>The holidays brought us Ruby 2.2.0 and Rails 4.2.0, Finishing Moves, the end/beginning of RubySpec, a nifty way to bind data from JavaScript to Rails, tips on testing controllers, and the tragic news of James Golick's death.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:33</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/556-episode-519-january-6th-2015</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/mGpqEvFIeRo/519-ruby5.mp3" length="10585800" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/519-ruby5.mp3?1420561800</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #518 - December 19, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/H6KE12IZgXA/555-episode-518-december-19-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/555-episode-518-december-19-2014</guid>
+      <author>Chris Mar</author>
+      <description>
+<![CDATA[<p>
+Eastward Ho, Git ours/theirs and where does your code go?
+<br>
+</p>
+<p><a href="http://ruby5.envylabs.com/episodes/555-episode-518-december-19-2014" rel="nofollow">Listen to this episode on Ruby5</a></p>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr bgcolor='#faf9dc'>
+<td style='padding: 15px;' valign='top'>
+<h4><a href="http://blog.newrelic.com/2014/12/12/new-relic-ipo/" style="line-height: 24px;">Sponsored by NewRelic</a></h4>
+NewRelic IPO
+</td>
+<td style='padding: 15px;' valign='top'>
+<a href='http://blog.newrelic.com/2014/12/12/new-relic-ipo/'>
+<img alt="NewRelic" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/518/stories/4437-small.jpg?1418998281" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://www.youtube.com/watch?v=kXcrClJcfm8&amp;feature=youtu.be" style="line-height: 24px;">Eastward Ho</a></h4>
+Eastward Ho discusses some rules around the principles of 'Tell, Don't Ask'.
+</td>
+<td valign='top'>
+<a href='https://www.youtube.com/watch?v=kXcrClJcfm8&amp;feature=youtu.be'>
+<img alt="Eastward Ho" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/518/stories/4438-small.jpg?1418998303" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://www.schneems.com/2014/12/15/hashie-considered-harmful.html" style="line-height: 24px;">An Ode to Hash and OpenStruct</a></h4>
+Richard SCHNEEMS wrote an Ode to An Ode to Hash and OpenStruct
+</td>
+<td valign='top'>
+<a href='http://www.schneems.com/2014/12/15/hashie-considered-harmful.html'>
+<img alt="An Ode to Hash and OpenStruct" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/518/stories/4439-small.jpg?1418998325" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://inlehmansterms.net/2014/12/14/resolving-conflicts-in-git-with-ours-and-theirs/" style="line-height: 24px;">Resolving Git Merge Conflicts</a></h4>
+Resolving Git Merge Conflicts
+
+</td>
+<td valign='top'>
+<a href='http://inlehmansterms.net/2014/12/14/resolving-conflicts-in-git-with-ours-and-theirs/'>
+<img alt="Resolving Git Merge Conflicts" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/518/stories/4440-small.jpg?1418998347" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://www.justinweiss.com/blog/2014/12/16/where-do-you-put-your-code" style="line-height: 24px;">Where Does Your Code Go?</a></h4>
+Justin Weiss recently wrote a blog post on where to put your code when building a rails app.
+
+</td>
+<td valign='top'>
+<a href='http://www.justinweiss.com/blog/2014/12/16/where-do-you-put-your-code'>
+<img alt="Where Does Your Code Go?" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/518/stories/4441-small.jpg?1418998369" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://easyactiverecord.com/blog/2014/12/18/introducing-strong-parameters/" style="line-height: 24px;">Strong Parameters</a></h4>
+ one of my favorite features of Rails 4.0 is the Strong Parameters
+</td>
+<td valign='top'>
+<a href='http://easyactiverecord.com/blog/2014/12/18/introducing-strong-parameters/'>
+<img alt="Strong Parameters" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/518/stories/4442-small.jpg?1418998391" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://ruby5.envylabs.com" style="line-height: 24px;">Closing</a></h4>
+ Thank you for listening to Ruby5. Be sure to tune in every Tuesday and Friday for the latest news in the Ruby and Rails community.
+</td>
+<td valign='top'>
+<a href='http://ruby5.envylabs.com'>
+<img alt="Closing" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/518/stories/4443-small.jpg?1418998412" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/555-episode-518-december-19-2014</comments>
+      <pubDate>Fri, 19 Dec 2014 13:23:12 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Eastward Ho, Git ours/theirs and where does your code go?</itunes:subtitle>
+      <itunes:summary>Eastward Ho, Git ours/theirs and where does your code go?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>7:07</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/555-episode-518-december-19-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/Em2BCk-B_sc/518-ruby5.mp3" length="11168810" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/518-ruby5.mp3?1418994810</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #517 - December 16, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/mjBdRqImqlI/554-episode-517-december-16-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/554-episode-517-december-16-2014</guid>
+      <author>Dan Bickford and Joel Taylor</author>
+      <description>
+<![CDATA[<p>
+This week we have Streem, Rails 4.2.rc3, Papercrop, and RubyMotion 3.0. 
+<br>
+</p>
+<p><a href="http://ruby5.envylabs.com/episodes/554-episode-517-december-16-2014" rel="nofollow">Listen to this episode on Ruby5</a></p>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr bgcolor='#faf9dc'>
+<td style='padding: 15px;' valign='top'>
+<h4><a href="https://toprubyjobs.com/" style="line-height: 24px;">Sponsored by Top ruby Jobs</a></h4>
+If you're looking for a top Ruby job or for top Ruby talent, then you should check out Top Ruby Jobs. Top Ruby Jobs is a website dedicated to the best jobs available in the Ruby community.
+</td>
+<td style='padding: 15px;' valign='top'>
+<a href='https://toprubyjobs.com/'>
+<img alt="Top Ruby Jobs" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/517/stories/4430-small.jpg?1418743350" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://github.com/matz/streem" style="line-height: 24px;">Streem</a></h4>
+Ruby’s creator is working on a new stream based language. It’s in its early days but is clearly influenced by Ruby.
+It is a concurrent scripting language based on a programming model similar to shell, with influences from Ruby and other functional programming languages. Currently, it's still in the design stages.
+
+</td>
+<td valign='top'>
+<a href='https://github.com/matz/streem'>
+<img alt="Streem" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/517/stories/4431-small.jpg?1418746298" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://rubygems.org/gems/rails/versions/4.2.0.rc3" style="line-height: 24px;">Rails 4.2.0 Release Candidate </a></h4>
+The Rails team has just released the third Release Candidate of Rails 4.2 today. Major changes include - Active Jobs, Asychnonous mails, Adequate record, web console, and foreign key support. So far, there haven't been any major regressions for this release, meaning that we are still on track for our target to release the final version of 4.2.0 before Christmas time.
+
+</td>
+<td valign='top'>
+<a href='http://rubygems.org/gems/rails/versions/4.2.0.rc3'>
+<img alt="Rails 4.2.0 Release Candidate " height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/517/stories/4433-small.jpg?1418746349" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="https://github.com/rsantamaria/papercrop" style="line-height: 24px;">Papercrop</a></h4>
+Papercrop is a gem from rsantamaria. It's an easy extension for Paperclip to crop your image uploads using jCrop. It's quite simple to use - there are 2 form helpers (cropbox and crop_preview). Cropbox places an adjustable crop area over the image being cropped and crop_preview renders a small preview of your finished image. Just a note - make sure you allow for additional params when using strong parameters
+</td>
+<td valign='top'>
+<a href='https://github.com/rsantamaria/papercrop'>
+<img alt="Papercrop" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/517/stories/4434-small.jpg?1418746371" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr>
+<td style='padding-right: 20px;' valign='top'>
+<h4><a href="http://www.rubymotion.com/news/2014/12/11/announcing-rubymotion-3.html" style="line-height: 24px;">RubyMotion 3.0</a></h4>
+Last Friday, RubyMotion announced the official release of version 3.0. Since the release of the beta, they’ve been hard at work adding some updates. Most notably, they now support all versions of Android. There’s a bunch of new features too. A debugger interface and a spec framework have been added but it doesn't stop there. 3.0 let’s you write Apple Watch apps with Watchkit, create iOS 8 integrations, iOS 64-bit support, and an overall application size reduction.
+
+</td>
+<td valign='top'>
+<a href='http://www.rubymotion.com/news/2014/12/11/announcing-rubymotion-3.html'>
+<img alt="RubyMotion 3.0" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/517/stories/4435-small.jpg?1418746392" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'>
+<tr bgcolor='#faf9dc'>
+<td style='padding: 15px;' valign='top'>
+<h4><a href="https://www.codeschool.com/gift-of-code" style="line-height: 24px;">Sponsored by Gift of Code</a></h4>
+A sweater might be nice, 
+but you can get something better for the price. 
+There's always room for Far Cry 4,
+but why buy that when you can give so much more? 
+We have something special for the expert all the way to the newbie — give them the gift of HTML, iOS, Git, JavaScript, and Ruby.
+
+Until Dec 31st, For each Gift of Code purchased this holiday season, we will be gifting a 3-month subscription to a non-profit that supports code literacy.
+
+</td>
+<td style='padding: 15px;' valign='top'>
+<a href='https://www.codeschool.com/gift-of-code'>
+<img alt="Code School's Gift of Code" height="114" src="http://media.ruby5.envylabs.com/sites/0001/episodes/517/stories/4436-small.jpg?1418746414" width="152" />
+</a>
+</td>
+</tr>
+<tr>
+<td height='40'></td>
+</tr>
+</table>
+]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/554-episode-517-december-16-2014</comments>
+      <pubDate>Tue, 16 Dec 2014 18:12:45 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>This week we have Streem, Rails 4.2.rc3, Papercrop, and RubyMotion ...</itunes:subtitle>
+      <itunes:summary>This week we have Streem, Rails 4.2.rc3, Papercrop, and RubyMotion 3.0. </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4:15</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/554-episode-517-december-16-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/MR31lEVmnC0/517-ruby5.mp3" length="6139946" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/517-ruby5.mp3?1418745830</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #516 - December 9, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/4JMvJZOCVUI/553-episode-516-december-9-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/553-episode-516-december-9-2014</guid>
+      <author>Olivier Lacan and Katie Delfin</author>
+      <description>
+<![CDATA[This week we have a jRuby security release, a new Command API for ROM, Traveling Ruby, early validations, easy rewrites with Ruby and Science!, and a Rails Camp not too far from Hobbiton. ]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/553-episode-516-december-9-2014</comments>
+      <pubDate>Wed, 10 Dec 2014 04:16:55 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>This week we have a jRuby security release, a new Command API for R...</itunes:subtitle>
+      <itunes:summary>This week we have a jRuby security release, a new Command API for ROM, Traveling Ruby, early validations, easy rewrites with Ruby and Science!, and a Rails Camp not too far from Hobbiton. </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:59</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/553-episode-516-december-9-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/ROI3SMjRmu0/516-ruby5.mp3" length="9626401" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/516-ruby5.mp3?1418228027</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #515 - December 5th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/OAX8pWH1XRE/552-episode-515-december-5th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/552-episode-515-december-5th-2014</guid>
+      <author>Lynn Elliott and Paul Elliott</author>
+      <description>
+<![CDATA[RubyConf 2014 on Confreaks, browser geolocation with Spyme, referential integrity with foreign keys, forwarding messages with tell, and free SecCasts all in this episode of the Ruby5.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/552-episode-515-december-5th-2014</comments>
+      <pubDate>Fri, 05 Dec 2014 16:31:08 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>RubyConf 2014 on Confreaks, browser geolocation with Spyme, referen...</itunes:subtitle>
+      <itunes:summary>RubyConf 2014 on Confreaks, browser geolocation with Spyme, referential integrity with foreign keys, forwarding messages with tell, and free SecCasts all in this episode of the Ruby5.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4:50</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/552-episode-515-december-5th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/SOYyzbnocqg/515-ruby5.mp3" length="7260505" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/515-ruby5.mp3?1417796639</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #514 - December 2, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/_G2G6sQkGDQ/551-episode-514-december-2-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/551-episode-514-december-2-2014</guid>
+      <author>Nathaniel Bibler and Gregg Pollack</author>
+      <description>
+<![CDATA[In this episode we yap about Rails 4.2 RC1, Opal, Deployment, Interpol, Sportdb, Service Objects, and Emails.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/551-episode-514-december-2-2014</comments>
+      <pubDate>Tue, 02 Dec 2014 18:31:41 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>In this episode we yap about Rails 4.2 RC1, Opal, Deployment, Inter...</itunes:subtitle>
+      <itunes:summary>In this episode we yap about Rails 4.2 RC1, Opal, Deployment, Interpol, Sportdb, Service Objects, and Emails.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>7:54</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/551-episode-514-december-2-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/moH1L_opR64/514-ruby5.mp3" length="13144801" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/514-ruby5.mp3?1417544643</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #513 - November 25th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/8aacGvtxYis/550-episode-513-november-25th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/550-episode-513-november-25th-2014</guid>
+      <author>Katie Delfin and Joel Taylor</author>
+      <description>
+<![CDATA[This episode covers the future of Ruby 3.0, the flip flop operator, a gem to ferry your data away, speeding up your Capybara specs, and a new place to find Ruby meet up resources.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/550-episode-513-november-25th-2014</comments>
+      <pubDate>Tue, 25 Nov 2014 14:23:32 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>This episode covers the future of Ruby 3.0, the flip flop operator,...</itunes:subtitle>
+      <itunes:summary>This episode covers the future of Ruby 3.0, the flip flop operator, a gem to ferry your data away, speeding up your Capybara specs, and a new place to find Ruby meet up resources.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:43</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/550-episode-513-november-25th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/HF7dRml3rA8/513-ruby5.mp3" length="11332778" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/513-ruby5.mp3?1416925228</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #512 - November 21st, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/bYTKWnnV3z0/549-episode-512-november-21st-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/549-episode-512-november-21st-2014</guid>
+      <author>Kara Louie and Matthew Conway</author>
+      <description>
+<![CDATA[RubyConf 2014 wrap-up, accelerating your Rails app, RubyGems.org gets redesigned, Heroku wants you to try HTTP Git, and new versions of Rails were released]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/549-episode-512-november-21st-2014</comments>
+      <pubDate>Fri, 21 Nov 2014 21:55:04 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>RubyConf 2014 wrap-up, accelerating your Rails app, RubyGems.org ge...</itunes:subtitle>
+      <itunes:summary>RubyConf 2014 wrap-up, accelerating your Rails app, RubyGems.org gets redesigned, Heroku wants you to try HTTP Git, and new versions of Rails were released</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4:51</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/549-episode-512-november-21st-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/TGbxb--MBP0/512-ruby5.mp3" length="7768706" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/512-ruby5.mp3?1416597363</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #511 - November 18th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/YSj3-we8eDo/548-episode-511-november-18th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/548-episode-511-november-18th-2014</guid>
+      <author>Carlos Souza and Aimee Simone</author>
+      <description>
+<![CDATA[This episode covers Ruby 2.1.5, the templating libraries Scribble and Curly, a statically-typed Ruby called Rubysierung and Minitest-Reporters.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/548-episode-511-november-18th-2014</comments>
+      <pubDate>Tue, 18 Nov 2014 15:09:39 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>This episode covers Ruby 2.1.5, the templating libraries Scribble a...</itunes:subtitle>
+      <itunes:summary>This episode covers Ruby 2.1.5, the templating libraries Scribble and Curly, a statically-typed Ruby called Rubysierung and Minitest-Reporters.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:57</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/548-episode-511-november-18th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/pK-0jojLOpo/511-ruby5.mp3" length="9506341" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/511-ruby5.mp3?1416320397</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #510 - November 14th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/bRVxejxs0CU/547-episode-510-november-14th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/547-episode-510-november-14th-2014</guid>
+      <author>Lynn Elliott and Paul Elliott</author>
+      <description>
+<![CDATA[Tail call optimizations, keeping migrations healthy, how raptor is so much faster, the psychology of SAAS products, and Ru for your CLI all in this episode of the Ruby5!
+]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/547-episode-510-november-14th-2014</comments>
+      <pubDate>Fri, 14 Nov 2014 15:40:57 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Tail call optimizations, keeping migrations healthy, how raptor is ...</itunes:subtitle>
+      <itunes:summary>Tail call optimizations, keeping migrations healthy, how raptor is so much faster, the psychology of SAAS products, and Ru for your CLI all in this episode of the Ruby5!
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:27</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/547-episode-510-november-14th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/uFciD0_eRN4/510-ruby5.mp3" length="8072478" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/510-ruby5.mp3?1415979091</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #509 - November 11, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/MhCVIQj17hk/546-episode-509-november-11-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/546-episode-509-november-11-2014</guid>
+      <author>Nathaniel Bibler and Matthew Closson</author>
+      <description>
+<![CDATA[Command line utilities, autoload paths, a handful of Ruby and Rails releases, security analysis tools, and more on this episode of Ruby5.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/546-episode-509-november-11-2014</comments>
+      <pubDate>Tue, 11 Nov 2014 23:50:01 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Command line utilities, autoload paths, a handful of Ruby and Rails...</itunes:subtitle>
+      <itunes:summary>Command line utilities, autoload paths, a handful of Ruby and Rails releases, security analysis tools, and more on this episode of Ruby5.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:52</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/546-episode-509-november-11-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/0a8yHKDGFkg/509-ruby5.mp3" length="9500968" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/509-ruby5.mp3?1415748891</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #508 - November 7th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/bfEOHq7aVNI/545-episode-508-november-7th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/545-episode-508-november-7th-2014</guid>
+      <author>Chris Mar</author>
+      <description>
+<![CDATA[Rails Rumble Gem teardown, Shopify tears out 28k of javascript, 4 fantastic ways to setup minitest state and Rails with Ember]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/545-episode-508-november-7th-2014</comments>
+      <pubDate>Fri, 07 Nov 2014 10:16:44 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Rails Rumble Gem teardown, Shopify tears out 28k of javascript, 4 f...</itunes:subtitle>
+      <itunes:summary>Rails Rumble Gem teardown, Shopify tears out 28k of javascript, 4 fantastic ways to setup minitest state and Rails with Ember</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:26</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/545-episode-508-november-7th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/7gp4JLi46ZE/508-ruby5.mp3" length="9812790" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/508-ruby5.mp3?1415355086</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #507 - November 4th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/94AweD5bc4s/544-episode-507-november-4th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/544-episode-507-november-4th-2014</guid>
+      <author>Olivier Lacan and Gregg Pollack</author>
+      <description>
+<![CDATA[The shiny new Rubinius 2.3.0, Zopfli-ffi to compress things a lot, Benchmarking Rack Middleware, Enums and Queries in Rails 4.1, Understanding the Ruby Garbage Collector and Hunting for Leaks in Ruby.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/544-episode-507-november-4th-2014</comments>
+      <pubDate>Tue, 04 Nov 2014 18:12:40 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>The shiny new Rubinius 2.3.0, Zopfli-ffi to compress things a lot, ...</itunes:subtitle>
+      <itunes:summary>The shiny new Rubinius 2.3.0, Zopfli-ffi to compress things a lot, Benchmarking Rack Middleware, Enums and Queries in Rails 4.1, Understanding the Ruby Garbage Collector and Hunting for Leaks in Ruby.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>7:10</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/544-episode-507-november-4th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/LICBlGvYYVg/507-ruby5.mp3" length="11275198" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/507-ruby5.mp3?1415123494</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #506 - October 28th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/n9vkHTdHCtc/543-episode-506-october-28th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/543-episode-506-october-28th-2014</guid>
+      <author>Carlos Souza and James Newton</author>
+      <description>
+<![CDATA[Speech recognition with pocketsphinx-ruby, a recent update on the chatbot framework Lita, building and distributing OS X applications with ognivo, using Neo4j in rails, and rails rumble is over!]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/543-episode-506-october-28th-2014</comments>
+      <pubDate>Wed, 29 Oct 2014 00:05:01 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Speech recognition with pocketsphinx-ruby, a recent update on the c...</itunes:subtitle>
+      <itunes:summary>Speech recognition with pocketsphinx-ruby, a recent update on the chatbot framework Lita, building and distributing OS X applications with ognivo, using Neo4j in rails, and rails rumble is over!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:26</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/543-episode-506-october-28th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/u5NS1U_1PmA/506-ruby5.mp3" length="9246774" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/506-ruby5.mp3?1414540606</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #505 - October 24th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/OFdDK34Zfco/542-episode-505-october-24th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/542-episode-505-october-24th-2014</guid>
+      <author>Lynn Elliott and Paul Elliott</author>
+      <description>
+<![CDATA[Enforcing your environment with ENVied, easier payment integration with Payola, faster logic with pippi, multithreading in MRI, and Practicing Rails.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/542-episode-505-october-24th-2014</comments>
+      <pubDate>Fri, 24 Oct 2014 13:15:16 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Enforcing your environment with ENVied, easier payment integration ...</itunes:subtitle>
+      <itunes:summary>Enforcing your environment with ENVied, easier payment integration with Payola, faster logic with pippi, multithreading in MRI, and Practicing Rails.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:13</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/542-episode-505-october-24th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/5ddwEbu22pI/505-ruby5.mp3" length="9481070" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/505-ruby5.mp3?1414156020</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #504 - October 21st, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/VOq0QohDYWM/541-episode-504-october-21st-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/541-episode-504-october-21st-2014</guid>
+      <author>Nathaniel Bibler and Aimee Simone</author>
+      <description>
+<![CDATA[Aimee and Nate talk about UltraHook, Using Capybara in Integration Tests, Background Processing with Einhorn, Barcelona Ruby Conf Top 5, and Raptor.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/541-episode-504-october-21st-2014</comments>
+      <pubDate>Tue, 21 Oct 2014 16:01:09 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Aimee and Nate talk about UltraHook, Using Capybara in Integration ...</itunes:subtitle>
+      <itunes:summary>Aimee and Nate talk about UltraHook, Using Capybara in Integration Tests, Background Processing with Einhorn, Barcelona Ruby Conf Top 5, and Raptor.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:16</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/541-episode-504-october-21st-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/Ws6vULYj5Ts/504-ruby5.mp3" length="8474552" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/504-ruby5.mp3?1413906495</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #503 - October 16th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/N-3iXKr5EZY/540-episode-503-october-16th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/540-episode-503-october-16th-2014</guid>
+      <author>Karle Durante and Chris Mar</author>
+      <description>
+<![CDATA[Unary Operators, Writing fast Ruby, each_with_object, ES6 Transpiler and HStore]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/540-episode-503-october-16th-2014</comments>
+      <pubDate>Fri, 17 Oct 2014 11:47:53 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Unary Operators, Writing fast Ruby, each_with_object, ES6 Transpile...</itunes:subtitle>
+      <itunes:summary>Unary Operators, Writing fast Ruby, each_with_object, ES6 Transpiler and HStore</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:41</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/540-episode-503-october-16th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/EWUbrM3lFQw/503-ruby5.mp3" length="10300126" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/503-ruby5.mp3?1413546126</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #502 - October 14th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/_h3Cw1m47yk/539-episode-502-october-14th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/539-episode-502-october-14th-2014</guid>
+      <author>Olivier Lacan and Gregg Pollack</author>
+      <description>
+<![CDATA[RailsRumble, Ruby Motion for Rails devs, how Ruby Hashes work, how to deal with data migrations, clean up your routes file, and get better logs.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/539-episode-502-october-14th-2014</comments>
+      <pubDate>Tue, 14 Oct 2014 16:55:26 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>RailsRumble, Ruby Motion for Rails devs, how Ruby Hashes work, how ...</itunes:subtitle>
+      <itunes:summary>RailsRumble, Ruby Motion for Rails devs, how Ruby Hashes work, how to deal with data migrations, clean up your routes file, and get better logs.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:53</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/539-episode-502-october-14th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/BPgu-UVkikM/502-ruby5.mp3" length="8700235" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/502-ruby5.mp3?1413304534</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #501 - October 7th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/XotzPEYdS3M/538-episode-501-october-7th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/538-episode-501-october-7th-2014</guid>
+      <author>Matthew Closson and Aimee Simone</author>
+      <description>
+<![CDATA[Rails data migrations, tools for optimization, Bundler::Updater, using UUID with Postgres, 20,000 Leagues Under Active Record, and Ruby 2.2.0]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/538-episode-501-october-7th-2014</comments>
+      <pubDate>Tue, 07 Oct 2014 15:11:28 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Rails data migrations, tools for optimization, Bundler::Updater, us...</itunes:subtitle>
+      <itunes:summary>Rails data migrations, tools for optimization, Bundler::Updater, using UUID with Postgres, 20,000 Leagues Under Active Record, and Ruby 2.2.0</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:01</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/538-episode-501-october-7th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/Jsad6oqD2yI/501-ruby5.mp3" length="9595774" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/501-ruby5.mp3?1412693615</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #500 - October 3rd, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/qtHu5nvbeiE/537-episode-500-october-3rd-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/537-episode-500-october-3rd-2014</guid>
+      <author>Lynn Elliott and Paul Elliott</author>
+      <description>
+<![CDATA[Greenscreen.io, rails-disco, onboarding your junior devs, being a better Rubyist, staging environments, and the anti-pattern of absolutes all in this episode of the Ruby5.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/537-episode-500-october-3rd-2014</comments>
+      <pubDate>Fri, 03 Oct 2014 13:22:09 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Greenscreen.io, rails-disco, onboarding your junior devs, being a b...</itunes:subtitle>
+      <itunes:summary>Greenscreen.io, rails-disco, onboarding your junior devs, being a better Rubyist, staging environments, and the anti-pattern of absolutes all in this episode of the Ruby5.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>6:05</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/537-episode-500-october-3rd-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/7Y9SPjzHcZE/500-ruby5.mp3" length="9417375" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/500-ruby5.mp3?1412341899</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #499 - September 26, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/EmtFEr1_uFY/536-episode-499-september-26-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/536-episode-499-september-26-2014</guid>
+      <author>Karle Durante and Chris Mar</author>
+      <description>
+<![CDATA[Shell Shocked, Factory Girl for frontend tests with  Hangar, and upgrading from Rails 3.2 to 4.2]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/536-episode-499-september-26-2014</comments>
+      <pubDate>Fri, 26 Sep 2014 12:40:09 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Shell Shocked, Factory Girl for frontend tests with  Hangar, and up...</itunes:subtitle>
+      <itunes:summary>Shell Shocked, Factory Girl for frontend tests with  Hangar, and upgrading from Rails 3.2 to 4.2</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:35</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/536-episode-499-september-26-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/gxVYmqjVhHo/499-ruby5.mp3" length="7204926" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/499-ruby5.mp3?1411734825</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #498 - September 23, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/dKQ44nJ7B0U/535-episode-498-september-23-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/535-episode-498-september-23-2014</guid>
+      <author>Nathaniel Bibler and Gregg Pollack</author>
+      <description>
+<![CDATA[We go Airborne for Ruby 2.1.3 while Eagerly Decorating the skies and Swiftly avoiding the Daemons on this episode of Ruby5.]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/535-episode-498-september-23-2014</comments>
+      <pubDate>Tue, 23 Sep 2014 17:59:54 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>We go Airborne for Ruby 2.1.3 while Eagerly Decorating the skies an...</itunes:subtitle>
+      <itunes:summary>We go Airborne for Ruby 2.1.3 while Eagerly Decorating the skies and Swiftly avoiding the Daemons on this episode of Ruby5.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>7:05</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/535-episode-498-september-23-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/TOwv1jRar54/498-ruby5.mp3" length="12104553" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/498-ruby5.mp3?1411493717</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Episode #497 - September 19th, 2014</title>
+      <link>http://feedproxy.google.com/~r/Ruby5/~3/yw1rvdZuiSk/534-episode-497-september-19th-2014</link>
+      <guid isPermaLink="false">http://ruby5.envylabs.com/episodes/534-episode-497-september-19th-2014</guid>
+      <author>Paul Elliott and Matthew Conway</author>
+      <description>
+<![CDATA[Start using Fourchette, roll-out features by the instance, read logs with a little help from your friends, run your own bitcoin node, and say hello to byebug!]]>      </description>
+      <category>Technology</category>
+      <category>News</category>
+      <comments>http://ruby5.envylabs.com/episodes/534-episode-497-september-19th-2014</comments>
+      <pubDate>Fri, 19 Sep 2014 17:36:38 +0000</pubDate>
+      
+      <itunes:author>Envy Labs</itunes:author>
+      <itunes:subtitle>Start using Fourchette, roll-out features by the instance, read log...</itunes:subtitle>
+      <itunes:summary>Start using Fourchette, roll-out features by the instance, read logs with a little help from your friends, run your own bitcoin node, and say hello to byebug!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5:22</itunes:duration>
+    <feedburner:origLink>http://ruby5.envylabs.com/episodes/534-episode-497-september-19th-2014</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/Ruby5/~5/VHilwZ2jRZ8/497-ruby5.mp3" length="8085093" type="audio/mp3" /><feedburner:origEnclosureLink>http://media.ruby5.envylabs.com/sites/0001/episodes/497-ruby5.mp3?1411147312</feedburner:origEnclosureLink></item>
+  </channel>
+</rss>

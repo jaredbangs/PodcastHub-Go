@@ -1,0 +1,374 @@
+Getting http://feeds.feedburner.com/agileanswerman
+OK	Ryan Ripley
+Getting http://www.csbookclub.com/podcast.xml
+OK	CS Book Club
+Getting https://thecommandline.net/feed/
+OK	The Command Line
+Getting http://feeds.feedburner.com/FightingInTheWarRoom
+OK	Fighting In The War Room
+Getting http://monstertalk.skeptic.com/rss
+OK	MonsterTalk
+Getting http://feeds.feedburner.com/DevnologyPodcast
+OK	Devnology Podcast
+Getting http://www.prankcallnation.com/feed/
+OK	Prank Call Nation
+Getting http://simplecast.fm/podcasts/287/rss
+OK	Reboot
+Getting http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss
+OK	StarTalk Radio
+Getting http://simplecast.fm/podcasts/282/rss
+OK	The Bike Shed
+Getting http://smlr.us/?feed=rss2
+OK	Sunday Morning Linux Review » Sunday Morning Linux Review
+Getting http://feeds.serialpodcast.org/serialpodcast
+OK	Serial
+Getting http://thelapse.org/feed/podcast/
+OK	The Lapse Storytelling Podcast
+Getting http://www.phonelosers.org/?s2member_file_remote=yes&s2member_file_inline=yes&s2member_file_download=podcast/ecs-extras-feed.xml
+OK	
+Getting http://feeds.feedburner.com/Turing-Incomplete
+OK	Turing-Incomplete
+Getting http://devrandomshow.org/shows/?f=rss.xml
+ERR	xml: encoding "iso-8859-1" declared but Decoder.CharsetReader is nil
+Getting http://media.signalleaf.com/Entreprogrammers/rss
+ERR	Get http://media.signalleaf.com/Entreprogrammers/rss: dial tcp: lookup media.signalleaf.com: no such host
+Getting http://feed.loveandradio.org/loveplusradio
+OK	Love + Radio
+Getting http://feeds.99percentinvisible.org/99percentinvisible
+OK	99% Invisible
+Getting http://www.kcrw.com/podcast/show/sg
+OK	Strangers
+Getting http://feeds.prx.org/toe
+OK	Benjamen Walker’s Theory of Everything
+Getting http://feed.radiodiaries.org/radio-diaries
+OK	Radio Diaries
+Getting http://feeds.fugitivewaves.org/fugitivewaves
+OK	Fugitive Waves
+Getting http://feeds.feedburner.com/BicyclemarksCommunique
+OK	CitizenReporter.org
+Getting http://nstryker.com/podcast/feed/podcast/?format=mp3
+OK	nathan stryker (mp3)
+Getting http://feeds.feedburner.com/thememorypalace
+OK	the memory palace
+Getting http://postshowrecaps.com/feed/psr-feed/
+OK	Post Show Recaps: LIVE TV & Movie Podcasts with Rob Cesternino 
+Getting http://feeds.wnyc.org/onthemedia
+OK	On the Media
+Getting http://feeds.feedburner.com/LinuxLudditesOgg
+OK	Linux Luddites » Ogg
+Getting http://feeds.feedburner.com/linuxlugcast/JZUx
+OK	LinuxLUGcast – Ogg
+Getting http://www.linuxvoice.com/podcast_ogg.rss
+OK	Linux Voice Podcast
+Getting http://www.npr.org/rss/podcast.php?id=510184
+OK	Intelligence Squared U.S. Debates
+Getting http://podcasts.ricksteves.com/ricksteves.xml
+OK	Travel with Rick Steves
+Getting http://feeds.feedburner.com/judgejohnhodgman
+OK	Judge John Hodgman
+Getting http://feeds.muleradio.net/thebigwebshow
+OK	The Big Web Show
+Getting http://gnuworldorder.info/ogg.xml
+OK	GNU World Order Linux Speex Feed
+Getting http://feeds.feedburner.com/foolishadventureblog
+ERR	XML syntax error on line 70: invalid character entity &ldquo;
+Getting http://feeds.soundcloud.com/users/50980903-thinkdistributedio/tracks
+OK	Think Distributed
+Getting http://www.npr.org/rss/podcast.php?id=510294
+OK	Snap Judgment
+Getting http://zerosnheroes.com/podcasts-only/rss2.aspx
+ERR	XML syntax error on line 13: invalid character entity &raquo;
+Getting http://smodcast.com/channels/edumacation-2/feed
+OK	SModcast
+Getting http://brentwestwood.com/?feed=rss2
+OK	The Brent Westwood Show - Prank Calls!
+Getting http://feeds.feedburner.com/TheFoodFightShow
+OK	The Food Fight Show
+Getting http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss
+OK	Stuff You Should Know
+Getting http://gcr.podomatic.com/rss2.xml
+ERR	XML syntax error on line 6: expected attribute name in element
+Getting http://feeds.feedburner.com/castofkings
+OK	A Cast of Kings - A Game of Thrones Podcast
+Getting http://www.meta-cast.com/feeds/posts/default
+OK	Meta-Cast
+Getting http://productpeople.tv/category/episodes/feed
+OK	Product People » Episodes
+Getting http://feeds.feedburner.com/thisagilelife/podcast
+OK	This Agile Life
+Getting http://www.phonelosers.org/feed/
+OK	Phone Losers of America
+Getting http://thechangelog.com/category/podcast/feed/
+OK	The Changelog
+Getting http://agiletoolkit.libsyn.com/rss
+OK	Agile Toolkit Podcast
+Getting http://feeds.feedburner.com/madhouseprankcast
+OK	Madhouse Radio Prank Call Podcast
+Getting http://www.phonelosers.org/rss_snowplowshow.xml
+OK	The Snow Plow Show
+Getting http://feeds.feedburner.com/JavascriptJabber
+OK	JavaScript Jabber
+Getting http://feeds.feedburner.com/wideteams/podcast
+OK	Wide Teams
+Getting http://podcasts.thoughtbot.com/giantrobots.xml
+OK	Giant Robots Smashing into other Giant Robots Podcast
+Getting http://www.cbc.ca/podcasting/includes/wiretap.xml
+OK	Wiretap from CBC Radio
+Getting http://feeds.feedburner.com/RobCesternino
+OK	Rob Has a Podcast | Survivor / Big Brother / Amazing Race - RHAP
+Getting http://a.abc.com/abc/xml/podcastRSS?feedPublishKey=3421
+ERR	EOF
+Getting http://prankitup.sideshownetwork.libsynpro.com/rss
+OK	Prank It Up! with Tom Mabe
+Getting http://feeds.feedburner.com/thetruthapm
+OK	The Truth
+Getting http://feeds.feedburner.com/JesseLibertyYapcast
+OK	Jesse Liberty » YapCast
+Getting http://survivorpodcast.com/feed/podcast/
+OK	The Tribe: A Survivor Podcast
+Getting http://smodcast.com/channels/smodcast/feed
+OK	SModcast
+Getting http://smodcast.com/channels/netheads/feed
+OK	NetHeads
+Getting http://scalatypes.com/rss
+OK	Tutoriais da Net
+Getting http://feeds.feedburner.com/netRocksFullMp3Downloads
+OK	.NET Rocks!
+Getting http://rubyrogues.com/feed/
+OK	The Ruby Rogues
+Getting http://www.npr.org/rss/podcast.php?id=510289
+OK	Planet Money
+Getting http://feeds.feedburner.com/joeybeninghove
+OK	
+Getting http://www.jsclasses.org/blog/category/podcast/post/latest.rss
+OK	Lately in JavaScript podcast
+Getting http://afterthetone.org/rss.xml
+ERR	Get http://afterthetone.org/rss.xml: read tcp 50.63.202.42:80: connection reset by peer
+Getting http://www.frostbitemedia.org/all/ogg.xml
+ERR	XML syntax error on line 25: invalid character entity &raquo;
+Getting http://feeds.feedburner.com/the-javascript-show
+OK	
+Getting http://cactiradio.com/prankshow/rss
+OK	
+The Snow Plow Show Prank Call Podcast
+
+Getting http://omgthefunshow.blogspot.com/feeds/posts/default?alt=rss
+OK	THE FUN SHOW cactiradio.com
+Getting http://venturavineyard.org/The_Ventura_Vineyard_Podcast.xml
+OK	The Ventura Vineyard Podcast
+Getting http://www.bobharper.org/feed/
+OK	BobHarper.org
+Getting http://faif.us/feeds/cast-ogg/
+OK	Free as in Freedom
+Getting http://feeds.feedburner.com/DistributedPodcast
+OK	Distributed Podcast
+Getting http://basementcoders.com/?feed=podcast
+OK	The Basement Coders
+Getting http://linuxindahouse.org/linuxindahouse_ogg.rss
+OK	Linux In Da House  Ogg-Vorbis Feed
+Getting http://feeds.feedburner.com/NodeUp
+OK	NodeUp
+Getting http://afterthetone.org/rss.xml
+ERR	Get http://afterthetone.org/rss.xml: read tcp 50.63.202.42:80: connection reset by peer
+Getting http://www.botar.us/botr.xml
+OK	botar's old time radio
+Getting http://static.scripting.com/rss.xml
+OK	Scripting News
+Getting http://www.bobharper.org/feed/
+OK	BobHarper.org
+Getting http://feeds.feedburner.com/AndroidCentralPodcast
+OK	Android Central Podcast
+Getting http://feeds.feedburner.com/railscoach
+OK	Teach Me To Code Podcast
+Getting http://thetailendpodcast.wordpress.com/feed/
+OK	The Tail End
+Getting http://www.jonathanhelser.com/jonathanhelser/Podcast/rss.xml
+ERR	XML syntax error on line 2: attribute name without = in element
+Getting http://feeds.feedburner.com/ThisDevelopersLife
+OK	This Developer's Life
+Getting http://www.acrossad.org/audio/rss.xml
+OK	
+Getting http://feeds.feedburner.com/igniteyourcoding
+OK	Microsoft Canada Ignite Your Coding
+Getting http://lifeinohio.libsyn.com/rss
+OK	Life in Ohio Podcast
+Getting http://dafixershideout.blogspot.com/feeds/posts/default
+OK	
+Getting http://noapologies1225.podomatic.com/rss2.xml
+OK	Darrell Taylor's Podcast
+Getting http://feeds.feedburner.com/GillmorGangAudio
+OK	Rackspace Startups
+Getting http://feeds.feedburner.com/thedevshow
+OK	The Dev Show
+Getting http://feeds.feedburner.com/geronimojacksbeard
+OK	Geronimo Jack's Beard
+Getting http://www.kernelpanicoggcast.net/rss.xml
+ERR	xml: encoding "iso-8859-1" declared but Decoder.CharsetReader is nil
+Getting http://www.mythtvcast.com/rss.php
+OK	MythTV Cast RSS Feed
+Getting http://feeds.feedburner.com/37signals_podcast
+OK	37signals Podcast
+Getting http://feeds.feedburner.com/jQueryPodcast
+OK	The Official jQuery Podcast
+Getting http://feeds.themoth.org/themothpodcast
+OK	The Moth Podcast
+Getting http://feeds.connectedshow.com/ConnectedShow
+ERR	XML syntax error on line 10: element <meta> closed by </head>
+Getting http://feeds.feedburner.com/yayQuery
+OK	yayQuery
+Getting http://feeds.feedburner.com/TheSmackdown
+OK	Developer Smackdown
+Getting http://feeds.feedburner.com/Ruby5
+OK	Ruby5
+Getting http://lottalinuxlinks.com/podcast/ogg.xml
+ERR	XML syntax error on line 9: element <hr> closed by </body>
+Getting http://feeds.rapidfeeds.com/11563/
+OK	
+Getting http://www.phonelosers.org/phone_show.xml
+OK	The Phone Show
+Getting http://vpodcast.net/feed/
+ERR	XML syntax error on line 6: element <hr> closed by </body>
+Getting http://www.hhwlod.com/index.php?format=feed&type=rss
+OK	HHWLOD Podcast Network
+Getting http://feeds2.feedburner.com/TheGillmorGangShow
+OK	Bootleg Gillmor Gang
+Getting http://thehatdecides.libsyn.com/rss
+OK	The Hat Decides Podcast
+Getting http://www.2600.com/voli/voli-broadband.xml
+OK	The Voice of Long Island: high-bitrate MP3 feed
+Getting http://skeptoid.com/podcast.xml
+OK	Skeptoid
+Getting http://feeds.feedburner.com/deepfriedbytes
+OK	Deep Fried Bytes
+Getting http://feeds.feedburner.com/ThirstyDeveloperPodcast
+OK	The Thirsty Developer - Podcast
+Getting http://herdingcode.com/?feed=rss2
+OK	Herding Code
+Getting http://feeds.feedburner.com/altnetpodcast
+ERR	XML syntax error on line 178: element <meta> closed by </head>
+Getting http://feeds.feedburner.com/TheGillmorGang/
+OK	TechCrunch » Gillmor Gang
+Getting http://www.theskepticsguide.org/rss.xml
+OK	
+Getting http://feeds.feedburner.com/railsenvy-podcast
+OK	The Ruby Show
+Getting http://feeds.feedburner.com/ThisAintYourDadsJava
+OK	This Ain't Your Dad's Java
+Getting http://thelinuxlink.net/files/lager_mp3.rss
+OK	LaGER: GNU/Linux and Games/Entertainment Radio
+Getting http://thebadapples.info/thebadapples/HOME/rss.xml
+ERR	Get http://thebadapples.info/thebadapples/HOME/rss.xml: read tcp 50.63.202.51:80: connection reset by peer
+Getting http://www.hackerpublicradio.org/hpr_ogg_rss.php
+OK	Hacker Public Radio
+Getting http://feeds.feedburner.com/linuxreality
+OK	Linux Reality Podcast (MP3 Feed)
+Getting http://blog.stackoverflow.com/?feed=podcast
+OK	The Stack Overflow Podcast
+Getting http://pixel8.infragistics.com/podcast/feed
+OK	pixel8 :: what makes great user experiences?
+Getting http://lottalinuxlinks.com/podcast/rss.xml
+ERR	XML syntax error on line 9: element <hr> closed by </body>
+Getting http://feeds.feedburner.com/se-radio?q=rss
+OK	Software Engineering Radio - The Podcast for Professional Software Developers
+Getting http://feeds.feedburner.com/GoogleDeveloperPodcast
+OK	Google Developer Podcast
+Getting http://feeds.feedburner.com/TheDotNetPreacher
+OK	
+Getting http://feeds.feedburner.com/learning-rails
+OK	Learning Rails
+Getting http://pragprog.com/podcasts/feed.rss
+OK	Pragmatic Podcasts
+Getting http://feeds.feedburner.com/railscasts
+OK	RailsCasts
+Getting http://media.fngtps.com/rubybanter/feed.xml
+ERR	Get http://media.fngtps.com/rubybanter/feed.xml: dial tcp 83.138.128.83:80: i/o timeout
+Getting http://www.rubyology.com/podcasts/rss
+OK	Rubyology
+Getting http://www.wnyc.org/shows/radiolab/index.xml
+OK	Radiolab
+Getting http://podcast.seti.org/index.html
+OK	
+Getting http://panelologists.libsyn.com/rss
+OK	Quiet! Panelologists At Work
+Getting http://www.npr.org/rss/podcast.php?id=510168
+OK	GeekSpeak
+Getting http://radio.seti.org/index.xml
+ERR	XML syntax error on line 33: invalid character entity &from (no semicolon)
+Getting http://www.lugradio.org/episodes.rss
+OK	LugRadio (high-quality mp3)
+Getting http://google-code-updates.blogspot.com/feeds/posts/default/-/podcast
+OK	
+Getting http://feeds.feedburner.com/JJRambleCast
+OK	
+Getting http://www.qdnow.com/grammar.xml
+OK	Grammar Girl Quick and Dirty Tips for Better Writing
+Getting http://www.hanselminutes.com/master_hanselminutes_mp3direct.xml
+OK	Hanselminutes
+Getting http://feeds.feedburner.com/RunasRadio
+OK	RunAs Radio
+Getting http://feeds.feedburner.com/43FPodcast
+ERR	XML syntax error on line 157: unexpected EOF
+Getting http://www.davidco.com/master_rss.php?usm=1
+ERR	XML syntax error on line 5: expected attribute name in element
+Getting http://www.npr.org/rss/podcast.php?id=35
+OK	Wait Wait... Don't Tell Me!
+Getting http://www.brad-carter.com/rss.xml
+ERR	xml: encoding "iso-8859-1" declared but Decoder.CharsetReader is nil
+Getting http://www.thelinuxlink.net/tllts/tllts_ogg.rss
+OK	The Linux Link Tech Show Ogg-Vorbis Feed
+Getting http://www.tmbg.com/_media/_pod/podcast.xml
+OK	They Might Be Giants Podcast
+Getting http://leoville.tv/podcasts/floss.xml
+OK	FLOSS Weekly (MP3)
+Getting http://www.thisamericanlife.org/podcast.xml
+OK	This American Life
+Getting http://feeds.feedburner.com/Cellcast
+OK	CellCast
+Getting http://www.pray-as-you-go.org/mp3/rss.xml
+OK	pray-as-you-go
+Getting http://www.comicgeekspeak.com/cgs-main-rss.xml
+OK	Comic Geek Speak Podcast - The Best Comic Book Podcast
+Getting http://abc.go.com/primetime/lost/itunes.xml
+ERR	XML syntax error on line 53: invalid character entity &slau (no semicolon)
+Getting http://feeds.feedburner.com/Lostcasts
+OK	LOSTCasts
+Getting http://feeds.feedburner.com/Radrails
+ERR	XML syntax error on line 5: invalid character entity &middot;
+Getting http://feeds.feedburner.com/WebdevradioPodcastHome
+OK	WebDevRadio.com - web development podcast
+Getting http://media.ajaxian.com
+OK	Audible Ajax
+Getting http://www.codesermon.org/portals/15/podcast.xml
+OK	Code Sermon.org
+Getting http://ebadre.audioblog.com/rss/ajaxradio.xml
+OK	Nitobi's Enterprise AJAX Podcast
+Getting http://leo.am/podcasts/floss
+OK	FLOSS Weekly (MP3)
+Getting http://feeds.feedburner.com/NetObjectivesPodcast_LAST
+OK	Lean Agile Straight Talk podcast
+Getting http://blogs.alfresco.com/opentalk/feed/
+ERR	XML syntax error on line 8: invalid character entity &rsaquo;
+Getting http://polymorphicpodcast.com/podcast/feed/
+ERR	XML syntax error on line 28: unquoted or missing attribute value in element
+Getting http://feeds.feedburner.com/cmdln
+OK	The Command Line Podcast
+Getting http://feeds.feedburner.com/javaposse
+OK	The Java Posse
+Getting http://feeds.feedburner.com/webaxe
+OK	webaxe
+Getting http://www.2600.com/otw-broadband.xml
+OK	Off The Wall (high-bitrate)
+Getting http://www.2600.com/oth-broadband.xml
+OK	Off The Hook (high-bitrate)
+Getting http://feeds.feedburner.com/web20Show
+OK	Us Phone Plans
+Getting http://www.phonelosers.org/rss.xml
+OK	
+The Snow Plow Show Prank Call Podcast
+
+Getting http://bellcoreradio.net/rss.xml
+ERR	Get http://bellcoreradio.net/rss.xml: dial tcp: lookup bellcoreradio.net: no such host
+Getting http://hackermedia.org/?feed=rss2
+ERR	XML syntax error on line 24: element <img> closed by </a>
+Getting http://smodcast.com/feed/
+OK	SModcast

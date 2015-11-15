@@ -1,0 +1,2108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0"><channel>
+
+<title>NodeUp</title>
+
+<link>http://nodeup.com</link>
+
+<description>NodeUp is a podcast about Node.js</description>
+
+<language>en-us</language>
+
+<copyright>nodeup.com</copyright>
+
+<itunes:subtitle>NodeUp is a podcast about Node.js</itunes:subtitle>
+
+<itunes:author>A Node.js Podcast</itunes:author>
+
+<itunes:summary>NodeUp is a podcast about Node.js</itunes:summary>
+
+<itunes:new-feed-url>http://feeds.feedburner.com/NodeUp</itunes:new-feed-url>
+
+
+
+<itunes:image href="http://nodeup.com/logo2.jpg" />
+
+
+
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/NodeUp" /><feedburner:info uri="nodeup" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>nodeup.com</media:copyright><media:thumbnail url="http://nodeup.com/logo2.jpg" /><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>nodeup@gmail.com</itunes:email></itunes:owner><itunes:explicit>no</itunes:explicit><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category><item>
+
+<title>94 - A Node.js Interactive Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Dan Shaw is joined by Mikeal Rogers and Kassandra Perch to talk about Node.js Interactive!</itunes:subtitle>
+
+<itunes:summary>Dan Shaw is joined by Mikeal Rogers and Kassandra Perch to talk about Node.js Interactive!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp94/NodeUp94.mp3</guid>
+
+<pubDate>Thu, 5 Nov 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>35:34</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, interactive</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/8Vv3fqFuwWY/NodeUp94.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/8Vv3fqFuwWY" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/8Vv3fqFuwWY/NodeUp94.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp94/NodeUp94.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/8Vv3fqFuwWY/NodeUp94.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp94/NodeUp94.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>93 - An LTS Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rich Trott is joined by James Snell and Kat Marchán to talk about long-term support!</itunes:subtitle>
+
+<itunes:summary>Rich Trott is joined by James Snell and Kat Marchán to talk about long-term support!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp93/NodeUp93.mp3</guid>
+
+<pubDate>Sat, 31 Oct 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>42:59</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, 4.0, io.js, lts</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/VqaG6YjDyHU/NodeUp93.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/VqaG6YjDyHU" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/VqaG6YjDyHU/NodeUp93.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp93/NodeUp93.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/VqaG6YjDyHU/NodeUp93.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp93/NodeUp93.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>92 - A Node 4.0 Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg is joined by Rich Trott and Evan Lucas to talk about Node 4.0!</itunes:subtitle>
+
+<itunes:summary>Rod Vagg is joined by Rich Trott and Evan Lucas to talk about Node 4.0!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp92/NodeUp92.mp3</guid>
+
+<pubDate>Tue, 20 Oct 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>56:35</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, 4.0, io.js</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/VZDSqlFumVQ/NodeUp92.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/VZDSqlFumVQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/VZDSqlFumVQ/NodeUp92.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp92/NodeUp92.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/VZDSqlFumVQ/NodeUp92.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp92/NodeUp92.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>91 - An Onboarding Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Dan Shaw is joined by Rich Trott and Jeremiah Senkpiel to talk about Node’s onboarding process!</itunes:subtitle>
+
+<itunes:summary>Dan Shaw is joined by Rich Trott and Jeremiah Senkpiel to talk about Node’s onboarding process!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp91/NodeUp91%20-%20Final%202.mp3</guid>
+
+<pubDate>Fri, 18 Sep 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>36:03</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, onboarding</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/mEQgElN1LPw/NodeUp91%20-%20Final%202.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/mEQgElN1LPw" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/mEQgElN1LPw/NodeUp91%20-%20Final%202.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp91/NodeUp91%20-%20Final%202.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/mEQgElN1LPw/NodeUp91%20-%20Final%202.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp91/NodeUp91%20-%20Final%202.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>90 - A Reactive Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Tim Oxley is joined by Matt Podwysocki to talk about reactive programming!</itunes:subtitle>
+
+<itunes:summary>Tim Oxley is joined by Matt Podwysocki to talk about reactive programming!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp90/NodeUp90.mp3</guid>
+
+<pubDate>Tue, 26 Jul 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>1:01:27</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, reactive, rxjs</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/pHlHK74SBEE/NodeUp90.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/pHlHK74SBEE" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/pHlHK74SBEE/NodeUp90.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp90/NodeUp90.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/pHlHK74SBEE/NodeUp90.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp90/NodeUp90.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>89 - An npm 3 Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Tim Oxley is joined by Kat Marchán, Rebecca Turner and Forrest Norvell to talk about npm 3!</itunes:subtitle>
+
+<itunes:summary>Tim Oxley is joined by Kat Marchán, Rebecca Turner and Forrest Norvell to talk about npm 3!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp89/NodeUp89.mp3</guid>
+
+<pubDate>Tue, 14 Jul 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>45:52</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, npm</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/d_r5MQaCeF8/NodeUp89.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/d_r5MQaCeF8" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/d_r5MQaCeF8/NodeUp89.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp89/NodeUp89.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/d_r5MQaCeF8/NodeUp89.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp89/NodeUp89.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>88 - A Convergence Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg is joined by Colin Ihrig, Jeremiah Senkpiel and James Snell to talk about the convergence of node.js and io.js!</itunes:subtitle>
+
+<itunes:summary>Rod Vagg is joined by Colin Ihrig, Jeremiah Senkpiel and James Snell to talk about the convergence of node.js and io.js!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp88Final/NodeUp88Final.mp3</guid>
+
+<pubDate>Sun, 5 Jul 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>1:15:41</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, io.js</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/MejmQXcoV-k/NodeUp88Final.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/MejmQXcoV-k" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/MejmQXcoV-k/NodeUp88Final.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp88Final/NodeUp88Final.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/MejmQXcoV-k/NodeUp88Final.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp88Final/NodeUp88Final.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>87 - A Packages and Modules Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Tim Oxley is joined by Zeke Sikelianos, Aria Stewart and Yoshua Wuyts to talk about packages and modules!</itunes:subtitle>
+
+<itunes:summary>Tim Oxley is joined by Zeke Sikelianos, Aria Stewart and Yoshua Wuyts to talk about packages and modules!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp87/NodeUp87_01.L.mp3</guid>
+
+<pubDate>Sun, 17 May 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>55:59</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, packages, modules</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/wKyhJa3_Iw8/NodeUp87_01.L.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/wKyhJa3_Iw8" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/wKyhJa3_Iw8/NodeUp87_01.L.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp87/NodeUp87_01.L.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/wKyhJa3_Iw8/NodeUp87_01.L.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp87/NodeUp87_01.L.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>86 - A New Zealand Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg and Tim Oxley are joined by Sarah Hui, Alex Gibson, George Will, Dominic Tarr in New Zealand!</itunes:subtitle>
+
+<itunes:summary>Rod Vagg and Tim Oxley are joined by Sarah Hui, Alex Gibson, George Will, Dominic Tarr in New Zealand!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp86_201504/NodeUp86.mp3</guid>
+
+<pubDate>Sat, 18 Apr 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>50:57</itunes:duration>
+
+<itunes:keywords>io.js, node.js, node, javascript, new zealand</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/G3QOQ6Hs2Pw/NodeUp86.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/G3QOQ6Hs2Pw" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/G3QOQ6Hs2Pw/NodeUp86.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp86_201504/NodeUp86.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/G3QOQ6Hs2Pw/NodeUp86.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp86_201504/NodeUp86.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>85 - A Tessel 2 Show. </title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Tim Oxley is joined by Kelsey Breseman, Jon McKay, Tim Ryan and Nicholas Vandewalle to talk about the Tessel 2.</itunes:subtitle>
+
+<itunes:summary>Tim Oxley is joined by Kelsey Breseman, Jon McKay, Tim Ryan and Nicholas Vandewalle to talk about the Tessel 2.</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp85/NodeUp%2085_01.mp3</guid>
+
+<pubDate>Fri, 27 Mar 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>1:07:32</itunes:duration>
+
+<itunes:keywords>io.js, node.js, node, javascript, tessel</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/bzknr61ooNc/NodeUp%2085_01.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/bzknr61ooNc" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/bzknr61ooNc/NodeUp%2085_01.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp85/NodeUp%2085_01.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/bzknr61ooNc/NodeUp%2085_01.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp85/NodeUp%2085_01.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>84 - io.js Update #1.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>This is the first of an io.js update series hosted by Mikeal Rogers. Today we’re joined by Trevor Norris and Bradley Meck!</itunes:subtitle>
+
+<itunes:summary>This is the first of an io.js update series hosted by Mikeal Rogers. Today we’re joined by Trevor Norris and Bradley Meck!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp84IojsUpdate1/NodeUp84_iojs_update_1.mp3</guid>
+
+<pubDate>Wed, 4 Mar 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>32:01</itunes:duration>
+
+<itunes:keywords>io.js, node.js, node, javascript, libuv</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/u0eQ691olwA/NodeUp84_iojs_update_1.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/u0eQ691olwA" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/u0eQ691olwA/NodeUp84_iojs_update_1.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp84IojsUpdate1/NodeUp84_iojs_update_1.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/u0eQ691olwA/NodeUp84_iojs_update_1.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp84IojsUpdate1/NodeUp84_iojs_update_1.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>83 - A libuv Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg is joined by Bert Belder, Saúl Ibarra Corretgé, Tim Caswell and Trevor Norris to discuss libuv!</itunes:subtitle>
+
+<itunes:summary>Rod Vagg is joined by Bert Belder, Saúl Ibarra Corretgé, Tim Caswell and Trevor Norris to discuss libuv!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp83/NodeUp83.mp3</guid>
+
+<pubDate>Mon, 16 Feb 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>1:06:58</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, libuv</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/8MppE-1XdH0/NodeUp83.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/8MppE-1XdH0" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/8MppE-1XdH0/NodeUp83.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp83/NodeUp83.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/8MppE-1XdH0/NodeUp83.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp83/NodeUp83.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>82 - A 6to5 Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Tim Oxley is joined by Sebastian McKenzie and Denis Pushkarev to talk about 6to5!</itunes:subtitle>
+
+<itunes:summary>Tim Oxley is joined by Sebastian McKenzie and Denis Pushkarev to talk about 6to5!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp82/NodeUp82.mp3</guid>
+
+<pubDate>Fri, 30 Jan 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>57:49</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, 6to5</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/yHkcXe2Vmc4/NodeUp82.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/yHkcXe2Vmc4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/yHkcXe2Vmc4/NodeUp82.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp82/NodeUp82.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/yHkcXe2Vmc4/NodeUp82.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp82/NodeUp82.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>81 - An io.js Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers is joined by Isaac Schlueter and Chris Dickinson to bring everyone up to speed on io.js!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers is joined by Isaac Schlueter and Chris Dickinson to bring everyone up to speed on io.js!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp81/NodeUp81.mp3</guid>
+
+<pubDate>Tue, 13 Jan 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>39:20</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, io.js</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/OuuKT110nIA/NodeUp81.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/OuuKT110nIA" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/OuuKT110nIA/NodeUp81.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp81/NodeUp81.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/OuuKT110nIA/NodeUp81.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp81/NodeUp81.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>80 - A Developer Mental Health Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg is joined by Aria Stewart, Ed Finkler and Greg Baugues get together to discuss developer mental health.</itunes:subtitle>
+
+<itunes:summary>Rod Vagg is joined by Aria Stewart, Ed Finkler and Greg Baugues get together to discuss developer mental health.</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp80/NodeUp80.mp3</guid>
+
+<pubDate>Mon, 22 Dec 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>40:20</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, developer, mental, health</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/DKc6k6nxvc8/NodeUp80.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/DKc6k6nxvc8" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/DKc6k6nxvc8/NodeUp80.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp80/NodeUp80.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/DKc6k6nxvc8/NodeUp80.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp80/NodeUp80.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>79 - A Content Platform Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg is joined by Hannah Wolfe, David Kaneda, Jed Watson and Benjamin Lupton to talk about content platforms built with Node!</itunes:subtitle>
+
+<itunes:summary>Rod Vagg is joined by Hannah Wolfe, David Kaneda, Jed Watson and Benjamin Lupton to talk about content platforms built with Node!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp79/NodeUp79.mp3</guid>
+
+<pubDate>Tue, 16 Dec 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:37:05</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, content, platform</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/0FnTnjJlaEQ/NodeUp79.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/0FnTnjJlaEQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/0FnTnjJlaEQ/NodeUp79.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp79/NodeUp79.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/0FnTnjJlaEQ/NodeUp79.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp79/NodeUp79.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>78 - A Nodevember Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Will Golden, Kevin Old, Jason Meyers, Nicholas Young and Rodney Norris live at Nodevember!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Will Golden, Kevin Old, Jason Meyers, Nicholas Young and Rodney Norris live at Nodevember!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp78FINAL1/NodeUp78%20-%20FINAL%20%281%29.mp3</guid>
+
+<pubDate>Thu, 4 Dec 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>43:34</itunes:duration>
+
+<itunes:keywords>nodevember, node.js, node, javascript, nashville</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/zm4V6s-Vn7Y/NodeUp78%20-%20FINAL%20%281%29.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/zm4V6s-Vn7Y" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/zm4V6s-Vn7Y/NodeUp78%20-%20FINAL%20%281%29.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp78FINAL1/NodeUp78%20-%20FINAL%20%281%29.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/zm4V6s-Vn7Y/NodeUp78%20-%20FINAL%20%281%29.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp78FINAL1/NodeUp78%20-%20FINAL%20%281%29.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>77 - A Testing Show at CampJS.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg and Tim Oxley are joined by Damon Oehlman, Thorsten Lorenz and Keith Pitt live at CampJS to talk about testing!</itunes:subtitle>
+
+<itunes:summary>Rod Vagg and Tim Oxley are joined by Damon Oehlman, Thorsten Lorenz and Keith Pitt live at CampJS to talk about testing!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp77FINAL/NodeUp77%20-%20FINAL.mp3</guid>
+
+<pubDate>Thu, 27 Nov 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:23:54</itunes:duration>
+
+<itunes:keywords>testing, camp.js, node.js, node, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/kyMwY4DRPyY/NodeUp77%20-%20FINAL.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/kyMwY4DRPyY" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/kyMwY4DRPyY/NodeUp77%20-%20FINAL.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp77FINAL/NodeUp77%20-%20FINAL.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/kyMwY4DRPyY/NodeUp77%20-%20FINAL.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp77FINAL/NodeUp77%20-%20FINAL.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>76 - A Structuring Applications Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Tim Oxley is joined by Aria Stewart, Dustin Diaz and Jake Verbaten to discuss structuring node application!</itunes:subtitle>
+
+<itunes:summary>Tim Oxley is joined by Aria Stewart, Dustin Diaz and Jake Verbaten to discuss structuring node application!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp76/NodeUp76.mp3</guid>
+
+<pubDate>Fri, 14 Nov 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:18:59</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/94jgGhEQmgc/NodeUp76.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/94jgGhEQmgc" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/94jgGhEQmgc/NodeUp76.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp76/NodeUp76.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/94jgGhEQmgc/NodeUp76.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp76/NodeUp76.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>75 - A NodeForward Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers is joined by Forrest Norvell and Rod Vagg to talk about NodeForward!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers is joined by Forrest Norvell and Rod Vagg to talk about NodeForward!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp75/NodeUp75.mp3</guid>
+
+<pubDate>Tue, 4 Nov 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>51:55</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, node-forward, nodeforward</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/sswItq_2cJU/NodeUp75.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/sswItq_2cJU" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/sswItq_2cJU/NodeUp75.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp75/NodeUp75.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/sswItq_2cJU/NodeUp75.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp75/NodeUp75.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>74 - A Future of npm Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Isaac Schlueter, Rebecca Turner, CJ Silverio and Zeke Sikelianos to talk about the future of npm!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Isaac Schlueter, Rebecca Turner, CJ Silverio and Zeke Sikelianos to talk about the future of npm!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp74/NodeUp74.mp3</guid>
+
+<pubDate>Tue, 14 Oct 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>47:14</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, npm, npm.js</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/xNL-SIgGTo0/NodeUp74.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/xNL-SIgGTo0" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/xNL-SIgGTo0/NodeUp74.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp74/NodeUp74.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/xNL-SIgGTo0/NodeUp74.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp74/NodeUp74.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>73 - An Internet of Things Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Tim Oxley is joined by Tim Park, Tim Ryan and Matteo Collina to discuss the internet of things!</itunes:subtitle>
+
+<itunes:summary>Tim Oxley is joined by Tim Park, Tim Ryan and Matteo Collina to discuss the internet of things!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp73/NodeUp73.mp3</guid>
+
+<pubDate>Thu, 9 Oct 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:28:34</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, iot</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/rHzCihBy25A/NodeUp73.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/rHzCihBy25A" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/rHzCihBy25A/NodeUp73.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp73/NodeUp73.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/rHzCihBy25A/NodeUp73.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp73/NodeUp73.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>72 - A WebGL Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Tim Oxley is joined by Hugh Kennedy, Mikola Lysenko, Chris Dickinson and Elijah Insua to talk WebGL!</itunes:subtitle>
+
+<itunes:summary>Tim Oxley is joined by Hugh Kennedy, Mikola Lysenko, Chris Dickinson and Elijah Insua to talk WebGL!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp72/NodeUp72.mp3</guid>
+
+<pubDate>Mon, 15 Sep 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:35:44</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, webgl, stackgl</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/NTdNln7zSys/NodeUp72.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/NTdNln7zSys" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/NTdNln7zSys/NodeUp72.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp72/NodeUp72.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/NTdNln7zSys/NodeUp72.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp72/NodeUp72.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>71 - A Team Netflix Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Dan Shaw is joined by Chris Saint-Amant, Alex Liu and Micah Ransdell to talk about how Netflix uses Node!</itunes:subtitle>
+
+<itunes:summary>Dan Shaw is joined by Chris Saint-Amant, Alex Liu and Micah Ransdell to talk about how Netflix uses Node!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp71/NodeUp71.mp3</guid>
+
+<pubDate>Fri, 5 Sep 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:19:32</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, netflix</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/4-Bg7NJfbk4/NodeUp71.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/4-Bg7NJfbk4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/4-Bg7NJfbk4/NodeUp71.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp71/NodeUp71.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/4-Bg7NJfbk4/NodeUp71.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp71/NodeUp71.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>70 - An npm Client Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg and Tim Oxley are joined by Domenic Denicola and Forrest Norvell to discuss everything you’ve ever wanted to know about the npm client!</itunes:subtitle>
+
+<itunes:summary>Rod Vagg and Tim Oxley are joined by Domenic Denicola and Forrest Norvell to discuss everything you’ve ever wanted to know about the npm client!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp70/NodeUp70.mp3</guid>
+
+<pubDate>Sat, 9 Aug 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>2:06:09</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, npm, npm.js</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/2qJjpyUjdmg/NodeUp70.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/2qJjpyUjdmg" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/2qJjpyUjdmg/NodeUp70.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp70/NodeUp70.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/2qJjpyUjdmg/NodeUp70.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp70/NodeUp70.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>69 - A Peer-to-peer Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg and Tim Oxley are joined by Dominic Tarr, Feross Aboukhadijeh and Mathias Buus to talk about peer-to-peer!
+</itunes:subtitle>
+
+<itunes:summary>Rod Vagg and Tim Oxley are joined by Dominic Tarr, Feross Aboukhadijeh and Mathias Buus to talk about peer-to-peer!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp69/NodeUp69.mp3</guid>
+
+<pubDate>Sat, 2 Aug 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:41:38</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, p2p, peer-to-peer, torrent</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/nGpyfa0MkSw/NodeUp69.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/nGpyfa0MkSw" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/nGpyfa0MkSw/NodeUp69.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp69/NodeUp69.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/nGpyfa0MkSw/NodeUp69.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp69/NodeUp69.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>68 - A Service Descriptions Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Zeke Sikelianos, Benjamin Coe, Forrest Norvell and Jacob Groundwater to discuss service descriptions!
+</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Zeke Sikelianos, Benjamin Coe, Forrest Norvell and Jacob Groundwater to discuss service descriptions!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp68/NodeUp68.mp3</guid>
+
+<pubDate>Sun, 27 Jul 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>49:58</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/BfdmT8bYA54/NodeUp68.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/BfdmT8bYA54" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/BfdmT8bYA54/NodeUp68.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp68/NodeUp68.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/BfdmT8bYA54/NodeUp68.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp68/NodeUp68.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>67 - A Breach Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Stanislas Polu, Alejandro Vizio and Forrest Norvell to talk about Breach!
+</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Stanislas Polu, Alejandro Vizio and Forrest Norvell to talk about Breach!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp67/NodeUp67.mp3</guid>
+
+<pubDate>Fri, 18 Jul 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>54:54</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, breach</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/jWGhNBjk1U4/NodeUp67.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/jWGhNBjk1U4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/jWGhNBjk1U4/NodeUp67.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp67/NodeUp67.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/jWGhNBjk1U4/NodeUp67.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp67/NodeUp67.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>66 - A NodeDown Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Rod Vagg and Tim Oxley to talk about the Node community in and around Australia!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Rod Vagg and Tim Oxley to talk about the Node community in and around Australia!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp66/NodeUp66.mp3</guid>
+
+<pubDate>Fri, 27 Jun 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:01:54</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, campjs, nodeup, nodedown, nodeschool</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/s3cglM6VrpQ/NodeUp66.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/s3cglM6VrpQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/s3cglM6VrpQ/NodeUp66.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp66/NodeUp66.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/s3cglM6VrpQ/NodeUp66.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp66/NodeUp66.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>65 - A CampJS Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>A live NodeUp recorded at CampJS in May!</itunes:subtitle>
+
+<itunes:summary>A live NodeUp recorded at CampJS in May!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp65/NodeUp65.mp3</guid>
+
+<pubDate>Fri, 20 Jun 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>55:10</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, campjs</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/NqEWVASv2Tg/NodeUp65.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/NqEWVASv2Tg" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/NqEWVASv2Tg/NodeUp65.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp65/NodeUp65.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/NqEWVASv2Tg/NodeUp65.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp65/NodeUp65.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>64 - A Socket.io v1.0 Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Guillermo Rauch and Tim Oxley to talk about Socket.io v1.0!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Guillermo Rauch and Tim Oxley to talk about Socket.io v1.0!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp64/NodeUp64.mp3</guid>
+
+<pubDate>Tue, 10 Jun 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:18:46</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, websocket, socket.io</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/Xqu4x1NfRRE/NodeUp64.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/Xqu4x1NfRRE" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/Xqu4x1NfRRE/NodeUp64.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp64/NodeUp64.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/Xqu4x1NfRRE/NodeUp64.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp64/NodeUp64.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>63 - A Live LNUG Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>A live NodeUp recorded at LNUG in March with Tim Ruffles, Nuno Job, Remy Sharp, Geoff Wagstaff, Forbes Lindesay and Tancredi Trugenberger!</itunes:subtitle>
+
+<itunes:summary>A live NodeUp recorded at LNUG in March with Tim Ruffles, Nuno Job, Remy Sharp, Geoff Wagstaff, Forbes Lindesay and Tancredi Trugenberger!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp63/NodeUp63.mp3</guid>
+
+<pubDate>Fri, 9 May 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>2:02:58</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, lnug</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/p1oA6fY6ZnY/NodeUp63.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/p1oA6fY6ZnY" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/p1oA6fY6ZnY/NodeUp63.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp63/NodeUp63.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/p1oA6fY6ZnY/NodeUp63.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp63/NodeUp63.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>62 - A NodeConf 2014 Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Mikeal Rogers, Lyle Troxell and Rod Vagg to talk NodeConf 2014!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Mikeal Rogers, Lyle Troxell and Rod Vagg to talk NodeConf 2014!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp62/NodeUp62.mp3</guid>
+
+<pubDate>Mon, 28 Apr 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:01:52</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeconf</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/S925_7Vovks/NodeUp62.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/S925_7Vovks" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/S925_7Vovks/NodeUp62.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp62/NodeUp62.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/S925_7Vovks/NodeUp62.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp62/NodeUp62.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>61 - A CLS Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Forrest Norvell, Trevor Norris, Fred Schott and Dan Peddle to talk about Continuation-Local Storage!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Forrest Norvell, Trevor Norris, Fred Schott and Dan Peddle to talk about Continuation-Local Storage!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp61/NodeUp61.mp3</guid>
+
+<pubDate>Wed, 2 Apr 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:26:36</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, continuation-local storage, cls</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/Ks3kg2XAHdY/NodeUp61.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/Ks3kg2XAHdY" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/Ks3kg2XAHdY/NodeUp61.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp61/NodeUp61.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/Ks3kg2XAHdY/NodeUp61.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp61/NodeUp61.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>60 - A CoffeeScript Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Spike Brehm, David Guttman, Sean McCullough and Brett Kiefer to talk CoffeeScript!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Spike Brehm, David Guttman, Sean McCullough and Brett Kiefer to talk CoffeeScript!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp60/NodeUp60.mp3</guid>
+
+<pubDate>Mon, 17 Feb 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:43:02</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, coffeescript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/AMpu1ScDzsc/NodeUp60.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/AMpu1ScDzsc" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/AMpu1ScDzsc/NodeUp60.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp60/NodeUp60.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/AMpu1ScDzsc/NodeUp60.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp60/NodeUp60.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>59 - A New Project Lead Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Isaac Schlueter, Timothy J. Fontaine and Mikeal Rogers to talk about the next phase of Node.js!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Isaac Schlueter, Timothy J. Fontaine and Mikeal Rogers to talk about the next phase of Node.js!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/59NodeUp59/59%20NodeUp59.mp3</guid>
+
+<pubDate>Tue, 28 Jan 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:23:56</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, npm</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/NWIiJMZ7Ij4/59%20NodeUp59.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/NWIiJMZ7Ij4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/NWIiJMZ7Ij4/59%20NodeUp59.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/59NodeUp59/59%20NodeUp59.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/NWIiJMZ7Ij4/59%20NodeUp59.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/59NodeUp59/59%20NodeUp59.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>58 - A Team Groupon Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Team Groupon: Sean Massa, Sean McCullough, Adam Geitgey and Laura Roman!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Team Groupon: Sean Massa, Sean McCullough, Adam Geitgey and Laura Roman!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/58NodeUp58/58%20NodeUp58.mp3</guid>
+
+<pubDate>Mon, 20 Jan 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:26:06</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, groupon, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/78h_LRE5sGg/58%20NodeUp58.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/78h_LRE5sGg" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/78h_LRE5sGg/58%20NodeUp58.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/58NodeUp58/58%20NodeUp58.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/78h_LRE5sGg/58%20NodeUp58.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/58NodeUp58/58%20NodeUp58.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>57 - A Docker Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Nuno Job, Mike Brevoort, Niall O'Higgins and Jacob Groundwater to discuss Docker!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Nuno Job, Mike Brevoort, Niall O'Higgins and Jacob Groundwater to discuss Docker!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp57/NodeUp57.mp3</guid>
+
+<pubDate>Mon, 13 Jan 2014 12:00:00 EST</pubDate>
+
+<itunes:duration>1:21:38</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, docker, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/HKBotGmjtyg/NodeUp57.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/HKBotGmjtyg" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/HKBotGmjtyg/NodeUp57.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp57/NodeUp57.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/HKBotGmjtyg/NodeUp57.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp57/NodeUp57.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>56 - A Team Walmart Show. #nodebf</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw is joined by Eran Hammer, Wyatt Preul, Kevin Decker and Ben Acker to discuss Walmart Labs and Node Black Friday!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw is joined by Eran Hammer, Wyatt Preul, Kevin Decker and Ben Acker to discuss Walmart Labs and Node Black Friday!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp56/NodeUp56.mp3</guid>
+
+<pubDate>Sat, 7 Dec 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:22:44</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, walmart, nodebf</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/kyJoOHV2kp8/NodeUp56.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/kyJoOHV2kp8" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/kyJoOHV2kp8/NodeUp56.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp56/NodeUp56.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/kyJoOHV2kp8/NodeUp56.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp56/NodeUp56.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>55 - A NodeSchool Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Max Ogden, Jessica Lord and Rod Vagg discuss NodeSchool!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Max Ogden, Jessica Lord and Rod Vagg discuss NodeSchool!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp55/NodeUp55.mp3</guid>
+
+<pubDate>Sun, 1 Dec 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:20:56</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, nodeschool</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/A7EqQSIAzTo/NodeUp55.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/A7EqQSIAzTo" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/A7EqQSIAzTo/NodeUp55.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp55/NodeUp55.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/A7EqQSIAzTo/NodeUp55.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp55/NodeUp55.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>54 - A Team Trello Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Brett Kiefer, Daniel Lecheminant, Doug Patti and Sven Henderson discuss how team Trello uses node!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Brett Kiefer, Daniel Lecheminant, Doug Patti and Sven Henderson discuss how team Trello uses node!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp54_20131107/NodeUp54.mp3</guid>
+
+<pubDate>Thu, 7 Nov 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:24:20</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup, trello</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/tmXLNTq2GME/NodeUp54.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/tmXLNTq2GME" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/tmXLNTq2GME/NodeUp54.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp54_20131107/NodeUp54.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/tmXLNTq2GME/NodeUp54.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp54_20131107/NodeUp54.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>53 - A Very Meta Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Nizar Khalife, Erik Isaksen, Cliffano Subagio and Matt Creager discuss... NodeUp!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Nizar Khalife, Erik Isaksen, Cliffano Subagio and Matt Creager discuss... NodeUp!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp53/NodeUp53.mp3</guid>
+
+<pubDate>Fri, 25 Oct 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:27:34</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, nodeup</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/yMdc1GC4Vsk/NodeUp53.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/yMdc1GC4Vsk" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/yMdc1GC4Vsk/NodeUp53.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp53/NodeUp53.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/yMdc1GC4Vsk/NodeUp53.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp53/NodeUp53.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>52 - A Binary Compatibility Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Rod Vagg, Trevor Norris, Timothy J Fontaine discuss binary compatibility!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Rod Vagg, Trevor Norris, Timothy J Fontaine discuss binary compatibility!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/52NodeUp52/52%20NodeUp52.mp3</guid>
+
+<pubDate>Wed, 18 Sep 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:18:18</itunes:duration>
+
+<itunes:keywords>node.js, binary, node, javascript, v8</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/QUnuYiF-g3A/52%20NodeUp52.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/QUnuYiF-g3A" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/QUnuYiF-g3A/52%20NodeUp52.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/52NodeUp52/52%20NodeUp52.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/QUnuYiF-g3A/52%20NodeUp52.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/52NodeUp52/52%20NodeUp52.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>51 - An International NodeBots show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Chris Williams, Raquel Velez, Adam Ulvi, Oli Evans, Julian Duque and Juan Pablo Buritica discuss NodeBots Day!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Chris Williams, Raquel Velez, Adam Ulvi, Oli Evans, Julian Duque and Juan Pablo Buritica discuss NodeBots Day!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/51NodeUp51/51%20NodeUp_51.mp3</guid>
+
+<pubDate>Fri, 16 Aug 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:10:18</itunes:duration>
+
+<itunes:keywords>node.js, nodebots, node, javascript, robots</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/YFw2IF7JIUQ/51%20NodeUp_51.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/YFw2IF7JIUQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/YFw2IF7JIUQ/51%20NodeUp_51.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/51NodeUp51/51%20NodeUp_51.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/YFw2IF7JIUQ/51%20NodeUp_51.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/51NodeUp51/51%20NodeUp_51.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>50 - A node v0.11 show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Isaac Schlueter, Bert Belder, Trevor Norris and Timothy Fontaine discuss the changes in Node v0.11!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Isaac Schlueter, Bert Belder, Trevor Norris and Timothy Fontaine discuss the changes in Node v0.11!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp50/NodeUp50.mp3</guid>
+
+<pubDate>Fri, 2 Aug 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:41:19</itunes:duration>
+
+<itunes:keywords>node.js, v0.11</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/T-IK_caxkCM/NodeUp50.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/T-IK_caxkCM" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/T-IK_caxkCM/NodeUp50.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp50/NodeUp50.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/T-IK_caxkCM/NodeUp50.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp50/NodeUp50.mp3</feedburner:origEnclosureLink></item>
+
+
+<item>
+
+<title>49 - A team DIY.org show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Andrew Sliwinski, Derek Reynolds, Zach Bruggeman and Kael Barton discuss using node for diy.org!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Andrew Sliwinski, Derek Reynolds, Zach Bruggeman and Kael Barton discuss using node for diy.org!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/49NodeUp49/49%20NodeUp49.mp3</guid>
+
+<pubDate>Mon, 22 Jul 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:22:10</itunes:duration>
+
+<itunes:keywords>node.js, diy</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/LPgP0RQ15ks/49%20NodeUp49.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/LPgP0RQ15ks" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/LPgP0RQ15ks/49%20NodeUp49.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/49NodeUp49/49%20NodeUp49.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/LPgP0RQ15ks/49%20NodeUp49.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/49NodeUp49/49%20NodeUp49.mp3</feedburner:origEnclosureLink></item>
+
+
+
+<item>
+
+<title>48 - The first NodeBase show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Paolo Fragomeni, Jake Verbaten, Dominic Tarr, and Rod Vagg discuss node databases!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Paolo Fragomeni, Jake Verbaten, Dominic Tarr, and Rod Vagg discuss node databases!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/48NodeUp48/48%20NodeUp48.mp3</guid>
+
+<pubDate>Thu, 18 Jul 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>55:46</itunes:duration>
+
+<itunes:keywords>node.js, databases</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/ngWdV4tfelQ/48%20NodeUp48.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/ngWdV4tfelQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/ngWdV4tfelQ/48%20NodeUp48.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/48NodeUp48/48%20NodeUp48.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/ngWdV4tfelQ/48%20NodeUp48.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/48NodeUp48/48%20NodeUp48.mp3</feedburner:origEnclosureLink></item>
+
+
+
+<item>
+
+<title>47 - A NodeConf recap show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Forrest Norvell, Eran Hammer, Raquel Velez, Rod Vagg, Glenn Block, Ken Perkins and Mikeal Rogers racap NodeConf!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Forrest Norvell, Eran Hammer, Raquel Velez, Rod Vagg, Glenn Block, Ken Perkins and Mikeal Rogers racap NodeConf!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp47/NodeUp47.mp3</guid>
+
+<pubDate>Wed, 10 Jul 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:46:26</itunes:duration>
+
+<itunes:keywords>node.js, nodeconf</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/ejbsb7U-VJk/NodeUp47.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/ejbsb7U-VJk" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/ejbsb7U-VJk/NodeUp47.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp47/NodeUp47.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/ejbsb7U-VJk/NodeUp47.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp47/NodeUp47.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>46 - A promises by promisers show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Domenic Denicola, Jeremy Stanley and Andy Wingo discuss using promises in practice!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Domenic Denicola, Jeremy Stanley and Andy Wingo discuss using promises in practice!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp46/NodeUp46.mp3</guid>
+
+<pubDate>Sat, 8 Jun 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:20:36</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, javascript, promises</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/2pgjZ39sZzc/NodeUp46.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/2pgjZ39sZzc" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/2pgjZ39sZzc/NodeUp46.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp46/NodeUp46.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/2pgjZ39sZzc/NodeUp46.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp46/NodeUp46.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>45 - A performance show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Isaac Z. Schlueter, Matt Ranney and Vyacheslav Egorov discuss Node and V8 Performance!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Isaac Z. Schlueter, Matt Ranney and Vyacheslav Egorov discuss Node and V8 Performance!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp45/NodeUp45.mp3</guid>
+
+<pubDate>Sat, 25 May 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:54:32</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, javascript, v8, performance</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/n5D-zxIuFgA/NodeUp45.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/n5D-zxIuFgA" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/n5D-zxIuFgA/NodeUp45.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp45/NodeUp45.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/n5D-zxIuFgA/NodeUp45.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp45/NodeUp45.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>44 - A creating APIs show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, James Halliday, Mark Cavage, Andrew Sliwinski discuss creating APIs!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, James Halliday, Mark Cavage, Andrew Sliwinski discuss creating APIs!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp44/NodeUp44.mp3</guid>
+
+<pubDate>Thu, 9 May 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:36:20</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, javascript, apis</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/TutYSyIvFi4/NodeUp44.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/TutYSyIvFi4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/TutYSyIvFi4/NodeUp44.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp44/NodeUp44.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/TutYSyIvFi4/NodeUp44.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp44/NodeUp44.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>43 - A promise we'll get to security show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Isaac Z. Schlueter, Mikeal Rogers and Adam Baldwin talk the tolerance of maturity, unix philosophy and node.js, node security and much more!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Isaac Z. Schlueter, Mikeal Rogers and Adam Baldwin talk the tolerance of maturity, unix philosophy and node.js, node security and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp43/NodeUp43.mp3</guid>
+
+<pubDate>Thu, 25 Apr 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:38:00</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, javascript, security</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/98nl54B_mGQ/NodeUp43.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/98nl54B_mGQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/98nl54B_mGQ/NodeUp43.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp43/NodeUp43.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/98nl54B_mGQ/NodeUp43.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp43/NodeUp43.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>42 - A scaling websockets show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Arnout Kazemier, Mike Brevoort and Brett Kiefer discuss scaling websockets!.</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Arnout Kazemier, Mike Brevoort and Brett Kiefer discuss scaling websockets!..</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/42NodeUp42/42%20NodeUp42.mp3</guid>
+
+<pubDate>Tue, 16 Apr 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:10:04</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, javascript, websockets</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/ugtPRZiAJb4/42%20NodeUp42.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/ugtPRZiAJb4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/ugtPRZiAJb4/42%20NodeUp42.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/42NodeUp42/42%20NodeUp42.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/ugtPRZiAJb4/42%20NodeUp42.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/42NodeUp42/42%20NodeUp42.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>41 - A LevelDB show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Max Ogden, Paolo Fragomeni and Rod Vagg discuss module LevelDB.</itunes:subtitle>
+
+<itunes:summary>Max Ogden, Paolo Fragomeni and Rod Vagg discuss module LevelDB.</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp41/NodeUp41.mp3</guid>
+
+<pubDate>Tue, 19 Mar 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:04:10</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, javascript, leveldb</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/8fReiOjyFfQ/NodeUp41.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/8fReiOjyFfQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/8fReiOjyFfQ/NodeUp41.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp41/NodeUp41.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/8fReiOjyFfQ/NodeUp41.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp41/NodeUp41.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>40 - A module authoring show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Mikeal Rogers, Isaac Schlueter and James Halliday discuss module authoring.</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Mikeal Rogers, Isaac Schlueter and James Halliday discuss module authoring.</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp40/NodeUp40.mp3</guid>
+
+<pubDate>Tue, 5 Mar 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:10:04</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, npm, javascript, modules</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/z4KDfCTvMQA/NodeUp40.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/z4KDfCTvMQA" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/z4KDfCTvMQA/NodeUp40.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp40/NodeUp40.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/z4KDfCTvMQA/NodeUp40.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp40/NodeUp40.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>39 - A hardware show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Mikeal Rogers and Sara Chipps discuss hardware.</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Mikeal Rogers and Sara Chipps discuss hardware.</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp39/NodeUp39.mp3</guid>
+
+<pubDate>Tue, 26 Feb 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>50:44</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, npm, javascript, hardware</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/Qj6hC84KJiw/NodeUp39.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/Qj6hC84KJiw" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/Qj6hC84KJiw/NodeUp39.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp39/NodeUp39.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/Qj6hC84KJiw/NodeUp39.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp39/NodeUp39.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>38 - A we're back show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Mikeal Rogers and Isaac Schlueter discuss node.js...we\'re back!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Mikeal Rogers and Isaac Schlueter discuss node.js...we\'re back!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup38/NodeUp38.mp3</guid>
+
+<pubDate>Sun, 10 Feb 2013 12:00:00 EST</pubDate>
+
+<itunes:duration>1:07:20</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, npm, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/SVYFvgyarX4/NodeUp38.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/SVYFvgyarX4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/SVYFvgyarX4/NodeUp38.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup38/NodeUp38.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/SVYFvgyarX4/NodeUp38.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup38/NodeUp38.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>37 - A production npm show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Nuno Job, Mike Brevoort, and Jason Smith discuss using npm in production!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Nuno Job, Mike Brevoort, and Jason Smith discuss using npm in production!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup37/37Nodeup37.mp3</guid>
+
+<pubDate>Wed, 5 Dec 2012 4:00:00 EST</pubDate>
+
+<itunes:duration>2:04:10</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, npm, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/kZUmWli2Hkc/37Nodeup37.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/kZUmWli2Hkc" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/kZUmWli2Hkc/37Nodeup37.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup37/37Nodeup37.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/kZUmWli2Hkc/37Nodeup37.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup37/37Nodeup37.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>36 - A prepare for NKO show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Visnu Pitiyanuvath, Gerad Suyderhoud, Arnout Kazemier and Tim Caswell discuss the inner workings of NodeKnockout and how past winners went about preparing for the event!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Visnu Pitiyanuvath, Gerad Suyderhoud, Arnout Kazemier and Tim Caswell discuss the inner workings of NodeKnockout and how past winners went about preparing for the event!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp36/NodeUp36.mp3</guid>
+
+<pubDate>Sun, 4 Nov 2012 10:00:00 EST</pubDate>
+
+<itunes:duration>1:02:58</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, nodeknockout, nko, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/ylABo7PTxOw/NodeUp36.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/ylABo7PTxOw" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/ylABo7PTxOw/NodeUp36.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp36/NodeUp36.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/ylABo7PTxOw/NodeUp36.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp36/NodeUp36.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>35 - A RealtimeConf show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Daniel Shaw, Owen Barnes and the organizers of RealtimeConf recap everything that happened there!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Daniel Shaw, Owen Barnes and the organizers of RealtimeConf recap everything that happened there!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp35/NodeUp35.mp3</guid>
+
+<pubDate>Wed, 31 Oct 2012 2:00:00 EST</pubDate>
+
+<itunes:duration>1:02:08</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, javascript, realtime, realtimeconf</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/yJyNWeuGN8k/NodeUp35.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/yJyNWeuGN8k" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/yJyNWeuGN8k/NodeUp35.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp35/NodeUp35.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/yJyNWeuGN8k/NodeUp35.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp35/NodeUp35.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>34 - A JSConf EU show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Max Ogden, and Felix Geisendörfer recap all the topics discussed at JSConf EU!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Max Ogden, and Felix Geisendörfer recap all the topics discussed at JSConf EU!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp34/NodeUp34.mp3</guid>
+
+<pubDate>Sat, 20 Oct 2012 1:00:00 EST</pubDate>
+
+<itunes:duration>1:32:50</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, jsconf, javascript, jquery</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/z2wyaXD3Dzo/NodeUp34.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/z2wyaXD3Dzo" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/z2wyaXD3Dzo/NodeUp34.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp34/NodeUp34.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/z2wyaXD3Dzo/NodeUp34.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp34/NodeUp34.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>33 - An LXJS show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Paul Serby, Owen Barnes, and Dominic Tarr recap all the topics discussed at LXJS and much more!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Paul Serby, Owen Barnes, and Dominic Tarr recap all the topics discussed at LXJS and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp33/NodeUp33.mp3</guid>
+
+<pubDate>Wed, 10 Oct 2012 1:00:00 EST</pubDate>
+
+<itunes:duration>1:30:52</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, npm, lxjs</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/XtQhWsIwQ70/NodeUp33.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/XtQhWsIwQ70" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/XtQhWsIwQ70/NodeUp33.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp33/NodeUp33.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/XtQhWsIwQ70/NodeUp33.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp33/NodeUp33.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>32 - An npm in the stars show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Schlueter and Visnu Pitiyanuvath talk npm-www, templar, stylus, nib, emcee, cluster, domains, ios6 maps, timeline of the far future, boltzmann brains, diffie-hellman-merkle, endeavour in transit, how long they want to live, tilemill, nodeknockout and much much more!</itunes:subtitle>
+
+<itunes:summary>Isaac Schlueter and Visnu Pitiyanuvath talk npm-www, templar, stylus, nib, emcee, cluster, domains, ios6 maps, timeline of the far future, boltzmann brains, diffie-hellman-merkle, endeavour in transit, how long they want to live, tilemill, nodeknockout and much much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp32/32Nodeup32.mp3</guid>
+
+<pubDate>Wed, 26 Sep 2012 7:00:00 EST</pubDate>
+
+<itunes:duration>1:40:10</itunes:duration>
+
+<itunes:keywords>node.js, node, nodeup, npm, the future, the past</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/AtWhjxvq8y0/32Nodeup32.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/AtWhjxvq8y0" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/AtWhjxvq8y0/32Nodeup32.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp32/32Nodeup32.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/AtWhjxvq8y0/32Nodeup32.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp32/32Nodeup32.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>31 - An enchanted butter show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Adam Brault, Henrik Joreteg and Nathan Fritz talk about building real-time software, database pub/sub, Thoonk.js, templatizer, hot loading code, Keeping it Realtime, RedisConf and much more!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Adam Brault, Henrik Joreteg and Nathan Fritz talk about building real-time software, database pub/sub, Thoonk.js, templatizer, hot loading code, Keeping it Realtime, RedisConf and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp31/31Nodeup31.mp3</guid>
+
+<pubDate>Thu, 20 Sep 2012 6:00:00 EST</pubDate>
+
+<itunes:duration>1:10:40</itunes:duration>
+
+<itunes:keywords>node.js, node, realtime, redis, keeping it realtime, nodeup</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/i-ehK6RaIjU/31Nodeup31.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/i-ehK6RaIjU" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/i-ehK6RaIjU/31Nodeup31.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp31/31Nodeup31.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/i-ehK6RaIjU/31Nodeup31.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp31/31Nodeup31.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Thirty: a summercamp recap show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Schlueter, Daniel Shaw, Mikeal Rogers and Visnu Pitiyanuvath recap all the discussions from SummerCamp, we talk to Cian Ó Maidín about the upcoming Node Dublin, and much more!</itunes:subtitle>
+
+<itunes:summary>Isaac Schlueter, Daniel Shaw, Mikeal Rogers and Visnu Pitiyanuvath recap all the discussions from SummerCamp, we talk to Cian Ó Maidín about the upcoming Node Dublin, and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp30/NodeUp30.mp3</guid>
+
+<pubDate>Wed, 12 Sep 2012 10:00:00 EST</pubDate>
+
+<itunes:duration>1:08:42</itunes:duration>
+
+<itunes:keywords>nodeup, node.js, javascript, node, summercamp</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/a2Y96pJDJXw/NodeUp30.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/a2Y96pJDJXw" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/a2Y96pJDJXw/NodeUp30.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp30/NodeUp30.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/a2Y96pJDJXw/NodeUp30.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp30/NodeUp30.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty Nine: An experimental summercamp call-in show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Max Ogden, James Halliday and Visnu Pitiyanuvath talk summercamp topics past and present, take your calls and much more!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Max Ogden, James Halliday and Visnu Pitiyanuvath talk summercamp topics past and present, take your calls and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp29/NodeUp29.mp3</guid>
+
+<pubDate>Mon, 3 Sep 2012 7:00:00 EST</pubDate>
+
+<itunes:duration>1:12:12</itunes:duration>
+
+<itunes:keywords>nodeup, node.js, javascript, node, summercamp</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/ah1-8bZKl2A/NodeUp29.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/ah1-8bZKl2A" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/ah1-8bZKl2A/NodeUp29.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp29/NodeUp29.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/ah1-8bZKl2A/NodeUp29.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp29/NodeUp29.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty Eight: A testing deep dive show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Nuno Job, James Halliday, Domenic Denicola, and Adam Christian take a deep dive into testing and talk about Domains, TAP, Mocha, ChaiJS, node-tap, Node Unit, Specify, Flatiron Nock, Flatiron API Easy, Supertest, Sinon.JS, Gleak, Sandbox Module, Travis CI, Testling, Browserling, SauceLabs, and much more!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Nuno Job, James Halliday, Domenic Denicola, and Adam Christian take a deep dive into testing and talk about Domains, TAP, Mocha, ChaiJS, node-tap, Node Unit, Specify, Flatiron Nock, Flatiron API Easy, Supertest, Sinon.JS, Gleak, Sandbox Module, Travis CI, Testling, Browserling, SauceLabs, and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp28/NodeUp28.mp3</guid>
+
+<pubDate>Fri, 31 Aug 2012 6:30:00 EST</pubDate>
+
+<itunes:duration>1:34:48</itunes:duration>
+
+<itunes:keywords>nodeup, node.js, javascript, node, testing</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/9WU4lc-YgFM/NodeUp28.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/9WU4lc-YgFM" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/9WU4lc-YgFM/NodeUp28.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp28/NodeUp28.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/9WU4lc-YgFM/NodeUp28.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp28/NodeUp28.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty Seven: A robotics deep dive show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Daniel Shaw, Chris Williams, Rick Waldron and Elijah Insua talk robots, node-serialport, nodebots, the internet of things, cortex m3, electricimp, alibaba, tmpad, johnny-five, firmata and much more!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Daniel Shaw, Chris Williams, Rick Waldron and Elijah Insua talk robots, node-serialport, nodebots, the internet of things, cortex m3, electricimp, alibaba, tmpad, johnny-five, firmata and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup27_717/Nodeup27n.mp3</guid>
+
+<pubDate>Monday, 13 Aug 2012 6:30:00 EST</pubDate>
+
+<itunes:duration>1:19:10</itunes:duration>
+
+<itunes:keywords>nodeup, node.js, javascript, node, robots, arduino</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/kdzOmmLz5IE/Nodeup27n.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/kdzOmmLz5IE" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/kdzOmmLz5IE/Nodeup27n.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup27_717/Nodeup27n.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/kdzOmmLz5IE/Nodeup27n.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup27_717/Nodeup27n.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty Six: A community show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Daniel Shaw, Chris Williams, and Nuno Job talk community, open source, github, conferences and much more!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Daniel Shaw, Chris Williams, and Nuno Job talk community, open source, github, conferences and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup26/NodeUp26.mp3</guid>
+
+<pubDate>Thu, 9 Aug 2012 3:00:00 EST</pubDate>
+
+<itunes:duration>1:35:16</itunes:duration>
+
+<itunes:keywords>node, nodejs, node.js, nodeup, javascript, community, github</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/OeOV6ETrR_k/NodeUp26.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/OeOV6ETrR_k" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/OeOV6ETrR_k/NodeUp26.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup26/NodeUp26.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/OeOV6ETrR_k/NodeUp26.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup26/NodeUp26.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty Five: A streaming show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Isaac Schlueter and Dominic Tarr talk streams, components and much more!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Isaac Schlueter and Dominic Tarr talk streams, components and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwentyFive/NodeUp_25.mp3</guid>
+
+<pubDate>Tue, 31 July 2012 2:00:00 EST</pubDate>
+
+<itunes:duration>1:09:40</itunes:duration>
+
+<itunes:keywords>node, nodejs, node.js, nodeup, javascript, streams, components</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/JZYBlAiabug/NodeUp_25.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/JZYBlAiabug" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/JZYBlAiabug/NodeUp_25.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwentyFive/NodeUp_25.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/JZYBlAiabug/NodeUp_25.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwentyFive/NodeUp_25.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty Four: A secure show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Daniel Shaw, Matt Ranney, and Charlie Robbins talk node updates, secure transports, SPDY, HTTP 2.0, robots, NodeConf Summer Camp, hacking, NodeUp, Gather, Voxer, Empire.js, and more!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Daniel Shaw, Matt Ranney, and Charlie Robbins talk node updates, secure transports, SPDY, HTTP 2.0, robots, NodeConf Summer Camp, hacking, NodeUp, Gather, Voxer, Empire.js, and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup24/Nodeup24.mp3</guid>
+
+<pubDate>Monday, 24 July 2012 1:00:00 EST</pubDate>
+
+<itunes:duration>1:17:00</itunes:duration>
+
+<itunes:keywords>Node, SSL, TSL, Proxies, Stud, SPDY, Varnish, HTTP, Robots, NodeConf, Gather, Voxer, NodeUp, Empire.js, Javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/77569EVJHcg/Nodeup24.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/77569EVJHcg" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/77569EVJHcg/Nodeup24.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup24/Nodeup24.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/77569EVJHcg/Nodeup24.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup24/Nodeup24.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty Three: A massive NodeConf special</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Z. Schlueter, Visnu Pitiyanuvath, Daniel Shaw, James Halliday and Mikeal Rogers, recap NodeConf!</itunes:subtitle>
+
+<itunes:summary>Isaac Z. Schlueter, Visnu Pitiyanuvath, Daniel Shaw, James Halliday and Mikeal Rogers, recap NodeConf!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwentyThree/Nodeup23.mp3</guid>
+
+<pubDate>Mon, 9 July 2012 6:00:00 EST</pubDate>
+
+<itunes:duration>1:49:26</itunes:duration>
+
+<itunes:keywords>node.js, nodeconf</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/n4XUXgxjoc4/Nodeup23.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/n4XUXgxjoc4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/n4XUXgxjoc4/Nodeup23.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwentyThree/Nodeup23.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/n4XUXgxjoc4/Nodeup23.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwentyThree/Nodeup23.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty Two: A hack NodeConf show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Nuno Job, Visnu Pitiyanuvath, Mikeal Rogers, Charlie Robbins, Ana Hevesi talk about HackNodeConf, You Laugh, You Lose, Futon Client, Timezones, Upcoming Events, Node 0.8, Badass Proxy, Empire.js, nko3, trackyourhappiness.org, node_riak, Summer of Node.js, LXJS, and more!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Nuno Job, Visnu Pitiyanuvath, Mikeal Rogers, Charlie Robbins, Ana Hevesi talk about HackNodeConf, You Laugh, You Lose, Futon Client, Timezones, Upcoming Events, Node 0.8, Badass Proxy, Empire.js, nko3, trackyourhappiness.org, node_riak, Summer of Node.js, LXJS, and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup22/Nodeup22.mp3</guid>
+
+<pubDate>Tue, 19 June 2012 12:00:00 EST</pubDate>
+
+<itunes:duration>40:08</itunes:duration>
+
+<itunes:keywords>node.js, nodeconf, hacknodeconf, nodejitsu, node</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/Rnbdm_bTMwg/Nodeup22.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/Rnbdm_bTMwg" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/Rnbdm_bTMwg/Nodeup22.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup22/Nodeup22.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/Rnbdm_bTMwg/Nodeup22.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup22/Nodeup22.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty One: A debugging show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Schlueter and Matt Ranney on all things debugging, V8 Postmortem Debugging, node-panic, node-inspector, node-webkit-agent, V8 Profiler, REPL, Flame Graphs, Instrumenting the Real-time Web, Debugging Node.js Memory Leaks, node-weak and more!</itunes:subtitle>
+
+<itunes:summary>Isaac Schlueter and Matt Ranney on all things debugging, V8 Postmortem Debugging, node-panic, node-inspector, node-webkit-agent, V8 Profiler, REPL, Flame Graphs, Instrumenting the Real-time Web, Debugging Node.js Memory Leaks, node-weak and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup21/NodeUp21.mp3</guid>
+
+<pubDate>Tue, 12 June 2012 12:00:00 EST</pubDate>
+
+<itunes:duration>1:28:38</itunes:duration>
+
+<itunes:keywords>node, nodejs, node.js</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/oGW_pS3kZdI/NodeUp21.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/oGW_pS3kZdI" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/oGW_pS3kZdI/NodeUp21.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup21/NodeUp21.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/oGW_pS3kZdI/NodeUp21.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup21/NodeUp21.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twenty: A twentieth show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, James Halliday, Daniel Shaw, Pedro Teixeira  on process.nextTick semantics, EventEmitter: Listen to all events, node install [package], TypedArray performance, node-mkdirp/issues/17, JSDay, TacoConf, JSConf.ar, NDC, trumpet, yarnify, poolee, node_riak, mad, nd, nodedoc, npmdoc, LXJS, Browserling, Voxer, NodeConf and more!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, James Halliday, Daniel Shaw, Pedro Teixeira  on process.nextTick semantics, EventEmitter: Listen to all events, node install [package], TypedArray performance, node-mkdirp/issues/17, JSDay, TacoConf, JSConf.ar, NDC, trumpet, yarnify, poolee, node_riak, mad, nd, nodedoc, npmdoc, LXJS, Browserling, Voxer, NodeConf and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwenty/NodeUp20.mp3</guid>
+
+<pubDate>Mon, 28 May 2012 13:00:00 EST</pubDate>
+
+<itunes:duration>45:48</itunes:duration>
+
+<itunes:keywords>node, nodejs, node.js</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/ut2M8vAF4ug/NodeUp20.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/ut2M8vAF4ug" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/ut2M8vAF4ug/NodeUp20.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwenty/NodeUp20.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/ut2M8vAF4ug/NodeUp20.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwenty/NodeUp20.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Nineteen: An our favorite modules show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Isaac Schlueter, Daniel Shaw, and Max Ogden talk about their favorite node modules request, jsontool, mocha, stream, txn, follow, browserify, fleet, seaport, underscore, node_redis, node-gyp, cookies, routes, negotiator, marked, event-stream, tap, jsonstream and more!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Isaac Schlueter, Daniel Shaw, and Max Ogden talk about their favorite node modules request, jsontool, mocha, stream, txn, follow, browserify, fleet, seaport, underscore, node_redis, node-gyp, cookies, routes, negotiator, marked, event-stream, tap, jsonstream and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupNineteen/NodeupNineteen.mp3</guid>
+
+<pubDate>Fri, 11 May 2012 12:00:00 EST</pubDate>
+
+<itunes:duration>1:32:32</itunes:duration>
+
+<itunes:keywords>node, nodejs, node.js, modules, request, jsontool, mocha, stream, txn, follow, browserify, fleet, seaport, underscore, node_redis, node-gyp, cookies, routes, negotiator, marked, event-stream, tap, jsonstream</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/skCvwCtBbsQ/NodeupNineteen.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/skCvwCtBbsQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/skCvwCtBbsQ/NodeupNineteen.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupNineteen/NodeupNineteen.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/skCvwCtBbsQ/NodeupNineteen.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupNineteen/NodeupNineteen.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Eighteen: A toy language show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Isaac Schlueter, Nuno Job, James Halliday, and Paolo Fragomeni talk about Node Philly, dominode, browser-stream, cdir, crypto-browserify, Stream vs. Callback vs. EventEmitter, node-disorder, OAuth with Request vs Passport vs EveryAuth,
+Mikeal\'s TC39 Post, npm-www, node.js 0.8, NodeConf, TacoConf, node-falafel, LXJS and more!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Isaac Schlueter, Nuno Job, James Halliday, and Paolo Fragomeni talk about Node Philly, dominode, browser-stream, cdir, crypto-browserify, Stream vs. Callback vs. EventEmitter, node-disorder, OAuth with Request vs Passport vs EveryAuth,
+Mikeal\'s TC39 Post, npm-www, node.js 0.8, NodeConf, TacoConf, node-falafel, LXJS and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEighteen/NodeupEighteen.mp3</guid>
+
+<pubDate>Mon, 30 Apr 2012 01:00:00 EST</pubDate>
+
+<itunes:duration>1:34:04</itunes:duration>
+
+<itunes:keywords>node.js, javascript, js, node, nodejs, philly, browser, crypto, stream, callback, oauth, tc39, nodeconf, tacoconf, lxjs</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/R4AJiKFyk-w/NodeupEighteen.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/R4AJiKFyk-w" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/R4AJiKFyk-w/NodeupEighteen.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEighteen/NodeupEighteen.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/R4AJiKFyk-w/NodeupEighteen.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEighteen/NodeupEighteen.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Seventeen: A framework author throwdown show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Mikeal Rogers, Paolo Fragomeni, Owen Barnes, and Matt Eernisse talk about Express, Geddy, Tako, Flatiron, SocketStream and much more!</itunes:subtitle>
+
+<itunes:summary>Mikeal Rogers, Paolo Fragomeni, Owen Barnes, and Matt Eernisse talk about Express, Geddy, Tako, Flatiron, SocketStream and much more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSeventeen/NodeupSeventeen.mp3</guid>
+
+<pubDate>Mon, 16 Apr 2012 01:00:00 EST</pubDate>
+
+<itunes:duration>1:46:58</itunes:duration>
+
+<itunes:keywords>express, geddy, tako, flatiron, socketstream, frameworks</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/WodOcFLHE0s/NodeupSeventeen.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/WodOcFLHE0s" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/WodOcFLHE0s/NodeupSeventeen.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSeventeen/NodeupSeventeen.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/WodOcFLHE0s/NodeupSeventeen.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSeventeen/NodeupSeventeen.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Sixteen: A JSConf recap show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Z. Schlueter, James Halliday, Mikeal Rodgers, and Dan Shaw on JSConf, B2G, Grunt, V8, Mechanical Bull Riding, JS on the GPU, Douchebag, Bikeshed, JSPP, Coder Dojo, JSConf EU, JSConf AR, JSConf AUS, and more!</itunes:subtitle>
+
+<itunes:summary>Isaac Z. Schlueter, James Halliday, Mikeal Rodgers, and Dan Shaw on JSConf, B2G, Grunt, V8, Mechanical Bull Riding, JS on the GPU, Douchebag, Bikeshed, JSPP, Coder Dojo, JSConf EU, JSConf AR, JSConf AUS, and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSixteen/NodeupSixteen.mp3</guid>
+
+<pubDate>Mon, 9 Apr 2012 15:00:00 EST</pubDate>
+
+<itunes:duration>1:08:56</itunes:duration>
+
+<itunes:keywords>js, jsconf, node, node.js, b2g, v8, bikeshed, jspp, coder dojo</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/7xjeSDl3m9o/NodeupSixteen.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/7xjeSDl3m9o" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/7xjeSDl3m9o/NodeupSixteen.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSixteen/NodeupSixteen.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/7xjeSDl3m9o/NodeupSixteen.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSixteen/NodeupSixteen.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Fifteen: A bears, wolves, and poppins show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Z. Schlueter, James Halliday, Mikeal Rodgers, Nuno Job, and Dan Shaw on Classes, Node.js Core, New Core Team Member, HTTPS, Domains, Streaming HTML Parsers, JSConf, Node Philly, JSConf Argentina, TacoConf, NodeConf, and Dinosaurs!</itunes:subtitle>
+
+<itunes:summary>Isaac Z. Schlueter, James Halliday, Mikeal Rodgers, Nuno Job, and Dan Shaw on Classes, Node.js Core, New Core Team Member, HTTPS, Domains, Streaming HTML Parsers, JSConf, Node Philly, JSConf Argentina, TacoConf, NodeConf, and Dinosaurs!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFifteen/Nodeup_Fifteen.mp3</guid>
+
+<pubDate>Mon, 19 Mar 2012 14:00:00 EST</pubDate>
+
+<itunes:duration>1:25:28</itunes:duration>
+
+<itunes:keywords>node.js, javascript, node, nodeup, classes, https, html, js, conf</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/O7bAqU15wwg/Nodeup_Fifteen.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/O7bAqU15wwg" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/O7bAqU15wwg/Nodeup_Fifteen.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFifteen/Nodeup_Fifteen.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/O7bAqU15wwg/Nodeup_Fifteen.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFifteen/Nodeup_Fifteen.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Fourteen: A framework user deep dive show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Daniel Shaw, Max Ogden, Joshua Holbrook, Daniel Erickson, and Mike Brevoort [on] Express, Connect, Flatiron, Middleware, Streams, Geddy, Tako, Socket.io, Code Reuse and more!</itunes:subtitle>
+
+<itunes:summary>Daniel Shaw, Max Ogden, Joshua Holbrook, Daniel Erickson, and Mike Brevoort [on] Express, Connect, Flatiron, Middleware, Streams, Geddy, Tako, Socket.io, Code Reuse and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFourteen/Nodeup_Fourteen.mp3</guid>
+
+<pubDate>Mon, 5 Mar 2012 18:00:00 EST</pubDate>
+
+<itunes:duration>1:31:24</itunes:duration>
+
+<itunes:keywords>nodeup, node, node.js, javascript, express, connect, flatiron, middleware, streams, geddy, tako, socket.io, code, programming</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/z_ACVBZ3t5k/Nodeup_Fourteen.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/z_ACVBZ3t5k" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/z_ACVBZ3t5k/Nodeup_Fourteen.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFourteen/Nodeup_Fourteen.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/z_ACVBZ3t5k/Nodeup_Fourteen.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFourteen/Nodeup_Fourteen.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Thirteen: A beautiful tomato show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Z. Schlueter, James Halliday, Felix Geisendörfer, and Maciej Małecki on New ECMAScript Features, What's Next Up for Node, Stability, Domains, HTTP Parsers, Difflet, Tests, Give, Listener Questions and More!</itunes:subtitle>
+
+<itunes:summary>Isaac Z. Schlueter, James Halliday, Felix Geisendörfer, and Maciej Małecki on New ECMAScript Features, What's Next Up for Node, Stability, Domains, HTTP Parsers, Difflet, Tests, Give, Listener Questions and More!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupThirteen_710/NodeUpThirteen.mp3</guid>
+
+<pubDate>Sun, 19 Feb 2012 19:00:00 EST</pubDate>
+
+<itunes:duration>1:28:58</itunes:duration>
+
+<itunes:keywords>ecmascript, nodeup, node.js, node, javascript, http</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/J8aawbHCeDk/NodeUpThirteen.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/J8aawbHCeDk" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/J8aawbHCeDk/NodeUpThirteen.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupThirteen_710/NodeUpThirteen.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/J8aawbHCeDk/NodeUpThirteen.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupThirteen_710/NodeUpThirteen.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Twelve: A superb owl show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Z. Schlueter, Daniel Shaw, Nuno Job and James Halliday on Node Summit, NodeUp:Live, NodeJam, JSConf, Ryan Steps Down, Isaac Steps Up, What’s Next, Domains, Service Registry, Cluster Management, Shim, GimmeSomeBeta, Up and Distribute, Editors, Plugins, a Call for Tooling and More!</itunes:subtitle>
+
+<itunes:summary>Isaac Z. Schlueter, Daniel Shaw, Nuno Job and James Halliday on Node Summit, NodeUp:Live, NodeJam, JSConf, Ryan Steps Down, Isaac Steps Up, What’s Next, Domains, Service Registry, Cluster Management, Shim, GimmeSomeBeta, Up and Distribute, Editors, Plugins, a Call for Tooling and More!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwelve/Nodeup_Twelve.mp3</guid>
+
+<pubDate>Mon, 6 Feb 2012 14:00:00 EST</pubDate>
+
+<itunes:duration>1:28:16</itunes:duration>
+
+<itunes:keywords>node, summit, nodeup, jsconf, node.js, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/3FYFdruvj1g/Nodeup_Twelve.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/3FYFdruvj1g" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/3FYFdruvj1g/Nodeup_Twelve.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwelve/Nodeup_Twelve.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/3FYFdruvj1g/Nodeup_Twelve.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwelve/Nodeup_Twelve.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Eleven: A database deep dive show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Z. Schlueter, Mikeal Rogers, Daniel Shaw, Nuno Job and Matt Ranney on Traditional Database Support in Node.js, NoSQL vs. SQL, MongoDB, Redis, Couch, Riak, Databases in Javascript, View Questions and NodeUp Live!</itunes:subtitle>
+
+<itunes:summary>Isaac Z. Schlueter, Mikeal Rogers, Daniel Shaw, Nuno Job and Matt Ranney on Traditional Database Support in Node.js, NoSQL vs. SQL, MongoDB, Redis, Couch, Riak, Databases in Javascript, View Questions and NodeUp Live!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEleven/NodeupEleven.mp3</guid>
+
+<pubDate>Mon, 16 Jan 2012 15:00:00 EST</pubDate>
+
+<itunes:duration>1:49:36</itunes:duration>
+
+<itunes:keywords>nodeup, node.js, database, databases, nosql, mysql, sql, mongodb, mongo, redis, couch, riak, javascript</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/WrF1mtNH578/NodeupEleven.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/WrF1mtNH578" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/WrF1mtNH578/NodeupEleven.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEleven/NodeupEleven.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/WrF1mtNH578/NodeupEleven.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEleven/NodeupEleven.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Ten: A safe raging show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>James Halliday, Mikeal Rogers, Chris Williams and Daniel Shaw on node summit, socket pooling, node_modules in git, fixing bugs by releasing modules, replicant, tmpad, nubstep, silly libraries for a vector game, coffeescript port of node.js, roma node.js, dreadnot and more!</itunes:subtitle>
+
+<itunes:summary>James Halliday, Mikeal Rogers, Chris Williams and Daniel Shaw on node summit, socket pooling, node_modules in git, fixing bugs by releasing modules, replicant, tmpad, nubstep, silly libraries for a vector game, coffeescript port of node.js, roma node.js, dreadnot and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUpTen/Nodeup_Ten.mp3</guid>
+
+<pubDate>Sun, 8 Jan 2012 19:00:00 EST</pubDate>
+
+<itunes:duration>1:07:08</itunes:duration>
+
+<itunes:keywords>node.js, node, summit, socket, pooling, node_modules, git, modules, replicant, tmpad, nubstep, libraries, vector, games, coffeescript, roma, dreadnot</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/eIL9wvZw9aM/Nodeup_Ten.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/eIL9wvZw9aM" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/eIL9wvZw9aM/Nodeup_Ten.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUpTen/Nodeup_Ten.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/eIL9wvZw9aM/Nodeup_Ten.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUpTen/Nodeup_Ten.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Nine: A Voxer show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Isaac Z. Schlueter, Matt Ranney, Dominic Tarr, and James Halliday [on] Voxer, JSON over HTTP, Scaling + Deployment at Scale, Network/App Architecture of Voxer, Erlang, npm Rebuild, Hosting, Upgrading to Node 0.6, Continuous Git-Based Deployment, and More!</itunes:subtitle>
+
+<itunes:summary>Isaac Z. Schlueter, Matt Ranney, Dominic Tarr, and James Halliday [on] Voxer, JSON over HTTP, Scaling + Deployment at Scale, Network/App Architecture of Voxer, Erlang, npm Rebuild, Hosting, Upgrading to Node 0.6, Continuous Git-Based Deployment, and More!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup9/Nodeup_Nine.mp3</guid>
+
+<pubDate>Tue, 13 Dec 2011 15:00:00 EST</pubDate>
+
+<itunes:duration>1:19:08</itunes:duration>
+
+<itunes:keywords>node, node.js, nodejs, voxer, scaling, json, erlang</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/GjubSl2aAL4/Nodeup_Nine.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/GjubSl2aAL4" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/GjubSl2aAL4/Nodeup_Nine.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup9/Nodeup_Nine.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/GjubSl2aAL4/Nodeup_Nine.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup9/Nodeup_Nine.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Eight: An npm deep dive show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Hosted this week by Maciej Małecki, Isaac Z. Schlueter, Mikeal Rogers, and Charlie Robbins.</itunes:subtitle>
+
+<itunes:summary>Isaac Z. Schlueter, Mikeal Rogers, Charlie Robbins, and Maciej Małecki [on] Live Fixes, npm Bundled in Core, Submodules, Differences between Windows and Unix, Better Website, semver, npm at Travis, and live npm Q's</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp8_184/Nodeup_Eight.mp3</guid>
+
+<pubDate>Mon, 5 Dec 2011 16:00:00 EST</pubDate>
+
+<itunes:duration>1:32:40</itunes:duration>
+
+<itunes:keywords>npm, node, node.js, nodejs, submodules, windows, unix, website, semver, npm, travis</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/P8tRtldWefU/Nodeup_Eight.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/P8tRtldWefU" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/P8tRtldWefU/Nodeup_Eight.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp8_184/Nodeup_Eight.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/P8tRtldWefU/Nodeup_Eight.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp8_184/Nodeup_Eight.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Seven: A foot rubs are the new high five show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Hosted this week by creators of dnode, &amp;!, transloadit, and flatiron!</itunes:subtitle>
+
+<itunes:summary>James Halliday, Felix Geisendoerfer, Henrik Joreteg, and Paolo Fragomeni [on] Node Build Tools, Codesurgeon, Anti-Frameworks, Flatiron, 5000 Packages on NPM, KRTConf, New Continuous Deployment Stack, Pushover, node-git-emit, Capsule, Thoonk, Testing Node Modules with Travis CI, node-utest, node-urun, node-graphite, node-felix-metrics, Node 0.8 Road Map, Listener Q&amp;A and More!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp7/NodeUp7.mp3</guid>
+
+<pubDate>Mon, 21 Nov 2011 20:30:00 EST</pubDate>
+
+<itunes:duration>1:18:24</itunes:duration>
+
+<itunes:keywords>node, codesurgeon, anti-frameworks, flatiron, npm, krtconf, pushover, node-git-emit, capsule, thoonk, testing, travis ci, node-utest, node-urun, node-graphite, metrics, 0.8, q&amp;a</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/9o19yFwX7wU/NodeUp7.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/9o19yFwX7wU" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/9o19yFwX7wU/NodeUp7.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp7/NodeUp7.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/9o19yFwX7wU/NodeUp7.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp7/NodeUp7.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Six: A this isn't like parenting show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>A this isn't like parenting show</itunes:subtitle>
+
+<itunes:summary>James Halliday, Isaac Schlueter, Mikeal Rogers, and Daniel Shaw [on] Nodefest, Filed, Distributed Socket.io, Socket.io RedisStore, Distributed EventEmitter, Ruby on Rails and More!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSix/NodeUp6.mp3</guid>
+
+<pubDate>Mon, 31 Oct 2011 21:00:00 EST</pubDate>
+
+<itunes:duration>1:28:26</itunes:duration>
+
+<itunes:keywords>node.js, javascript, nodefest, filed, distributed, socket.io, redis, eventemitter, ruby, rails</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/GVd5CtF-O6M/NodeUp6.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/GVd5CtF-O6M" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/GVd5CtF-O6M/NodeUp6.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSix/NodeUp6.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/GVd5CtF-O6M/NodeUp6.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSix/NodeUp6.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Five: A lamppost under the freeway show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>a lamppost under the freeway show</itunes:subtitle>
+
+<itunes:summary>Isaac Schlueter, and James Halliday: Bouncy, Windows Port, node-tar, npm on Windows, Node 0.6, how-do-you-pronounce-maciej, npm Star, npm Top, Node Watchers, Testling.com, node-stackedy, Viewer Questions and More!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFive/Nodeup_Five.mp3</guid>
+
+<pubDate>Mon, 17 Oct 2011 14:00:00 EST</pubDate>
+
+<itunes:duration>1:44:14</itunes:duration>
+
+<itunes:keywords>bouncy, windows, node-tar, npm, node, 0.6, maciej, watchers, github, testling, node-stackedy, viewer, questions</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/83dbwQUDCpQ/Nodeup_Five.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/83dbwQUDCpQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/83dbwQUDCpQ/Nodeup_Five.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFive/Nodeup_Five.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/83dbwQUDCpQ/Nodeup_Five.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFive/Nodeup_Five.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Four: A post NKO show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>a post nko show</itunes:subtitle>
+
+<itunes:summary>Isaac Schlueter, Felix Geisendoerfer, James Halliday and Mikeal Rogers: Node Knockout Winners!, Windows Support, Cygwin is Ghetto, Node.exe Getting Better, NPM to Support Windows as a First-class Citizen by Node 0.6, DANGER: Node 0.5.6 Enables Libuv on Unix by Default, NodeConf SummerCamp Highlights, Live Listener Questions and More!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFour/NodeUp4.mp3</guid>
+
+<pubDate>Tue, 13 Sep 2011 12:00:00 EST</pubDate>
+
+<itunes:duration>1:02:24</itunes:duration>
+
+<itunes:keywords>Node Knockout, Windows Support, Cygwin, Node.exe, NPM, Libuv, NodeConf SummerCamp, Live Questions and More!</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/fTPmUkKHbKE/NodeUp4.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/fTPmUkKHbKE" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/fTPmUkKHbKE/NodeUp4.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFour/NodeUp4.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/fTPmUkKHbKE/NodeUp4.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFour/NodeUp4.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Three: A javascript party show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>patterns, practices, exceptions, long running connections, fast-or-slow, tamejs, coffeescript, kaffiene, npm, node knockout, event emitter patch, live questions and more with Isaac Schlueter, Felix Geisendoerfer, and Paolo Fragomeni</itunes:subtitle>
+
+<itunes:summary>patterns, practices, exceptions, long running connections, fast-or-slow, tamejs, coffeescript, kaffiene, npm, node knockout, event emitter patch, live questions and more with Isaac Schlueter, Felix Geisendoerfer, and Paolo Fragomeni</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupThree/NodeUpThree.mp3</guid>
+
+<pubDate>Mon, 8 Aug 2011 2:00:00 EST</pubDate>
+
+<itunes:duration>1:55:38</itunes:duration>
+
+<itunes:keywords>patterns, practices, exceptions, long running connections, fast-or-slow, tamejs, coffeescript, kaffiene, npm, node knockout, event emitter patch</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/8byHkb3FH0M/NodeUpThree.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/8byHkb3FH0M" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/8byHkb3FH0M/NodeUpThree.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupThree/NodeUpThree.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/8byHkb3FH0M/NodeUpThree.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupThree/NodeUpThree.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>Two: A second show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>James Halliday, Isaac Schlueter and Mikeal Rogers: New Node Logo, Browserify Plugins, Node on Windows, NPM on Windows, HTTP Client Rewrite, Node Knockout, and NodeConf SummerCamp</itunes:subtitle>
+
+<itunes:summary>James Halliday, Isaac Schlueter and Mikeal Rogers: New Node Logo, Browserify Plugins, Node on Windows, NPM on Windows, HTTP Client Rewrite, Node Knockout, and NodeConf SummerCamp</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://ia600505.us.archive.org/26/items/nodeup2/nodeup2.mp3</guid>
+
+<pubDate>Mon, 18 Jul 2011 2:00:00 EST</pubDate>
+
+<itunes:duration>1:09:30</itunes:duration>
+
+<itunes:keywords>New Node Logo, Browserify Plugins, Node on Windows, NPM on Windows, HTTP Client Rewrite, Node Knockout, and NodeConf SummerCamp</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/HOFCcG291FQ/nodeup2.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/HOFCcG291FQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/HOFCcG291FQ/nodeup2.mp3</link><feedburner:origLink>http://ia600505.us.archive.org/26/items/nodeup2/nodeup2.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/HOFCcG291FQ/nodeup2.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://ia600505.us.archive.org/26/items/nodeup2/nodeup2.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
+<title>One: A first show</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Felix Geisendoerfer, James Halliday, and Isaac Schlueter talk about node 0.5, burrito, npm, browserify, testling, sandboxed-module, CoffeeScript, no.de and more!</itunes:subtitle>
+
+<itunes:summary>Felix Geisendoerfer, James Halliday, and Isaac Schlueter talk about node 0.5, burrito, npm, browserify, testling, sandboxed-module, CoffeeScript, no.de and more!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEp1/Nodeup-Episodeone.mp3</guid>
+
+<pubDate>Thu, 30 Jun 2011 4:00:00 EST</pubDate>
+
+<itunes:duration>1:38:56</itunes:duration>
+
+<itunes:keywords>Node.js, CoffeeScript, burrito, NPM, no.de, browserify, sandboxed-module, Node 0.5, transloadit, joyent, browserling</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/q5bgC-_YY5Q/Nodeup-Episodeone.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/q5bgC-_YY5Q" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/q5bgC-_YY5Q/Nodeup-Episodeone.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEp1/Nodeup-Episodeone.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/q5bgC-_YY5Q/Nodeup-Episodeone.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEp1/Nodeup-Episodeone.mp3</feedburner:origEnclosureLink></item>
+
+<media:credit role="author">A Node.js Podcast</media:credit><media:rating>nonadult</media:rating><media:description type="plain">NodeUp is a podcast about Node.js</media:description></channel>
+
+</rss>

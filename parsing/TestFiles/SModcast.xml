@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+	<title>SModcast</title>
+	<atom:link href="http://www.smodcast.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.smodcast.com</link>
+	<description>SModcast Internet Radio</description>
+	<lastBuildDate>Sat, 14 Nov 2015 04:40:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>#266: Sunday Jeff is coming to town - Tell &#039;Em Steve-Dave!</title>
+		<link>http://www.smodcast.com/episodes/sunday-jeff-is-coming-to-town/</link>
+		<comments>http://www.smodcast.com/episodes/sunday-jeff-is-coming-to-town/#comments</comments>
+		<pubDate>Sat, 14 Nov 2015 04:40:19 +0000</pubDate>
+		<dc:creator><![CDATA[netheadww]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16276</guid>
+		<description><![CDATA[In which Sunday Jeff makes merry and tricks the listeners into a download. Music: Vicky Pezza - TESD Xmas Rap]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/sunday-jeff-is-coming-to-town/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232998224-tesdpodcast-stevedave-266-5.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#340: Groovy: NYCC Ash Vs. Evil Dead Panel - SModcast</title>
+		<link>http://www.smodcast.com/episodes/groovy-nycc-ash-vs-evil-dead-panel/</link>
+		<comments>http://www.smodcast.com/episodes/groovy-nycc-ash-vs-evil-dead-panel/#comments</comments>
+		<pubDate>Sat, 14 Nov 2015 00:55:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16273</guid>
+		<description><![CDATA[In which our hero hosts a panel for the Starz Original Series Ash vs. Evil Dead with special guests Bruce Campbell, Lucy Lawless, Ray Santiago, Dana DeLorenzo, Jill Marie Jones, showrunner Craig DiGregorio, and Sam Raimi.]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/groovy-nycc-ash-vs-evil-dead-panel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232979319-smodcast-smodcast-340.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#48: Live From Scott&#039;s House! - FEaB</title>
+		<link>http://www.smodcast.com/episodes/live-from-scotts-house/</link>
+		<comments>http://www.smodcast.com/episodes/live-from-scotts-house/#comments</comments>
+		<pubDate>Fri, 13 Nov 2015 21:21:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16272</guid>
+		<description><![CDATA[Matt and Scott discuss DNA, books, food and throw popcorn to Scott's dog Buddy. ]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/live-from-scotts-house/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232955277-feabpod-feab-048.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#171: Take A Walk - Bagged &amp; Boarded</title>
+		<link>http://www.smodcast.com/episodes/take-a-walk/</link>
+		<comments>http://www.smodcast.com/episodes/take-a-walk/#comments</comments>
+		<pubDate>Fri, 13 Nov 2015 05:45:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16269</guid>
+		<description><![CDATA[In which Matt is joined by screenwriter/documentarian/friend Christopher Browne for a chat about The Walk, working with Robert Zemeckis, and what it takes to "make it" in Hollywood.]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/take-a-walk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232855690-baggedandboarded-baggedboarded-171.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#46: Betamaximum Overdrive - Big Bald Broadcast</title>
+		<link>http://www.smodcast.com/episodes/betamaximum-overdrive/</link>
+		<comments>http://www.smodcast.com/episodes/betamaximum-overdrive/#comments</comments>
+		<pubDate>Fri, 13 Nov 2015 05:32:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16268</guid>
+		<description><![CDATA[Steve Jobs and Jen &#038; the Holograms get yanked, Hit Girl becomes a little mermaid, Activision and Blizzard form a movie studio, MST3K returns via crowdfunding, and Sony pulls the plug on Betamax decades after everyone thought they already did.]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/betamaximum-overdrive/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232855445-bigbaldbroadcast-bigbaldbroadcast-046.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#204: In My Head, I&#039;m In Colorado - NetHeads</title>
+		<link>http://www.smodcast.com/episodes/in-my-head-im-in-colorado/</link>
+		<comments>http://www.smodcast.com/episodes/in-my-head-im-in-colorado/#comments</comments>
+		<pubDate>Fri, 13 Nov 2015 05:21:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16264</guid>
+		<description><![CDATA[In which the NetHeads return to discuss even more nonsensical stuff.]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/in-my-head-im-in-colorado/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232854154-netheads-netheads-204.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#17: The Unkindest Cut Of The Matchmaker - Talk Salad and Scrambled Eggs (Frasier Reconsidered w/ Matt Mira and Kevin Smith)</title>
+		<link>http://www.smodcast.com/episodes/the-unkindest-cut-of-the-matchmaker/</link>
+		<comments>http://www.smodcast.com/episodes/the-unkindest-cut-of-the-matchmaker/#comments</comments>
+		<pubDate>Thu, 12 Nov 2015 06:15:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16263</guid>
+		<description><![CDATA[Kevin and Matt return to discuss the most relevant thing in the Frasierverse, the new Star Trek. After watching The Unkindest Cut of All the guys discuss a little Supergirl before enjoying The Matchmaker.]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/the-unkindest-cut-of-the-matchmaker/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232705084-talksaladandscrambledeggs-talksalad-017.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#32: Tuesday, November 10, 2015 - Nooner</title>
+		<link>http://www.smodcast.com/episodes/tuesday-november-10-2015/</link>
+		<comments>http://www.smodcast.com/episodes/tuesday-november-10-2015/#comments</comments>
+		<pubDate>Thu, 12 Nov 2015 05:26:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16267</guid>
+		<description><![CDATA[Racism on campus, dirty sex tips, other people's podcasts, and bad Bill imitations. Join @casscardenes, @johnpirruccello, @giselenett, and @martyyu!]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/tuesday-november-10-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232853480-noonerdanmarty-nooner-032.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#174: I&#039;ll Show Mewes - Jay &amp; Silent Bob Get Old</title>
+		<link>http://www.smodcast.com/episodes/ill-show-mewes/</link>
+		<comments>http://www.smodcast.com/episodes/ill-show-mewes/#comments</comments>
+		<pubDate>Wed, 11 Nov 2015 06:30:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16262</guid>
+		<description><![CDATA[Act like Mewes know me, but Mewes never will.
+(Recorded LIVE at the Hard Rock Hotel &#038; Casino on 10/3/2015)]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/ill-show-mewes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232551022-jaysilentbobgetold-getold-174.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>#77: 3 Groins In The Fountain - Edumacation</title>
+		<link>http://www.smodcast.com/episodes/3-groins-in-the-fountain/</link>
+		<comments>http://www.smodcast.com/episodes/3-groins-in-the-fountain/#comments</comments>
+		<pubDate>Tue, 10 Nov 2015 07:13:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://www.smodcast.com/?p=16259</guid>
+		<description><![CDATA[This week Andy Edumacates Kevin on the:
+The SCI: Useless Facts
+The FI: Useless Inventions
+The WHY: Ocean Exploration
+The BYE: Roo Farts]]></description>
+		<wfw:commentRss>http://www.smodcast.com/episodes/3-groins-in-the-fountain/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://feeds.soundcloud.com/stream/232393709-edumacation-edumacation-077.mp3" length="0" type="audio/mpeg" />
+	</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk
+Object Caching 1156/1265 objects using disk
+Content Delivery Network via procdn.smodcast.com
+
+ Served from: www.smodcast.com @ 2015-11-13 22:34:16 by W3 Total Cache -->

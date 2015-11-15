@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nitobi's Enterprise AJAX Podcast</title>
+    <link>http://blogs.ebusiness-apps.com/andre</link>
+    <atom:link href="http://ebadre.hipcast.com/rss/archive/ajaxradio.xml" rel="next" type="application/rss+xml"/>
+    <atom:link href="http://ebadre.hipcast.com/rss/ajaxradio.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://ebadre.hipcast.com/rss/ajaxradio.xml" rel="current" type="application/rss+xml"/>
+    <description>Stories and information on building high performance and highly usable web applications using AJAX and other RIA techniques.  This techie content is mixed with bits and bites of the challenges of growing a software company.  Main podcasters are Andre Charland and Dave Johnson from eBusiness Applications.  More info at http://nitobi.com</description>
+    <copyright>Creative Commons</copyright>
+    <managingEditor>andre.charland@nitobi.com (andre.charland@nitobi.com)</managingEditor>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2015 06:33:58 GMT</lastBuildDate>
+    <generator>Hipcast RSS Feeder 1.44</generator>
+    <category>Technology</category>
+    <ttl>60</ttl>
+    <image>
+      <url>http://ebadre.hipcast.com/albumart/1001.1447482849.jpg</url>
+      <link>http://blogs.ebusiness-apps.com/andre</link>
+      <title>Nitobi's Enterprise AJAX Podcast</title>
+    </image>
+    <itunes:block>yes</itunes:block>
+    <itunes:author>Andre Charland</itunes:author>
+    <itunes:summary>Stories and information on building high performance and highly usable web applications using AJAX and other RIA techniques.  Regular podcasters are Andre Charland, Dave Johnson and Alexei White of eBusiness Applications.</itunes:summary>
+    <itunes:subtitle>Building highly usable and performant AJAX interfaces.</itunes:subtitle>
+    <itunes:keywords>ajax,business,ria,usability,flex,enterpriseajax,net,java,jsf,php,coldfusion,design,ui,ux,userexperience,web2,0</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Andre Charland</itunes:name>
+      <itunes:email>acharland@ebusinessapps.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://ebadre.hipcast.com/albumart/1001_itunes.1447482849.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <item>
+      <guid isPermaLink="false">c49fae06-d413-5132-b1c4-11a5de28ec07</guid>
+      <title>Enterprise Ajax  18 - JavaOne</title>
+      <description><![CDATA[Andre Charland of Nitobi stopped by the Adobe booth at JavaOne and we got a chance to talk Ajax, Apollo and the future of the web. If you’re not familiar with Nitobi, they have some amazing Ajax components, an experienced development shop, and a new book on the way called ““. My first exposure to Nitobi was from an example they did that tied their grid control to Adobe Ajax Data Services (now LiveCycle Data Services). You don’t get much more cutting edge than that!]]></description>
+      <pubDate>Tue, 03 Jul 2007 07:08:46 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre Charland of Nitobi stopped by the Adobe booth at JavaOne and we got a chance to talk Ajax, Apollo and the future of the web. If you’re not familiar with Nitobi, they have some amazing Ajax components, an experienced development shop, and a new book on the way called ““. My first exposure to Nitobi was from an example they did that tied their grid control to Adobe Ajax Data Services (now LiveCycle Data Services). You don’t get much more cutting edge than that!</itunes:summary>
+      <itunes:subtitle>Enterprise Ajax  18 - JavaOne</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">5265cdaa-5be5-ad94-8004-0b7d1c582337</guid>
+      <title>Enterprise Ajax 17 - ApolloCamp and AjaxWorld</title>
+      <description><![CDATA[Andre Charland and Ryan Steward chat about the these two events.]]></description>
+      <pubDate>Wed, 28 Mar 2007 17:51:11 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre Charland and Ryan Steward chat about the these two events.</itunes:summary>
+      <itunes:subtitle>Enterprise Ajax 17 - ApolloCamp and AjaxWorld</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">1676bec4-ae80-a785-114e-8f0203536852</guid>
+      <title>Enterprise Ajax  16 - Component Design, Offline Ajax, Apollo</title>
+      <description><![CDATA[New Nitobi Components: Tree, Tab, Date Picker, Input masks.  Offline Ajax.  Apollo. Enterprise Ajax Book.]]></description>
+      <pubDate>Tue, 28 Nov 2006 02:05:57 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>New Nitobi Components: Tree, Tab, Date Picker, Input masks.  Offline Ajax.  Apollo. Enterprise Ajax Book.</itunes:summary>
+      <itunes:subtitle>Enterprise Ajax  16 - Component Design, Offline Ajax, Apollo</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">63fcebac-9317-9219-d375-e9964187dbca</guid>
+      <title>Enterprise Ajax 15 - OpenAjax, AjaxWorld, Testing</title>
+      <description><![CDATA[OpenAjax Alliance, AjaxWorld, Testing, Debugging, Performance]]></description>
+      <pubDate>Sun, 22 Oct 2006 16:50:00 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>OpenAjax Alliance, AjaxWorld, Testing, Debugging, Performance</itunes:summary>
+      <itunes:subtitle>Enterprise Ajax 15 - OpenAjax, AjaxWorld, Testing</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">fad84568-b930-0307-fc9e-c1fb7b3ef5ca</guid>
+      <title>Enterprise Ajax 14 - Nitobi - Ajax and Analysts</title>
+      <description><![CDATA[Discussin of Nitobi Grid 3.2, some javascript stuff, launching software and software industry analysts.]]></description>
+      <pubDate>Sat, 23 Sep 2006 03:30:55 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Discussin of Nitobi Grid 3.2, some javascript stuff, launching software and software industry analysts.</itunes:summary>
+      <itunes:subtitle>Enterprise Ajax 14 - Nitobi - Ajax and Analysts</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">1e402c84-5a35-0e99-dfb2-b3ce5af2d20b</guid>
+      <title>Enterprise Ajax #13 - JavaScript Inheritance</title>
+      <description><![CDATA[Dave, Alexei and Andre talk about JavaScript inheritance techniques and how they affect performance.  Followed by a discussion of useful Ajax use cases for business applications such as CRM.]]></description>
+      <pubDate>Mon, 18 Sep 2006 21:53:18 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Dave, Alexei and Andre talk about JavaScript inheritance techniques and how they affect performance.  Followed by a discussion of useful Ajax use cases for business applications such as CRM.</itunes:summary>
+      <itunes:subtitle>Enterprise Ajax #13 - JavaScript Inheritance</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">5f731328-609c-74b1-5fc5-0fd8bd700dd2</guid>
+      <title>Enterprise AJAX # 12</title>
+      <description><![CDATA[Andre, Dave and Alexei shoot the breeze about the new Nitobi website, BarCamp Vancouver, online apps like Google Apps.]]></description>
+      <pubDate>Thu, 31 Aug 2006 21:33:26 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre, Dave and Alexei shoot the breeze about the new Nitobi website, BarCamp Vancouver, online apps like Google Apps.</itunes:summary>
+      <itunes:subtitle>Enterprise AJAX # 12</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">7b8efcda-0899-2afb-a2c6-66fab3c7bfda</guid>
+      <title>Enterprise Ajax Episode 11 - Opensource</title>
+      <description><![CDATA[Andre Charland, Dave Johnson and Alexei White discuss Ajax Components,
+Software Documentation and open source frameworks. There's also a
+good discussion on where the real value comes from in a software
+component.]]></description>
+      <pubDate>Wed, 16 Aug 2006 18:03:28 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre Charland, Dave Johnson and Alexei White discuss Ajax Components,&#13;
+Software Documentation and open source frameworks. There's also a&#13;
+good discussion on where the real value comes from in a software&#13;
+component.</itunes:summary>
+      <itunes:subtitle>Enterprise Ajax Episode 11 - Opensource</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">428a57e5-8aba-bec9-4581-e9ca9f187150</guid>
+      <title>Enterprise AJAX Epsisode # 10</title>
+      <description><![CDATA[Andre and Dave discuss JavaScript programming techniques and patterns such as inheritance, multiple inheritance, observer patterns and more.  We also touch on the nonesense around Ajax security risks.  Mentions also of BarCamp Vancouver and we're hiring at Nitobi!  Until next week on the same bat channel at the same bat time:)]]></description>
+      <pubDate>Wed, 09 Aug 2006 19:19:36 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre and Dave discuss JavaScript programming techniques and patterns such as inheritance, multiple inheritance, observer patterns and more.  We also touch on the nonesense around Ajax security risks.  Mentions also of BarCamp Vancouver and we're hiring at Nitobi!  Until next week on the same bat channel at the same bat time:)</itunes:summary>
+      <itunes:subtitle>Enterprise AJAX Epsisode # 10</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">270d4908-dbf6-3d49-50fd-b7b011fcc3c4</guid>
+      <title>Enterprise Ajax Episode 9</title>
+      <description><![CDATA[Somehow I forgot to publish this into the RSS feed before.]]></description>
+      <pubDate>Fri, 04 Aug 2006 19:21:11 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Somehow I forgot to publish this into the RSS feed before.</itunes:summary>
+      <itunes:subtitle>Enterprise Ajax Episode 9</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">89cdaa06-285c-ffd4-5a60-1a8d6d740391</guid>
+      <title>Nitobi Enterprise Ajax - Episode 8</title>
+      <description><![CDATA[Dave and Andre discuss the new Nitobi name and brand, WebVisions 2006, Ajax Patterns with Michael Mahemoff, Geoweb with Ajax and GIS, Ajaxworld and the 3 pillars of Ajax.]]></description>
+      <pubDate>Thu, 03 Aug 2006 01:59:50 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Dave and Andre discuss the new Nitobi name and brand, WebVisions 2006, Ajax Patterns with Michael Mahemoff, Geoweb with Ajax and GIS, Ajaxworld and the 3 pillars of Ajax.</itunes:summary>
+      <itunes:subtitle>Nitobi Enterprise Ajax - Episode 8</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">87f6613a-073e-7ace-2d3e-9c382cdd69ad</guid>
+      <title>EBA's Enterprise AJAX Podcast - Episode #8 - Hosted by DaveO</title>
+      <description><![CDATA[DaveO gets a lesson on using AJAX (not just for cleaning) for advanced web interface usability from the brilliant and humourous lads of eBusiness Applications, Andre Charland and Alexei White. 
+
+Note: This is an 'enhanced' podcast filled with relevant photos and links (use your viewer window in the bottom left corner of iTunes).]]></description>
+      <pubDate>Mon, 17 Jul 2006 18:44:40 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>DaveO gets a lesson on using AJAX (not just for cleaning) for advanced web interface usability from the brilliant and humourous lads of eBusiness Applications, Andre Charland and Alexei White. &#13;
+&#13;
+Note: This is an 'enhanced' podcast filled with relevant photos and links (use your viewer window in the bottom left corner of iTunes).</itunes:summary>
+      <itunes:subtitle>EBA's Enterprise AJAX Podcast - Episode #8 - Hosted by DaveO</itunes:subtitle>
+      <enclosure url="http://www.elasticpath.com/media/getelastic-6.m4a" length="13221864" type="text/plain"/>
+      <link>http://ebusinessapps.com</link>
+    </item>
+    <item>
+      <guid isPermaLink="false">f5d017d4-ae9f-bb90-e303-0fea11c0fe75</guid>
+      <title>EBA's Enterprise AJAX Podcast - Episode #7 - Grid 3.1</title>
+      <description><![CDATA[Andre Charland, Dave Johnson and Alexei White discuss Grid 3.1, AJAX
+Copy and Paste and Open AJAX.]]></description>
+      <pubDate>Wed, 05 Jul 2006 18:00:39 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre Charland, Dave Johnson and Alexei White discuss Grid 3.1, AJAX&#13;
+Copy and Paste and Open AJAX.</itunes:summary>
+      <itunes:subtitle>EBA's Enterprise AJAX Podcast - Episode #7 - Grid 3.1</itunes:subtitle>
+      <enclosure url="http://www.ajaxinfo.com/podcast7.mp3" length="24917154" type="audio/mpeg"/>
+      <link>http://blogs.ebusiness-apps.com/andre</link>
+    </item>
+    <item>
+      <guid isPermaLink="false">90609e3a-d33a-02f7-d091-17a0e6e216ce</guid>
+      <title>EBA Enterprise AJAX Podcast # 6 Accessiblity</title>
+      <description><![CDATA[AJAX and accessibility discucsion. Topics include Section 508, screen
+readers, different disabilities and other RIA technologies such as
+Flex.]]></description>
+      <pubDate>Wed, 28 Jun 2006 18:50:20 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>AJAX and accessibility discucsion. Topics include Section 508, screen&#13;
+readers, different disabilities and other RIA technologies such as&#13;
+Flex.</itunes:summary>
+      <itunes:subtitle>EBA Enterprise AJAX Podcast # 6 Accessiblity</itunes:subtitle>
+      <link>http://blogs.ebusiness-apps.com/andre</link>
+    </item>
+    <item>
+      <guid isPermaLink="false">322a20c1-46c9-a86b-9755-867722ce8381</guid>
+      <title>EBA's Enterprise AJAX Podcast - Episode #5 - SOA and Flex</title>
+      <description><![CDATA[Discussion of AJAX and how it relates to SOA and Flex with Andre Charland, Dave Johnson, Alexei White and Duane Nickull.]]></description>
+      <pubDate>Wed, 21 Jun 2006 17:09:31 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Discussion of AJAX and how it relates to SOA and Flex with Andre Charland, Dave Johnson, Alexei White and Duane Nickull.</itunes:summary>
+      <itunes:subtitle>EBA's Enterprise AJAX Podcast - Episode #5 - SOA and Flex</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">b2392e35-5fe3-3069-65e1-de319742b17c</guid>
+      <title>EBA's Enterprise AJAX Podcast - Episode #4</title>
+      <description><![CDATA[Andre Charland, Dave Johnson and Alexei White of eBusiness
+Applications are joined by Michael Mahemoff of AjaxPatterns.org. In
+this Episode we discsuss building Ajax to last, offline Ajax,
+declarative markup and the Open AJAX Alliance.]]></description>
+      <pubDate>Wed, 14 Jun 2006 06:23:59 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre Charland, Dave Johnson and Alexei White of eBusiness&#13;
+Applications are joined by Michael Mahemoff of AjaxPatterns.org. In&#13;
+this Episode we discsuss building Ajax to last, offline Ajax,&#13;
+declarative markup and the Open AJAX Alliance.</itunes:summary>
+      <itunes:subtitle>EBA's Enterprise AJAX Podcast - Episode #4</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">5373e229-6cf7-2923-a8d5-933902e1dd98</guid>
+      <title>EBA Enterprise AJAX Podcast # 3</title>
+      <description><![CDATA[Schenker using AJAX, REST and Google Spreadsheets.]]></description>
+      <pubDate>Thu, 08 Jun 2006 19:09:31 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Schenker using AJAX, REST and Google Spreadsheets.</itunes:summary>
+      <itunes:subtitle>EBA Enterprise AJAX Podcast # 3</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">5c5a6dd5-b595-7a33-8392-4a96151cc794</guid>
+      <title>EBA’s Enterprise AJAX Podcast - Episode #2 - APIs, Lawsuits</title>
+      <description><![CDATA[Andre Charland, Dave Johnson and Alexei White discuss a number of current topics including:
+-Yahoo API’s versus Google versus eBay APIs
+-Windows Live Mail
+-Translating higher level languages to Javascript
+-Enterprise AJAX - the book we’re writing
+-Podcasting with cote and charles about enterprise AJAX on Thursday
+-Java and AJAX
+-EBA Grid 3.05 Release]]></description>
+      <pubDate>Thu, 01 Jun 2006 06:23:15 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre Charland, Dave Johnson and Alexei White discuss a number of current topics including:&#13;
+-Yahoo API’s versus Google versus eBay APIs&#13;
+-Windows Live Mail&#13;
+-Translating higher level languages to Javascript&#13;
+-Enterprise AJAX - the book we’re writing&#13;
+-Podcasting with cote and charles about enterprise AJAX on Thursday&#13;
+-Java and AJAX&#13;
+-EBA Grid 3.05 Release</itunes:summary>
+      <itunes:subtitle>EBA’s Enterprise AJAX Podcast - Episode #2 - APIs, Lawsuits</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">86ecd828-498d-6ebf-57b6-957d135837de</guid>
+      <title>Rich AJAX Grid Screencast</title>
+      <description><![CDATA[Screencast of the EBA Grid.  Looking at rich AJAX features such inline editing, live scrolling, copy and paste and real-time saving.  Screencast  by Andre Charland, President of eBusiness Applications.]]></description>
+      <pubDate>Thu, 25 May 2006 01:13:06 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Screencast of the EBA Grid.  Looking at rich AJAX features such inline editing, live scrolling, copy and paste and real-time saving.  Screencast  by Andre Charland, President of eBusiness Applications.</itunes:summary>
+      <itunes:subtitle>Rich AJAX Grid Screencast</itunes:subtitle>
+    </item>
+    <item>
+      <guid isPermaLink="false">e05cfd69-8aa6-8bbd-6b60-d8782801fdc0</guid>
+      <title>EBA's Enterprise AJAX Podcast - Episode #1 - JavaOne</title>
+      <description><![CDATA[Andre Charland and Dave Johnson, founders of eBusiness Applications
+Ltd., discuss the events at the AJAX Experience, DCamp, NetBeans Day
+and JavaOne. But most importantly the much awaited EBA Grid V3
+launch!
+
+More info: www.ebusinessapps.com]]></description>
+      <pubDate>Wed, 24 May 2006 19:39:39 GMT</pubDate>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:author></itunes:author>
+      <itunes:summary>Andre Charland and Dave Johnson, founders of eBusiness Applications&#13;
+Ltd., discuss the events at the AJAX Experience, DCamp, NetBeans Day&#13;
+and JavaOne. But most importantly the much awaited EBA Grid V3&#13;
+launch!&#13;
+&#13;
+More info: www.ebusinessapps.com</itunes:summary>
+      <itunes:subtitle>EBA's Enterprise AJAX Podcast - Episode #1 - JavaOne</itunes:subtitle>
+      <link>http://blogs.ebusiness-apps.com/andre</link>
+    </item>
+    <itunes:explicit>clean</itunes:explicit>
+  </channel>
+</rss>

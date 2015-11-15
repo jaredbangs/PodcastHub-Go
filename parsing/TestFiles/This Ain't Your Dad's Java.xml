@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel>
+        <title>This Ain't Your Dad's Java</title>
+        <description>Interested in Java and want to know all the latest news and happenings? Join Eric Klein, VP of Java Marketing, David Bryant, Sr. Director, Java Marketing and Jenn Winger, Marketing Programs for Java Marketing at Sun Microsystems, Inc. as we host this weekly podcast to tell you all the latest in the world of Java. Tune in each week to see what surprise guests will be joining us as we discuss everything from this week in Java, to the cool new Java toys we can't live without, to what music has our toes tapping, to what book we are reading and what box we got in the mail this week. If you have any questions, suggestions for future episodes, or just want to say hi, please send us a note to:  podcast@sun.com and we will make sure to get them into our queue. We would love to hear from you! Remember, this ain't your Dad's Java. Its a whole new arena and we are ready to play!</description>
+        <link>http://javafx.com</link>
+        <copyright>2008</copyright>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 26 Jan 2010 11:14:28 -0800</lastBuildDate>
+        <managingEditor>Jennifer.Winger@Sun.COM</managingEditor>
+        <pubDate>Tue, 26 Jan 2010 11:12:11 -0800</pubDate>
+        <generator>FeedForAll Mac v2.1 (2.1.0.1); http://www.FeedForAll.com/</generator>
+        <itunes:subtitle>This Ain't Your Dad's Java</itunes:subtitle>
+        <itunes:summary>Interested in Java and want to know all the latest news and happenings? Join Eric Klein, VP of Java Marketing, David Bryant, Sr. Director, Java Marketing and producer, Jenn Winger, Marketing Programs for Java Marketing at Sun Microsystems, Inc. as we host this weekly podcast to tell you all the latest in the world of Java. Tune in each week to see what surprise guests will be joining us as we discuss everything from this week in Java, to the cool new Java toys we can't live without, to what music has our toes tapping, to what book we are reading and what box we got in the mail this week. If you have any questions, suggestions for future episodes, or just want to say hi, please send us a note to: aintyourdadsjava@sun.com and we will make sure to get them into our queue. We would love to hear from you! Remember, this ain't your Dad's Java. Its a whole new arena and we are ready to play!</itunes:summary>
+        
+        
+        <itunes:keywords>java,javafx,blu,ray,sunmicrosystems,java,me,java,se,sdn,developer,sircoolio,ericklein,jennwinger,david,bryant,maybeimright,david,bryant</itunes:keywords>
+        <itunes:author>Jennifer.Winger@Sun.COM</itunes:author>
+        
+        <itunes:image href="http://i13.photobucket.com/albums/a251/jennwinger/thisAintYourDadsJava_vert3.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <image>
+            <url>http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/ThisAintYourDadsJavaLogo.jpg</url>
+            <title>This Ain't Your Dad's Java</title>
+            <link>http://java.sun.com</link>
+            <description>ThisAintYourDadsJava</description>
+            <width>600</width>
+            <height>600</height>
+        </image>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/ThisAintYourDadsJava" /><feedburner:info uri="thisaintyourdadsjava" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>2008</media:copyright><media:thumbnail url="http://i13.photobucket.com/albums/a251/jennwinger/thisAintYourDadsJava_vert3.jpg" /><media:keywords>java,javafx,blu,ray,sunmicrosystems,java,me,java,se,sdn,developer,sircoolio,ericklein,jennwinger,david,bryant,maybeimright,david,bryant</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Business/Business News</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><itunes:owner><itunes:email>Jennifer.Winger@Sun.COM</itunes:email></itunes:owner><itunes:category text="Business"><itunes:category text="Business News" /></itunes:category><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><item>
+            <title>Cause We're Cool Like That...</title>
+            <description>Episode 1512 brings in 2010....and in the Java world, we are ready to rock!  Joined once again by Jenn's manager and all around fabulous person, Kim Celestre, we talk about what events we are gearing up for in the next few months and what the latest news and happenings are in the Java world. As always we tackle our usual, boxes, books and music that has all of us up way too late at night. Tune in and hear what we have to say...(and what we might also not be saying)....To quote the beautiful poetic singer, Ryan Adams, "There it is, the Sun rises...but the Sun sets, the Sun also sets..."&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/zjGlRLzU_TY" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/zjGlRLzU_TY/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1512_012110.mp3" length="44047412" type="audio/mpeg" />
+            <guid isPermaLink="false">41CD7E77-6161-4AFC-A39F-C9EC5073C19D-284-000003EFEC4E9026-FFA</guid>
+            <pubDate>Tue, 26 Jan 2010 11:13:38 -0800</pubDate>
+            <itunes:subtitle>Episode 1512 brings in 2010....and in the Java world, we are ready to rock!</itunes:subtitle>
+            <itunes:summary>Episode 1512 brings in 2010....and in the Java world, we are ready to rock!  Joined once again by Jenn's manager and all around fabulous person, Kim Celestre, we talk about what events we are gearing up for in the next few months and what the latest news and happenings are in the Java world. As always we tackle our usual, boxes, books and music that has all of us up way too late at night. Tune in and hear what we have to say...(and what we might also not be saying)....To quote the beautiful poetic singer, Ryan Adams, "There it is, the Sun rises...but the Sun sets, the Sun also sets..."</itunes:summary>
+            <itunes:duration>1:13:25</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, java store, embedded, peteyorn, apple, iphone, android, amazon.com, events, oracle, sunchic, kimcele</itunes:keywords>
+            <itunes:author>Bryant, Klein and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1512_012110.mp3" fileSize="44047412" type="audio/mpeg" /><feedburner:origLink>http://www.java.com</feedburner:origLink></item>
+
+        <item>
+            <title>The Last Show... of this decade.</title>
+            <description>Episode 1511 is our special end of the year podcast as we wrap up the year in Java and look forward to the next decade of what's in store for the Java world.  Joined by Jenn's manager and all around fabulous person, Kim Celestre, we talk about what Jenn's team does and what keeps us busy during the week.  And just in time for the holiday spirit, we tackle some of our favorite chic vs. geek things that we all wish/want for the holidays. Tune in, grab a cup of coffee and enjoy the ride!&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/zjGlRLzU_TY" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/zjGlRLzU_TY/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1511_121709.mp3" length="58710508" type="audio/mpeg" />
+            <guid isPermaLink="false">0C39921A-7C06-48A4-A5B0-90D00D367CBB-175-0000002ABE88CCB7-FFA</guid>
+            <pubDate>Tue, 22 Dec 2009 08:22:41 -0800</pubDate>
+            <itunes:subtitle>Episode 1511 is our special end of the year podcast as we wrap up the year in Java and look forward to the next decade of what's in store for the Java world.</itunes:subtitle>
+            <itunes:summary>Episode 1511 is our special end of the year podcast as we wrap up the year in Java and look forward to the next decade of what's in store for the Java world.  Joined by Jenn's manager and all around fabulous person, Kim Celestre, we talk about what Jenn's team does and what keeps us busy during the week.  And just in time for the holiday spirit, we tackle some of our favorite chic vs. geek things that we all wish/want for the holidays. Tune in, grab a cup of coffee and enjoy the ride!  (but don't mind the explicatives!) </itunes:summary>
+            <itunes:duration>1:21:32</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, java store, embedded, peteyorn, apple, iphone, android, amazon.com, events, oracle, sunchic, kimcele</itunes:keywords>
+            <itunes:author>Bryant, Klein and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1511_121709.mp3" fileSize="58710508" type="audio/mpeg" /><feedburner:origLink>http://www.java.com</feedburner:origLink></item>
+
+        <item>
+            <title>Sh*t Happens, We're Sorry....</title>
+            <description>Episode 1510 doesn't need much explaining. Well, maybe it does. Tune in as Eric, David and Jenn are joined by special guest John Muhlner as we talk all things Java Store and much, much more.  We talk the store, events and as usual, Eric and David get Jenn to laugh uncontrollably. And for fun we tackle some of our favorite things like boxes, music, what shows we're watching and books we're reading.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/zjGlRLzU_TY" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/zjGlRLzU_TY/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1510_102309.mp3" length="50457600" type="audio/mpeg" />
+            <guid isPermaLink="false">63523462-41A7-4C29-8451-DBAA6EB5EE74-390-000005656D03CDA5-FFA</guid>
+            <pubDate>Fri, 23 Oct 2009 09:47:23 -0700</pubDate>
+            <itunes:subtitle>Episode 1510 doesn't need much explaining. Well, maybe it does. Tune in as Eric, David and Jenn are joined by special guest John Muhlner as we talk all things Java Store and much, much more.</itunes:subtitle>
+            <itunes:summary>Episode 1510 doesn't need much explaining. Well, maybe it does. Tune in as Eric, David and Jenn are joined by special guest John Muhlner as we talk all things Java Store and much, much more.  We talk the store, events and as usual, Eric and David get Jenn to laugh uncontrollably. And for fun we tackle some of our favorite things like boxes, music, what shows we're watching and books we're reading.  </itunes:summary>
+            <itunes:duration>1:00:04</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, java store, embedded, peteyorn, apple, iphone, android, amazon.com, events, oracle</itunes:keywords>
+            <itunes:author>Bryant, Klein and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1510_102309.mp3" fileSize="50457600" type="audio/mpeg" /><feedburner:origLink>http://www.java.com</feedburner:origLink></item>
+
+        <item>
+            <title>I Hate Brussel Sprouts!</title>
+            <description>Episode 1509 has nothing to do with brussel sprouts except for the fact that Eric, David and our special guest, Simon Nicholson do not like them. Jenn likes them if they are roasted in the oven, in case you were wondering. This week, we are joined by Simon Nicholson from across the pond. We talk operators plus Java, Java Verified and give you a weekly event pass down from where in the world we all have bee and/or will be soon. . As usual, we tackle some of our favorite things like boxes, music and books. Tune in..you might just hear what has Jenn cracking up uncontrollably.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/zjGlRLzU_TY" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/zjGlRLzU_TY/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode150_101509.mp3" length="48707291" type="audio/mpeg" />
+            <guid isPermaLink="false">49550663-93CC-4FA0-9A04-4B90476613A4-224-0000011B394AA7D9-FFA</guid>
+            <pubDate>Mon, 19 Oct 2009 08:09:39 -0700</pubDate>
+            <itunes:subtitle>Episode 1509 has nothing to do with brussel sprouts except for the fact that Eric, David and our special guest, Simon Nicholson do not like them. Jenn likes them if they are roasted in the oven, in case you were wondering.</itunes:subtitle>
+            <itunes:summary>Episode 1509 has nothing to do with brussel sprouts except for the fact that Eric, David and our special guest, Simon Nicholson do not like them. Jenn likes them if they are roasted in the oven, in case you were wondering. This week, we are joined by Simon Nicholson from across the pond. We talk operators plus Java, Java Verified and give you a weekly event pass down from where in the world we all have bee and/or will be soon. . As usual, we tackle some of our favorite things like boxes, music and books. Tune in..you might just hear what has Jenn cracking up uncontrollably. </itunes:summary>
+            <itunes:duration>57:59</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, events, oow, oracle openworld, oracle</itunes:keywords>
+            <itunes:author>Bryant, Klein and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode150_101509.mp3" fileSize="48707291" type="audio/mpeg" /><feedburner:origLink>http://www.java.com</feedburner:origLink></item>
+
+        <item>
+            <title>Red October</title>
+            <description>Red October has begun which means the crazy event month of October is upon us!  Episode 1508 has Eric, David and Jenn talking all about events. From Adobe Max, to Oracle OpenWorld, to the Sprint Developer Conference,  tune in as we bring you up to speed on where all of us have been and will be. As usual, we tackle some of our favorite things like boxes, music and books. And, if you haven't done it already,  don't forget to tell us where you are in the world!&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1508_101209.mp3" length="33534537" type="audio/mpeg" />
+            <guid isPermaLink="false">90C65D4E-4508-4673-A0B7-43233FB10748-170-0000006D9DB55AE3-FFA</guid>
+            <pubDate>Mon, 19 Oct 2009 07:57:04 -0700</pubDate>
+            <itunes:subtitle>Red October has begun which means the crazy event month of October is upon us!</itunes:subtitle>
+            <itunes:summary>Red October has begun which means the crazy event month of October is upon us!  Episode 1508 has Eric, David and Jenn talking all about events. From Adobe Max, to Oracle OpenWorld, to the Sprint Developer Conference,  tune in as we bring you up to speed on where all of us have been and will be. As usual, we tackle some of our favorite things like boxes, music and books. And, if you haven't done it already,  don't forget to tell us where you are in the world! </itunes:summary>
+            <itunes:duration>39:59</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, events, oow, oracle openworld, oracle</itunes:keywords>
+            <itunes:author>Bryant, Klein and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1508_101209.mp3" fileSize="33534537" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>"Bug's Life"</title>
+            <description>We are back and we are all about bugs... Bug Labs that is! Episode 1507 has Eric, David and Jenn talking with our very special guest,  Peter Semmelheck, CEO of Bug Labs. Tune in as we learn all about Bug Labs and all the cool things Peter has to say. As usual, we tackle some of our favorite things like boxes, music and books. Make sure to stay tuned to find out what music has all of our feet tapping and why we think Bug Labs is so cool. And, if you haven't done it already,  don't forget to tell us where you are in the world!&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1507_090209.mp3" length="43537920" type="audio/mpeg" />
+            <guid isPermaLink="false">24D99B4B-AAB9-4110-9B8D-3298A3BDC794-389-00000BDCF0885CEF-FFA</guid>
+            <pubDate>Tue, 08 Sep 2009 08:21:14 -0700</pubDate>
+            <itunes:subtitle>We are back and we are all about bugs... Bug Labs that is! Episode 1507 has Eric, David and Jenn talking with our very special guest,  Peter Semmelheck, CEO of Bug Labs.</itunes:subtitle>
+            <itunes:summary>We are back and we are all about bugs... Bug Labs that is! Episode 1507 has Eric, David and Jenn talking with our very special guest,  Peter Semmelheck, CEO of Bug Labs. Tune in as we learn all about Bug Labs and all the cool things Peter has to say. As usual, we tackle some of our favorite things like boxes, music and books. Make sure to stay tuned to find out what music has all of our feet tapping and why we think Bug Labs is so cool. And, if you haven't done it already,  don't forget to tell us where you are in the world! </itunes:summary>
+            <itunes:duration>51:50</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, mobile world congress</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1507_090209.mp3" fileSize="43537920" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>It's All About Jim...</title>
+            <description>Episode 1506 has Eric, David and Jenn learning all about our special guest, Jim. Tune in as we are joined by Jim Weaver, JavaFX author, enthusiast and much more. As usual, we tackle some of our favorite things like boxes, music and books and find out what has Jim's feet tapping. We had so much fun, we are going to have him back again soon.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1506_082709.mp3" length="48588336" type="audio/mpeg" />
+            <guid isPermaLink="false">EA5C1967-E2BD-4E0C-A63E-8F12B22BFEFE-144-000003EF5763AB90-FFA</guid>
+            <pubDate>Mon, 31 Aug 2009 09:24:56 -0700</pubDate>
+            <itunes:subtitle>Episode 1506 has Eric, David and Jenn learning all about our special guest, Jim Weaver.</itunes:subtitle>
+            <itunes:summary>Episode 1506 has Eric, David and Jenn learning all about our special guest, Jim. Tune in as we are joined by Jim Weaver, JavaFX author, enthusiast and much more. As usual, we tackle some of our favorite things like boxes, music and books and find out what has Jim's feet tapping. We had so much fun, we are going to have him back again soon.  </itunes:summary>
+            <itunes:duration>1:07:29</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, mobile world congress</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1506_082709.mp3" fileSize="48588336" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>We're Baaaaaaaaaacccckkkkk!!!</title>
+            <description>Episode 1505  brings  Eric, David and Jenn back from a brief hiatus also known as the after JavaOne quiet period and summer vacation. Tune in as we are joined by John Pampuch as he talks to us about the JVM Language Summit, his plans for summer vacation and much more. We also tackle our busy fall event schedule, product updates and of course, some of our favorite things to talk about, boxes, music and books.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1505_081409.mp3" length="41454080" type="audio/mpeg" />
+            <guid isPermaLink="false">5ACA87D0-6931-408A-9462-820A65704CB4-204-000004902109B90F-FFA</guid>
+            <pubDate>Fri, 14 Aug 2009 19:30:38 -0700</pubDate>
+            <itunes:subtitle>Episode 1505  brings  Eric, David and Jenn back from a brief hiatus also known as the after JavaOne quiet period and summer vacation.</itunes:subtitle>
+            <itunes:summary>Episode 1505  brings  Eric, David and Jenn back from a brief hiatus also known as the after JavaOne quiet period and summer vacation. Tune in as we are joined by John Pampuch as he talks to us about the JVM Language Summit, his plans for summer vacation and much more. We also tackle our busy fall event schedule, product updates and of course, some of our favorite things to talk about, boxes, music and books. </itunes:summary>
+            <itunes:duration>49:21</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, mobile world congress</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1505_081409.mp3" fileSize="41454080" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>Wondering Whether Briefs Are Good (meaning brief podcasts)....</title>
+            <description>Episode 1502  takes, Eric, David and Jenn on a brief, but fun filled run through of our journey thus far to JavaOne.From Utopia, to demos, keynotes and more, we give you the play by play of our lives as we plan for JavaOne. This episode might be brief, but it's jam packed with good info....so good, we could only talk about the box we got in the mail this week.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1502_050709.mp3" length="18728856" type="audio/mpeg" />
+            <guid isPermaLink="false">53318447-7AB5-4FBB-AF27-C5830BE5EAFB-216-00000401758A1E73-FFA</guid>
+            <pubDate>Fri, 08 May 2009 08:51:39 -0700</pubDate>
+            <itunes:subtitle>Episode 1502  takes, Eric, David and Jenn on a brief, but fun filled run through of our journey thus far to JavaOne.</itunes:subtitle>
+            <itunes:summary>Episode 1502  takes, Eric, David and Jenn on a brief, but fun filled run through of our journey thus far to JavaOne.  From Utopia, to demos, keynotes and more, we give you the play by play of our lives as we plan for JavaOne. This episode might be brief, but it's jam packed with good info....so good, we could only talk about the box we got in the mail this week. </itunes:summary>
+            <itunes:duration>26:01</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, mobile world congress</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1502_050709.mp3" fileSize="18728856" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>We Left New Caprica...</title>
+            <description>Episode 1501 welcomes back  Eric, David and Jenn after a brief hiatus from all the travel we have been doing. From Mobile World Congress, to SXSW, CTIA and more, we update you on all the latest news and happenings of our lives on the road as well as our big plans for JavaOne this year. We left New Caprica, but now we are back.  As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1501_041609.mp3" length="29991079" type="audio/mpeg" />
+            <guid isPermaLink="false">8887C43D-ABCC-4229-89A2-2281AAA14787-1423-00002BB44BADEAC3-FFA</guid>
+            <pubDate>Thu, 16 Apr 2009 14:45:06 -0700</pubDate>
+            <itunes:subtitle>Episode 1501 welcomes back  Eric, David and Jenn after a brief hiatus from all the travel we have been doing</itunes:subtitle>
+            <itunes:summary>Episode 1501 welcomes back  Eric, David and Jenn after a brief hiatus from all the travel we have been doing. From Mobile World Congress, to SXSW, CTIA and more, we update you on all the latest news and happenings of our lives on the road as well as our big plans for JavaOne this year. We left New Caprica, but now we are back.  As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office. </itunes:summary>
+            <itunes:duration>1:02:29</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, mobile world congress</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1501_041609.mp3" fileSize="29991079" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>The Director's Cut or the Making Of...</title>
+            <description>Episode 1500 takes Eric, David and Jenn on the way back machine!  We talk all about the launch of JavaFX mobile and how we got to this point. We also deep dive into Mobile World Congress, some of our key partners for the mobile launch and much more. As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1500_021209.mp3" length="40997088" type="audio/mpeg" />
+            <guid isPermaLink="false">57453050-4934-41DB-9DD9-B51CFA4F34C5-341-0000027DB8CF82BE-FFA</guid>
+            <pubDate>Thu, 12 Feb 2009 09:54:37 -0800</pubDate>
+            <itunes:subtitle>Episode 1500 takes, Eric, David and Jenn on the way back machine!</itunes:subtitle>
+            <itunes:summary>Episode 1500 takes Eric, David and Jenn on the way back machine!  We talk all about the launch of JavaFX mobile and how we got to this point. We also deep dive into Mobile World Congress, some of our key partners for the mobile launch and much more. As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office. </itunes:summary>
+            <itunes:duration>1:25:25</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, mobile world congress</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1500_021209.mp3" fileSize="40997088" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>Eating One's Own Dog Food</title>
+            <description>We're baaaacckkkkk! After a few weeks hiatus, Eric, David and Jenn are back and we sit down and talk about the latest news and happenings in the world of Java... We give you updates on some of the events we participated in prior to our holiday shutdown, what we are planning to do with our upcoming JavaFX mobile launch, our CES experiences and much, much more. As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode14Jan12.09.mp3" length="47234612" type="audio/mpeg" />
+            <guid isPermaLink="false">D3F886D6-E7B1-4E5F-8B2C-3C9F8C25C7B7-702-000013079D96D305-FFA</guid>
+            <pubDate>Tue, 13 Jan 2009 14:28:40 -0800</pubDate>
+            <itunes:subtitle>We're baaaacckkkkk! After a few weeks hiatus, Eric, David and Jenn are back and we sit down and talk about the latest news and happenings in the world of Java...</itunes:subtitle>
+            <itunes:summary>We're baaaacckkkkk! After a few weeks hiatus, Eric, David and Jenn are back and we sit down and talk about the latest news and happenings in the world of Java... We give you updates on some of the events we participated in prior to our holiday shutdown, what we are planning to do with our upcoming JavaFX mobile launch, our CES experiences and much, much more. As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office. </itunes:summary>
+            <itunes:duration>1:38:24</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com, CES</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode14Jan12.09.mp3" fileSize="47234612" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One After the Launch</title>
+            <description>After a very busy week last week, Eric, David and Jenn sit down and talk about the JavaFX launch... how it went and all the cool things that are avialable. We also spend some time answering more of your questions you have been asking us.  As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office during the holiday season.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode13Dec08.08.mp3" length="28465632" type="audio/mpeg" />
+            <guid isPermaLink="false">0AAA5F1B-EEEE-4B60-BA20-4D7125CDEE32-157-000000E6F621A3D6-FFA</guid>
+            <pubDate>Tue, 09 Dec 2008 08:37:08 -0800</pubDate>
+            <itunes:subtitle>After a very busy week last week, Eric, David and Jenn sit down and talk about the JavaFX launch... how it went and all the cool things that are avialable. questions.</itunes:subtitle>
+            <itunes:summary>After a very busy week last week, Eric, David and Jenn sit down and talk about the JavaFX launch... how it went and all the cool things that are avialable. We also spend some time answering more of your questions you have been asking us.  As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office during the holiday season. </itunes:summary>
+            <itunes:duration>59:08</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, amazon.com</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode13Dec08.08.mp3" fileSize="28465632" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One Before the Launch</title>
+            <description>In the latest episode, Eric, David and Jenn sit down and talk about the countdown to the JavaFX launch as well what events we have been at recently and more of your platform specific questions.    As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode12Nov24.08.mp3" length="37291320" type="audio/mpeg" />
+            <guid isPermaLink="false">9F6437DD-DB3F-42A7-B8DE-E6182E9E6546-353-0000062C8EA7F3E1-FFA</guid>
+            <pubDate>Mon, 24 Nov 2008 19:59:28 -0800</pubDate>
+            <itunes:subtitle>In the latest episode, Eric, David and Jenn sit down and talk about the countdown to the JavaFX launch as well what events we have been at recently and more of your platform specific questions.</itunes:subtitle>
+            <itunes:summary>In the latest episode, Eric, David and Jenn sit down and talk about the countdown to the JavaFX launch as well what events we have been at recently and more of your platform specific questions.  As always, we give you an update on what we are listening to, what we are reading and what's keeping us busy outside of the office. </itunes:summary>
+            <itunes:duration>1:02:09</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, apple, iphone, android, keanemusic, amazon.com</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode12Nov24.08.mp3" fileSize="37291320" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One Where We Got to Eleven</title>
+            <description>Continuing on from our last episode, Eric, David and Jenn sit down and address more of your hot, burning questions about Java.  This week we tackle Embedded Java, Java Card, questions about Swing and much, much more.  As always, we give you an insight into what we are listening to, reading and what's keeping us busy outside of the office.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/5fepInB_8So" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/5fepInB_8So/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode11Nov12.08.mp3" length="27232967" type="audio/mpeg" />
+            <guid isPermaLink="false">61BF6017-CA71-4250-8E11-6D5E3EB36D98-190-00000283650236E6-FFA</guid>
+            <pubDate>Thu, 13 Nov 2008 09:24:15 -0800</pubDate>
+            <itunes:subtitle>Continuing on from our last episode, Eric, David and Jenn sit down and address more of your hot, burning questions about Java.</itunes:subtitle>
+            <itunes:summary>Continuing on from our last episode, Eric, David and Jenn sit down and address more of your hot, burning questions about Java.  This week we tackle Embedded Java, Java Card, questions about Swing and much, much more.  As always, we give you an insight into what we are listening to, reading and what's keeping us busy outside of the office. </itunes:summary>
+            <itunes:duration>56:44</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, ryanadams, zombies</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode11Nov12.08.mp3" fileSize="27232967" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com/</feedburner:origLink></item>
+
+        <item>
+            <title>The One All About Java</title>
+            <description>After all the travel and weeks away,  Eric, David and Jenn sit down to talk about and address your hot, burning questions about Java.  Listen in as we discuss everything from Java as a language, to JavaFX, Java SE and more.  As always, we talk briefly about books we have been reading and music and games that have us coming back for more.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/5fepInB_8So" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/5fepInB_8So/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode10Nov05.08.mp3" length="37363879" type="audio/mpeg" />
+            <guid isPermaLink="false">AFE1AD90-C496-4A15-AFC2-586CA6467766-232-000004970DD53ED4-FFA</guid>
+            <pubDate>Fri, 07 Nov 2008 08:49:56 -0800</pubDate>
+            <itunes:subtitle>After all the travel and weeks away,  Eric, David and Jenn sit down to talk about and address your hot, burning questions about Java</itunes:subtitle>
+            <itunes:summary>After all the travel and weeks away,  Eric, David and Jenn sit down to talk about and address your hot, burning questions about Java.  Listen in as we discuss everything from Java as a language, to JavaFX, Java SE and more.  As always, we talk briefly about books we have been reading and music and games that have us coming back for more. </itunes:summary>
+            <itunes:duration>1:17:50</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, peteyorn, ryanadams, zombies</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode10Nov05.08.mp3" fileSize="37363879" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com/</feedburner:origLink></item>
+
+        <item>
+            <title>The One Where We Went Everywhere</title>
+            <description>This week,  Eric, David and Jenn sit down with Eran Davidov, Director of Engineering for Mobile and Embedded to talk all about mobile and embedded Java. We go all over the place, but you learn lots about our guest, our hosts and our producer. As always, we dive into some of our favorite toys, what boxes we got from Amazon.COM, what we books we are reading and what music has us humming along.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/5fepInB_8So" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/5fepInB_8So/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode9Sept25.08.mp3" length="32863922" type="audio/mpeg" />
+            <guid isPermaLink="false">46C3A3D7-233B-4F68-9A42-66EB58203BA7-189-0000018E406C3F4E-FFA</guid>
+            <pubDate>Thu, 25 Sep 2008 08:23:49 -0700</pubDate>
+            <itunes:subtitle>This week,  Eric, David and Jenn sit down with Eran Davidov, Director of Engineering for Mobile and Embedded to talk all about mobile and embedded Java.</itunes:subtitle>
+            <itunes:summary>This week,  Eric, David and Jenn sit down with Eran Davidov, Director of Engineering for Mobile and Embedded to talk all about mobile and embedded Java. We go all over the place, but you learn lots about our guest, our hosts and our producer. As always, we dive into some of our favorite toys, what boxes we got from Amazon.COM, what we books we are reading and what music has us humming along. </itunes:summary>
+            <itunes:duration>1:08:28</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, javacard, javame, embedded, twilight, simonpetty, minibar</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode9Sept25.08.mp3" fileSize="32863922" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com/</feedburner:origLink></item>
+
+        <item>
+            <title>The One With the Colorful Personality</title>
+            <description>In this weeks episode, Eric, David and Jenn sit down with Nandini Ramani, Engineering Director for JavaFX, to talk all about JavaFX and learn all about Nandini's colorful past and personality.   As always, we dive into some of our favorite toys, what boxes we got from Amazon.COM, what we are reading and what music has us rocking out.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode8Sept15.08.mp3" length="24013427" type="audio/mpeg" />
+            <guid isPermaLink="false">994E6B50-CC53-4877-BDC3-935AD99C04F5-152-0000008C985B1D01-FFA</guid>
+            <pubDate>Mon, 15 Sep 2008 08:19:59 -0700</pubDate>
+            <itunes:subtitle>In this weeks episode, Eric, David and Jenn sit down with Nandini Ramani, Engineering Director for JavaFX, to talk all about JavaFX and learn all about Nandini's colorful past and personality.</itunes:subtitle>
+            <itunes:summary>In this weeks episode, Eric, David and Jenn sit down with Nandini Ramani, Engineering Director for JavaFX, to talk all about JavaFX and learn all about Nandini's colorful past and personality.   As always, we dive into some of our favorite toys, what boxes we got from Amazon.COM, what we are reading and what music has us rocking out. </itunes:summary>
+            <itunes:duration>50:02</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, disney, amazon.com</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode8Sept15.08.mp3" fileSize="24013427" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One Where We Debate the Frakking Name</title>
+            <description>In this weeks episode, Eric, David and Jenn sit down with frakkin' Danny Coward, Chief Architect, Client Software, to talk all about frakkin' Java SE, EE, CDS, JavaFX and more.  As always, we dive into some of our favorite toys, what frakkin' boxes we got from Amazon.COM, what we are reading and what music has us rocking the frakk out.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/kC032ihxvTQ" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/kC032ihxvTQ/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode7Sept08.08.mp3" length="32671660" type="audio/mpeg" />
+            <guid isPermaLink="false">99397540-E9DA-458B-8E53-1897701C4EC9-341-000003D52EBF31CF-FFA</guid>
+            <pubDate>Mon, 08 Sep 2008 08:42:50 -0700</pubDate>
+            <itunes:subtitle>In this weeks episode, Eric, David and Jenn sit down with frakkin' Danny Coward, Chief Architect, Client Software, to talk all about frakkin' Java SE, EE, CDS, JavaFX and more.</itunes:subtitle>
+            <itunes:summary>In this weeks episode, Eric, David and Jenn sit down with frakkin' Danny Coward, Chief Architect, Client Software, to talk all about frakkin' Java SE, EE, CDS, JavaFX and more.  As always, we dive into some of our favorite toys, what frakkin' boxes we got from Amazon.COM, what we are reading and what music has us rocking the frakk out.</itunes:summary>
+            <itunes:duration>1:08:04</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, disney, amazon.com</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode7Sept08.08.mp3" fileSize="32671660" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One About The Man (Who Started It All)</title>
+            <description>In this weeks episode, Eric and Jenn (with David there in spirit) sit down with the man who started it all,  James Gosling to talk all about Java. From the beginning when Java was just a thought, to where Java is today, Java ME/SE, to JavaFX, we discuss what Java means to James and to the world. As always, we dive into some of our favorite toys, what boxes we got from Amazon.COM, what we are reading and what music has us rocking out.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/kC032ihxvTQ" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/kC032ihxvTQ/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode6Aug21.08.mp3" length="61191314" type="audio/mpeg" />
+            <guid isPermaLink="false">6FCED6E6-1861-44CB-8D19-03DFCF47387C-786-0000135816358A4D-FFA</guid>
+            <pubDate>Thu, 21 Aug 2008 14:10:04 -0700</pubDate>
+            <itunes:subtitle>Eric and Jenn sit down with the Godfather of Java, James Gosling to talk all about Java.</itunes:subtitle>
+            <itunes:summary>This episodes features another cool person who has one of the sweetest job titles at Sun. Eric and Jenn (with David there in spirit) sit down with the man who started it all,  James Gosling to talk all about Java. From the beginning when Java was just a thought, to where Java is today, Java ME/SE, to JavaFX, we discuss what Java means to James and to the world. As always, we dive into some of our favorite toys, what boxes we got from Amazon.COM, what we are reading and what music has us rocking out.</itunes:summary>
+            <itunes:duration>1:12:50</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, davidbryant, david_bryant, blu-ray, jennwinger, maybeimright, disney, amazon.com</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode6Aug21.08.mp3" fileSize="61191314" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One About Media Elitists</title>
+            <description>This episodes features another cool person who has one of the sweetest job titles at Sun. Eric, David and Jenn sit down with Sun's Chief Digital Media Officer, Bill Sheppard to talk all about being a digital media elitist. From Blu-ray, to the Emmy's, Bill discusses what Java means to the TV and the digital lifestyle. We also dive into some of our favorite toys, what box we got from amazon.com this week, what we are reading and what music has our toes tapping&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/kC032ihxvTQ" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/kC032ihxvTQ/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode5Aug14.08.mp3" length="19385365" type="audio/mpeg" />
+            <guid isPermaLink="false">1FCF0E52-6172-474B-8DD0-ADFA7BF71BFE-786-0000133B97177BB2-FFA</guid>
+            <pubDate>Thu, 14 Aug 2008 10:17:03 -0700</pubDate>
+            <itunes:subtitle>Eric, David and Jenn sit down with Sun's Chief Digital Media Officer, Bill Sheppard to talk all about being a digital media elitist and what Java means to the TV and digital lifestyle.</itunes:subtitle>
+            <itunes:summary>This episodes features another cool person who has one of the sweetest job titles at Sun. Eric, David and Jenn sit down with Sun's Chief Digital Media Officer, Bill Sheppard to talk all about being a digital media elitist. From Blu-ray, to the Emmy's, Bill discusses what Java means to the TV and the digital lifestyle. We also dive into some of our favorite toys, what box we got from amazon.com this week, what we are reading and what music has our toes tapping.</itunes:summary>
+            <itunes:duration>40:23</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, billsheppard, BillShepp, davidbryant, david_bryant, blu-ray, amazon.com, jennwinger, maybeimright, peteyorn, disney, fox, bda-live, OCAP, neilyoung</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode5Aug14.08.mp3" fileSize="19385365" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One About the Twins</title>
+            <description>This episode welcomes back our co-host, David after a few weeks of travel and introduces you to Eric's twin in all things Java and partner in crime, Jeet Kaul, VP of Java Engineering. Listen as we talk about everything from what's happening in Java land  this week, what Jeet likes to geek out on, the Amazon Kindle, music that has our toes tapping and a few very funny bloopers along the way.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/kC032ihxvTQ" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/kC032ihxvTQ/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode4Aug13.08.mp3" length="33958975" type="audio/mpeg" />
+            <guid isPermaLink="false">C2E08D0B-1F5D-4288-A204-1BBE8A53326A-786-00001320C5187A8F-FFA</guid>
+            <pubDate>Wed, 13 Aug 2008 10:17:13 -0700</pubDate>
+            <itunes:subtitle>This episode welcomes back our co-host, David after a few weeks of travel and introduces you to Eric's twin in all things Java and partner in crime, Jeet Kaul, VP of Java Engineering.</itunes:subtitle>
+            <itunes:summary>This episode welcomes back our co-host, David after a few weeks of travel and introduces you to Eric's twin in all things Java and partner in crime, Jeet Kaul, VP of Java Engineering. Listen as we talk about everything from what's happening in Java land this week, what Jeet likes to geek out on, the Amazon Kindle, music that has our toes tapping and a few very funny bloopers along the way.</itunes:summary>
+            <itunes:duration>1:10:44</itunes:duration>
+            <itunes:keywords>java, javafx, java me, java se, java mobile, mobile, ericklein, sircoolio, jeetkaul, meejeet, davidbryant, david_bryant, blu-ray, xvm, jennwinger, maybeimright, peteyorn</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode4Aug13.08.mp3" fileSize="33958975" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One Where Eric Geeks Out on Gaming</title>
+            <description>Eric sits down with Chris Melissinos, our Chief Gaming Officer to geek out on gaming, gaming consoles, Java and gaming, what's cool in Java land this week and what music has their toes tapping.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/kC032ihxvTQ" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/kC032ihxvTQ/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode3Aug108.mp3" length="21673900" type="audio/mpeg" />
+            <guid isPermaLink="false">414A8DBF-7C8A-468B-9156-917CF06FEF6F-786-000012FA51DDB727-FFA</guid>
+            <pubDate>Fri, 01 Aug 2008 16:10:00 -0700</pubDate>
+            <itunes:subtitle>Eric sits down with Chris Melissinos, our Chief Gaming Officer to geek out on gaming, gaming consoles, Java and gaming, whats cool in Java land this week and what music has their toes tapping.</itunes:subtitle>
+            <itunes:summary>Eric sits down with Chris Melissinos, our Chief Gaming Officer to geek out on gaming, gaming consoles, Java and gaming, whats cool in Java land this week and what music has their toes tapping.</itunes:summary>
+            <itunes:duration>44:53</itunes:duration>
+            <itunes:keywords>java, java gaming, flobots, sircoolio, cmelissinos, maybeimright, blu-ray, javafx, javafx sdk preview, jennwinger</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode3Aug108.mp3" fileSize="21673900" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com</feedburner:origLink></item>
+
+        <item>
+            <title>The One Where Eric and Param Speak About the Soul (Drivers) of JavaFX</title>
+            <description>This episode focuses on the soul (drivers) of JavaFX.  We'll also discuss what's cool in the Java world this week and what we're playing with that makes it cool!&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/BM_KRo_krFA" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/BM_KRo_krFA/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode2July29.08.mp3" length="16888268" type="audio/mpeg" />
+            <guid isPermaLink="false">DA19BDBE-4C70-4283-A1F2-7C2DCE6EF68B-786-00001286E332B826-FFA</guid>
+            <pubDate>Thu, 24 Jul 2008 10:17:19 -0700</pubDate>
+            <itunes:subtitle>This episode focuses on the soul (drivers) of JavaFX.  We'll also discuss what's cool in the Java world this week and what we're playing with that makes it cool!</itunes:subtitle>
+            <itunes:summary>This episode focuses on the soul (drivers) of JavaFX.  We'll also discuss what's cool in the Java world this week and what we're playing with that makes it cool!</itunes:summary>
+            <itunes:duration>35:11</itunes:duration>
+            <itunes:keywords>java, javafx, blu-ray, sun, developer, sdn, java me, java se, java ee, javaone, livescribe</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode2July29.08.mp3" fileSize="16888268" type="audio/mpeg" /><feedburner:origLink>http://www.javafx.com</feedburner:origLink></item>
+
+        <item>
+            <title>Pilot: The One That Started It All</title>
+            <description>Our first episode is an introduction of the Java podcast series, who the hosts are and whats happening in the Java World.&lt;img src="http://feeds.feedburner.com/~r/ThisAintYourDadsJava/~4/kC032ihxvTQ" height="1" width="1" alt=""/&gt;</description>
+            <link>http://feedproxy.google.com/~r/ThisAintYourDadsJava/~3/kC032ihxvTQ/</link>
+            <author>Jennifer.Winger@Sun.COM</author>
+            <enclosure url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1July28.08.mp3" length="24464614" type="audio/mpeg" />
+            <guid isPermaLink="false">C0F98666-D645-48BF-AD5E-50725F689448-302-00000623B03EADAC-FFA</guid>
+            <pubDate>Thu, 17 Jul 2008 10:17:21 -0700</pubDate>
+            <itunes:subtitle>Come listen to Eric Klein and David Bryant of Sun Microsystems as they host a weekly podcast series to let you know the latest news and happenings in the world of Java.</itunes:subtitle>
+            <itunes:summary>Come listen to Eric Klein and David Bryant of Sun Microsystems as they host a weekly podcast series to let you know the latest news and happenings in the world of Java.</itunes:summary>
+            <itunes:duration>51:10</itunes:duration>
+            <itunes:keywords>java, javafx, blu-ray, sun, developer, sdn, java me, javaone, livescribe, sircoolio, maybeimright</itunes:keywords>
+            <itunes:author>Klein, Bryant and Winger</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        <media:content url="http://wcdata.sun.com/webcast/download/podcast/TAYDadsJava/Episode1July28.08.mp3" fileSize="24464614" type="audio/mpeg" /><feedburner:origLink>http://java.sun.com</feedburner:origLink></item>
+
+    <media:credit role="author">Jennifer.Winger@Sun.COM</media:credit><media:rating>adult</media:rating><media:description type="plain">This Ain't Your Dad's Java</media:description></channel>
+</rss>

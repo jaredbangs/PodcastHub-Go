@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="http://www.npr.org/rss/" xmlns:nprml="http://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Wait Wait... Don't Tell Me!</title>
+    <link>http://www.npr.org/programs/wait-wait-dont-tell-me/</link>
+    <description><![CDATA[NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up.]]></description>
+    <copyright>2014 NPR</copyright>
+    <generator>NPR API RSS Generator 0.94</generator>
+    <language>en</language>
+    <itunes:summary><![CDATA[NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up.]]></itunes:summary>
+    <itunes:subtitle><![CDATA[NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up.]]></itunes:subtitle>
+    <itunes:author>NPR</itunes:author>
+    <itunes:block>no</itunes:block>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name/>
+    </itunes:owner>
+    <itunes:category text="Comedy"/>
+    <itunes:category text="Games &amp; Hobbies"/>
+    <itunes:category text="Other Games"/>
+    <itunes:image href="http://media.npr.org/images/podcasts/primary/icon_344098539-f089cf02094b52708d0979b026a157aa5a1e3ac1.jpg?s=1400"/>
+    <image>
+      <url>http://media.npr.org/images/podcasts/primary/icon_344098539-f089cf02094b52708d0979b026a157aa5a1e3ac1.jpg?s=200</url>
+      <title>Wait Wait... Don't Tell Me!</title>
+      <link>http://www.npr.org/programs/wait-wait-dont-tell-me/</link>
+    </image>
+    <lastBuildDate>Sat, 07 Nov 2015 17:00:00 -0500</lastBuildDate>
+    <item>
+      <title>Cindy Crawford</title>
+      <description><![CDATA[Cindy Crawford, American supermodel, joins us along with panelists Paula Poundstone, Amy Dickinson, and Peter Grosz.]]></description>
+      <pubDate>Sat, 07 Nov 2015 17:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>67e74842-d317-45b2-8161-00dc7d31931c</guid>
+      <link>http://waitwait.npr.libsynfusion.com/cindy-crawford</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Cindy Crawford, American supermodel, joins us along with panelists Paula Poundstone, Amy Dickinson, and Peter Grosz.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Cindy Crawford, American supermodel, joins us along with panelists Paula Poundstone, Amy Dickinson, and Peter Grosz.]]></itunes:subtitle>
+      <itunes:duration>2974</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/455159344/npr_455159344.mp3?orgId=1&amp;d=2974&amp;p=344098539&amp;story=455159344&amp;t=podcast&amp;e=455159344&amp;ft=pod&amp;f=344098539" length="24016730" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jake Tapper</title>
+      <description><![CDATA[Journalist Jake Tapper joins us along with panelists Roxanne Roberts, Tom Bodett, and Luke Burbank.]]></description>
+      <pubDate>Sat, 31 Oct 2015 17:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>db9d1bba-4fcf-4288-b4e0-f1ec46951641</guid>
+      <link>http://waitwait.npr.libsynfusion.com/jake-tapper</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Journalist Jake Tapper joins us along with panelists Roxanne Roberts, Tom Bodett, and Luke Burbank.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Journalist Jake Tapper joins us along with panelists Roxanne Roberts, Tom Bodett, and Luke Burbank.]]></itunes:subtitle>
+      <itunes:duration>2824</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/453509077/npr_453509077.mp3?orgId=1&amp;d=2824&amp;p=344098539&amp;story=453509077&amp;t=podcast&amp;e=453509077&amp;ft=pod&amp;f=344098539" length="22816560" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Neil deGrasse Tyson</title>
+      <description><![CDATA[Neil deGrasse Tyson, astrophysicist, joins us along with panelists Faith Salie, Maz Jobrani, and Adam Felber.]]></description>
+      <pubDate>Sat, 24 Oct 2015 17:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>7c7d8488-a074-44fa-a0e5-bb9b57d9320f</guid>
+      <link>http://waitwait.npr.libsynfusion.com/neil-degrasse-tyson</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Neil deGrasse Tyson, astrophysicist, joins us along with panelists Faith Salie, Maz Jobrani, and Adam Felber.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Neil deGrasse Tyson, astrophysicist, joins us along with panelists Faith Salie, Maz Jobrani, and Adam Felber.]]></itunes:subtitle>
+      <itunes:duration>2830</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/451501400/npr_451501400.mp3?orgId=1&amp;d=2830&amp;p=344098539&amp;story=451501400&amp;t=podcast&amp;e=451501400&amp;ft=pod&amp;f=344098539" length="22859610" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Best of WWDTM</title>
+      <description><![CDATA[We look back over the past year, featuring violinist Itzhak Perlman and comedian Amy Schumer, as well as some memorable moments with our panelists.]]></description>
+      <pubDate>Sat, 17 Oct 2015 17:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>323f58f7-c815-4aba-bb87-0974b67aef79</guid>
+      <link>http://waitwait.npr.libsynfusion.com/best-of-wwdtm</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We look back over the past year, featuring violinist Itzhak Perlman and comedian Amy Schumer, as well as some memorable moments with our panelists.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We look back over the past year, featuring violinist Itzhak Perlman and comedian Amy Schumer, as well as some memorable moments with our panelists.]]></itunes:subtitle>
+      <itunes:duration>2907</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/449512423/npr_449512423.mp3?orgId=1&amp;d=2907&amp;p=344098539&amp;story=449512423&amp;t=podcast&amp;e=449512423&amp;ft=pod&amp;f=344098539" length="23481324" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BONUS: Carol Burnett's Mystery Benefactor</title>
+      <description><![CDATA[On this week's bonus episode, Carol Burnett tells us about her early career, and the mysterious benefactor who made it possible.]]></description>
+      <pubDate>Wed, 14 Oct 2015 13:23:10 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>a7d7cbba-25d5-43b0-97d8-eaef8f0376ea</guid>
+      <link>http://waitwait.npr.libsynfusion.com/bonus-carol-burnetts-mystery-benefactor</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[On this week's bonus episode, Carol Burnett tells us about her early career, and the mysterious benefactor who made it possible.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[On this week's bonus episode, Carol Burnett tells us about her early career, and the mysterious benefactor who made it possible.]]></itunes:subtitle>
+      <itunes:duration>306</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/448684267/npr_448684267.mp3?orgId=1&amp;d=306&amp;p=344098539&amp;story=448684267&amp;t=podcast&amp;e=448684267&amp;ft=pod&amp;f=344098539" length="2669791" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Carol Burnett</title>
+      <description><![CDATA[Comedian Carol Burnett joins us along with panelists Paula Poundstone, Amy Dickinson, and P.J. O'Rourke.]]></description>
+      <pubDate>Sat, 10 Oct 2015 17:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>448e6bad-ece3-4d2a-8583-88ef4cb04c06</guid>
+      <link>http://waitwait.npr.libsynfusion.com/carol-burnett</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Comedian Carol Burnett joins us along with panelists Paula Poundstone, Amy Dickinson, and P.J. O'Rourke.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Comedian Carol Burnett joins us along with panelists Paula Poundstone, Amy Dickinson, and P.J. O'Rourke.]]></itunes:subtitle>
+      <itunes:duration>2850</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/447541871/npr_447541871.mp3?orgId=1&amp;d=2850&amp;p=344098539&amp;story=447541871&amp;t=podcast&amp;e=447541871&amp;ft=pod&amp;f=344098539" length="23025540" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>John U. Bacon</title>
+      <description><![CDATA[John U. Bacon, sportswriter, joins us along with panelists Roxanne Roberts, Alonzo Bodden, and Roy Blount, Jr.]]></description>
+      <pubDate>Sat, 03 Oct 2015 17:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>6dc1f5ee-f2e3-4994-b630-7b51492dca80</guid>
+      <link>http://waitwait.npr.libsynfusion.com/john-u-bacon</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[John U. Bacon, sportswriter, joins us along with panelists Roxanne Roberts, Alonzo Bodden, and Roy Blount, Jr.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[John U. Bacon, sportswriter, joins us along with panelists Roxanne Roberts, Alonzo Bodden, and Roy Blount, Jr.]]></itunes:subtitle>
+      <itunes:duration>2903</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/445592677/npr_445592677.mp3?orgId=1&amp;d=2903&amp;p=344098539&amp;story=445592677&amp;t=podcast&amp;e=445592677&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jewel</title>
+      <description><![CDATA[Singer-songwriter Jewel joins us, along with panelists Luke Burbank, Tom Bodett, and Iliza Schlesinger.]]></description>
+      <pubDate>Sat, 26 Sep 2015 17:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>8fae89b0-74cb-4b27-957e-d6de95f101e3</guid>
+      <link>http://waitwait.npr.libsynfusion.com/jewel</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Singer-songwriter Jewel joins us, along with panelists Luke Burbank, Tom Bodett, and Iliza Schlesinger.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Singer-songwriter Jewel joins us, along with panelists Luke Burbank, Tom Bodett, and Iliza Schlesinger.]]></itunes:subtitle>
+      <itunes:duration>2878</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/443772055/npr_443772055.mp3?orgId=1&amp;d=2878&amp;p=344098539&amp;story=443772055&amp;t=podcast&amp;e=443772055&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tom Ricketts</title>
+      <description><![CDATA[Tom Ricketts, owner of the Chicago Cubs, joins us along with panelists Peter Grosz, Amy Dickinson, and Adam Burke.]]></description>
+      <pubDate>Sat, 19 Sep 2015 17:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>27efd64e-a29a-4142-94d4-0af98d4115dc</guid>
+      <link>http://waitwait.npr.libsynfusion.com/tom-ricketts</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Tom Ricketts, owner of the Chicago Cubs, joins us along with panelists Peter Grosz, Amy Dickinson, and Adam Burke.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Tom Ricketts, owner of the Chicago Cubs, joins us along with panelists Peter Grosz, Amy Dickinson, and Adam Burke.]]></itunes:subtitle>
+      <itunes:duration>2952</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/441784725/npr_441784725.mp3?orgId=1&amp;d=2952&amp;p=344098539&amp;story=441784725&amp;t=podcast&amp;e=441784725&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Frank Oz</title>
+      <description><![CDATA[Frank Oz, a founder of the Muppets, joins us along with panelists Paula Poundstone, Roxanne Roberts, and Faith Salie.]]></description>
+      <pubDate>Sat, 12 Sep 2015 17:00:00 -0400</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>f36e5a7e-b9c5-4491-ade8-d46cfda92566</guid>
+      <link>http://waitwait.npr.libsynfusion.com/frank-oz</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Frank Oz, a founder of the Muppets, joins us along with panelists Paula Poundstone, Roxanne Roberts, and Faith Salie.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Frank Oz, a founder of the Muppets, joins us along with panelists Paula Poundstone, Roxanne Roberts, and Faith Salie.]]></itunes:subtitle>
+      <itunes:duration>2853</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/439832059/npr_439832059.mp3?orgId=1&amp;d=2853&amp;p=344098539&amp;story=439832059&amp;t=podcast&amp;e=439832059&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="http://www.2600.com/rss-style.xsl" type="text/xsl"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>The Voice of Long Island: high-bitrate MP3 feed</title>
+    <atom:link rel="self" href="http://www.2600.com/voli/voli-broadband.xml" type="application/rss+xml" title="The Voice of Long Island" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <link>http://www.2600.com/voli/</link>
+    <description>The Voice of Long Island was a weekly show on WUSB radio in Stony Brook, New York. This feed offers a high-bitrate MP3 version of the show.</description>
+    <language>en</language>
+
+    <copyright>Copyright 1981-2009 2600 Enterprises, Inc. All Rights Reserved.</copyright>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <managingEditor>oth@2600.com (Off The Hook)</managingEditor>
+    <webMaster>webmaster@2600.com (webmaster)</webMaster>
+    <image>
+     <url>http://www.2600.com/images/masthead-for-rss.png</url>
+
+     <link>http://www.2600.com/voli/</link>
+     <width>144</width><height>69</height>
+     <title>2600</title>
+    </image>
+    <itunes:image href="http://www.2600.com/images/masthead-for-itunes.png"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <itunes:owner><itunes:email>webmaster@2600.com</itunes:email></itunes:owner>
+    <itunes:category text="News &amp; Politics"/>
+    <!-- <a href="http://odeo.com/claim/feed/df307cf8d5465f9e">My Odeo Channel</a> (odeo/df307cf8d5465f9e) -->
+    <item>
+      <link>http://www.2600.com/voli/</link>
+      <title>The Voice of Long Island show for April 16</title>
+
+      <pubDate>Sat, 16 Apr 2011 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">voli20110416hq</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Emmanuel Goldstein</itunes:author>
+      <author>oth@2600.com (Emmanuel Goldstein)</author>
+      <enclosure url="http://www.2600.com/voli/audiofiles/1983/voli__19830416-128.mp3" length="112657904" type="audio/mpeg" />
+
+      <media:content url="http://www.2600.com/voli/audiofiles/1983/voli__19830416-128.mp3" fileSize="112657904" type="audio/mpeg" expression="full" lang="en" medium="audio" bitrate="128" samplingrate="44" channels="2">
+        <media:title type="plain">The Voice of Long Island show for April 16</media:title>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.2600.com/voli/</link>
+      <title>The Voice of Long Island show for April 9</title>
+
+      <pubDate>Sat, 09 Apr 2011 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">voli20110409hq</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Emmanuel Goldstein</itunes:author>
+      <author>oth@2600.com (Emmanuel Goldstein)</author>
+      <enclosure url="http://www.2600.com/voli/audiofiles/1983/voli__19830409-128.mp3" length="114209369" type="audio/mpeg" />
+
+      <media:content url="http://www.2600.com/voli/audiofiles/1983/voli__19830409-128.mp3" fileSize="114209369" type="audio/mpeg" expression="full" lang="en" medium="audio" bitrate="128" samplingrate="44" channels="2">
+        <media:title type="plain">The Voice of Long Island show for April 9</media:title>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.2600.com/voli/</link>
+      <title>The Voice of Long Island show for April 2</title>
+
+      <pubDate>Sat, 02 Apr 2011 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">voli20110402hq</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Emmanuel Goldstein</itunes:author>
+      <author>oth@2600.com (Emmanuel Goldstein)</author>
+      <enclosure url="http://www.2600.com/voli/audiofiles/1983/voli__19830402-128.mp3" length="104863383" type="audio/mpeg" />
+
+      <media:content url="http://www.2600.com/voli/audiofiles/1983/voli__19830402-128.mp3" fileSize="104863383" type="audio/mpeg" expression="full" lang="en" medium="audio" bitrate="128" samplingrate="44" channels="2">
+        <media:title type="plain">The Voice of Long Island show for April 2</media:title>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.2600.com/voli/</link>
+      <title>The Voice of Long Island show for March 26</title>
+
+      <pubDate>Sat, 26 Mar 2011 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">voli20110326hq</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Emmanuel Goldstein</itunes:author>
+      <author>oth@2600.com (Emmanuel Goldstein)</author>
+      <enclosure url="http://www.2600.com/voli/audiofiles/1983/voli__19830326-128.mp3" length="80574939" type="audio/mpeg" />
+
+      <media:content url="http://www.2600.com/voli/audiofiles/1983/voli__19830326-128.mp3" fileSize="80574939" type="audio/mpeg" expression="full" lang="en" medium="audio" bitrate="128" samplingrate="44" channels="2">
+        <media:title type="plain">The Voice of Long Island show for March 26</media:title>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.2600.com/voli/</link>
+      <title>The Voice of Long Island show for March 5</title>
+
+      <pubDate>Sat, 05 Mar 2011 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">voli20110305hq</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Emmanuel Goldstein</itunes:author>
+      <author>oth@2600.com (Emmanuel Goldstein)</author>
+      <enclosure url="http://www.2600.com/voli/audiofiles/1983/voli__19830305-128.mp3" length="111722929" type="audio/mpeg" />
+
+      <media:content url="http://www.2600.com/voli/audiofiles/1983/voli__19830305-128.mp3" fileSize="111722929" type="audio/mpeg" expression="full" lang="en" medium="audio" bitrate="128" samplingrate="44" channels="2">
+        <media:title type="plain">The Voice of Long Island show for March 5</media:title>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.2600.com/voli/</link>
+      <title>The Voice of Long Island show for February 26</title>
+
+      <pubDate>Sat, 26 Feb 2011 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">voli20110226hq</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Emmanuel Goldstein</itunes:author>
+      <author>oth@2600.com (Emmanuel Goldstein)</author>
+      <enclosure url="http://www.2600.com/voli/audiofiles/1983/voli__19830226-128.mp3" length="115849858" type="audio/mpeg" />
+
+      <media:content url="http://www.2600.com/voli/audiofiles/1983/voli__19830226-128.mp3" fileSize="115849858" type="audio/mpeg" expression="full" lang="en" medium="audio" bitrate="128" samplingrate="44" channels="2">
+        <media:title type="plain">The Voice of Long Island show for February 26</media:title>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+      </media:content>
+    </item>
+  </channel>
+</rss>

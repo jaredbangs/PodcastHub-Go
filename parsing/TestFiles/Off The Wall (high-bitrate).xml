@@ -1,0 +1,128 @@
+<?xml  version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.2600.com/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> <channel> <title>Off The Wall (high-bitrate)</title>
+ <description>Off The Wall is a weekly show on WUSB radio, Stony Brook - Long Island, produced by 2600 Magazine. This feed offers a high-bitrate (128k) MP3 version of the show.</description>
+ <link>http://www.2600.com/offthewall</link>
+ <atom:link rel="self" type="application/rss+xml" title="Off The Wall" xmlns:atom="http://www.w3.org/2005/Atom" href="http://www.2600.com/otw-broadband.xml" />
+ <language>en</language>
+ <category>mp3</category>
+ <category>128k</category>
+ <category>Off The Wall</category>
+ <category>Radio</category>
+ <image> <url>http://www.2600.com/images/masthead-for-rss.png</url>
+ <title>Off The Wall (high-bitrate)</title>
+ <link>http://www.2600.com/offthewall</link>
+ <description>2600: The Hacker Quarterly</description>
+</image>
+ <copyright>Copyright 1995-2015 2600 Enterprises, Inc. All Rights Reserved.</copyright>
+ <managingEditor>otw@2600.com (Off The Wall)</managingEditor>
+ <webMaster>webmaster@2600.com (webmaster)</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <pubDate>Wed, 04 Nov 2015 03:38:24 +0000</pubDate>
+ <lastBuildDate>Wed, 04 Nov 2015 03:38:24 +0000</lastBuildDate>
+ <itunes:category text="News &amp; Politics" />
+ <itunes:image href="http://www.2600.com/images/masthead-for-itunes-otw.png" />
+ <itunes:author>2600 Enterprises</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>webmaster@2600.com</itunes:email>
+</itunes:owner>
+ <item> <title>Off The Wall - Nov 03, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/1115.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20151103-hq</guid>
+ <pubDate>Tue, 03 Nov 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20151103-128.mp3" length="56684313" type="audio/mpeg" />
+<itunes:duration>59:03</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Oct 27, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/1015.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20151027-hq</guid>
+ <pubDate>Tue, 27 Oct 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20151027-128.mp3" length="57363092" type="audio/mpeg" />
+<itunes:duration>59:45</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Oct 20, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/1015.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20151020-hq</guid>
+ <pubDate>Tue, 20 Oct 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20151020-128.mp3" length="57625153" type="audio/mpeg" />
+<itunes:duration>60:01</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Oct 13, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/1015.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20151013-hq</guid>
+ <pubDate>Tue, 13 Oct 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20151013-128.mp3" length="61295252" type="audio/mpeg" />
+<itunes:duration>63:51</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Oct 06, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/1015.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20151006-hq</guid>
+ <pubDate>Tue, 06 Oct 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20151006-128.mp3" length="62404932" type="audio/mpeg" />
+<itunes:duration>65:00</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Sep 29, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/0915.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20150929-hq</guid>
+ <pubDate>Tue, 29 Sep 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20150929-128.mp3" length="60694649" type="audio/mpeg" />
+<itunes:duration>63:13</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Sep 22, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/0915.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20150922-hq</guid>
+ <pubDate>Tue, 22 Sep 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20150922-128.mp3" length="64667769" type="audio/mpeg" />
+<itunes:duration>67:22</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Sep 15, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/0915.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20150915-hq</guid>
+ <pubDate>Tue, 15 Sep 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20150915-128.mp3" length="58621154" type="audio/mpeg" />
+<itunes:duration>61:04</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Sep 08, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/0915.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20150908-hq</guid>
+ <pubDate>Tue, 08 Sep 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20150908-128.mp3" length="58771617" type="audio/mpeg" />
+<itunes:duration>61:13</itunes:duration>
+ </item>
+ <item> <title>Off The Wall - Sep 01, 2015</title>
+ <link>http://www.2600.com/offthewall/2015/0915.html</link>
+ <author>otw@2600.com (Emmanuel Goldstein)</author>
+ <guid isPermaLink="false">otw20150901-hq</guid>
+ <pubDate>Tue, 01 Sep 2015 18:00:00 EST</pubDate>
+ <source url="http://www.2600.com/otw-broadband.xml">Off The Wall (high-bitrate)</source>
+ <itunes:author>Emmanuel Goldstein</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2015/off_the_wall__20150901-128.mp3" length="56165223" type="audio/mpeg" />
+<itunes:duration>58:30</itunes:duration>
+ </item>
+</channel>
+</rss>

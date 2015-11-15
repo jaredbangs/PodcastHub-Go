@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>The Brent Westwood Show - Prank Calls!</title>
+	<atom:link href="http://brentwestwood.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://brentwestwood.com</link>
+	<description>The Brent Westwood Show - Prank Calls!</description>
+	<lastBuildDate>Mon, 16 Feb 2015 10:44:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<copyright>Copyright © brentwestwood.com 2013 </copyright>
+	<managingEditor>brent@brentwestwood.com (The Brent Westwood Show - Prank Calls!)</managingEditor>
+	<webMaster>brent@brentwestwood.com (The Brent Westwood Show - Prank Calls!)</webMaster>
+	<ttl>1440</ttl>
+	<image>
+		<url>http://brentwestwood.com/wp-content/plugins/podpress/images/powered_by_podpress.jpg</url>
+		<title>The Brent Westwood Show - Prank Calls!</title>
+		<link>http://brentwestwood.com</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+	<itunes:subtitle>Prank Calls Live</itunes:subtitle>
+	<itunes:summary>The Brent Westwood Show - Prank Calls!</itunes:summary>
+	<itunes:keywords></itunes:keywords>
+	<itunes:category text="Society &#38; Culture" />
+	<itunes:author>The Brent Westwood Show - Prank Calls!</itunes:author>
+	<itunes:owner>
+		<itunes:name>The Brent Westwood Show - Prank Calls!</itunes:name>
+		<itunes:email>brent@brentwestwood.com</itunes:email>
+	</itunes:owner>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://brentwestwood.com/wp-content/plugins/podpress/images/powered_by_podpress_large.jpg" />
+	<item>
+		<title>The Petrol Show</title>
+		<link>http://brentwestwood.com/petrol-show/</link>
+		<comments>http://brentwestwood.com/petrol-show/#comments</comments>
+		<pubDate>Wed, 21 May 2014 10:59:29 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=179</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/petrol-show/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.brentwestwood.com/podcasts/petrolshow.mp3" length="79888449" type="audio/mpeg" />
+		<itunes:duration>2:13:08</itunes:duration>
+		<itunes:subtitle>The Petrol Show</itunes:subtitle>
+		<itunes:keywords>Uncategorized</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>Hooker Turds</title>
+		<link>http://brentwestwood.com/show-8-hooker-turds/</link>
+		<comments>http://brentwestwood.com/show-8-hooker-turds/#comments</comments>
+		<pubDate>Sun, 08 Dec 2013 01:19:23 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=171</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/show-8-hooker-turds/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.brentwestwood.com/podcasts/july62013.mp3" length="67495506" type="audio/mpeg" />
+		<itunes:duration>3:07:28</itunes:duration>
+		<itunes:subtitle>Hooker Turds</itunes:subtitle>
+		<itunes:keywords>Uncategorized</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>Poop Calls</title>
+		<link>http://brentwestwood.com/brent-westwood-show-7-poop-calls/</link>
+		<comments>http://brentwestwood.com/brent-westwood-show-7-poop-calls/#comments</comments>
+		<pubDate>Thu, 18 Jul 2013 00:16:27 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[pranks]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=162</guid>
+		<description><![CDATA[2-2-13 show. Jin, Cobra, Lysol and Ken make poop calls.]]></description>
+				<content:encoded><![CDATA[<p>2-2-13 show. Jin, Cobra, Lysol and Ken make poop calls.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/brent-westwood-show-7-poop-calls/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://brentwestwood.com/podcasts/poopcalls.mp3" length="97245106" type="audio/mpeg" />
+		<itunes:duration>2:15:03</itunes:duration>
+		<itunes:subtitle>2-2-13 show. Jin, Cobra, Lysol and Ken make poop calls.</itunes:subtitle>
+		<itunes:summary>2-2-13 show. Jin, Cobra, Lysol and Ken make poop calls.</itunes:summary>
+		<itunes:keywords>pranks</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>Cry-key!</title>
+		<link>http://brentwestwood.com/brent-westwood-show-6-crying-aussies/</link>
+		<comments>http://brentwestwood.com/brent-westwood-show-6-crying-aussies/#comments</comments>
+		<pubDate>Sun, 23 Jun 2013 09:02:39 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[pranks]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=149</guid>
+		<description><![CDATA[Brent and friends make some Australians cry. Again.]]></description>
+				<content:encoded><![CDATA[<p>Brent and friends make some Australians cry. Again.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/brent-westwood-show-6-crying-aussies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.brentwestwood.com/podcasts/aussiecryingshow.mp3" length="142023412" type="audio/mpeg" />
+		<itunes:duration>3:56:42</itunes:duration>
+		<itunes:subtitle>Brent and friends make some Australians cry. Again.</itunes:subtitle>
+		<itunes:summary>Brent and friends make some Australians cry. Again.</itunes:summary>
+		<itunes:keywords>pranks</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>Ice Cream</title>
+		<link>http://brentwestwood.com/brent-westwood-show-28th-of-april-2013/</link>
+		<comments>http://brentwestwood.com/brent-westwood-show-28th-of-april-2013/#comments</comments>
+		<pubDate>Wed, 19 Jun 2013 10:43:29 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[pranks]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=143</guid>
+		<description><![CDATA[Brent wants some icecream!]]></description>
+				<content:encoded><![CDATA[<p>Brent wants some icecream!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/brent-westwood-show-28th-of-april-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://brentwestwood.com/podcasts/042813brent.mp3" length="51104159" type="audio/mpeg" />
+		<itunes:duration>2:50:20</itunes:duration>
+		<itunes:subtitle>Brent wants some icecream!</itunes:subtitle>
+		<itunes:summary>Brent wants some icecream!</itunes:summary>
+		<itunes:keywords>pranks</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title></title>
+		<link>http://brentwestwood.com/140/</link>
+		<comments>http://brentwestwood.com/140/#comments</comments>
+		<pubDate>Sat, 18 May 2013 09:16:20 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=140</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img class="alignleft size-full wp-image-141" alt="E5GMVy1" src="http://brentwestwood.com/wp-content/uploads/2013/05/E5GMVy1.gif" width="370" height="208" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/140/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wanker Malakas</title>
+		<link>http://brentwestwood.com/show-4-wanker-malaka/</link>
+		<comments>http://brentwestwood.com/show-4-wanker-malaka/#comments</comments>
+		<pubDate>Fri, 17 May 2013 12:29:36 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[pranks]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=131</guid>
+		<description><![CDATA[Impromptu show. Brent attempts to order Greek shit from some Malakas. A guy with a craigslist ad gets upset and makes strange noises. Brent angers some bahn chods and disrupts the morning of some UK wankers.]]></description>
+				<content:encoded><![CDATA[<p>Impromptu show. Brent attempts to order Greek shit from some Malakas. A guy with a craigslist ad gets upset and makes strange noises. Brent angers some bahn chods and disrupts the morning of some UK wankers.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/show-4-wanker-malaka/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://brentwestwood.com/podcasts/bws041313.mp3" length="51104143" type="audio/mpeg" />
+		<itunes:duration>1:46:27</itunes:duration>
+		<itunes:subtitle>Impromptu show. Brent attempts to order Greek shit from some Malakas. A guy with a craigslist ad gets upset and makes strange noises. Brent angers some bahn chods and disrupts the morning of some UK wankers.</itunes:subtitle>
+		<itunes:summary>Impromptu show. Brent attempts to order Greek shit from some Malakas. A guy with a craigslist ad gets upset and makes strange noises. Brent angers some bahn chods and disrupts the morning of some UK wankers.</itunes:summary>
+		<itunes:keywords>pranks</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>Harold&#8217;s Baptisms</title>
+		<link>http://brentwestwood.com/harolds-baptisms/</link>
+		<comments>http://brentwestwood.com/harolds-baptisms/#comments</comments>
+		<pubDate>Wed, 13 Mar 2013 05:11:30 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[pranks]]></category>
+		<category><![CDATA[harold]]></category>
+		<category><![CDATA[triquel]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=126</guid>
+		<description><![CDATA[Triquel calls Harold for a Baptism]]></description>
+				<content:encoded><![CDATA[<p>Triquel calls Harold for a Baptism</p>
+]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/harolds-baptisms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.brentwestwood.com/podcasts/triharold.mp3" length="2132050" type="audio/mpeg" />
+		<itunes:duration>0:00:53</itunes:duration>
+		<itunes:subtitle>Triquel calls Harold for a Baptism</itunes:subtitle>
+		<itunes:summary>Triquel calls Harold for a Baptism</itunes:summary>
+		<itunes:keywords>pranks</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>House for Rent</title>
+		<link>http://brentwestwood.com/house-for-rent-2/</link>
+		<comments>http://brentwestwood.com/house-for-rent-2/#comments</comments>
+		<pubDate>Tue, 12 Mar 2013 23:30:29 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[pranks]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=116</guid>
+		<description><![CDATA[Brent wants to Rent. &#160;]]></description>
+				<content:encoded><![CDATA[<p>Brent wants to Rent.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/house-for-rent-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.brentwestwood.com/podcasts/houseforrent.mp3" length="1537056" type="audio/mpeg" />
+		<itunes:duration>0:03:12</itunes:duration>
+		<itunes:subtitle>Brent wants to Rent.
+&#160;</itunes:subtitle>
+		<itunes:summary>Brent wants to Rent.
+&#160;</itunes:summary>
+		<itunes:keywords>pranks</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+		<item>
+		<title>Body Shop Aloha</title>
+		<link>http://brentwestwood.com/show-3-body-shop-aloha/</link>
+		<comments>http://brentwestwood.com/show-3-body-shop-aloha/#comments</comments>
+		<pubDate>Thu, 31 Jan 2013 09:41:12 +0000</pubDate>
+		<dc:creator><![CDATA[Brent Westwood]]></dc:creator>
+				<category><![CDATA[pranks]]></category>
+		<category><![CDATA[body shop]]></category>
+		<category><![CDATA[hawaii]]></category>
+
+		<guid isPermaLink="false">http://brentwestwood.com/?p=109</guid>
+		<description><![CDATA[Brent and the gang call for some car repairs and even make a couple of calls to Hawaii. (This was actually recorded before The Brent Westwood Show existed and most of the calls don&#8217;t go through.)]]></description>
+				<content:encoded><![CDATA[<p>Brent and the gang call for some car repairs and even make a couple of calls to Hawaii. (This was actually recorded before The Brent Westwood Show existed and most of the calls don&#8217;t go through.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://brentwestwood.com/show-3-body-shop-aloha/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+			<enclosure url="http://www.brentwestwood.com/podcasts/brentshow3bodyshopaloha.mp3" length="24799225" type="audio/mpeg" />
+		<itunes:duration>1:43:18</itunes:duration>
+		<itunes:subtitle>Brent and the gang call for some car repairs and even make a couple of calls to Hawaii. (This was actually recorded before The Brent Westwood Show existed and most of the calls don&#8217;t go through.)</itunes:subtitle>
+		<itunes:summary>Brent and the gang call for some car repairs and even make a couple of calls to Hawaii. (This was actually recorded before The Brent Westwood Show existed and most of the calls don&#8217;t go through.)</itunes:summary>
+		<itunes:keywords>pranks</itunes:keywords>
+		<itunes:author>brent@brentwestwood.com</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	</channel>
+</rss>

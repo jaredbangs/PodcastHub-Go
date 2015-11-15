@@ -76,20 +76,20 @@ func TestItemsAlwaysHaveTitles(t *testing.T) {
 	}
 }
 
-func getInvalidTestContent() *[]byte {
+func getInvalidTestContent() []byte {
 
 	var content []byte
 
 	content, _ = ioutil.ReadFile("TestFiles" + string(os.PathSeparator) + "InvalidContent.xml")
 
-	return &content
+	return content
 }
 
-func getValidTestContent() *[]byte {
+func getValidTestContent() []byte {
 
 	var content []byte
 
 	content, _ = ioutil.ReadFile("TestFiles" + string(os.PathSeparator) + "PhoneLosersOfAmerica.xml")
 
-	return &content
+	return content
 }

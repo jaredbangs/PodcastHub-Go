@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>pixel8 :: what makes great user experiences?</title>
+    <link>http://getpixel8ed.com/</link>
+    <description><![CDATA[great user experiences: the people. the tools. the technology.]]></description>
+    <generator>pixel8</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-us</language>
+    <image>
+      <url>http://download.infragistics.com/users/pixel8/pixel8-feedlogo.png</url>
+      <title>pixel8 :: what makes great user experiences?</title>
+      <link>http://getpixel8ed.com/</link>
+      <width>100</width>
+      <height>100</height>
+      <description>pixel8 :: what makes great user experiences?</description>
+    </image>
+    <category>Technology</category>
+    <category>Programming</category>
+    <category>Talk</category>
+    <category>ASP.NET</category>
+    <category>VB.NET</category>
+    <category>C#</category>
+    <category>ASP.NET</category>
+    <category>Podcast</category>
+    <copyright>Copyright 2008 - 2010 Infragistics, Inc. http://infragistics.com/</copyright>
+    <lastBuildDate>13 Jun 2010 12:32:01 GMT</lastBuildDate>
+    <webMaster>show@getpixel8ed.com (pixel8 show email)</webMaster>
+    <managingEditor>show@getpixel8ed.com (pixel8 show email)</managingEditor>
+
+      <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Pixel8" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="pixel8" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Copyright 2008 - 2010 Infragistics, Inc. http://infragistics.com/</media:copyright><itunes:owner><itunes:email>show@getpixel8ed.com</itunes:email></itunes:owner><itunes:explicit>no</itunes:explicit><itunes:subtitle>great user experiences: the people. the tools. the technology.</itunes:subtitle><item>
+          <title>HTML5 in Internet Explorer: What’s Taking So Long?</title>
+          <link>http://community.infragistics.com/pixel8/media/p/240189.aspx</link>
+
+          <description>
+              <![CDATA[<p>Senior Project Manager for Internet Explorer, Pete LePage, joins Pixel8 to discuss the upcoming HTML5 and CSS3 support for IE9 along with a review additional developer enhancements coming in IE9.</p>]]>
+          </description>
+          <pubDate>17 Jun 2010 12:05:01 GMT</pubDate>
+          <enclosure url="http://download.infragistics.com/pixel8/media/Pixel8-2010-07-13-ie9preview.mp3" length="19845120" type="audio/mpeg" />
+          <category>Technology</category>
+          <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+
+          <guid isPermaLink="true">http://community.infragistics.com/pixel8/media/p/240189.aspx</guid>
+          <itunes:duration>20:38</itunes:duration>
+      <media:content url="http://download.infragistics.com/pixel8/media/Pixel8-2010-07-13-ie9preview.mp3" fileSize="19845120" type="audio/mpeg" /><itunes:subtitle> Senior Project Manager for Internet Explorer, Pete LePage, joins Pixel8 to discuss the upcoming HTML5 and CSS3 support for IE9 along with a review additional developer enhancements coming in IE9. </itunes:subtitle><itunes:summary> Senior Project Manager for Internet Explorer, Pete LePage, joins Pixel8 to discuss the upcoming HTML5 and CSS3 support for IE9 along with a review additional developer enhancements coming in IE9. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>The Invisible UI : Natural User Interfaces with Josh Blake</title>
+      <link>http://community.infragistics.com/pixel8/media/p/225414.aspx</link>
+
+      <description>
+        <![CDATA[<p>Josh Blake of Infostrat joins Pixel8 to discuss Natual User Interface (NUI) development in .NET.</p>]]>
+      </description>
+      <pubDate>31 Mar 2010 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2010-03-31-nui.mp3" length="25944064" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+
+      <guid isPermaLink="true">http://community.infragistics.com/pixel8/media/p/225414.aspx</guid>
+      <itunes:duration>26:59</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2010-03-31-nui.mp3" fileSize="25944064" type="audio/mpeg" /><itunes:subtitle> Josh Blake of Infostrat joins Pixel8 to discuss Natual User Interface (NUI) development in .NET. </itunes:subtitle><itunes:summary> Josh Blake of Infostrat joins Pixel8 to discuss Natual User Interface (NUI) development in .NET. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Silverlight 4 with Jeff Prosise</title>
+      <link>http://community.infragistics.com/pixel8/media/p/217812.aspx</link>
+
+      <description>
+        <![CDATA[<p>Jeff Prosise and Craig Sheomaker discuss the new features found in Silverlight 4 beta.</p>]]>
+      </description>
+      <pubDate>01 Feb 2010 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2010-02-01-silverlight4.mp3" length="39698432" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+
+      <guid isPermaLink="true">http://community.infragistics.com/pixel8/media/p/217812.aspx</guid>
+      <itunes:duration>41:19</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2010-02-01-silverlight4.mp3" fileSize="39698432" type="audio/mpeg" /><itunes:subtitle> Jeff Prosise and Craig Sheomaker discuss the new features found in Silverlight 4 beta. </itunes:subtitle><itunes:summary> Jeff Prosise and Craig Sheomaker discuss the new features found in Silverlight 4 beta. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>ASP.NET Ajax Library Beta with Stephen Walther</title>
+      <link>http://community.infragistics.com/pixel8/media/p/211903.aspx</link>
+
+      <description>
+        <![CDATA[<p>Stephen Walther and Craig Shoemaker discuss the latest announcements surrounding the ASP.NET Ajax Library during PDC09.</p>]]>
+      </description>
+      <pubDate>04 Jan 2010 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2010-01-04-ajaxbeta.mp3" length="17780736" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+
+      <guid isPermaLink="true">http://community.infragistics.com/pixel8/media/p/211903.aspx</guid>
+      <itunes:duration>18:29</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2010-01-04-ajaxbeta.mp3" fileSize="17780736" type="audio/mpeg" /><itunes:subtitle> Stephen Walther and Craig Shoemaker discuss the latest announcements surrounding the ASP.NET Ajax Library during PDC09. </itunes:subtitle><itunes:summary> Stephen Walther and Craig Shoemaker discuss the latest announcements surrounding the ASP.NET Ajax Library during PDC09. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Silverlight4 with Tim Heuer and Jesse Liberty</title>
+      <link>http://blogs.infragistics.com/pixel8/media/p/209447.aspx</link>
+
+      <description>
+        <![CDATA[<p>Tim Heuer and Jesse Liberty join Craig Shoemaker to discuss the new features of Silverlight 4, advice for real world development and the new Silverlight HyperVideo Player</p>]]>
+      </description>
+      <pubDate>14 Dec 2009 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2009-12-14-silverlight4.mp3" length="44064768" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+
+      <guid isPermaLink="true">http://blogs.infragistics.com/pixel8/media/p/209447.aspx</guid>
+      <itunes:duration>45:52</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2009-12-14-silverlight4.mp3" fileSize="44064768" type="audio/mpeg" /><itunes:subtitle> Tim Heuer and Jesse Liberty join Craig Shoemaker to discuss the new features of Silverlight 4, advice for real world development and the new Silverlight HyperVideo Player </itunes:subtitle><itunes:summary> Tim Heuer and Jesse Liberty join Craig Shoemaker to discuss the new features of Silverlight 4, advice for real world development and the new Silverlight HyperVideo Player </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>ASP.NET Simplicity and Performance with Scott Hunter</title>
+      <link>http://community.infragistics.com/pixel8/media/p/207428.aspx</link>
+
+      <description>
+        <![CDATA[<p>Scott Hunter joins us to discuss his team’s focus on simplicity and performance in ASP.NET. (Some of what they are thinking about might surprise you!)</p>]]>
+      </description>
+      <pubDate>05 Dec 2009 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2009-12-03-simplicity.mp3" length="39800832" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+
+      <guid isPermaLink="true">http://community.infragistics.com/pixel8/media/p/207428.aspx</guid>
+      <itunes:duration>37:41</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2009-12-03-simplicity.mp3" fileSize="39800832" type="audio/mpeg" /><itunes:subtitle> Scott Hunter joins us to discuss his team’s focus on simplicity and performance in ASP.NET. (Some of what they are thinking about might surprise you!) </itunes:subtitle><itunes:summary> Scott Hunter joins us to discuss his team’s focus on simplicity and performance in ASP.NET. (Some of what they are thinking about might surprise you!) </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Magic, Mind-Controlled Interfaces and What Makes an Experience Architect</title>
+      <link>http://community.infragistics.com/pixel8/media/p/180651.aspx</link>
+
+      <description>
+        <![CDATA[<p>Rick Barraza returns to Pixel8 to discuss magic, storytelling, mind control interfaces and even a little development! According to Rick, true experience design mixes elements you may not automatically attribute to software design. Using these unexpected elements along with the tried-and-true principals of user interface design, usability and information design help you craft polished experiences.</p>]]>
+      </description>
+      <pubDate>14 Oct 2009 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2009-10-08-experience-arch.mp3" length="39800832" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+
+      <guid isPermaLink="true">http://community.infragistics.com/pixel8/media/p/180651.aspx</guid>
+      <itunes:duration>41:25</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2009-10-08-experience-arch.mp3" fileSize="39800832" type="audio/mpeg" /><itunes:subtitle> Rick Barraza returns to Pixel8 to discuss magic, storytelling, mind control interfaces and even a little development! According to Rick, true experience design mixes elements you may not automatically attribute to software design. Using these unexpected </itunes:subtitle><itunes:summary> Rick Barraza returns to Pixel8 to discuss magic, storytelling, mind control interfaces and even a little development! According to Rick, true experience design mixes elements you may not automatically attribute to software design. Using these unexpected elements along with the tried-and-true principals of user interface design, usability and information design help you craft polished experiences. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>7 Dos and Don'ts in Getting Started in User Centered Design</title>
+      <link>http://community.infragistics.com/pixel8/media/p/103725.aspx</link>
+      <description>
+
+        <![CDATA[<p>This week’s episode continues the series of user experience fundamentals with Dr. Tobias Komischke Director of User Experience at Infragistics. Tobias shares seven user-centered design concepts and the associated dos and don’ts with each point.</p>]]>
+      </description>
+      <pubDate>23 Jun 2009 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2009-06-23-7dosdonts.mp3" length="31666176" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://community.infragistics.com/pixel8/media/p/103725.aspx</guid>
+
+      <itunes:duration>32:56</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2009-06-23-7dosdonts.mp3" fileSize="31666176" type="audio/mpeg" /><itunes:subtitle> This week’s episode continues the series of user experience fundamentals with Dr. Tobias Komischke Director of User Experience at Infragistics. Tobias shares seven user-centered design concepts and the associated dos and don’ts with each point. </itunes:subtitle><itunes:summary> This week’s episode continues the series of user experience fundamentals with Dr. Tobias Komischke Director of User Experience at Infragistics. Tobias shares seven user-centered design concepts and the associated dos and don’ts with each point. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>History of User Experience</title>
+      <link>http://community.infragistics.com/pixel8/media/p/95683.aspx</link>
+      <description>
+        <![CDATA[<p>The dawn of user experience is a contestable topic. Some UX thought leaders place the discipline’s origin surrounding the emergence of user centered design in the 1980’s, while others see the the beginning coming even earlier. This week’s guest is Dr. Tobias Komischke Director of User Experience at Infragistics. Dr. Komischke details why he sees UX originating in the context of World War II where interacting with technical systems became a matter of life and death.</p>]]>
+
+      </description>
+      <pubDate>19 May 2009 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2009-05-18-uxhistory.mp3" length="27320320" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://community.infragistics.com/pixel8/media/p/95683.aspx</guid>
+      <itunes:duration>28:24</itunes:duration>
+
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2009-05-18-uxhistory.mp3" fileSize="27320320" type="audio/mpeg" /><itunes:subtitle> The dawn of user experience is a contestable topic. Some UX thought leaders place the discipline’s origin surrounding the emergence of user centered design in the 1980’s, while others see the the beginning coming even earlier. This week’s guest is Dr. To</itunes:subtitle><itunes:summary> The dawn of user experience is a contestable topic. Some UX thought leaders place the discipline’s origin surrounding the emergence of user centered design in the 1980’s, while others see the the beginning coming even earlier. This week’s guest is Dr. Tobias Komischke Director of User Experience at Infragistics. Dr. Komischke details why he sees UX originating in the context of World War II where interacting with technical systems became a matter of life and death. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>The Value of Web Forms and Design Constraints</title>
+      <link>http://getpixel8ed.com/shows/lukew</link>
+      <description>
+        <![CDATA[<p>Senior Principal of Product Ideation and Design at Yahoo! Inc. and founder of LukeW Interface Designs Luke Wroblewski joins us to discuss how adding elements of constraint helps shape the design process. Luke also spends some time discussing the often-understated value of the HTML web form.</p>]]>
+      </description>
+
+      <pubDate>13 Apr 2009 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2009-04-09-lukew.mp3" length="29270016" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/lukew</guid>
+      <itunes:duration>30:26</itunes:duration>
+
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2009-04-09-lukew.mp3" fileSize="29270016" type="audio/mpeg" /><itunes:subtitle> Senior Principal of Product Ideation and Design at Yahoo! Inc. and founder of LukeW Interface Designs Luke Wroblewski joins us to discuss how adding elements of constraint helps shape the design process. Luke also spends some time discussing the often-un</itunes:subtitle><itunes:summary> Senior Principal of Product Ideation and Design at Yahoo! Inc. and founder of LukeW Interface Designs Luke Wroblewski joins us to discuss how adding elements of constraint helps shape the design process. Luke also spends some time discussing the often-understated value of the HTML web form. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Implementing MVVM and Exploring UX Design Patterns</title>
+      <link>http://getpixel8ed.com/shows/patterns</link>
+      <description>
+        <![CDATA[<p>Welcome to a special Pixel8 patterns show! This week we are joined by User Experience Designer Ambrose Little to discuss Quince the UX Patterns Explorer. Also get a taste of two screencast interviews on implementing Model-View-ViewModel in Silverlight and WPF.</p>]]>
+      </description>
+
+      <pubDate>25 Feb 2009 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2009-02-25-patterns.mp3" length="20623360" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/patterns</guid>
+      <itunes:duration>21:27</itunes:duration>
+
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2009-02-25-patterns.mp3" fileSize="20623360" type="audio/mpeg" /><itunes:subtitle> Welcome to a special Pixel8 patterns show! This week we are joined by User Experience Designer Ambrose Little to discuss Quince the UX Patterns Explorer. Also get a taste of two screencast interviews on implementing Model-View-ViewModel in Silverlight an</itunes:subtitle><itunes:summary> Welcome to a special Pixel8 patterns show! This week we are joined by User Experience Designer Ambrose Little to discuss Quince the UX Patterns Explorer. Also get a taste of two screencast interviews on implementing Model-View-ViewModel in Silverlight and WPF. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>ASP.NET 4.0 and Visual Studio 2010 Enhancements</title>
+      <link>http://getpixel8ed.com/shows/aspnet-4-preview</link>
+      <description>
+        <![CDATA[<p>Scott Hunter brings a summary of the new features coming in ASP.NET 4.0 and Visual Studio 2010. Learn why you'll never have to type runat=&quot;server&quot; again!</p>]]>
+      </description>
+
+      <pubDate>19 Dec 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-12-18-aspnet-4-preview.mp3" length="37507072" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/aspnet-4-preview</guid>
+      <itunes:duration>39:02</itunes:duration>
+
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-12-18-aspnet-4-preview.mp3" fileSize="37507072" type="audio/mpeg" /><itunes:subtitle> Scott Hunter brings a summary of the new features coming in ASP.NET 4.0 and Visual Studio 2010. Learn why you'll never have to type runat=&amp;quot;server&amp;quot; again! </itunes:subtitle><itunes:summary> Scott Hunter brings a summary of the new features coming in ASP.NET 4.0 and Visual Studio 2010. Learn why you'll never have to type runat=&amp;quot;server&amp;quot; again! </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Silverlight: Live Mesh Integration, Surviving the Olympics and Future Expectations – Interview with Scott Guthrie</title>
+      <link>http://getpixel8ed.com/shows/scottguthrie08</link>
+      <description>
+        <![CDATA[<p>Scott Guthrie and Craig Shoemaker take some time out of PDC 2008 to discuss Silverlight and highlights from the keynote address. Scott shares about current-day Silverlight integrations with Live Mesh, living through the Olympics and what might be expected from Silverlight in the future.</p>]]>
+      </description>
+      <pubDate>13 Nov 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-11-10-scottguthrie08.mp3" length="29196288" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/scottguthrie08</guid>
+      <itunes:duration>30:23</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-11-10-scottguthrie08.mp3" fileSize="29196288" type="audio/mpeg" /><itunes:subtitle> Scott Guthrie and Craig Shoemaker take some time out of PDC 2008 to discuss Silverlight and highlights from the keynote address. Scott shares about current-day Silverlight integrations with Live Mesh, living through the Olympics and what might be expecte</itunes:subtitle><itunes:summary> Scott Guthrie and Craig Shoemaker take some time out of PDC 2008 to discuss Silverlight and highlights from the keynote address. Scott shares about current-day Silverlight integrations with Live Mesh, living through the Olympics and what might be expected from Silverlight in the future. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Developer’s Guide to User Experience Design</title>
+      <link>http://getpixel8ed.com/shows/uxdesign</link>
+      <description>
+        <![CDATA[<p>Michael Mahemoff has a background in computer science and psychology earning a PhD in building pattern languages. Michael is best known for his book, Ajax Design Patterns, where he catalogs 34 patterns commonly found in Ajax applications. Michael joins Pixel8 giving developers tools for user experience design and shares his experiences around building a pattern language.</p>]]>
+      </description>
+      <pubDate>02 Oct 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-10-02-uxdesign.mp3" length="24739840" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/uxdesign</guid>
+      <itunes:duration>25:44</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-10-02-uxdesign.mp3" fileSize="24739840" type="audio/mpeg" /><itunes:subtitle> Michael Mahemoff has a background in computer science and psychology earning a PhD in building pattern languages. Michael is best known for his book, Ajax Design Patterns, where he catalogs 34 patterns commonly found in Ajax applications. Michael joins P</itunes:subtitle><itunes:summary> Michael Mahemoff has a background in computer science and psychology earning a PhD in building pattern languages. Michael is best known for his book, Ajax Design Patterns, where he catalogs 34 patterns commonly found in Ajax applications. Michael joins Pixel8 giving developers tools for user experience design and shares his experiences around building a pattern language. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Silverlight 2.0 : Beyond the Basics</title>
+      <link>http://getpixel8ed.com/shows/liberty</link>
+      <description>
+        <![CDATA[<p>Jesse Liberty, the &quot;Silverlight Geek&quot;, wants to help you dive deeper into Silverlight 2.0. Tackling practices like working with multi-page applications and clever ways to handle Silverlight payload, Jesse helps take you beyond the intro.</p>]]>
+      </description>
+      <pubDate>28 Aug 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-08-28-liberty.mp3" length="37638144" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/liberty</guid>
+      <itunes:duration>39:10</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-08-28-liberty.mp3" fileSize="37638144" type="audio/mpeg" /><itunes:subtitle> Jesse Liberty, the &amp;quot;Silverlight Geek&amp;quot;, wants to help you dive deeper into Silverlight 2.0. Tackling practices like working with multi-page applications and clever ways to handle Silverlight payload, Jesse helps take you beyond the intro. </itunes:subtitle><itunes:summary> Jesse Liberty, the &amp;quot;Silverlight Geek&amp;quot;, wants to help you dive deeper into Silverlight 2.0. Tackling practices like working with multi-page applications and clever ways to handle Silverlight payload, Jesse helps take you beyond the intro. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>4 Elements of Professional WPF Applications</title>
+      <link>http://getpixel8ed.com/shows/prism</link>
+      <description>
+        <![CDATA[<p>Brian Noyes explains how the Composite Application Guidance for WPF (or Prism) enables teams to build, test and maintain professional WPF applications. Learn how using modularity, regions, composite commands and loosely-coupled events can help your team take control of WPF.</p>]]>
+      </description>
+      <pubDate>22 Aug 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-08-22-prism.mp3" length="40640512" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/prism</guid>
+      <itunes:duration>42:18</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-08-22-prism.mp3" fileSize="40640512" type="audio/mpeg" /><itunes:subtitle> Brian Noyes explains how the Composite Application Guidance for WPF (or Prism) enables teams to build, test and maintain professional WPF applications. Learn how using modularity, regions, composite commands and loosely-coupled events can help your team </itunes:subtitle><itunes:summary> Brian Noyes explains how the Composite Application Guidance for WPF (or Prism) enables teams to build, test and maintain professional WPF applications. Learn how using modularity, regions, composite commands and loosely-coupled events can help your team take control of WPF. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Hide Your Corporate Underpants - Using Personas in UX Design</title>
+      <link>http://getpixel8ed.com/shows/adlin</link>
+      <description>
+        <![CDATA[<p>Customer experience expert and persona specialist Tamara Adlin wants to introduce you to &quot;Mary Jo&quot; and &quot;Phillip&quot;. Using personas or &quot;fake people&quot; as development targets will focus your teams and allow you to only reveal what is most important to your customers.</p>]]>
+      </description>
+      <pubDate>14 Aug 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-08-14-adlin.mp3" length="46116864" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/adlin</guid>
+      <itunes:duration>47:59</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-08-14-adlin.mp3" fileSize="46116864" type="audio/mpeg" /><itunes:subtitle> Customer experience expert and persona specialist Tamara Adlin wants to introduce you to &amp;quot;Mary Jo&amp;quot; and &amp;quot;Phillip&amp;quot;. Using personas or &amp;quot;fake people&amp;quot; as development targets will focus your teams and allow you to only reveal what</itunes:subtitle><itunes:summary> Customer experience expert and persona specialist Tamara Adlin wants to introduce you to &amp;quot;Mary Jo&amp;quot; and &amp;quot;Phillip&amp;quot;. Using personas or &amp;quot;fake people&amp;quot; as development targets will focus your teams and allow you to only reveal what is most important to your customers. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Learning to Build on Rich UI Platforms</title>
+      <link>http://getpixel8ed.com/shows/learn</link>
+      <description>
+        <![CDATA[<p>Famed developer, speaker and author Billy Hollis joins the show today to discuss why developers need to avoid stagnation and keep pressing forward. Billy also shares some pragmatic wisdom of how to approach building on a rich UI platform.</p>]]>
+      </description>
+      <pubDate>06 Aug 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-08-06-learn.mp3" length="26378240" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/learn</guid>
+      <itunes:duration>27:26</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-08-06-learn.mp3" fileSize="26378240" type="audio/mpeg" /><itunes:subtitle> Famed developer, speaker and author Billy Hollis joins the show today to discuss why developers need to avoid stagnation and keep pressing forward. Billy also shares some pragmatic wisdom of how to approach building on a rich UI platform. </itunes:subtitle><itunes:summary> Famed developer, speaker and author Billy Hollis joins the show today to discuss why developers need to avoid stagnation and keep pressing forward. Billy also shares some pragmatic wisdom of how to approach building on a rich UI platform. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>5 Ways to Know If Your Software Sucks</title>
+      <link>http://getpixel8ed.com/shows/sucks</link>
+      <description>
+        <![CDATA[<p>Learn why software sucks from .NET professor David Platt. David’s colorful and thought-provoking insights will have you looking at your applications with a new perspective.</p>]]>
+      </description>
+      <pubDate>30 Jul 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-07-30-sucks.mp3" length="20463616" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/sucks</guid>
+      <itunes:duration>21:17</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-07-30-sucks.mp3" fileSize="20463616" type="audio/mpeg" /><itunes:subtitle> Learn why software sucks from .NET professor David Platt. David’s colorful and thought-provoking insights will have you looking at your applications with a new perspective. </itunes:subtitle><itunes:summary> Learn why software sucks from .NET professor David Platt. David’s colorful and thought-provoking insights will have you looking at your applications with a new perspective. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>UI Decisions: Why &amp; How</title>
+      <link>http://getpixel8ed.com/shows/teched08</link>
+      <description>
+        <![CDATA[<p>Hear from Ted Neward, Kate Gregory and David Kelly about responding to customer feedback, how to choose from the available UI technologies and how to enable the Vista experience in your applications.</p>]]>
+      </description>
+      <pubDate>25 Jul 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-07-25-teched08.mp3" length="23281664" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/teched08</guid>
+      <itunes:duration>24:13</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-07-25-teched08.mp3" fileSize="23281664" type="audio/mpeg" /><itunes:subtitle> Hear from Ted Neward, Kate Gregory and David Kelly about responding to customer feedback, how to choose from the available UI technologies and how to enable the Vista experience in your applications. </itunes:subtitle><itunes:summary> Hear from Ted Neward, Kate Gregory and David Kelly about responding to customer feedback, how to choose from the available UI technologies and how to enable the Vista experience in your applications. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Top Web Design Mistakes</title>
+      <link>http://getpixel8ed.com/shows/mistakes</link>
+      <description>
+        <![CDATA[<p>Pete LePage is Product Manager of Internet Explorer Developer Division and he doesn’t want your web site to stink. Sharing from his talk given at TechEd 2008, Pete highlights 10 common web design mistakes and tells you how you can bypass the same blunders. Pete also tells us how future features of Internet Explorer will help your visitors leave your site with a smile.</p>]]>
+      </description>
+      <pubDate>18 Jul 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-07-18-mistakes.mp3" length="27557888" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/mistakes</guid>
+      <itunes:duration>28:40</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-07-18-mistakes.mp3" fileSize="27557888" type="audio/mpeg" /><itunes:subtitle> Pete LePage is Product Manager of Internet Explorer Developer Division and he doesn’t want your web site to stink. Sharing from his talk given at TechEd 2008, Pete highlights 10 common web design mistakes and tells you how you can bypass the same blunder</itunes:subtitle><itunes:summary> Pete LePage is Product Manager of Internet Explorer Developer Division and he doesn’t want your web site to stink. Sharing from his talk given at TechEd 2008, Pete highlights 10 common web design mistakes and tells you how you can bypass the same blunders. Pete also tells us how future features of Internet Explorer will help your visitors leave your site with a smile. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Full Disclosure Debugging</title>
+      <link>http://getpixel8ed.com/shows/debug</link>
+      <description>
+        <![CDATA[<p>Debugging guru John Robbins brings to life the saying, “you cannot debug what you cannot see.” John is generous with guidance and resources that illustrate why knowing a little about the .NET plumbing can go a long way. Highlighting the show is John’s account of how he helped find a very obscure bug in a complex multi-machine system. Don’t miss this one!</p>]]>
+      </description>
+      <pubDate>08 Jul 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-07-08-debug.mp3" length="39002112" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/debug</guid>
+      <itunes:duration>40:33</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-07-08-debug.mp3" fileSize="39002112" type="audio/mpeg" /><itunes:subtitle> Debugging guru John Robbins brings to life the saying, “you cannot debug what you cannot see.” John is generous with guidance and resources that illustrate why knowing a little about the .NET plumbing can go a long way. Highlighting the show is John’s ac</itunes:subtitle><itunes:summary> Debugging guru John Robbins brings to life the saying, “you cannot debug what you cannot see.” John is generous with guidance and resources that illustrate why knowing a little about the .NET plumbing can go a long way. Highlighting the show is John’s account of how he helped find a very obscure bug in a complex multi-machine system. Don’t miss this one! </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Dynamic Data Deep Dive</title>
+      <link>http://getpixel8ed.com/shows/dyndata</link>
+      <description>
+        <![CDATA[<p>When first introduced to Dynamic Data, developers often write the technology off as &quot;just another Microsoft grid.&quot; Microsoft ASP.NET Program Manager Scott Hunter joins us today to details about what not only makes Dynamic Data valuable but why it’s ripe for use in your applications.</p>]]>
+      </description>
+      <pubDate>30 Jun 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-06-30-dyndata.mp3" length="52252672" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/dyndata</guid>
+      <itunes:duration>54:24</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-06-30-dyndata.mp3" fileSize="52252672" type="audio/mpeg" /><itunes:subtitle> When first introduced to Dynamic Data, developers often write the technology off as &amp;quot;just another Microsoft grid.&amp;quot; Microsoft ASP.NET Program Manager Scott Hunter joins us today to details about what not only makes Dynamic Data valuable but why </itunes:subtitle><itunes:summary> When first introduced to Dynamic Data, developers often write the technology off as &amp;quot;just another Microsoft grid.&amp;quot; Microsoft ASP.NET Program Manager Scott Hunter joins us today to details about what not only makes Dynamic Data valuable but why it’s ripe for use in your applications. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>End-to-End Silverlight Development</title>
+      <link>http://getpixel8ed.com/shows/diggmashup</link>
+      <description>
+        <![CDATA[<p>Jose Farjardo’s &quot;Digg Mashup&quot; demonstrates how end-to-end Silverlight development is possible. From the branded Silverlight install screen to some fresh design details this application is easy for n00bs and power users to use alike.</p>]]>
+      </description>
+      <pubDate>25 Jun 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-06-25-diggmashup.mp3" length="33767424" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/diggmashup</guid>
+      <itunes:duration>27:48</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-06-25-diggmashup.mp3" fileSize="33767424" type="audio/mpeg" /><itunes:subtitle> Jose Farjardo’s &amp;quot;Digg Mashup&amp;quot; demonstrates how end-to-end Silverlight development is possible. From the branded Silverlight install screen to some fresh design details this application is easy for n00bs and power users to use alike. </itunes:subtitle><itunes:summary> Jose Farjardo’s &amp;quot;Digg Mashup&amp;quot; demonstrates how end-to-end Silverlight development is possible. From the branded Silverlight install screen to some fresh design details this application is easy for n00bs and power users to use alike. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>The Performance of Everyday Things</title>
+      <link>http://getpixel8ed.com/shows/everything</link>
+      <description>
+        <![CDATA[<p>Each day we all use everyday things to accomplish everyday tasks. 
+    For programmers our everyday tools are arrays, loops and OOP constructs. 
+    We all use them, but are we all aware of the performance implications? 
+    In his talk, The Performance of Everyday Things, Jeffery Richter asks 
+    the question, &quot;Do you know what goes on under the hood in .NET?&quot;</p>]]>
+      </description>
+      <pubDate>17 Jun 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-06-16-everything.mp3" length="33767424" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/everything</guid>
+      <itunes:duration>35:08</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-06-16-everything.mp3" fileSize="33767424" type="audio/mpeg" /><itunes:subtitle> Each day we all use everyday things to accomplish everyday tasks. For programmers our everyday tools are arrays, loops and OOP constructs. We all use them, but are we all aware of the performance implications? In his talk, The Performance of Everyday Thi</itunes:subtitle><itunes:summary> Each day we all use everyday things to accomplish everyday tasks. For programmers our everyday tools are arrays, loops and OOP constructs. We all use them, but are we all aware of the performance implications? In his talk, The Performance of Everyday Things, Jeffery Richter asks the question, &amp;quot;Do you know what goes on under the hood in .NET?&amp;quot; </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Avoiding Ready-Fire-Aim UX Design</title>
+      <link>http://getpixel8ed.com/shows/rfa</link>
+      <description>
+        <![CDATA[<p>Adaptive Path’s Senior Interaction Designer Kim Lenox and Design Technologist Dan Harrelson share their experiences in how to think through the UX design process. Adaptive Path uses many tools to help guide their thinking like research-based design and injecting users directly in the design process.</p>]]>
+      </description>
+      <pubDate>29 May 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-05-29-rfa.mp3" length="22966272" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/rfa</guid>
+      <itunes:duration>23:53</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-05-29-rfa.mp3" fileSize="22966272" type="audio/mpeg" /><itunes:subtitle> Adaptive Path’s Senior Interaction Designer Kim Lenox and Design Technologist Dan Harrelson share their experiences in how to think through the UX design process. Adaptive Path uses many tools to help guide their thinking like research-based design and i</itunes:subtitle><itunes:summary> Adaptive Path’s Senior Interaction Designer Kim Lenox and Design Technologist Dan Harrelson share their experiences in how to think through the UX design process. Adaptive Path uses many tools to help guide their thinking like research-based design and injecting users directly in the design process. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>John Gossman Architects WPF</title>
+      <link>http://getpixel8ed.com/shows/gossman</link>
+      <description>
+        <![CDATA[<p>John Gossman, Microsoft Architect for WPF and Silverlight, discusses his experiences watching WPF mature into the powerful framework it is today. John tells us about the trials and tribulations of building Expression Blend on a primitive WPF platform. He also discusses the value of the Model View View Model design pattern and gives hints on the best way to learn WPF.</p>]]>
+      </description>
+      <pubDate>22 May 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-05-21-gossman.mp3" length="46493696" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/gossman</guid>
+      <itunes:duration>48:20</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-05-21-gossman.mp3" fileSize="46493696" type="audio/mpeg" /><itunes:subtitle> John Gossman, Microsoft Architect for WPF and Silverlight, discusses his experiences watching WPF mature into the powerful framework it is today. John tells us about the trials and tribulations of building Expression Blend on a primitive WPF platform. He</itunes:subtitle><itunes:summary> John Gossman, Microsoft Architect for WPF and Silverlight, discusses his experiences watching WPF mature into the powerful framework it is today. John tells us about the trials and tribulations of building Expression Blend on a primitive WPF platform. He also discusses the value of the Model View View Model design pattern and gives hints on the best way to learn WPF. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Dr. WPF's Prescription for Windows Presentation Foundation</title>
+      <link>http://getpixel8ed.com/shows/drwpf</link>
+      <description>
+        <![CDATA[<p>This week we talk with WPF guru, Dr. WPF.  The good Dr. delivers his insights on common misunderstandings in WPF along with a recommendation on one of the most important decisions you can make when building your applications. He also tells us about what he sees as being a true barrier for rapid WPF adoption. Remember though it's easy to get the answers you need... all you have to do is ask Dr. WPF!.</p>]]>
+      </description>
+      <pubDate>15 May 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-05-14-drwpf.mp3" length="35966976" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/drwpf</guid>
+      <itunes:duration>37:26</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-05-14-drwpf.mp3" fileSize="35966976" type="audio/mpeg" /><itunes:subtitle> This week we talk with WPF guru, Dr. WPF. The good Dr. delivers his insights on common misunderstandings in WPF along with a recommendation on one of the most important decisions you can make when building your applications. He also tells us about what h</itunes:subtitle><itunes:summary> This week we talk with WPF guru, Dr. WPF. The good Dr. delivers his insights on common misunderstandings in WPF along with a recommendation on one of the most important decisions you can make when building your applications. He also tells us about what he sees as being a true barrier for rapid WPF adoption. Remember though it's easy to get the answers you need... all you have to do is ask Dr. WPF!. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Coining "Ajax" and Seeing the Future</title>
+      <link>http://getpixel8ed.com/shows/garrett</link>
+      <description>
+        <![CDATA[<p>Craig Shoemaker talks with co-founder and president of Adaptive Path Jesse James Garrett about his experiences in creating the Elements of User Experience, the Visual Vocabulary and coining the term &quot;Ajax&quot;.</p>]]>
+      </description>
+
+      <pubDate>07 May 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-05-06-garrett.mp3" length="25436160" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/garrett</guid>
+      <itunes:duration>26:28</itunes:duration>
+
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-05-06-garrett.mp3" fileSize="25436160" type="audio/mpeg" /><itunes:subtitle> Craig Shoemaker talks with co-founder and president of Adaptive Path Jesse James Garrett about his experiences in creating the Elements of User Experience, the Visual Vocabulary and coining the term &amp;quot;Ajax&amp;quot;. </itunes:subtitle><itunes:summary> Craig Shoemaker talks with co-founder and president of Adaptive Path Jesse James Garrett about his experiences in creating the Elements of User Experience, the Visual Vocabulary and coining the term &amp;quot;Ajax&amp;quot;. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Building Immersive Silverlight Video Experiences</title>
+      <link>http://getpixel8ed.com/shows/techsl</link>
+      <description>
+        <![CDATA[<p>Peter Matuchniak from Technicolor takes us on a tour of the new system they are working on for sattelite cable networks to stream live video to the web via Silverlight.</p>]]>
+      </description>
+      <pubDate>29 Apr 2008 12:05:01 GMT</pubDate>
+
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-04-28-techsl.mp3" length="25419776" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/techsl</guid>
+      <itunes:duration>26:25</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-04-28-techsl.mp3" fileSize="25419776" type="audio/mpeg" /><itunes:subtitle> Peter Matuchniak from Technicolor takes us on a tour of the new system they are working on for sattelite cable networks to stream live video to the web via Silverlight. </itunes:subtitle><itunes:summary> Peter Matuchniak from Technicolor takes us on a tour of the new system they are working on for sattelite cable networks to stream live video to the web via Silverlight. </itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Have You Xiine Markus Egger?</title>
+      <link>http://getpixel8ed.com/shows/egger</link>
+      <description><![CDATA[<p>Markus Egger is the President and Chief Software Architect of EPS Software Corp. and the Publisher of CoDe Magazine. Markus talks to us about his experiences in creating Xiine, a service-oriented WPF document reader for books and magazines.</p>]]></description>
+      <pubDate>18 Apr 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-04-04-egger.mp3" length="21147648" type="audio/mpeg" />
+      <category>Technology</category>
+
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/egger</guid>
+      <itunes:duration>21:58</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-04-04-egger.mp3" fileSize="21147648" type="audio/mpeg" /><itunes:subtitle> Markus Egger is the President and Chief Software Architect of EPS Software Corp. and the Publisher of CoDe Magazine. Markus talks to us about his experiences in creating Xiine, a service-oriented WPF document reader for books and magazines.</itunes:subtitle><itunes:summary> Markus Egger is the President and Chief Software Architect of EPS Software Corp. and the Publisher of CoDe Magazine. Markus talks to us about his experiences in creating Xiine, a service-oriented WPF document reader for books and magazines.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Version Targeting &amp; Web Standards : A Browser Maker's Story</title>
+
+      <link>http://getpixel8ed.com/shows/targetingIE</link>
+      <description><![CDATA[<p>To continue the conversation surrounding version targeting we have an interview with Chris Wilson, Platform Architect for Internet Explorer. As someone who helps direct one of the most widely used pieces of software on the planet, Chris tells a browser maker’s tale of version targeting.</p>]]></description>
+      <pubDate>19 Mar 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-03-19-targetingie.mp3" length="39727104" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/targetingIE</guid>
+
+      <itunes:duration>41:21</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-03-19-targetingie.mp3" fileSize="39727104" type="audio/mpeg" /><itunes:subtitle> To continue the conversation surrounding version targeting we have an interview with Chris Wilson, Platform Architect for Internet Explorer. As someone who helps direct one of the most widely used pieces of software on the planet, Chris tells a browser m</itunes:subtitle><itunes:summary> To continue the conversation surrounding version targeting we have an interview with Chris Wilson, Platform Architect for Internet Explorer. As someone who helps direct one of the most widely used pieces of software on the planet, Chris tells a browser maker’s tale of version targeting.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>Version Targeting &amp; Web Standards : A Standardista's Story</title>
+      <link>http://getpixel8ed.com/shows/targeting</link>
+      <description><![CDATA[<p>Jeffrey Zeldman frames version targeting with context and common sense. This is a standarista's tale of why version targeting is needed, how targeting should behave and what it means for the web of the future.</p>]]></description>
+
+      <pubDate>18 Mar 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-02-29-targeting.mp3" length="55357440" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/targeting</guid>
+      <itunes:duration>57:38</itunes:duration>
+
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-02-29-targeting.mp3" fileSize="55357440" type="audio/mpeg" /><itunes:subtitle> Jeffrey Zeldman frames version targeting with context and common sense. This is a standarista's tale of why version targeting is needed, how targeting should behave and what it means for the web of the future.</itunes:subtitle><itunes:summary> Jeffrey Zeldman frames version targeting with context and common sense. This is a standarista's tale of why version targeting is needed, how targeting should behave and what it means for the web of the future.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>MIX08 Keynote Highlights</title>
+      <link>http://getpixel8ed.com/shows/mix08keynote</link>
+      <description><![CDATA[<p>Fresh off the press from our MIX08 coverage we bring you a special show highlights from the keynote addresses. Along with what you get over at the MIX sessions page we also have interviews with Scott Guthrie and Guy Kawasaki.</p>]]></description>
+      <pubDate>12 Mar 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-03-11-mix08keynote.mp3" length="37871616" type="audio/mpeg" />
+
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/mix08keynote</guid>
+      <itunes:duration>39:23</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-03-11-mix08keynote.mp3" fileSize="37871616" type="audio/mpeg" /><itunes:subtitle> Fresh off the press from our MIX08 coverage we bring you a special show highlights from the keynote addresses. Along with what you get over at the MIX sessions page we also have interviews with Scott Guthrie and Guy Kawasaki.</itunes:subtitle><itunes:summary> Fresh off the press from our MIX08 coverage we bring you a special show highlights from the keynote addresses. Along with what you get over at the MIX sessions page we also have interviews with Scott Guthrie and Guy Kawasaki.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+
+      <title>8 Days, 1 Dev = MS Surface *Minority Report* Style in WPF</title>
+      <link>http://getpixel8ed.com/shows/maestro</link>
+      <description><![CDATA[<p>Learn how Rick Barraza, User Experience Architect from Cynergy Systems, creates a unique Microsoft Surface + &quot;Minority Report&quot; experience in WPF.</p>]]></description>
+      <pubDate>26 Feb 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/users/pixel8/media/pixel8-2008-02-26-maestro.mp3" length="831488" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8</source>
+
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/maestro</guid>
+      <itunes:duration>0:50</itunes:duration>
+    <media:content url="http://download.infragistics.com/users/pixel8/media/pixel8-2008-02-26-maestro.mp3" fileSize="831488" type="audio/mpeg" /><itunes:subtitle> Learn how Rick Barraza, User Experience Architect from Cynergy Systems, creates a unique Microsoft Surface + &amp;quot;Minority Report&amp;quot; experience in WPF.</itunes:subtitle><itunes:summary> Learn how Rick Barraza, User Experience Architect from Cynergy Systems, creates a unique Microsoft Surface + &amp;quot;Minority Report&amp;quot; experience in WPF.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>CSS-like Control Over Windows Forms</title>
+      <link>http://getpixel8ed.com/shows/appstylist</link>
+
+      <description><![CDATA[<p>Ever wanted CSS-like control over your existing Windows Forms applications? Grant Hinkson, Director of Visual Design at Infragistics, shows us how it's possible with AppStylist.</p>]]></description>
+      <pubDate>29 Feb 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-02-29-appstylist.mp3" length="835584" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/appstylist</guid>
+      <itunes:duration>0:50</itunes:duration>
+
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-02-29-appstylist.mp3" fileSize="835584" type="audio/mpeg" /><itunes:subtitle> Ever wanted CSS-like control over your existing Windows Forms applications? Grant Hinkson, Director of Visual Design at Infragistics, shows us how it's possible with AppStylist.</itunes:subtitle><itunes:summary> Ever wanted CSS-like control over your existing Windows Forms applications? Grant Hinkson, Director of Visual Design at Infragistics, shows us how it's possible with AppStylist.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>The Secret to Successful User Experiences</title>
+      <link>http://getpixel8ed.com/shows/veen</link>
+      <description><![CDATA[<p>Jeff Veen knows the secret of successful user experiences - and he's ready to share. Jeff is Design Manager at Google for the application division. Jeff helped bring web standards to Wired Magazine, helped shape Blogger and Flickr and was a founding member of Adaptive Path.</p>]]></description>
+      <pubDate>28 Feb 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/pixel8/media/pixel8-2008-02-28-veen.mp3" length="43552768" type="audio/mpeg" />
+
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/veen</guid>
+      <itunes:duration>45:20</itunes:duration>
+    <media:content url="http://download.infragistics.com/pixel8/media/pixel8-2008-02-28-veen.mp3" fileSize="43552768" type="audio/mpeg" /><itunes:subtitle> Jeff Veen knows the secret of successful user experiences - and he's ready to share. Jeff is Design Manager at Google for the application division. Jeff helped bring web standards to Wired Magazine, helped shape Blogger and Flickr and was a founding memb</itunes:subtitle><itunes:summary> Jeff Veen knows the secret of successful user experiences - and he's ready to share. Jeff is Design Manager at Google for the application division. Jeff helped bring web standards to Wired Magazine, helped shape Blogger and Flickr and was a founding member of Adaptive Path.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+
+      <title>Brad Abrams: .NET Yesterday &amp; Today</title>
+      <link>http://getpixel8ed.com/shows/abrams</link>
+      <description><![CDATA[<p>Brad Abrams, Group Program Manager for UI Framework and Services, sits down with Craig Shoemaker to discuss some of the origins of the .NET Framework and what's to come from Silverlight, ASP.NET MVC and ASP.NET AJAX.</p>]]></description>
+      <pubDate>28 Feb 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/users/pixel8/media/pixel8-2008-02-27-abrams.mp3" length="48095232" type="audio/mpeg" />
+      <category>Technology</category>
+
+      <source url="http://getpixel8ed.com/">pixel8 :: what makes great user experiences?</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/abrams</guid>
+      <itunes:duration>50:04</itunes:duration>
+    <media:content url="http://download.infragistics.com/users/pixel8/media/pixel8-2008-02-27-abrams.mp3" fileSize="48095232" type="audio/mpeg" /><itunes:subtitle> Brad Abrams, Group Program Manager for UI Framework and Services, sits down with Craig Shoemaker to discuss some of the origins of the .NET Framework and what's to come from Silverlight, ASP.NET MVC and ASP.NET AJAX.</itunes:subtitle><itunes:summary> Brad Abrams, Group Program Manager for UI Framework and Services, sits down with Craig Shoemaker to discuss some of the origins of the .NET Framework and what's to come from Silverlight, ASP.NET MVC and ASP.NET AJAX.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+    <item>
+      <title>pixel8 inagur8ion</title>
+
+      <link>http://getpixel8ed.com/shows/init</link>
+      <description><![CDATA[<p>Welcome to pixel8! Join Craig Shoemaker as he introduces you to the show, tells you what's to come and how you can get pixel8ed.</p>]]></description>
+      <pubDate>25 Feb 2008 12:05:01 GMT</pubDate>
+      <enclosure url="http://download.infragistics.com/users/pixel8/media/pixel8-2008-02-26-init.mp3" length="5160960" type="audio/mpeg" />
+      <category>Technology</category>
+      <source url="http://getpixel8ed.com/">pixel8</source>
+      <guid isPermaLink="true">http://getpixel8ed.com/shows/init</guid>
+
+      <itunes:duration>5:21</itunes:duration>
+    <media:content url="http://download.infragistics.com/users/pixel8/media/pixel8-2008-02-26-init.mp3" fileSize="5160960" type="audio/mpeg" /><itunes:subtitle> Welcome to pixel8! Join Craig Shoemaker as he introduces you to the show, tells you what's to come and how you can get pixel8ed.</itunes:subtitle><itunes:summary> Welcome to pixel8! Join Craig Shoemaker as he introduces you to the show, tells you what's to come and how you can get pixel8ed.</itunes:summary><itunes:keywords>Technology</itunes:keywords></item>
+
+  <media:rating>nonadult</media:rating></channel>
+
+</rss>

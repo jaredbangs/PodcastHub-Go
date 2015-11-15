@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.serialpodcast.org/~d/styles/itemcontent.css"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0" xml:base="http://serialpodcast.org">
+<channel>
+ <title>Serial</title>
+ <link>http://serialpodcast.org</link>
+ <description>Serial is a new podcast from the creators of This American Life, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. Sarah won't know what happens at the end of the story until she gets there, not long before you get there with her. Each week she'll bring you the latest chapter, so it's important to listen in, starting with Episode 1. New episodes are released on Thursday mornings.</description>
+ <language>en</language>
+ <copyright>Copyright 2015 Ira Glass</copyright>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:subtitle>A new podcast from the creators of This American Life</itunes:subtitle>
+ <itunes:owner> <itunes:email>rich@strangebirdlabs.com</itunes:email>
+</itunes:owner>
+ <itunes:category text="News &amp; Politics" />
+ <itunes:image href="http://serialpodcast.org/sites/all/modules/custom/serial/img/serial-itunes-logo.png" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.serialpodcast.org/serialpodcast" /><feedburner:info uri="serialpodcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+ <title>Episode 12: What We Know</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>On January 13, 1999, Adnan Syed was a hurt and vengeful ex-boyfriend who carried out a premeditated murder. Or he was a bewildered bystander, framed for a crime he could never have committed. After 15 months of reporting, we take out everything we’ve got - interviews and documents and police reports - we shake it all out, and we see what sticks.&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 18 Dec 2014 10:30:00 +0000</pubDate>
+ <dc:creator>Dana</dc:creator>
+ <guid isPermaLink="false">57 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>12</itunes:order>
+ <itunes:duration>3360</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1445350094/serial-s01-e12.mp3" type="audio/mpeg" length="27485957" />
+ <itunes:subtitle>On January 13, 1999, Adnan Syed was a hurt and vengeful ex-boyfriend who carried out a premeditated murder. Or he was a bewildered bystander, framed for a crime he could never have committed. After 15 months of reporting, we take out everything we’ve got - interviews and documents and police reports - we shake it all out, and we see what sticks.</itunes:subtitle>
+ <itunes:summary>On January 13, 1999, Adnan Syed was a hurt and vengeful ex-boyfriend who carried out a premeditated murder. Or he was a bewildered bystander, framed for a crime he could never have committed. After 15 months of reporting, we take out everything we’ve got - interviews and documents and police reports - we shake it all out, and we see what sticks.</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 11: Rumors</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>Almost everyone describes the 17-year-old Adnan the same way: good kid, helpful at the mosque, respectful to his elders. But a couple of months ago, Sarah started getting phone calls from people who knew Adnan back then, and told her stories of a different kind of boy.&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 11 Dec 2014 10:30:00 +0000</pubDate>
+ <dc:creator>Dana</dc:creator>
+ <guid isPermaLink="false">56 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>11</itunes:order>
+ <itunes:duration>2460</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1446296700/serial-s01-e11.mp3" type="audio/mpeg" length="20233699" />
+ <itunes:subtitle>Almost everyone describes the 17-year-old Adnan the same way: good kid, helpful at the mosque, respectful to his elders. But a couple of months ago, Sarah started getting phone calls from people who knew Adnan back then, and told her stories of a different kind of boy.</itunes:subtitle>
+ <itunes:summary>Almost everyone describes the 17-year-old Adnan the same way: good kid, helpful at the mosque, respectful to his elders. But a couple of months ago, Sarah started getting phone calls from people who knew Adnan back then, and told her stories of a different kind of boy.</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 10: The Best Defense is a Good Defense</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>Adnan’s trial lawyer was M. Cristina Gutierrez, a renowned defense attorney in Maryland – tough and savvy and smart. Other lawyers said she was exactly the kind of person you’d want defending you on a first-degree murder charge. But Adnan was convicted, and a year later, Gutierrez was disbarred. What happened? &lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 04 Dec 2014 10:30:00 +0000</pubDate>
+ <dc:creator>rorris</dc:creator>
+ <guid isPermaLink="false">54 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>10</itunes:order>
+ <itunes:duration>3240</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1445349983/serial-s01-e10.mp3" type="audio/mpeg" length="26225074" />
+ <itunes:subtitle>Adnan’s trial lawyer was M. Cristina Gutierrez, a renowned defense attorney in Maryland – tough and savvy and smart. Other lawyers said she was exactly the kind of person you’d want defending you on a first-degree murder charge. But Adnan was convicted, and a year later, Gutierrez was disbarred. What happened? </itunes:subtitle>
+ <itunes:summary>Adnan’s trial lawyer was M. Cristina Gutierrez, a renowned defense attorney in Maryland – tough and savvy and smart. Other lawyers said she was exactly the kind of person you’d want defending you on a first-degree murder charge. But Adnan was convicted, and a year later, Gutierrez was disbarred. What happened? </itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 09: To Be Suspected</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>New information is coming in about what maybe didn’t happen on January 13, 1999.  And while Adnan’s memory of that day is foggy at best, he does remember what happened next: being questioned, being arrested and, a little more than a year later, being sentenced to life in prison.&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 20 Nov 2014 10:30:00 +0000</pubDate>
+ <dc:creator>Dana</dc:creator>
+ <guid isPermaLink="false">49 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>9</itunes:order>
+ <itunes:duration>2700</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1443753694/serial-s01-e09.mp3" type="audio/mpeg" length="22625051" />
+ <itunes:subtitle>New information is coming in about what maybe didn’t happen on January 13, 1999.  And while Adnan’s memory of that day is foggy at best, he does remember what happened next: being questioned, being arrested and, a little more than a year later, being sentenced to life in prison.</itunes:subtitle>
+ <itunes:summary>New information is coming in about what maybe didn’t happen on January 13, 1999.  And while Adnan’s memory of that day is foggy at best, he does remember what happened next: being questioned, being arrested and, a little more than a year later, being sentenced to life in prison.</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 08: The Deal with Jay</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>The state’s case against Adnan Syed hinged on Jay’s credibility; he was their star witness and also, because of his changing statements to police, their chief liability. Naturally, Adnan’s lawyer tried hard to make Jay look untrustworthy at trial. So, how did the jurors make sense of Jay? For that matter, how did the cops make sense of Jay? How are we supposed to make sense of Jay?&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 13 Nov 2014 10:30:00 +0000</pubDate>
+ <dc:creator>Dana</dc:creator>
+ <guid isPermaLink="false">45 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>8</itunes:order>
+ <itunes:duration>2640</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1443753357/serial-s01-e08.mp3" type="audio/mpeg" length="21520223" />
+ <itunes:subtitle>The state’s case against Adnan Syed hinged on Jay’s credibility; he was their star witness and also, because of his changing statements to police, their chief liability. Naturally, Adnan’s lawyer tried hard to make Jay look untrustworthy at trial. So, how did the jurors make sense of Jay? For that matter, how did the cops make sense of Jay? How are we supposed to make sense of Jay?</itunes:subtitle>
+ <itunes:summary>The state’s case against Adnan Syed hinged on Jay’s credibility; he was their star witness and also, because of his changing statements to police, their chief liability. Naturally, Adnan’s lawyer tried hard to make Jay look untrustworthy at trial. So, how did the jurors make sense of Jay? For that matter, how did the cops make sense of Jay? How are we supposed to make sense of Jay?</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 07: The Opposite of the Prosecution</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>Adnan told Sarah about a case in Virginia that had striking similarities to his own: one key witness, incriminating cell phone records, young people, drugs - and a defendant who has always maintained his innocence. Sarah called up one of the defense attorneys on that case to see if she could offer any insight into Adnan’s case, and got much more than she bargained for.&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 06 Nov 2014 10:30:00 +0000</pubDate>
+ <dc:creator>Dana</dc:creator>
+ <guid isPermaLink="false">42 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>7</itunes:order>
+ <itunes:duration>1980</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1445349877/serial-s01-e07.mp3" type="audio/mpeg" length="16055463" />
+ <itunes:subtitle>Adnan told Sarah about a case in Virginia that had striking similarities to his own: one key witness, incriminating cell phone records, young people, drugs - and a defendant who has always maintained his innocence. Sarah called up one of the defense attorneys on that case to see if she could offer any insight into Adnan’s case, and got much more than she bargained for.</itunes:subtitle>
+ <itunes:summary>Adnan told Sarah about a case in Virginia that had striking similarities to his own: one key witness, incriminating cell phone records, young people, drugs - and a defendant who has always maintained his innocence. Sarah called up one of the defense attorneys on that case to see if she could offer any insight into Adnan’s case, and got much more than she bargained for.</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 06: The Case Against Adnan Syed</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>The physical evidence against Adnan Syed was scant - a few underwhelming fingerprints. So aside from cell records, what did the prosecutors bring to the jury, to shore up Jay's testimony? Sarah weighs all the other circumstantial evidence they had against Adnan, including curious behavior, a disconcerting note, and an unexplained mid-afternoon phone call.&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 30 Oct 2014 09:30:00 +0000</pubDate>
+ <dc:creator>Dana</dc:creator>
+ <guid isPermaLink="false">34 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>6</itunes:order>
+ <itunes:duration>2640</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1443752880/serial-s01-e06.mp3" type="audio/mpeg" length="21617746" />
+ <itunes:subtitle>The physical evidence against Adnan Syed was scant - a few underwhelming fingerprints. So aside from cell records, what did the prosecutors bring to the jury, to shore up Jay's testimony? Sarah weighs all the other circumstantial evidence they had against Adnan, including curious behavior, a disconcerting note, and an unexplained mid-afternoon phone call.</itunes:subtitle>
+ <itunes:summary>The physical evidence against Adnan Syed was scant - a few underwhelming fingerprints. So aside from cell records, what did the prosecutors bring to the jury, to shore up Jay's testimony? Sarah weighs all the other circumstantial evidence they had against Adnan, including curious behavior, a disconcerting note, and an unexplained mid-afternoon phone call.</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 05: Route Talk</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>Adnan once issued a challenge to Sarah. He told her to test the state’s timeline of the murder by driving from Woodlawn High School to Best Buy in 21 minutes. It can’t be done, he said. So Sarah and Dana take up the challenge, and raise him one: They try to recreate the entire route that Jay said he and Adnan took on January 13th, 1999.
+ &lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 23 Oct 2014 09:30:00 +0000</pubDate>
+ <dc:creator>Dana</dc:creator>
+ <guid isPermaLink="false">31 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>5</itunes:order>
+ <itunes:duration>2580</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1443752621/serial-s01-e05.mp3" type="audio/mpeg" length="21921261" />
+ <itunes:subtitle>Adnan once issued a challenge to Sarah. He told her to test the state’s timeline of the murder by driving from Woodlawn High School to Best Buy in 21 minutes. It can’t be done, he said. So Sarah and Dana take up the challenge, and raise him one: They try to recreate the entire route that Jay said he and Adnan took on January 13th, 1999.
+ </itunes:subtitle>
+ <itunes:summary>Adnan once issued a challenge to Sarah. He told her to test the state’s timeline of the murder by driving from Woodlawn High School to Best Buy in 21 minutes. It can’t be done, he said. So Sarah and Dana take up the challenge, and raise him one: They try to recreate the entire route that Jay said he and Adnan took on January 13th, 1999.
+ </itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 04: Inconsistencies</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>A few days after Hae’s body is found, the detectives get a lead that opens the case up for them. They find Jay at work late one night and bring him down to Homicide. At first, he insists he doesn’t know anything about the murder. But eventually he comes clean. He tells them what happened on January 13th. A few weeks later, he’s back at Homicide and his story has changed. In some ways, these changes are small and understandable. In other ways, they’re big and confounding.&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 16 Oct 2014 09:30:00 +0000</pubDate>
+ <dc:creator>Dana</dc:creator>
+ <guid isPermaLink="false">28 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>4</itunes:order>
+ <itunes:duration>2040</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1445349770/serial-s01-e04.mp3" type="audio/mpeg" length="17266755" />
+ <itunes:subtitle>A few days after Hae’s body is found, the detectives get a lead that opens the case up for them. They find Jay at work late one night and bring him down to Homicide. At first, he insists he doesn’t know anything about the murder. But eventually he comes clean. He tells them what happened on January 13th. A few weeks later, he’s back at Homicide and his story has changed. In some ways, these changes are small and understandable. In other ways, they’re big and confounding.</itunes:subtitle>
+ <itunes:summary>A few days after Hae’s body is found, the detectives get a lead that opens the case up for them. They find Jay at work late one night and bring him down to Homicide. At first, he insists he doesn’t know anything about the murder. But eventually he comes clean. He tells them what happened on January 13th. A few weeks later, he’s back at Homicide and his story has changed. In some ways, these changes are small and understandable. In other ways, they’re big and confounding.</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 03: Leakin Park</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>It’s February 9, 1999. Hae has been missing for three weeks. A man on his lunch break pulls off a road to pee, and stumbles on her body in a city forest. His odd recounting of the discovery makes Detectives Ritz and MacGillivary suspicious. For instance, why did he walk so far into the woods - 127 feet - to relieve himself? And that’s just the start. A look into the man’s past reveals some bizarre behavior.&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Thu, 09 Oct 2014 10:00:00 +0000</pubDate>
+ <dc:creator>rorris</dc:creator>
+ <guid isPermaLink="false">21 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>3</itunes:order>
+ <itunes:duration>1680</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1443752222/serial-s01-e03.mp3" type="audio/mpeg" length="14617900" />
+ <itunes:subtitle>It’s February 9, 1999. Hae has been missing for three weeks. A man on his lunch break pulls off a road to pee, and stumbles on her body in a city forest. His odd recounting of the discovery makes Detectives Ritz and MacGillivary suspicious. For instance, why did he walk so far into the woods - 127 feet - to relieve himself? And that’s just the start. A look into the man’s past reveals some bizarre behavior.</itunes:subtitle>
+ <itunes:summary>It’s February 9, 1999. Hae has been missing for three weeks. A man on his lunch break pulls off a road to pee, and stumbles on her body in a city forest. His odd recounting of the discovery makes Detectives Ritz and MacGillivary suspicious. For instance, why did he walk so far into the woods - 127 feet - to relieve himself? And that’s just the start. A look into the man’s past reveals some bizarre behavior.</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 02: The Breakup</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>Their relationship began like a storybook high-school romance: a prom date, love notes, sneaking off to be alone. But unlike other kids at school, they had to keep their dating secret, because their parents disapproved. Both of them, but especially Adnan, were under special pressure at home, and the stress of that spilled over into their relationship. Eventually Hae broke up with Adnan. And then, depending on who you ask, Adnan was either understandably sad and moping around, or full of rage and plotting to kill her.&lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Fri, 03 Oct 2014 14:00:00 +0000</pubDate>
+ <dc:creator>emily</dc:creator>
+ <guid isPermaLink="false">17 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>2</itunes:order>
+ <itunes:duration>2220</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1446296560/serial-s01-e02.mp3" type="audio/mpeg" length="18442585" />
+ <itunes:subtitle>Their relationship began like a storybook high-school romance: a prom date, love notes, sneaking off to be alone. But unlike other kids at school, they had to keep their dating secret, because their parents disapproved. Both of them, but especially Adnan, were under special pressure at home, and the stress of that spilled over into their relationship. Eventually Hae broke up with Adnan. And then, depending on who you ask, Adnan was either understandably sad and moping around, or full of rage and plotting to kill her.</itunes:subtitle>
+ <itunes:summary>Their relationship began like a storybook high-school romance: a prom date, love notes, sneaking off to be alone. But unlike other kids at school, they had to keep their dating secret, because their parents disapproved. Both of them, but especially Adnan, were under special pressure at home, and the stress of that spilled over into their relationship. Eventually Hae broke up with Adnan. And then, depending on who you ask, Adnan was either understandably sad and moping around, or full of rage and plotting to kill her.</itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+<item>
+ <title>Episode 01: The Alibi</title>
+ <link>http://feeds.serialpodcast.org/~r/serialpodcast/~3/_LnOrNUV5n4/</link>
+ <description>It's Baltimore, 1999. Hae Min Lee, a popular high-school senior, disappears after school one day. Six weeks later detectives arrest her classmate and ex-boyfriend, Adnan Syed, for her murder. He says he's innocent - though he can't exactly remember what he was doing on that January afternoon. But someone can. A classmate at Woodlawn High School says she knows where Adnan was. The trouble is, she’s nowhere to be found.
+ &lt;img src="http://feeds.feedburner.com/~r/serialpodcast/~4/_LnOrNUV5n4" height="1" width="1" alt=""/&gt;</description>
+ <pubDate>Fri, 03 Oct 2014 13:45:00 +0000</pubDate>
+ <dc:creator>rorris</dc:creator>
+ <guid isPermaLink="false">2 at http://serialpodcast.org</guid>
+ <itunes:author>This American Life</itunes:author>
+ <itunes:order>1</itunes:order>
+ <itunes:duration>3240</itunes:duration>
+ <enclosure url="http://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1445349490/serial-s01-e01.mp3" type="audio/mpeg" length="26322038" />
+ <itunes:subtitle>It's Baltimore, 1999. Hae Min Lee, a popular high-school senior, disappears after school one day. Six weeks later detectives arrest her classmate and ex-boyfriend, Adnan Syed, for her murder. He says he's innocent - though he can't exactly remember what he was doing on that January afternoon. But someone can. A classmate at Woodlawn High School says she knows where Adnan was. The trouble is, she’s nowhere to be found.
+ </itunes:subtitle>
+ <itunes:summary>It's Baltimore, 1999. Hae Min Lee, a popular high-school senior, disappears after school one day. Six weeks later detectives arrest her classmate and ex-boyfriend, Adnan Syed, for her murder. He says he's innocent - though he can't exactly remember what he was doing on that January afternoon. But someone can. A classmate at Woodlawn High School says she knows where Adnan was. The trouble is, she’s nowhere to be found.
+ </itunes:summary>
+<feedburner:origLink>http://serialpodcast.org</feedburner:origLink></item>
+</channel>
+</rss>

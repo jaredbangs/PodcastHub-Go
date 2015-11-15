@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feed.radiodiaries.org/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+
+<channel>
+	<title>Radio Diaries</title>
+	
+	<link>http://radiodiaries.prx.org</link>
+	<description>Extraordinary stories of ordinary life.</description>
+	<lastBuildDate>Thu, 05 Nov 2015 22:22:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+<!-- podcast_generator="Blubrry PowerPress/6.1" mode="advanced" -->
+	<itunes:summary>First-person diaries, sound portraits, and hidden chapters of history from Peabody Award-winning producer Joe Richman and the Radio Diaries team. From teenagers to octogenarians, prisoners to prison guards, bra saleswomen to lighthouse keepers. The extraordinary stories of ordinary life.
+
+Radio Diaries is a proud member of PRX's Radiotopia network: www.radiotopia.fm</itunes:summary>
+	<itunes:author>Radio Diaries</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://cdn.radiodiaries.prx.org/wp-content/uploads/powerpress/RD-Logo-yello-stripe-square-1400.jpg" />
+	<itunes:owner>
+		<itunes:name>Radio Diaries</itunes:name>
+		<itunes:email>prxwpadmin@prx.org</itunes:email>
+	</itunes:owner>
+	<managingEditor>prxwpadmin@prx.org (Radio Diaries)</managingEditor>
+	<copyright>Copyright © 2014. All rights reserved.</copyright>
+	<itunes:subtitle>Extraordinary stories of ordinary life.</itunes:subtitle>
+	<image>
+		<title>Radio Diaries</title>
+		<url>http://cdn.radiodiaries.prx.org/wp-content/uploads/powerpress/radiodiaries-336.png</url>
+		<link>http://radiodiaries.prx.org</link>
+	</image>
+	<itunes:category text="Society &amp; Culture" />
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feed.radiodiaries.org/radio-diaries" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="radio-diaries" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>#41: The Story of ‘Ballad for Americans’</title>
+		<link>http://radiodiaries.prx.org/41-the-story-of-ballad-for-americans/</link>
+		<comments>http://radiodiaries.prx.org/41-the-story-of-ballad-for-americans/#comments</comments>
+		<pubDate>Thu, 05 Nov 2015 22:22:44 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=302</guid>
+		<description><![CDATA[How a ten minute folk opera managed to unite Democrats, Republicans and Communists. ]]></description>
+				<content:encoded><![CDATA[<p>How a ten minute operatic folk cantata managed to unite Democrats, Republicans and Communists.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/41-the-story-of-ballad-for-americans/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Final-Ballad-Podcast_3.mp3" length="25593713" type="audio/mpeg" />
+		<itunes:subtitle>How a ten minute operatic folk cantata managed to unite Democrats, Republicans and Communists.</itunes:subtitle>
+		<itunes:summary>How a ten minute operatic folk cantata managed to unite Democrats, Republicans and Communists.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Robeson_L-300x138.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>13:20</itunes:duration>
+	</item>
+		<item>
+		<title>#40: Serving 9-5: Diaries from Prison Guards</title>
+		<link>http://radiodiaries.prx.org/40-serving-9-5-diaries-from-prison-guards/</link>
+		<comments>http://radiodiaries.prx.org/40-serving-9-5-diaries-from-prison-guards/#comments</comments>
+		<pubDate>Thu, 22 Oct 2015 20:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=294</guid>
+		<description><![CDATA[Audio diaries from officers who work behind bars at North Carolina's Polk Youth Institution.]]></description>
+				<content:encoded><![CDATA[<p>Polk Youth Institution in Butner, North Carolina is a prison for young men between the ages of 19-25.  For our series Prison Diaries, I gave tape recorders to a handful of inmates at Polk to tell the story of life behind bars.  After visiting the prison for a few months, I realized I had been overlooking the stories of the guards. Pretty much every guard I talked to said they serve time too – in eight hour shifts. In this episode of the Radio Diaries Podcast, listen to the audio diaries of prison guards.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/40-serving-9-5-diaries-from-prison-guards/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Serving-9-5-podcast-Final_1.mp3" length="37776724" type="audio/mpeg" />
+		<itunes:subtitle>Audio diaries from officers who work behind bars at North Carolina's Polk Youth Institution.</itunes:subtitle>
+		<itunes:summary>Audio diaries from officers who work behind bars at North Carolina's Polk Youth Institution.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/pdcamelsq.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>26:14</itunes:duration>
+	</item>
+		<item>
+		<title>#39: The Man Who Put the ‘P’ in NPR</title>
+		<link>http://radiodiaries.prx.org/39-the-man-who-put-the-p-in-npr/</link>
+		<comments>http://radiodiaries.prx.org/39-the-man-who-put-the-p-in-npr/#comments</comments>
+		<pubDate>Thu, 08 Oct 2015 20:10:03 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=287</guid>
+		<description><![CDATA[In this golden age of podcasting, a conversation about the past and future of public radio with the author of the original NPR mission statement.]]></description>
+				<content:encoded><![CDATA[<p>One of the best mission statements we&#8217;ve ever read is the original NPR mission, which was written in 1969 by Bill Siemering. Bill is an amazing guy who, at the age of 80, continues to help create radio stations and programs in developing countries around the world. The manifesto Bill wrote is no longer NPR&#8217;s official mission statement but it&#8217;s a lovely reminder of why we do this work. It&#8217;s truly worth reading. </p>
+<p>Here at Radio Diaries we like history &#8211; including our own. So with help from the good folks at Transom.org,  we brought Bill into a studio because we were curious how he came to write that original mission statement, and why. We asked him to look back at the history of public media, and to imagine the future. We also asked him to read part of that original NPR mission statement.</p>
+<p>You can also read a transcript of our conversation at Transom.org, thanks to Jay Allison, Sydney Lewis and Samantha Broun. If you don’t know about Transom…go there as soon as you can. It’s like a master class in radio storytelling.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/39-the-man-who-put-the-p-in-npr/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Bill-Siemering-Transom-Podcast.mp3" length="42036533" type="audio/mpeg" />
+		<itunes:subtitle>In this golden age of podcasting, a conversation about the past and future of public radio with the author of the original NPR mission statement.</itunes:subtitle>
+		<itunes:summary>One of the best mission statements we've ever read is the original NPR mission, which was written in 1969 by Bill Siemering. Bill is an amazing guy who, at the age of 80, continues to help create radio stations and programs in developing countries around the world. The manifesto Bill wrote is no longer NPR's official mission statement but it's a lovely reminder of why we do this work. It's truly worth reading. 
+
+Here at Radio Diaries we like history - including our own. So with help from the good folks at Transom.org,  we brought Bill into a studio because we were curious how he came to write that original mission statement, and why. We asked him to look back at the history of public media, and to imagine the future. We also asked him to read part of that original NPR mission statement.
+
+You can also read a transcript of our conversation at Transom.org, thanks to Jay Allison, Sydney Lewis and Samantha Broun. If you don’t know about Transom…go there as soon as you can. It’s like a master class in radio storytelling.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Siemering_L-300x165.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>21:54</itunes:duration>
+	</item>
+		<item>
+		<title>#38: Crime Pays</title>
+		<link>http://radiodiaries.prx.org/38-crime-pays/</link>
+		<comments>http://radiodiaries.prx.org/38-crime-pays/#comments</comments>
+		<pubDate>Fri, 11 Sep 2015 07:00:44 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=281</guid>
+		<description><![CDATA[This month's podcast is about what it takes to get people to change. We focus on a group of people that might be the hardest to change - or at least they’ve had the most money thrown at them in hopes of change: Criminals.]]></description>
+				<content:encoded><![CDATA[<p>This month&#8217;s podcast is about what it takes to get people to change. We focus on a group of people that might be the hardest to change &#8211; or at least they’ve had the most money thrown at them in hopes of change: Criminals.</p>
+<p>Back in 2006, Richmond, CA was named the ninth most dangerous city in the country, with 42 murders for a population of about 100,000. Then they brought in a new police chief and started doing all kinds of things differently. And it worked. Homicides are now a third of what they were. Crime has dropped in a way that is dramatic and impressive. And police say that one of the things that helped is a program called the Office of Neighborhood Safety, or ONS. That’s a bland name for what is actually a very unusual program with one particular tactic that you do not hear about people trying very often: paying criminals to not commit crimes. Sounds crazy, but the even crazier part is&#8230;it works. </p>
+<p>This story originally aired on This American Life, in the episode, The Incredible Rarity of Changing Your Mind. Thanks to Ira Glass and the entire staff of This American Life for their help on this story.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/38-crime-pays/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/TAL-Richmond-Podcast-Final.mp3" length="41047893" type="audio/mpeg" />
+		<itunes:subtitle>This month's podcast is about what it takes to get people to change. We focus on a group of people that might be the hardest to change - or at least they’ve had the most money thrown at them in hopes of change: Criminals.</itunes:subtitle>
+		<itunes:summary>This month's podcast is about what it takes to get people to change. We focus on a group of people that might be the hardest to change - or at least they’ve had the most money thrown at them in hopes of change: Criminals.
+
+Back in 2006, Richmond, CA was named the ninth most dangerous city in the country, with 42 murders for a population of about 100,000. Then they brought in a new police chief and started doing all kinds of things differently. And it worked. Homicides are now a third of what they were. Crime has dropped in a way that is dramatic and impressive. And police say that one of the things that helped is a program called the Office of Neighborhood Safety, or ONS. That’s a bland name for what is actually a very unusual program with one particular tactic that you do not hear about people trying very often: paying criminals to not commit crimes. Sounds crazy, but the even crazier part is...it works. 
+
+This story originally aired on This American Life, in the episode, The Incredible Rarity of Changing Your Mind. Thanks to Ira Glass and the entire staff of This American Life for their help on this story.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>21:23</itunes:duration>
+	</item>
+		<item>
+		<title>#18: Strange Fruit</title>
+		<link>http://radiodiaries.prx.org/18-strange-fruit/</link>
+		<comments>http://radiodiaries.prx.org/18-strange-fruit/#comments</comments>
+		<pubDate>Thu, 06 Aug 2015 21:13:40 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=276</guid>
+		<description><![CDATA[An eerie photograph, a famous song, and the man who lived to tell the story.]]></description>
+				<content:encoded><![CDATA[<p>“Here is a fruit for the crows to pluck, for the rain to gather, for the wind to suck, for the sun to rot, for a tree to drop. Here is a strange and bitter crop.” -Abel Meeropol</p>
+<p>Poet and songwriter Abel Meeropol wrote that lament after seeing a photograph of two black teenagers hanging from a tree, after being lynched in Marion, Indiana, on August 7, 1930. Meeropol&#8217;s song, &#8220;Strange Fruit&#8221; was later made famous by Billie Holiday. A secret, missing from the photograph, is that a third black boy was supposed to die that fateful day. James Cameron is believed to be the only African American to have survived a lynching.</p>
+<p>Listen to our story (and be advised that it is disturbing.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/18-strange-fruit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Strange-Fruit-Podcast-Final.mp3" length="32159318" type="audio/mpeg" />
+		<itunes:subtitle>An eerie photograph, a famous song, and the man who lived to tell the story.</itunes:subtitle>
+		<itunes:summary>James Cameron is the only person known to have survived a lynching. This is his story. And this is also the story of the white residents of Marion, Indiana who witnessed or took part in the fateful events of August 7, 1930. In the 1970’s, some of their memories were recorded on cassette tapes, put in a box, and then forgotten for decades. Those cassettes were found in a basement a few years back, and you’ll hear them throughout this story.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>16:45</itunes:duration>
+	</item>
+		<item>
+		<title>#37: Mandela’s Prison Years</title>
+		<link>http://radiodiaries.prx.org/37-mandelas-prison-years/</link>
+		<comments>http://radiodiaries.prx.org/37-mandelas-prison-years/#comments</comments>
+		<pubDate>Thu, 09 Jul 2015 03:35:10 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=271</guid>
+		<description><![CDATA[While Mandela and other political leaders languished in prison, the government cracked down. It seemed that resistance to apartheid had been crushed. But on June 16, 1976, a student uprising in Soweto sparked a new generation of activism. This is Chapter 3 of our documentary (and 2015 Audiobook of the Year) Mandela: An Audio History.]]></description>
+				<content:encoded><![CDATA[<p>While Mandela and other political leaders languished in prison, the government cracked down. It seemed that resistance to apartheid had been crushed. But on June 16, 1976, a student uprising in Soweto sparked a new generation of activism. This is Chapter 3 of our documentary (and 2015 Audiobook of the Year) Mandela: An Audio History.</p>
+<p>Plus, the story behind the only known recording of Nelson Mandela during his 27 years in prison. </p>
+<p>More information about the project is available at mandelahistory.org</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/37-mandelas-prison-years/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Mandela-Prison-Years-Podcast.mp3" length="32517533" type="audio/mpeg" />
+		<itunes:subtitle>Chapter 3 of our documentary (and 2015 Audiobook of the Year) Mandela: An Audio History.</itunes:subtitle>
+		<itunes:summary>While Mandela and other political leaders languished in prison, the government cracked down. It seemed that resistance to apartheid had been crushed. But on June 16, 1976, a student uprising in Soweto sparked a new generation of activism. This is Chapter 3 of our documentary (and 2015 Audiobook of the Year) Mandela: An Audio History.
+
+Plus, the story behind the only known recording of Nelson Mandela during his 27 years in prison. 
+
+More information about the project is available at mandelahistory.org</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Mandelapic-201x300.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:56</itunes:duration>
+	</item>
+		<item>
+		<title>#36: A Visit to the Memory Palace</title>
+		<link>http://radiodiaries.prx.org/36-a-visit-to-the-memory-palace/</link>
+		<comments>http://radiodiaries.prx.org/36-a-visit-to-the-memory-palace/#comments</comments>
+		<pubDate>Thu, 18 Jun 2015 17:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=266</guid>
+		<description><![CDATA[Big, happy announcement: The Memory Palace is the newest member of Radiotopia!
+
+To celebrate, we bring you an episode from The Memory Palace, by Nate DiMeo. It's the story of Guglielmo Marconi, sometimes called the inventor of radio…and his dreams of a super-radio that would allow him to hear every sound ever made.
+
+We pair Marconi's story with our sound portrait of Frank Schubert, the last civilian lighthouse keeper in the U.S.]]></description>
+				<content:encoded><![CDATA[<p>Big, happy announcement: The Memory Palace is the newest member of Radiotopia!</p>
+<p>To celebrate, we bring you an episode from The Memory Palace, by Nate DiMeo. It&#8217;s the story of Guglielmo Marconi, sometimes called the inventor of radio…and his dreams of a super-radio that would allow him to hear every sound ever made.</p>
+<p>We pair Marconi&#8217;s story with our sound portrait of Frank Schubert, the last civilian lighthouse keeper in the U.S.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/36-a-visit-to-the-memory-palace/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Memory-Palace-Podcast-Final.mp3" length="22521748" type="audio/mpeg" />
+		<itunes:subtitle>Do you remember the first podcast you ever fell in love with?</itunes:subtitle>
+		<itunes:summary>Today we bring you an episode from The Memory Palace. It's the story of Guglielmo Marconi, sometimes called the inventor of radio…and his dreams of a super-radio that would allow him to hear every sound ever made.
+
+We pair Marconi's story with our sound portrait of Frank Schubert, the last civilian lighthouse keeper in the U.S.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>11:44</itunes:duration>
+	</item>
+		<item>
+		<title>#35: Matthew and the Judge</title>
+		<link>http://radiodiaries.prx.org/35-matthew-and-the-judge/</link>
+		<comments>http://radiodiaries.prx.org/35-matthew-and-the-judge/#comments</comments>
+		<pubDate>Fri, 05 Jun 2015 06:05:09 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=259</guid>
+		<description><![CDATA[We gave both Judge Jeremiah, a Rhode Island juvenile court judge, and Matthew, a 16-year-old repeat offender, tape recorders. Judge Jeremiah released Matthew early, for good behavior. Two weeks later, Matthew was arrested again for selling drugs. Through their diaries, Matthew and the judge tell the same story from two different sides of the bench.]]></description>
+				<content:encoded><![CDATA[<p>We gave both Judge Jeremiah, a Rhode Island juvenile court judge, and Matthew, a 16-year-old repeat offender, tape recorders. Judge Jeremiah released Matthew early, for good behavior. Two weeks later, Matthew was arrested again for selling drugs. Through their diaries, Matthew and the judge tell the same story from two different sides of the bench.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/35-matthew-and-the-judge/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/matthew-podcast-final.mp3" length="14333013" type="audio/mpeg" />
+		<itunes:subtitle>Audio diaries from a repeat offender, and his judge.</itunes:subtitle>
+		<itunes:summary>We gave both Judge Jeremiah, a Rhode Island juvenile court judge, and Matthew, a 16-year-old repeat offender, tape recorders. Judge Jeremiah released Matthew early, for good behavior. Two weeks later, Matthew was arrested again for selling drugs. Through their diaries, Matthew and the judge tell the same story from two different sides of the bench.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Matthew-pic-300x292.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>19:54</itunes:duration>
+	</item>
+		<item>
+		<title>#34: Seeing the Forrest Through the Little Trees</title>
+		<link>http://radiodiaries.prx.org/34-seeing-the-forrest-through-the-little-trees/</link>
+		<comments>http://radiodiaries.prx.org/34-seeing-the-forrest-through-the-little-trees/#comments</comments>
+		<pubDate>Fri, 22 May 2015 16:18:53 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=253</guid>
+		<description><![CDATA[The Education of Little Tree is an iconic best-selling book, with a message about living in harmony with nature, and compassion for people of all kinds. But there’s a very different story behind the book. It begins with the most infamous racist political speech in American History. This week on the Radio Diaries Podcast, the true story of the untrue story of The Education of Little Tree.]]></description>
+				<content:encoded><![CDATA[<p><em>The Education of Little Tree</em> is an iconic best-selling book, with a message about living in harmony with nature, and compassion for people of all kinds. But there’s a very different story behind the book. It begins with the most infamous racist political speech in American History. This week on the Radio Diaries Podcast, the true story of the untrue story of The Education of Little Tree.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/34-seeing-the-forrest-through-the-little-trees/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Little-Tree-TAL-Podcast-Final.mp3" length="60954293" type="audio/mpeg" />
+		<itunes:subtitle>The true story of the untrue story of The Education of Little Tree.</itunes:subtitle>
+		<itunes:summary>The Education of Little Tree is an iconic best-selling book, with a message about living in harmony with nature, and compassion for people of all kinds. But there’s a very different story behind the book. It begins with the most infamous racist political speech in American History. This week on the Radio Diaries Podcast, the true story of the untrue story of The Education of Little Tree.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/education-of-little-tree-273x300.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>31:45</itunes:duration>
+	</item>
+		<item>
+		<title>#11: The Traveling Electric Chair</title>
+		<link>http://radiodiaries.prx.org/rerun-11-willie-mcgee-and-the-traveling-electric-chair/</link>
+		<comments>http://radiodiaries.prx.org/rerun-11-willie-mcgee-and-the-traveling-electric-chair/#comments</comments>
+		<pubDate>Thu, 07 May 2015 21:04:13 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=247</guid>
+		<description><![CDATA[Bridgette McGee grew up knowing nothing about her grandfather, Willie McGee. Now she is on a quest to unearth everything she can about his life – and his death.
+]]></description>
+				<content:encoded><![CDATA[<p>Bridgette McGee grew up knowing nothing about her grandfather, Willie McGee. Now she is on a quest to unearth everything she can about his life – and his death.</p>
+<p>In 1945, Willie McGee was accused of raping a white woman. The all-white jury took less than three minutes to find him guilty and McGee was sentenced to death. Over the next six years, the case went through three trials and sparked international protests and appeals from Albert Einstein, William Faulkner, Paul Robeson, and Josephine Baker. McGee was defended by a young Bella Abzug arguing her first major case. But in 1951, McGee was put to death in Mississippi’s traveling electric chair. His execution was broadcast live by a local radio station. Today, a newly discovered recording of that broadcast provides a chilling window into a lost episode of civil rights history. Narrated by Bridgette McGee, this documentary follows a granddaughter’s search for the truth about a case that has been called a real-life To Kill A Mockingbird.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/rerun-11-willie-mcgee-and-the-traveling-electric-chair/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Willie-Mcgee-Podcast-Rerun.mp3" length="52686123" type="audio/mpeg" />
+		<itunes:subtitle>Bridgette McGee grew up knowing nothing about her grandfather, Willie McGee. Now she is on a quest to unearth everything she can about his life – and his death.</itunes:subtitle>
+		<itunes:summary>Bridgette McGee grew up knowing nothing about her grandfather, Willie McGee. Now she is on a quest to unearth everything she can about his life – and his death.
+
+In 1945, Willie McGee was accused of raping a white woman. The all-white jury took less than three minutes to find him guilty and McGee was sentenced to death. Over the next six years, the case went through three trials and sparked international protests and appeals from Albert Einstein, William Faulkner, Paul Robeson, and Josephine Baker. McGee was defended by a young Bella Abzug arguing her first major case. But in 1951, McGee was put to death in Mississippi’s traveling electric chair. His execution was broadcast live by a local radio station. Today, a newly discovered recording of that broadcast provides a chilling window into a lost episode of civil rights history. Narrated by Bridgette McGee, this documentary follows a granddaughter’s search for the truth about a case that has been called a real-life To Kill A Mockingbird.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Willie-McGee_007_L-300x138.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>27:26</itunes:duration>
+	</item>
+		<item>
+		<title>#33: From Bullets to Balance Sheets</title>
+		<link>http://radiodiaries.prx.org/33-from-bullets-to-balance-sheets/</link>
+		<comments>http://radiodiaries.prx.org/33-from-bullets-to-balance-sheets/#comments</comments>
+		<pubDate>Sat, 25 Apr 2015 00:10:21 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=241</guid>
+		<description><![CDATA[As a teenager, Kamari Ridgle was a drug dealer and drive-by shooter until a near-death experience led him to his true love…accounting.]]></description>
+				<content:encoded><![CDATA[<p>As a teenager, Kamari Ridgle was a drug dealer and drive-by shooter until a near-death experience led him to his true love…accounting.</p>
+<p>Let us know what you think of the Radio Diaries Podcast. Take this 5-minute survey and you could win a pair of Tivoli headphones! surveynerds.com/diaries</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/33-from-bullets-to-balance-sheets/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/kamari-podcast-final.mp3" length="14520198" type="audio/mpeg" />
+		<itunes:subtitle>As a teenager, Kamari Ridgle was a drug dealer and drive-by shooter until a near-death experience led him to his true love…accounting.</itunes:subtitle>
+		<itunes:summary>As a teenager, Kamari Ridgle was a drug dealer and drive-by shooter until a near-death experience led him to his true love…accounting.
+Let us know what you think of the Radio Diaries Podcast. Take this 5-minute survey and you could win a pair of Tivoli headphones! surveynerds.com/diaries</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Kamari_S.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>10:05</itunes:duration>
+	</item>
+		<item>
+		<title>#32: The Square Deal</title>
+		<link>http://radiodiaries.prx.org/32-the-square-deal/</link>
+		<comments>http://radiodiaries.prx.org/32-the-square-deal/#comments</comments>
+		<pubDate>Thu, 02 Apr 2015 16:53:04 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=233</guid>
+		<description><![CDATA[When George F. Johnson died, the nation witnessed one of the largest funerals in U.S. history. What did Johnson do? He made shoes. Lots of them. 100 years ago, the Endicott Johnson Corporation, headquartered in upstate New York, was the largest shoe factory in the world. But George F. Johnson wasn't only famous for his shoes. He also became known for his views on how a company should treat its workers. Some people called it "welfare capitalism." Johnson had a different name for it: The Square Deal.
+
+If you're a fan of the Radio Diaries Podcast - and you want a chance to win a pair of Tivoli headphones - please fill out our listener survey at surveynerds.com/diaries]]></description>
+				<content:encoded><![CDATA[<p>When George F. Johnson died, the nation witnessed one of the largest funerals in U.S. history. What did Johnson do? He made shoes. Lots of them. 100 years ago, the Endicott Johnson Corporation, headquartered in upstate New York, was the largest shoe factory in the world. But George F. Johnson wasn&#8217;t only famous for his shoes. He also became known for his views on how a company should treat its workers. Some people called it &#8220;welfare capitalism.&#8221; Johnson had a different name for it: The Square Deal.</p>
+<p>If you&#8217;re a fan of the Radio Diaries Podcast &#8211; and you want a chance to win a pair of Tivoli headphones &#8211; please fill out our listener survey at surveynerds.com/diaries</p>
+<p>Thanks!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/32-the-square-deal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/square-deal-podcast-final.mp3" length="24305204" type="audio/mpeg" />
+		<itunes:subtitle>Meet George F. Johnson, one of America's first 'welfare capitalists.'</itunes:subtitle>
+		<itunes:summary>When George F. Johnson died, the nation witnessed one of the largest funerals in U.S. history. What did Johnson do? He made shoes. Lots of them. 100 years ago, the Endicott Johnson Corporation, headquartered in upstate New York, was the largest shoe factory in the world. But George F. Johnson wasn't only famous for his shoes. He also became known for his views on how a company should treat its workers. Some people called it "welfare capitalism." Johnson had a different name for it: The Square Deal.
+
+If you're a fan of the Radio Diaries Podcast - and you want a chance to win a pair of Tivoli headphones - please fill out our listener survey at surveynerds.com/diaries</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Square-Deal_001_T.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:53</itunes:duration>
+	</item>
+		<item>
+		<title>#31: Fly Girls</title>
+		<link>http://radiodiaries.prx.org/31-fly-girls/</link>
+		<comments>http://radiodiaries.prx.org/31-fly-girls/#comments</comments>
+		<pubDate>Thu, 19 Mar 2015 19:56:27 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=226</guid>
+		<description><![CDATA[In the early 1940s, the US Airforce faced a dilemma. Thousands of new airplanes were coming off assembly lines and needed to be delivered to military bases nationwide, yet most of America’s pilots were overseas fighting the war. To solve the problem, the government launched an experimental program to train women pilots. They were known as the WASPs, the Women Airforce Service Pilots. Please take our listener survey! http://www.surveynerds.com/diaries]]></description>
+				<content:encoded><![CDATA[<p>In the early 1940s, the US Airforce faced a dilemma. Thousands of new airplanes were coming off assembly lines and needed to be delivered to military bases nationwide, yet most of America’s pilots were overseas fighting the war. To solve the problem, the government launched an experimental program to train women pilots. They were known as the WASPs, the Women Airforce Service Pilots.</p>
+<p>Please take our listener survey! http://www.surveynerds.com/diaries</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/31-fly-girls/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/WASPS-podcast-final.mp3" length="36639908" type="audio/mpeg" />
+		<itunes:subtitle>In the early 1940s, the government launched an experimental program to train women pilots. They were known as the WASPs, the Women Airforce Service Pilots.</itunes:subtitle>
+		<itunes:summary>In the early 1940s, the US Airforce faced a dilemma. Thousands of new airplanes were coming off assembly lines and needed to be delivered to military bases nationwide, yet most of America’s pilots were overseas fighting the war. To solve the problem, the government launched an experimental program to train women pilots. They were known as the WASPs, the Women Airforce Service Pilots. 
+
+Please take our listener survey! http://www.surveynerds.com/diaries</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/WASP-Image-300x229.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>25:27</itunes:duration>
+	</item>
+		<item>
+		<title>#30: Claudette Colvin – A “Teenage Rosa Parks”</title>
+		<link>http://radiodiaries.prx.org/30-claudette-colvin-a-teenage-rosa-parks/</link>
+		<comments>http://radiodiaries.prx.org/30-claudette-colvin-a-teenage-rosa-parks/#comments</comments>
+		<pubDate>Thu, 05 Mar 2015 18:47:21 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=222</guid>
+		<description><![CDATA[When Claudette Colvin was 15, she refused to give up her seat to a white passenger on a segregated bus in Montgomery, AL. "History had me glued to the seat," she said.]]></description>
+				<content:encoded><![CDATA[<p>What makes a hero? Why do we remember some stories and not others?</p>
+<p>Consider Claudette Colvin. She was a 15-year-old girl in the segregated city of Montgomery, Alabama. On March 2, 1955, she refused to give up her seat on a bus to a white passenger.</p>
+<p>Nine months later, Rosa Parks did the exact same thing. Parks, of course, became a powerful symbol of the civil rights movement. But Claudette Colvin has largely been left out of the history books.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/30-claudette-colvin-a-teenage-rosa-parks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/claudette-podcast-final.mp3" length="21428733" type="audio/mpeg" />
+		<itunes:subtitle>"History had me glued to the seat."</itunes:subtitle>
+		<itunes:summary>What makes a hero? Why do we remember some stories and not others?
+
+Consider Claudette Colvin. She was a 15-year-old girl in the segregated city of Montgomery, Alabama. On March 2, 1955, she refused to give up her seat on a bus to a white passenger.
+
+Nine months later, Rosa Parks did the exact same thing. Parks, of course, became a powerful symbol of the civil rights movement. But Claudette Colvin has largely been left out of the history books.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Colvin_T.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>11:10</itunes:duration>
+	</item>
+		<item>
+		<title>#29: First Kiss</title>
+		<link>http://radiodiaries.prx.org/29-first-kiss/</link>
+		<comments>http://radiodiaries.prx.org/29-first-kiss/#comments</comments>
+		<pubDate>Thu, 12 Feb 2015 09:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=214</guid>
+		<description><![CDATA["What I have here is an envelope on which this girl Nicole wrote down instructions on how to kiss. It says: 'pucker lips, slowly open mouth, slowly slide tongue in, repeat steps 1, 2, and 3.' She made that list for me because I made out with her and she said I was doing it wrong. So I guess that's the main thing I learned this summer." ]]></description>
+				<content:encoded><![CDATA[<p>Josh Cutler has Tourette’s syndrome, a neurological disorder that causes uncontrollable tics and involuntary verbal outbursts. In this episode, listen to his teenage diary about getting his first kiss.</p>
+<p>&#8220;What I have here is an envelope on which this girl Nicole wrote down instructions on how to kiss. It says: &#8216;pucker lips, slowly open mouth, slowly slide tongue in, repeat steps 1, 2, and 3.&#8217; She made that list for me because I made out with her and she said I was doing it wrong. So I guess that&#8217;s the main thing I learned this summer.&#8221; </p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/29-first-kiss/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Josh-Podcast-Final-MP3.mp3" length="38208058" type="audio/mpeg" />
+		<itunes:subtitle>Josh Cutler has Tourette’s syndrome, a neurological disorder that causes uncontrollable tics and involuntary verbal outbursts. In this episode, listen to his teenage diary about getting his first kiss.</itunes:subtitle>
+		<itunes:summary>Josh Cutler has Tourette’s syndrome, a neurological disorder that causes uncontrollable tics and involuntary verbal outbursts. In this episode, listen to his teenage diary about getting his first kiss.
+
+"What I have here is an envelope on which this girl Nicole wrote down instructions on how to kiss. It says: 'pucker lips, slowly open mouth, slowly slide tongue in, repeat steps 1, 2, and 3.' She made that list for me because I made out with her and she said I was doing it wrong. So I guess that's the main thing I learned this summer."</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/iTunes-square-0211-300x300.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>19:54</itunes:duration>
+	</item>
+		<item>
+		<title>#28: The Greatest Songwriter You’ve Never Heard Of</title>
+		<link>http://radiodiaries.prx.org/28-rose-marie-mccoy-the-greatest-songwriter-youve-never-heard-of/</link>
+		<comments>http://radiodiaries.prx.org/28-rose-marie-mccoy-the-greatest-songwriter-youve-never-heard-of/#comments</comments>
+		<pubDate>Tue, 03 Feb 2015 22:14:40 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=209</guid>
+		<description><![CDATA[You probably don't know her name, but you definitely know her songs. Rose Marie McCoy passed away recently at the age of 92. On this episode of the Radio Diaries Podcast, we’re remembering Rose and her music.]]></description>
+				<content:encoded><![CDATA[<p>You probably don&#8217;t know her name, but you definitely know her songs. Rose Marie McCoy passed away recently at the age of 92. On this episode of the Radio Diaries Podcast, we’re remembering Rose and her music.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/28-rose-marie-mccoy-the-greatest-songwriter-youve-never-heard-of/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Rose-podcast-Final.mp3" length="23170266" type="audio/mpeg" />
+		<itunes:subtitle>You probably don't know her name, but you definitely know her songs. Rose Marie McCoy passed away recently at the age of 92. On this episode of the Radio Diaries Podcast, we’re remembering Rose and her music.</itunes:subtitle>
+		<itunes:summary>You probably don't know her name, but you definitely know her songs. Rose Marie McCoy passed away recently at the age of 92. On this episode of the Radio Diaries Podcast, we’re remembering Rose and her music.
+
+In the 1950's and early 1960's American pop music saw the melding of different genres - rhythm &amp; blues, country, and rock &amp; roll - bringing together black and white, northern and southern musical styles.
+ 
+Rose was one of the most prolific songwriters of that era. She wrote more than 800 songs recorded by singers like Nat King Cole, Elvis Presley, Dizzy Gillespie, Ike &amp; Tina Turner, Big Maybelle, Ruth Brown, James Brown, Sarah Vaughan, Johnny Mathis and Aretha Franklin.</itunes:summary>
+		<itunes:author>Radio Diaries </itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/rose-pic.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:05</itunes:duration>
+	</item>
+		<item>
+		<title>#27: George Wallace and the Legacy of a Sentence</title>
+		<link>http://radiodiaries.prx.org/27-george-wallace-and-the-legacy-of-a-sentence/</link>
+		<comments>http://radiodiaries.prx.org/27-george-wallace-and-the-legacy-of-a-sentence/#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 05:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=204</guid>
+		<description><![CDATA[It was just a single line in an inauguration speech given 50 years ago. But Alabama Governor George Wallace’s ‘Segregation Now, Segregation Tomorrow, Segregation Forever’ is remembered as one of the most vehement rallying cries against racial equality in American history.]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;ve seen the movie Selma, our new podcast features two people who are important characters in the film: Representative John Lewis, the civil rights leader who was brutally beaten while crossing the Edmund Pettus Bridge; and Alabama Governor George Wallace, who ordered his state troopers to stop the march.</p>
+<p>Our story takes place a few years before the Selma march, on the day of Wallace&#8217;s inauguration as governor in 1963. As he stepped up to the podium, Wallace delivered one of the most vehement rallying cries against racial equality in American history: &#8220;Segregation Now, Segregation Tomorrow, Segregation Forever.&#8221; </p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/27-george-wallace-and-the-legacy-of-a-sentence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Wallace-Podcast-Final.mp3" length="5991698" type="audio/mpeg" />
+		<itunes:subtitle>It was just a single line in an inauguration speech given 50 years ago. But Alabama Governor George Wallace’s ‘Segregation Now, Segregation Tomorrow, Segregation Forever’ is remembered as one of the most vehement rallying cries against racial equality ...</itunes:subtitle>
+		<itunes:summary>If you've seen the movie Selma, our new podcast features two people who are important characters in the film: Representative John Lewis, the civil rights leader who was brutally beaten while crossing the Edmund Pettus Bridge; and Alabama Governor George Wallace, who ordered his state troopers to stop the march.
+ 
+Our story takes place a few years before the Selma march, on the day of Wallace's inauguration as governor in 1963. As he stepped up to the podium, Wallace delivered one of the most vehement rallying cries against racial equality in American history: "Segregation Now, Segregation Tomorrow, Segregation Forever."</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Wallace_T.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>12:29</itunes:duration>
+	</item>
+		<item>
+		<title>#26: The View from the 79th Floor</title>
+		<link>http://radiodiaries.prx.org/26-the-view-from-the-79th-floor/</link>
+		<comments>http://radiodiaries.prx.org/26-the-view-from-the-79th-floor/#comments</comments>
+		<pubDate>Thu, 08 Jan 2015 17:45:58 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=198</guid>
+		<description><![CDATA[On July 28, 1945 an Army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. A dictation machine in a nearby office happened to capture the sound of the plane as it hit the Empire State Building at the 79th floor. Find out what happened next in this episode [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On July 28, 1945 an Army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. A dictation machine in a nearby office happened to capture the sound of the plane as it hit the Empire State Building at the 79th floor. Find out what happened next in this episode of the Radio Diaries Podcast.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/26-the-view-from-the-79th-floor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Empire-State-Podcast-Rerun_2.mp3" length="24688316" type="audio/mpeg" />
+		<itunes:subtitle>On July 28, 1945 an Army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. A dictation machine in a nearby office happened to capture the sound of the plane as it hit the Empire State Building at the 79th floor.</itunes:subtitle>
+		<itunes:summary>On July 28, 1945 an Army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. A dictation machine in a nearby office happened to capture the sound of the plane as it hit the Empire State Building at the 79th floor.
+
+Fourteen people were killed. Debris from the plane severed the cables of an elevator, which fell 79 stories with a young woman inside. She survived. The crash prompted new legislation that – for the first time – gave citizens the right to sue the federal government. Listen to this story on the Radio Diaries Podcast.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Empire-State_sq-300x278.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>17:09</itunes:duration>
+	</item>
+		<item>
+		<title>#25: Miss Subways</title>
+		<link>http://radiodiaries.prx.org/25-miss-subways/</link>
+		<comments>http://radiodiaries.prx.org/25-miss-subways/#comments</comments>
+		<pubDate>Mon, 22 Dec 2014 08:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=190</guid>
+		<description><![CDATA[Beauty pageants promote the fantasy of the ideal woman. But for 35 years, one contest in New York City celebrated the everyday working girl. Each month starting in 1941, a young woman was elected “Miss Subways,” and her face gazed down on transit riders as they rode through the city. Her photo was accompanied by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Beauty pageants promote the fantasy of the ideal woman. But for 35 years, one contest in New York City celebrated the everyday working girl.</p>
+<p>Each month starting in 1941, a young woman was elected “Miss Subways,” and her face gazed down on transit riders as they rode through the city. Her photo was accompanied by a short bio describing her hopes, dreams and aspirations. The public got to choose the winners – so Miss Subway represented the perfect New York miss. She was also a barometer of changing times.</p>
+<p>Miss Subways was one of the first integrated beauty pageants in America. An African-American Miss Subways was selected in 1948 – more than thirty years before there was a black Miss America. By the 1950s there were Miss Subways who were black, Asian, Jewish, and Hispanic – the faces of New York’s female commuters. </p>
+<p>In this episode of the Radio Diaries Podcast, meet the Miss Subways.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/25-miss-subways/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Miss-Subways-Podcast.mp3" length="5047738" type="audio/mpeg" />
+		<itunes:subtitle>A beauty pageant, for the working girl.</itunes:subtitle>
+		<itunes:summary>Beauty pageants promote the fantasy of the ideal woman. But for 35 years, one contest in New York City celebrated the everyday working girl.
+
+Each month starting in 1941, a young woman was elected “Miss Subways,” and her face gazed down on transit riders as they rode through the city. Her photo was accompanied by a short bio describing her hopes, dreams and aspirations. The public got to choose the winners – so Miss Subway represented the perfect New York miss. She was also a barometer of changing times.
+
+Miss Subways was one of the first integrated beauty pageants in America. An African-American Miss Subways was selected in 1948 – more than thirty years before there was a black Miss America. By the 1950s there were Miss Subways who were black, Asian, Jewish, and Hispanic – the faces of New York’s female commuters. 
+
+In this podcast, meet the Miss Subways.</itunes:summary>
+		<itunes:author>Radio Diaries </itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/FREEMAN-1-obit-articleLarge-300x157.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>10:31</itunes:duration>
+	</item>
+		<item>
+		<title>#24: Last Man on the Mountain – Updated</title>
+		<link>http://radiodiaries.prx.org/24-last-man-on-the-mountain-updated/</link>
+		<comments>http://radiodiaries.prx.org/24-last-man-on-the-mountain-updated/#comments</comments>
+		<pubDate>Thu, 11 Dec 2014 07:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=185</guid>
+		<description><![CDATA[A few years ago, we produced a story about the greatest underdog we&#8217;d ever met: Jimmy Weekley. Jimmy was the last remaining resident of Pigeonroost Hollow, West Virginia. Jimmy spent most of the last two decades fighting one of the largest coal companies in the country in an attempt to save his hometown. He said [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few years ago, we produced a story about the greatest underdog we&#8217;d ever met: Jimmy Weekley.</p>
+<p>Jimmy was the last remaining resident of Pigeonroost Hollow, West Virginia. Jimmy spent most of the last two decades fighting one of the largest coal companies in the country in an attempt to save his hometown. He said he was born in Pigeonroost Hollow, and he planned to die there. This year, he did. He was 74. Today on the Radio Diaries Podcast, we&#8217;re remembering Jimmy Weekley, The Last Man on the Mountain.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/24-last-man-on-the-mountain-updated/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Jimmy-Weekley-Obit-Podcast.mp3" length="7308065" type="audio/mpeg" />
+		<itunes:subtitle>In West Virginia, people say that in the old days, communities turned into ghost towns when the coal ran out. Now, they turn into ghost towns when mountaintop mines move in.</itunes:subtitle>
+		<itunes:summary>A few years ago, we produced a story about the greatest underdog we'd ever met: Jimmy Weekley.
+ 
+Jimmy was the last remaining resident of Pigeonroost Hollow, West Virginia. Jimmy spent most of the last two decades fighting one of the largest coal companies in the country in an attempt to save his hometown. He said he was born in Pigeonroost Hollow, and he planned to die there. This year, he did. He was 74. Today on the Radio Diaries Podcast, we're remembering Jimmy Weekley, The Last Man on the Mountain.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Last-man_001_T.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>15:13</itunes:duration>
+	</item>
+		<item>
+		<title>#23: Busman’s Holiday</title>
+		<link>http://radiodiaries.prx.org/23-busmans-holiday/</link>
+		<comments>http://radiodiaries.prx.org/23-busmans-holiday/#comments</comments>
+		<pubDate>Thu, 13 Nov 2014 04:32:11 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=166</guid>
+		<description><![CDATA[The story of William Cimillo, a New York City bus driver who snapped one day in 1947, left his regular route in the Bronx, and drove his municipal bus down to Florida. ]]></description>
+				<content:encoded><![CDATA[<p>The story of William Cimillo, a New York City bus driver who snapped one day in 1947, left his regular route in the Bronx, and drove his municipal bus down to Florida.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/23-busmans-holiday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Episode-23-Busmans-Holiday.mp3" length="10680197" type="audio/mpeg" />
+		<itunes:subtitle>The story of William Cimillo, a New York City bus driver who snapped one day in 1947, left his regular route in the Bronx, and drove his municipal bus down to Florida.</itunes:subtitle>
+		<itunes:summary>The story of William Cimillo, a New York City bus driver who snapped one day in 1947, left his regular route in the Bronx, and drove his municipal bus down to Florida.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Cimillo-portrait-on-bus-230x300.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>17:48</itunes:duration>
+	</item>
+		<item>
+		<title>#22: Weasel’s Diary, Revisited</title>
+		<link>http://radiodiaries.prx.org/22-weasels-diary-revisited/</link>
+		<comments>http://radiodiaries.prx.org/22-weasels-diary-revisited/#comments</comments>
+		<pubDate>Fri, 07 Nov 2014 12:19:44 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=161</guid>
+		<description><![CDATA[Jose William Huezo Soriano - aka Weasel - is a 26-year-old Los Angeles resident who gets deported to his parents' home country of El Salvador, which he has not seen since the age of five. ]]></description>
+				<content:encoded><![CDATA[<p>Jose William Huezo Soriano &#8211; aka Weasel &#8211; is a 26-year-old Los Angeles resident who gets deported to his parents&#8217; home country of El Salvador, which he has not seen since the age of five. In this episode, you&#8217;ll hear Weasel&#8217;s original audio diary, as well as an update from Weasel in which he talks about his life over the past 15 years.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/22-weasels-diary-revisited/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Episode-22-Weasels-Diary-Revisited.mp3" length="22939338" type="audio/mpeg" />
+		<itunes:subtitle>Jose William Huezo Soriano - aka Weasel - is a 26-year-old Los Angeles resident who gets deported to his parents' home country of El Salvador, which he has not seen since the age of five.</itunes:subtitle>
+		<itunes:summary>Jose William Huezo Soriano - aka Weasel - is a 26-year-old Los Angeles resident who gets deported to his parents' home country of El Salvador, which he has not seen since the age of five. In this episode, you'll hear Weasel's original audio diary, as well as an update from Weasel in which he talks about his life over the past 15 years.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>31:51</itunes:duration>
+	</item>
+		<item>
+		<title>#21: When Ground Zero was Radio Row</title>
+		<link>http://radiodiaries.prx.org/21-radio-row-and-the-first-radio-revolution/</link>
+		<comments>http://radiodiaries.prx.org/21-radio-row-and-the-first-radio-revolution/#comments</comments>
+		<pubDate>Fri, 17 Oct 2014 20:10:01 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=154</guid>
+		<description><![CDATA["To invent ... you need a good imagination. And a pile of junk." - Thomas Edison.]]></description>
+				<content:encoded><![CDATA[<p>For more than four decades, the area around Cortlandt Street in lower Manhattan was the largest collection of radio and electronics stores in the world. Then in 1966 the stores were bulldozed to make way for the new World Trade Center.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/21-radio-row-and-the-first-radio-revolution/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Episode-21-When-Ground-Zero-Was-Radio-Row.mp3" length="10148505" type="audio/mpeg" />
+		<itunes:subtitle>For more than four decades, the area around Cortlandt Street in lower Manhattan was the largest collection of radio and electronics stores in the world.</itunes:subtitle>
+		<itunes:summary>For more than four decades, the area around Cortlandt Street in lower Manhattan was the largest collection of radio and electronics stores in the world. Then in 1966 the stores were bulldozed to make way for the new World Trade Center.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Radio-Row_001_L-300x138.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>14:06</itunes:duration>
+	</item>
+		<item>
+		<title>#20: When Borders Move</title>
+		<link>http://radiodiaries.prx.org/20-when-borders-move/</link>
+		<comments>http://radiodiaries.prx.org/20-when-borders-move/#comments</comments>
+		<pubDate>Mon, 06 Oct 2014 22:50:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=148</guid>
+		<description><![CDATA[What happens when, instead of people crossing the border, the border crosses the people?]]></description>
+				<content:encoded><![CDATA[<p>What happens when, instead of people crossing the border, the border crosses the people? In this episode of the Radio Diaries Podcast, two stories from the U.S.-Mexico border.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/20-when-borders-move/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Episode-20-When-Borders-Move.mp3" length="32938328" type="audio/mpeg" />
+		<itunes:subtitle>What happens when, instead of people crossing the border, the border crosses the people?</itunes:subtitle>
+		<itunes:summary>What happens when, instead of people crossing the border, the border crosses the people? In this episode of the Radio Diaries Podcast, two stories from the U.S.-Mexico border.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Aerial-1929_National-Park-Service-300x211.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>13:43</itunes:duration>
+	</item>
+		<item>
+		<title>#19: Working, Then and Now</title>
+		<link>http://radiodiaries.prx.org/19-working-then-and-now/</link>
+		<comments>http://radiodiaries.prx.org/19-working-then-and-now/#comments</comments>
+		<pubDate>Mon, 01 Sep 2014 16:21:53 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=139</guid>
+		<description><![CDATA[To celebrate the 40th anniversary of Studs Terkel's "Working," we bring you two of the lost interviews that never made it into the book: Helen Moog, a taxi driver and grandmother of five who happened to drive Studs to the Youngstown, OH airport; and Lovin' Al Pommier, a "car hiker."]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #000000;">In the early 1970s, radio host and oral historian Studs Terkel went around the country, tape recorder in hand, </span>interviewing people about their jobs. Studs collected more than 130 interviews, and the result was a book called &#8220;<em>Working: People Talk About What They Do All Day and How They Feel About What They Do.&#8221; </em>And &#8211; something unprecedented for an oral history collection &#8211; it became a bestseller. In this episode of The Radio Diaries Podcast, we bring you two<span style="color: #000000;"> of the lost interviews that never made it into the book: Helen Moog, a taxi driver and grandmother of five who happened to drive Studs to the Youngstown, OH airport; and </span>Lovin&#8217; Al Pommier, a &#8220;car hiker.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/19-working-then-and-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Episode-19-Working-Then-and-Now.mp3" length="29612144" type="audio/mpeg" />
+		<itunes:subtitle>To celebrate the 40th anniversary of Studs Terkel's "Working," we bring you two of the lost interviews that never made it into the book: Helen Moog, a taxi driver and grandmother of five who happened to drive Studs to the Youngstown,</itunes:subtitle>
+		<itunes:summary>In the early 1970s, radio host and oral historian Studs Terkel went around the country, tape recorder in hand, interviewing people about their jobs. Studs collected more than 130 interviews, and the result was a book called "Working: People Talk About What They Do All Day and How They Feel About What They Do." And - something unprecedented for an oral history collection - it became a bestseller. In this episode of The Radio Diaries Podcast, we bring you two of the lost interviews that never made it into the book: Helen Moog, a taxi driver and grandmother of five who happened to drive Studs to the Youngstown, OH airport; and Lovin' Al Pommier, a "car hiker."</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>12:20</itunes:duration>
+	</item>
+		<item>
+		<title>#18: Strange Fruit – Voices of a Lynching</title>
+		<link>http://radiodiaries.prx.org/18-strange-fruit-voices-of-a-lynching/</link>
+		<comments>http://radiodiaries.prx.org/18-strange-fruit-voices-of-a-lynching/#comments</comments>
+		<pubDate>Mon, 25 Aug 2014 21:27:40 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=134</guid>
+		<description><![CDATA[Strange Fruit: An eerie photograph, a famous song, and the man who lived to tell the story.]]></description>
+				<content:encoded><![CDATA[<p>The images coming out of Ferguson, MO this summer have reminded us of another upsetting image of race in America. It&#8217;s a photograph that was taken just a few hours from Ferguson, but eight decades ago&#8230;and it inspired the Billie Holiday song, Strange Fruit.</p>
+<p style="color: #333333;">Listen to our story (and be advised that it is disturbing.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/18-strange-fruit-voices-of-a-lynching/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Strange-Fruit-Podcast.mp3" length="7847434" type="audio/mpeg" />
+		<itunes:subtitle>An eerie photograph, a famous song, and the man who lived to tell the story.</itunes:subtitle>
+		<itunes:summary>The images coming out of Ferguson, MO this summer have reminded us of another upsetting image of race in America. It's a photograph that was taken just a few hours from Ferguson, but eight decades ago...and it inspired the Billie Holiday song, Strange Fruit.
+
+Listen to our story (and be advised that it is disturbing.)</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:21</itunes:duration>
+	</item>
+		<item>
+		<title>#17: The Gospel Ranger</title>
+		<link>http://radiodiaries.prx.org/17-the-gospel-ranger/</link>
+		<comments>http://radiodiaries.prx.org/17-the-gospel-ranger/#comments</comments>
+		<pubDate>Thu, 17 Jul 2014 23:19:31 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=126</guid>
+		<description><![CDATA[Outside the Appalachian mountains, his name was barely known. But Brother Claude Ely influenced some of the pioneers of rock &#038; roll. ]]></description>
+				<content:encoded><![CDATA[<p>This is the story of a song, &#8220;Ain’t No Grave Gonna Hold My Body Down,&#8221; written by a 12-year-old boy on his deathbed. A boy who &#8211; instead of dying &#8211; went on to become a Pentecostal preacher. A boy who would later help inspire the birth of Rock &amp; Roll. His name was Brother Claude Ely&#8230;and he was known as The Gospel Ranger.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/17-the-gospel-ranger/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Gospel-Podcast.mp3" length="7970305" type="audio/mpeg" />
+		<itunes:subtitle>Outside the Appalachian mountains, his name was barely known. But Brother Claude Ely influenced some of the pioneers of rock &amp; roll.</itunes:subtitle>
+		<itunes:summary>This is the story of a song, "Ain’t No Grave Gonna Hold My Body Down," written by a 12-year-old boy on his deathbed. A boy who - instead of dying - went on to become a Pentecostal preacher. A boy who would later help inspire the birth of Rock &amp; Roll. His name was Brother Claude Ely...and he was known as The Gospel Ranger.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Gospel-Ranger_013_SqL-copy.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:36</itunes:duration>
+	</item>
+		<item>
+		<title>#16: “Halfrican” Revisited</title>
+		<link>http://radiodiaries.prx.org/16-jeffs-teenage-diary-revisited/</link>
+		<comments>http://radiodiaries.prx.org/16-jeffs-teenage-diary-revisited/#comments</comments>
+		<pubDate>Mon, 23 Jun 2014 05:23:51 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=119</guid>
+		<description><![CDATA[When Jeff Rogers was 16 years old he started referring to  himself as a “halfrican.” Jeff has a black father and a white  mother. And like many teenagers, he was trying to figure out who he was.]]></description>
+				<content:encoded><![CDATA[<p>When Jeff Rogers was 16 years old he started referring to himself as a “halfrican.” Jeff has a black father and a white mother. And like many teenagers, he was trying to figure out who he was. We met Jeff back in 1998, and gave him a tape recorder so he could document his life for our Teenage Diaries series. We started thinking about Jeff when we produced our Teenage Diaries Revisited series last year for NPR. On today’s show, Jeff’s original teenage diary, plus…a conversation we recently had with him, more than 15 years later.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/16-jeffs-teenage-diary-revisited/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Episode-16-Halfrican-Revisited.mp3" length="13775370" type="audio/mpeg" />
+		<itunes:subtitle>When Jeff Rogers was 16 years old he started referring to  himself as a “halfrican.” Jeff has a black father and a white  mother. And like many teenagers, he was trying to figure out who he was.</itunes:subtitle>
+		<itunes:summary>When Jeff Rogers was 16 years old he started referring to  himself as a “halfrican.” Jeff has a black father and a white  mother. And like many teenagers, he was trying to figure out who he was. We met Jeff back in 1998, and gave him a tape recorder so he could document his life for our Teenage Diaries series. We started thinking about Jeff when we produced our Teenage Diaries Revisited series last year for NPR. On today’s show, Jeff’s original teenage diary, plus…a conversation we recently had with him, more than 15 years later.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>19:08</itunes:duration>
+	</item>
+		<item>
+		<title>#15: Walter the Seltzerman – It’s Not Easy Being Last</title>
+		<link>http://radiodiaries.prx.org/15-walter-the-seltzerman-its-not-easy-being-last/</link>
+		<comments>http://radiodiaries.prx.org/15-walter-the-seltzerman-its-not-easy-being-last/#comments</comments>
+		<pubDate>Mon, 02 Jun 2014 19:14:07 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=112</guid>
+		<description><![CDATA[Once there were thousands of seltzer men in New York City. Today, Walter Backerman is one of the last.]]></description>
+				<content:encoded><![CDATA[<p>Back in 1919, Walter Backerman’s grandfather delivered seltzer by horse and wagon on Manhattan’s Lower East Side. Today, Walter continues to deliver seltzer around the streets of New York. Some customers, like Mildred Blitz, have been on the family route for more than 50 years. When Walter’s grandfather drove his cart there were thousands of seltzer men in the city; today Walter is one of the last. </p>
+<p>Support our Kickstarter campaign! bit.ly/RDKickstarter</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/15-walter-the-seltzerman-its-not-easy-being-last/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Episode-15-Walter-the-Seltzerman-Its-Not-Easy-Being-Last.mp3" length="9065160" type="audio/mpeg" />
+		<itunes:subtitle>Once there were thousands of seltzer men in New York City. Today, Walter Backerman is one of the last.</itunes:subtitle>
+		<itunes:summary>Once there were thousands of seltzer men in New York City. Today, Walter Backerman is one of the last. Support our Kickstarter campaign! bit.ly/RDKickstarter</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/seltzerpic-300x189.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>12:35</itunes:duration>
+	</item>
+		<item>
+		<title>Video Podcast: Help Kickstart Our New Season</title>
+		<link>http://radiodiaries.prx.org/video-podcast-help-kickstart-our-new-season/</link>
+		<comments>http://radiodiaries.prx.org/video-podcast-help-kickstart-our-new-season/#comments</comments>
+		<pubDate>Wed, 28 May 2014 13:46:23 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=103</guid>
+		<description><![CDATA[Check out our Kickstarter video. (Ira Glass has a cameo!) If we reach our goal, we'll put out the Radio Diaries Podcast twice as often. Biweekly! bit.ly/RDKickstarter]]></description>
+				<content:encoded><![CDATA[<p>Check out our Kickstarter video. (Ira Glass has a cameo!) If we reach our goal, we will bring you a new season of Radio Diaries starting in September 2014. We’ll also be putting out the Radio Diaries Podcast twice as often. Biweekly! bit.ly/RDKickstarter</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/video-podcast-help-kickstart-our-new-season/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/kickstartervideopodcast.mp4" length="40629130" type="video/mp4" />
+		<itunes:subtitle>Check out our Kickstarter video. (Ira Glass has a cameo! ) If we reach our goal, we'll put out the Radio Diaries Podcast twice as often. Biweekly! bit.ly/RDKickstarter</itunes:subtitle>
+		<itunes:summary>Check out our Kickstarter video. (Ira Glass has a cameo...) If we reach our goal, we'll put out the Radio Diaries Podcast twice as often. Biweekly!</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>3:30</itunes:duration>
+	</item>
+		<item>
+		<title>#14: The Long Shadow of Forrest Carter</title>
+		<link>http://radiodiaries.prx.org/14-the-long-shadow-of-forrest-carter/</link>
+		<comments>http://radiodiaries.prx.org/14-the-long-shadow-of-forrest-carter/#comments</comments>
+		<pubDate>Mon, 12 May 2014 12:37:53 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[asa carter]]></category>
+		<category><![CDATA[documentary]]></category>
+		<category><![CDATA[education of little tree]]></category>
+		<category><![CDATA[george wallace]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[npr]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[radiotopia]]></category>
+		<category><![CDATA[south]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=95</guid>
+		<description><![CDATA[Asa Carter and Forrest Carter couldn't have been more different. But they shared a secret.]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #333333;">Asa Carter was a speechwriter for Alabama Governor George Wallace. He penned one of the most infamous speeches of the era… Wallace’s Segregation Now, Segregation Forever address. Forrest Carter was a Cherokee writer who grew up in Tennessee. His autobiography, The Education of Little Tree, is a beloved classic that has sold millions of copies around the world. But these two men shared a secret.</span></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/14-the-long-shadow-of-forrest-carter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/AsaPodcastFinal.mp3" length="8215023" type="audio/mpeg" />
+		<itunes:subtitle>Asa Carter and Forrest Carter couldn't have been more different. But they shared a secret.</itunes:subtitle>
+		<itunes:summary>Asa Carter was a speechwriter for Alabama Governor George Wallace. He penned one of the most infamous speeches of the era… Wallace’s Segregation Now, Segregation Forever address. Forrest Carter was a Cherokee writer who grew up in Tennessee. His autobiography, The Education of Little Tree, is a beloved classic that has sold millions of copies around the world. But these two men shared a secret.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/forrest-carter1-300x276.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>17:07</itunes:duration>
+	</item>
+		<item>
+		<title>#13: The Day Nelson Mandela Became Nelson Mandela</title>
+		<link>http://radiodiaries.prx.org/13-the-day-nelson-mandela-became-nelson-mandela/</link>
+		<comments>http://radiodiaries.prx.org/13-the-day-nelson-mandela-became-nelson-mandela/#comments</comments>
+		<pubDate>Sun, 20 Apr 2014 06:29:04 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[apartheid]]></category>
+		<category><![CDATA[documentary]]></category>
+		<category><![CDATA[freedom]]></category>
+		<category><![CDATA[nelson mandela]]></category>
+		<category><![CDATA[npr]]></category>
+		<category><![CDATA[race]]></category>
+		<category><![CDATA[racism]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[rivonia]]></category>
+		<category><![CDATA[south africa]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=91</guid>
+		<description><![CDATA[The moment Nelson Mandela really became Nelson Mandela was on April 20th, 1964 - fifty years ago today. It happened when he stood up in a stuffy South African courtroom and gave a speech.]]></description>
+				<content:encoded><![CDATA[<p>The moment Nelson Mandela really became Nelson Mandela was on April 20th, 1964 &#8211; fifty years ago today. It happened when he stood up in a stuffy South African courtroom and gave a speech.</p>
+<p>50 years is a long time. It&#8217;s long enough for things to become history.  Long enough that people start to be forgotten, stories get smoothed over, narratives get hardened in stone. That&#8217;s what happened this past December with the death of Nelson Mandela. His life story was written&#8230; in sharpie.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/13-the-day-nelson-mandela-became-nelson-mandela/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Rivonia-Podcast-Final.mp3" length="17598350" type="audio/mpeg" />
+		<itunes:subtitle>The moment Nelson Mandela really became Nelson Mandela was on April 20th, 1964 - fifty years ago today. It happened when he stood up in a stuffy South African courtroom and gave a speech.</itunes:subtitle>
+		<itunes:summary>The moment Nelson Mandela really became Nelson Mandela was on April 20th, 1964 - fifty years ago today. It happened when he stood up in a stuffy South African courtroom and gave a speech.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>18:20</itunes:duration>
+	</item>
+		<item>
+		<title>#12: Frankie’s Teenage Diary, Revisited</title>
+		<link>http://radiodiaries.prx.org/12-frankies-teenage-diary-revisited/</link>
+		<comments>http://radiodiaries.prx.org/12-frankies-teenage-diary-revisited/#comments</comments>
+		<pubDate>Thu, 20 Mar 2014 16:06:23 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[alabama]]></category>
+		<category><![CDATA[american]]></category>
+		<category><![CDATA[diary]]></category>
+		<category><![CDATA[documentary]]></category>
+		<category><![CDATA[drugs]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[meth]]></category>
+		<category><![CDATA[npr]]></category>
+		<category><![CDATA[redemption]]></category>
+		<category><![CDATA[south]]></category>
+		<category><![CDATA[teenage]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=78</guid>
+		<description><![CDATA["I went from being on the front page for football, representing my itty-bitty school, to being on the front page as a thief and a meth head." - Frankie Lewchuck, in Teenage Diaries Revisited]]></description>
+				<content:encoded><![CDATA[<p>As a teenager, Frankie Lewchuck recorded an audio diary about his family in rural Alabama. 16 years later, he recorded a follow up story for the Teenage Diaries Revisited series:</p>
+<p>&#8220;I went from being on the front page for football, representing my itty-bitty school, to being on the front page as a thief and a meth head.&#8221;</p>
+<p>A lot of life happens in 16 years.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/12-frankies-teenage-diary-revisited/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/frankie-revisited-podcast.mp3" length="14732270" type="audio/mpeg" />
+		<itunes:subtitle>"I went from being on the front page for football, representing my itty-bitty school, to being on the front page as a thief and a meth head." - Frankie Lewchuck</itunes:subtitle>
+		<itunes:summary>As a teenager, Frankie Lewchuck recorded an audio diary about his family in rural Alabama. 16 years later, he recorded a follow up story for the Teenage Diaries Revisited series:
+
+"I went from being on the front page for football, representing my itty-bitty school, to being on the front page as a thief and a meth head."
+
+A lot of life happens in 16 years.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/frankie-itunes-art-300x300.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>30:41</itunes:duration>
+	</item>
+		<item>
+		<title>#11: Willie McGee and the Traveling Electric Chair</title>
+		<link>http://radiodiaries.prx.org/11-willie-mcgee-and-the-traveling-electric-chair/</link>
+		<comments>http://radiodiaries.prx.org/11-willie-mcgee-and-the-traveling-electric-chair/#comments</comments>
+		<pubDate>Tue, 18 Feb 2014 20:05:40 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=71</guid>
+		<description><![CDATA[On the night of May 7th, 1951, in the small town of Laurel, Mississippi, close to a thousand people gathered around the courthouse. They came to witness an execution. Willie McGee was a young black man who had been accused of raping a white woman... and sentenced to death. Six decades later, Bridgette McGee teamed up with Radio Diaries to find the truth about what happened to her grandfather.]]></description>
+				<content:encoded><![CDATA[<p>On the night of May 7th, 1951, in the small town of Laurel, Mississippi, close to a thousand people gathered around the courthouse. They came to witness an execution. Willie McGee was a young black man who had been accused of raping a white woman&#8230; and sentenced to death. Six decades later, Bridgette McGee teamed up with Radio Diaries to find the truth about what happened to her grandfather.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/11-willie-mcgee-and-the-traveling-electric-chair/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/McGee-Podcast-Feb-2014.mp3" length="14211272" type="audio/mpeg" />
+		<itunes:subtitle>On the night of May 7th, 1951, in the small town of Laurel, Mississippi, close to a thousand people gathered around the courthouse. They came to witness an execution. Willie McGee was a young black man who had been accused of raping a white woman...</itunes:subtitle>
+		<itunes:summary>On the night of May 7th, 1951, in the small town of Laurel, Mississippi, close to a thousand people gathered around the courthouse. They came to witness an execution. Willie McGee was a young black man who had been accused of raping a white woman... and sentenced to death. Six decades later, Bridgette McGee teamed up with Radio Diaries to find the truth about what happened to her grandfather.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://cdn.radiodiaries.prx.org/wp-content/uploads/Bridgette-McGee.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>29:36</itunes:duration>
+	</item>
+		<item>
+		<title>#10: Teenage Diaries Revisited 1-Hour Special</title>
+		<link>http://radiodiaries.prx.org/teenage-diaries-revisited-1-hour-special/</link>
+		<comments>http://radiodiaries.prx.org/teenage-diaries-revisited-1-hour-special/#comments</comments>
+		<pubDate>Mon, 13 Jan 2014 10:59:06 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=6</guid>
+		<description><![CDATA[Back in the 1990s, Radio Diaries producer Joe Richman gave tape recorders to a handful of teens and asked them to report on their own lives. Now, 16 years later, Joe checks back in with them.]]></description>
+				<content:encoded><![CDATA[<p>Three stories from the Teenage Diaries Revisited series on NPR.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/teenage-diaries-revisited-1-hour-special/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/10-Teenage_Diaries_Revisited_1-Hour_Special.mp3" length="27263691" type="audio/mpeg" />
+		<itunes:subtitle>A lot of life happens in 16 years.</itunes:subtitle>
+		<itunes:summary>Back in the 1990s, Radio Diaries producer Joe Richman gave tape recorders to a handful of teens and asked them to report on their own lives. 16 years later, Joe checks back in with them.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://cdn.radiodiaries.prx.org/wp-content/uploads/juansquare-300x300.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>56:15</itunes:duration>
+	</item>
+		<item>
+		<title>#9: A Guitar, A Cello, and the Day that Changed Music</title>
+		<link>http://radiodiaries.prx.org/9-a-guitar-a-cello-and-the-day-that-changed-music/</link>
+		<comments>http://radiodiaries.prx.org/9-a-guitar-a-cello-and-the-day-that-changed-music/#comments</comments>
+		<pubDate>Fri, 20 Dec 2013 23:55:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=17</guid>
+		<description><![CDATA[What would it sound like if one of the world's greatest classical cellists, and the most legendary blues guitarist of all time...jammed together?]]></description>
+				<content:encoded><![CDATA[<p>What would it sound like if one of the world&#8217;s greatest classical cellists, and the most legendary blues guitarist of all time&#8230;jammed together?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/9-a-guitar-a-cello-and-the-day-that-changed-music/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/9-A_Guitar_A_Cello_and_the_Day_that_Changed_Music.mp3" length="7867824" type="audio/mpeg" />
+		<itunes:subtitle>What would it sound like if one of the world's greatest classical cellists, and the most legendary blues guitarist of all time...jammed together?</itunes:subtitle>
+		<itunes:summary>November 23, 1936 was a good day for recorded music. Two men – an ocean apart – sat before a microphone and began to play. One was a cello prodigy who had performed for the Queen of Spain; the other played guitar and was a regular in the juke joints of the Mississippi Delta.
+
+But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordings that would change music history.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>15:51</itunes:duration>
+	</item>
+		<item>
+		<title>#8: Mandela: An Audio History</title>
+		<link>http://radiodiaries.prx.org/8-mandela-an-audio-history/</link>
+		<comments>http://radiodiaries.prx.org/8-mandela-an-audio-history/#comments</comments>
+		<pubDate>Thu, 05 Dec 2013 18:56:50 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=24</guid>
+		<description><![CDATA[An award-winning radio series documenting the struggle against apartheid through intimate first-person accounts of Nelson Mandela himself, as well as those who fought with him, and against him. Hosted by Archbishop Desmond Tutu.]]></description>
+				<content:encoded><![CDATA[<p>An award-winning radio series documenting the struggle against apartheid through intimate first-person accounts of Nelson Mandela himself, as well as those who fought with him, and against him. Hosted by Archbishop Desmond Tutu.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/8-mandela-an-audio-history/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/8-Mandela_An_Audio_History.mp3" length="28342234" type="audio/mpeg" />
+		<itunes:subtitle>The struggle against apartheid, told by the people who lived it.</itunes:subtitle>
+		<itunes:summary>An award-winning radio series documenting the struggle against apartheid through intimate first-person accounts of Nelson Mandela himself, as well as those who fought with him, and against him. Hosted by Archbishop Desmond Tutu.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>58:30</itunes:duration>
+	</item>
+		<item>
+		<title>#7: The Last Man on the Mountain</title>
+		<link>http://radiodiaries.prx.org/7-the-last-man-on-the-mountain/</link>
+		<comments>http://radiodiaries.prx.org/7-the-last-man-on-the-mountain/#comments</comments>
+		<pubDate>Thu, 14 Nov 2013 23:59:35 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=28</guid>
+		<description><![CDATA[In the 1990s, Arch Coal began mountaintop removal mining in a corner of West Virginia called Pigeonroost Hollow. There used to be dozens of houses in the area, but now there is just one. It belongs to Jimmy Weekley.]]></description>
+				<content:encoded><![CDATA[<p>In the 1990s, Arch Coal began mountaintop removal mining in a corner of West Virginia called Pigeonroost Hollow. There used to be dozens of houses in the area, but now there is just one. It belongs to Jimmy Weekley.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/7-the-last-man-on-the-mountain/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/7-The_Last_Man_on_the_Mountain.mp3" length="7294383" type="audio/mpeg" />
+		<itunes:subtitle>A profile of the last man standing.</itunes:subtitle>
+		<itunes:summary>In the 1990s, Arch Coal began mountaintop removal mining in a corner of West Virginia called Pigeonroost Hollow. There used to be dozens of houses in the area, but now there is just one. It belongs to Jimmy Weekley.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>14:40</itunes:duration>
+	</item>
+		<item>
+		<title>#6: The View From the 79th Floor</title>
+		<link>http://radiodiaries.prx.org/6-the-view-from-the-79th-floor/</link>
+		<comments>http://radiodiaries.prx.org/6-the-view-from-the-79th-floor/#comments</comments>
+		<pubDate>Wed, 16 Oct 2013 00:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=31</guid>
+		<description><![CDATA[On July 28, 1945 an army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. Stories from the day a plane crashed into the Empire State Building.]]></description>
+				<content:encoded><![CDATA[<p>On July 28, 1945 an army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. Stories from the day a plane crashed into the Empire State Building.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/6-the-view-from-the-79th-floor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/6-The_View_From_the_79th_Floor.mp3" length="7194730" type="audio/mpeg" />
+		<itunes:subtitle>On July 28, 1945 an army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. Stories from the day a plane crashed into the Empire State Building.</itunes:subtitle>
+		<itunes:summary>On July 28, 1945 an army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. Stories from the day a plane crashed into the Empire State Building.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>14:28</itunes:duration>
+	</item>
+		<item>
+		<title>#5: Teenage Diaries Revisited: Juan</title>
+		<link>http://radiodiaries.prx.org/5-teenage-diaries-revisited-juan/</link>
+		<comments>http://radiodiaries.prx.org/5-teenage-diaries-revisited-juan/#comments</comments>
+		<pubDate>Mon, 19 Aug 2013 23:58:30 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=34</guid>
+		<description><![CDATA[16 years ago, Juan reported on his life as a recent Mexican immigrant living in poverty in Texas. In his new diary, Juan takes us on a tour of the life he has built since he first crossed the Rio Grande. It looks a lot like the typical American dream: a house, 2 cars, 3 kids—except for the fact he’s still living illegally in the U.S. In this podcast, listen to Juan's diaries as well as a conversation about the recording process with producer Joe Richman.]]></description>
+				<content:encoded><![CDATA[<p>16 years ago, Juan reported on his life as a recent Mexican immigrant living in poverty in Texas. In his new diary, Juan takes us on a tour of the life he has built since he first crossed the Rio Grande. It looks a lot like the typical American dream: a house, 2 cars, 3 kids—except for the fact he’s still living illegally in the U.S. In this podcast, listen to Juan&#8217;s diaries as well as a conversation about the recording process with producer Joe Richman.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/5-teenage-diaries-revisited-juan/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/5-Teenage_Diaries_Revisited_Juan.mp3" length="14063076" type="audio/mpeg" />
+		<itunes:subtitle>16 years ago, Juan reported on his life as a recent Mexican immigrant living in poverty in Texas. In his new diary, Juan takes us on a tour of the life he has built since he first crossed the Rio Grande.</itunes:subtitle>
+		<itunes:summary>16 years ago, Juan reported on his life as a recent Mexican immigrant living in poverty in Texas. In his new diary, Juan takes us on a tour of the life he has built since he first crossed the Rio Grande. It looks a lot like the typical American dream: a house, 2 cars, 3 kids—except for the fact he’s still living illegally in the U.S. In this podcast, listen to Juan's diaries as well as a conversation about the recording process with producer Joe Richman.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>28:45</itunes:duration>
+	</item>
+		<item>
+		<title>#4: Burma ’88: Buried History</title>
+		<link>http://radiodiaries.prx.org/4-burma-88-buried-history/</link>
+		<comments>http://radiodiaries.prx.org/4-burma-88-buried-history/#comments</comments>
+		<pubDate>Thu, 08 Aug 2013 08:08:06 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=38</guid>
+		<description><![CDATA[25 years ago, university students in Burma sparked a countrywide uprising. They called for a nationwide strike on 8/8/88, a date they chose for its numerological power. ]]></description>
+				<content:encoded><![CDATA[<p>25 years ago, university students in Burma sparked a countrywide uprising. They called for a nationwide strike on 8/8/88, a date they chose for its numerological power.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/4-burma-88-buried-history/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/4-Burma_88_Buried_History.mp3" length="6554376" type="audio/mpeg" />
+		<itunes:subtitle>25 years ago, university students in Burma sparked a countrywide uprising. They called for a nationwide strike on 8/8/88, a date they chose for its numerological power.</itunes:subtitle>
+		<itunes:summary>25 years ago, university students in Burma sparked a countrywide uprising. They called for a nationwide strike on 8/8/88, a date they chose for its numerological power.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>13:11</itunes:duration>
+	</item>
+		<item>
+		<title>#3: Teenage Diaries Revisited: Melissa</title>
+		<link>http://radiodiaries.prx.org/3-teenage-diaries-revisited-melissa/</link>
+		<comments>http://radiodiaries.prx.org/3-teenage-diaries-revisited-melissa/#comments</comments>
+		<pubDate>Wed, 12 Jun 2013 00:19:20 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=41</guid>
+		<description><![CDATA[As an 18-year-old raised in the foster care system, Melissa took NPR listeners along when she gave birth to her son Isaaiah. Over the past 16 years Melissa and her son have faced many challenges, from eviction notices to her son’s life-threatening medical diagnosis. In this podcast episode, listen to Melissa's Teenage Diary and her new 'grown-up' diary from Teenage Diaries Revisited. Plus, Joe interviews Melissa about the process of documenting her life over the years.]]></description>
+				<content:encoded><![CDATA[<p>As an 18-year-old raised in the foster care system, Melissa took NPR listeners along when she gave birth to her son Issaiah. Over the past 16 years Melissa and her son have faced many challenges, from eviction notices to her son’s life-threatening medical diagnosis. In this podcast episode, listen to Melissa&#8217;s Teenage Diary and her new &#8216;grown-up&#8217; diary from Teenage Diaries Revisited. Plus, Joe interviews Melissa about the process of documenting her life over the years.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/3-teenage-diaries-revisited-melissa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/3-Teenage_Diaries_Revisited_Melissa.mp3" length="19438851" type="audio/mpeg" />
+		<itunes:subtitle>Melissa's Teenage Diary and her new 'grown-up' diary from Teenage Diaries Revisited.</itunes:subtitle>
+		<itunes:summary>As an 18-year-old raised in the foster care system, Melissa took NPR listeners along when she gave birth to her son Issaiah. Over the past 16 years Melissa and her son have faced many challenges, from eviction notices to her son’s life-threatening medical diagnosis. In this podcast episode, listen to Melissa's Teenage Diary and her new 'grown-up' diary from Teenage Diaries Revisited. Plus, Joe interviews Melissa about the process of documenting her life over the years.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>40:01</itunes:duration>
+	</item>
+		<item>
+		<title>#2: Teenage Diaries Revisited: Josh</title>
+		<link>http://radiodiaries.prx.org/2-teenage-diaries-revisited-josh/</link>
+		<comments>http://radiodiaries.prx.org/2-teenage-diaries-revisited-josh/#comments</comments>
+		<pubDate>Thu, 30 May 2013 00:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=44</guid>
+		<description><![CDATA[In high school, Josh documented his life with Tourette’s Syndrome, a neurological disorder that causes uncontrollable tics and involuntary verbal outbursts. Today, Josh has overcome Tourette’s enough to become a NYC public school teacher, but not enough to remain one. In this episode, listen to Josh’s audio diaries about trying to live a normal life with a brain that often betrays him. Plus, an interview between Josh and Radio Diaries producer Joe Richman.]]></description>
+				<content:encoded><![CDATA[<p>In high school, Josh documented his life with Tourette’s Syndrome, a neurological disorder that causes uncontrollable tics and involuntary verbal outbursts. Today, Josh has overcome Tourette’s enough to become a NYC public school teacher, but not enough to remain one. In this episode, listen to Josh’s audio diaries about trying to live a normal life with a brain that often betrays him. Plus, an interview between Josh and Radio Diaries producer Joe Richman.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/2-teenage-diaries-revisited-josh/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/2-Teenage_Diaries_Revisited_Josh.mp3" length="19525652" type="audio/mpeg" />
+		<itunes:subtitle>Josh’s audio diaries about trying to live a normal life with a brain that often betrays him.</itunes:subtitle>
+		<itunes:summary>In high school, Josh documented his life with Tourette’s Syndrome, a neurological disorder that causes uncontrollable tics and involuntary verbal outbursts. Today, Josh has overcome Tourette’s enough to become a NYC public school teacher, but not enough to remain one. In this episode, listen to Josh’s audio diaries about trying to live a normal life with a brain that often betrays him. Plus, an interview between Josh and Radio Diaries producer Joe Richman.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>40:12</itunes:duration>
+	</item>
+		<item>
+		<title>#1: Teenage Diaries Revisited: Amanda</title>
+		<link>http://radiodiaries.prx.org/1-teenage-diaries-revisited-amanda/</link>
+		<comments>http://radiodiaries.prx.org/1-teenage-diaries-revisited-amanda/#comments</comments>
+		<pubDate>Fri, 17 May 2013 00:44:59 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=47</guid>
+		<description><![CDATA[At the age of 17, Amanda knew she was gay. But her parents kept insisting she’d grow out of it. Today, a lot has changed in the country, and within her own family. 16 years later, Amanda goes back to her parents to find out how they came to accept having a daughter who is gay.]]></description>
+				<content:encoded><![CDATA[<p>At the age of 17, Amanda knew she was gay. But her parents kept insisting she’d grow out of it. Today, a lot has changed in the country, and within her own family. 16 years later, Amanda goes back to her parents to find out how they came to accept having a daughter who is gay.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/1-teenage-diaries-revisited-amanda/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/1-Teenage_Diaries_Revisited_Amanda.mp3" length="8647426" type="audio/mpeg" />
+		<itunes:subtitle>16 years after her Teenage Diary, Amanda goes back to her parents to find out how they came to accept having a daughter who is gay.</itunes:subtitle>
+		<itunes:summary>At the age of 17, Amanda knew she was gay. But her parents kept insisting she’d grow out of it. Today, a lot has changed in the country, and within her own family. 16 years later, Amanda goes back to her parents to find out how they came to accept having a daughter who is gay.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>17:32</itunes:duration>
+	</item>
+	</channel>
+</rss>

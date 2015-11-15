@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- name="generator" content="sil php code" -->
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>LugRadio (high-quality mp3)</title>
+<link>http://www.lugradio.org/episodes.rss</link>
+<atom:link href="http://www.lugradio.org/episodes.rss" rel="self" type="application/rss+xml" />
+<description>The world's premiere Linux and Free Software radio 
+show</description>
+<language>en</language>
+<copyright>LUGRadio is released under a Creative Commons Attribution
+NonCommercial NoDerivs licence.</copyright>
+<managingEditor>show@lugradio.org (LugRadio)</managingEditor>
+<webMaster>show@lugradio.org (LugRadio)</webMaster>
+<image>  
+  <url>http://audio.lugradio.org/art_200x200.jpg</url>
+  <title>LugRadio (high-quality mp3)</title>
+  <link>http://www.lugradio.org/episodes.rss</link>
+</image>
+<media:thumbnail url="http://audio.lugradio.org/art_200x200.jpg" />
+<itunes:image href="http://audio.lugradio.org/art_256x256.jpg" />
+<itunes:owner>
+  <itunes:name>LugRadio</itunes:name>
+  <itunes:email>show@lugradio.org</itunes:email>
+</itunes:owner>
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:category text="Technology" />
+<lastBuildDate>Sat, 14 Nov 2015 06:34:01 GMT</lastBuildDate>
+<item>
+    <title>Adam's Lumpen Potato Adventure</title>
+    <link>http://www.lugradio.org/episodes/108</link>
+    <description>
+     Jono Bacon, Stuart Langridge, Chris Procter, Adam Sweet, and Ade Bradshaw get back together after a three year hiatus for a 2011 LugRadio reunion show! Featuring:  &lt;ul&gt;   &lt;li&gt;Social networking: what&#039;s identi.ca&#039;s place in    the new world order? Is it free-software-specific, and   is that a good thing or not? (1.40)&lt;/li&gt;   &lt;li&gt;The Devil&#039;s Drink: a quiz with an unpleasant forfeit for   getting questions wrong, and which could be construed as a way   to make Adam&#039;s life miserable, for which see below (15.45)&lt;/li&gt;   &lt;li&gt;LibreOffice, OpenOffice, and Oracle: what does it mean that   there are now two competing suites, and where do we go from    here? (29.50)&lt;/li&gt;   &lt;li&gt;In season 2 &lt;a href=&quot;http://lugradio.org/episodes/16&quot;&gt;we    talked about viruses on Linux&lt;/a&gt; and whether they were a problem.    Seven years later, we revisit the situation in the light of the rise   of Macintosh viruses and say: are we still right to be smugly safe?    (44.10)&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;This video, and specifically The Devil&#039;s Drink, has an accompanying video which shows how Jono and Stuart deliberately stitched up Adam, the poor soul. See &lt;a href=&quot;http://www.youtube.com/watch?v=H-ZEE_Lz6e0&quot;&gt;http://www.youtube.com/watch?v=H-ZEE_Lz6e0&lt;/a&gt; for the full story, and once again superb applause for Adam for taking it like the hero he is!&lt;/p&gt;  &lt;p&gt;That&#039;s it for our 2011 reunion show: we&#039;ll see you in a  couple of years, probably&amp;hellip;&lt;/p&gt; 
+    <!-- <a href="http://odeo.com/claim/feed/e1410243441e8c8a" >My Odeo 
+Channel</a> -->
+    </description>
+    <pubDate>Thu, 07 Jul 2011 00:00:00 GMT</pubDate>
+    <guid>http://www.lugradio.org/episodes/108</guid>
+    <enclosure 
+url="http://audio.lugradio.org/season6/ep1/lugradio-s06e01-110711-high.mp3" 
+type="audio/mpeg" length="63381965" />
+</item>
+<item>
+    <title>LugRadio Live and Unleashed 2009</title>
+    <link>http://www.lugradio.org/episodes/107</link>
+    <description>
+     Jono Bacon, Stuart Langridge, Chris Procter, and Adam Sweet in the last ever LugRadio show, from LugRadio Live 2009. Featuring all the previous LugRadio presenters, a wall behind the presenters with abusive Twitter commentary, Jono in a raccoon suit, over a year&#039;s delay before the release of this episode, sterling work from Tony Whitmore in getting it all done, and:  &lt;ul&gt;   &lt;li&gt;LugRadio Live: we&#039;re not doing it next year!&lt;/li&gt;   &lt;li&gt;Oracle buy Sun, which bought MySQL: what does this mean for the most popular open-source database?&lt;/li&gt;   &lt;li&gt;The two LugRadio Live banners, one signed by every attendee of LugRadio Live 2009 and given to MrBen as Community Hero Emeritus, and one signed by the presenters auctioned for ORG and won by Andy  Standford-Clark (and see below if you wish it had been you!)&lt;/li&gt;   &lt;li&gt;What&#039;s happened since the very first LugRadio in 2004? A look at the news of yesteryear to see what&#039;s changed in the last five years, and why nothing seems to have changed: have we made any progress?&lt;/li&gt;   &lt;li&gt;What should open source conferences in the UK be like? LRL is over, but should there be other conferences like LRL?&lt;/li&gt;  &lt;li&gt;Big thanks to people who made LugRadio and all the LugRadio Lives  happen; &lt;a href=&quot;http://www.bytemark.co.uk/index&quot;&gt;Bytemark&lt;/a&gt;,  &lt;a href=&quot;http://microsoft.com&quot;&gt;Microsoft&lt;/a&gt;, Mike Evans at MSE Design (grab him for all your graphic design needs!), Intellidata (and specifically Ron Wellsted, who did loads for LugRadio), System76, and Linux Magazine. The furthest travelled to LugRadio Live 2009: from New York!&lt;/li&gt;   &lt;li&gt; &lt;/ul&gt;  &lt;p&gt;Andy Stanford-Clark, who won the banner signed by all 7 presenters, has decided to auction it to generate more money for ORG, especially as there are people who weren&#039;t able to make LRL2009. Please take a look at his  auction and give generously! &lt;a href=&quot; http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&amp;item=170556211884&amp;ssPageName=STRK:MESELX:IT&quot;&gt;See the eBay auction here&lt;/a&gt;!&lt;/p&gt;  &lt;p&gt;Watch the official video! Available for download in Ogg Theora,  WMV, and mp4 formats from &lt;a href=&quot;http://www.archive.org/details/Lugradio_Live_and_Unleashed_2009&quot;&gt;archive.org&lt;/a&gt;, and you can watch the video directly at  &lt;a href=&quot;http://lugradio.blip.tv/file/4284408/&quot;&gt;blip.tv&lt;/a&gt;!&lt;/p&gt;  
+    <!-- <a href="http://odeo.com/claim/feed/e1410243441e8c8a" >My Odeo 
+Channel</a> -->
+    </description>
+    <pubDate>Sat, 24 Oct 2009 00:00:00 GMT</pubDate>
+    <guid>http://www.lugradio.org/episodes/107</guid>
+    <enclosure 
+url="http://audio.lugradio.org/season5/ep24/lugradio-s05e24-high.mp3" 
+type="audio/mpeg" length="70129248" />
+</item>
+<item>
+    <title>LugRadio Live and Unleashed 2008</title>
+    <link>http://www.lugradio.org/episodes/106</link>
+    <description>
+     Jono Bacon, Stuart Langridge, Chris Procter, and Adam Sweet get up on stage at LugRadio Live UK 2008 and talk about various things:  &lt;ul&gt;   &lt;li&gt;LugRadio Live: let&#039;s do it next year!&lt;/li&gt;   &lt;li&gt;What will we be talking about a year from now? What&#039;s going to go  on in the free software world between now and LugRadio Live 2009?&lt;/li&gt;   &lt;li&gt;OpenStreetMap: the OSM team take the opportunity to answer some questions about the project&lt;/li&gt;   &lt;li&gt;Has all the fun gone out of open source? Now that half the people hacking on code are paid for it, and we have to think about corporate governance and trademarks and patents and PR and commercial viability, is what we do as much fun now as it was then?&lt;/li&gt;   &lt;li&gt;Four years of LugRadio: the attendees tell us what they&#039;ve liked about the show since the beginning&lt;/li&gt;   &lt;li&gt;A few prizes: congratulations especially to our new LugRadio Community Hero&lt;/li&gt; &lt;/ul&gt;  &lt;p&gt;Video of LugRadio Live and Unleashed is forthcoming: keep your eyes open for it, because it&#039;ll be brilliant!&lt;/p&gt;  &lt;p&gt;Thanks all for coming: we&#039;ll see you next year!&lt;/p&gt;  
+    <!-- <a href="http://odeo.com/claim/feed/e1410243441e8c8a" >My Odeo 
+Channel</a> -->
+    </description>
+    <pubDate>Sat, 19 Jul 2008 00:00:00 GMT</pubDate>
+    <guid>http://www.lugradio.org/episodes/106</guid>
+    <enclosure 
+url="http://audio.lugradio.org/season5/ep23/lugradio-s05e23-080908-high.mp3" 
+type="audio/mpeg" length="76938471" />
+</item>
+<item>
+    <title>I'll state my case</title>
+    <link>http://www.lugradio.org/episodes/105</link>
+    <description>
+     Jono Bacon, Stuart Langridge, Chris Procter, and Adam Sweet talk about Linux, open source, and all manner of associated things. In this, the last ordinary LugRadio show, we&#039;re talking about:  &lt;ul&gt;   &lt;li&gt;Why don&#039;t pundits fuck off? Are we pundits? Why don&#039;t we fuck off?  Including free bonus Aq vs. Jono arguing, as if you couldn&#039;t see that coming (4.52)   [&lt;a href=&quot;http://forums.lugradio.org/viewtopic.php?f=1&amp;t=4246&quot;&gt;Discuss in the LugRadio forums&lt;/a&gt;]   &lt;/li&gt;   &lt;li&gt;&lt;a href=&quot;http://twitter.com&quot;&gt;twitter&lt;/a&gt; - the microblogging site. Why  do people care? What&#039;s good about it? Is it Web 2.0 micro-cack or is it the  New World Order? Our thoug (27.33)   [&lt;a href=&quot;http://forums.lugradio.org/viewtopic.php?f=1&amp;t=4247&quot;&gt;Discuss in the LugRadio forums&lt;/a&gt;]   &lt;/li&gt;   &lt;li&gt;The internet makes access to &quot;public&quot; information hugely easy. This is normally a good thing, but there have been some well-publicised cases where this new lack of secrecy has caused some upset. Our thoughts on responsibility and the nature of public but sensitive data (44.10)   [&lt;a href=&quot;http://forums.lugradio.org/viewtopic.php?f=1&amp;t=4248&quot;&gt;Discuss in the LugRadio forums&lt;/a&gt;]   &lt;/li&gt;   &lt;li&gt;Your emails, for the last time. Thank you all for the deluge of emails we received wishing that we weren&#039;t going to end the show and offering suggestions for how LugRadio could continue -- we&#039;d need a whole other show to read them all out, but we read them all and we&#039;re really touched. Also, the nature of contribution to open source, and &quot;best practice management&quot; where good IT is replaced by slavish adherence to existing brands (62.15)   &lt;/li&gt;   &lt;li&gt;&lt;a href=&quot;http://lugradio.org/live&quot;&gt;LugRadio Live&lt;/a&gt; is this weekend! The last ever chance to hear the LugRadio team&#039;s particular brand of lies and commentary. In addition, there are thirty speakers, a great exhibition, parties, your 5-minute talks on stage in the Gong-a-Thong (send us your talks!) and lots more. We&#039;ll see you all this weekend! (83.35)   &lt;/li&gt; &lt;/ul&gt;   
+    <!-- <a href="http://odeo.com/claim/feed/e1410243441e8c8a" >My Odeo 
+Channel</a> -->
+    </description>
+    <pubDate>Mon, 14 Jul 2008 00:00:00 GMT</pubDate>
+    <guid>http://www.lugradio.org/episodes/105</guid>
+    <enclosure 
+url="http://audio.lugradio.org/season5/ep22/lugradio-s05e22-140708-high.mp3" 
+type="audio/mpeg" length="91436221" />
+</item>
+<item>
+    <title>More on that later</title>
+    <link>http://www.lugradio.org/episodes/104</link>
+    <description>
+     Jono Bacon, Stuart Langridge, Chris Procter, and Adam Sweet talk about Linux, open source, and all manner of associated things. In this show we&#039;re talking about:  &lt;ul&gt;   &lt;li&gt;Starting out on your own: if you&#039;re thinking of setting up your own company working with technology or the web or open source, what do you need to do to make it successful? Is it possible to compete in the market as a one-man show? Is it just too risky? (1.19)  &lt;a href=&quot;http://forums.lugradio.org/viewtopic.php?f=1&amp;t=4214&quot;&gt;[How  can you make money running your own company? Tell us in the LugRadio forums]&lt;/a&gt;&lt;/li&gt;   &lt;li&gt;The State Of the Mozilla: Firefox is the poster child for open source software, but are they forgetting their open-source  base and not supporting the free desktop? There have been lots of accusations of this -- is it actually the truth? Secondly, Mozilla&#039;s rendering engine, Gecko, seems to be losing the war for being an embedded engine to WebKit. Are people heading away from Mozilla&#039;s technology? (20.00) [&lt;a href=&quot;http://forums.lugradio.org/viewtopic.php?f=1&amp;t=4215&quot;&gt;What  do you think of the Mozilla project&#039;s approach? Tell us in the LugRadio forums&lt;/a&gt;]&lt;/li&gt;   &lt;li&gt;We announce that LugRadio will end at LugRadio Live UK this July, and talk about why the show&#039;s going out on a high. Tell us what you think: &lt;a href=&quot;http://www.lugradio.org/contact&quot;&gt;send us email&lt;/a&gt; or &lt;a href=&quot;http://forums.lugradio.org/viewtopic.php?f=1&amp;t=4216&quot;&gt;post on the forums&lt;/a&gt; (37.15)&lt;/li&gt;   &lt;li&gt;If you could fix any problem in the open-source world what would it be? Thoughts on usability, modularisation, the web, and shared user accounts (44.15)&lt;/li&gt;   &lt;li&gt;Your emails -- this week you&#039;re talking about McGyver, gun control, power metal, freedom hatred at the FSF, other Linux  podcasts that we think that you should be listening to, and &lt;a href=&quot;http://www.lugradio.org/live/UK2008/&quot;&gt;LugRadio Live UK&lt;/a&gt; which is in less than a month! (73.40)&lt;/li&gt; &lt;/ul&gt;   
+    <!-- <a href="http://odeo.com/claim/feed/e1410243441e8c8a" >My Odeo 
+Channel</a> -->
+    </description>
+    <pubDate>Mon, 30 Jun 2008 00:00:00 GMT</pubDate>
+    <guid>http://www.lugradio.org/episodes/104</guid>
+    <enclosure 
+url="http://audio.lugradio.org/season5/ep21/lugradio-s05e21-300608-high.mp3" 
+type="audio/mpeg" length="91061312" />
+</item>
+   </channel>
+</rss>

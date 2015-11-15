@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.pray-as-you-go.org/mp3/rss.xml"/>
+		<itunes:new-feed-url>http://www.pray-as-you-go.org/podcast_en.xml</itunes:new-feed-url>
+		<lastBuildDate>
+			<!-- ###BUILDDATE## -->
+			<!-- ###BUILDDATE## -->
+		</lastBuildDate>
+		<itunes:block>
+			no
+		</itunes:block>
+		<title>pray-as-you-go</title>
+		<itunes:author>
+			Jesuit Media Initiatives
+		</itunes:author>
+		<link>
+		http://www.pray-as-you-go.org</link>
+		<generator>
+			Jesuit Media Initiatives
+		</generator>
+		<managingEditor>
+			jmi@jesuits.org.uk (pray-as-you-go team)
+		</managingEditor>
+		<webMaster>
+			jmi@jesuits.org.uk
+		</webMaster>
+		<description>
+			<![CDATA[
+			Pray-as-you-go brings together music, a passage of scripture and a few questions for personal reflection in a new 10-13 minute prayer session every day. Produced by the British Jesuits.
+			]]>
+		</description>
+		<itunes:subtitle>
+			Daily prayer for your MP3 player
+		</itunes:subtitle>
+		<itunes:summary>
+			Pray-as-you-go brings together music, a passage of scripture and a few questions for personal reflection in a new 10-13 minute prayer session every day. Produced by the British Jesuits.
+		</itunes:summary>
+		<language>
+			en-en
+		</language>
+		<copyright>
+			© 2006 Jesuit Media Initiatives
+		</copyright>
+		<itunes:owner>
+			<itunes:name>
+				Jesuit Media Initiatives
+			</itunes:name>
+			<itunes:email>
+				jmi@jesuits.org.uk
+			</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://www.pray-as-you-go.org/fileadmin/en_payg_gfx/itunes_logo.jpg"/>
+		<category>
+			Christianity
+		</category>
+		<itunes:category text="Religion &amp; Spirituality">
+			<itunes:category text="Spirituality"/>
+			<itunes:category text="Christianity"/>
+		</itunes:category>
+		<category>
+			Education
+		</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training"/>
+		</itunes:category>
+		<itunes:keywords>
+			pray-as-you-go, pray, as, you, go, podcast, prayer, spirituality, Jesuit, Ignatian, scripture, meditation, bible, contemplation, God, Jesus, Holy Spirit, sacred, music, commuter, commute, reflection
+		</itunes:keywords>
+		<itunes:explicit>
+			clean
+		</itunes:explicit>
+		
+		<item>
+			<title> - 24 november</title>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>
+				Christ the King, Luke 23:35-43
+			</itunes:summary>
+			<description>
+				<![CDATA[
+				Christ the King, Luke 23:35-43
+				]]>
+			</description>
+			<pubDate>
+				Sun, 24 Nov 2013 00:00:00 +0000
+			</pubDate>
+			<enclosure url="http://cdneu.modlitwawdrodze.pl/prayers/PAYG_20131124.mp3" length="0" type="audio/mpeg" />
+			<guid isPermaLink="true">
+				http://cdneu.modlitwawdrodze.pl/prayers/PAYG_20131124.mp3
+			</guid>
+			<itunes:author>
+				Modlitwa w drodze
+			</itunes:author>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				0
+			</itunes:duration>
+		</item>
+		
+		<item>
+			<title>Monday - 25 november</title>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>
+				, Daniel 3:52-56
+			</itunes:summary>
+			<description>
+				<![CDATA[
+				, Daniel 3:52-56
+				]]>
+			</description>
+			<pubDate>
+				Mon, 25 Nov 2013 00:00:00 +0000
+			</pubDate>
+			<enclosure url="http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131125.mp3" length="0" type="audio/mpeg" />
+			<guid isPermaLink="true">
+				http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131125.mp3
+			</guid>
+			<itunes:author>
+				Modlitwa w drodze
+			</itunes:author>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				0
+			</itunes:duration>
+		</item>
+		
+		<item>
+			<title>Tuesday - 26 november</title>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>
+				, Luke 21:5-11
+			</itunes:summary>
+			<description>
+				<![CDATA[
+				, Luke 21:5-11
+				]]>
+			</description>
+			<pubDate>
+				Tue, 26 Nov 2013 00:00:00 +0000
+			</pubDate>
+			<enclosure url="http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131126.mp3" length="0" type="audio/mpeg" />
+			<guid isPermaLink="true">
+				http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131126.mp3
+			</guid>
+			<itunes:author>
+				Modlitwa w drodze
+			</itunes:author>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				0
+			</itunes:duration>
+		</item>
+		
+		<item>
+			<title>Wednesday - 27 november</title>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>
+				, Luke 21:12-19
+			</itunes:summary>
+			<description>
+				<![CDATA[
+				, Luke 21:12-19
+				]]>
+			</description>
+			<pubDate>
+				Wed, 27 Nov 2013 00:00:00 +0000
+			</pubDate>
+			<enclosure url="http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131127.mp3" length="0" type="audio/mpeg" />
+			<guid isPermaLink="true">
+				http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131127.mp3
+			</guid>
+			<itunes:author>
+				Modlitwa w drodze
+			</itunes:author>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				0
+			</itunes:duration>
+		</item>
+		
+		<item>
+			<title>Thursday - 28 november</title>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>
+				, Daniel 6:16-23
+			</itunes:summary>
+			<description>
+				<![CDATA[
+				, Daniel 6:16-23
+				]]>
+			</description>
+			<pubDate>
+				Thu, 28 Nov 2013 00:00:00 +0000
+			</pubDate>
+			<enclosure url="http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131128.mp3" length="0" type="audio/mpeg" />
+			<guid isPermaLink="true">
+				http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131128.mp3
+			</guid>
+			<itunes:author>
+				Modlitwa w drodze
+			</itunes:author>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				0
+			</itunes:duration>
+		</item>
+		
+		<item>
+			<title>Friday - 29 november</title>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>
+				, Luke 21:29-33
+			</itunes:summary>
+			<description>
+				<![CDATA[
+				, Luke 21:29-33
+				]]>
+			</description>
+			<pubDate>
+				Fri, 29 Nov 2013 00:00:00 +0000
+			</pubDate>
+			<enclosure url="http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131129.mp3" length="0" type="audio/mpeg" />
+			<guid isPermaLink="true">
+				http://cdneu.modlitwawdrodze.pl/prayers/PAYG_131129.mp3
+			</guid>
+			<itunes:author>
+				Modlitwa w drodze
+			</itunes:author>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				0
+			</itunes:duration>
+		</item>
+		
+	</channel>
+</rss>

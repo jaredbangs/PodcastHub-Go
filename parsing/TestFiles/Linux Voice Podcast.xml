@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xml:lang='en-GB'>
+
+<channel>
+<title>Linux Voice Podcast</title>
+<link>http://www.linuxvoice.com/podcast_ogg.rss</link>
+<atom:link href="http://www.linuxvoice.com/podcast_ogg.rss" rel="self" type="application/rss+xml"/>
+<language>en</language>
+<copyright>Released under the Creative Commons Attribution-Share Alike 3.0 Unported Licence</copyright>
+<description>Linux chat and banter</description>
+<image>
+<url>http://www.linuxvoice.com/wp-content/uploads/2013/11/LinuxVoiceAPP_RED.png</url>
+<title>Linux Voice Podcast</title>
+<link>http://www.linuxvoice.com/podcast_ogg.rss</link>
+</image>
+<media:thumbnail url="http://www.linuxvoice.com/wp-content/uploads/2013/11/LinuxVoiceAPP_RED.png" />
+<itunes:author>linuxvoice.com</itunes:author>
+<itunes:summary>Interested in Linux and Free Software? We talk about the latest events and topics with our trademarks of humour, irreverence and awesome listener contributions.</itunes:summary>
+<itunes:owner>
+<itunes:name>Graham Morrison</itunes:name>
+<itunes:email>graham@linuxvoice.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://www.linuxvoice.com/wp-content/uploads/2013/11/LinuxVoiceAPP_RED.png" />
+<itunes:category text="Technology">
+</itunes:category>
+
+<item>
+<title>Season 3 Episode 19</title>
+<itunes:author>Ben Everard, Andrew Conway, Andrew Gregory and Graham Morrison.</itunes:author>
+<itunes:subtitle>Title: Live From OggCamp 2015!</itunes:subtitle>
+<description>
+
+In this episode: The EU may or may not support Net Neutrality. Theresa May not. GNU HURD 0.7 is out and Apple bans security talks. We've got Finds and a Voice of the Masses with real voices from a real audience.
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e19.ogg" length="42844387" 
+type="audio/ogg" />
+<pubDate>Thu, 5 Nov 2015 13:00:00 GMT</pubDate>
+<itunes:duration>48:28</itunes:duration>
+<itunes:keywords>OggCamp, Privacy, Encryption, Politics, GNU, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-19/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 18</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Time Circuits On!</itunes:subtitle>
+<description>
+
+In this episode: James Bond can now use LibreOffice, thanks to the UK Government's endorsement. Valve's new controller and Linux-based gaming PCs are here. JPEG could become hobbled by DRM and the NSA was listening all along. We've also got another new section, some great Finds and one of the most positive Voice of the Masses sections ever.
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e18.ogg" length="61918546" 
+type="audio/ogg" />
+<pubDate>Thu, 22 Oct 2015 16:00:00 GMT</pubDate>
+<itunes:duration>1:07:10</itunes:duration>
+<itunes:keywords>UK Gov, Valve, Steam OS, NSA, DRM, Red Hat, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-18/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 17</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: C0rrectHors3BatteryStapl3!</itunes:subtitle>
+<description>
+
+In this episode: Linux servers are responsible for a huge DDoS botnet. HP has released it's own Linux. Sarah Sharp quits the Linux kernel community, and Matthew Garrett too. Raspberry Pi's are about to take a trip to the International Space Space station and ZFS is coming to Ubuntu. We've also got some great finds, lovely Voice of the Masses and a Brand New Section.
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e17.ogg" length="62905436" 
+type="audio/ogg" />
+<pubDate>Thu, 8 Oct 2015 12:00:00 GMT</pubDate>
+<itunes:duration>1:09:09</itunes:duration>
+<itunes:keywords>DDoS, Kernel, HP, Ubuntu, ZFS, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-17/</guid>
+</item>
+
+
+<item>
+<title>Season 3 Episode 16</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Oktoberfest</itunes:subtitle>
+<description>
+
+In this episode: Snowballs have been seen in Hell. There are more than 1,500 Linux games on Steam. The Italian military installs LibreOffice and Volkswagen becomes a case study for the use of the DMCA and proprietary software. We've got some ace finds, Voice of the Masses and the return of One More Thing!
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e16.ogg" length="52216184" 
+type="audio/ogg" />
+<pubDate>Thu, 24 Sep 2015 10:00:00 GMT</pubDate>
+<itunes:duration>56:36</itunes:duration>
+<itunes:keywords>Google, Volkswagen, Microsoft, LibreOffice, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-16/</guid>
+</item>
+
+
+<item>
+<title>Season 3 Episode 15</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Consignia</itunes:subtitle>
+<description>
+
+In this episode: The Alliance for Open Media promises to cure all video streaming ills. Unity games development comes to Linux. Lilo is laid to rest and the Raspberry Pi has an official touchscreen. We've got some spectacular finds, some neurons and a pictorial Voice of the Masses.
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e15.ogg" length="58806570" 
+type="audio/ogg" />
+<pubDate>Thu, 10 Sep 2015 12:00:00 GMT</pubDate>
+<itunes:duration>1:04:36</itunes:duration>
+<itunes:keywords>Google, Unity, Raspberry Pi, Android, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-15/</guid>
+</item>
+
+
+<item>
+<title>Season 3 Episode 14</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Spreadsheets that rock</itunes:subtitle>
+<description>
+
+In this episode: There's a Firefox vulnerability that shares your SSH keyfiles, though that isn't why future versions of Firefox will only install signed add-ons. LibreOffice 5.0 has been released, and it's fabulous. The EFF has level-upped our privacy with Privacy Badger. Lenovo, meanwhile, is helping Windows users switch to Linux. Don't miss the most awesome Finds section ever, and a reddit-tastic Voice of the Masses.
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e14.ogg" length="63101866" 
+type="audio/ogg" />
+<pubDate>Thu, 20 Aug 2015 10:00:00 GMT</pubDate>
+<itunes:duration>1:12:02</itunes:duration>
+<itunes:keywords>Firefox, SSH, Lenovo, Windows, Microsoft, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-14/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 13</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Glass houses</itunes:subtitle>
+<description>
+
+In this episode: The UK Government can't make up its mind about how evil encryption is. Canonical is having difficulty elucidating its stance on Ubuntu IP rights. Several ex-Mozilla executives have forked Firefox OS and Windows 10 is a privacy nightmare. We've also got a particularly awesome Finds section, a couple of neurons to vocalise and the internet famous Voice of the Masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e13.ogg" length="48737595" 
+type="audio/ogg" />
+<pubDate>Wed, 5 Aug 2015 18:00:00 GMT</pubDate>
+<itunes:duration>54:22</itunes:duration>
+<itunes:keywords>Encryption, spying, Canonical, Ubuntu, Firefox, Windows, Microsoft, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-13/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 12</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Unbreakable Linux</itunes:subtitle>
+<description>
+
+In this episode: Microsoft becomes an OpenBSD sponsor. Google and Oracle fight over whether APIs are protected by copyright. Jonathan Riddel removes himself from the Kubuntu Community Council and Hacking Team == Hacked. Plus there's our usual array of finds and a Firfoxy Voice of the Masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e12.ogg" length="59213234" 
+type="audio/ogg" />
+<pubDate>Fri, 10 Jul 2015 16:00:00 GMT</pubDate>
+<itunes:duration>1:06:28</itunes:duration>
+<itunes:keywords>Microsoft, Oracle, OpenBSD, Kubuntu, BBC, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-12/</guid>
+</item>
+
+
+<item>
+<title>Season 3 Episode 11</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Calcio Storico</itunes:subtitle>
+<description>
+
+In this episode: Linux Foundation is spending some cash to improve security for everyone. Crossover is going to run the latest Windows games. DuckDuckGo is becoming a hugely successful search engine and there's a new Ubuntu Phone. We've got an awesome Finds section, we peer into someone's neurons and finish up with a feel-good Voice of the Masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e11.ogg" length="57450715" 
+type="audio/ogg" />
+<pubDate>Thu, 25 Jun 2015 16:00:00 GMT</pubDate>
+<itunes:duration>1:04:28</itunes:duration>
+<itunes:keywords>Linux Foundation, Crossover, DuckDuckGo, Ubuntu, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-11/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 10</title>
+<itunes:author>Ben Everard, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: SourceForced</itunes:subtitle>
+<description>
+
+In this episode: SourceForge relocates to Mount Doom, GEGL gets an awesome upgrade, Cinnamon 2.6 has been released and Apple is going open source. Plus there's a lack of neurons, more finds and the internet infamous Voice of the Masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e10.ogg" length="42692474" 
+type="audio/ogg" />
+<pubDate>Thu, 11 Jun 2015 19:00:00 GMT</pubDate>
+<itunes:duration>48:40</itunes:duration>
+<itunes:keywords>SourceForge, GIMP, GEGL, Cinnamon, Apple, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-10/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 9</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Voikons Neuralized</itunes:subtitle>
+<description>
+
+In this episode: Scandal at SourceForge. Confusion at Kubuntu. Fanfare for Fedora but Misery for Mandriva. Plus fabulous finds, neurotic neurons and missives from the masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e09.ogg" length="50000797" 
+type="audio/ogg" />
+<pubDate>Thu, 28 May 2015 20:00:00 GMT</pubDate>
+<itunes:duration>58:11</itunes:duration>
+<itunes:keywords>SourceForge, Kubuntu, Fedora, Mandriva, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-9/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 8</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: California Highway Patrol</itunes:subtitle>
+<description>
+
+In this episode: A cheaper Pi, an even cheaper alternative, and Firefox now includes added DRM. We've got some ace Finds, an even more awesome Neurons section and the most divisive Voice of the Masses ever (not really).
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e08.ogg" length="46306368" 
+type="audio/ogg" />
+<pubDate>Fri, 15 May 2015 18:00:00 GMT</pubDate>
+<itunes:duration>51:30</itunes:duration>
+<itunes:keywords>Raspberry Pi, Debian, Firefox, Mozilla, Microsoft, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-8/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 7</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Release Party!</itunes:subtitle>
+<description>
+
+In this episode: Two major Linux distributions have been released. Microsoft is doing lots of things related to Linux (and open source) and there's a new release of KDE. We've got some epic finds to share, a single neuron and the famously good natured Voice of the Masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e07.ogg" length="53737730" 
+type="audio/ogg" />
+<pubDate>Thu, 30 Apr 2015 14:00:00 GMT</pubDate>
+<itunes:duration>1:01:32</itunes:duration>
+<itunes:keywords>Debian, Ubuntu, KDE, Microsoft, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-7/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 6</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: RFC 5322</itunes:subtitle>
+<description>
+
+In this episode: Linux Mint has a new sponsor. Freya has been released, there's a new beta of Thunderbird and brief SSL woes for Manjaro. Microsoft enters Core OS territory and Debian has a new project lead. We've also got some lovely Finds and a super-positive Voice of the Masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e06.ogg" length="47227780" 
+type="audio/ogg" />
+<pubDate>Thu, 16 Apr 2015 14:00:00 GMT</pubDate>
+<itunes:duration>54:20</itunes:duration>
+<itunes:keywords>Microsoft, Manjaro, Debian, Linux Mint, SSL, Thunderbird, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-6/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 5</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Party Political Broadcast</itunes:subtitle>
+<description>
+
+In this episode: Microsoft's adding ODF support to Office. The BBC is giving away bits of silicon to schools. Android apps will soon run on Linux and LibreOffice will run from the cloud. We've got some awesome Finds, a couple of Neurons and a life-affirming Voice of the Masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e05.ogg" length="41591774" 
+type="audio/ogg" />
+<pubDate>Thu, 2 Apr 2015 18:00:00 GMT</pubDate>
+<itunes:duration>47:38</itunes:duration>
+<itunes:keywords>Microsoft, BBC, Android, Google, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-5/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 4</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Butterfly Kernel</itunes:subtitle>
+<description>
+
+In this episode: VMware has waded into a lawsuit with the Software Freedom Conservancy. Lenovo has been spying on its Windows users. There are now over 1,000 Linux games on Steam and relax, the Parliamentary Office for Science and Technology has said Tor can't be stopped. We've got even more news, lots of discoveries, a couple of Neurons to vocalise and a divisive Voice of the Masses.
+
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e04.ogg" length="62160694" 
+type="audio/ogg" />
+<pubDate>Fri, 13 Mar 2015 15:00:00 GMT</pubDate>
+<itunes:duration>1:10:10</itunes:duration>
+<itunes:keywords>Linux Voice, Canonical, Lenovo, VMware, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-4/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 3</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: The Plague</itunes:subtitle>
+<description><![CDATA[ 
+
+In this episode: There are two new major Linux-related pieces of hardware, Raspberry Pi 2 and the Ubuntu Phone. CrunchBang may yet live, and GnuPG is now well funded. We've got some great discoveries, we discuss how Free Software should be funded and there's even a Neuron to vocalise.</br>
+
+News:
+CrunchBang Linux is no more, but it lives on as CrunchBang++. The future of GnuPG is now secure, thanks to over 220698 Euros in community donations. There's a new Raspberry Pi, and it's much faster than the old one. And Canonical has launched the long awaited Ubuntu Phone with the Bq Aquaris E4.5 Ubuntu Edition, and there are rumours of a more powerful Meizu MX4 edition to come. </br>
+Finds of the Fortnight:
+From our #linuxvoice IRC channel on Freenode:
+<james_olympus> This isn't really a find because it's been on the Raspberry Pi blog, but thought I'd mention it: http://www.raspberrypi.org/emulation-on-raspberry-pi-2/
+<Nanu_Phoenix> You asked me to remind you about the Marmite Easter eggs...
+<james_olympus> The Playstation emulator is 'PCSX Rearmed', I've been revisiting the old Playstation games... oh dear, that makes me sound old.
+<Nanu_Phoenix> There's openRA too at openra.net - an open source command and conquer game.
+<Nanu_Phoenix> I discovered lstopo yesterday which can generate an .svg map of your PC's hardware from the command line.
+Mike:
+KDE's file manager, Dolphin, can embed a terminal into the window by pressing F4 (thanks to Dave Allen)
+Graham:
+Text to speech in Pocket works really well.
+Ben:
+Crypto-currencies such as bitcoin can teach you how stock exchanges work.
+Andrew:
+Prisoners in San Quentin are being taught digital skills with Ubuntu.</br>
+Vocalise Your Neurons:
+Huge thanks to Ricardo for his thoughts. If you'd like yours read out next time, email them to mike@linuxvoice.com.</br>
+Voice of the Masses: What's the best way to fund Free Software?</br>
+
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e03.ogg" length="54831639" 
+type="audio/ogg" />
+<pubDate>Tue, 17 Feb 2015 18:00:00 GMT</pubDate>
+<itunes:duration>1:03:36</itunes:duration>
+<itunes:keywords>Linux Voice, Canonical, Raspberry Pi, CrunchBang, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-3/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 2</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Schneiers Law</itunes:subtitle>
+<description><![CDATA[ 
+
+In this episode: There's yet another serious Linux vulnerability to contend with, but there are new Linux machines from Dell. Bodhi Linux is making a return and there's a new version LibreOffice, including a version for Android. We've got lots of tasty Finds and a Voice of the Masses about old hardware.</br>
+
+News:
+The glibc GHOST buffer overflow vulnerability is remotely triggerable and potentially a serious threat to your servers. Here's the Super Mario World exploit being performed on a real SNES (rather than an emulator). Dell has updated and expanded its Linux-running Developer Edition range. Bodhi Linux has returned from the abyss, bringing with it a release candidate of 3.0. LibreOffice 4.4 has been released, and there's now a beta version, of sorts, for Android.</br>
+Finds of the Fortnight:
+From our #linuxvoice IRC channel on Freenode:
+<dije> Umm... Quodlibet sucks less than Rhythmbox, Banshee etc. Does that count? And its companion tagging app, ExFalso, is teh smartness..
+<dije> Here's a newbie-friendly one: To get Your Picture Here in the login session "greeter", put a 96x96 pixel PNG file called .face in your home dir. Maybe that's for a newb section in the mag; not really a "find".
+<dije> For the keyboard-centric anti-mousing fanatic, Conkeror is a web browser based on the same XulRunner engine that Firefox uses. Very efficient. Runs some but not all Firefox plugins -- basically the ones that don't assume Firefox presentation widgets are always present. Very Emacs-y in conception and implementation, including being customizable and even reprogrammable at runtime, using standard JavaScript.
+<AdamDBrown> RFC 1149 IP Datagrams on Avian Carriers.</br>
+Graham:
+Head tracking with OpenTracker and LinuxTrack.
+PaperWorks is an open source Evernote/Google Keep note taking platform.</br>
+Andrew:
+Valve had an in-house economist who is now Greece's new Finance Minister.</br>
+Ben:
+linux.conf.au 2015 has put all its talks online.
+Daala is a completely open and uniquely engineered (by Mozilla and Xiph.Org Foundations) video codec that even has its own Javascript implementation.
+Evolve OS's beta Budgie desktop is looking rather good.</br>
+Mike:
+Lille is actually a rather nice French town.
+vsch, a git wrapper that allows you to have several git repositories in a single directory - very useful for your home directory.</br>
+Vocalise Your Neurons:
+New Year apathy means we have no neurons. But if you'd like yours read out next time, email them to mike@linuxvoice.com.</br>
+Voice of the Masses: What's your oldest machine running Linux?</br>
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e02.ogg" length="56989684" 
+type="audio/ogg" />
+<pubDate>Thu, 29 Jan 2015 20:00:00 GMT</pubDate>
+<itunes:duration>1:08:44</itunes:duration>
+<itunes:keywords>Linux Voice, Canonical, Ubuntu, GHOST, Bodhi, Arch, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-2/</guid>
+</item>
+
+<item>
+<title>Season 3 Episode 1</title>
+<itunes:author>Ben Everard, Andrew Gregory and Graham Morrison.</itunes:author>
+<itunes:subtitle>Title: Cabaret Voltaire</itunes:subtitle>
+<description><![CDATA[ 
+
+In this episode: We look at the results from the latest Arch user survey, hear about the first x86 HDMI dongle PC we can think of, and there are two Tizen news items (remember Tizen?). We've got some tasty finds, thanks to the community, and a Voice of the Masses with a slightly political edge.</br>
+
+News:</br>
+Gnome usage has just edged out KDE in the latest Arch user survey. x86-based Intel Compute sticks have been announced. The long-rumours Tizen phones have finally been released in the form of the . And Tizen is also making its way to Samsung's latest smart TVs.</br>
+Finds of the Fortnight:
+From our #linuxvoice IRC channel on Freenode:
+<pwaring> I have found out that Creme Eggs are now sold in boxes of 5 and the chocolate has changed, which is OUTRAGEOUS but not really Linux related.
+<Devilment> My Find of the Fortnight is cheese on toast with a layer of Marmite on the bread before the cheese.
+<Stilvoid> related find: cheese on toast with a layer of mayonnaise and mustard!
+<Nanu_Phoenix> I love cheese on toast with a layer of wholegrain mustard & tomato puree, I'll have to try mayonnaise. :)
+<Nanu_Phoenix> My foody related find of the fortnight previous to this fortnight, is to throw some cinnamon stick in the grinder when grinding my coffee beans, it makes for a lovely cuppa!
+<Stilvoid>	actual find: notmuch mail [notmuchmail.org] - it's a thing for tagging your email and then being able to search it very easily - it deals with vast quantities of email quite happily.
+<Stilvoid>	another actual find: fasd [https://github.com/clvv/fasd] remembers where you've been in your filesystem and then allows you to jump to locations really easy. e.g. typing `z lv` would drop me straight into /home/steve/Documents/lv/ if I've been there recently/frequently.
+<Aikidokajeff>	 Find: MHDDFS - https://romanrm.net/mhddfs Join multiple File systems to for a single larger FS.</br>
+Graham:
+Dexed, an open source recreation of Yamaha's famous 1980s FM synthesizer.</br>
+Andrew:
+£7 for the CamJam EduKit.</br>
+Ben:
+A vertical mouse could help painful wrists.
+Don't trust anyone, even your VPN provider.</br>
+Vocalise Your Neurons:
+Due to Mike's absence, we didn't have any neurons in this episode, but if you'd like yours read out next time, email them to mike@linuxvoice.com.
+Voice of the Masses: How can we educate politicians?</br>
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e01.ogg" length="43954253" 
+type="audio/ogg" />
+<pubDate>Thu, 15 Jan 2015 21:00:00 GMT</pubDate>
+<itunes:duration>0:49:25</itunes:duration>
+<itunes:keywords>Linux Voice, Canonical, Tizen, Raspberry Pi, Arch, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-1/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 23</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Merry Christmas!</itunes:subtitle>
+<description><![CDATA[ 
+
+In this episode: In our last podcast of the year, we get together to talk about the Pirate Bay, new cloud stuff from Canonical (and an imminent new phone!) and getting a Raspberry Pi into to space. We've got some ace finds, a neuron and the Voice of the Masses.</br>
+
+News: The Pirate Bay is no longer. Fedora 21 has been released. Canonical has released Snappy Ubuntu Core. Raspberry Pis are going into proper space. Microsoft fights the US government for Irish data.</br>
+
+Finds of the Fortnight: 
+Andrew:
+There is a Mormon temple in Harrogate, Yorkshire.
+LibreOffice is a recognised format for the UK's new VAT reporting scheme.
+The Raspberry Pi Robotics Challenge competition was rather good.</br>
+Mike:
+What is the most expensive human-made thing?
+Barbie couldn't exist as a human being.</br>
+Graham:
+Pydio 6.0 is another open source Dropbox file sharing and sync alternative.
+wicd is a Curses interface and daemon for configuring wifi networks.</br>
+Ben:
+Seafile is an alternative to OwnCloud.
+Piwik is great for web logging, but GoAccess is a good companion for log file analysis.</br>
+Voice of the Masses: What was your FOSS highlight of 2014?</br>
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e23.ogg" length="56456035" 
+type="audio/ogg" />
+<pubDate>Fri, 19 Dec 2014 18:00:00 GMT</pubDate>
+<itunes:duration>1:05:14</itunes:duration>
+<itunes:keywords>Linux Voice, Canonical, Fedora, Raspberry Pi, Microsoft, Debian, systemd, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-23/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 22</title>
+<itunes:author>Ben Everard, Graham Morrison, Lennart Poettering and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Live from Berlin</itunes:subtitle>
+<description><![CDATA[ 
+
+In this episode: We're joined by Lennart Poettering to discuss the Devuan Debian fork, the latest version of Firefox and the launch of Rocket. Plus, we've got Finds and the Voice of the Masses, where we ask whether the Devuan fork a good thing.</br>
+
+News: Debian has forked with the creation of the systemd-less Devuan project. Firefox 34 has been released and includes 'Firefox Hello', its own WebRTC communication client. The Purism Librem is a new crowdfunded Linux laptop with an emphasis on freedom. HP has launched an EliteBook with SUSE Linux Enterprise 11 and FreeDOS as operating system options. And the Docker container community has launched a rival project called Rocket.</br>
+
+Finds of the Fortnight: 
+Graham:
+Mark Shuttleworth is helping to restore botanical gardens on the Isle of Man, where he now lives.</br>
+Mike:
+There are some weird and wonderful programming languages, including White Space and Malbolge.</br>
+Ben:
+You can use an Android phone as a USB wifi modem.
+Make sure you test everything before giving up and HDMI to analogue converters can work.</br>
+Andrew:
+Danger, the Russians are watching your webcams.</br>
+Voice of the Masses:  Is the Devuan fork a good thing?</br>
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e22.ogg" length="34366081" 
+type="audio/ogg" />
+<pubDate>Mon, 8 Dec 2014 22:00:00 GMT</pubDate>
+<itunes:duration>0:40:41</itunes:duration>
+<itunes:keywords>Linux Voice, Firefox, Debian, systemd, Linux, FreeBSD</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-22/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 21</title>
+<itunes:author>Ben Everard, Andrew Gregory, Mike Saunders and Graham Morrison</itunes:author>
+<itunes:subtitle>Title: Shake it off</itunes:subtitle>
+<description><![CDATA[ 
+
+In this episode: Google is nearly gone from Firefox. FreeBSD gets one million dollars. Gnome defends itself against Groupon and the latest LibreOffice breaks the bank. We've got a Finds section of epic proportions, plus Neurons to vocalise, and a Voice of the Masses that tries to make sense of the vitriuol behing the systemd debates.</br>
+
+News: Mozilla has abandoned its long-standing and lucrative arrangement with Google, switching to Yahoo and Bing in some territories. WhatsApp founder, Jan Koum, has donated $1,000,000 USD to the FreeBSD Foundation. WhatApp is also integrating TextSecure for one-to-one text chats with the Android client. The Jolla Tablet has become an unprecedented crowdfunding success. The GNOME community has successfully defended the GNOME Trademark against Groupon. And the latest version of the spreadsheet application in LibreOffice, Calc, breaks many documents. A new general resolution from Debian developers has decided packages still aren't obliged to support other init systems. A few developers have stepped down, including former Debian project lead, Ian Jackson, who has resigned. Also, the EFF and Mozilla are going to offer their own SSL certification. </br>
+
+Finds of the Fortnight: #linuxvoice IRC channel on Freenode:
+<heggx64> Download some cool free chiptunes from keygenmusic.org, or listen to some on keygenjukebox.com
+<pwaring> Clang is getting very good.
+<einonm> Create desktop applications with PHP or whatever PHP frameworks you prefer with Nightrain.
+<einonm> A solderless 68000 chip running Linux from a breadboard.</br>
+Graham:
+Thousands of people are still protesting against the internet tax in Hungary.
+CloudStack, the Linux Foundation, and The Apache Foundation are doing a great job in providing a genuine open source cloud alternative.
+The Nexus 5 is actually quite easy to repair.</br>
+Ben:
+Within two days of us releasing issue 1 under a Creative Commons licence, our Bytemark servers had served 650GB data, not including torrents, but thanks to CloudFlare's caching, we'd only really uploaded 60GB.
+The sar command line tool logs your system's usage over time.</br>
+Andrew:
+Danger, the Russians are watching your webcams.</br>
+Mike:
+ncdu, like a file system usage visualiser for the command line (thanks to Kevin Collier)
+Dervish, an rsync-based rotating network backup system (thanks Hans!)
+An Arnold Schwarzenegger-based programming language called ArnoldC.</br>
+Vocalise Your Neurons:
+Huge thanks to both Daniel and Dylan for their neurons. Here's the link to Redshift. If you'd like your neurons spoken with a Bavarian accent, email mike@linuxvoice.com. Thanks!
+Voice of the Masses: Why are systemd debates so toxic?</br>
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e21.ogg" length="59896875" 
+type="audio/ogg" />
+<pubDate>Mon, 24 Nov 2014 21:00:00 GMT</pubDate>
+<itunes:duration>1:12:02</itunes:duration>
+<itunes:keywords>Linux Voice, Firefox, 68000, Debian, systemd, Linux, Apache, FreeBSD</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-21/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 20</title>
+<itunes:author>Ben Everard, Andrew Gregory and Graham Morrison</itunes:author>
+<itunes:subtitle>Title: Benefit or a hazard?</itunes:subtitle>
+<description><![CDATA[ 
+
+
+In this episode: The Linux Outlaws podcast will come to an end before Christmas. Italy has freed itself of the Microsoft Tax. Real Time Linux needs funds and FreeBSD can legally drink in Georgia. Firefox OS is going to run on Raspberry Pis and, don't worry, the NSA is on our side. Plus we've also got an epic Finds of the Fortnight and an insightful Voice of the Masses.</br>
+
+News: After 7 years, the Linux Outlaws podcast is coming to an end. The Italian Supreme Court has banned the Microsoft Tax on the sale of new PCs. Real Time Linux may be stopped due to lack of funding. It's been 21 years since the first stable release of FreeBSD. Mozilla's Firefox OS is coming to a Raspberry Pi near you. Mike Rogers, director of the NSA, has said the NSA released a patch to Heartbleed only a day after they and the rest of the world discovered it. And there's a new Underhanded C Contest.</br>
+
+Finds of the Fortnight:</br>
+#linuxvoice on Freenode:
+Static site building with Perl and templer.
+There's a huge list of static site building generators at staticgen.com.
+The BBC has removed some RSS feeds facilitating iPlayer access, and broken some not-so-very smart TVs in the process.
+Cheap online backup for the truly paranoid - tarsnap.
+The UK Government's Community Development Handbook.
+A slick open source media server called MediaBrowser.tv.
+There's a Kickstarter campaign to create a Jolla 'other half' keyboard.</br>
+Graham:
+Be careful if you play with Google's Cardboard.
+The Nexus 5 seems relatively easy to repair (don't blame us if it goes wrong).</br>
+Andrew:
+Nominate your heroes for the Free Software Awards.
+China is de-Windowsifying before 2010.</br>
+Ben:
+TestDisk is awesome for recovering from 'dd' mistakes.</br>
+Vocalise Your Neurons:
+With Mike going AWOL this episode, we didn't have any neurons to read, but if you'd like yours revealed next time, email mike@linuxvoice.com. Thanks!</br>
+Voice of the Masses: GCHQ is upset. Does this mean we're winning back our privacy?</br>
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e20.ogg" length="47967516" 
+type="audio/ogg" />
+<pubDate>Thu, 6 Nov 2014 21:00:00 GMT</pubDate>
+<itunes:duration>59:06</itunes:duration>
+<itunes:keywords>Linux Voice, Microsoft, Firefox OS, Real time Linux, NSA, FreeBSD</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-20/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 19</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Title: Manky Monkey pt.2</itunes:subtitle>
+<description><![CDATA[ 
+In this episode: We've got more news than we know what to do with. ChromeOS maybe drops ext3. The ummutable Tor browser has reached version 4. Debian is still undecided and Ubuntu turns 10. We've got almost as many Finds as news stories, two neurons and an excellent Voice of the Masses.<br />
+
+What's in the show:<br />
+
+News:<br />
+Google's ChromeOS has dropped support for externel ext2/ext3/ext4 formatted devices. Google's ChromeOS reinstates support for externel ext/ext4 formatted devices. Shhhh! Tor Browser 4.0 has been released,and it can hide your data in secured streams running your machine and large cloud server providers. Some Debian people are now proposing that nothing at all depends on systemd, and threatening to fork Debian is they don't get their own way. It's been 10 years since the first version of Ubuntu, Warty Warthog. Microsoft now loves Linux. says CEO Satya Nadella. And you can help is crowdsource a recording of issue 1 here, thanks!<br />
+Finds of the Fortnight:<br />
+#linuxvoice on Freenode:<br />
+Matt Lee talking about GNU at Nottingham LUG next Thursday.<br />
+ tmux us better than screen.
+Test out websites on virtual smartphones and tablets with mobiletest.me.<br />
+Andrew:<br />
+The Humble Mozilla Bundle.<br />
+Ben:<br />
+Google's hi-tech virtual reality Cardboard is actually pretty good.<br />
+Installing Arch isn't painless if you've no ethernet.<br />
+Terminator is a fantastic terminal emulator.<br />
+Mike:<br />
+Mark Shuttleworth's original email to the potential Ubuntu team.<br />
+Graham:<br />
+Aura is a great package manager for Arch for both official and AUR packages.<br />
+The Span conference next week in London looks excellent.<br />
+And the G-Pack looks like the ultimate living room SteamOS games PC, if it can reach its loftyKickstarter target within the next week.<br />
+Vocalise Your Neurons:<br />
+Thanks to Tom and Nathaniel! If you'd like yours read out with a genuine John Lennon accent, email them to mike@linuxvoice.com.<br />
+Voice of the Masses: Is there too much forking in FOSS?<br />
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e19.ogg" length="56406520" 
+type="audio/ogg" />
+<pubDate>Thu, 23 Oct 2014 15:00:00 GMT</pubDate>
+<itunes:duration>1:07:06</itunes:duration>
+<itunes:keywords>Linux Voice, ChromeOS, Microsoft, Debian, systemd</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-19/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 18</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison, Ben Nuttall and Mike Saunders</itunes:author>
+<itunes:subtitle>Live from OggCamp 2014</itunes:subtitle>
+<description><![CDATA[ 
+In this episode: Shellshock was always one of our favourite New Order tracks, but now it's one of our least favourite Linux vulnerabilities. Adobe is dropping Reader support for Linux, but kind-of bringing Photoshop to Chrome OS. We have some great discoveries, a real live Voice of the Masses, and we're joined by the awesome Ben Nuttall of the Raspberry Pi Foundation [recorded infront of an audience, OggCamp 2014].<br />
+
+News: A huge vulnerability has been discovered in the Bash shell, makings lots of Linux and OS X servers wobble. Adobe is dropping Reader support for Linux, but Photoshop is coming to Chrome OS, sorta, kinda.<br />
+
+Finds of the Fortnight:<br />
+
+Andrew:
+There's a concentration of people on the Autistic spectrum working at GCHQ.<br />
+Graham:
+KDE's text editor, Kate, has a macro snippets system that can be programmed with a Javascript-like language.
+And a show-stopping bug in Kate's snippets has been fixed by the author of the above blog post, Sven Brauch.<br />
+Ben (Everard):
+WebSDR - software defined radio that lets listeners tune in to a frequency on a received broadcast frequency range from a specific location (many thanks to David Tarrant for this Find).
+From our own torrent server seeding various distributions, CentOS 7 is the most seeded by other peers (meaning the peers leave their torrent is running after the download) while Kali and Knoppix are the top two in terms of peers quitting after the download has completed.<br />
+Ben (Nuttal):
+The folks at PyCon last week were able to port the Python interface for Minecraft: Pi Edition to Python 3.
+Send tweets from Python 3 with Twython. <br />
+Mike:
+A bug in DMA Design's Race'n'Chase game led them to create Grand Theft Auto.<br />
+
+Voice of the Masses: Have Heartbleed and Shellshock changed your attitude to open source security?
+
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e18.ogg" length="26921822" 
+type="audio/ogg" />
+<pubDate>Thu, 8 Oct 2014 09:00:00 GMT</pubDate>
+<itunes:duration>32:52</itunes:duration>
+<itunes:keywords>Linux Voice, OggCamp, Minecraft, Shellshock, Raspberry Pi</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-18/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 17</title>
+<itunes:author>Ben Everard, Andrew Gregory, Mark Johnson, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Live from The Honey Pot</itunes:subtitle>
+<description><![CDATA[ 
+In this episode: Debian is going to switch to Gnome. Native Netflix is coming to Ubuntu. Minecraft has been sold and TrueCrypt comes back from the dead. We've got lots of great finds, a long discussion about FOSS events and an extra-special guest.<br />
+News: After recently announcing its support for Systemd, it's looking likely that Gnome is going to become the default desktop for Debian. Native Netflix is now possible using Chrome and Ubuntu. We reported on the rumour last episode, but it's now confirmed that Microsoft is buying Minecraft and its game studio, Mojang, for $2,500,000,000 dollars. Minecraft's creator, Notch, is leaving after the deal, saying "I can't be responsible for something this big." TrueCrypt, the encryption tool of choice for terrorists whistleblowers everywhere has been reborn as CipherShed. Android applications can now be made to work on Linux, sort of. And one of Valve's major titles, Counter Strike: Major Offensive, has been released for £11.99 on Steam, for Linux.<br />
+Finds of the Fortnight:<br />
+Graham:
+There's a collection of inscribed rings in the Ashmolean museum in Oxford that could have been part of the inspiration behind The One Ring.
+The Ubuntu UK podcast is rather good.<br />
+Ben:
+Penetration testing from your phone, with Kali Linux Nexus Nethunter
+Python is the leading language, according to Subreddit subscribers, followed by Javascript and then... Java!<br />
+Mark:
+The Linux Steam client can now stream games to SteamOS or other local Steam clients.
+Andrew:
+There's a scale model of the solar system just outside of York.<br />
+Mike:
+There's a Firefox extension called Pentadactyle that can add Vim-like keyboard controls to your web browser.
+And why does Firefox builds break extensions so often?<br />
+Voice of the Masses: Are you attending any FOSS events?
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e17.ogg" length="51530444" 
+type="audio/ogg" />
+<pubDate>Fri, 26 Sep 2014 16:00:00 GMT</pubDate>
+<itunes:duration>1:04:24</itunes:duration>
+<itunes:keywords>Linux Voice, systemd, Minecraft, Gnome, Debian, Ubuntu, CipherShed</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-17/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 16</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Ghost in the machine</itunes:subtitle>
+<description><![CDATA[ 
+In this episode: The NHS dumps Oracle for an open source solution. Five million GMail account details have been leaked. There's a MEGAsync GUI client for Linux and the Free Software Foundation and Debian are getting together to help with a free software hardware database. We've got are usual array of finds, possibly a neuron or three and a rather complex Voice of the Masses.<br />
+News: In the UK, the NHS has dumped Oracle for an open source NoSQL database solution it's calling Spine2. There's an NHS open source Hack Day taking place in Leeds, 27th-28th of September. Systemd is coming for Gnome 3.14. Mega, the file sharing platform created by Kim Dotcom, is about to get a Linux client, called MEGAsync. There are five million compromised Google GMail accounts with passwords. The Free Software Foundation and Debian have got together to work on Debian compatible free software hardware list at h-node.org. And Microsoft is buying Minecraft for $2 billion.<br />
+Finds of the Fortnight:<br />
+Graham:
+Fez is still a wonderful game. But there won't be a sequel from Phil Phish.
+Tame touchpad multitouch on a Synaptic's touchpad with xSwipe.<br />
+Andrew (sorry for the glitchy recording):
+LibreOffice can open CorelDRAW files from 1999.<br />
+Mike:
+It's illegal to own a guinea pig in Switzerland.
+Chocolatey; it's like apt-get, but for Windows.
+Like Doom? Enjoy Rogue? You'll love DoomRL.<br />
+Ben:
+Ben now lives in the house of a probable serial killer.
+It takes two weeks to get an internet connection in Bristol.
+You can disable background data usage in Android.<br />
+Vocalise Your Neurons:
+Many thanks to all our ace neurons this episode! Don't forget, you can give your brains a Gloucester/Bristol accent by emailing them to mike@linuxvoice.com.<br />
+Voice of the Masses: Do you like systemd?
+]]></description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e16.ogg" length="43767772" 
+type="audio/ogg" />
+<pubDate>Mon, 15 Sep 2014 10:00:00 GMT</pubDate>
+<itunes:duration>53:16</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, systemd, Minecraft, Spine2, Gnome, MegaSYNC, Debian</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-16/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 15</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Le Moustache</itunes:subtitle>
+<description>
+In this episode: We've got XBMC shapeshifting fun, Debian running on all 64-bits of ARM CPUs,  super-safe two factor authentication making it into the kernel and everything's (probably) alright in Munich. There's conference news, perhaps our longest 'Finds' section, a tripple neuron spectacular and a super-ace Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e15.ogg" length="56010612" 
+type="audio/ogg" />
+<pubDate>Thu, 21 Aug 2014 17:00:00 GMT</pubDate>
+<itunes:duration>1:10:28</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Debian, XBMC, Kody, Tails, ARM, Limux, Qt</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-15/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 14</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Live from The Wellington</itunes:subtitle>
+<description>
+In this episode: We've got lots of good news from various governmental institutions, including Valencia, Geneva, Toulouse and the UK. GOG now officially supports Linux. Tails is broken and Windows recalculates its market share. We've got some reasonable discoveries, no neurons and another exceptional Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e14.ogg" length="45728449" 
+type="audio/ogg" />
+<pubDate>Thu, 31 Jul 2014 10:00:00 GMT</pubDate>
+<itunes:duration>0:52:21</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Raspberry Pi, Tails, GOG, ODF </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-14/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 13</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>DRIP'n'tap</itunes:subtitle>
+<description>
+In this episode: The Raspberry Pi gets an upgrade. Linux Journal gets snooped. CentOS 7 is out and nearly all the world's super-computers run Linux. There's a new version of KDE, but a KDE tablet has been cancelled. We've also got finds, neurons and a spectacular Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e13.ogg" length="57030626" 
+type="audio/ogg" />
+<pubDate>Thu, 17 Jul 2014 20:00:00 GMT</pubDate>
+<itunes:duration>1:09:58</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Linux Journal, Raspberry Pi, Microsoft, KDE 5 </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-13/</guid>
+</item>
+
+
+<item>
+<title>Season 2 Episode 12</title>
+<itunes:author>Florian Effenberger, Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Barone von Munchen</itunes:subtitle>
+<description>
+In this episode: Russia is going to build its own PC systems and its own Linux-based operating system. Ardour needs some cash. OwnCloud 7 is on the horizon and Krita is doing quite well. We've got a special guest, five discoveries and an excellent Voice of the Masses. All from wonderful Germany.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e12.ogg" length="31997526" 
+type="audio/ogg" />
+<pubDate>Mon, 30 Jun 2014 18:00:00 GMT</pubDate>
+<itunes:duration>0:41:26</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, OwnCloud, Russia, Krita, Germany, Ardour, vim, emacs</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-12/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 11</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>The Dark Wheel</itunes:subtitle>
+<description>
+In this episode: There are now 500 Linux games on Steam. Kim Dotcom is looking for a whistleblower. The Turing Test has been conquered, maybe, and the Krita project is looking for funds. We've got some finds, no neurones, and an excellent Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e11.ogg" length="39002331" 
+type="audio/ogg;" />
+<pubDate>Thu, 12 Jun 2014 11:00:00 GMT</pubDate>
+<itunes:duration>0:52:19</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Steam, Kim Dotcom, Turing, Krita, Windows 8 </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-11/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 10</title>
+<itunes:author>Ben Everard, Graham Morrison, Mike Saunders and Nick Veitch</itunes:author>
+<itunes:subtitle>Millionaires Shortbread</itunes:subtitle>
+<description>
+In this episode: Reddit Linux users have voted for Arch in their Distribution Survey. The Chinese government has banned Windows 8. DRM is coming to Firefox and Jono Bacon is leaving Ubuntu. There's more OpenStack news from Canonical and poor Linux game conversion shocker. We've also got lots of great discoveries, some lovely neurons and an awesome Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e10.ogg" length="54868488" 
+type="audio/ogg" />
+<pubDate>Thu, 29 May 2014 09:00:00 GMT</pubDate>
+<itunes:duration>1:04:46</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, Canonical, OpenStack, Unity, Windows 8, Steam, SteamOS, Arch </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-10/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 9</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Trifon Ivanov</itunes:subtitle>
+<description>
+In this episode: Linus Torvalds is given another award. Yet Another Kernel Bug. Razor-qt and LXDE merge to create LXQt. Google may have to amend certain search results and a crowd funded open laptop hits its target. Plus! There are several rather excellent neurons and lots of distro-love in this episode. 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e09.ogg" length="52529017" 
+type="audio/ogg" />
+<pubDate>Thu, 15 May 2014 18:00:00 GMT</pubDate>
+<itunes:duration>1:03:33</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, Linus, kernel, Linux, Gnome, LXDE, Razor-qt, FreeBSD </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-9/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 8</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Jevons paradox</itunes:subtitle>
+<description>
+In this episode: OpenBSD forks OpenSSL to create LibreSSL. Internet Explorer has a security bug that won't be fixed in Windows XP. Ubuntu 14.04 has been released and Canonical may drop Ubuntu for Android. Ben discovers how to tie his shoelaces, we've got some great neurons and the internet famous Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e08.ogg" length="XXXX" 
+type="audio/ogg" />
+<pubDate>Thu, 1 May 2014 10:00:00 GMT</pubDate>
+<itunes:duration>X:XX:XX</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, Raspberry Pi, Microsoft, Linux, Heartbleed, Gnome, FreeBSD </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-8/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 7</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>The face is a penguin</itunes:subtitle>
+<description>
+In this episode: Heartbleed has disrupted online security. Edward Snowden used Linux. A new Civilization game is coming to Linux. Canonical has cancelled Ubuntu One and there's a new Raspberry Pi. We've also got a rather good finds section, some neurons and an polemic Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e07.ogg" length="62850874" 
+type="audio/ogg;" />
+<pubDate>Thu, 17 Apr 2014 20:00:00 GMT</pubDate>
+<itunes:duration>1:14:02</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, Raspberry Pi, Microsoft, Linux, Heartbleed, Gnome </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-7/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 6</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>1,337</itunes:subtitle>
+<description>
+In this episode: More Microsoft news than you'll find in a Microsoft podcast. Mozilla gets a new CEO. Gnome 3.12 has been released and we may finally be able to legally rip CDs in the United Kingdom. And Ben's book is doing well on Amazon. We've got some lovely Finds of the Fortnight, a single neuron to share and an epic Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e06.ogg" length="56614501" 
+type="audio/ogg" />
+<pubDate>Thu, 3 Apr 2014 21:00:00 GMT</pubDate>
+<itunes:duration>1:07:23</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, Raspberry Pi, Microsoft, Linux, Mozilla, Gnome </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-6/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 5</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Nick Veitch</itunes:author>
+<itunes:subtitle>Stunt Car Racer</itunes:subtitle>
+<description>
+In this episode: There's lots of news in this episode, including Broadcom releasing the full source of its VideoCore IV GPU, a free 'Introduction to Linux' course from the Linux Foundation, CRYENGINE's imminent Linux release and the formation of a Linux Voice Steam Group. We've got some great discoveries, three neurons to vocalise and an awesome Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e05.ogg" length="56935292" 
+type="audio/ogg" />
+<pubDate>Thu, 13 Mar 2014 16:00:00 GMT</pubDate>
+<itunes:duration>1:06:32</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, Raspberry Pi, Steam, Linux </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-5/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 4</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Issue One</itunes:subtitle>
+<description>
+In this episode: Linux Voice magazine is now available throughout the UK and soon throughout the world. There are going to be Ubuntu phones this year. Linux Containers 1.0 has been released and the Mt. Gox bitcoin exchange runs into difficulty. We've got some great finds, a neuron and plenty of voices in podcast recorded in a large conference hall at the Manchester Raspberry Jamboree.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e04.ogg" length="56482061" 
+type="audio/ogg" />
+<pubDate>Fri, 28 Feb 2014 16:00:00 GMT</pubDate>
+<itunes:duration>1:06:24</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, bitcoinc, Linux </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-4/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 3</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>2400 DPI</itunes:subtitle>
+<description>
+In this episode: Debian has settled on which init system to use. Nvidia makes a great contribution to open source. It's the Year of Code in the UK, apparently. Valve gives free games to Ubuntu developers and Edward Snowden used a web crawler. We've got an epic finds section, listener neurons and the almost famous Voice of the Masses.  
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e03.ogg" length="59057821" 
+type="audio/ogg" />
+<pubDate>Thu, 13 Feb 2014 14:00:00 GMT</pubDate>
+<itunes:duration>1:07:04</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Debian, Steam, Code, Ubuntu, Linux </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-3/</guid>
+</item>
+
+<item>
+<title>Season 2 Episode 2</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>Woodforde's Wherry</itunes:subtitle>
+<description>
+In this episode: Ubuntu is now officially the most secure operating system in Britain. The first FirefoxOS tablet specs have been revealed. There's not going to be an Ubuntu Phone this year. China is working on its own Linux-based operating system and Fedora 21 will have no name. We've got some great finds this fortnight, some neurons to be vocalised and a fantastic Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e02.ogg" length="49340727" 
+type="audio/ogg" />
+<pubDate>Thu, 23 Jan 2014 20:00:00 GMT</pubDate>
+<itunes:duration>0:59:10</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Linux, Fedora, Ubuntu, FirefoxOS  </itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-2/</guid>
+</item>
+
+
+<item>
+<title>Season 2 Episode 1</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison, Mike Saunders and Nick Veitch</itunes:author>
+<itunes:subtitle>Ignorance Predators</itunes:subtitle>
+<description>
+In this episode: Linux is now more popular that ever on the desktop (and on mobile). And thanks to 14 new Steam Machines announced by Valve at CES, it's becoming a gaming behemoth. Red Hat is going to work closer with CentOS and the UK government's 'porn filter' is filtering more than porn. Also in the show, we've got the longest ever 'Finds of a Fortnight', an ace Voice of the Masses and a special guest.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e01.ogg" length="62386852" 
+type="audio/ogg" />
+<pubDate>Thu, 9 Jan 2014 14:00:00 GMT</pubDate>
+<itunes:duration>1:15:07</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Linux, Creative Commons, Ubuntu, CentOS, Fedora, SteamOS, Valve</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-2-episode-1/</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 3</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders</itunes:author>
+<itunes:subtitle>The Fellowship of the Ring</itunes:subtitle>
+<description>
+In this episode: Fedora 20 is out. A beta of SteamOS has been released and OwnCloud 6 comes out of beta. We've got some great discoveries, a real challenge report and the hugely enjoyable Voice of the Masses. Plus, we're joined by a special mystery guest.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s01e03.ogg" length="59660181" 
+type="audio/ogg" />
+<pubDate>Fri, 20 Dec 2013 20:00:00 GMT</pubDate>
+<itunes:duration>1:12:10</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Linux, Creative Commons, Ubuntu, Mint, Fedora, SteamOS, Raspberry Pi</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-1-episode-2-3/</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 2</title>
+<itunes:author>Ben Everard, Andrew Gregory and Mike Saunders</itunes:author>
+<itunes:subtitle>The Grey Havens</itunes:subtitle>
+<description>
+In this episode: Mint 16 has been released and it's ace. There could be a new Linux worm. Jolla starts making phones and Ubuntu TV isn't dead. We've got some fantastic discoveries, neurons to speak and the internet famous Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s01e02.ogg" length="53459426" 
+type="audio/ogg" />
+<pubDate>Fri, 6 Dec 2013 12:00:00 GMT</pubDate>
+<itunes:duration>0:58:45</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Linux, Creative Commons, Ubuntu, Mint, worm, Raspberry Pi</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-1-episode-2-2/</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 1</title>
+<itunes:author>Ben Everard, Andrew Gregory and Nick Veitch</itunes:author>
+<itunes:subtitle>Be the change</itunes:subtitle>
+<description>
+In this episode: We're launching Linux Voice, a new kind of Linux/Free Software magazine that gives profits and content back to the community (but we need your help). Oh, and Debian switches to XFCE, and Linux Mint explains its updates policy. We now share the world with 2,000,000 Raspberry Pis in addition to a very special podcast guest.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s01e01.ogg" length="46947996" 
+type="audio/ogg" />
+<pubDate>Fri, 22 Nov 2013 10:00:00 GMT</pubDate>
+<itunes:duration>0:57:52</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Linux, Creative Commons, Ubuntu, Unity, Debian, Raspberry Pi</itunes:keywords>
+<guid>http://www.linuxvoice.com/lv-podcast-season-1-episode-1/</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 4</title>
+<itunes:author>Andrew Gregory</itunes:author>
+<itunes:subtitle>That's LinuxVoice.com!</itunes:subtitle>
+<description>
+In this episode: We interrupt our current schedule to bring you a public service announcement. See http://www.linuxvoice.com for more details.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/s01e04.ogg" length="653455" 
+type="audio/ogg" />
+<pubDate>Mon, 11 Nov 2013 14:00:00 GMT</pubDate>
+<itunes:duration>0:00:40</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com</guid>
+</item>
+
+
+<item>
+<title>Season 1 Episode 3</title>
+<itunes:author>Ben Everard, Andrew Gregory and Mike Saunders</itunes:author>
+<itunes:subtitle>Something's brewing</itunes:subtitle>
+<description>
+In this episode: There's lot of new Ubuntu goodness and a fresh version of Firefox. Debian is to dump it's old boot scripts and OwnCloud gets closer to replacing Google Docs. Ben's writing a book and Solus OS is no more. Plus, we've got discoveries, neurons, a ballot and... one, more, thing.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/s01e03.ogg" length="48094303" 
+type="audio/ogg" />
+<pubDate>Mon, 4 Nov 2013 15:00:00 GMT</pubDate>
+<itunes:duration>0:56:13</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Ubuntu, OwnCloud, Debian, Solus, Google, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-1-episode-3/</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 2</title>
+<itunes:author>Neil Bothwick, Ben Everard, Dan Lynch, Les Pounder and Mike Saunders</itunes:author>
+<itunes:subtitle>OggCampers</itunes:subtitle>
+<description>
+In this episode: To celebrate OggCamp this weekend, we've enlisted the help of Les Pounder, Neil Bothwick and Dan 'Linux Outlaws' Lynch for a special recording from Liverpool, England. We talk about the French police force using Ubuntu, HP's new Chromebook and Nvidia driver shenanigans, plus, we've all got discoveries to share, challenges to fail at, and your opinions to listen to in the !Open Ballot.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/s01e02.ogg" length="52013552" 
+type="audio/ogg" />
+<pubDate>Thu, 17 Oct 2013 15:00:00 GMT</pubDate>
+<itunes:duration>1:07:00</itunes:duration>
+<itunes:keywords>Linux Lifestyle, Linux Outlaws, OggCamp, Ubuntu Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-1-episode-2/</guid>
+</item>
+
+<item>
+<title>Season 1 Episode 1</title>
+<itunes:author>Ben Everard, Jonathan Roberts and Mike Saunders</itunes:author>
+<itunes:subtitle>All ends with beginnings</itunes:subtitle>
+<description>
+In this episode: A famous Linux magazine has some staffing issues. GNU celebrates its 30th anniversary and Valve has announced a nifty controller for SteamOS. There's also some things we found out in a week, a section where people ask us to do other things, and the definitely not internet famous (yet) Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/s01e01.ogg" length="30756299" 
+type="audio/ogg" />
+<pubDate>Thu, 3 Oct 2013 15:00:00 GMT</pubDate>
+<itunes:duration>34:23</itunes:duration>
+<itunes:keywords>LXF, SteamOS, Valve, GNU, Richard Stallman, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-1-episode-1/</guid>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>The Linux Link Tech Show Ogg-Vorbis Feed</title>
+	<link>http://tllts.org</link>
+	<description>The Linux Link Tech Show</description>
+	<language>en-us</language>
+	<copyright>TLLTS is licensed under Creative Commons License for Non-Commercial Use</copyright>
+	<image>
+        <url>http://www.thelinuxlink.net/images/tllts_sitelogo.png</url>
+		<title>TLLTS Foreveh!</title>
+		<link>http://www.tllts.org</link>
+    </image>
+	
+
+	<lastBuildDate>Wed, 11 Nov 2015 10:30:00 EDT</lastBuildDate>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheLinuxLinkTechShowOgg-vorbisFeed" /><feedburner:info uri="thelinuxlinktechshowogg-vorbisfeed" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>TLLTS is licensed under Creative Commons License for Non-Commercial Use</media:copyright><media:thumbnail url="http://www.thelinuxlink.net/images/techshow-slackware1.png" /><media:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Operating Systems</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Computers</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/News</media:category><itunes:owner><itunes:email>techshow@thelinuxlink.net</itunes:email><itunes:name>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:name></itunes:owner><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:explicit>yes</itunes:explicit><itunes:image href="http://www.thelinuxlink.net/images/techshow-slackware1.png" /><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><itunes:subtitle>A podcast of the live recording aired Wednesday nights, 8:30 estd. We discuss a varried range of topics mostl y focusing on GNU/Linux and FOSS. We frequenty have industry guests. A good time is had by all!</itunes:subtitle><itunes:summary>A podcast of the live recording aired Wednesday nights, 8:30 estd. We discuss a varried range of topics mostl y focusing on GNU/Linux and FOSS. We frequenty have industry guests. A good time is had by all!</itunes:summary><itunes:category text="Technology"><itunes:category text="Operating Systems" /></itunes:category><itunes:category text="Technology"><itunes:category text="Computers" /></itunes:category><itunes:category text="Technology"><itunes:category text="News" /></itunes:category><creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/2.0/</creativeCommons:license><item>
+		<title>The Linux Link Tech Show Episode 633</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/GfMfMTXLY3I/tllts_633-11-11-15.ogg</link>
+        <description>debian, ubuntu derivates, couchbase, ordering services, zaman drive enclosure</description> 
+		<pubDate>Wed, 04 Nov 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_633-11-11-15.ogg" length="59485976" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_633-11-11-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_633-11-11-15.ogg" fileSize="59485976" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>debian, ubuntu derivates, couchbase, ordering services, zaman drive enclosure</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>debian, ubuntu derivates, couchbase, ordering services, zaman drive enclosure</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_633-11-11-15.ogg</feedburner:origLink></item>
+
+<item>
+		<title>The Linux Link Tech Show Episode 632</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/f0lHFxf-YCk/tllts_632-11-04-15.ogg</link>
+        <description>docker, registry services, ubuntu 15.10, redhat, chromeos, android</description> 
+		<pubDate>Wed, 04 Nov 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_632-11-04-15.ogg" length="56039305" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_632-11-04-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_632-11-04-15.ogg" fileSize="56039305" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>docker, registry services, ubuntu 15.10, redhat, chromeos, android</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>docker, registry services, ubuntu 15.10, redhat, chromeos, android</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_632-11-04-15.ogg</feedburner:origLink></item>
+
+<item>
+		<title>The Linux Link Tech Show Episode 631</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/Ff8jJVcAqhM/tllts_631-10-28-15.ogg</link>
+        <description>devops build pipeline, teamcity, rich does his own brakes</description> 
+		<pubDate>Wed, 28 Oct 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_631-10-28-15.ogg" length="53653294" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_631-10-28-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_631-10-28-15.ogg" fileSize="53653294" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>devops build pipeline, teamcity, rich does his own brakes</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>devops build pipeline, teamcity, rich does his own brakes</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_631-10-28-15.ogg</feedburner:origLink></item>
+
+<item>
+		<title>The Linux Link Tech Show Episode 630</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/udeP__Oa9U4/tllts_630-10-21-15.ogg</link>
+        <description>Windows 10 what a mess, charcoal chimney, node.js</description> 
+		<pubDate>Wed, 21 Oct 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_630-10-21-15.ogg" length="53196650" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_630-10-21-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_630-10-21-15.ogg" fileSize="53196650" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>Windows 10 what a mess, charcoal chimney, node.js</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>Windows 10 what a mess, charcoal chimney, node.js</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_630-10-21-15.ogg</feedburner:origLink></item>
+
+<item>
+		<title>The Linux Link Tech Show Episode 629</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/j68nlQ532eo/tllts_629-10-14-15.ogg</link>
+        <description>savewifi revisted, burgers, marshmallow</description> 
+		<pubDate>Wed, 14 Oct 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_629-10-14-15.ogg" length="55569713" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_629-10-14-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_629-10-14-15.ogg" fileSize="55569713" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>savewifi revisted, burgers, marshmallow</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>savewifi revisted, burgers, marshmallow</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_629-10-14-15.ogg</feedburner:origLink></item>
+
+<item>
+		<title>The Linux Link Tech Show Episode 628</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/HIfEsas8z7k/tllts_628-10-07-15.ogg</link>
+        <description>OLF recap, volkswagen, chef, memory, openfoss training</description> 
+		<pubDate>Wed, 07 Oct 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_628-10-07-15.ogg" length="51061099" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_628-10-07-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_628-10-07-15.ogg" fileSize="51061099" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>OLF recap, volkswagen, chef, memory, openfoss training</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>OLF recap, volkswagen, chef, memory, openfoss training</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_628-10-07-15.ogg</feedburner:origLink></item>
+
+<item>
+		<title>The Linux Link Tech Show Episode 627</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/lHI4YREYcgc/tllts_627-09-30-15.ogg</link>
+        <description>garage door opener, linux saves joels day, jmeter, load testing</description> 
+		<pubDate>Wed, 30 Sep 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_627-09-30-15.ogg" length="53794186" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_627-09-30-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_627-09-30-15.ogg" fileSize="53794186" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>garage door opener, linux saves joels day, jmeter, load testing</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>garage door opener, linux saves joels day, jmeter, load testing</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_627-09-30-15.ogg</feedburner:origLink></item>
+
+<item>
+		<title>The Linux Link Tech Show Episode 626</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/aXMiCxEAvQ0/tllts_626-09-23-15.ogg</link>
+        <description>linux education apps, scifi, solr, jmeter</description> 
+		<pubDate>Wed, 23 Sep 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_626-09-23-15.ogg" length="57025393" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_626-09-23-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_626-09-23-15.ogg" fileSize="57025393" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>linux education apps, scifi, solr, jmeter</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>linux education apps, scifi, solr, jmeter</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_626-09-23-15.ogg</feedburner:origLink></item>
+
+<item>
+		<title>The Linux Link Tech Show Episode 625</title>
+		<link>http://feedproxy.google.com/~r/TheLinuxLinkTechShowOgg-vorbisFeed/~3/0w4XdGyv2bA/tllts_625-09-16-15.ogg</link>
+        <description>where is the software, bomb threat, rich does not read</description> 
+		<pubDate>Wed, 16 Sep 2015 10:30:00 EDT</pubDate>
+		<enclosure url="http://www.tlltsarchive.org/archives/tllts_625-09-16-15.ogg" length="62914598" type="audio/ogg" />
+		<guid isPermaLink="false">http://www.tlltsarchive.org/archives/tllts_625-09-16-15.ogg</guid>
+<author>techshow@thelinuxlink.net (Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler)</author><media:content url="http://www.tlltsarchive.org/archives/tllts_625-09-16-15.ogg" fileSize="62914598" type="audio/ogg" /><itunes:explicit>yes</itunes:explicit><itunes:subtitle>where is the software, bomb threat, rich does not read</itunes:subtitle><itunes:author>Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</itunes:author><itunes:summary>where is the software, bomb threat, rich does not read</itunes:summary><itunes:keywords>Linux, OpenSource, GNU, FreeSoftware, FOSS, BSD, Ubuntu, Kanotix, Slackware, Debian, Arch Linux</itunes:keywords><feedburner:origLink>http://www.tlltsarchive.org/archives/tllts_625-09-16-15.ogg</feedburner:origLink></item>
+<media:credit role="author">Dann Washko, Linc Fessenden, Pat Davila, Allan Metzler</media:credit><media:rating>adult</media:rating></channel>
+</rss>

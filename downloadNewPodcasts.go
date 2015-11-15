@@ -5,16 +5,18 @@ import (
 	"fmt"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"io/ioutil"
+	"math/rand"
 	"net/http"
 	"os"
+	"strconv"
 	"strings"
 )
 
 func main() {
 
-	xml, _ := ioutil.ReadFile("parsing/TestFiles/PhoneLosersOfAmerica.xml")
+	//xml, _ := ioutil.ReadFile("parsing/TestFiles/PhoneLosersOfAmerica.xml")
 
-	processFeedContent(&xml)
+	//processFeedContent(&xml)
 
 	path := "parsing/TestFiles/subscriptions"
 
@@ -37,15 +39,42 @@ func processFeedUrl(feedUrl string) {
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
 			fmt.Println("Getting " + feedUrl)
-			response, _ := http.Get(feedUrl)
-			defer response.Body.Close()
-			body, _ := ioutil.ReadAll(response.Body)
-			processFeedContent(&body)
+
+			response, httpErr := http.Get(feedUrl)
+
+			if httpErr != nil {
+
+				fmt.Println("ERR\t" + httpErr.Error())
+
+			} else {
+
+				defer response.Body.Close()
+				body, _ := ioutil.ReadAll(response.Body)
+				//processFeedContent(&body)
+				fmt.Println(checkRssParser(body))
+			}
 		}
 	}
 }
 
-func processFeedContent(content *[]byte) parsing.Feed {
+func checkRssParser(content []byte) string {
+
+	parser := parsing.RssParser{}
+
+	feed, err := parser.ParseFeedContent(content)
+
+	if err != nil {
+		errFileName := strconv.FormatInt(int64(rand.Int()), 16) + "Err.xml"
+
+		ioutil.WriteFile("parsing"+string(os.PathSeparator)+"TestFiles"+string(os.PathSeparator)+errFileName, content, 0644)
+		return "ERR\t" + err.Error()
+	} else {
+		ioutil.WriteFile("parsing"+string(os.PathSeparator)+"TestFiles"+string(os.PathSeparator)+feed.Channel.Title+".xml", content, 0644)
+		return "OK\t" + feed.Channel.Title
+	}
+}
+
+func processFeedContent(content []byte) parsing.Feed {
 
 	parser := parsing.RssParser{}
 

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>37signals Podcast</title>
+    <link>http://www.37signals.com/podcast</link>
+    <description><![CDATA[A look at the world of 37signals, the Chicago-based web application company. Discussions about business, design, experience, simplicity, and more. Featuring Jason Fried and David Heinemeier Hansson.]]></description>
+    <copyright>Copyright 2009 37signals, LLC</copyright>
+    <language>en-us</language>
+
+    <itunes:summary><![CDATA[A look at the world of 37signals, the Chicago-based web application company. Discussions about business, design, experience, simplicity, and more. Featuring Jason Fried and David Heinemeier Hansson.]]></itunes:summary>
+    <itunes:subtitle>A behind the scenes look at 37signals.</itunes:subtitle>
+    <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+    <itunes:author>37signals</itunes:author>
+    <itunes:owner>
+      <itunes:email />
+      <itunes:name />
+
+    </itunes:owner>
+    <itunes:category text="Business" />
+    <itunes:image href="http://37assets.s3.amazonaws.com/audio/37s-podcast-big.png" />
+    <itunes:explicit>yes</itunes:explicit>
+    <image>
+      <url>http://37assets.s3.amazonaws.com/audio/37s-podcast-small.png</url>
+      <title>37signals Podcast</title>
+
+      <link>http://www.37signals.com/podcast</link>
+    </image>
+    <lastBuildDate>Thu, 2 Sep 2010 04:37:48 -0400</lastBuildDate>
+
+
+
+
+
+
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/37signals_podcast" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="37signals_podcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+      <title>#26: Q and A with Jason and David (May 2011)</title>
+      <description><![CDATA[37signals founders answer questions from readers at Signal vs. Noise.]]></description>
+      <pubDate>Tue, 16 May 2011 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode26</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep26-05_17_11.mp3</guid>
+      <itunes:summary><![CDATA[37signals founders answer questions from readers at Signal vs. Noise.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>37:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep26-05_17_11.mp3" length="13557102" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#25: Hiring</title>
+      <description><![CDATA[A discussion about hiring and applying for jobs.]]></description>
+      <pubDate>Mon, 17 Jan 2011 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode25</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep25-01_14_11.mp3</guid>
+      <itunes:summary><![CDATA[A discussion about hiring and applying for jobs.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>16:08</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep25-01_14_11.mp3" length="13557102" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#24: The new 37signals office</title>
+      <description><![CDATA[Q&A about the new office space.]]></description>
+      <pubDate>Mon, 13 Dec 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode24</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep24-12_13_10.mp3</guid>
+      <itunes:summary><![CDATA[Q&A about the new office space.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>11:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep24-12_13_10.mp3" length="9525102" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#23: The 37signals Suite</title>
+      <description><![CDATA[The story behind the new 37signals Suite.]]></description>
+      <pubDate>Mon, 22 Nov 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode23</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep23-11_22_10.mp3</guid>
+      <itunes:summary><![CDATA[The story behind the new 37signals Suite.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>09:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep23-11_22_10.mp3" length="8348965" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#22: Programming roundtable (Part 3 of 3)</title>
+      <description><![CDATA[Three members of the 37signals programming team answer listener questions.]]></description>
+      <pubDate>Mon, 11 Oct 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode22</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep22-10_11_10.mp3</guid>
+      <itunes:summary><![CDATA[Three members of the 37signals programming team answer listener questions.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>25:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep22-10_11_10.mp3" length="21396920" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#21: Programming roundtable (Part 2 of 3)</title>
+      <description><![CDATA[Three members of the 37signals programming team answer listener questions.]]></description>
+      <pubDate>Thu, 15 Sep 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode21</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep21-09_15_10.mp3</guid>
+      <itunes:summary><![CDATA[Three members of the 37signals programming team answer listener questions.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>20:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep21-09_15_10.mp3" length="17001034" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#20: Programming roundtable (Part 1 of 3)</title>
+      <description><![CDATA[Three members of the 37signals programming team answer listener questions.]]></description>
+      <pubDate>Thu, 2 Sep 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode20</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep20-09_02_10.mp3</guid>
+      <itunes:summary><![CDATA[Three members of the 37signals programming team answer listener questions.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>19:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep20-09_02_10.mp3" length="16497079" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#19: A day in the REWORK writing process</title>
+      <description><![CDATA[Audio clips of Jason, David, and Matt collaborating on the book.]]></description>
+      <pubDate>Tue, 10 Aug 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode19</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep19-08_09_10.mp3</guid>
+      <itunes:summary><![CDATA[Audio clips of Jason, David, and Matt collaborating on the book.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>23:48</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep19-08_09_10.mp3" length="19996965" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#18: Design roundtable (Part 3 of 3)</title>
+      <description><![CDATA[Part 3 of a roundtable discussion with members of the 37signals design team.]]></description>
+      <pubDate>Thu, 15 Jul 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode18</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep18-07_15_10.mp3</guid>
+      <itunes:summary><![CDATA[Part 3 of a roundtable discussion with members of the 37signals design team.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>19:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep18-07_15_10.mp3" length="16160988" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#17: Design roundtable (Part 2 of 3)</title>
+      <description><![CDATA[Part 2 of a roundtable discussion with members of the 37signals design team.]]></description>
+      <pubDate>Tue, 29 Jun 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode17</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep17-06_29_10.mp3</guid>
+      <itunes:summary><![CDATA[Part 2 of a roundtable discussion with members of the 37signals design team.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>13:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep17-06_29_10.mp3" length="13080942" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#16: Design roundtable (Part 1 of 3)</title>
+      <description><![CDATA[Part 1 of a roundtable discussion with members of the 37signals design team.]]></description>
+      <pubDate>Tue, 15 Jun 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode16</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep16-06_15_10.mp3</guid>
+      <itunes:summary><![CDATA[Part 1 of a roundtable discussion with members of the 37signals design team.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>15:34</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep16-06_15_10.mp3" length="13080942" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#15: Support at 37signals</title>
+      <description><![CDATA[The support team discusses helping out customers.]]></description>
+      <pubDate>Tue, 25 May 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode15</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep15-05_24_10.mp3</guid>
+      <itunes:summary><![CDATA[The support team discusses helping out customers.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>23:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep15-05_24_10.mp3" length="19521171" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#14: Addressing criticism of 37signals (Part 2 of 2)</title>
+      <description><![CDATA[Responding to some harsh reviews of REWORK.]]></description>
+      <pubDate>Tue, 11 May 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode14</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep14-05_11_10.mp3</guid>
+      <itunes:summary><![CDATA[Responding to some harsh reviews of REWORK.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>15:34</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep14-05_11_10.mp3" length="13080942" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#13: Addressing criticism of 37signals (Part 1 of 2)</title>
+      <description><![CDATA[Responding to online criticism of 37signals.]]></description>
+      <pubDate>Tue, 27 Apr 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode13</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep13-04_27_10.mp3</guid>
+      <itunes:summary><![CDATA[Responding to online criticism of 37signals.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>25:30</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep13-04_27_10.mp3" length="24485221" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#12: Being a Systems Administrator at 37signals</title>
+      <description><![CDATA[Mark, Joshua, and John on life as a 37signals Sys Admin.]]></description>
+      <pubDate>Tue, 13 Apr 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode12</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep12-04_13_10.mp3</guid>
+      <itunes:summary><![CDATA[Mark, Joshua, and John on life as a 37signals Sys Admin.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>18:14</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep12-04_13_10.mp3" length="21925220" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#11: Another round of rapid fire Q&amp;A</title>
+      <description><![CDATA[One last round (for now) of listener questions.]]></description>
+      <pubDate>Thu, 30 Mar 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode11</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep11-03_30_10.mp3</guid>
+      <itunes:summary><![CDATA[One last round (for now) of listener questions.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>18:14</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/37signals_podcast_ep11-03_30_10.mp3" length="17509064" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#10: More rapid fire Q&amp;A</title>
+      <description><![CDATA[Jason and David answer more questions in rapid fire style.]]></description>
+      <pubDate>Thu, 18 Mar 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode10</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode10-03_17_10.mp3</guid>
+      <itunes:summary><![CDATA[Jason and David answer more questions in rapid fire style.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>17:08</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode10-03_17_10.mp3" length="16453299" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#9: All about REWORK</title>
+      <description><![CDATA[Details on the new business book from 37signals.]]></description>
+      <pubDate>Tue, 02 Mar 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode9</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode9-03_02_10.mp3</guid>
+      <itunes:summary><![CDATA[Details on the new business book from 37signals.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>41:20</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode9-03_02_10.mp3" length="39685143" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#8: Rapid fire Q&amp;A</title>
+      <description><![CDATA[Jason and David answer your questions in rapid fire style.]]></description>
+      <pubDate>Tue, 16 Feb 2010 12:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode8</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode8-02_16_10.mp3</guid>
+      <itunes:summary><![CDATA[Jason and David answer your questions in rapid fire style.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>22:08</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode8-02_16_10.mp3" length="21253142" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#7: Ryan Singer on the 37signals design process</title>
+      <description><![CDATA[Life as a 37signals project manager.]]></description>
+      <pubDate>Tue, 02 Feb 2010 12:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode7</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode7-02_02_10.mp3</guid>
+      <itunes:summary><![CDATA[Life as a 37signals project manager.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>19:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode7-02_02_10.mp3" length="18629194" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#6: 1) 37signals ID launch 2) A new way of working</title>
+      <description><![CDATA[What was surprising about launching 37signals ID and a new team setup at 37signals.]]></description>
+      <pubDate>Tue, 19 Jan 2010 12:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode6</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode6-01_19_10.mp3</guid>
+      <itunes:summary><![CDATA[What was surprising about launching 37signals ID and a new team setup at 37signals.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>21:02</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode6-01_19_10.mp3" length="20196959" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+   <item>
+      <title>#5: A secret to making money online</title>
+      <description><![CDATA[David on how you can grow a company without looking for funding.]]></description>
+      <pubDate>Tue, 04 Jan 2010 10:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode5</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode5-01_05_2010.mp3</guid>
+      <itunes:summary><![CDATA[David on how you can grow a company without looking for funding.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>26:36</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode5-01_05_2010.mp3" length="31925206" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#4: Jason Fried's speech at BIG Omaha 2009</title>
+      <description><![CDATA[Jason discusses what he's learned at 37signals over the years.]]></description>
+      <pubDate>Tue, 15 Dec 2009 3:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode4</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode4-12_15_2009.mp3</guid>
+      <itunes:summary><![CDATA[Jason discusses what he's learned at 37signals over the years.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>21:36</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode4-12_15_2009.mp3" length="25925402" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#3: Making people pay</title>
+      <description><![CDATA[Free vs. pay, how to set prices, and why targeting nonconsumption is a good idea.]]></description>
+      <pubDate>Tue, 1 Dec 2009 3:37:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode3</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode3-12_01_2009.mp3</guid>
+      <itunes:summary><![CDATA[Free vs. pay, how to set prices, and why targeting nonconsumption is a good idea.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>17:06</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode3-12_01_2009.mp3" length="20525369" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#2: Valuation tales</title>
+      <description><![CDATA[Behind the mock press release claiming 37signals is worth $100 billion and a dicussion of tech valuations/acquisitions.]]></description>
+      <pubDate>Tue, 17 Nov 2009 10:32:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode2</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode2-11_02_2009.mp3</guid>
+      <itunes:summary><![CDATA[Behind the mock press release claiming 37signals is worth $100 billion and a dicussion of tech valuations/acquisitions.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>24:10</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode2-11_02_2009.mp3" length="23266494" type="audio/mpeg" />
+    </item>
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>#1: CEO office hours and Haystack launch</title>
+      <description><![CDATA[Jason and David discuss 1) CEO office hours, 2) The launch of Haystack, and 3) Nature and design.]]></description>
+      <pubDate>Wed, 28 Oct 2009 14:32:48 -0400</pubDate>
+
+      <link>http://37signals.com/podcast#episode1</link>
+      <guid>http://37assets.s3.amazonaws.com/audio/Episode%201%20-%2010_28_2009.mp3</guid>
+      <itunes:summary><![CDATA[Jason and David discuss 1) CEO office hours, 2) The launch of Haystack, and 3) Nature and design.]]></itunes:summary>
+      <itunes:keywords>37signals,podcast,Jason Fried,David Heinemeier Hansson,Matt Linderman,web,internet,entrepreneurship,business,design,experience,Rework,Getting Real,Basecamp,Highrise,Backpack,Ruby on Rails</itunes:keywords>
+      <itunes:duration>17:22</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+
+      <enclosure url="http://37assets.s3.amazonaws.com/audio/Episode%201%20-%2010_28_2009.mp3" length="16735273" type="audio/mpeg" />
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pragmatic Podcasts</title>
+    <link>https://pragprog.com/podcasts</link>
+    <atom:link href="https://pragprog.com/podcasts/feed.rss" rel="self" type="application/rss+xml"/>
+    <description>Pragmatic interviews, news, techniques, and more from the Pragmatic Bookshelf.</description>
+    <language>en-us</language>
+    <copyright>© 2015 The Pragmatic Programmers, LLC</copyright>
+    <itunes:subtitle>Guiding You From Journeyman to Master</itunes:subtitle>
+    <itunes:author>The Pragmatic Programmers</itunes:author>
+    <itunes:summary>Pragmatic interviews, news, techniques, and more from the Pragmatic Bookshelf.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>The Pragmatic Programmers</itunes:name>
+      <itunes:email>pragprog@pragprog.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="/assets/pragmatic-podcast-9e59f5db50d86b2328469bf4e76d3ca3.png"/>
+    <image>
+      <url>/assets/pragmatic-podcast-smaller-6448405538206652e442f5ce2df3118a.jpg</url>
+      <title>Pragmatic Podcasts</title>
+      <link>https://pragprog.com/podcasts</link>
+      <width>144</width>
+      <height>144</height>
+      <description>The Pragmatic Programmers, guiding you from journeyman to master</description>
+    </image>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <itunes:explicit>clean</itunes:explicit>
+    <item>
+      <title>Interview with Trevor Burnham on CoffeeScript</title>
+      <description>CoffeeScript burst onto the scene at the end of 2009, and is beginning to show up everywhere. Ruby on Rails now ships with it as the default way to write JavaScript, and even Brendan Eich (the creator of JavaScript) has mentioned CoffeeScript as an influence on the future of JavaScript. What’s all the fuss about? Is CoffeeScript just hype, or is there really something to it?
+
+Trevor Burnham literally wrote the book on CoffeeScript. In this PragCast interview we talk to him about the “human-friendly dialect of JavaScript,” what it is, where it’s going, and how CoffeeScript can actually make you a better JavaScript programmer.
+</description>
+      <pubDate>Wed, 21 Sep 2011 13:42:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/38</guid>
+      <link>http://pragprog.com/titles/tbcoffee</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>Miles Forrest</itunes:author>
+      <itunes:subtitle>Human-friendly JavaScript</itunes:subtitle>
+      <itunes:summary>CoffeeScript burst onto the scene at the end of 2009, and is beginning to show up everywhere. Ruby on Rails now ships with it as the default way to write JavaScript, and even Brendan Eich (the creator of JavaScript) has mentioned CoffeeScript as an influence on the future of JavaScript. What’s all the fuss about? Is CoffeeScript just hype, or is there really something to it?
+
+Trevor Burnham literally wrote the book on CoffeeScript. In this PragCast interview we talk to him about the “human-friendly dialect of JavaScript,” what it is, where it’s going, and how CoffeeScript can actually make you a better JavaScript programmer.
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2011-09/interview-with-trevor-burnham-on-coffeescript.mp3" length="12255069" type="audio/mpeg"/>
+      <itunes:duration>1529</itunes:duration>
+      <itunes:keywords>coffeescript, javascript</itunes:keywords>
+    </item>
+    <item>
+      <title>Interview with Avdi Grimm, author of "Exceptional Ruby"</title>
+      <description>Miles Forrest interviews Avdi Grimm on his new book "Exceptional Ruby". Dealing with unexpected failures in code is tough, and oftentimes error processing is dealt with in a haphazard way. Hear the 5 questions you need to ask before writing code to handle unexpected failures, as well as his story about a cascading failure that went from bad to worse.
+</description>
+      <pubDate>Wed, 15 Jun 2011 10:40:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/37</guid>
+      <link>http://pragprog.com/titles/ager</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>Miles Forrest</itunes:author>
+      <itunes:subtitle>Dealing with the Unexpected</itunes:subtitle>
+      <itunes:summary>Miles Forrest interviews Avdi Grimm on his new book "Exceptional Ruby". Dealing with unexpected failures in code is tough, and oftentimes error processing is dealt with in a haphazard way. Hear the 5 questions you need to ask before writing code to handle unexpected failures, as well as his story about a cascading failure that went from bad to worse.
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2011-06/interview-with-avdi-grimm-author-of-exceptional-ruby.mp3" length="11529910" type="audio/mpeg"/>
+      <itunes:duration>1439</itunes:duration>
+      <itunes:keywords>ruby, exception, exception handling, podcast, error processing</itunes:keywords>
+    </item>
+    <item>
+      <title>Ward Cunningham Interview</title>
+      <description>In 1995 Ward Cunningham created the first wiki for the Portland Pattern Society. Now, 16 years later, hear what this tech luminary has to say about Wikipedia and even the controversial Wikileaks. For host Miles Forrest, this has been one of his favorite interviews, and he talks to Ward about his hobby of building Aruduino robots, the rise and fall of Smalltalk, and poses the question if Ward could commission IBM's next Grand Challenge after beating human opponents at Jeopardy, what would he build?
+</description>
+      <pubDate>Wed, 16 Mar 2011 14:15:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/36</guid>
+      <link>http://pragprog.com/titles/msard</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>Miles Forrest</itunes:author>
+      <itunes:subtitle>Sixteen years after the birth of Wiki</itunes:subtitle>
+      <itunes:summary>In 1995 Ward Cunningham created the first wiki for the Portland Pattern Society. Now, 16 years later, hear what this tech luminary has to say about Wikipedia and even the controversial Wikileaks. For host Miles Forrest, this has been one of his favorite interviews, and he talks to Ward about his hobby of building Aruduino robots, the rise and fall of Smalltalk, and poses the question if Ward could commission IBM's next Grand Challenge after beating human opponents at Jeopardy, what would he build?
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2011-03/ward-cunningham-interview.mp3" length="26390113" type="audio/mpeg"/>
+      <itunes:duration>2842</itunes:duration>
+      <itunes:keywords>wiki, Ward Cunningham, C2, wikileaks, Arduino, smalltalk, IBM, Jeopardy, agile, founder</itunes:keywords>
+    </item>
+    <item>
+      <title>The Future of Web Development</title>
+      <description>HTML5 and CSS3 are the future of web development, and in this episode of the pragmatic podcast, Brian Hogan talks about his new book "HTML5 and CSS3: Develop with Tomorrow's Standards Today".
+
+HTML5 is quickly becoming a marketing term, a new buzzword with a fancy logo that may put some people off. Is this a good or bad thing? Are there features in HTML5/CSS3 that make adopting these technologies now worth the effort? Brian even tackles the HTML5 vs Flash debate, and answers the question "Is Flash dead?". 
+
+Hosted by Miles Forrest.
+</description>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/35</guid>
+      <link>http://pragprog.com/titles/bhh5</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>Miles Forrest</itunes:author>
+      <itunes:subtitle>with HTML5 and CSS3</itunes:subtitle>
+      <itunes:summary>HTML5 and CSS3 are the future of web development, and in this episode of the pragmatic podcast, Brian Hogan talks about his new book "HTML5 and CSS3: Develop with Tomorrow's Standards Today".
+
+HTML5 is quickly becoming a marketing term, a new buzzword with a fancy logo that may put some people off. Is this a good or bad thing? Are there features in HTML5/CSS3 that make adopting these technologies now worth the effort? Brian even tackles the HTML5 vs Flash debate, and answers the question "Is Flash dead?". 
+
+Hosted by Miles Forrest.
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2011-02/the-future-of-web-development.mp3" length="22384303" type="audio/mpeg"/>
+      <itunes:duration>2152</itunes:duration>
+      <itunes:keywords>html, xhtml, css, flash, standards, accessibility</itunes:keywords>
+    </item>
+    <item>
+      <title>Johanna Rothman Interview, with Ian Dees</title>
+      <description>Miles Forrest talks about multitasking and getting things done with Johanna Rothman and Ian Dees.
+
+Everyone manages time, whether you keep it all in your head, write it down on paper, or enter it in some form of electronic organizer. But what do you do when you have a really big project? What do you do when you say "I want to do it all!" but end up going nowhere fast?  Author Johanna Rothman shares techniques that work.
+
+Johanna began managing projects back in 1984 when there was no Internet, no voice mail, and tools like spreadsheets had just been invented. As she grew in her abilities to manage large, complicated projects with hundreds of developers, she branched out, working as a consultant for the last 16 years.  Her most recent book, "Managing You Project Portfolio", helps you organize multiple projects and evaluate them without getting buried under a mountain of statistics.</description>
+      <pubDate>Wed, 26 Jan 2011 16:01:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/34</guid>
+      <link>http://pragprog.com/titles/jrport</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>Miles Forrest</itunes:author>
+      <itunes:subtitle>Getting it All Done</itunes:subtitle>
+      <itunes:summary>Miles Forrest talks about multitasking and getting things done with Johanna Rothman and Ian Dees.
+
+Everyone manages time, whether you keep it all in your head, write it down on paper, or enter it in some form of electronic organizer. But what do you do when you have a really big project? What do you do when you say "I want to do it all!" but end up going nowhere fast?  Author Johanna Rothman shares techniques that work.
+
+Johanna began managing projects back in 1984 when there was no Internet, no voice mail, and tools like spreadsheets had just been invented. As she grew in her abilities to manage large, complicated projects with hundreds of developers, she branched out, working as a consultant for the last 16 years.  Her most recent book, "Managing You Project Portfolio", helps you organize multiple projects and evaluate them without getting buried under a mountain of statistics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2011-01/johanna-rothman-interview-with-ian-dees.mp3" length="27361449" type="audio/mpeg"/>
+      <itunes:duration>2663</itunes:duration>
+      <itunes:keywords>agile, xp, scrum, method, project, management, kanban</itunes:keywords>
+    </item>
+    <item>
+      <title>Jonathan Rasmusson Interview</title>
+      <description>Jonathan Rasmusson discusses his new book "The Agile Samurai: How Agile Masters Deliver Great Software". As a former evangelist for ThoughtWorks, Jonathan brings a real world, hands-covered-in-muck approach to the subject of Agile development. What is Agile, really? And not from a theoretical point of view, but from the trenches? What works? What doesn't? How do you get started? Although "exciting" might not be a word most people think of when discussing software development, Jonathan's energy and infectious enthusiasm is apparent on this interview with host Miles Forrest.</description>
+      <pubDate>Tue, 07 Dec 2010 10:34:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/33</guid>
+      <link>http://pragprog.com/titles/jtrap</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>Miles Forrest</itunes:author>
+      <itunes:subtitle>Tales of the Agile Samurai</itunes:subtitle>
+      <itunes:summary>Jonathan Rasmusson discusses his new book "The Agile Samurai: How Agile Masters Deliver Great Software". As a former evangelist for ThoughtWorks, Jonathan brings a real world, hands-covered-in-muck approach to the subject of Agile development. What is Agile, really? And not from a theoretical point of view, but from the trenches? What works? What doesn't? How do you get started? Although "exciting" might not be a word most people think of when discussing software development, Jonathan's energy and infectious enthusiasm is apparent on this interview with host Miles Forrest.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2010-12/jonathan-rasmusson-interview.mp3" length="22558861" type="audio/mpeg"/>
+      <itunes:duration>2393</itunes:duration>
+      <itunes:keywords>agile, xp, scrum, agile samurai, agile masters</itunes:keywords>
+    </item>
+    <item>
+      <title>Robert Martin interview</title>
+      <description>In this episode, your host Miles Forrest interviews Robert Martin, know by many as "Uncle Bob."  Bob has been slinging code for 40 years, and still loves coding.  As Bob puts it, "I want to code till I die and I don't want to die soon."
+
+Bob reveals his thoughts on the craft of programming and hopes for the next computer language, including the solution to the Moore's Law dilemma that dates back to 1957.  He'll describe the right way to write a framework (hint: don't _write_ it) and discuss current problems and opportunities with agile development methods.
+
+Discover the *Most Horrible Invention* in the last twenty years (and possibly the most popular!) and what Bob thinks about experience, mentorship and science fiction.</description>
+      <pubDate>Wed, 13 Oct 2010 06:28:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/32</guid>
+      <link>http://pragprog.com</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>Miles Forrest</itunes:author>
+      <itunes:subtitle>What's on Uncle Bob's Mind</itunes:subtitle>
+      <itunes:summary>In this episode, your host Miles Forrest interviews Robert Martin, know by many as "Uncle Bob."  Bob has been slinging code for 40 years, and still loves coding.  As Bob puts it, "I want to code till I die and I don't want to die soon."
+
+Bob reveals his thoughts on the craft of programming and hopes for the next computer language, including the solution to the Moore's Law dilemma that dates back to 1957.  He'll describe the right way to write a framework (hint: don't _write_ it) and discuss current problems and opportunities with agile development methods.
+
+Discover the *Most Horrible Invention* in the last twenty years (and possibly the most popular!) and what Bob thinks about experience, mentorship and science fiction.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2010-10/robert-martin-interview.mp3" length="29236865" type="audio/mpeg"/>
+      <itunes:duration>2951</itunes:duration>
+      <itunes:keywords>agile, clojure. xp, listp. how to program</itunes:keywords>
+    </item>
+    <item>
+      <title>Michael Swaine on Prag Pub</title>
+      <description>MIchael Swaine describes coming on board with the Pragmatic Programmers, his years of experience with InfoWorld and Dr. Dobbs Journal, the joy of programming, and the Fire in the Valley.   He talks about the need for agility, the search for new ideas, and the future of magazines in general.</description>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/31</guid>
+      <link>http://pragprog.com/magazines</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Getting to Iteration One</itunes:subtitle>
+      <itunes:summary>MIchael Swaine describes coming on board with the Pragmatic Programmers, his years of experience with InfoWorld and Dr. Dobbs Journal, the joy of programming, and the Fire in the Valley.   He talks about the need for agility, the search for new ideas, and the future of magazines in general.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2009-06/michael-swaine-on-prag-pub.mp3" length="8621895" type="audio/mpeg"/>
+      <itunes:duration>1077</itunes:duration>
+      <itunes:keywords>PragPub, michael swaine, swaine's world</itunes:keywords>
+    </item>
+    <item>
+      <title>Bill Dudney and Chris Adamson on iPhone 3.0 SDK Development</title>
+      <description>Hear what iPhone SDK authors Chris Adamson and Bill Dudney have to say on this week's podcast. They'll discuss Apple's design patterns and their feat of
+getting the 3.0 beta book out on the same day Apple publicly released the SDK.  You'll also hear about the advantages of the new programmable GPU, the new availability of Core Data and AV classes for audio apps, in-app purchasing, plus what didn't come in the new 3.0. Chris and Bill will talk about how the iPhone programing model is significantly different from desktop programming, and offer some thoughts on what's coming next.</description>
+      <pubDate>Wed, 24 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/29</guid>
+      <link>http://pragprog.com/titles/amiphd</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Apple's design patterns and more</itunes:subtitle>
+      <itunes:summary>Hear what iPhone SDK authors Chris Adamson and Bill Dudney have to say on this week's podcast. They'll discuss Apple's design patterns and their feat of
+getting the 3.0 beta book out on the same day Apple publicly released the SDK.  You'll also hear about the advantages of the new programmable GPU, the new availability of Core Data and AV classes for audio apps, in-app purchasing, plus what didn't come in the new 3.0. Chris and Bill will talk about how the iPhone programing model is significantly different from desktop programming, and offer some thoughts on what's coming next.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2009-06/bill-dudney-and-chris-adamson-on-iphone-3-0-sdk-development.mp3" length="10457386" type="audio/mpeg"/>
+      <itunes:duration>1307</itunes:duration>
+      <itunes:keywords>iphone, mac os x, cocoa, 3.0, 3.0 sdk,  </itunes:keywords>
+    </item>
+    <item>
+      <title>Andy Lester: Land the Tech Job You Love</title>
+      <description>Andy Lester, author of "Land the Tech Job You Love," tells Susannah Pfalzer all about job hunting in today’s tech world. He explains why job boards do not work for 90% of job seekers, and what makes a great resume--and how most people blow it. Andy tells you how to make yourself hirable and promotable, and how to use your resume as a tracking tool.
+
+Even with this economy, and fewer jobs available, the way you look for a job doesn’t change, just the priorities. Join Andy Lester and see how to land the tech job you’ll love.
+
+
+
+
+
+
+</description>
+      <pubDate>Wed, 06 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/27</guid>
+      <link>http://pragprog.com/titles/algh</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Tech Skills aren't enough</itunes:subtitle>
+      <itunes:summary>Andy Lester, author of "Land the Tech Job You Love," tells Susannah Pfalzer all about job hunting in today’s tech world. He explains why job boards do not work for 90% of job seekers, and what makes a great resume--and how most people blow it. Andy tells you how to make yourself hirable and promotable, and how to use your resume as a tracking tool.
+
+Even with this economy, and fewer jobs available, the way you look for a job doesn’t change, just the priorities. Join Andy Lester and see how to land the tech job you’ll love.
+
+
+
+
+
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2009-05/andy-lester-land-the-tech-job-you-love.mp3" length="10491014" type="audio/mpeg"/>
+      <itunes:duration>1311</itunes:duration>
+      <itunes:keywords>help wanted, jobs, employment, interview skills, interviewing, resume, resume writing, find a job</itunes:keywords>
+    </item>
+    <item>
+      <title>Chad Fowler on the Passionate Programmer</title>
+      <description>Susannah Pfalzer interviews Chad Fowler on his new book, "The Passionate Programmer." Chad talks about the reality of the two job markets, and how you have to focus on winning, not just on "not losing."  He'll discuss steps to take in avoiding a career-by-coincidence, and how improving your career is really improving your life. Unlike other projects you've worked on, this time *you* are the product.  See how to make the most of it.
+
+</description>
+      <pubDate>Tue, 14 Apr 2009 14:32:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/26</guid>
+      <link>http://pragprog.com/titles/cfcar2</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Builds a remarkable career</itunes:subtitle>
+      <itunes:summary>Susannah Pfalzer interviews Chad Fowler on his new book, "The Passionate Programmer." Chad talks about the reality of the two job markets, and how you have to focus on winning, not just on "not losing."  He'll discuss steps to take in avoiding a career-by-coincidence, and how improving your career is really improving your life. Unlike other projects you've worked on, this time *you* are the product.  See how to make the most of it.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2009-04/chad-fowler-on-the-passionate-programmer.mp3" length="8787197" type="audio/mpeg"/>
+      <itunes:duration>1098</itunes:duration>
+      <itunes:keywords>job, career, pragmatic programmer</itunes:keywords>
+    </item>
+    <item>
+      <title>Maik Schmidt on Ruby and Rails in the Enterprise</title>
+      <description>Author Maik Schmidt tells Susannah Pfalzer all about the problems faced by software developers in the enterprise, and dealing with effectively with a potentially hostile environment, including adopting an agile approach in a non-agile world.  Maik explains how to use Ruby and Rails to manage security issues, encryption, using Java and Ruby together, screen scraping and more. See how the ease of the new Ruby and Rails makes it ready for business.
+</description>
+      <pubDate>Wed, 04 Feb 2009 14:41:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/25</guid>
+      <link>http://pragprog.com/titles/msenr</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Now it's ready for business</itunes:subtitle>
+      <itunes:summary>Author Maik Schmidt tells Susannah Pfalzer all about the problems faced by software developers in the enterprise, and dealing with effectively with a potentially hostile environment, including adopting an agile approach in a non-agile world.  Maik explains how to use Ruby and Rails to manage security issues, encryption, using Java and Ruby together, screen scraping and more. See how the ease of the new Ruby and Rails makes it ready for business.
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2009-02/maik-schmidt-on-ruby-and-rails-in-the-enterprise.mp3" length="8040514" type="audio/mpeg"/>
+      <itunes:duration>1005</itunes:duration>
+      <itunes:keywords>ruby, rails, enterprise</itunes:keywords>
+    </item>
+    <item>
+      <title>Stuart Halloway on Programming Clojure</title>
+      <description>Stuart Halloway, author of "Programming Clojure", tells Susannah Pfalzer all about this new and cool programming language.  Stuart explains how Clojure helps you move beyond noun-based programming toward verb-based programming, and why pure functions are important for concurrency.  It's a lot of Lisp, but with Less parentheses--even fewer than Java itself.  See how to be more expressive on the Java VM, and how Clojure is different from Scala and Groovy.
+
+</description>
+      <pubDate>Wed, 03 Dec 2008 05:57:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/24</guid>
+      <link>http://pragprog.com/titles/shcloj</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Be more expressive on the Java VM</itunes:subtitle>
+      <itunes:summary>Stuart Halloway, author of "Programming Clojure", tells Susannah Pfalzer all about this new and cool programming language.  Stuart explains how Clojure helps you move beyond noun-based programming toward verb-based programming, and why pure functions are important for concurrency.  It's a lot of Lisp, but with Less parentheses--even fewer than Java itself.  See how to be more expressive on the Java VM, and how Clojure is different from Scala and Groovy.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-12/stuart-halloway-on-programming-clojure.mp3" length="11073022" type="audio/mpeg"/>
+      <itunes:duration>1384</itunes:duration>
+      <itunes:keywords>Clojure, jvm, Java, Scala, Groovy, functional programming, concurrency, concurrent programming</itunes:keywords>
+    </item>
+    <item>
+      <title>Marcus Zarra on Core Data for Mac OS X</title>
+      <description>Marcus Zarra talk about Apple's Core Data API: just as Interface Builder made GUI's much easier, Core Data makes managing an application's data much easier. Marcus explains how, and discusses Core Data's advantages as well as hints and tips to getting the most out of it.
+
+</description>
+      <pubDate>Wed, 05 Nov 2008 06:29:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/23</guid>
+      <link>http://pragprog.com/titles/mzcd</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Huge gains in developer productivity and performance</itunes:subtitle>
+      <itunes:summary>Marcus Zarra talk about Apple's Core Data API: just as Interface Builder made GUI's much easier, Core Data makes managing an application's data much easier. Marcus explains how, and discusses Core Data's advantages as well as hints and tips to getting the most out of it.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-11/marcus-zarra-on-core-data-for-mac-os-x.mp3" length="10962884" type="audio/mpeg"/>
+      <itunes:duration>913</itunes:duration>
+      <itunes:keywords>apple cocoa, apple framework, serialize, core data, enterprise objects, database, layer</itunes:keywords>
+    </item>
+    <item>
+      <title>Jeff Cohen and Brian Eng on Rails for .Net Developers</title>
+      <description>Pragmatic editor Susannah Pfalzer interviews authors Jeff Cohen and Brian Eng, asking "what do .NET developers find so compelling about Rails?"  Jeff and Brian go on to explain the key differences between the .NET environment and the open source environment of traditional Ruby and Rails, the importance (and adoption) of MVC, unit tests, and differences in development styles.  They'll also explain how to use the right tool for the job and take a quick look at IronRuby, and Ruby's interoperability with .NET.</description>
+      <pubDate>Wed, 15 Oct 2008 07:56:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/22</guid>
+      <link>http://pragprog.com/titles/cerailn</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Embracing the Rails way</itunes:subtitle>
+      <itunes:summary>Pragmatic editor Susannah Pfalzer interviews authors Jeff Cohen and Brian Eng, asking "what do .NET developers find so compelling about Rails?"  Jeff and Brian go on to explain the key differences between the .NET environment and the open source environment of traditional Ruby and Rails, the importance (and adoption) of MVC, unit tests, and differences in development styles.  They'll also explain how to use the right tool for the job and take a quick look at IronRuby, and Ruby's interoperability with .NET.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-10/jeff-cohen-and-brian-eng-on-rails-for-net-developers.mp3" length="11457541" type="audio/mpeg"/>
+      <itunes:duration>955</itunes:duration>
+      <itunes:keywords>rails on .net, ironruby, mvc, unit test, .net</itunes:keywords>
+    </item>
+    <item>
+      <title>Keir Thomas on Ubuntu Kung Fu</title>
+      <description>Meet Keir Thomas, author of "Ubuntu Kung Fu: Tips, Tricks, Hints, and Hacks."  Keir tells us why Ubuntu is so popular, explains the wealth of drivers, ease of installation and use, the strength of the Ubuntu community, and where Ubuntu came from.  You'll hear how to wring more power out of older hardware, and see that modern Linux is no longer just a hobby, it's here to help you get more done.</description>
+      <pubDate>Tue, 23 Sep 2008 08:49:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/21</guid>
+      <link>https://pragprog.com/podcasts/show/21</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Upgrade to Ubuntu and get more done</itunes:subtitle>
+      <itunes:summary>Meet Keir Thomas, author of "Ubuntu Kung Fu: Tips, Tricks, Hints, and Hacks."  Keir tells us why Ubuntu is so popular, explains the wealth of drivers, ease of installation and use, the strength of the Ubuntu community, and where Ubuntu came from.  You'll hear how to wring more power out of older hardware, and see that modern Linux is no longer just a hobby, it's here to help you get more done.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-09/keir-thomas-on-ubuntu-kung-fu.mp3" length="14407911" type="audio/mpeg"/>
+      <itunes:duration>1200</itunes:duration>
+      <itunes:keywords>Ubuntu how to, Keir thomas, Linux, upgrade</itunes:keywords>
+    </item>
+    <item>
+      <title>Fred Daoud on Stripes</title>
+      <description>In this interview by Pragmatic editor Jackie Carter, author Frederic Daoud explains what Stripes is, and why it's a better Java web framework, featuring easy integration with other technologies including Hibernate, and why it's vital if you're creating applications that have to be multilingual.
+
+</description>
+      <pubDate>Wed, 10 Sep 2008 09:30:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/20</guid>
+      <link>http://pragprog.com/titles/fdstr</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Make Java Web Development Fun Again</itunes:subtitle>
+      <itunes:summary>In this interview by Pragmatic editor Jackie Carter, author Frederic Daoud explains what Stripes is, and why it's a better Java web framework, featuring easy integration with other technologies including Hibernate, and why it's vital if you're creating applications that have to be multilingual.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-09/fred-daoud-on-stripes.mp3" length="13307945" type="audio/mpeg"/>
+      <itunes:duration>1109</itunes:duration>
+      <itunes:keywords>stripes, java, hibernate, spring, framework, web services</itunes:keywords>
+    </item>
+    <item>
+      <title>Chad Fowler</title>
+      <description>Daniel Steinberg interviews Chad Fowler on a wide range of topics including programming, music, math, the C64, Ruby, Rails, electronics, hooking up the real world to the computer, the Principle of Agreement, the dangers of stagnation, invigorating your career and globalization.</description>
+      <pubDate>Wed, 20 Aug 2008 05:19:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/19</guid>
+      <link>http://pragprog.com/titles</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Finding the Jagged Edges</itunes:subtitle>
+      <itunes:summary>Daniel Steinberg interviews Chad Fowler on a wide range of topics including programming, music, math, the C64, Ruby, Rails, electronics, hooking up the real world to the computer, the Principle of Agreement, the dangers of stagnation, invigorating your career and globalization.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-08/chad-fowler.mp3" length="13629881" type="audio/mpeg"/>
+      <itunes:duration>1136</itunes:duration>
+      <itunes:keywords>ruby, rails, C64, principle of agreement, globalization, invigorating your career</itunes:keywords>
+    </item>
+    <item>
+      <title>Ian Dees on Scripted GUI Testing with Ruby</title>
+      <description>Jackie Carter interviews Ian Dees, author of "Scripted GUI Testing with Ruby"  Ian talks about using automation in support of GUI testing, and describes how automation allows you to do things you couldn't do before. Frustrated with proprietary, difficult scripting languages, or fragile, coordinate-based systems, Ian describes how GUI testing with Ruby is such a pleasure.  Ian's new book gives you the actual techniques to take control of this window or that drop-down list--without hard-coded data.  Ian describes his use of rSpec, randomized and matrix testing, writing stories for testing, and more.</description>
+      <pubDate>Wed, 06 Aug 2008 04:45:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/18</guid>
+      <link>http://pragprog.com/titles/idgtr</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Doing things you couldn't do before</itunes:subtitle>
+      <itunes:summary>Jackie Carter interviews Ian Dees, author of "Scripted GUI Testing with Ruby"  Ian talks about using automation in support of GUI testing, and describes how automation allows you to do things you couldn't do before. Frustrated with proprietary, difficult scripting languages, or fragile, coordinate-based systems, Ian describes how GUI testing with Ruby is such a pleasure.  Ian's new book gives you the actual techniques to take control of this window or that drop-down list--without hard-coded data.  Ian describes his use of rSpec, randomized and matrix testing, writing stories for testing, and more.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-08/ian-dees-on-scripted-gui-testing-with-ruby.mp3" length="13090712" type="audio/mpeg"/>
+      <itunes:duration>1091</itunes:duration>
+      <itunes:keywords>ruby, rpsec, testing, mac os x, windows, linux, scripting, scripted testing, hard-coded</itunes:keywords>
+    </item>
+    <item>
+      <title>Travis Swicegood: Pragmatic Version Control using Git</title>
+      <description>Pragmatic editor Susannah Pfalzer interviews Travis Swicegood, author of "Pragmatic Version Control using Git."  Travis tells us about distributed version control in general, when to use it -- and when not to.
+He also describes how Git works, and walks through the daily Git workflow.  Travis reminds us that code is never perfect, and describes how to track changes in a distributed environment.  He'll show how to selectively push repositories to different people on your team, and how to use gitosis.</description>
+      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/17</guid>
+      <link>http://pragprog.com/titles/tsgit</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Distributed version control comes of age</itunes:subtitle>
+      <itunes:summary>Pragmatic editor Susannah Pfalzer interviews Travis Swicegood, author of "Pragmatic Version Control using Git."  Travis tells us about distributed version control in general, when to use it -- and when not to.
+He also describes how Git works, and walks through the daily Git workflow.  Travis reminds us that code is never perfect, and describes how to track changes in a distributed environment.  He'll show how to selectively push repositories to different people on your team, and how to use gitosis.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-07/travis-swicegood-pragmatic-version-control-using-git.mp3" length="16126979" type="audio/mpeg"/>
+      <itunes:duration>1344</itunes:duration>
+      <itunes:keywords>git, cvs, svn, dvcs, version control, source code control, distributed version control, using git, git howto</itunes:keywords>
+    </item>
+    <item>
+      <title>Brian Marick on Ruby Cocoa and Testing</title>
+      <description>Brian Marick talks to Daniel Steinberg on a wide variety of topics. Brian asks, who's smart enough to program?, and describes how he met Andy and Dave at the Agile Manifesto summit.  He talks about using Lisp, Smalltalk and Ruby,  and about introducing programming to testers.  Brian also shares the secrets of Domain Specific Languages (DSLs), and of course, his new book on Ruby Cocoa: marrying Ruby with the uber-cool Mac OS X Cocoa GUI framework, and test driven development with Ruby Cocoa code.</description>
+      <pubDate>Wed, 09 Jul 2008 06:59:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/16</guid>
+      <link>http://pragprog.com/titles/bmrc</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Who's smart enough to program?</itunes:subtitle>
+      <itunes:summary>Brian Marick talks to Daniel Steinberg on a wide variety of topics. Brian asks, who's smart enough to program?, and describes how he met Andy and Dave at the Agile Manifesto summit.  He talks about using Lisp, Smalltalk and Ruby,  and about introducing programming to testers.  Brian also shares the secrets of Domain Specific Languages (DSLs), and of course, his new book on Ruby Cocoa: marrying Ruby with the uber-cool Mac OS X Cocoa GUI framework, and test driven development with Ruby Cocoa code.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-07/brian-marick-on-ruby-cocoa-and-testing.mp3" length="13129585" type="audio/mpeg"/>
+      <itunes:duration>1094</itunes:duration>
+      <itunes:keywords>ruby, cocoa, mac os x, ruby mac os x, ruby cocoa, testing ruby, testing ruby mac os, agile alliance</itunes:keywords>
+    </item>
+    <item>
+      <title>Michael J Mangino on Facebook Applications</title>
+      <description>Pragmatic editor Susannah Pflazer interviews Mike Mangino, author of "Developing Facebook Platform Applications with Rails."  Mike describes how Facebook works, and talks about using facebooker for Ruby on Rails to provide helpers, handle authentication, and more.
+
+Mike walks through developing an application in Facebook, describes the parts of Facebook, as well as messaging,  testing, and engaging users.  Find out about the magic 8-second rule and the key aspects of a successful Facebook application.
+
+</description>
+      <pubDate>Wed, 18 Jun 2008 08:54:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/15</guid>
+      <link>http://pragprog.com/titles/mmfacer</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Embed your own app in Facebook</itunes:subtitle>
+      <itunes:summary>Pragmatic editor Susannah Pflazer interviews Mike Mangino, author of "Developing Facebook Platform Applications with Rails."  Mike describes how Facebook works, and talks about using facebooker for Ruby on Rails to provide helpers, handle authentication, and more.
+
+Mike walks through developing an application in Facebook, describes the parts of Facebook, as well as messaging,  testing, and engaging users.  Find out about the magic 8-second rule and the key aspects of a successful Facebook application.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-06/michael-j-mangino-on-facebook-applications.mp3" length="15378101" type="audio/mpeg"/>
+      <itunes:duration>1281</itunes:duration>
+      <itunes:keywords>facebook, rails, php, ruby on rails, rails for facebook, rails with facebook, facebooker, ror facebook, ruby social graph</itunes:keywords>
+    </item>
+    <item>
+      <title>Mike Clark on Studios and Screencasts</title>
+      <description>Daniel Steinberg interviews the Pragmatic Studio's Mike Clark.  Mike talks about the Pragmatic Studio, the Edge Conferences, Screencasts and shoulder surfing, and how to get inside the head of an expert.</description>
+      <pubDate>Wed, 04 Jun 2008 05:16:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/14</guid>
+      <link>http://pragprog.com/screencasts</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>and the right media for the message</itunes:subtitle>
+      <itunes:summary>Daniel Steinberg interviews the Pragmatic Studio's Mike Clark.  Mike talks about the Pragmatic Studio, the Edge Conferences, Screencasts and shoulder surfing, and how to get inside the head of an expert.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-06/mike-clark-on-studios-and-screencasts.mp3" length="15408194" type="audio/mpeg"/>
+      <itunes:duration>1284</itunes:duration>
+      <itunes:keywords>rails, pragmatic studio, screencast, erlang screencast, rails screencast, core animation screencast</itunes:keywords>
+    </item>
+    <item>
+      <title>Andy Hunt on Pragmatic Wetware</title>
+      <description>
+Join us as Daniel Steinberg interviews Pragmatic co-founder Andy Hunt.  Andy describes his journey from the techniques in The Pragmatic Programmer, the programming language Ruby and the Agile development movement, to looking at wetware--the stuff in our heads.  Andy discusses the Dreyfus model of skill acquisition, lateral specialization in the brain, mindmaps and more.  You'll find out why sometimes the best thing you can do is to step away from the keyboard.
+
+</description>
+      <pubDate>Wed, 21 May 2008 05:01:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/13</guid>
+      <link>http://pragprog.com/titles/ahptl</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>It's all in your head</itunes:subtitle>
+      <itunes:summary>
+Join us as Daniel Steinberg interviews Pragmatic co-founder Andy Hunt.  Andy describes his journey from the techniques in The Pragmatic Programmer, the programming language Ruby and the Agile development movement, to looking at wetware--the stuff in our heads.  Andy discusses the Dreyfus model of skill acquisition, lateral specialization in the brain, mindmaps and more.  You'll find out why sometimes the best thing you can do is to step away from the keyboard.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-05/andy-hunt-on-pragmatic-wetware.mp3" length="20564139" type="audio/mpeg"/>
+      <itunes:duration>1714</itunes:duration>
+      <itunes:keywords>andy hunt, agile, dreyfus model, mind maps, pragmatic andy, pragdave, ruby, pragmatic programmers, wetware, refactor your wetware, mind hacks, mindhack,</itunes:keywords>
+    </item>
+    <item>
+      <title>Dave Thomas on Pragmatic Publishing</title>
+      <description>Join us as Daniel Steinberg interviews Pragmatic co-founder Dave Thomas.  Dave explains a bit about how we started the publishing business, and our unique production process and its separation of content from presentation.  You'll hear all about reader involvement in our books,  what makes a Pragmatic book, and Dave's take on the book industry as a whole. Dave reminds us of why we're in this business: for the joy and passion of programming. </description>
+      <pubDate>Wed, 07 May 2008 04:36:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/12</guid>
+      <link>https://pragprog.com/podcasts/show/12</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>and the Joy of Programming</itunes:subtitle>
+      <itunes:summary>Join us as Daniel Steinberg interviews Pragmatic co-founder Dave Thomas.  Dave explains a bit about how we started the publishing business, and our unique production process and its separation of content from presentation.  You'll hear all about reader involvement in our books,  what makes a Pragmatic book, and Dave's take on the book industry as a whole. Dave reminds us of why we're in this business: for the joy and passion of programming. </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-05/dave-thomas-on-pragmatic-publishing.mp3" length="11598601" type="audio/mpeg"/>
+      <itunes:duration>1450</itunes:duration>
+      <itunes:keywords>dave thomas, prag dave</itunes:keywords>
+    </item>
+    <item>
+      <title>Programming Groovy</title>
+      <description>Venkat Subramaniam, author of "Programming Groovy: Dynamic Productivity for the Java Developer" talks at length with Daniel Steinberg about coding in Groovy, metaprogramming, and choosing a language. You'll learn when Groovy is a great choice, and when it's not. Venkat shares how to use builders to relieve the tedium of XML processing, explains why metaprogramming is so hard in Java, and why type-safety isn't what you think.  Finally, Venkat explains how programming is a lot like a chainsaw.
+
+</description>
+      <pubDate>Wed, 23 Apr 2008 09:39:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/11</guid>
+      <link>http://pragprog.com/titles/vslg</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Making the hard stuff simpler</itunes:subtitle>
+      <itunes:summary>Venkat Subramaniam, author of "Programming Groovy: Dynamic Productivity for the Java Developer" talks at length with Daniel Steinberg about coding in Groovy, metaprogramming, and choosing a language. You'll learn when Groovy is a great choice, and when it's not. Venkat shares how to use builders to relieve the tedium of XML processing, explains why metaprogramming is so hard in Java, and why type-safety isn't what you think.  Finally, Venkat explains how programming is a lot like a chainsaw.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-04/programming-groovy.mp3" length="11142610" type="audio/mpeg"/>
+      <itunes:duration>1393</itunes:duration>
+      <itunes:keywords>java, jdk, aop, aspect oriented programming, metaprogramming, xml</itunes:keywords>
+    </item>
+    <item>
+      <title>FXRuby with Lyle Johnson</title>
+      <description>FXRuby is a cross-platform GUI for Ruby.  Listen as Pragmatic editor Susannah Pfalzer interviews Lyle Johnson, the lead developer of FXRuby and author of the new book, "FXRuby: Create Lean and Mean GUIs with Ruby." Lyle explains what you need to know before using FXRuby, some interesting aspects of FXRuby and the FOX toolkit, the target and message approach, automatic GUI updating, recommended guides to user interface design, and more!</description>
+      <pubDate>Wed, 09 Apr 2008 09:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/10</guid>
+      <link>http://pragprog.com/titles/fxruby</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Cross-platform GUIs in Ruby</itunes:subtitle>
+      <itunes:summary>FXRuby is a cross-platform GUI for Ruby.  Listen as Pragmatic editor Susannah Pfalzer interviews Lyle Johnson, the lead developer of FXRuby and author of the new book, "FXRuby: Create Lean and Mean GUIs with Ruby." Lyle explains what you need to know before using FXRuby, some interesting aspects of FXRuby and the FOX toolkit, the target and message approach, automatic GUI updating, recommended guides to user interface design, and more!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-04/fxruby-with-lyle-johnson.mp3" length="15876624" type="audio/mpeg"/>
+      <itunes:duration>992</itunes:duration>
+      <itunes:keywords>ruby, fxruby, fox, gui toolkit, ruby gui</itunes:keywords>
+    </item>
+    <item>
+      <title>Core Animation and the iPhone</title>
+      <description>Daniel Steinberg interviews Bill Dudney, author of "Core Animation for OS X: Creating Dynamic Compelling User Interfaces."
+
+Listen as Bill discusses user interfaces on the iPhone and desktop, and how you can develop using core animation on the desktop and apply it directly to iPhone development.
+
+Bill explains about using animated layers in 3D space, how Cocoa and Interface Builder avoid the trap of generated code stubs, the growing opportunities of internal fat-client apps on the iPhone platform, and opportunities in consulting for new rich user interfaces.</description>
+      <pubDate>Wed, 26 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/9</guid>
+      <link>http://pragprog.com/titles/bdcora</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>New interfaces. Cool.  Easy.</itunes:subtitle>
+      <itunes:summary>Daniel Steinberg interviews Bill Dudney, author of "Core Animation for OS X: Creating Dynamic Compelling User Interfaces."
+
+Listen as Bill discusses user interfaces on the iPhone and desktop, and how you can develop using core animation on the desktop and apply it directly to iPhone development.
+
+Bill explains about using animated layers in 3D space, how Cocoa and Interface Builder avoid the trap of generated code stubs, the growing opportunities of internal fat-client apps on the iPhone platform, and opportunities in consulting for new rich user interfaces.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-03/core-animation-and-the-iphone.mp3" length="6953198" type="audio/mpeg"/>
+      <itunes:duration>869</itunes:duration>
+      <itunes:keywords>iphone, mac os x, core animation, cocoa, </itunes:keywords>
+    </item>
+    <item>
+      <title>Mastering Dojo with  Craig Riecke, Rawld Gill, and Alex Russell</title>
+      <description>Pragmatic editor Jackie Carter talks to Craig Riecke, Rawld Gill, and Alex Russell, authors of the upcoming book, "Mastering Dojo: JavaScript and Ajax Tools for Great Web Experiences."  
+
+Dojo gives you more than just Ajax Plumbing: you get everything from easy-to-use widgets for a rich UI, to optimization and deployment.  Dojo covers a surprising depth and breadth of functionality, combining the best of leading edge features and stable, corporate-friendly maturity.
+
+Listen as the authors discuss Dojo, the Dojo foundation, and how Dojo is brutally Pragmatic.
+
+</description>
+      <pubDate>Wed, 12 Mar 2008 17:40:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/8</guid>
+      <link>http://pragprog.com/titles/rgdojo</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>More than just Ajax Plumbing</itunes:subtitle>
+      <itunes:summary>Pragmatic editor Jackie Carter talks to Craig Riecke, Rawld Gill, and Alex Russell, authors of the upcoming book, "Mastering Dojo: JavaScript and Ajax Tools for Great Web Experiences."  
+
+Dojo gives you more than just Ajax Plumbing: you get everything from easy-to-use widgets for a rich UI, to optimization and deployment.  Dojo covers a surprising depth and breadth of functionality, combining the best of leading edge features and stable, corporate-friendly maturity.
+
+Listen as the authors discuss Dojo, the Dojo foundation, and how Dojo is brutally Pragmatic.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-03/mastering-dojo.mp3" length="13858092" type="audio/mpeg"/>
+      <itunes:duration>1732</itunes:duration>
+      <itunes:keywords>dojo, ajax, prototype, web, web programming</itunes:keywords>
+    </item>
+    <item>
+      <title>Rails for PHP Developers interview with Derek DeVries</title>
+      <description>Susannah Pfalzer interviews Derek DeVries, co-author of "Rails for PHP Developers." Listen as Derek describes structure in PHP vs. Rails, web programming frameworks and feature cross-pollination. Derek suggests the best way to learn Rails, discusses development process and best practices, and describes using ActiveResource to let PHP and Rails coexist.
+
+Is Rails better than PHP? It's all about using the right tool for the job at hand. Give a listen and Derek will explain.
+</description>
+      <pubDate>Wed, 27 Feb 2008 13:27:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/7</guid>
+      <link>http://pragprog.com/titles/ndphpr</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Using the best tool for the job</itunes:subtitle>
+      <itunes:summary>Susannah Pfalzer interviews Derek DeVries, co-author of "Rails for PHP Developers." Listen as Derek describes structure in PHP vs. Rails, web programming frameworks and feature cross-pollination. Derek suggests the best way to learn Rails, discusses development process and best practices, and describes using ActiveResource to let PHP and Rails coexist.
+
+Is Rails better than PHP? It's all about using the right tool for the job at hand. Give a listen and Derek will explain.
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-02/rails-for-php-developers-interview-with-derek-devries.mp3" length="9916315" type="audio/mpeg"/>
+      <itunes:duration>1239</itunes:duration>
+      <itunes:keywords>php, rails, ruby, frameworks, web, programming, dynamic languages</itunes:keywords>
+    </item>
+    <item>
+      <title>Christophe Porteneuve on JavaScript Frameworks</title>
+      <description>Author Christophe Porteneuve explains what Prototype and script.aculo.us are, how they relate to Dojo, and why Javascript alone isn't enough for modern applications.  See how to smooth over browser incompatibilities, tame the wild DOM, and more.
+
+</description>
+      <pubDate>Wed, 13 Feb 2008 03:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/6</guid>
+      <link>http://pragprog.com/titles/cppsu</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Why Javascript alone isn't enough</itunes:subtitle>
+      <itunes:summary>Author Christophe Porteneuve explains what Prototype and script.aculo.us are, how they relate to Dojo, and why Javascript alone isn't enough for modern applications.  See how to smooth over browser incompatibilities, tame the wild DOM, and more.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2008-02/christophe-porteneuve-on-javascript-frameworks.mp3" length="11098516" type="audio/mpeg"/>
+      <itunes:duration>1387</itunes:duration>
+      <itunes:keywords>javascript, prototype, script.aculo.us, ajax, dojo, frameworks</itunes:keywords>
+    </item>
+    <item>
+      <title>Jeremy Sydik on Designing Accessible Web Sites</title>
+      <description>Pragmatic Editor Susannah Pfalzer interviews Jeremy Sydik, author of "_Design Accessible Web Sites_":/titles/jsaccess.  You'll find that when you design your websites to be more accessible, the design is cleaner and more attractive to all of your visitors. Hear how you can best improve your whole website as Jeremy discusses accessibility and shares his Top Ten Design Principles for websites.</description>
+      <pubDate>Wed, 19 Dec 2007 13:14:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/5</guid>
+      <link>http://pragprog.com/titles/jsaccess</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Improve your website with these Top Ten Design Principles</itunes:subtitle>
+      <itunes:summary>Pragmatic Editor Susannah Pfalzer interviews Jeremy Sydik, author of "_Design Accessible Web Sites_":/titles/jsaccess.  You'll find that when you design your websites to be more accessible, the design is cleaner and more attractive to all of your visitors. Hear how you can best improve your whole website as Jeremy discusses accessibility and shares his Top Ten Design Principles for websites.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2007-12/jeremy-sydik-on-designing-accessible-web-sites.mp3" length="6278813" type="audio/mpeg"/>
+      <itunes:duration>785</itunes:duration>
+      <itunes:keywords>accessibility, podcast, design accessibility, design principles, website design principles, top ten</itunes:keywords>
+    </item>
+    <item>
+      <title>Johanna Rothman on how to "Manage It"</title>
+      <description>What should a manager actually do? What does multitasking really mean? What does an MBA qualify you for? Learn the answers to these and other critical questions as Johanna Rothman, author of "Manage It", explains how to really make teams go faster, and discover the importance of practice, feedback, and fun. Plus Johanna reads an except from her Schedule Games chapter.</description>
+      <pubDate>Wed, 28 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/4</guid>
+      <link>http://pragprog.com/titles/jrpm</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Hope is not a methodology</itunes:subtitle>
+      <itunes:summary>What should a manager actually do? What does multitasking really mean? What does an MBA qualify you for? Learn the answers to these and other critical questions as Johanna Rothman, author of "Manage It", explains how to really make teams go faster, and discover the importance of practice, feedback, and fun. Plus Johanna reads an except from her Schedule Games chapter.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2007-11/johanna-rothman-on-how-to-manage-it.mp3" length="9744323" type="audio/mpeg"/>
+      <itunes:duration>1218</itunes:duration>
+      <itunes:keywords>project management, agile, agile methods, schedule games, manage it, johanna rothman, MBA</itunes:keywords>
+    </item>
+    <item>
+      <title>Michael Nygard Interview, Part Two </title>
+      <description>Join MIke Nygard, author of "Release It!" as he explains that 50% of datacenter outages are human-induced, and how to approach configuration and deployment the right way.  As an extra bonus, listen to Mike read an excerpt from his new book.</description>
+      <pubDate>Wed, 07 Nov 2007 02:52:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/3</guid>
+      <link>http://pragprog.com/titles/mnee</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>And then it crashed...</itunes:subtitle>
+      <itunes:summary>Join MIke Nygard, author of "Release It!" as he explains that 50% of datacenter outages are human-induced, and how to approach configuration and deployment the right way.  As an extra bonus, listen to Mike read an excerpt from his new book.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2007-11/michael-nygard-interview-part-two-.mp3" length="5432031" type="audio/mpeg"/>
+      <itunes:duration>679</itunes:duration>
+      <itunes:keywords>enterprise engineering, capacity, reliability, uptime, crash, diagnostic</itunes:keywords>
+    </item>
+    <item>
+      <title>Michael Nygard Interview</title>
+      <description>Just one hour of downtime on a Fortune 500 website can cost $300,000 or more. Join Mike Nygard, the author of "Release It!", as he explains how to use stability and capacity design patterns to avoid expensive, public disasters.</description>
+      <pubDate>Wed, 24 Oct 2007 12:00:00 +0000</pubDate>
+      <guid>https://pragprog.com/podcasts/show/2</guid>
+      <link>http://pragprog.com/titles/mnee</link>
+      <author>pragprog@pragprog.com (The Pragmatic Programmers)</author>
+      <itunes:author>The Pragmatic Programmers</itunes:author>
+      <itunes:subtitle>Are you sure you thought of everything?</itunes:subtitle>
+      <itunes:summary>Just one hour of downtime on a Fortune 500 website can cost $300,000 or more. Join Mike Nygard, the author of "Release It!", as he explains how to use stability and capacity design patterns to avoid expensive, public disasters.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcasts.pragprog.com/2007-10/michael-nygard-interview.mp3" length="10789019" type="audio/mpeg"/>
+      <itunes:duration>1348</itunes:duration>
+      <itunes:keywords>Rails, Java, J2EE, web, internet, framework, production, deploy, security</itunes:keywords>
+    </item>
+  </channel>
+</rss>

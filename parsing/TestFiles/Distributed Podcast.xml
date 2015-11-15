@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Distributed Podcast</title>
+	
+	<link>http://distributedpodcast.com</link>
+	<description>CQRS, DDD, Cloud computing and much more!</description>
+	<lastBuildDate>Fri, 28 Feb 2014 06:06:18 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.6</generator>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/DistributedPodcast" /><feedburner:info uri="distributedpodcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>2010 DistributedPodcast.com</media:copyright><media:thumbnail url="http://distributedpodcast.com/logo.png" /><media:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:explicit>no</itunes:explicit><itunes:image href="http://distributedpodcast.com/logo.png" /><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><itunes:subtitle>CQRS, DDD, Cloud Computing and much more</itunes:subtitle><itunes:summary>Distributed Systems Podcast - all you ever wanted to hear and learn about building with DDD, CQRS, Cloud and much more!</itunes:summary><itunes:category text="Technology" /><feedburner:emailServiceId>DistributedPodcast</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+		<title>Episode 14: Go Accident</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/wwhYpPKBxDQ/episode-14</link>
+		<comments>http://distributedpodcast.com/2014/episode-14#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 19:00:19 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=174</guid>
+		<description><![CDATA[Welcome back to another episode of the distributed podcast. This is a recording of a skype call about software design that Jonathan Oliver had with Rinat Abdullin. Download this accidental 14 episode. Note by Rinat: Since I&#8217;m the worst person to talk about software design, I might be saying really stupid things in there. Please [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Welcome back to another episode of the distributed podcast. This is a recording of a skype call about software design that Jonathan Oliver had with Rinat Abdullin. </p>
+<p>Download this <a href="http://distributedpodcast.com/media/014_episode_14.mp3">accidental 14 episode</a>.</p>
+<p><em>Note by Rinat</em>: Since I&#8217;m the worst person to talk about software design, I might be saying really stupid things in there. Please don&#8217;t hesitate to correct that in the comments.</p>
+<p><a href="http://distributedpodcast.com/wp-content/uploads/2014/02/2014-02-17-hpc-design.jpeg"><img src="http://distributedpodcast.com/wp-content/uploads/2014/02/2014-02-17-hpc-design-260x300.jpeg" alt="2014-02-17-hpc-design" width="260" height="300" class="aligncenter size-medium wp-image-182" /></a></p>
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://foundationdb.com/blog/rearchitecting-with-foundationdb-a-podcast-interview-with-happy-pancake">Summary of the podcast by FoundationDB guys</a></li>
+<li><a href="http://rd.happypancake.com">Dev log of HappyPancake team</a></li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/wwhYpPKBxDQ" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2014/episode-14/feed</wfw:commentRss>
+		<slash:comments>61</slash:comments>
+<enclosure url="http://distributedpodcast.com/media/014_episode_14.mp3" length="76782597" type="audio/mpeg" />
+		<media:content url="http://distributedpodcast.com/media/014_episode_14.mp3" fileSize="76782597" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Welcome back to another episode of the distributed podcast. This is a recording of a skype call about software design that Jonathan Oliver had with Rinat Abdullin. Download this accidental 14 episode. Note by Rinat: Since I&amp;#8217;m the worst person to tal</itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>Welcome back to another episode of the distributed podcast. This is a recording of a skype call about software design that Jonathan Oliver had with Rinat Abdullin. Download this accidental 14 episode. Note by Rinat: Since I&amp;#8217;m the worst person to talk about software design, I might be saying really stupid things in there. Please [&amp;#8230;]</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2014/episode-14</feedburner:origLink></item>
+		<item>
+		<title>Episode 13: Lucky Episode</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/AOLMHckOo6k/13-lucky-episode</link>
+		<comments>http://distributedpodcast.com/2012/13-lucky-episode#comments</comments>
+		<pubDate>Wed, 22 Aug 2012 04:09:57 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=162</guid>
+		<description><![CDATA[We haven&#8217;t been podcasting in a while and Jonathan Oliver took the initiative of getting back on the track with this lucky episode. We&#8217;ll catch up on some interesting things that Rinat and Lokad were doing recently with architecture, technology and community. Some of the things we talk about: Windows Azure, Amazon High I/O SSD [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We haven&#8217;t been podcasting in a while and Jonathan Oliver took the initiative of getting back on the track with this lucky episode. We&#8217;ll catch up on some interesting things that Rinat and Lokad were doing recently with architecture, technology and community. Some of the things we talk about: Windows Azure, Amazon High I/O SSD instance, Automatic rebuilding of CQRS views and why github is just a replica of SourceSafe.</p>
+<p>Download this <a href="http://media.lokad.com/podcast/013_episode_13_lucky_episode.mp3">lucky 13 episode</a>.</p>
+<p><strong>Notes</strong></p>
+<ul>
+<li><a href="http://techblog.netflix.com/2012/07/benchmarking-high-performance-io-with.html">Netflix and Amazon High I/O instances</a></li>
+<li><a href="http://aws.amazon.com/ec2/instance-types/#highio-instances">Amazon High I/O SSD</a></li>
+<li>Salescast2 product: <a href="http://blog.lokad.com/journal/2012/8/17/the-all-new-salescast-forecasting-inventory-optimizer.html">business overview</a> and <a href="http://abdullin.com/journal/2012/7/26/behind-the-scenes-of-dddes-project-salescast2.html">technical behind-the-scenes</a></li>
+<li><a href="http://beingtheworst.com/">Being the worst</a></li>
+</ul>
+<p>Enjoy and stay tuned for more episodes!</p>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/AOLMHckOo6k" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2012/13-lucky-episode/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://media.lokad.com/podcast/013_episode_13_lucky_episode.mp3" length="97284319" type="audio/mpeg" />
+		<media:content url="http://media.lokad.com/podcast/013_episode_13_lucky_episode.mp3" fileSize="97284319" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>We haven&amp;#8217;t been podcasting in a while and Jonathan Oliver took the initiative of getting back on the track with this lucky episode. We&amp;#8217;ll catch up on some interesting things that Rinat and Lokad were doing recently with architecture, technolog</itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>We haven&amp;#8217;t been podcasting in a while and Jonathan Oliver took the initiative of getting back on the track with this lucky episode. We&amp;#8217;ll catch up on some interesting things that Rinat and Lokad were doing recently with architecture, technology and community. Some of the things we talk about: Windows Azure, Amazon High I/O SSD [&amp;#8230;]</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2012/13-lucky-episode</feedburner:origLink></item>
+		<item>
+		<title>Episode 12: LMAX</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/Hpm5H5cQoZE/episode-12-lmax</link>
+		<comments>http://distributedpodcast.com/2012/episode-12-lmax#comments</comments>
+		<pubDate>Mon, 02 Apr 2012 11:33:46 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=151</guid>
+		<description><![CDATA[In this episode, Jonathan and Rinat interview Mike Barker who helped architect the LMAX Disruptor project, a high-performance, ultra-low latency structure for producer/consumer operations.  Here&#8217;s the download: Distributed Podcast, Episode 12 Notes: Official Project - Google Code Google Group .NET Disruptor port Technical paper Mike&#8217;s blog&#8211;Bad Concurrency Mike&#8217;s co-worker&#8217;s blog&#8211;Mechanical Sympathy Mike&#8217;s co-worker&#8217;s blog&#8211;Mechanitis Martin Fowler&#8217;s review Enjoy.]]></description>
+				<content:encoded><![CDATA[<p>In this episode, Jonathan and Rinat interview Mike Barker who helped architect the LMAX Disruptor project, a high-performance, ultra-low latency structure for producer/consumer operations.  Here&#8217;s the download: <a href="http://media.lokad.com/podcast/012_episode_12_LMAX.mp3">Distributed Podcast, Episode 12</a></p>
+<p>Notes:</p>
+<ul>
+<li>Official Project - <a href="http://code.google.com/p/disruptor/">Google Code</a></li>
+<li><a href="https://groups.google.com/forum/#!forum/lmax-disruptor">Google Group</a></li>
+<li><a href="http://code.google.com/p/disruptor-net/">.NET Disruptor port</a></li>
+<li><a href="http://disruptor.googlecode.com/files/Disruptor-1.0.pdf">Technical paper</a></li>
+<li>Mike&#8217;s blog&#8211;<a href="http://bad-concurrency.blogspot.com">Bad Concurrency</a></li>
+<li>Mike&#8217;s co-worker&#8217;s blog&#8211;<a href="http://mechanical-sympathy.blogspot.com/">Mechanical Sympathy</a></li>
+<li>Mike&#8217;s co-worker&#8217;s blog&#8211;<a href="http://mechanitis.blogspot.com/">Mechanitis</a></li>
+<li><a href="http://martinfowler.com/articles/lmax.html">Martin Fowler&#8217;s review</a></li>
+</ul>
+<p>Enjoy.</p>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/Hpm5H5cQoZE" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2012/episode-12-lmax/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://media.lokad.com/podcast/012_episode_12_LMAX.mp3" length="53289060" type="audio/mpeg" />
+		<media:content url="http://media.lokad.com/podcast/012_episode_12_LMAX.mp3" fileSize="53289060" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>In this episode, Jonathan and Rinat interview Mike Barker who helped architect the LMAX Disruptor project, a high-performance, ultra-low latency structure for producer/consumer operations.  Here&amp;#8217;s the download: Distributed Podcast, Episode 12 Notes:</itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>In this episode, Jonathan and Rinat interview Mike Barker who helped architect the LMAX Disruptor project, a high-performance, ultra-low latency structure for producer/consumer operations.  Here&amp;#8217;s the download: Distributed Podcast, Episode 12 Notes: Official Project - Google Code Google Group .NET Disruptor port Technical paper Mike&amp;#8217;s blog&amp;#8211;Bad Concurrency Mike&amp;#8217;s co-worker&amp;#8217;s blog&amp;#8211;Mechanical Sympathy Mike&amp;#8217;s co-worker&amp;#8217;s blog&amp;#8211;Mechanitis Martin Fowler&amp;#8217;s review Enjoy.</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2012/episode-12-lmax</feedburner:origLink></item>
+		<item>
+		<title>Episode 11: SignalR</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/EO4mShZlN9c/episode-11-signalr</link>
+		<comments>http://distributedpodcast.com/2012/episode-11-signalr#comments</comments>
+		<pubDate>Thu, 09 Feb 2012 16:44:58 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=144</guid>
+		<description><![CDATA[In this episode we interviewed David Fowler and Damian Edwards who have created a great project called SignalR. This project is a signaling (or messaging) library which can be used to establish long-running connections between the browser and web server. Here&#8217;s the podcast: Distributed Podcast, Episode 11 Side note: This episode has been a long time [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In this episode we interviewed David Fowler and Damian Edwards who have created a great project called <a href="https://github.com/SignalR">SignalR</a>. This project is a signaling (or messaging) library which can be used to establish long-running connections between the browser and web server.</p>
+<p>Here&#8217;s the podcast: <a href="http://media.lokad.com/podcast/011_episode_11_SignalR.mp3">Distributed Podcast, Episode 11</a></p>
+<p>Side note: This episode has been a long time coming.  We hope to be a little better about a recording schedule so we can keep the goodness coming.</p>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/EO4mShZlN9c" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2012/episode-11-signalr/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://media.lokad.com/podcast/011_episode_11_SignalR.mp3" length="55816947" type="audio/mpeg" />
+		<media:content url="http://media.lokad.com/podcast/011_episode_11_SignalR.mp3" fileSize="55816947" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>In this episode we interviewed David Fowler and Damian Edwards who have created a great project called SignalR. This project is a signaling (or messaging) library which can be used to establish long-running connections between the browser and web server. </itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>In this episode we interviewed David Fowler and Damian Edwards who have created a great project called SignalR. This project is a signaling (or messaging) library which can be used to establish long-running connections between the browser and web server. Here&amp;#8217;s the podcast: Distributed Podcast, Episode 11 Side note: This episode has been a long time [&amp;#8230;]</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2012/episode-11-signalr</feedburner:origLink></item>
+		<item>
+		<title>Episode 10: /dev/random</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/LfnSIT61opY/episode-10-dev-random</link>
+		<comments>http://distributedpodcast.com/2011/episode-10-dev-random#comments</comments>
+		<pubDate>Tue, 25 Oct 2011 02:09:45 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=137</guid>
+		<description><![CDATA[This episode was a fun one to record&#8211;everybody was busy traveling, learning and doing projects. So we just managed to sit down for a Skype call from different time zones and talk about really random stuff around the topic, from problems that we have, analogies that we use and tech that gets abused in the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This episode was a fun one to record&#8211;everybody was busy traveling, learning and doing projects. So we just managed to sit down for a Skype call from different time zones and talk about really random stuff around the topic, from problems that we have, analogies that we use and tech that gets abused in the process.</p>
+<p>Here&#8217;s the link to the podcast: <a href="http://lokadmedia.blob.core.windows.net/podcast/010_episode_10_dev_random.mp3">Distributed Podcast, Episode 10</a></p>
+<p>Please let us know what you think.</p>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/LfnSIT61opY" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2011/episode-10-dev-random/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://lokadmedia.blob.core.windows.net/podcast/010_episode_10_dev_random.mp3" length="37747180" type="audio/mpeg" />
+		<media:content url="http://lokadmedia.blob.core.windows.net/podcast/010_episode_10_dev_random.mp3" fileSize="37747180" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>This episode was a fun one to record&amp;#8211;everybody was busy traveling, learning and doing projects. So we just managed to sit down for a Skype call from different time zones and talk about really random stuff around the topic, from problems that we have</itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>This episode was a fun one to record&amp;#8211;everybody was busy traveling, learning and doing projects. So we just managed to sit down for a Skype call from different time zones and talk about really random stuff around the topic, from problems that we have, analogies that we use and tech that gets abused in the [&amp;#8230;]</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2011/episode-10-dev-random</feedburner:origLink></item>
+		<item>
+		<title>Episode 9: When To Avoid CQRS—Clarified</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/BHL7q2nya_g/episode-9-when-to-avoid-cqrsclarified</link>
+		<comments>http://distributedpodcast.com/2011/episode-9-when-to-avoid-cqrsclarified#comments</comments>
+		<pubDate>Thu, 22 Sep 2011 13:12:17 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=129</guid>
+		<description><![CDATA[This episode has been a long time coming.  We had significant difficulty editing this podcast because some of the audio tracks didn’t turn out right.  As a result, there is a level of background noise that we couldn’t eliminate.  Nonetheless, the content is still very good. In this episode, Udi responds to our previous episode [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This episode has been a long time coming.  We had significant difficulty editing this podcast because some of the audio tracks didn’t turn out right.  As a result, there is a level of background noise that we couldn’t eliminate.  Nonetheless, the content is still very good.</p>
+<p>In this episode, Udi responds to <a href="http://distributedpodcast.com/2011/episode-8-when-to-avoid-cqrs">our previous episode</a> wherein we discussed his blog post <a href="http://www.udidahan.com/2011/04/22/when-to-avoid-cqrs/">When to avoid CQRS</a>.  In response to that episode, Udi raises a number of great points during our discussion, and in typical Udi style gives a firehouse of information.  My brain still hurts.  But it&#8217;s a good hurt.</p>
+<p>Here is the link to the podcast: <a href="http://media.lokad.com/podcast/009_episode_9_when_to_avoid_cqrs_clarified.mp3">Distributed Podcast, Episode 9</a></p>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/BHL7q2nya_g" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2011/episode-9-when-to-avoid-cqrsclarified/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://media.lokad.com/podcast/009_episode_9_when_to_avoid_cqrs_clarified.mp3" length="82469852" type="audio/mpeg" />
+		<media:content url="http://media.lokad.com/podcast/009_episode_9_when_to_avoid_cqrs_clarified.mp3" fileSize="82469852" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>This episode has been a long time coming.  We had significant difficulty editing this podcast because some of the audio tracks didn’t turn out right.  As a result, there is a level of background noise that we couldn’t eliminate.  Nonetheless, the content </itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>This episode has been a long time coming.  We had significant difficulty editing this podcast because some of the audio tracks didn’t turn out right.  As a result, there is a level of background noise that we couldn’t eliminate.  Nonetheless, the content is still very good. In this episode, Udi responds to our previous episode [&amp;#8230;]</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2011/episode-9-when-to-avoid-cqrsclarified</feedburner:origLink></item>
+		<item>
+		<title>Episode 8 – When to Avoid CQRS</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/Zoitb-Pfbbo/episode-8-when-to-avoid-cqrs</link>
+		<comments>http://distributedpodcast.com/2011/episode-8-when-to-avoid-cqrs#comments</comments>
+		<pubDate>Thu, 14 Jul 2011 01:32:34 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=118</guid>
+		<description><![CDATA[A few months ago Udi Dahan posted on his blog about when to avoid CQRS.  It was a very interesting post that caused a lot of uproar and drew out some very strong feelings from the various adherents to the CQRS pattern. In our typical style, we have decided to stir the pot further now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few months ago Udi Dahan posted on his blog about <a href="http://www.udidahan.com/2011/04/22/when-to-avoid-cqrs/">when to avoid CQRS</a>.  It was a very interesting post that caused a lot of uproar and drew out some very strong feelings from the various adherents to the CQRS pattern.</p>
+<p>In our typical style, we have decided to stir the pot further now that things have settled down some.  In this episode we go through Udi&#8217;s post and talk about the various points he raises as part of his post.</p>
+<p>MP3 Download: <a href="http://media.lokad.com/podcast/008_episode_8_when_to_avoid_cqrs.mp3">Distributed Podcast, Episode 8</a></p>
+<p>Notes from the podcast:</p>
+<ul>
+<li><a href="http://www.udidahan.com/2011/04/22/when-to-avoid-cqrs/">When to Avoid CQRS</a></li>
+<li>Fowler&#8217;s First Law of Distributed Object Design: &#8220;Don&#8217;t distribute your <strong><em>objects.</em></strong>&#8220;, PoEAA, page 89.</li>
+<li><a href="http://download.oracle.com/javase/tutorial/getStarted/application/examples/HelloWorldApp.java">Most Legally Encumbered Hello World</a></li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/Zoitb-Pfbbo" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2011/episode-8-when-to-avoid-cqrs/feed</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+<enclosure url="http://media.lokad.com/podcast/008_episode_8_when_to_avoid_cqrs.mp3" length="35336964" type="audio/mpeg" />
+		<media:content url="http://media.lokad.com/podcast/008_episode_8_when_to_avoid_cqrs.mp3" fileSize="35336964" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>A few months ago Udi Dahan posted on his blog about when to avoid CQRS.  It was a very interesting post that caused a lot of uproar and drew out some very strong feelings from the various adherents to the CQRS pattern. In our typical style, we have decide</itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>A few months ago Udi Dahan posted on his blog about when to avoid CQRS.  It was a very interesting post that caused a lot of uproar and drew out some very strong feelings from the various adherents to the CQRS pattern. In our typical style, we have decided to stir the pot further now [&amp;#8230;]</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2011/episode-8-when-to-avoid-cqrs</feedburner:origLink></item>
+		<item>
+		<title>Episode 007: Interview with Ayende Rahien</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/PDW9tBmIFXY/episode-007-interview-with-ayende-rahien</link>
+		<comments>http://distributedpodcast.com/2011/episode-007-interview-with-ayende-rahien#comments</comments>
+		<pubDate>Tue, 31 May 2011 05:52:39 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=110</guid>
+		<description><![CDATA[In this episode we spend some quality time with Oren Eini (otherwise known as Ayende Rahien). We talk about RavenDB, building distributed systems and designing frameworks in general. MP3 Download: Distributed Podcast, Episode 7 Episode References Ayende @ Rahien RavenDB Newtonsoft.JSON Release It! By the way, Oren Eini just got married recently! We use this opportunity [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In this episode we spend some quality time with Oren Eini (otherwise known as Ayende Rahien). We talk about RavenDB, building distributed systems and designing frameworks in general.</p>
+<p>MP3 Download: <a href="http://media.lokad.com/podcast/007_episode_007_ayende_rahien.mp3">Distributed Podcast, Episode 7</a></p>
+<p><strong>Episode References</strong></p>
+<ul>
+<li><a href="http://ayende.com/blog">Ayende @ Rahien</a></li>
+<li><a href="http://ravendb.net/">RavenDB</a></li>
+<li><a href="http://json.codeplex.com/">Newtonsoft.JSON</a></li>
+<li><a href="http://pragprog.com/titles/mnee/release-it">Release It!</a></li>
+</ul>
+<p>By the way, Oren Eini just got married recently! We use this opportunity to congratulate him with this incredible event. Wishing him all the happiness, continued involvement in .NET development community and balancing these two together.</p>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/PDW9tBmIFXY" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2011/episode-007-interview-with-ayende-rahien/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.lokad.com/podcast/007_episode_007_ayende_rahien.mp3" length="0" type="audio/mpeg" />
+		<media:content url="http://media.lokad.com/podcast/007_episode_007_ayende_rahien.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>In this episode we spend some quality time with Oren Eini (otherwise known as Ayende Rahien). We talk about RavenDB, building distributed systems and designing frameworks in general. MP3 Download: Distributed Podcast, Episode 7 Episode References Ayende @</itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>In this episode we spend some quality time with Oren Eini (otherwise known as Ayende Rahien). We talk about RavenDB, building distributed systems and designing frameworks in general. MP3 Download: Distributed Podcast, Episode 7 Episode References Ayende @ Rahien RavenDB Newtonsoft.JSON Release It! By the way, Oren Eini just got married recently! We use this opportunity [&amp;#8230;]</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2011/episode-007-interview-with-ayende-rahien</feedburner:origLink></item>
+		<item>
+		<title>Fixing Podcast Enclosures</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/JoYUYH40g_E/fixing-podcast-enclosures</link>
+		<comments>http://distributedpodcast.com/2011/fixing-podcast-enclosures#comments</comments>
+		<pubDate>Tue, 12 Apr 2011 21:21:17 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Announcements]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=108</guid>
+		<description><![CDATA[There was a subtle glitch with the last 3 podcasts (4-6). WordPress didn&#8217;t grab proper content type of the enclosed mp3 files. This made some podcast-enabled RSS readers ignore these recordings. I apologize for the problem. It should be fixed for all future podcasts (and may be even for the previous ones).]]></description>
+				<content:encoded><![CDATA[<p>There was a subtle glitch with the last 3 podcasts (4-6). WordPress didn&#8217;t grab proper content type of the enclosed mp3 files. This made some podcast-enabled RSS readers ignore these recordings.</p>
+<p>I apologize for the problem. It should be fixed for all future podcasts (and may be even for the previous ones).</p>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/JoYUYH40g_E" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2011/fixing-podcast-enclosures/feed</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		<feedburner:origLink>http://distributedpodcast.com/2011/fixing-podcast-enclosures</feedburner:origLink></item>
+		<item>
+		<title>Episode 6: Interview with Jimmy Bogard</title>
+		<link>http://feedproxy.google.com/~r/DistributedPodcast/~3/2vLG-dhGyeI/episode-6-interview-with-jimmy-bogard</link>
+		<comments>http://distributedpodcast.com/2011/episode-6-interview-with-jimmy-bogard#comments</comments>
+		<pubDate>Tue, 12 Apr 2011 12:24:24 +0000</pubDate>
+		<dc:creator>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://distributedpodcast.com/?p=96</guid>
+		<description><![CDATA[Jimmy Bogard gives his thoughts on building distributed systems.]]></description>
+				<content:encoded><![CDATA[<p>In this episode we interview our first guest, Jimmy Bogard.  In this interview, we explore a number of different topics including NServiceBus, testing distributed systems, distributed transactions, and many others topics on computing in general.</p>
+<p>MP3 Download: <a href="http://lokadmedia.blob.core.windows.net/podcast/006_episode_6_jimmy_bogard.mp3">Distributed Podcast, Episode 6</a></p>
+<p>Episode References:</p>
+<ul>
+<li><a href="http://lostechies.com/jimmybogard/">Jimmy Bogard&#8217;s blog</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Domain-driven_design">Domain Driven Design</a>, Eric Evans</li>
+<li><a href="http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420">Patterns of Enterprise Application Architecture</a>, Martin Fowler</li>
+<li><a href="http://en.wikipedia.org/wiki/Kent_Beck">Kent Beck</a> (Agile/<a href="http://en.wikipedia.org/wiki/Extreme_Programming">XP</a>)</li>
+<li><a href="http://www.nservicebus.com/">NServiceBus</a></li>
+<li>(other references are easily found using Google)</li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/DistributedPodcast/~4/2vLG-dhGyeI" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://distributedpodcast.com/2011/episode-6-interview-with-jimmy-bogard/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://lokadmedia.blob.core.windows.net/podcast/006_episode_6_jimmy_bogard.mp3" length="0" type="audio/mpeg" />
+		<media:content url="http://lokadmedia.blob.core.windows.net/podcast/006_episode_6_jimmy_bogard.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Jimmy Bogard gives his thoughts on building distributed systems.</itunes:subtitle><itunes:author>Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</itunes:author><itunes:summary>Jimmy Bogard gives his thoughts on building distributed systems.</itunes:summary><itunes:keywords>distributed,systems,podcast,DDD,Domain,driven,design,CQRS,cloud,computing,distributed,podcast</itunes:keywords><feedburner:origLink>http://distributedpodcast.com/2011/episode-6-interview-with-jimmy-bogard</feedburner:origLink></item>
+	<copyright>2010 DistributedPodcast.com</copyright><media:credit role="author">Jonathan Oliver, Jonathan Matheus, Rinat Abdullin, and Andreas Ohlund</media:credit><media:rating>nonadult</media:rating><media:description type="plain">CQRS, DDD, Cloud Computing and much more</media:description></channel>
+</rss>

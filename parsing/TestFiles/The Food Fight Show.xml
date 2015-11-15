@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		
+		<title>The Food Fight Show</title>
+		<pubDate>Mon, 09 Nov 2015 14:38:03 +0000</pubDate>
+		<lastBuildDate>Mon, 09 Nov 2015 14:46:10 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://foodfight.libsyn.com</link>
+		<language>en</language>
+		<copyright><![CDATA[CC-BY 3.0 Unported]]></copyright>
+		<docs>http://foodfight.libsyn.com</docs>
+		<itunes:summary><![CDATA[The Chef community podcast]]></itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg</url>
+			<title>The Food Fight Show</title>
+			<link><![CDATA[http://foodfight.libsyn.com]]></link>
+		</image>
+		<itunes:author>Bryan Berry</itunes:author>
+	<itunes:category text="Technology">
+		<itunes:category text="Software How-To" />
+	</itunes:category>
+		<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Bryan Berry]]></itunes:name>
+			<itunes:email>bryan.berry@gmail.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show.]]></description>
+		<itunes:subtitle>The Chef community podcast</itunes:subtitle>
+				<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheFoodFightShow" /><feedburner:info uri="thefoodfightshow" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>CC-BY 3.0 Unported</media:copyright><media:thumbnail url="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" /><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><feedburner:browserFriendly></feedburner:browserFriendly><item>
+			<title>Food Fight Show - 95 - Learning Reviews</title>
+			<pubDate>Mon, 09 Nov 2015 14:38:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ed5f27ca1dc3ec3bca6ee7259c56fee3]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-95-learning-reviews]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/1/8/c/f18cda54c16ec347/one_chef.png" />
+			<description />
+			<enclosure length="52297701" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfight-95-learning-reviews.mp3" />
+			<itunes:duration>54:29</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us for a discussion of Learning Reviews.  What and how can we learn from failure?]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfight-95-learning-reviews.mp3" fileSize="52297701" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 94 - Compliance &amp; Audit</title>
+			<pubDate>Mon, 20 Jul 2015 11:32:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0f0cb5babc8a8e936af3fd2878fa5be3]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-94-compliance-audit]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/e/d/a/aedab6d3d710d677/two-chef.png" />
+			<description><![CDATA[<p>Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.  </p>]]></description>
+			<enclosure length="49030805" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3" />
+			<itunes:duration>51:05</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.  ]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow94-Compliance_and_Audit.mp3" fileSize="49030805" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 92 - DevOpsDays DC</title>
+			<pubDate>Tue, 30 Jun 2015 19:26:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[96364067d71ab335383a707440362290]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-92-devopsdays-dc]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/c/5/2/8c528a228037322a/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #333333; font-family: Roboto, arial, sans-serif; font-size: 13px; line-height: 17px;">A live recording of the Food Fight Show. Wherein we discuss the key learnings and insights from DevOpsDays DC with a panel of guests.</span></p>]]></description>
+			<enclosure length="32795674" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow92-DevOpsDaysDC.mp3" />
+			<itunes:duration>34:10</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A house divided against itself cannot stand.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow92-DevOpsDaysDC.mp3" fileSize="32795674" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 93 - Managing Secrets - in the Vault</title>
+			<pubDate>Tue, 16 Jun 2015 21:20:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[77841904cee4dfdbe97922672aac940e]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-93-managing-secrets-in-the-vault]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/f/f/9/8ff9628a813ee6ff/one_chef.png" />
+			<description />
+			<enclosure length="52642715" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3" />
+			<itunes:duration>54:51</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow93-ManagingSecretsInTheVault.mp3" fileSize="52642715" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 91 - ChefConf 2015 - Day 3 Recap</title>
+			<pubDate>Sun, 12 Apr 2015 13:49:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[cdb44f4b07d308f349433012443f399b]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-91-chefconf-2015-day-3-recap]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/c/8/5/1c85196afa9bd551/podcast.png" />
+			<description />
+			<enclosure length="22295342" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FFS091ChefConf2015Day3Recap.mp3" />
+			<itunes:duration>23:14</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FFS091ChefConf2015Day3Recap.mp3" fileSize="22295342" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 90 - ChefConf 2015 - Day 2 Recap</title>
+			<pubDate>Sun, 12 Apr 2015 13:47:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[14fdb56b26e2c0f6612f7becb4ccbebb]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-90-chefconf-2015-day-2-recap]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/3/b/1/0/3b10576f4e4ffbe2/podcast.png" />
+			<description />
+			<enclosure length="30025080" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FFS090ChefConf2015Day2Recap.mp3" />
+			<itunes:duration>31:17</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FFS090ChefConf2015Day2Recap.mp3" fileSize="30025080" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 89 - ChefConf Preview</title>
+			<pubDate>Sat, 07 Mar 2015 01:44:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[efb839ec99166e13961a04a750df5b37]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-89-chefconf-preview]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/5/8/d/558dd25e0ef497bc/podcast.png" />
+			<description />
+			<enclosure length="43748883" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Episode89-ChefConf-Preview.mp3" />
+			<itunes:duration>45:35</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Game On]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Episode89-ChefConf-Preview.mp3" fileSize="43748883" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 88 - Configuration Management Camp 2015</title>
+			<pubDate>Mon, 09 Feb 2015 19:34:50 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2df846ccb1e45cdf4d1dea51ad7ab526]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-88-configuration-management-camp-2015]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/0/c/1/d/0c1d3ead1eb1955a/podcast.png" />
+			<description />
+			<enclosure length="49932442" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow88-ConfigurationManagementCamp2015.mp3" />
+			<itunes:duration>52:01</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow88-ConfigurationManagementCamp2015.mp3" fileSize="49932442" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 87 - Complexity Theory and Cynefin</title>
+			<pubDate>Sun, 01 Feb 2015 16:22:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ec6b91fe06e52164ece83f57e9312742]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-87-complexity-theory-and-cynefin]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/3/c/9/6/3c962964a7864abb/podcast.png" />
+			<description />
+			<enclosure length="55017755" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow87-ComplexityTheory_and_Cynefin.mp3" />
+			<itunes:duration>57:19</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow87-ComplexityTheory_and_Cynefin.mp3" fileSize="55017755" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 86 - Three Year Retrospective</title>
+			<pubDate>Sun, 25 Jan 2015 19:24:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f76ae10bf08f79d0a6660efff2a349fb]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-86-three-year-retrospective]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/7/c/0/77c0b8b37f4de89b/podcast.png" />
+			<description><![CDATA[<p>Listen in as we discuss three years of the Food Fight Show and make some predictions of things to come.</p>]]></description>
+			<enclosure length="51474198" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow86-ThreeYearRetrospective.mp3" />
+			<itunes:duration>53:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Listen in as we discuss three years of the Food Fight Show and make some predictions of things to come.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow86-ThreeYearRetrospective.mp3" fileSize="51474198" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 85 - Apache Kafka</title>
+			<pubDate>Mon, 17 Nov 2014 16:24:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d080f6d317f2910e100ef2023f49f7b3]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-85-apache-kafka]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/9/b/8/29b890cf073b04ee/podcast.png" />
+			<description />
+			<enclosure length="45883142" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow85-Apache-Kafka.mp3" />
+			<itunes:duration>47:48</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow85-Apache-Kafka.mp3" fileSize="45883142" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 84 - Consul Template</title>
+			<pubDate>Fri, 07 Nov 2014 11:09:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[669b3319928f3b14c48761715ffd9ed4]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-84-consul-template]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/7/9/c/779c51e2447faad9/one_chef.png" />
+			<description />
+			<enclosure length="51347081" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3" />
+			<itunes:duration>53:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow84-ConsulTemplate.mp3" fileSize="51347081" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 83 - DevOpsDays Belgium</title>
+			<pubDate>Fri, 07 Nov 2014 11:07:02 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[84a1b5323771c1a28403000d9c4b6628]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-83-devopsdays-belgium]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/3/7/1/f3712a062c1ec346/two-chef.png" />
+			<description />
+			<enclosure length="24834432" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow83-DevOpsDaysBelgium.mp3" />
+			<itunes:duration>25:53</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow83-DevOpsDaysBelgium.mp3" fileSize="24834432" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Live from Chef Summit 2014!</title>
+			<pubDate>Mon, 20 Oct 2014 09:18:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[acabae59b6335e7686e736d5d9c90d4a]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/live-from-chef-summit-2014]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="24661830" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FFS082.mp3" />
+			<itunes:duration>25:42</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FFS082.mp3" fileSize="24661830" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Even MOAR Windows</title>
+			<pubDate>Mon, 20 Oct 2014 09:08:51 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a49e01d117e67b1add297cf81a164cab]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/even-moar-windows]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="60643920" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FFS081.mp3" />
+			<itunes:duration>01:03:11</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>windows</itunes:keywords>
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FFS081.mp3" fileSize="60643920" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 80 - Windows Automation for the Frustrated Sysadmin</title>
+			<pubDate>Mon, 13 Oct 2014 18:43:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6fee1bcef49a838839355de46bfa73b6]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-80-windows-automation-for-the-frustrated-sysadmin]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/8/6/f/886f3ccacc7ae7f4/podcast.png" />
+			<description />
+			<enclosure length="66528154" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FFS80.mp3" />
+			<itunes:duration>01:09:18</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FFS80.mp3" fileSize="66528154" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 79 - Chef Community Summit 2014 - Day 1 Recap</title>
+			<pubDate>Sat, 04 Oct 2014 15:58:17 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[68193e4f1b95d2fbd2a58b9ce8f68638]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-79-chef-community-summit-2014-day-1-recap]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/6/5/2/965291e69a98689b/podcast.png" />
+			<description />
+			<enclosure length="48737505" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FFS-ChefSummitDay1.mp3" />
+			<itunes:duration>50:47</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FFS-ChefSummitDay1.mp3" fileSize="48737505" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 78 - Chef Development Kit - ChefDK</title>
+			<pubDate>Fri, 29 Aug 2014 22:13:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2cd40cb8d3d944b261bb6b9fa17d4175]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-78-chef-development-kit-chefdk]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/2/8/a/828a52e19eaf4a81/one_chef.png" />
+			<description />
+			<enclosure length="58669952" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3" />
+			<itunes:duration>01:01:07</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow78-ChefDK.mp3" fileSize="58669952" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 77 - Test Kitchen</title>
+			<pubDate>Sat, 23 Aug 2014 00:34:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1bb35b8cf1840857332fd6f85f43980a]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-77-test-kitchen]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/f/e/8/afe8df5ff06047a3/podcast.png" />
+			<description><![CDATA[<p>Join our panelists as we discuss Test Kitchen!</p>
+<p> </p>
+<p>Panelists:</p>
+<ul>
+<li>Fletcher Nichol</li>
+<li>JJ Asghar</li>
+<li>Joshua Timberman</li>
+<li>Mike Fiedler</li>
+<li>Salim Afiune</li>
+<li>Scott Pustay</li>
+<li>Nathen Harvey</li>
+</ul>]]></description>
+			<enclosure length="65340042" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow77-Test_Kitchen.mp3" />
+			<itunes:duration>01:08:04</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join our panelists as we discuss Test Kitchen!
+ 
+Panelists:
+
+Fletcher Nichol
+JJ Asghar
+Joshua Timberman
+Mike Fiedler
+Salim Afiune
+Scott Pustay
+Nathen Harvey]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow77-Test_Kitchen.mp3" fileSize="65340042" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 76 - Supermarket</title>
+			<pubDate>Thu, 17 Jul 2014 16:12:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6af4d253abbce3cf54a96cbe75a0fa70]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-76-supermarket]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/e/9/4/7e948a1e9173c856/one_chef.png" />
+			<description />
+			<enclosure length="56282248" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow-76-Supermarket.mp3" />
+			<itunes:duration>58:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow-76-Supermarket.mp3" fileSize="56282248" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 75 - Chef Metal</title>
+			<pubDate>Mon, 09 Jun 2014 11:26:29 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6f3d0ca704b31f936d3a647b1b55014b]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-75-chef-metal]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/7/4/4/87444e22e68c4f01/two-chef.png" />
+			<description><![CDATA[<p>Join us as we discuss chef-metal with it’s creator, John Keiser.</p>]]></description>
+			<enclosure length="59048580" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow75-Chef-Metal.mp3" />
+			<itunes:duration>01:01:31</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us as we discuss chef-metal with it’s creator, John Keiser.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow75-Chef-Metal.mp3" fileSize="59048580" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 74 - DevOps Days Pittsburgh</title>
+			<pubDate>Tue, 03 Jun 2014 13:08:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[67ae332df3344a85dee44c7bae56cb05]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-74-devops-days-pittsburgh]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/1/0/9/e10980f4d2204b6d/two-chef.png" />
+			<description />
+			<enclosure length="33847824" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow74-DevOpsDaysPittsburgh.mp3" />
+			<itunes:duration>35:16</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow74-DevOpsDaysPittsburgh.mp3" fileSize="33847824" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 73 - Management in Operations</title>
+			<pubDate>Tue, 03 Jun 2014 13:07:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ad6d2467c4e598e21033b5b2583d1e97]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-73-management-in-operations]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/0/8/8/3/08838d52d39a1084/two-chef.png" />
+			<description />
+			<enclosure length="66269707" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow73-ManagementInOperations.mp3" />
+			<itunes:duration>01:09:02</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow73-ManagementInOperations.mp3" fileSize="66269707" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 72 - Cookbook Patterns</title>
+			<pubDate>Thu, 01 May 2014 03:18:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[38ebc1a206d83b962dadd87dc58cd08d]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-72-cookbook-patterns]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/3/f/e/f3fe391e6ad9a8f5/one_chef.png" />
+			<description />
+			<enclosure length="59905674" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow72-CookbookPatterns.mp3" />
+			<itunes:duration>01:02:25</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow72-CookbookPatterns.mp3" fileSize="59905674" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 71 - We're Doing It Wrong</title>
+			<pubDate>Sun, 12 Jan 2014 16:37:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[da82de910933c0f863dcfe2e398fad4a]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-71-we-re-doing-it-wrong]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/6/5/0/4650b7904e8c3d41/two-chef.png" />
+			<description />
+			<enclosure length="51532559" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow71-We_Are_Doing_It_Wrong.mp3" />
+			<itunes:duration>53:41</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow71-We_Are_Doing_It_Wrong.mp3" fileSize="51532559" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 70 - AWS OpsWorks</title>
+			<pubDate>Thu, 19 Dec 2013 17:14:41 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c905d61073cf3db9ebcd697c382bbc35]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-70-aws-ops-works]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/f/9/9/ef9973aad20b1ef1/two-chef.png" />
+			<description />
+			<enclosure length="57105922" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3" />
+			<itunes:duration>59:30</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3" fileSize="57105922" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 69 - Chef Best Practices</title>
+			<pubDate>Fri, 06 Dec 2013 02:29:55 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[315ec5ed2a31afc9b1e493d796c72cc9]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-69-chef-best-practices]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/1/c/c/91cc4214cc75770f/one_chef.png" />
+			<description><![CDATA[<p>Best Practices?!  Do they exist?  Join our panel as we "rapid fire" through a bunch of items looking for some consensus on best practices.</p>]]></description>
+			<enclosure length="68203148" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow69-Chef-Best-Practices.mp3" />
+			<itunes:duration>01:11:03</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Best Practices?!  Do they exist?  Join our panel as we "rapid fire" through a bunch of items looking for some consensus on best practices.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow69-Chef-Best-Practices.mp3" fileSize="68203148" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 68 - Docker in Practice</title>
+			<pubDate>Wed, 27 Nov 2013 00:03:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5239295ee60c03396e1b0a3627e01064]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-68-docker-in-practice]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/2/6/f/126f0956315c9366/one_chef.png" />
+			<description />
+			<enclosure length="49968524" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/068DockerInPractice.mp3" />
+			<itunes:duration>52:03</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/068DockerInPractice.mp3" fileSize="49968524" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 67 - Community Summit Recap</title>
+			<pubDate>Thu, 21 Nov 2013 11:44:10 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9c192b63785018c1d1b1eec220bc6d43]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-67-community-summit-recap]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/0/b/0/e0b0e0552c3dbd87/two-chef.png" />
+			<description><![CDATA[<p>Join us as we recap the Opscode Community Summit and talk a bit about AWS Re:Invent.</p>]]></description>
+			<enclosure length="37895291" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3" />
+			<itunes:duration>52:38</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us as we recap the Opscode Community Summit and talk a bit about AWS Re:Invent.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow67-Community-Summit-Recap.mp3" fileSize="37895291" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 66 - Opscode Community Summit - Day One Recap</title>
+			<pubDate>Tue, 19 Nov 2013 15:59:24 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[47912b920457ca2c723c2de1355d5c2f]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-66-opscode-community-summit-day-one-recap]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/f/c/1/afc18f02bd9a3ba1/one_chef.png" />
+			<description><![CDATA[<p>Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.</p>]]></description>
+			<enclosure length="41004975" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow66-CommunitySummit-DayOne.mp3" />
+			<itunes:duration>42:43</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow66-CommunitySummit-DayOne.mp3" fileSize="41004975" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 65 - Livin' on the Edge with Al Tobey</title>
+			<pubDate>Wed, 06 Nov 2013 04:15:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[94c36f2571e2ee9132ddfb64ad3f2620]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-65-livin-on-the-edge-with-al-tobey]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/4/e/d/24edcbc0e0606103/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">Join us as we discuss how to test your distributed system in production with Al Tobey.</span></p>]]></description>
+			<enclosure length="55936268" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow65-LivingOnTheEdge.mp3" />
+			<itunes:duration>58:16</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us as we discuss how to test your distributed system in production with Al Tobey.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow65-LivingOnTheEdge.mp3" fileSize="55936268" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 64 - The Future of DevOps</title>
+			<pubDate>Wed, 02 Oct 2013 02:57:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e17881b8438d86a610d236305ee1b623]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-64-the-future-of-dev-ops]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/1/f/9/21f9297588bc6a00/two-chef.png" />
+			<description><![CDATA[<p>Andrew Clay Shafer (@littleidea) joins us to discuss the future of DevOps.</p>]]></description>
+			<enclosure length="55914382" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3" />
+			<itunes:duration>58:15</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Andrew Clay Shafer (@littleidea) joins us to discuss the future of DevOps.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow64-Future-of-DevOps.mp3" fileSize="55914382" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 63 - Chef and HPC</title>
+			<pubDate>Wed, 02 Oct 2013 02:53:51 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c748ed7fdde03fd7a882d24ef7fa3e84]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-63-chef-and-hpc]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/a/9/a/7a9a4cbf6705dde5/one_chef.png" />
+			<description><![CDATA[<p>Bryan and Nathen are joined by Brock Palen and Jeff Squyers, the co-hosts of the RCE Cast, a podcast about High Performance Computing.</p>]]></description>
+			<enclosure length="65669509" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3" />
+			<itunes:duration>01:08:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Bryan and Nathen are joined by Brock Palen and Jeff Squyers, the co-hosts of the RCE Cast, a podcast about High Performance Computing.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow-63-Chef_and_HPC.mp3" fileSize="65669509" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 62 - Ohai</title>
+			<pubDate>Fri, 20 Sep 2013 19:59:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7062013597b550c17c969cf5daf6e643]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-62-ohai]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/6/c/5/f6c5c49c29eb49ae/one_chef.png" />
+			<description><![CDATA[<p>Join us for a discussion about Ohai and writing Ohai Plugins.</p>]]></description>
+			<enclosure length="43889022" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow-62-Ohai.mp3" />
+			<itunes:duration>45:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us for a discussion about Ohai and writing Ohai Plugins.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow-62-Ohai.mp3" fileSize="43889022" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 61 - OpenStack</title>
+			<pubDate>Wed, 18 Sep 2013 00:53:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[64894be27ba2f28216aebdadf4c429d5]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-61-open-stack]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/a/6/b/1a6bd4561718782c/two-chef.png" />
+			<description><![CDATA[<p>In this episode we discuss OpenStack, the private cloud software.</p>]]></description>
+			<enclosure length="54114179" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow61-OpenStack.mp3" />
+			<itunes:duration>56:23</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode we discuss OpenStack, the private cloud software.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow61-OpenStack.mp3" fileSize="54114179" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 60 - DevOps Riot</title>
+			<pubDate>Thu, 22 Aug 2013 13:27:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b2928765ba8409b8d3667154bd2c4b9c]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-60-dev-ops-riot]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/d/f/1/fdf1d3ac6c5f23e3/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">Join us as we discuss DevOps at Riot Games.</span></p>]]></description>
+			<enclosure length="61464324" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3" />
+			<itunes:duration>01:04:02</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us as we discuss DevOps at Riot Games.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow60-DevOpsRiot.mp3" fileSize="61464324" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 59 - Packer with Mitchell Hashimoto</title>
+			<pubDate>Fri, 16 Aug 2013 03:14:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d023b3b73df21f8be536c4c9205ec7c5]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-59-packer-with-mitchell-hashimoto]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/0/1/d/d01d5e6f49c6b5b0/one_chef.png" />
+			<description><![CDATA[<p>Join us as we discuss Packer with Mitchell Hashimoto.</p>]]></description>
+			<enclosure length="53877248" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3" />
+			<itunes:duration>56:08</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us as we discuss Packer with Mitchell Hashimoto.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3" fileSize="53877248" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 58 - Immutable Infrastructure</title>
+			<pubDate>Tue, 23 Jul 2013 00:55:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[210e5a3a8d725163dfc4b27647ab4fa8]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-58-immutable-infrastructure]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/c/a/5/8ca580c4caef412b/two-chef.png" />
+			<description><![CDATA[<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px; vertical-align: baseline; color: #222222;">Join us as we discuss <a href="http://chadfowler.com/blog/2013/06/23/immutable-deployments/" style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word;">Immutable Infrastructure</a> with <a href="https://twitter.com/chadfowler" style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word;">Chad Fowler</a>.</p>]]></description>
+			<enclosure length="59718307" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/_FoodFightShow-58-ImmutableInfrastructure.mp3" />
+			<itunes:duration>01:02:13</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us as we discuss Immutable Infrastructure with Chad Fowler.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/_FoodFightShow-58-ImmutableInfrastructure.mp3" fileSize="59718307" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 57:  Secret Chef</title>
+			<pubDate>Wed, 10 Jul 2013 10:54:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6a3676eccac50f1d020a6260919d0272]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-57-secret-chef]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/e/d/1/fed18b8bc38113d6/two-chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">In this episode, we discuss managing secrets with Chef.</span></p>]]></description>
+			<enclosure length="54510853" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow-57-SecretChef.mp3" />
+			<itunes:duration>56:47</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we discuss managing secrets with Chef.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow-57-SecretChef.mp3" fileSize="54510853" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 56 - Erlang Eye for the DevOps Guy and Gal</title>
+			<pubDate>Tue, 02 Jul 2013 21:08:46 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[308b51de1a39a48826e3bce60074fb05]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-56-erlang-eye-for-the-dev-ops-guy-and-gal]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/1/d/7/e1d724f76a708454/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">An introduction to Erlang and OTP for operations professionals.</span></p>]]></description>
+			<enclosure length="55650176" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3" />
+			<itunes:duration>57:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[An introduction to Erlang and OTP for operations professionals.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow56-erlang.mp3" fileSize="55650176" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 55 - DevOpsDays Silicon Valley - 2013</title>
+			<pubDate>Fri, 28 Jun 2013 19:50:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5ee459f3abbf13fabf5b06abd2b120a4]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-55-dev-ops-days-silicon-valley-2013]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/2/a/2/52a20f2893e14323/one_chef.png" />
+			<description><![CDATA[<p>Join this episode where we re-cap DevOpsDays Silicon Valley.  We were lucky enough to have members from The Ship Show and DevOps Cafe.</p>]]></description>
+			<enclosure length="42871460" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3" />
+			<itunes:duration>44:40</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join this episode where we re-cap DevOpsDays Silicon Valley.  We were lucky enough to have members from The Ship Show and DevOps Cafe.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow55-DevOpsDaysSV.mp3" fileSize="42871460" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 54:  Continuous Delivery</title>
+			<pubDate>Fri, 21 Jun 2013 13:20:11 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[17c8295b07feb8ee0b58c0a9409c0a5a]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-54-continuous-delivery]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/d/0/0/ed00f649e711edcf/two-chef.png" />
+			<description><![CDATA[<p>Jez Humble, Adam Jacob, and Mike McGarr join us to discuss Continuous Delivery, Continuous Deployment, and Continuous Integration.</p>]]></description>
+			<enclosure length="63092493" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow-54-Continuous-Delivery.mp3" />
+			<itunes:duration>01:05:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Jez Humble, Adam Jacob, and Mike McGarr join us to discuss Continuous Delivery, Continuous Deployment, and Continuous Integration.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow-54-Continuous-Delivery.mp3" fileSize="63092493" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 53:  Chef Internals</title>
+			<pubDate>Thu, 20 Jun 2013 13:26:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[866ca1aba87af0b48a0d601c10a53e63]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-53-chef-internals]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/2/2/1/8221ed002c77c43c/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">We discuss the internals of the chef client code.</span></p>]]></description>
+			<enclosure length="51304072" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow53-ChefInternals.mp3" />
+			<itunes:duration>53:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We discuss the internals of the chef client code.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow53-ChefInternals.mp3" fileSize="51304072" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 52:  Chef and AWS</title>
+			<pubDate>Mon, 10 Jun 2013 16:32:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e369cd985d185fd28ae0f3df55bdbb6d]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-52-chef-and-aws]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/8/a/2/48a2882caf252583/two-chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">A round table discussion on using Chef with AWS and brief exploration of some of the many AWS services.</span></p>]]></description>
+			<enclosure length="58216838" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3" />
+			<itunes:duration>01:00:39</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A round table discussion on using Chef with AWS and brief exploration of some of the many AWS services.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow52-Chef_and_AWS.mp3" fileSize="58216838" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 51:  Testing In Practice</title>
+			<pubDate>Wed, 29 May 2013 11:24:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6a79df6f3a4aee4a4430e16407fbe155]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-51-testing-in-practice]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/b/d/0/fbd052ecfc0a0429/two-chef.png" />
+			<description><![CDATA[<p>Foodcritic, knife cookbook test, Chefspec, minitest chef handler, and cucumber chef.  So many tools but how are these actually used in practice?</p>
+<p></p>
+<p>Listen in on the panel discussion of testing in practice.</p>]]></description>
+			<enclosure length="61864076" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3" />
+			<itunes:duration>01:04:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Foodcritic, knife cookbook test, Chefspec, minitest chef handler, and cucumber chef.  So many tools but how are these actually used in practice?
+
+Listen in on the panel discussion of testing in practice.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3" fileSize="61864076" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  Sam Kottler</title>
+			<pubDate>Tue, 21 May 2013 16:27:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c29ea05fa07645f2fe746191b51213b1]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-sam-kottler]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/8/5/b/285b2ae80f8b88a4/two-chef.png" />
+			<description><![CDATA[<p>DevOps Delicacy - Monitorama:  Sam Kottler with @samkottler</p>]]></description>
+			<enclosure length="20817003" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_sam-kottler.mp3" />
+			<itunes:duration>21:42</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DevOps Delicacy - Monitorama:  Sam Kottler with @samkottler]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_sam-kottler.mp3" fileSize="20817003" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  Pete Cheslock on Culture</title>
+			<pubDate>Tue, 21 May 2013 16:25:11 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[247cb2435c15bcad1f51b3cec04453e7]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-pete-cheslock-on-culture]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/1/e/f/51ef6d23d74b2af6/one_chef.png" />
+			<description><![CDATA[<p>DevOps Delicacy - Monitorama:  Pete Cheslock on Culture with @petecheslock</p>]]></description>
+			<enclosure length="19783810" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_pete_cheslock_culture.mp3" />
+			<itunes:duration>20:37</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DevOps Delicacy - Monitorama:  Pete Cheslock on Culture with @petecheslock]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_pete_cheslock_culture.mp3" fileSize="19783810" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  Kyle Kingsbury on Riemann</title>
+			<pubDate>Tue, 21 May 2013 16:23:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4bb9d0417d1556cfbfcecf96db14c3f8]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-kyle-kingsbury-on-riemann]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/5/e/6/f5e6cadfdce603be/one_chef.png" />
+			<description><![CDATA[<p>DevOps Delicacy - Monitorama:  Kyle Kingsbury on Riemann with @aphyr</p>]]></description>
+			<enclosure length="18678309" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_kyle_reimann.mp3" />
+			<itunes:duration>19:28</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DevOps Delicacy - Monitorama:  Kyle Kingsbury on Riemann with @aphyr]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_kyle_reimann.mp3" fileSize="18678309" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  Julian Martinez from Locaweb</title>
+			<pubDate>Tue, 21 May 2013 16:21:29 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[91355ab4aefc2b206abecb89a6f6d26f]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-julian-martinez-from-locaweb]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/6/5/a/265a1f829a3acd1d/two-chef.png" />
+			<description><![CDATA[<p>DevOps Delicacy - Monitorama:  Julian Martinez from Locaweb</p>]]></description>
+			<enclosure length="23449736" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_julian_martinez-locaweb.mp3" />
+			<itunes:duration>24:26</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DevOps Delicacy - Monitorama:  Julian Martinez from Locaweb]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_julian_martinez-locaweb.mp3" fileSize="23449736" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  John Willis on Docker</title>
+			<pubDate>Tue, 21 May 2013 16:19:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e97fb15f64a1ea1e29b3277e413245b0]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-john-willis-on-docker]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/e/e/1/9ee1a9f13c77df2d/one_chef.png" />
+			<description><![CDATA[<p>DevOps Delicacy - Monitorama:  John Willis on Docker with @botchagalupe</p>]]></description>
+			<enclosure length="18219802" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_john_willis_docker.mp3" />
+			<itunes:duration>18:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DevOps Delicacy - Monitorama:  John Willis on Docker with @botchagalupe]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_john_willis_docker.mp3" fileSize="18219802" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  Heavywater consulting</title>
+			<pubDate>Tue, 21 May 2013 16:17:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3b97118dfbf551e442d19c5fd127302e]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-heavywater-consulting]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/f/7/5/cf75398c89bc0833/one_chef.png" />
+			<description />
+			<enclosure length="14820117" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_heavywater.mp3" />
+			<itunes:duration>15:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_heavywater.mp3" fileSize="14820117" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  Github and Happiness</title>
+			<pubDate>Tue, 21 May 2013 16:15:49 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[081aef4fb82f01acd3dbf06fba4af0a8]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-github-and-happiness]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/b/7/c/eb7c48fa789f8895/two-chef.png" />
+			<description><![CDATA[<p>DevOps Delicacy - Monitorama:  Github and Happiness with @wfarr, @jnewland, and @nixgeek</p>]]></description>
+			<enclosure length="33611565" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_shorttake_github_happiness.mp3" />
+			<itunes:duration>35:01</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DevOps Delicacy - Monitorama:  Github and Happiness with @wfarr, @jnewland, and @nixgeek]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_shorttake_github_happiness.mp3" fileSize="33611565" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  Bethany Erskine of Paperless Post</title>
+			<pubDate>Tue, 21 May 2013 16:13:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[14ad8e80edfc9c1ecbca16b7d536ed8e]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-bethany-erskine-of-paperless-post]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/9/f/209f7b85c080ca9b/one_chef.png" />
+			<description><![CDATA[<p>DevOps Delicacy - Monitorama:  Bethany Erskine of Paperless Post with @skymob</p>]]></description>
+			<enclosure length="11792435" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_bethany_paperless_post.mp3" />
+			<itunes:duration>12:17</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DevOps Delicacy - Monitorama:  Bethany Erskine of Paperless Post with @skymob]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_bethany_paperless_post.mp3" fileSize="11792435" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Monitorama:  Bear on DevOps Consulting</title>
+			<pubDate>Tue, 21 May 2013 16:11:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2a6ea4758cf7b117afb1c0c6740804ca]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-monitorama-bear-on-dev-ops-consulting]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/9/8/3/b98303f4869bdebf/two-chef.png" />
+			<description><![CDATA[<p>DevOps Delicacy - Monitorama:  Bear on DevOps Consulting with @bear</p>]]></description>
+			<enclosure length="12872017" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_bear_consulting.mp3" />
+			<itunes:duration>13:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DevOps Delicacy - Monitorama:  Bear on DevOps Consulting with @bear]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfightshow_monitorama_bear_consulting.mp3" fileSize="12872017" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 50 - Netflix OSS</title>
+			<pubDate>Thu, 09 May 2013 20:43:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9ff386263397397baf5f56b3bb076647]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-50-netflix-oss]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/2/7/2/f272f19749773be3/one_chef.png" />
+			<description><![CDATA[<p>All about Netflix's Open Source Software projects.</p>]]></description>
+			<enclosure length="56611798" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-50-NetflixOSS.mp3" />
+			<itunes:duration>01:07:24</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[All about Netflix's Open Source Software projects.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-50-NetflixOSS.mp3" fileSize="56611798" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 49 - Docker</title>
+			<pubDate>Thu, 09 May 2013 20:29:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d430d8ac23c2f6cb4e10b2636b74f2f9]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-49-docker]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/9/e/2/19e21df5138f8ebd/two-chef.png" />
+			<description><![CDATA[<p>Join us as we discuss Docker, dotCloud, and linux containers.</p>]]></description>
+			<enclosure length="53770076" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-49-Docker.mp3" />
+			<itunes:duration>01:04:01</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us as we discuss Docker, dotCloud, and linux containers.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-49-Docker.mp3" fileSize="53770076" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 48 - A SmarterOS</title>
+			<pubDate>Thu, 09 May 2013 14:53:02 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0681e70f1196836370a136c9bb40c2c6]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-48-a-smarter-os]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/1/4/d/914d34a4ca05a8ae/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">In this episode, we discuss SmartOS and other Solaris derivatives.</span></p>]]></description>
+			<enclosure length="57829943" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3" />
+			<itunes:duration>01:08:51</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we discuss SmartOS and other Solaris derivatives.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3" fileSize="57829943" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show - #ChefConf - Day 2 Wrap-up</title>
+			<pubDate>Wed, 01 May 2013 12:53:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[bba08287aad419c0495e0b8fd38c60bc]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-chef-conf-day-2-wrap-up]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/0/c/a/10ca27e271489a24/two-chef.png" />
+			<description><![CDATA[<p>Show Date:  26 April 2013</p>
+<p>This is another FoodShipShow Joint Production!</p>
+<p>Join us as we wrap-up #ChefConf 2013.</p>
+<div></div>]]></description>
+			<enclosure length="38883953" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/ChefConf-2013-Wrap-Up.mp3" />
+			<itunes:duration>46:17</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Show Date:  26 April 2013
+This is another FoodShipShow Joint Production!
+Join us as we wrap-up #ChefConf 2013.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/ChefConf-2013-Wrap-Up.mp3" fileSize="38883953" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Chefconf 2013: Talking Shop with Spheromak, Kisoku, and Miah_</title>
+			<pubDate>Fri, 26 Apr 2013 23:44:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e2e4742c7ed4423a36e62d6abeaa14fc]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/chefconf-2013-talking-shop-with-spheromak-kisoku-and-miah]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="21914772" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/ffs_chefconf3.mp3" />
+			<itunes:duration>45:39</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/ffs_chefconf3.mp3" fileSize="21914772" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Chefconf 2013: Talking about Push Jobs with Kevin Smith</title>
+			<pubDate>Fri, 26 Apr 2013 15:06:50 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fec893708c0ffe588fe0084956448932]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/chefconf-2013-talking-about-push-jobs-with-kevin-smith]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="7131555" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/ffs_pushy.mp3" />
+			<itunes:duration>14:51</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/ffs_pushy.mp3" fileSize="7131555" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Chefconf 2013: Day 1 Roundup</title>
+			<pubDate>Fri, 26 Apr 2013 14:58:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[93eab5584464c6646fc581920c4cfde7]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/chefconf-2013-day-1-roundup]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="15301821" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/ffs_chefconf_day1_2.mp3" />
+			<itunes:duration>31:53</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/ffs_chefconf_day1_2.mp3" fileSize="15301821" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 47 - The Phoenix Project</title>
+			<pubDate>Tue, 02 Apr 2013 04:09:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7f3e6123777eca2fdfc157d328875fc9]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-47-the-phoenix-project]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/9/3/0/f930a0e4ba78d3a5/one_chef.png" />
+			<description><![CDATA[<p>In this episode, we sat down with Gene Kim and Jez Humble to discuss The Phoenix Project:  A Novel About IT, DevOps, and Helping Your Business Win.</p>]]></description>
+			<enclosure length="45431898" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-47-phoenix-project.mp3" />
+			<itunes:duration>01:03:06</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we sat down with Gene Kim and Jez Humble to discuss The Phoenix Project:  A Novel About IT, DevOps, and Helping Your Business Win.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-47-phoenix-project.mp3" fileSize="45431898" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 46 - elasticsearch</title>
+			<pubDate>Tue, 26 Mar 2013 11:48:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ee80e8d42fe39756f3ae41401dee61db]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-46-elasticsearch]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/9/d/d/c9dd3ad1493fb3bc/two-chef.png" />
+			<description><![CDATA[<p>In this episode, we sat down with Shay Banon, Karel Minarik, Rashid Khan, and Dan Phrawzty to discuss elasticsearch.</p>]]></description>
+			<enclosure length="48341421" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-46-elasticsearch.mp3" />
+			<itunes:duration>01:07:08</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we sat down with Shay Banon, Karel Minarik, Rashid Khan, and Dan Phrawzty to discuss elasticsearch.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-46-elasticsearch.mp3" fileSize="48341421" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show - 45 - Libraries, LWRPs, and Definitions</title>
+			<pubDate>Tue, 26 Mar 2013 10:36:21 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2e9ee633015afaf9f41070d736035daf]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-45-libraries-lwr-ps-and-definitions]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/e/6/0/ee608ab556d8c84f/one_chef.png" />
+			<description><![CDATA[<p>In this episode, we sat down with Miah Johnson, Ranjib Dey, Doug Ireton, Chris McClimans, Joshua Timberman, and Seth Vargo to discuss Libraries, Definitions and LWRPs.</p>]]></description>
+			<enclosure length="48465822" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-45-LWRPs.mp3" />
+			<itunes:duration>01:07:19</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we sat down with Miah Johnson, Ranjib Dey, Doug Ireton, Chris McClimans, Joshua Timberman, and Seth Vargo to discuss Libraries, Definitions and LWRPs.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-45-LWRPs.mp3" fileSize="48465822" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 44 - Zookeeper</title>
+			<pubDate>Tue, 19 Mar 2013 13:49:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[bb26311a860b96095ee1459504409f05]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-44-zookeeper]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/3/5/1/1/3511dc322b152326/one_chef.png" />
+			<description><![CDATA[<p>In this episode, we sat down with Matt Wise, Ben Hartshorne and Charity Majors to talk about using zookeeper with Chef and Puppet.</p>]]></description>
+			<enclosure length="43339197" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3" />
+			<itunes:duration>01:00:11</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we sat down with Matt Wise, Ben Hartshorne and Charity Majors to talk about using zookeeper with Chef and Puppet.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-44-Zookeeper.mp3" fileSize="43339197" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Hangops - Chef 11</title>
+			<pubDate>Wed, 13 Mar 2013 14:33:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[80c7ddc9e8accd66295169c856affe94]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/hangops-chef-11]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/d/1/f/2d1fb6b86ed0da04/two-chef.png" />
+			<description><![CDATA[<p>This is the audio version of the Hangops session from March 8, 2013.  During the Hangops session, we talked all about Chef 11.  Seems like a good cross-post for the Food Fight Show!</p>
+<p></p>
+<p>Enjoy!</p>]]></description>
+			<enclosure length="49404035" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Hangops-Chef-11.mp3" />
+			<itunes:duration>01:08:37</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This is the audio version of the Hangops session from March 8, 2013.  During the Hangops session, we talked all about Chef 11.  Seems like a good cross-post for the Food Fight Show!
+
+Enjoy!]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Hangops-Chef-11.mp3" fileSize="49404035" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 43 - Adaptive Fault Detection</title>
+			<pubDate>Mon, 04 Mar 2013 21:15:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ccb68073d03eaf37ec61b0696e3553a3]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-43-adaptive-fault-detection]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/3/c/f/e3cf3e30a931dcde/two-chef.png" />
+			<description><![CDATA[<p>In this episode, we sat down with Baron Schwartz to discuss his presentation on Adaptive Fault Detection. Jason Dixon and Brandon Burton joined the conversation.</p>]]></description>
+			<enclosure length="48248969" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-43-adaptive-fault-detection.mp3" />
+			<itunes:duration>01:07:01</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we sat down with Baron Schwartz to discuss his presentation on Adaptive Fault Detection. Jason Dixon and Brandon Burton joined the conversation.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-43-adaptive-fault-detection.mp3" fileSize="48248969" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 42 - Chef 11</title>
+			<pubDate>Mon, 04 Mar 2013 20:10:25 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[22cc1cbaf13628afcea0e37c29ac45b3]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-42-chef-11]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/d/c/9/1dc9c2070df44936/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">In this episode, we sit down with some of the engineering team at Opscode to discuss the recently released Chef 11.</span></p>]]></description>
+			<enclosure length="44227356" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-42-chef11.mp3" />
+			<itunes:duration>01:01:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we sit down with some of the engineering team at Opscode to discuss the recently released Chef 11.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-42-chef11.mp3" fileSize="44227356" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight 41 - Saving the World With DevOps, Big Data, and HPC</title>
+			<pubDate>Mon, 04 Mar 2013 19:43:41 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[506d8815a7507d82dd9918b415db3562]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-41-saving-the-world-with-dev-ops-big-data-and-hpc]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/1/c/b/a1cbecf081ce8c74/two-chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">In this episode, we discuss the role DevOps can play in helping science overcome some of the most pressing research challenges such as climate change and canceer research.</span></p>]]></description>
+			<enclosure length="42683451" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3" />
+			<itunes:duration>59:17</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we discuss the role DevOps can play in helping science overcome some of the most pressing research challenges such as climate change and canceer research.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-41-saving-the-world-with-devops.mp3" fileSize="42683451" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 40:  logstash</title>
+			<pubDate>Mon, 25 Feb 2013 19:07:24 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a87597f0382ed5fdaed7845ed3825a3f]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-40-logstash]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/2/0/5/e205ed0eb6c48f52/two-chef.png" />
+			<description><![CDATA[<p>In this episode, we discuss Logstash and The logstash Book with Jordan Sissel and James Turnbull.</p>]]></description>
+			<enclosure length="47099273" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-40-logstash.mp3" />
+			<itunes:duration>01:05:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we discuss Logstash and The logstash Book with Jordan Sissel and James Turnbull.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-40-logstash.mp3" fileSize="47099273" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 39 - USE - Thinking Methodically about Performance</title>
+			<pubDate>Wed, 20 Feb 2013 15:44:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b036093d14eed4ce02e4468a3f625c8a]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-39-use-thinking-methodically-about-performance]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/0/f/8/b0f81ca6fa80709b/one_chef.png" />
+			<description><![CDATA[<p>In this episode, we sit down with Brendan Gregg of Joyent to discuss performance and his recent article, Thinking Methodically about Performance.</p>]]></description>
+			<enclosure length="42873307" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-39-USE-Method.mp3" />
+			<itunes:duration>59:32</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we sit down with Brendan Gregg of Joyent to discuss performance and his recent article, Thinking Methodically about Performance.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-39-USE-Method.mp3" fileSize="42873307" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy:  Application Deployment</title>
+			<pubDate>Tue, 29 Jan 2013 05:16:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[11e9523d0d827e3dfc16e5e010b7c603]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-application-deployment]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/3/1/e/e31e60308077c90c/two-chef.png" />
+			<description><![CDATA[<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span style="font-size: small;"><span color="#222222" face="Georgia, Times New Roman, serif" style="color: #222222; font-family: Georgia, 'Times New Roman', serif;"><span style="line-height: 23.984375px;">This episode was started with a tweet from Javier Segura - " @nathenharvey are you still recommending capistrano deploys in a chef infrastructure? I want to know what the best practices are"</span></span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span style="font-size: small;"><span color="#222222" face="Georgia, Times New Roman, serif" style="color: #222222; font-family: Georgia, 'Times New Roman', serif;"><span style="line-height: 23.984375px;">Unable to answer the question in 140 characters, we gathered an expert panel and discussed the topic for about </span></span><span style="line-height: 23.984375px; color: #222222; font-family: Georgia, 'Times New Roman', serif;">forty-five minutes.</span></span></p>]]></description>
+			<enclosure length="31043813" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Application-Deployment.mp3" />
+			<itunes:duration>43:07</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This episode was started with a tweet from Javier Segura - " @nathenharvey are you still recommending capistrano deploys in a chef infrastructure? I want to know what the best practices are"
+Unable to answer the question in 140 characters, we gathered...]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Application-Deployment.mp3" fileSize="31043813" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 38:  Windows Roundtable</title>
+			<pubDate>Tue, 29 Jan 2013 04:59:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fb2688ec543fc444731e2f3efa83cea2]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-38-windows-roundtable]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/3/6/8/1/3681d5835d5dd4cb/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16.363636016845703px; line-height: 23.99147605895996px;">In this episode, we discuss managing Window environments with Chef.</span></p>]]></description>
+			<enclosure length="44728778" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-38-Windows.mp3" />
+			<itunes:duration>01:02:07</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we discuss managing Window environments with Chef.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-38-Windows.mp3" fileSize="44728778" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 37 - Roles, Environments, Attributes, and Data Bags - Part 2</title>
+			<pubDate>Fri, 25 Jan 2013 02:55:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3d5b2c88262374f8e8b1a4d5128659f6]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-37-roles-environments-attributes-and-data-bags-part-2]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/6/a/7/f6a79e6b80b0f156/two-chef.png" />
+			<description><![CDATA[<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font-size: 16.363636016845703px; font: inherit; vertical-align: baseline; color: #222222; font-family: Georgia, 'Times New Roman', serif; line-height: 23.99147605895996px;"><span style="font-size: small;">This episode is a continuation of our discussion of Roles, Environments, Attributes and Data Bags. The episode was recorded as a Google+ Hangout and streamed live on YouTube.</span></p>
+<div></div>]]></description>
+			<enclosure length="51246704" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-37-Roles-Environs-Etc-Pt2.mp3" />
+			<itunes:duration>01:11:10</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This episode is a continuation of our discussion of Roles, Environments, Attributes and Data Bags. The episode was recorded as a Google+ Hangout and streamed live on YouTube.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-37-Roles-Environs-Etc-Pt2.mp3" fileSize="51246704" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 36 - Roles, Environments, Attributes, and Data Bags</title>
+			<pubDate>Thu, 24 Jan 2013 04:15:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8f13070ae72580c47d1bf4f3de749662]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-36-roles-environments-attributes-and-data-bags]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/6/f/6/7/6f67ca2f38ffe800/one_chef.png" />
+			<description><![CDATA[<p>This episode is a look at Roles, Environments, Attributes and Data Bags.</p>
+<p>The episode was recorded as a Google+ Hangout and streamed live on YouTube.</p>
+<div></div>]]></description>
+			<enclosure length="47954827" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-36-Roles-Environs-Etc.mp3" />
+			<itunes:duration>01:06:36</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This episode is a look at Roles, Environments, Attributes and Data Bags.
+The episode was recorded as a Google+ Hangout and streamed live on YouTube.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-36-Roles-Environs-Etc.mp3" fileSize="47954827" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Days NYC - That's a Wrap!</title>
+			<pubDate>Sat, 19 Jan 2013 02:54:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c7079408b2d153f38629fa1be8f1107b]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-days-nyc-that-s-a-wrap]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/6/f/8/f/6f8f264527d98a1a/two-chef.png" />
+			<description><![CDATA[<p>Join this round-table discussion summarizing DevOpsDays NYC. </p>]]></description>
+			<enclosure length="31532505" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/dod-nyc-wrapup.mp3" />
+			<itunes:duration>43:48</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join this round-table discussion summarizing DevOpsDays NYC. ]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/dod-nyc-wrapup.mp3" fileSize="31532505" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOpsDays With Matthias Meyer</title>
+			<pubDate>Sat, 19 Jan 2013 02:23:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e6c489fca98bd6a6715060e71a6b8ca1]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-days-with-matthias-meyer]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/3/2/4/1324073100187def/one_chef.png" />
+			<description><![CDATA[<p>In this episode, Nathen and John sat down to talk with Matthias Meyer, aka @roidrage, to discuss his DevOpsDays NYC presentation, Failure is Always An Option, TravisCI, and more.</p>
+<div></div>]]></description>
+			<enclosure length="25929721" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/dod-nyc-roidrage.mp3" />
+			<itunes:duration>36:01</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, Nathen and John sat down to talk with Matthias Meyer, aka @roidrage, to discuss his DevOpsDays NYC presentation, Failure is Always An Option, TravisCI, and more.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/dod-nyc-roidrage.mp3" fileSize="25929721" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 35:  A Year in Review</title>
+			<pubDate>Wed, 02 Jan 2013 16:46:21 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[65db70f7addfde76259c91452b58b31e]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-35-a-year-in-review]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/6/4/2/564207a9f78a9558/two-chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">This episode is a look back at the Food Fight Show in 2012 and a discussion of the changes planned for 2013. The episode was recorded as a Google+ Hangout and streamed live on YouTube.</span></p>]]></description>
+			<enclosure length="35757885" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-35-A-Year-in-Review.mp3" />
+			<itunes:duration>49:40</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This episode is a look back at the Food Fight Show in 2012 and a discussion of the changes planned for 2013. The episode was recorded as a Google+ Hangout and streamed live on YouTube.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-35-A-Year-in-Review.mp3" fileSize="35757885" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 34 - Ops School and Training System Administrators</title>
+			<pubDate>Sat, 22 Dec 2012 01:07:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d469d3c74e7946440e564b31db8fef35]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show34-opsschool-mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/7/3/2/4732daf63d2d8470/two-chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">In this episode, we discuss <a href="http://opsschool.org">Ops School</a> </span><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">and training System Administrators. The episode was recorded as a Google+ Hangout and <a href="http://www.youtube.com/watch?v=zpbr8F2RGBs">steamed live on YouTube</a>.</span></p>
+<p></p>
+<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">Take the Food Fight Show listener survey - http://bit.ly/ffssurvey</span></p>]]></description>
+			<enclosure length="49496565" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FoodFightShow34-Opsschool.mp3" />
+			<itunes:duration>01:08:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, we discuss Ops School and training System Administrators. The episode was recorded as a Google+ Hangout and steamed live on YouTube.
+
+Take the Food Fight Show listener survey - http://bit.ly/ffssurvey]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FoodFightShow34-Opsschool.mp3" fileSize="49496565" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 33 - #monitoringlove with Sensu</title>
+			<pubDate>Mon, 17 Dec 2012 15:24:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[43b38cd2f619f85b9dc4d0ca90a3837f]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-33-monitoringlove-with-sensu]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/a/2/e/ca2ee68d829e5ee6/one_chef.png" />
+			<description><![CDATA[<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span face="Georgia, Times New Roman, serif" size="2" style="font-family: Georgia, 'Times New Roman', serif; font-size: x-small;"><span style="line-height: 24px;">In this episode Nathen, @lusis, and Mike Fiedler sit down with Sean Porter and Ulf Mansson to discuss Sensuand #monitoringlove.</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span face="Georgia, Times New Roman, serif" size="2" style="font-family: Georgia, 'Times New Roman', serif; font-size: x-small;"><span style="line-height: 24px;"><br /></span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span face="Georgia, Times New Roman, serif" size="2" style="font-family: Georgia, 'Times New Roman', serif; font-size: x-small;"><span style="line-height: 24px;">This episode was inspired by Ulf’s presentation at DevOps Days Rome 2012:</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span face="Georgia, Times New Roman, serif" size="2" style="font-family: Georgia, 'Times New Roman', serif; font-size: x-small;"><span style="line-height: 24px;"><br /></span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span face="Georgia, Times New Roman, serif" size="2" style="font-family: Georgia, 'Times New Roman', serif; font-size: x-small;"><span style="line-height: 24px;">Monitoringlove: a True story in this presentation given at DevopsDays Italy. Ulf Mansson describes how the implementation of sensu and graphite convert the monitoring meme from monitoringsucks to monitoringlove. Hey kids, Ulf is right. monitoringsucks is dead, long live monitoringlove! There is now an active monitoringlove hashtag on twitter and an active #monitoringlove IRC channel. Join the Fun! Thanks to Ulf Mansson for making us realize that monitoring no longer has to suck and that if we put in just a bit of extra work, we can experience monitoringlove too.</span></span></p>]]></description>
+			<enclosure length="53391210" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/FFS33-Sensu_and_monitoringlove.mp3" />
+			<itunes:duration>01:03:33</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode Nathen, @lusis, and Mike Fiedler sit down with Sean Porter and Ulf Mansson to discuss Sensuand #monitoringlove.
+
+This episode was inspired by Ulf’s presentation at DevOps Days Rome 2012:
+
+Monitoringlove: a True story in this...]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/FFS33-Sensu_and_monitoringlove.mp3" fileSize="53391210" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 32: There's a spork in my berkshelf, talkin' 'bout workflow</title>
+			<pubDate>Thu, 15 Nov 2012 20:01:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[111790d5c1df4f458b2c45c27450e3b0]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-32-there-s-a-spork-in-my-berkshelf-talkin-bout-workflow]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="42759651" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/ffs32_2.mp3" />
+			<itunes:duration>01:29:05</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>knife,chef,devops,spork,berkshelf</itunes:keywords>
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/ffs32_2.mp3" fileSize="42759651" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show - Two Hangouts This Week</title>
+			<pubDate>Tue, 06 Nov 2012 15:30:49 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[33fa7ca57ec0127dc206c794a48c0b54]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-two-hangouts-this-week]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/a/9/b/7a9b100ec13b8886/two-chef.png" />
+			<description><![CDATA[<p>Join us for two Hangouts this week!</p>
+<p>Wednesday, November 7, 19:30 UTC</p>
+<p>Our first Hangout will be on Wednesday, November 7 at 19:30 UTC which is 2:30PM in Eastern Standard Time and 11:30AM Pacific Standard. For this hangout, we’ve invited Paul Reed and Seth Thomas to join us to discuss our most recent Food Fight Show where we discussed the practice, profession, and tools of Release Engineering.</p>
+<p></p>
+<p>Thursday, November 8, 21:00 UTC</p>
+<p>Our second Hangout will be on Thursday, November 8 at 21:00 UTC which is 4:00PM in Eastern Standard Time and 1:00PM Pacific Standard.  Noah Kantrowitz, also known as coderanger on IRC, will be joining us to share some thoughts and lead a discussion about Reusable Cookbook Patterns, specifically exploring the idea of Library Cookbooks and Application Cookbooks. This is a topic that’s received a fair bit of discussion lately including at the recent Chef Community Summit and on last week’s Chef Office Hours Hangout.</p>
+<p></p>
+<p>How to Join</p>
+<p>Each will Hangout will be held on Google Plus. We will send out the URL to the hangout via our twitter feed (@foodfightshow) at the beginning of each hangout. As you may know, Google Plus Hangouts are limited to 10 participants. To allow for greater participation, we will be streaming the Hangout live to YouTube. This will allow more people to participate during the discussions. We’ve also created a new IRC channel on freenode - #foodfightshow. You’ll be able to participate in the discussion by commenting on the YouTube video or joining us in IRC.</p>
+<p>Have a specific question or want to reserve a seat? Drop us a line at info@foodfightshow.org.</p>]]></description>
+			<enclosure length="6120663" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-Hangouts.mp3" />
+			<itunes:duration>08:30</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join us for two Hangouts this week!
+Wednesday, November 7, 19:30 UTC
+Our first Hangout will be on Wednesday, November 7 at 19:30 UTC which is 2:30PM in Eastern Standard Time and 11:30AM Pacific Standard. For this hangout, we’ve invited Paul Reed...]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-Hangouts.mp3" fileSize="6120663" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Food Fight Show 31 - Release Engineering</title>
+			<pubDate>Wed, 31 Oct 2012 18:37:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4d24bf635df9bb6a312ba331be8538ea]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-31-release-engineering]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/4/e/a/14ea4b37145df688/two-chef.png" />
+			<description><![CDATA[<p></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #222222; font-family: Georgia, 'Times New Roman', serif; line-height: 24px;"><span style="font-size: 16px;">In this episode, </span><a href="https://twitter.com/bryanwb" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word;">Bryan</a><span style="font-size: 16px;"> and </span><a href="https://twitter.com/nathenharvey" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word;">Nathen</a><span style="font-size: 16px;"> sat down with </span><span color="#751590" style="color: #751590;"><span style="font: inherit; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word;"><a href="http://twitter.com/soberbuildeng">J. Paul Reed</a></span></span><span style="font-size: 16px;"> and </span><span color="#751590" style="color: #751590;"><span style="font: inherit; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word;"><a href="http://twitter.com/cheeseplus">Seth Thomas</a></span></span><span style="font-size: 16px;"> to talk about the practice, profession, and tools of Release Engineering. We also talked a bit about their Podcast, </span><a href="http://theshipshow.com/" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word;">The Ship Show</a><span style="font-size: 16px;">.</span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #222222; font-family: Georgia, 'Times New Roman', serif; line-height: 24px;"></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">00:44 - In the News</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">06:28 - New Cookbooks</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">17:18 - Updated Cookbooks</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">19:15 - Introductions</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">19:40 - The Ship Show</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">27:40 - Release Engineering - Continuous Integration</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">36:20 - Release Engineering - Version Control</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">40:28 - “git…is the Ike Turner of version control systems”</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">47:47 - Strengths of perforce</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">56:15 - Deployment Strategies</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">1:02:00 - Build Tools</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">1:12:05 - DevOps Culture</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">1:14:46 - “DevOps, as a movement, has made it OK to talk about the cultural stuff”</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">1:16:13 - Continuous Integration Systems</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">1:19:35 - Packaging and artifact repositories</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">1:26:59 - Summing up the episode</span></span></p>
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;"><span color="#222222" face="Georgia, Times New Roman, serif" size="3" style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: small;"><span style="line-height: 24px;">1:29:20 - Picks</span></span></p>
+<ul style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; list-style-position: initial; list-style-image: initial; color: #222222; font-family: Georgia, 'Times New Roman', serif; line-height: 24px;"></ul>
+<p></p>]]></description>
+			<enclosure length="136402849" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-31-Release-Engineering.mp3" />
+			<itunes:duration>01:34:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, Bryan and Nathen sat down with J. Paul Reed and Seth Thomas to talk about the practice, profession, and tools of Release Engineering. We also talked a bit about their Podcast, The Ship...]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-31-Release-Engineering.mp3" fileSize="136402849" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Chef Community Summit - Day Two</title>
+			<pubDate>Thu, 25 Oct 2012 21:27:48 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2e5292bb108a6e0597b7ceb33dc18399]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/chef-community-summit-day-two]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/c/4/d/bc4db6a3f2a3e54c/one_chef.png" />
+			<description><![CDATA[<p><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">Nathen sits down with Fletcher Nichol (</span><a href="https://twitter.com/fnichol" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word; font-family: Georgia, 'Times New Roman', serif; line-height: 24px;">@fnichol</a><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">), Seth Vargo (</span><a href="https://twitter.com/sethvargo" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word; font-family: Georgia, 'Times New Roman', serif; line-height: 24px;">@sethvargo</a><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">), Mike Fiedler (</span><a href="https://twitter.com/mikefiedler" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word; font-family: Georgia, 'Times New Roman', serif; line-height: 24px;">@mikefiedler</a><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">), and Jeff Hulten (</span><a href="https://twitter.com/jhulten" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word; font-family: Georgia, 'Times New Roman', serif; line-height: 24px;">@jhulten</a><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">) to talk about day two of the </span><a href="http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2" style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; color: #751590; -webkit-transition: color 0.3s; white-space: pre-wrap; word-wrap: break-word; font-family: Georgia, 'Times New Roman', serif; line-height: 24px;">Chef Community Summit</a><span style="color: #222222; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 24px;">. We meant to chat for about 20 minutes but this conversation ended taking about an hour. Enjoy!</span></p>]]></description>
+			<enclosure length="95567200" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3" />
+			<itunes:duration>01:06:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen sits down with Fletcher Nichol (@fnichol), Seth Vargo (@sethvargo), Mike Fiedler (@mikefiedler), and Jeff Hulten (@jhulten) to talk about day two of the Chef Community Summit. We meant to chat for about 20 minutes but this conversation...]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-2.mp3" fileSize="95567200" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Chef Community Summit - Day One</title>
+			<pubDate>Wed, 24 Oct 2012 01:15:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[608fadd831b58ee4d4b7f2b095f54b58]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/chef-community-summit-day-one]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/1/b/d/d1bd7e65177068fc/one_chef.png" />
+			<description><![CDATA[<p>Nathen sits down with Eric Wolfe (@atomic_penguin), Seth Vargo (@sethvargo), and Jamie Winsor (@resetexistence) to talk about day one of the Chef Community Summit.</p>
+<p></p>
+<p>Topic include:</p>
+<ul>
+<li>Open space format of the summit</li>
+<li>Various sessions of the day including:</li>
+<li>New Chef Documentation - check out docs.opscode.com</li>
+<li>Workflow</li>
+<li>Continuous Deployment and Continuous Integration</li>
+<li>Testing your Infrastructure</li>
+<li>Chef on Windows</li>
+</ul>]]></description>
+			<enclosure length="25623592" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-1.mp3" />
+			<itunes:duration>17:48</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen sits down with Eric Wolfe (@atomic_penguin), Seth Vargo (@sethvargo), and Jamie Winsor (@resetexistence) to talk about day one of the Chef Community Summit.
+
+Topic include:
+
+Open space format of the summit
+Various sessions of the day...]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Chef-Community-Summit-Day-1.mp3" fileSize="25623592" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 30: DevOps Culture &amp; Metrics-driven Engineering</title>
+			<pubDate>Fri, 12 Oct 2012 15:43:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fedeea9e708159d9135820dc5a46c5ad]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-30-dev-ops-culture-metrics-driven-engineering]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/9/5/e/b95ec7363063ab9b/two-chef.png" />
+			<description><![CDATA[<p>John and Nathen sat down with Marc Watts, Mark Jennings, and David Lutzy to discuss the DevOps culture and history at Lonely Planet, performance, metrics-driven engineering, and more.</p>
+<div></div>]]></description>
+			<enclosure length="82683371" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-30-Metircs-Driven-Engineering.mp3" />
+			<itunes:duration>57:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[John and Nathen sat down with Marc Watts, Mark Jennings, and David Lutzy to discuss the DevOps culture and history at Lonely Planet, performance, metrics-driven engineering, and more.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-30-Metircs-Driven-Engineering.mp3" fileSize="82683371" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy - Special Episode</title>
+			<pubDate>Sun, 07 Oct 2012 20:05:36 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2b642dd91cfc82589b991d081f52c5e4]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-special-episode]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/d/8/9/4d895b047fe5ab79/two-chef.png" />
+			<description><![CDATA[<p>This is a short DevOps Delicacy special that is a tribute to a member of the DevOps Community.  Enjoy.</p>]]></description>
+			<enclosure length="8490957" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Special.mp3" />
+			<itunes:duration>05:54</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This is a short DevOps Delicacy special that is a tribute to a member of the DevOps Community.  Enjoy.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/DevOps-Delicacy-Special.mp3" fileSize="8490957" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>John Willis on Why Deming Matters</title>
+			<pubDate>Fri, 05 Oct 2012 16:39:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[201c70676a5739d20c976e205c426288]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/john-willis-on-why-deming-matters]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="15051255" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/dod2.mp3" />
+			<itunes:duration>31:21</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/dod2.mp3" fileSize="15051255" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Jason Dixon at DevOps Days Italy</title>
+			<pubDate>Fri, 05 Oct 2012 16:32:46 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1e0f66e379c0f31ce89d7e636c749512]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/jason-dixon-at-dev-ops-days-italy]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="15177150" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/dod1.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/dod1.mp3" fileSize="15177150" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 29:  Interview with Kate Matsudaira</title>
+			<pubDate>Wed, 03 Oct 2012 12:21:49 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2fae719939235ca4ae9b7aa0a8a611b5]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-29-interview-with-kate-matsudaira]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/1/3/d/e13d0d50e326faad/two-chef.png" />
+			<description><![CDATA[<p>Nathen and Kate Matsudaria discuss Kate's Surge presentation, working at Decide, the Technology and Leadership Newsletter, building v1s and v2s, and more.</p>]]></description>
+			<enclosure length="79088879" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Kate-Mats.mp3" />
+			<itunes:duration>54:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen and Kate Matsudaria discuss Kate's Surge presentation, working at Decide, the Technology and Leadership Newsletter, building v1s and v2s, and more.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Kate-Mats.mp3" fileSize="79088879" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Ken Robertson on Go, cloudfoundry, and Chef</title>
+			<pubDate>Mon, 01 Oct 2012 16:40:24 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0142d48797e36a81b02950fec788a1c0]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/ken-robertson-on-go-cloudfoundry-and-chef]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description />
+			<enclosure length="22723732" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/devops-delicacy-03_2.mp3" />
+			<itunes:duration>47:20</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/devops-delicacy-03_2.mp3" fileSize="22723732" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy:  Wrap-up Surge with Theo Schlossnagle</title>
+			<pubDate>Sat, 29 Sep 2012 16:16:10 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b81316de3c33f9889304693457704c7e]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-wrap-up-surge-with-theo-schlossnagle]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/d/9/4/8d942d2d56e88d31/one_chef.png" />
+			<description><![CDATA[<p>Nathen sat down with Theo Schlossnagle.  They discussed Theo's Surge presentations and wrapped-up the event.</p>]]></description>
+			<enclosure length="15535481" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3" />
+			<itunes:duration>10:48</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen sat down with Theo Schlossnagle.  They discussed Theo's Surge presentations and wrapped-up the event.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Surge-6-Theo.mp3" fileSize="15535481" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy:  Update from Surge with Matt Grahamn from Etsy</title>
+			<pubDate>Sat, 29 Sep 2012 15:59:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b31d045766f44a2d21bb87a0ba94a9b3]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-update-from-surge-with-matt-grahamn-from-etsy]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/e/3/0/de30558d0a39524f/one_chef.png" />
+			<description><![CDATA[<p>Nathen sat down with Matt Grahamn from Etsy.  They discussed Matt's Surge presentation:  Changing Etsy's Architectural Foundation with Continuous Deployment</p>]]></description>
+			<enclosure length="22904753" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3" />
+			<itunes:duration>15:55</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen sat down with Matt Grahamn from Etsy.  They discussed Matt's Surge presentation:  Changing Etsy's Architectural Foundation with Continuous Deployment]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Surge-5-Etsy.mp3" fileSize="22904753" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy:  Update from Surge with AppNexus</title>
+			<pubDate>Fri, 28 Sep 2012 18:06:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1db32e589c2c418f373fd4c38af06d36]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-update-from-surge-with-app-nexus]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/3/6/20368f56bbaf521e/one_chef.png" />
+			<description><![CDATA[<p>Nathen sat down with Mike Nolet from AppNexus.  They discussed Mike's Surge presentation:  From Zero to 500k QPS in Three Years: Scaling AppNexus.</p>]]></description>
+			<enclosure length="17318329" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus.mp3" />
+			<itunes:duration>12:02</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen sat down with Mike Nolet from AppNexus.  They discussed Mike's Surge presentation:  From Zero to 500k QPS in Three Years: Scaling AppNexus.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Surge-4-Appnexus.mp3" fileSize="17318329" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy: Update from Surge with Knewton</title>
+			<pubDate>Fri, 28 Sep 2012 16:12:29 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d52db655112a19eee9e5381dae61cdf7]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-update-from-surge-with-knewton]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/3/3/5/2/3352d2b1945a0856/one_chef.png" />
+			<description><![CDATA[<p>Nathen sat down with Alejandro Companioni and Dave Zwieback from Knewton.  They discussed Alejandro's Surge presentation and Dave's lightning talk.</p>]]></description>
+			<enclosure length="23465023" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3" />
+			<itunes:duration>16:18</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen sat down with Alejandro Companioni and Dave Zwieback from Knewton.  They discussed Alejandro's Surge presentation and Dave's lightning talk.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Surge-3-Knewton.mp3" fileSize="23465023" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>DevOps Delicacy:  Update from Surge with Andrew Miklas from PagerDuty</title>
+			<pubDate>Fri, 28 Sep 2012 14:36:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f64dc86b423412db0abf83e51a806f4f]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/dev-ops-delicacy-update-from-surge-with-andrew-miklas-from-pager-duty]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/a/d/f/dadfdddd1edb2972/one_chef.png" />
+			<description><![CDATA[<p>Nathen had a chance to sit down with Andrew Miklas,CTO and Co-founder of PagerDuty.  They discussed Andrew's Surge presentation: Ensuring the Call Goes Out—Everytime</p>]]></description>
+			<enclosure length="14601489" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3" />
+			<itunes:duration>10:09</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen had a chance to sit down with Andrew Miklas,CTO and Co-founder of PagerDuty.  They discussed Andrew's Surge presentation: Ensuring the Call Goes Out—Everytime]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Surge-2-PagerDuty.mp3" fileSize="14601489" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Update from Surge:  Build Your Own Database with Ryan Kennedy</title>
+			<pubDate>Thu, 27 Sep 2012 20:18:17 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e154af0dbe832fca38a725e96442a1cb]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/update-from-surge-build-your-own-database-with-ryan-kennedy]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/9/9/b/599ba6c4f1aa61ca/one_chef.png" />
+			<description><![CDATA[<p>Nathen had a chance to sit down with Ryan Kennedy, Director of Core Services at Yammer.  They discussed Ryan's Surge presentation:  Build Your Own Database: Berkeley DB Java Edition at Yammer</p>]]></description>
+			<enclosure length="20684331" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3" />
+			<itunes:duration>14:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen had a chance to sit down with Ryan Kennedy, Director of Core Services at Yammer.  They discussed Ryan's Surge presentation:  Build Your Own Database: Berkeley DB Java Edition at Yammer]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-29-Surge-Ryan-Kennedy.mp3" fileSize="20684331" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 28:  Big Data in the Small: Why N Tier Architectures Are an Antipattern</title>
+			<pubDate>Tue, 25 Sep 2012 18:30:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[07d51e19839fcaae69a187cdd7b55722]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-28-big-data-in-the-small-why-n-tier-architectures-are-an-antipattern]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/c/d/4/5cd4fa78894c8a20/one_chef.png" />
+			<description><![CDATA[<p>Nathen and Bryan had a conversation with Michael Bevilacqua-Linn about the presentation he'll be giving at Surge Conference:  Big Data in the Small: Why N Tier Architectures Are an Antipattern</p>]]></description>
+			<enclosure length="79537608" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3" />
+			<itunes:duration>55:14</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Nathen and Bryan had a conversation with Michael Bevilacqua-Linn about the presentation he'll be giving at Surge Conference:  Big Data in the Small: Why N Tier Architectures Are an Antipattern]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-28-BigData.mp3" fileSize="79537608" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 27: Vagrant with Mitchell Hashimoto &amp; Patrick Debois</title>
+			<pubDate>Thu, 20 Sep 2012 17:19:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[df8d05fd6dde7ab57f31bf6582347a8e]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-27-vagrant-with-mitchell-hashimoto-patrick-debois]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description><![CDATA[<p>Join Bryan and Nathen for a discussion about the future of Vagrant.</p>]]></description>
+			<enclosure length="35254357" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-27-Vagrant.mp3" />
+			<itunes:duration>01:13:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Join Bryan and Nathen for a discussion about the future of Vagrant.]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-27-Vagrant.mp3" fileSize="35254357" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
+			<title>Episode 26: Test Kitchen with Joshua Timberman &amp; Andrew Crump</title>
+			<pubDate>Sat, 25 Aug 2012 07:40:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4b9cae98ab23c8eb743e21e6393e92d0]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/episode-26-test-kitchen-with-joshua-timberman-andrew-crump]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
+			<description><![CDATA[<p>In this episode, Bryan and Nathen sat down with Joshua Timberman and Andrew Crump to talk about Test Kitchen.</p>
+<p>Outline:</p>
+<ul>
+<li>Introduction to Test Kitchen</li>
+<li>Anatomy of a Test Kitchen run</li>
+<li>Examples in apache2 and mysql cookbooks</li>
+<li>Configuring Test Kitchen</li>
+<li>Future of Test Kitchen</li>
+<li>Contributing to Test Kitchen</li>
+</ul>
+<p></p>]]></description>
+			<enclosure length="30148777" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-26-Test-Kitchen.mp3" />
+			<itunes:duration>01:02:49</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this episode, Bryan and Nathen sat down with Joshua Timberman and Andrew Crump to talk about Test Kitchen.
+Outline:
+
+Introduction to Test Kitchen
+Anatomy of a Test Kitchen run
+Examples in apache2 and mysql cookbooks
+Configuring Test Kitchen
+Future...]]></itunes:subtitle>
+					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-26-Test-Kitchen.mp3" fileSize="30148777" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+	<media:credit role="author">Bryan Berry</media:credit><media:rating>nonadult</media:rating><media:description type="plain">The Chef community podcast</media:description></channel>
+</rss>

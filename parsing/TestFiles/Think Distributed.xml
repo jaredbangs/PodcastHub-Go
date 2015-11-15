@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:50980903/sounds.rss" rel="self" type="application/rss+xml"/>
+    <title>Think Distributed</title>
+    <link>http://thinkdistributed.io</link>
+    <pubDate>Tue, 16 Dec 2014 14:28:54 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2014 14:28:54 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <language>en</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+    <description>Think Distributed: A Distributed Systems Podcast</description>
+    <itunes:subtitle>Think Distributed: A Distributed Systems Podcast</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Think Distributed</itunes:name>
+      <itunes:email>feeds@soundcloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Think Distributed</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://i1.sndcdn.com/avatars-000049737655-4d1m0f-original.png"/>
+    <image>
+      <url>http://i1.sndcdn.com/avatars-000049737655-4d1m0f-original.png</url>
+      <title>Think Distributed</title>
+      <link>http://thinkdistributed.io</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/175433879</guid>
+      <title>Live at RICON 2014</title>
+      <pubDate>Wed, 05 Nov 2014 07:22:46 +0000</pubDate>
+      <link>https://soundcloud.com/thinkdistributedio/ricon-2014</link>
+      <itunes:duration>00:41:37</itunes:duration>
+      <itunes:author>Think Distributed</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Live at RICON, 2014. 
+
+A discussion of partnerships between industry and academia focusing on solving real world problems with solid, proven solutions.
+
+Panel:
+
+David Greenberg, Two Sigma
+Jordan West, Basho
+Annette Bieniusa, University of Kaiserslautern
+Joao Leitao, Universidade Nova de Lisboa
+
+Host:
+
+Christopher Meiklejohn, Basho</itunes:summary>
+      <itunes:subtitle>Live at RICON, 2014. 
+
+A discussion of partnershi…</itunes:subtitle>
+      <description>Live at RICON, 2014. 
+
+A discussion of partnerships between industry and academia focusing on solving real world problems with solid, proven solutions.
+
+Panel:
+
+David Greenberg, Two Sigma
+Jordan West, Basho
+Annette Bieniusa, University of Kaiserslautern
+Joao Leitao, Universidade Nova de Lisboa
+
+Host:
+
+Christopher Meiklejohn, Basho</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/175433879-thinkdistributedio-ricon-2014.mp3" length="46799560"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000049737655-4d1m0f-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/123631362</guid>
+      <title>Live at RICON|West 2013</title>
+      <pubDate>Sat, 07 Dec 2013 05:03:00 +0000</pubDate>
+      <link>https://soundcloud.com/thinkdistributedio/live-at-ricon-west-2013</link>
+      <itunes:duration>00:31:03</itunes:duration>
+      <itunes:author>Think Distributed</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Think Distributed recorded live at RICON|West 2013
+</itunes:summary>
+      <itunes:subtitle>Think Distributed recorded live at RICON|West 201…</itunes:subtitle>
+      <description>Think Distributed recorded live at RICON|West 2013
+</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/123631362-thinkdistributedio-live-at-ricon-west-2013.mp3" length="74526720"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000049737655-4d1m0f-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/111243801</guid>
+      <title>Live At Strangeloop 2013</title>
+      <pubDate>Thu, 19 Sep 2013 14:44:13 +0000</pubDate>
+      <link>https://soundcloud.com/thinkdistributedio/think-distributed-at</link>
+      <itunes:duration>00:51:43</itunes:duration>
+      <itunes:author>Think Distributed</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Think Distributed recorded live at Strangeloop 2013</itunes:summary>
+      <itunes:subtitle>Think Distributed recorded live at Strangeloop 20…</itunes:subtitle>
+      <description>Think Distributed recorded live at Strangeloop 2013</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/111243801-thinkdistributedio-think-distributed-at.m4a" length="78463728"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000049737655-4d1m0f-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/108665351</guid>
+      <title>Causality</title>
+      <pubDate>Tue, 03 Sep 2013 15:58:39 +0000</pubDate>
+      <link>https://soundcloud.com/thinkdistributedio/causality</link>
+      <itunes:duration>01:03:06</itunes:duration>
+      <itunes:author>Think Distributed</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>A discussion of causality, vector clocks, version vectors, and CRDTs.</itunes:summary>
+      <itunes:subtitle>A discussion of causality, vector clocks, version…</itunes:subtitle>
+      <description>A discussion of causality, vector clocks, version vectors, and CRDTs.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/108665351-thinkdistributedio-causality.mp3" length="90856512"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000049737655-4d1m0f-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/100811088</guid>
+      <title>Consensus</title>
+      <pubDate>Fri, 12 Jul 2013 22:02:04 +0000</pubDate>
+      <link>https://soundcloud.com/thinkdistributedio/consensus</link>
+      <itunes:duration>01:14:40</itunes:duration>
+      <itunes:author>Think Distributed</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Consensus by Think Distributed</itunes:summary>
+      <itunes:subtitle>Consensus by Think Distributed</itunes:subtitle>
+      <description>Consensus by Think Distributed</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/100811088-thinkdistributedio-consensus.m4a" length="112548233"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000049737655-4d1m0f-original.png"/>
+    </item>
+  </channel>
+</rss>

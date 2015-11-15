@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="http://simplecast.fm/podcasts/287/rss" title="MP3 Audio"/>
+    <title>Reboot</title>
+    <generator>https://simplecast.fm</generator>
+    <description>Reboot features interviews with people who have made big career transitions. Hosted by scientist-turned-management-consultant-turned-developer Adarsh Pandit.
+
+For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</description>
+    <language>en</language>
+    <pubDate>Fri, 13 Mar 2015 00:01:00 -0400</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2015 22:17:45 -0400</lastBuildDate>
+    <image>
+      <url>http://simplecast-media.s3.amazonaws.com/podcast/image/287/1433513891-artwork.jpg</url>
+      <title>Reboot</title>
+    </image>
+    <itunes:author>thoughtbot</itunes:author>
+    <itunes:image href="http://simplecast-media.s3.amazonaws.com/podcast/image/287/1433513891-artwork.jpg"/>
+    <itunes:summary>Reboot features interviews with people who have made big career transitions. Hosted by scientist-turned-management-consultant-turned-developer Adarsh Pandit.
+
+For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</itunes:summary>
+    <itunes:subtitle>Reboot features interviews with people who have made big career transitions.</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>careers, technology,</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>thoughtbot</itunes:name>
+      <itunes:email>hosts@rebootshow.fm</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Careers"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>4: Jim  (Engineer &gt; Baseball &gt; Poker)</title>
+      <guid isPermaLink="false">f44aa04e-f6b6-4bd5-9bf6-a97d9b100692</guid>
+      <link>http://rebootshow.fm/4</link>
+      <description>Adarsh talks to Jim Perry, a professional poker player who trained as a civil engineer and baseball pitcher, now looking at his next career adventure.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Adarsh talks to Jim Perry, a professional poker player who trained as a civil engineer and baseball pitcher, now looking at his next career adventure.</p>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Half-life">Half Life</a></li>
+<li><a href="http://www.goduke.com/SportSelect.dbml?SPID=1850">Duke Baseball</a></li>
+<li><a href="http://pokerplayingpitcher.blogspot.com">Jim's Blog</a></li>
+<li><a href="http://www.imdb.com/title/tt0128442">Rounders Movie</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Magic:_The_Gathering">Magic the Gathering</a></li>
+<li><a href="http://www.monopolydocumentary.com">Under the Boardwalk - Monopoly Championship</a></li>
+<li><a href="http://forumserver.twoplustwo.com">Two Plus Two Forums</a></li>
+<li><a href="http://www.deucescracked.com">Deuces Cracked</a></li>
+<li><a href="http://www.americanassociationbaseball.com">Independent Association of Baseball Leagues</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Worcester_Tornadoes">Worcester Tornadoes</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ron_Guidry">Ron Guidry, Red Sox Catcher</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States_v._Scheinberg">Black Friday 2011</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 13 Mar 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/9001.mp3" length="54971162" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/9001/1426024824-artwork.jpg"/>
+      <itunes:duration>01:16:19</itunes:duration>
+      <itunes:summary>Adarsh talks to Jim Perry, a professional poker player who trained as a civil engineer and baseball pitcher, now looking at his next career adventure.
+</itunes:summary>
+      <itunes:subtitle>Adarsh talks to Jim Perry, a professional poker player who trained as a civil engineer and baseball pitcher, now looking at his next career adventure.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>3: Jessie (Camp Counselor&gt;Bootcamp Grad&gt;Ruby Developer)</title>
+      <guid isPermaLink="false">12afc992-9ed3-4fba-bb8d-76e52c5b7917</guid>
+      <link>http://rebootshow.fm/3</link>
+      <description>Adarsh talks Jessie Young, who started her professional life as a political volunteer, worked in marketing, and became a developer after attending a technical bootcamp.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Adarsh talks Jessie Young, who started her professional life as a political volunteer, worked in marketing, and became a developer after attending a technical bootcamp.</p>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Personal_digital_assistant">PDA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ted_Kennedy">Edward "Ted" Kennedy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Brookline,_Massachusetts">Brookline, MA</a></li>
+<li><a href="http://www.sermo.com">Sermo</a></li>
+<li><a href="http://www.railsbridge.org/">RailsBridge</a></li>
+<li><a href="http://headfirstlabs.com/books/hfhtml/">"Head First HTML with CSS"</a> by Elisabeth Robson, Eric Freeman (not Kathy Sierra as I had thought)</li>
+<li><a href="https://pine.fm/LearnToProgram/">"Learn to Program" by Chris Pine</a></li>
+<li><a href="http://www.hungryacademy.com/">Hungry Academy</a></li>
+<li><a href="http://devbootcamp.com/">Dev Bootcamp</a></li>
+<li><a href="http://pivotallabs.com/">Pivotal Labs</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 24 Feb 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/7964.mp3" length="29918004" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/7964/1424720824-artwork.jpg"/>
+      <itunes:duration>01:02:17</itunes:duration>
+      <itunes:summary>Adarsh talks Jessie Young, who started her professional life as a political volunteer, worked in marketing, and became a developer after attending a technical bootcamp.
+</itunes:summary>
+      <itunes:subtitle>Adarsh talks Jessie Young, who started her professional life as a political volunteer, worked in marketing, and became a developer after attending a technical bootcamp.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>2: Brenda (Waiter&gt;Bartender&gt;Lost Soul)</title>
+      <guid isPermaLink="false">f8399b5c-dfde-4a1f-8267-7b1b432a6015</guid>
+      <link>http://rebootshow.fm/2</link>
+      <description>Adarsh talks with thoughtbot designer Brenda Storer. Brenda started out as a psychology major and waitress in California, moved to New York City right after 9/11, and finally threw away her waitressing shoes to work as web designer.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Adarsh talks with thoughtbot designer Brenda Storer. Brenda started out as a psychology major and waitress in California, moved to New York City right after 9/11, and finally threw away her waitressing shoes to work as web designer.</p>
+
+<ul>
+<li><a href="http://www.nycgovparks.org/facilities/iceskating/3">Bryant Park</a></li>
+<li><a href="http://www.csuchico.edu/">Chico State</a></li>
+<li><a href="https://github.com/brendastorer/robbiewilliams99">Brenda's Robbie Williams site from 1999</a></li>
+<li><a href="https://en.wikipedia.org/wiki/David_LaChapelle">David LaChapelle</a></li>
+<li><a href="http://tilde.club/">Tilde Club</a></li>
+<li><a href="https://www.adobe.com/products/dreamweaver.html">DreamWeaver</a></li>
+<li><a href="https://www.bunac.org/">BUNAC Study Abroad Program</a></li>
+<li><a href="http://www.imageresourcegroup.com/images/3com_fountain_01-crop-u1025.jpg">3Com Fountain</a></li>
+<li><a href="http://www.imdb.com/title/tt0120338/">Titanic</a></li>
+<li><a href="http://www.fitnyc.edu/">FIT, Fashion Institute of Technology</a></li>
+<li><a href="http://www.quark.com/Products/QuarkXPress/#1">Quark</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Impostor_syndrome">Imposter Syndrome</a></li>
+<li><a href="http://www.girldevelopit.com/">Girl Develop It</a></li>
+<li><a href="http://sarajchipps.com/">Sara Chipps</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 16 Jan 2015 05:00:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/6488.mp3" length="26573264" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/6488/1420663497-artwork.jpg"/>
+      <itunes:duration>00:55:19</itunes:duration>
+      <itunes:summary>Adarsh talks with thoughtbot designer Brenda Storer. Brenda started out as a psychology major and waitress in California, moved to New York City right after 9/11, and finally threw away her waitressing shoes to work as web designer.
+</itunes:summary>
+      <itunes:subtitle>Adarsh talks with thoughtbot designer Brenda Storer. Brenda started out as a psychology major and waitress in California, moved to New York City right after 9/11, and finally threw away her waitressing shoes to work as web designer.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>0: Adarsh (Scientist &gt; Management Consultant &gt; Developer)</title>
+      <guid isPermaLink="false">7f85f3f8-7dfa-4f46-b0b4-ad70179b00c3</guid>
+      <link>http://rebootshow.fm/0</link>
+      <description>In Episode 0 of Season 1 of Reboot, Chad talks to Adarsh Pandit, thoughtbot SF Managing Director &amp; host of the Reboot podcast, about his personal journey which inspired this, our newest show.
+
+This episode originally aired as #125 on the Giant Robots Podcast (http://giantrobots.fm/125)
+</description>
+      <content:encoded>
+        <![CDATA[<p>In Episode 0 of Season 1 of Reboot, Chad talks to Adarsh Pandit, thoughtbot SF Managing Director &amp; host of the Reboot podcast, about his personal journey which inspired this, our newest show.</p>
+
+<p>This episode originally aired as #125 on the Giant Robots Podcast (<a href="http://giantrobots.fm/125">http://giantrobots.fm/125</a>)</p>
+
+<ul>
+<li><a href="http://rebootshow.fm/">Reboot</a></li>
+<li><a href="http://www.amazon.com/Programming-Ruby-Pragmatic-Programmers-Edition/dp/0974514055">"The Pickaxe"</a></li>
+<li><a href="http://www.amazon.com/Agile-Development-Rails-Third-Edition/dp/1934356166/">Agile Development with Rails</a></li>
+<li><a href="http://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360/">Learn to Program</a></li>
+<li><a href="http://www.apprentice.io/">apprentice.io</a></li>
+<li><a href="http://twitter.com/adarshp">Adarsh on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 18 Dec 2014 14:00:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/6121.mp3" length="21071805" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/6121/1418845912-artwork.jpg"/>
+      <itunes:duration>00:43:51</itunes:duration>
+      <itunes:summary>In Episode 0 of Season 1 of Reboot, Chad talks to Adarsh Pandit, thoughtbot SF Managing Director &amp; host of the Reboot podcast, about his personal journey which inspired this, our newest show.
+
+This episode originally aired as #125 on the Giant Robots Podcast (http://giantrobots.fm/125)
+</itunes:summary>
+      <itunes:subtitle>In Episode 0 of Season 1 of Reboot, Chad talks to Adarsh Pandit, thoughtbot SF Managing Director &amp; host of the Reboot podcast, about his personal journey which inspired this, our newest show.
+
+This episode originally aired as #125 on the Giant Robots Podc</itunes:subtitle>
+      <itunes:keywords>adarsh pandit, career change, scientist, programmer, management consulting</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1: Gordon (Bartender &gt; Film Editor &gt; iOS Developer)</title>
+      <guid isPermaLink="false">925b251d-4461-4b92-b82b-247b69c1bd6d</guid>
+      <link>http://rebootshow.fm/1</link>
+      <description>In episode 1 of the first season of Reboot, Adarsh talks with Gordon Fontenot, an iOS developer at thoughtbot, about his career path, moving from college dropout, to bartender, to film editor and finally iOS developer.
+</description>
+      <content:encoded>
+        <![CDATA[<p>In episode 1 of the first season of Reboot, Adarsh talks with Gordon Fontenot, an iOS developer at thoughtbot, about his career path, moving from college dropout, to bartender, to film editor and finally iOS developer.</p>
+
+<ul>
+<li><a href="https://twitter.com/gfontenot">Gordon Fontenot on Twitter</a></li>
+<li><a href="http://buildphase.fm">Gordon’s podcast with Mark Adams on iOS development</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Waltham,_Massachusetts">Waltham, Massachusetts</a></li>
+<li><a href="http://www.avid.com/US/Solutions/byNeed/video-editing.html">Avid Video Editor</a></li>
+<li><a href="http://www.centralbookingservice.com">Central Booking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AppleScript">AppleScript</a></li>
+<li><a href="https://pragprog.com">Pragmatic Programmers</a></li>
+<li><a href="https://careers.stackoverflow.com">Stack Overflow Careers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Impostor_syndrome">Imposter Syndrome</a></li>
+<li><a href="http://cdn.mlkshk.com/r/97VP">Dog typing on computer</a></li>
+<li><a href="http://thoughtbot.com">thoughtbot</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Nov 2014 15:00:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/5545.mp3" length="30192431" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/5545/1418845282-artwork.jpg"/>
+      <itunes:duration>01:02:52</itunes:duration>
+      <itunes:summary>In episode 1 of the first season of Reboot, Adarsh talks with Gordon Fontenot, an iOS developer at thoughtbot, about his career path, moving from college dropout, to bartender, to film editor and finally iOS developer.
+</itunes:summary>
+      <itunes:subtitle>In episode 1 of the first season of Reboot, Adarsh talks with Gordon Fontenot, an iOS developer at thoughtbot, about his career path, moving from college dropout, to bartender, to film editor and finally iOS developer.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

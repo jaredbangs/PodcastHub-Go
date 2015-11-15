@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+	<channel>
+		<ttl>30</ttl>
+		<title>RunAs Radio</title>
+		<link>http://www.runasradio.com</link>
+		<language>en-us</language>
+		<description>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</description>
+		<copyright>Copyright 2007 by Pwop Productions</copyright>
+		<managingEditor>carl@pwop.com (Carl Franklin)</managingEditor>
+		<webMaster>carl@pwop.com (Carl Franklin)</webMaster>
+		<rating>G</rating>
+		<pubDate>Sat, 14 Nov 2015 06:29:31 EDT</pubDate>
+		<lastBuildDate>Sat, 14 Nov 2015 06:29:31 EDT</lastBuildDate>
+		<cloud domain="http://www.runasradio.com" port="80" path="/RPC2" registerProcedure="pingMe" protocol="soap"> </cloud>
+		
+		<image>
+			<url>http://www.pwop.com/itunes_runasradio.jpg</url>
+			<title>RunAs Radio</title>
+			<link>http://www.runasradio.com</link>
+			<width>144</width>
+			<height>300</height>
+			<description>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</description>
+		</image>
+		<category>Computers</category><category>Networking</category><category>Security</category><category>IT</category><category>.NET</category><category>Microsoft</category><category>Microsoft Windows</category><category>Podcast</category>
+
+		<itunes:subtitle>A weekly Internet Audio Talk Show for IT Professionals</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:author>Richard Campbell and Greg Hughes</itunes:author>
+		<itunes:summary>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:summary>
+		
+
+		<itunes:image href="http://www.pwop.com/itunes_runasradio.jpg" />
+		
+
+
+		
+				<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RunasRadio" /><feedburner:info uri="runasradio" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Copyright 2007 by Pwop Productions</media:copyright><media:thumbnail url="http://www.pwop.com/itunes_runasradio.jpg" /><media:keywords>IT,Microsoft,Windows,Information,Technology</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><itunes:owner><itunes:email>info@runasradio.com</itunes:email><itunes:name>Richard Campbell and Greg Hughes</itunes:name></itunes:owner><itunes:keywords>IT,Microsoft,Windows,Information,Technology</itunes:keywords><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><item>
+					<title>Upgrading to Exchange 2016 with Tony Redmond</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/AV3IiQhQlgM/default.aspx</link>
+					<pubDate>Wed, 11 Nov 2015 00:00:00 EDT</pubDate>
+					<description>Where is Exchange 2016 on your radar? Richard chats with Tony Redmond about the current history of Exchange, from 2003 onward. Tony talks about the growth of Exchange Online with Office 365, and the impact that has had on the shape of Exchange on-premise. This leads to a discussion about Exchange 2016 which looks to be a maturing of Exchange 2013 without really disruptive changes. One of the biggest changes in the past three years has been the improvement in updates, to the point where they are boring - but also that there are no perfect versions of software anymore, just an on-going continuum. Lots of digressions, but also great thinking about modern on-premise and in-cloud mail!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/AV3IiQhQlgM" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=446">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=446</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Where is Exchange 2016 on your radar? Richard chats with Tony Redmond about the current history of Exchange, from 2003 onward. Tony talks about the growth of Exchange Online with Office 365, and the impact that has had on the shape of Exchange on-premise. This leads to a discussion about Exchange 2016 which looks to be a maturing of Exchange 2013 without really disruptive changes. One of the biggest changes in the past three years has been the improvement in updates, to the point where they are boring - but also that there are no perfect versions of software anymore, just an on-going continuum. Lots of digressions, but also great thinking about modern on-premise and in-cloud mail!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0446_exchange_2016.mp3" length="34223201" type="audio/mp3" />
+					
+					<itunes:duration>00:35:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0446_exchange_2016.mp3" fileSize="34223201" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=446</feedburner:origLink></item>
+			
+				<item>
+					<title>Retrofitting Data Security with Luke Babarinde</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/IfQ324gfeBo/default.aspx</link>
+					<pubDate>Wed, 04 Nov 2015 00:00:00 EDT</pubDate>
+					<description>Nobody's data security is perfect, but do you know the security state of your data? Richard chats with Luke Babarinde about his work helping companies secure their data effectively and understand where the risks exist. The rules vary from company to company, and it takes time to education management on what risks exist for data, and ultimately to get feedback on what levels of security are reasonable. Luke talks about how every system is breachable, its just a question of what happens next - how long does it take to detect a breach? How do you limit harm? Lots of great thinking from someone out there in the trenches trying to protect data!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/IfQ324gfeBo" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=445">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=445</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Nobody's data security is perfect, but do you know the security state of your data? Richard chats with Luke Babarinde about his work helping companies secure their data effectively and understand where the risks exist. The rules vary from company to company, and it takes time to education management on what risks exist for data, and ultimately to get feedback on what levels of security are reasonable. Luke talks about how every system is breachable, its just a question of what happens next - how long does it take to detect a breach? How do you limit harm? Lots of great thinking from someone out there in the trenches trying to protect data!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0445_retrofitting_security.mp3" length="31834658" type="audio/mp3" />
+					
+					<itunes:duration>00:33:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0445_retrofitting_security.mp3" fileSize="31834658" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=445</feedburner:origLink></item>
+			
+				<item>
+					<title>Getting Ready for Nano Server with Jason Helmick</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/zxW5GgxcKdA/default.aspx</link>
+					<pubDate>Wed, 28 Oct 2015 00:00:00 EDT</pubDate>
+					<description>Are you thinking about Microsoft Nano Server yet? Richard chats with Jason Helmick about what we can do today to get ready for Nano Server. As announced by freshly minted Tech Fellow Jeffrey Snover, Nano Server represents an ultra-light version of Windows Server and the new foundation of the server side of the operating system. So what can you do to get ready? Jason talks about working with the Core edition of Windows Server, preferably 2012, as a great starting point. This gets you started on a path of using PowerShell and scripting to configure and operate your servers, rather than GUIs and RDP. The conversation then turns to Desired State Configuration as the ultimate goal - getting every aspect of a server described in code so that you can create it, consistently, on demand. That's how you get to Nano!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/zxW5GgxcKdA" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=444">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=444</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Are you thinking about Microsoft Nano Server yet? Richard chats with Jason Helmick about what we can do today to get ready for Nano Server. As announced by freshly minted Tech Fellow Jeffrey Snover, Nano Server represents an ultra-light version of Windows Server and the new foundation of the server side of the operating system. So what can you do to get ready? Jason talks about working with the Core edition of Windows Server, preferably 2012, as a great starting point. This gets you started on a path of using PowerShell and scripting to configure and operate your servers, rather than GUIs and RDP. The conversation then turns to Desired State Configuration as the ultimate goal - getting every aspect of a server described in code so that you can create it, consistently, on demand. That's how you get to Nano!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0444_ready_for_nano.mp3" length="31685657" type="audio/mp3" />
+					
+					<itunes:duration>00:34:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0444_ready_for_nano.mp3" fileSize="31685657" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=444</feedburner:origLink></item>
+			
+				<item>
+					<title>vSphere and Hyper-V with Greg Shields</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/BZdPITbmaig/default.aspx</link>
+					<pubDate>Wed, 21 Oct 2015 00:00:00 EDT</pubDate>
+					<description>Does it matter what virtualization technology you use? Richard chats with Greg Shields, one of the few folks out there with certifications in Microsoft's Hyper-V, VMWare's vSphere and Citrix Xen about the relatively merits of the stacks. Turns out, they're pretty close together, at least when it comes to virtualization. But the conversation goes deeper into the instrumentation - how do you know that you have the right loads on the right hardware? Can you make your own cloud effectively - it's got more to do with architecture than operating systems, as it turns out. Greg focuses in on the way you understand your systems as the true differentiator today!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/BZdPITbmaig" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=443">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=443</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Does it matter what virtualization technology you use? Richard chats with Greg Shields, one of the few folks out there with certifications in Microsoft's Hyper-V, VMWare's vSphere and Citrix Xen about the relatively merits of the stacks. Turns out, they're pretty close together, at least when it comes to virtualization. But the conversation goes deeper into the instrumentation - how do you know that you have the right loads on the right hardware? Can you make your own cloud effectively - it's got more to do with architecture than operating systems, as it turns out. Greg focuses in on the way you understand your systems as the true differentiator today!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0443_vsphere_hyperv.mp3" length="33875815" type="audio/mp3" />
+					
+					<itunes:duration>00:36:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0443_vsphere_hyperv.mp3" fileSize="33875815" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=443</feedburner:origLink></item>
+			
+				<item>
+					<title>Thinking Through Security Policy with Dana Epp</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/dPxfXQuxKSA/default.aspx</link>
+					<pubDate>Wed, 14 Oct 2015 00:00:00 EDT</pubDate>
+					<description>What does your security plan look like? Richard chats with Dana Epp about the ever increasing attack surface of our organizations and the ongoing battle to provide better tools and techniques to keep the lights on. Hackers are getting more clever, even hacking cars - how do you keep up? Dana talks through a series of policy approaches to deal with the reality that you are going to be breached, but how to you detect the breach and limit the damage caused? Check out Dana's article on credential theft for even more ideas!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/dPxfXQuxKSA" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=442">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=442</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>What does your security plan look like? Richard chats with Dana Epp about the ever increasing attack surface of our organizations and the ongoing battle to provide better tools and techniques to keep the lights on. Hackers are getting more clever, even hacking cars - how do you keep up? Dana talks through a series of policy approaches to deal with the reality that you are going to be breached, but how to you detect the breach and limit the damage caused? Check out Dana's article on credential theft for even more ideas!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0442_thinking_security_policy.mp3" length="33520747" type="audio/mp3" />
+					
+					<itunes:duration>00:36:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0442_thinking_security_policy.mp3" fileSize="33520747" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=442</feedburner:origLink></item>
+			
+				<item>
+					<title>Understanding How Apps are Used with Andreas Grabner</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/Z_Dxc3YGGPM/default.aspx</link>
+					<pubDate>Wed, 07 Oct 2015 00:00:00 EDT</pubDate>
+					<description>There are lots of reasons to instrument your apps in production - but one of the most powerful is to understand how your users actually *use* your apps. Richard talks to Andreas Grabner of DynaTrace about the variety of instrumentation approaches possible for applications - some driven by operations, and some by development. But everyone in the organization can benefit from a deeper understanding of how applications are used. Andreas talks about the diversity of metrics that can be taken, from your typical ecommerce financial metrics, to performance metrics, to reliability and scalability. There's a lot to measure!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/Z_Dxc3YGGPM" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=441">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=441</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>There are lots of reasons to instrument your apps in production - but one of the most powerful is to understand how your users actually *use* your apps. Richard talks to Andreas Grabner of DynaTrace about the variety of instrumentation approaches possible for applications - some driven by operations, and some by development. But everyone in the organization can benefit from a deeper understanding of how applications are used. Andreas talks about the diversity of metrics that can be taken, from your typical ecommerce financial metrics, to performance metrics, to reliability and scalability. There's a lot to measure!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0441_understanding_users.mp3" length="33548836" type="audio/mp3" />
+					
+					<itunes:duration>00:36:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0441_understanding_users.mp3" fileSize="33548836" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=441</feedburner:origLink></item>
+			
+				<item>
+					<title>No More IPv4 with Ed Horley</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/BJJoms1WUdM/default.aspx</link>
+					<pubDate>Wed, 30 Sep 2015 00:00:00 EDT</pubDate>
+					<description>Well, that's it - ARIN is out of IPv4 addresses. Richard chats with Ed Horley who has been warning of this day for a number of years now. So what does it really mean? No, the internet isn't going to stop working. Ed talks about how much IPv6 is already going on - some ISPs have double-digit adoption already! And certain marketplaces need it the most, such as smartphones. There are billions of smartphones, and the Internet of Things looks to bring many more billions of devices online as well... we need IPv6! The time is now!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/BJJoms1WUdM" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=440">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=440</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Well, that's it - ARIN is out of IPv4 addresses. Richard chats with Ed Horley who has been warning of this day for a number of years now. So what does it really mean? No, the internet isn't going to stop working. Ed talks about how much IPv6 is already going on - some ISPs have double-digit adoption already! And certain marketplaces need it the most, such as smartphones. There are billions of smartphones, and the Internet of Things looks to bring many more billions of devices online as well... we need IPv6! The time is now!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0440_no_more_ipv4.mp3" length="35178041" type="audio/mp3" />
+					
+					<itunes:duration>00:36:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0440_no_more_ipv4.mp3" fileSize="35178041" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=440</feedburner:origLink></item>
+			
+				<item>
+					<title>Windows 10 Recap with Paul Thurrott</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/tTpR-3VcRB8/default.aspx</link>
+					<pubDate>Wed, 23 Sep 2015 00:00:00 EDT</pubDate>
+					<description>Windows 10 has shipped - but has it really, really shipped? Richard chats with Paul Thurrott about his take on Microsoft's on-going efforts to get the operating system just right. After some history discussion about how Windows 10 came to be, from Vista on up, Paul digs into the truth of the matter - Windows 10 isn't quite done yet, it's fine for consumers, but IT Pros need to look carefully. It's a powerful operating system that alongside the upcoming Server 2016 should be able to take infrastructure to the next level, which Paul says is hybrid cloud. But there's still more to come, so watch close!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/tTpR-3VcRB8" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=439">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=439</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Windows 10 has shipped - but has it really, really shipped? Richard chats with Paul Thurrott about his take on Microsoft's on-going efforts to get the operating system just right. After some history discussion about how Windows 10 came to be, from Vista on up, Paul digs into the truth of the matter - Windows 10 isn't quite done yet, it's fine for consumers, but IT Pros need to look carefully. It's a powerful operating system that alongside the upcoming Server 2016 should be able to take infrastructure to the next level, which Paul says is hybrid cloud. But there's still more to come, so watch close!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0439_win_10_recap.mp3" length="32399583" type="audio/mp3" />
+					
+					<itunes:duration>00:33:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0439_win_10_recap.mp3" fileSize="32399583" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=439</feedburner:origLink></item>
+			
+				<item>
+					<title>Docker and Server 2016 with Taylor Brown</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/0SSrCkSVwGo/default.aspx</link>
+					<pubDate>Wed, 16 Sep 2015 00:00:00 EDT</pubDate>
+					<description>Docker is coming to Windows and it's going to be huge! Richard chats with Taylor Brown of the Windows Core Virtualization team about the new Windows Server containers coming in Server 2016. With the TP3 release of Server 2016, you can start experimenting with Windows Containers! The discussion also focuses on the upcoming Hyper-V Containers, and the differences and reasoning behind having two different types of containers. Taylor digs into the focus on configuration-as-code for containers, so that automation becomes the default approach to any container based deployment. This looks to be the future of virtualization!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/0SSrCkSVwGo" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=438">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=438</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Docker is coming to Windows and it's going to be huge! Richard chats with Taylor Brown of the Windows Core Virtualization team about the new Windows Server containers coming in Server 2016. With the TP3 release of Server 2016, you can start experimenting with Windows Containers! The discussion also focuses on the upcoming Hyper-V Containers, and the differences and reasoning behind having two different types of containers. Taylor digs into the focus on configuration-as-code for containers, so that automation becomes the default approach to any container based deployment. This looks to be the future of virtualization!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0438_containers_2016.mp3" length="30876563" type="audio/mp3" />
+					
+					<itunes:duration>00:32:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0438_containers_2016.mp3" fileSize="30876563" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=438</feedburner:origLink></item>
+			
+				<item>
+					<title>Unified Remote Access with Richard Hicks</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/6krj5VY97MU/default.aspx</link>
+					<pubDate>Wed, 09 Sep 2015 00:00:00 EDT</pubDate>
+					<description>So where is remote access going these days? Richard talks to Richard Hicks about Microsoft DirectAccess and more. Recognizing that VPNs don't make people happy, Richard Hicks talks about how DirectAccess did a good job of making remote connectivity seamless and invisible - at the price of being a challenge to set up in the first place. Having your remote access roles as isolated VMs in your network has distinct advantages! However, the domain join requirement is a significant limitation, and one that Microsoft is working to overcome with Microsoft inTune and the cloud. Remote access continues to evolve!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/6krj5VY97MU" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=437">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=437</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>So where is remote access going these days? Richard talks to Richard Hicks about Microsoft DirectAccess and more. Recognizing that VPNs don't make people happy, Richard Hicks talks about how DirectAccess did a good job of making remote connectivity seamless and invisible - at the price of being a challenge to set up in the first place. Having your remote access roles as isolated VMs in your network has distinct advantages! However, the domain join requirement is a significant limitation, and one that Microsoft is working to overcome with Microsoft inTune and the cloud. Remote access continues to evolve!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0437_unified_remote_access.mp3" length="31777379" type="audio/mp3" />
+					
+					<itunes:duration>00:32:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0437_unified_remote_access.mp3" fileSize="31777379" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=437</feedburner:origLink></item>
+			
+				<item>
+					<title>Managing Office 365 Apps with Jeremy Thake</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/PhnFc68D9Ts/default.aspx</link>
+					<pubDate>Wed, 02 Sep 2015 00:00:00 EDT</pubDate>
+					<description>Have you looked at everything available in an Office 365 subscription? It's easy to stop at Exchange or SharePoint online, but what about the services side of Office 365 including OneDrive for Business and Azure Active Directory Applications. Office 365 is more than just the Office suite in the cloud, there are APIs available to allow developer to build mash-up style applications that integrate with Exchange, SharePoint (both on-prem and cloud) as well as a huge number of third party applications. Jeremy Thake walks through the opportunities for doing overall application installation management from Office 365 - not just Microsoft apps!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/PhnFc68D9Ts" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=436">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=436</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Have you looked at everything available in an Office 365 subscription? It's easy to stop at Exchange or SharePoint online, but what about the services side of Office 365 including OneDrive for Business and Azure Active Directory Applications. Office 365 is more than just the Office suite in the cloud, there are APIs available to allow developer to build mash-up style applications that integrate with Exchange, SharePoint (both on-prem and cloud) as well as a huge number of third party applications. Jeremy Thake walks through the opportunities for doing overall application installation management from Office 365 - not just Microsoft apps!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0436_office_365_apps.mp3" length="34491320" type="audio/mp3" />
+					
+					<itunes:duration>00:36:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0436_office_365_apps.mp3" fileSize="34491320" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=436</feedburner:origLink></item>
+			
+				<item>
+					<title>Surface Power Management with Joao Botto</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/UlFye4YTtFc/default.aspx</link>
+					<pubDate>Wed, 26 Aug 2015 00:00:00 EDT</pubDate>
+					<description>So how interesting can power management be? More than you might believe! Richard chats with Microsoft PM Joao Botto about how Surface has taken power management to a new level. While it's easy to just think about power management as a tool to reduce company power consumption over night, when you get into the tablet space, it's also about conserving battery life. Joao talks about Connected Standby mode, which utilizes hardware, drivers, operating system and software together to minimize power consumption while still being able to receive notifications about updates, messages and more! This is some next generation power management!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/UlFye4YTtFc" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=435">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=435</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>So how interesting can power management be? More than you might believe! Richard chats with Microsoft PM Joao Botto about how Surface has taken power management to a new level. While it's easy to just think about power management as a tool to reduce company power consumption over night, when you get into the tablet space, it's also about conserving battery life. Joao talks about Connected Standby mode, which utilizes hardware, drivers, operating system and software together to minimize power consumption while still being able to receive notifications about updates, messages and more! This is some next generation power management!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0435_surface_power_mgmt.mp3" length="32731568" type="audio/mp3" />
+					
+					<itunes:duration>00:33:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0435_surface_power_mgmt.mp3" fileSize="32731568" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=435</feedburner:origLink></item>
+			
+				<item>
+					<title>Managing Azure using Powershell with Brian Lewis</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/2xHV0WREAZk/default.aspx</link>
+					<pubDate>Wed, 19 Aug 2015 00:00:00 EDT</pubDate>
+					<description>Ready to manage Azure from the command line? While at That Conference in Wisconsin Dells, Richard chatted with Brian Lewis about the PowerShell support available for Azure. Every command and more available in the Azure GUI Dashboard works from PowerShell. Brian talks about the advantages of using scripting to control Azure, creating repeatable, consistent execution plans through scripts for all sorts of configuration changes, including creating new VMs, configuring networking and activating services. Don't use a Word doc to set up your Azure apps - use PowerShell!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/2xHV0WREAZk" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=434">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=434</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Ready to manage Azure from the command line? While at That Conference in Wisconsin Dells, Richard chatted with Brian Lewis about the PowerShell support available for Azure. Every command and more available in the Azure GUI Dashboard works from PowerShell. Brian talks about the advantages of using scripting to control Azure, creating repeatable, consistent execution plans through scripts for all sorts of configuration changes, including creating new VMs, configuring networking and activating services. Don't use a Word doc to set up your Azure apps - use PowerShell!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0434_powershell_for_azure.mp3" length="31680550" type="audio/mp3" />
+					
+					<itunes:duration>00:31:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0434_powershell_for_azure.mp3" fileSize="31680550" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=434</feedburner:origLink></item>
+			
+				<item>
+					<title>Building a Data Warehouse on Azure with Michael Blumenthal</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/3hJN3yJc1jM/default.aspx</link>
+					<pubDate>Wed, 12 Aug 2015 00:00:00 EDT</pubDate>
+					<description>How do you build a data warehouse in Azure? While at That Conference in Wisconsin Dells, Richard sat down with Michael Blumenthal to talk through a particular case study. Michael talks about the early days of Azure, and how for this particular project, Azure was used only as a VM host - entirely an Infrastructure-as-a-Service solution. Using SQL Server and Integration Services, the system gathered data from a number of disparate systems and loaded into separate databases. Then the consolidation! Great stories about making the cloud work!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/3hJN3yJc1jM" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=433">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=433</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>How do you build a data warehouse in Azure? While at That Conference in Wisconsin Dells, Richard sat down with Michael Blumenthal to talk through a particular case study. Michael talks about the early days of Azure, and how for this particular project, Azure was used only as a VM host - entirely an Infrastructure-as-a-Service solution. Using SQL Server and Integration Services, the system gathered data from a number of disparate systems and loaded into separate databases. Then the consolidation! Great stories about making the cloud work!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0433_data_warehouse_azure.mp3" length="31737875" type="audio/mp3" />
+					
+					<itunes:duration>00:31:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0433_data_warehouse_azure.mp3" fileSize="31737875" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=433</feedburner:origLink></item>
+			
+				<item>
+					<title>Desired State Configuration V2 with Don Jones</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/fNV87BfBQ9g/default.aspx</link>
+					<pubDate>Wed, 05 Aug 2015 00:00:00 EDT</pubDate>
+					<description>Ready for a new version of Desired State Configuration (DSC)? Richard chats with Don Jones about the second version of DSC, although it's bundled as part of The Windows Management Framework 5.0. Don discusses the evolving nature of server management and DSC's role in it, and how the tools need to improve to manage your scripts and configuration files. The conversation also turns to testing, and the tool Pester on GitHub as the ideal way to do testing for PowerShell. Don also suggests that if you're new to PowerShell, the ideal way to learn it is in the context of DSC - it gets you focused on a few key capabilities that can provide a ton of power!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/fNV87BfBQ9g" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=432">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=432</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Ready for a new version of Desired State Configuration (DSC)? Richard chats with Don Jones about the second version of DSC, although it's bundled as part of The Windows Management Framework 5.0. Don discusses the evolving nature of server management and DSC's role in it, and how the tools need to improve to manage your scripts and configuration files. The conversation also turns to testing, and the tool Pester on GitHub as the ideal way to do testing for PowerShell. Don also suggests that if you're new to PowerShell, the ideal way to learn it is in the context of DSC - it gets you focused on a few key capabilities that can provide a ton of power!</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0432_dsc_v2.mp3" length="32815988" type="audio/mp3" />
+					
+					<itunes:duration>00:34:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0432_dsc_v2.mp3" fileSize="32815988" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=432</feedburner:origLink></item>
+			
+				<item>
+					<title>Just Enough Administration with Mark Minasi</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/NuRt0GSXADw/default.aspx</link>
+					<pubDate>Wed, 29 Jul 2015 00:00:00 EDT</pubDate>
+					<description>How do you provide granular administrative privileges to junior administrators? Richard talks to Mark Minasi about the idea of Just Enough Administration (JEA). And it's not just for junior administration - the conversation dives into this idea that administrators should be domain users most of the time, and only elevate their privileges for specific tasks. JEA helps you organize privilege sets for those tasks so that you have no more capability than necessary. Administrator accounts are the hot new exploit vector, it's time to lock them down! Check out Just Enough Administration on TechNet.&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/NuRt0GSXADw" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=431">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=431</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>How do you provide granular administrative privileges to junior administrators? Richard talks to Mark Minasi about the idea of Just Enough Administration (JEA). And it's not just for junior administration - the conversation dives into this idea that administrators should be domain users most of the time, and only elevate their privileges for specific tasks. JEA helps you organize privilege sets for those tasks so that you have no more capability than necessary. Administrator accounts are the hot new exploit vector, it's time to lock them down! Check out Just Enough Administration on TechNet.</itunes:summary>
+					<enclosure url="https://s3.amazonaws.com/runas/runasradio_0431_jea.mp3" length="31526705" type="audio/mp3" />
+					
+					<itunes:duration>00:34:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="https://s3.amazonaws.com/runas/runasradio_0431_jea.mp3" fileSize="31526705" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=431</feedburner:origLink></item>
+			
+				<item>
+					<title>ITIL in the Cloud with Carroll Moon</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/OE2AiEJ9s00/default.aspx</link>
+					<pubDate>Wed, 22 Jul 2015 00:00:00 EDT</pubDate>
+					<description>Is ITIL still relevant in a cloud-centric world? Carroll Moon says yes! Richard talks to Carroll about his work building out the service management infrastructure of Office 365 and how those learnings can apply to your organization as it moves to the cloud. Carroll focuses first and foremost on monitoring - until you can see how your applications are operating in real time, other DevOps-type improvements are hard to quantify. And the instrumentation needed should be going down to the client, just monitoring servers is not enough. Getting great monitoring working on your apps means involving development - there's no getting around that. You can read Carroll's entire blog post series on Service Monitoring on Axelos.&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/OE2AiEJ9s00" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=430">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=430</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Is ITIL still relevant in a cloud-centric world? Carroll Moon says yes! Richard talks to Carroll about his work building out the service management infrastructure of Office 365 and how those learnings can apply to your organization as it moves to the cloud. Carroll focuses first and foremost on monitoring - until you can see how your applications are operating in real time, other DevOps-type improvements are hard to quantify. And the instrumentation needed should be going down to the client, just monitoring servers is not enough. Getting great monitoring working on your apps means involving development - there's no getting around that. You can read Carroll's entire blog post series on Service Monitoring on Axelos.</itunes:summary>
+					<enclosure url="http://s3.amazonaws.com/runas/runasradio_0430_itil_in_the_cloud.mp3" length="30119714" type="audio/mp3" />
+					
+					<itunes:duration>00:33:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="http://s3.amazonaws.com/runas/runasradio_0430_itil_in_the_cloud.mp3" fileSize="30119714" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=430</feedburner:origLink></item>
+			
+				<item>
+					<title>Exchange Online Protection with Peter Schmidt</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/615Xl4tdIsA/default.aspx</link>
+					<pubDate>Wed, 15 Jul 2015 00:00:00 EDT</pubDate>
+					<description>How do you filter spam and malware for your mail server? Richard chats with Peter Schmidt about Exchange Online Protection (EOP). Remember Forefront? This is where the product went, into the cloud. As an Azure product, EOP is available when you use Exchange Online - but you can also put it in front of your on-premise Exchange server at a stunning price of one dollar per user per month. Peter discusses the spam and malware filtering, but EOP also offers mail proxying in general so that your mail has a place to live when your server is down. This is the first step to moving your mail to the cloud, check it out at Exchange Online Protection.&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/615Xl4tdIsA" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=429">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=429</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>How do you filter spam and malware for your mail server? Richard chats with Peter Schmidt about Exchange Online Protection (EOP). Remember Forefront? This is where the product went, into the cloud. As an Azure product, EOP is available when you use Exchange Online - but you can also put it in front of your on-premise Exchange server at a stunning price of one dollar per user per month. Peter discusses the spam and malware filtering, but EOP also offers mail proxying in general so that your mail has a place to live when your server is down. This is the first step to moving your mail to the cloud, check it out at Exchange Online Protection.</itunes:summary>
+					<enclosure url="http://s3.amazonaws.com/runas/runasradio_0429_exchange_online_protection.mp3" length="35578571" type="audio/mp3" />
+					
+					<itunes:duration>00:36:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="http://s3.amazonaws.com/runas/runasradio_0429_exchange_online_protection.mp3" fileSize="35578571" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=429</feedburner:origLink></item>
+			
+				<item>
+					<title>Getting Ready for Win 10 with Mark Minasi</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/uVvRMQTN15g/default.aspx</link>
+					<pubDate>Wed, 08 Jul 2015 00:00:00 EDT</pubDate>
+					<description>Are you ready for Windows 10? Richard chats with Mark Minasi about the impending release of Windows 10. Mark talks about the new features of Windows 10 that will make you happy you're upgrading, including Universal Apps (no really, they're good!), the new store mechanism and the new browser - Edge. This leads to a conversation about managing updates, browser compatibility and keeping your business environment stable. Not everything will be ready in July, but the upgrades will be ongoing through the rest of 2015, so keep your eyes open!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/uVvRMQTN15g" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=428">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=428</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Are you ready for Windows 10? Richard chats with Mark Minasi about the impending release of Windows 10. Mark talks about the new features of Windows 10 that will make you happy you're upgrading, including Universal Apps (no really, they're good!), the new store mechanism and the new browser - Edge. This leads to a conversation about managing updates, browser compatibility and keeping your business environment stable. Not everything will be ready in July, but the upgrades will be ongoing through the rest of 2015, so keep your eyes open!</itunes:summary>
+					<enclosure url="http://s3.amazonaws.com/runas/runasradio_0428_windows_10.mp3" length="39990553" type="audio/mp3" />
+					
+					<itunes:duration>00:44:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="http://s3.amazonaws.com/runas/runasradio_0428_windows_10.mp3" fileSize="39990553" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=428</feedburner:origLink></item>
+			
+				<item>
+					<title>Using DSC on SharePoint with Patrick Curran</title>
+					<link>http://feedproxy.google.com/~r/RunasRadio/~3/kV6CCRyhX7A/default.aspx</link>
+					<pubDate>Wed, 01 Jul 2015 00:00:00 EDT</pubDate>
+					<description>Desired State Configuration and SQL Server? Richard talks to Patrick Curran about using DSC for more than just setting up a web farm. In fact, Patrick uses DSC to set up an entire SharePoint infrastructure - including SQL Server! And that is the tricky bit, since SQL Server isn't quite as PowerShell friendly as IIS. Patrick talks about battling the SQL PowerShell bits which sometime install, sometimes not so much - ultimately you're better off using SQL internal scripting for a reliable install. Lots of interesting thoughts about taking DSC to the max!&lt;img src="http://feeds.feedburner.com/~r/RunasRadio/~4/kV6CCRyhX7A" height="1" width="1" alt=""/&gt;</description>
+					<source url="http://www.runasradio.com/default.aspx?ShowNum=427">RunAs Radio</source>
+					<guid isPermaLink="false">http://www.runasradio.com/default.aspx?ShowNum=427</guid>
+					<itunes:author>Carl Franklin</itunes:author>
+					<itunes:subtitle>RunAs Radio is a weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.</itunes:subtitle>
+					<itunes:summary>Desired State Configuration and SQL Server? Richard talks to Patrick Curran about using DSC for more than just setting up a web farm. In fact, Patrick uses DSC to set up an entire SharePoint infrastructure - including SQL Server! And that is the tricky bit, since SQL Server isn't quite as PowerShell friendly as IIS. Patrick talks about battling the SQL PowerShell bits which sometime install, sometimes not so much - ultimately you're better off using SQL internal scripting for a reliable install. Lots of interesting thoughts about taking DSC to the max!</itunes:summary>
+					<enclosure url="http://s3.amazonaws.com/runas/runasradio_0427_dsc_with_sharepoint.mp3" length="28301360" type="audio/mp3" />
+					
+					<itunes:duration>00:30:00</itunes:duration>
+					<itunes:keywords />
+				<author>info@runasradio.com (Richard Campbell and Greg Hughes)</author><media:content url="http://s3.amazonaws.com/runas/runasradio_0427_dsc_with_sharepoint.mp3" fileSize="28301360" type="audio/mp3" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://www.runasradio.com/default.aspx?ShowNum=427</feedburner:origLink></item>
+			
+		
+	<media:credit role="author">Richard Campbell and Greg Hughes</media:credit><media:rating>nonadult</media:rating><media:description type="plain">A weekly Internet Audio Talk Show for IT Professionals</media:description></channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"> 
+		  <channel>
+	    <language>en-ca</language>
+	    <title>Wiretap from CBC Radio</title>
+	    <image>
+	      <url>http://www.cbc.ca/radio/podcasts/images/promo-wiretap.jpg</url>
+	      <title>Wiretap from CBC Radio</title>
+	      <link>http://www.cbc.ca/podcasting</link>
+	    </image>
+	    <link>http://www.cbc.ca/podcasting</link>
+	    <description>Unlike anything on the radio, Wiretap takes you on a weird, emotional journey into the mind of Jonathan Goldstein. It's full of his friends and family who you'll grow to love as your own.</description>
+	    <itunes:owner>
+	      <itunes:name>CBC</itunes:name>
+	      <itunes:email>podcasting@cbc.ca</itunes:email>
+	    </itunes:owner>
+	    <copyright>Copyright © CBC 2015</copyright>
+	    <managingEditor>podcasting@cbc.ca</managingEditor>
+	    <itunes:category text="Comedy" />
+	    <itunes:category text="Public Radio" />
+	    <itunes:explicit>no</itunes:explicit>
+	    <itunes:author>CBC Radio</itunes:author>
+	    <itunes:keywords>CBC,CBC Radio</itunes:keywords>
+	    <itunes:summary>Unlike anything on the radio, Wiretap takes you on a weird, emotional journey into the mind of Jonathan Goldstein. It's full of his friends and family who you'll grow to love as your own.</itunes:summary>
+	    <itunes:image href="http://www.cbc.ca/radio/podcasts/images/promo-wiretap.jpg" />
+	    
+	  </channel>
+</rss>

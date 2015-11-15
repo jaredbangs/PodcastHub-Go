@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Jesse Liberty » YapCast</title>
+	
+	<link>http://jesseliberty.com</link>
+	<description>Just keep swimming...</description>
+	<lastBuildDate>Fri, 13 Nov 2015 21:51:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/JesseLibertyYapcast" /><feedburner:info uri="jesselibertyyapcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</media:copyright><media:thumbnail url="http://jesseliberty.com/wp-content/uploads/2010/12/YetAnotherPodcastLogoSquarer.jpg" /><media:keywords>Jesse,Liberty,Technology,Windows,Windows8</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category><itunes:owner><itunes:email>jesseliberty@jesseliberty.com</itunes:email><itunes:name>Jesse Liberty</itunes:name></itunes:owner><itunes:author>Jesse Liberty</itunes:author><itunes:explicit>no</itunes:explicit><itunes:image href="http://jesseliberty.com/wp-content/uploads/2010/12/YetAnotherPodcastLogoSquarer.jpg" /><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><itunes:subtitle>Yet Another Podcast</itunes:subtitle><itunes:summary>Programmers talking with programmers about Windows and Best Practices, as well as all things Geek.&#xD;
+</itunes:summary><itunes:category text="Technology" /><item>
+		<title>Yet Another Podcast #141: Greg Shackles on Xamarin</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/vlBz2PKIUXc/</link>
+		<comments>http://jesseliberty.com/2015/08/24/yet-another-podcast-141-greg-shackles-on-xamarin/#comments</comments>
+		<pubDate>Mon, 24 Aug 2015 13:56:20 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[Essentials]]></category>
+		<category><![CDATA[Xamarin]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9938</guid>
+		<description><![CDATA[This week, Greg Shackles: mobile expert and Xamarin MVP; host of Gone Mobile Podcast. NYC Mobile .NET Developers Gone Mobile Olo Xamarin Evolve 2014: Using Continuous Integration with Xamarin Apps MvvmCross fastlane xUnit &#160; Listen &#124; Yet Another Podcast &#160;]]></description>
+				<content:encoded><![CDATA[<p><a href="http://i1.wp.com/jesseliberty.com/wp-content/uploads/2015/08/GregS.png"><img class="alignright size-medium wp-image-9940" src="http://i1.wp.com/jesseliberty.com/wp-content/uploads/2015/08/GregS.png?resize=300%2C300" alt="GregS" data-recalc-dims="1" /></a>This week, Greg Shackles: mobile expert and Xamarin MVP; host of Gone Mobile Podcast.</p>
+<div>
+<div>
+<ul>
+<li><a href="http://www.meetup.com/nycmobiledev/">NYC Mobile .NET Developers</a></li>
+<li><a href="http://gonemobile.io">Gone Mobile</a></li>
+<li><a href="http://olo.com">Olo</a></li>
+<li><a href="https://www.youtube.com/watch?v=Awl4vGo7Yj0">Xamarin Evolve 2014: Using Continuous Integration with Xamarin Apps</a></li>
+<li><a href="http://mvvmcross.com/">MvvmCross</a></li>
+<li><a href="https://fastlane.tools/">fastlane</a></li>
+<li><a href="https://xunit.github.io/">xUnit</a></li>
+</ul>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><a href="http://jesseliberty.com/wp-content/media/Show141.mp3" target="_blank">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p>&nbsp;</p>
+<p><iframe style="overflow: hidden; height: 500px; width: 500px; border-width: 0px;" src="http://app.stitcher.com/splayer/f/49736?el=1&amp;refid=stpr" width="500" height="500" frameborder="0" scrolling="no"></iframe></p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/vlBz2PKIUXc" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2015/08/24/yet-another-podcast-141-greg-shackles-on-xamarin/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/3Lx2-bCmIwk/Show141.mp3" fileSize="24320417" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week, Greg Shackles: mobile expert and Xamarin MVP; host of Gone Mobile Podcast. NYC Mobile .NET Developers Gone Mobile Olo Xamarin Evolve 2014: Using Continuous Integration with Xamarin Apps MvvmCross fastlane xUnit &amp;#160; Listen &amp;#124; Yet Another </itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>This week, Greg Shackles: mobile expert and Xamarin MVP; host of Gone Mobile Podcast. NYC Mobile .NET Developers Gone Mobile Olo Xamarin Evolve 2014: Using Continuous Integration with Xamarin Apps MvvmCross fastlane xUnit &amp;#160; Listen &amp;#124; Yet Another Podcast &amp;#160;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2015/08/24/yet-another-podcast-141-greg-shackles-on-xamarin/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/3Lx2-bCmIwk/Show141.mp3" length="24320417" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show141.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Yet Another Podcast – Show 140: J. Tower</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/I85myZQzB0A/</link>
+		<comments>http://jesseliberty.com/2015/08/20/yet-another-podcast-show-140-j-tower/#comments</comments>
+		<pubDate>Thu, 20 Aug 2015 14:00:12 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[Essentials]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9923</guid>
+		<description><![CDATA[This week we have J Tower,  Telerik Expert, Community Organizer, Itinerant Consultant J&#8217;s web site Community Organizing 48 State Project &#160; Listen &#124; Yet Another Podcast]]></description>
+				<content:encoded><![CDATA[<p><a href="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2015/08/jtower.png"><img class="alignleft size-full wp-image-9927" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2015/08/jtower.png?resize=177%2C173" alt="jtower" data-recalc-dims="1" /></a>This week we have J Tower,  Telerik Expert, Community Organizer, Itinerant Consultant</p>
+<div>
+<p><a href="http://jtower.com" target="_blank">J&#8217;s web site<br />
+</a><a href="http://@jtowermi" target="_blank">Community Organizing<br />
+</a><a href="http://48statesproject.com" target="_blank">48 State Project</a></p>
+</div>
+<p>&nbsp;</p>
+<p><a href="http://jesseliberty.com/wp-content/media/Show140.mp3" target="_blank">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/I85myZQzB0A" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2015/08/20/yet-another-podcast-show-140-j-tower/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/WrBGfcfRHXA/Show140.mp3" fileSize="24073725" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>This week we have J Tower,  Telerik Expert, Community Organizer, Itinerant Consultant J&amp;#8217;s web site Community Organizing 48 State Project &amp;#160; Listen &amp;#124; Yet Another Podcast</itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>This week we have J Tower,  Telerik Expert, Community Organizer, Itinerant Consultant J&amp;#8217;s web site Community Organizing 48 State Project &amp;#160; Listen &amp;#124; Yet Another Podcast</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2015/08/20/yet-another-podcast-show-140-j-tower/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/WrBGfcfRHXA/Show140.mp3" length="24073725" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show140.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Xamarin with James Montemagno</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/iGhYvOm-0yU/</link>
+		<comments>http://jesseliberty.com/2015/07/23/xamarin-with-james-montemagno/#comments</comments>
+		<pubDate>Thu, 23 Jul 2015 17:14:38 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[Xamarin]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9896</guid>
+		<description><![CDATA[James Montemagno is a Developer Evangelist at Xamarin and Microsoft MVP. He has been a .NET developer for over a decade working in a wide range of industries including game development, printer software, and web services. Previously, James was a professional mobile developer and has now been crafting apps using the Xamarin Platform for over 4 years. Today we discuss all things Xamarin. Xamarin Dev Days: http://www.xamarin.com/dev-days Xamarin.Forms: http://www.xamarin.com/forms Xamarin University: http://www.xamarin.com/university Xamarin Test Cloud: http://www.xamarin.com/test-cloud Plugins for Xamarin: http://github.com/xamarin/plugins James: Twitter: http://www.twitter.com/jamesmontemagno James: Blog: http://motzcod.es My Shoppe: https://blog.xamarin.com/connect-to-customers-with-my-shoppe-template-app/ Moments: https://blog.xamarin.com/build-your-own-snapchat-clone-with-xamarin.forms-and-azure/   Listen &#8230; <a href="http://jesseliberty.com/2015/07/23/xamarin-with-james-montemagno/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p><img style="float: left;" title="JamesMontemagno.png" src="http://i2.wp.com/jesseliberty.com/wp-content/uploads/2015/07/JamesMontemagno.png?resize=52%2C63" alt="James Montemagno" border="0" data-recalc-dims="1" /></p>
+<p>James Montemagno is a Developer Evangelist at Xamarin and Microsoft MVP.</p>
+<p>He has been a .NET developer for over a decade working in a wide range of industries<br />
+including game development, printer software, and web services.</p>
+<p>Previously, James was a professional mobile developer and has now been crafting apps<br />
+using the Xamarin Platform for over 4 years.</p>
+<p>Today we discuss all things Xamarin.</p>
+<p>Xamarin Dev Days: <a href="http://www.xamarin.com/dev-days">http://www.xamarin.com/dev-days</a></p>
+<p>Xamarin.Forms: <a href="http://www.xamarin.com/forms">http://www.xamarin.com/forms</a></p>
+<p>Xamarin University: <a href="http://www.xamarin.com/university">http://www.xamarin.com/university</a></p>
+<p>Xamarin Test Cloud: <a href="http://www.xamarin.com/test-cloud">http://www.xamarin.com/test-cloud</a></p>
+<p>Plugins for Xamarin: <a href="http://github.com/xamarin/plugins">http://github.com/xamarin/plugins</a></p>
+<p>James: Twitter: <a href="http://www.twitter.com/jamesmontemagno">http://www.twitter.com/jamesmontemagno</a></p>
+<p>James: Blog: <a href="http://motzcod.es">http://motzcod.es</a></p>
+<p>My Shoppe: <a href="https://blog.xamarin.com/connect-to-customers-with-my-shoppe-template-app/">https://blog.xamarin.com/connect-to-customers-with-my-shoppe-template-app/</a></p>
+<p>Moments: <a href="https://blog.xamarin.com/build-your-own-snapchat-clone-with-xamarin.forms-and-azure/">https://blog.xamarin.com/build-your-own-snapchat-clone-with-xamarin.forms-and-azure/</a></p>
+<p><span style="font-family: 'Helvetica Neue'; font-size: 14px;"> </span></p>
+<p><a href="http://jesseliberty.com/wp-content/media/Show139.mp3" target="_blank">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p>&nbsp;</p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/iGhYvOm-0yU" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2015/07/23/xamarin-with-james-montemagno/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/RKqeqsATL5c/Show139.mp3" fileSize="35142556" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>James Montemagno is a Developer Evangelist at Xamarin and Microsoft MVP. He has been a .NET developer for over a decade working in a wide range of industries including game development, printer software, and web services. Previously, James was a professio</itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>James Montemagno is a Developer Evangelist at Xamarin and Microsoft MVP. He has been a .NET developer for over a decade working in a wide range of industries including game development, printer software, and web services. Previously, James was a professional mobile developer and has now been crafting apps using the Xamarin Platform for over 4 years. Today we discuss all things Xamarin. Xamarin Dev Days: http://www.xamarin.com/dev-days Xamarin.Forms: http://www.xamarin.com/forms Xamarin University: http://www.xamarin.com/university Xamarin Test Cloud: http://www.xamarin.com/test-cloud Plugins for Xamarin: http://github.com/xamarin/plugins James: Twitter: http://www.twitter.com/jamesmontemagno James: Blog: http://motzcod.es My Shoppe: https://blog.xamarin.com/connect-to-customers-with-my-shoppe-template-app/ Moments: https://blog.xamarin.com/build-your-own-snapchat-clone-with-xamarin.forms-and-azure/   Listen &amp;#8230; Continue reading &amp;#8594;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2015/07/23/xamarin-with-james-montemagno/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/RKqeqsATL5c/Show139.mp3" length="35142556" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show139.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Yet Another Podcast Show 138 – Jon Galloway</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/zSr6ETi5LnE/</link>
+		<comments>http://jesseliberty.com/2015/07/13/yet-another-podcast-show-138-jon-galloway/#comments</comments>
+		<pubDate>Mon, 13 Jul 2015 20:21:35 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[Essentials]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9885</guid>
+		<description><![CDATA[Jon Galloway is a friend, a walking encyclopedia of all things web and Microsoft and a former winner on The Price Is Right. Having Jon on is always a blast, and a chance to learn what&#8217;s new with ASP.NET and &#8230; <a href="http://jesseliberty.com/2015/07/13/yet-another-podcast-show-138-jon-galloway/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2015/07/jg.png"><img class="alignleft size-full wp-image-9887" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2015/07/jg.png?resize=250%2C220" alt="jg" data-recalc-dims="1" /></a>Jon Galloway is a friend, a walking encyclopedia of all things web and Microsoft and a former winner on <em>The Price Is Right</em>.</p>
+<p>Having Jon on is always a blast, and a chance to learn what&#8217;s new with ASP.NET and all sorts of things.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://jesseliberty.com/wp-content/media/Show138.mp3" target="_blank">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p><a href="http://feeds.feedburner.com/JesseLibertyYapcast"><img title="rss" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2010/10/rss_thumb.jpg?resize=29%2C26" alt="rss" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p><a href="http://itunes.apple.com/us/podcast/id393751871"><img title="iTunes" src="http://i2.wp.com/jesseliberty.com/wp-content/uploads/2010/10/iTunes_thumb.jpg?resize=94%2C31" alt="iTunes" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="overflow: hidden; height: 500px; width: 500px; border-width: 0px;" src="http://app.stitcher.com/splayer/f/49736?el=1&amp;refid=stpr" width="500" height="500" frameborder="0" scrolling="no"></iframe></p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/zSr6ETi5LnE" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2015/07/13/yet-another-podcast-show-138-jon-galloway/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/i538spo5ZdI/Show138.mp3" fileSize="35480274" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Jon Galloway is a friend, a walking encyclopedia of all things web and Microsoft and a former winner on The Price Is Right. Having Jon on is always a blast, and a chance to learn what&amp;#8217;s new with ASP.NET and &amp;#8230; Continue reading &amp;#8594;</itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>Jon Galloway is a friend, a walking encyclopedia of all things web and Microsoft and a former winner on The Price Is Right. Having Jon on is always a blast, and a chance to learn what&amp;#8217;s new with ASP.NET and &amp;#8230; Continue reading &amp;#8594;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2015/07/13/yet-another-podcast-show-138-jon-galloway/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/i538spo5ZdI/Show138.mp3" length="35480274" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show138.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Yet Another Podcast #137 – Basem Emara</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/khV8xwbpIcE/</link>
+		<comments>http://jesseliberty.com/2015/07/02/yet-another-podcast-137-basem-emara/#comments</comments>
+		<pubDate>Thu, 02 Jul 2015 18:40:57 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Essentials]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9881</guid>
+		<description><![CDATA[Basem has over 10 years experience as a consultant, developer, and trainer in the web and mobile space. He has helped enterprises pioneer their industries using JavaScript, .NET, and now iOS and Apple WatchKit. Basem has 2 Apple Watch apps in the &#8230; <a href="http://jesseliberty.com/2015/07/02/yet-another-podcast-137-basem-emara/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Basem has over 10 years experience as a consultant, developer, and trainer in the web and mobile space. He has helped enterprises pioneer their industries using JavaScript, .NET, and now iOS and Apple WatchKit.</p>
+<p><a href="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2013/12/BasemProfilePic_thumb.jpg"><img class="alignleft" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2013/12/BasemProfilePic_thumb.jpg?resize=154%2C154" alt="" data-recalc-dims="1" /></a>Basem has 2 Apple Watch apps in the store that were available before the launch of the device and will soon launch his <span class="__postbox-detected-content __postbox-detected-date">3rd.</span> You can view his apps at <a class="" href="http://zamzam.io">http://zamzam.io</a>.</p>
+<p>In this podcast, we talk about all things Apple Watch</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://jesseliberty.com/wp-content/media/Show137.mp3" target="_blank">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p><a href="http://feeds.feedburner.com/JesseLibertyYapcast"><img title="rss" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2010/10/rss_thumb.jpg?resize=29%2C26" alt="rss" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p><a href="http://itunes.apple.com/us/podcast/id393751871"><img title="iTunes" src="http://i2.wp.com/jesseliberty.com/wp-content/uploads/2010/10/iTunes_thumb.jpg?resize=94%2C31" alt="iTunes" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="overflow: hidden; height: 500px; width: 500px; border-width: 0px;" src="http://app.stitcher.com/splayer/f/49736?el=1&amp;refid=stpr" width="500" height="500" frameborder="0" scrolling="no"></iframe></p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/khV8xwbpIcE" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2015/07/02/yet-another-podcast-137-basem-emara/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/K5CuS37MpFw/Show137.mp3" fileSize="21700150" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Basem has over 10 years experience as a consultant, developer, and trainer in the web and mobile space. He has helped enterprises pioneer their industries using JavaScript, .NET, and now iOS and Apple WatchKit. Basem has 2 Apple Watch apps in the &amp;#8230; </itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>Basem has over 10 years experience as a consultant, developer, and trainer in the web and mobile space. He has helped enterprises pioneer their industries using JavaScript, .NET, and now iOS and Apple WatchKit. Basem has 2 Apple Watch apps in the &amp;#8230; Continue reading &amp;#8594;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2015/07/02/yet-another-podcast-137-basem-emara/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/K5CuS37MpFw/Show137.mp3" length="21700150" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show137.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Yet Another Podcast #136 K. Scott Allen</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/_FSpPXdGP9g/</link>
+		<comments>http://jesseliberty.com/2015/05/14/yet-another-podcast-136-k-scott-allen/#comments</comments>
+		<pubDate>Thu, 14 May 2015 13:23:15 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[Essentials]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9844</guid>
+		<description><![CDATA[Scott Allen is extremely well regarded in the industry, for his programming skill, his teaching skills and for being a kind and nice man. Ode To Code Pluralsight &#160; &#160; &#160; &#160; &#160; Listen &#124; Yet Another Podcast &#160; &#160; &#8230; <a href="http://jesseliberty.com/2015/05/14/yet-another-podcast-136-k-scott-allen/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Scott Allen is extremely well regarded in the industry, for his<a href="http://i1.wp.com/jesseliberty.com/wp-content/uploads/2015/05/K.-Scott-Allen.png"><img class="alignleft size-medium wp-image-9845" src="http://i1.wp.com/jesseliberty.com/wp-content/uploads/2015/05/K.-Scott-Allen.png?resize=227%2C300" alt="K. Scott Allen" data-recalc-dims="1" /></a> programming skill, his teaching skills and for being a kind and nice man.</p>
+<ul>
+<li><a href="http://odetocode.com/" target="_blank">Ode To Code</a></li>
+<li><a href="http://www.pluralsight.com/author/scott-allen">Pluralsight</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://jesseliberty.com/wp-content/media/Show136.mp3">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p><a href="http://feeds.feedburner.com/JesseLibertyYapcast"><img title="rss" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2010/10/rss_thumb.jpg?resize=29%2C26" alt="rss" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p><a href="http://itunes.apple.com/us/podcast/id393751871"><img title="iTunes" src="http://i2.wp.com/jesseliberty.com/wp-content/uploads/2010/10/iTunes_thumb.jpg?resize=94%2C31" alt="iTunes" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe style="overflow: hidden; height: 500px; width: 500px; border-width: 0px;" src="http://app.stitcher.com/splayer/f/49736?el=1&amp;refid=stpr" width="500" height="500" frameborder="0" scrolling="no"></iframe></p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/_FSpPXdGP9g" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2015/05/14/yet-another-podcast-136-k-scott-allen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/3AUlBCCir3g/Show136.mp3" fileSize="31886639" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Scott Allen is extremely well regarded in the industry, for his programming skill, his teaching skills and for being a kind and nice man. Ode To Code Pluralsight &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Listen &amp;#124; Yet Another Podcast &amp;#160; &amp;#160; &amp;#8230; Co</itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>Scott Allen is extremely well regarded in the industry, for his programming skill, his teaching skills and for being a kind and nice man. Ode To Code Pluralsight &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Listen &amp;#124; Yet Another Podcast &amp;#160; &amp;#160; &amp;#8230; Continue reading &amp;#8594;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2015/05/14/yet-another-podcast-136-k-scott-allen/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/3AUlBCCir3g/Show136.mp3" length="31886639" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show136.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Yet Another Podcast #135 – Miguel de Icaza on Xamarin</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/qopNllt_80o/</link>
+		<comments>http://jesseliberty.com/2014/10/30/yet-another-podcast-135-miguel-de-icaza-on-xamarin/#comments</comments>
+		<pubDate>Thu, 30 Oct 2014 21:00:06 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[Essentials]]></category>
+		<category><![CDATA[Xamarin]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9689</guid>
+		<description><![CDATA[Miguel de Icaza is one of the most respected technologists in the industry, known  for starting the Gnome and Mono projects.  He is the CTO and co-founder of Xamarin and a genuinely nice person.  Today we talk about Xamarin, Xamarin.Forms and mobile programming. &#8230; <a href="http://jesseliberty.com/2014/10/30/yet-another-podcast-135-miguel-de-icaza-on-xamarin/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://i1.wp.com/jesseliberty.com/wp-content/uploads/2014/10/Miguel.jpg"><img class="alignright size-full wp-image-9691" src="http://i1.wp.com/jesseliberty.com/wp-content/uploads/2014/10/Miguel.jpg?resize=174%2C208" alt="Miguel de Icaza" data-recalc-dims="1" /></a>Miguel de Icaza is one of the most respected technologists in the industry, known  for starting the <a href="http://en.wikipedia.org/wiki/GNOME">Gnome</a> and Mono projects.  He is the CTO and co-founder of <a href="http://xamarin.com" target="_blank">Xamarin</a> and a genuinely nice person.  Today we talk about Xamarin, Xamarin.Forms and mobile programming.</p>
+<ul>
+<li><a href="http://xamarin.com" target="_blank">Xamarin</a></li>
+<li><a href="http://university.xamarin.com" target="_blank">Xamarin University</a></li>
+<li><a href="http://developer.xamarin.com/guides/cross-platform/xamarin-forms/" target="_blank">Xamarin Forms</a></li>
+<li><a href="http://xamarin.com/test-cloud" target="_blank">Test Cloud</a></li>
+<li><a href="http://falafel.com/landing-pages/xamarin-evolve" target="_blank">My free e-book on Xamarin Forms</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><a onclick="javascript:_gaq.push(['_trackPageview', '/download/wp-content/media/Show135.mp3']);"  href="http://jesseliberty.com/wp-content/media/Show135.mp3">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p>&nbsp;</p>
+<p><a onclick="javascript:_gaq.push(['_trackPageview', '/out/feeds.feedburner.com/JesseLibertyYapcast']);" onclick="javascript:_gaq.push(['_trackPageview', '/out/feeds.feedburner.com/JesseLibertyYapcast']);"  href="http://feeds.feedburner.com/JesseLibertyYapcast"><img title="rss" border="0" alt="rss" align="left" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2010/10/rss_thumb.jpg?resize=29%2C26" data-recalc-dims="1" /></a></p>
+<p><a onclick="javascript:_gaq.push(['_trackPageview', '/out/itunes.apple.com/us/podcast/id393751871']);" onclick="javascript:_gaq.push(['_trackPageview', '/out/itunes.apple.com/us/podcast/id393751871']);"  href="http://itunes.apple.com/us/podcast/id393751871"><img title="iTunes" border="0" alt="iTunes" align="left" src="http://i2.wp.com/jesseliberty.com/wp-content/uploads/2010/10/iTunes_thumb.jpg?resize=94%2C31" data-recalc-dims="1" /></a></p>
+<p><iframe style="border-left-width: 0px; overflow: hidden; height: 500px; border-right-width: 0px; width: 500px; border-bottom-width: 0px; border-top-width: 0px" height="500" src="http://app.stitcher.com/splayer/f/49736?el=1&amp;refid=stpr" frameborder="0" width="500" scrolling="no"></iframe></p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/qopNllt_80o" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2014/10/30/yet-another-podcast-135-miguel-de-icaza-on-xamarin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/Nj1isvSuqpo/Show135.mp3" fileSize="28123770" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Miguel de Icaza is one of the most respected technologists in the industry, known  for starting the Gnome and Mono projects.  He is the CTO and co-founder of Xamarin and a genuinely nice person.  Today we talk about Xamarin, Xamarin.Forms and mobile progr</itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>Miguel de Icaza is one of the most respected technologists in the industry, known  for starting the Gnome and Mono projects.  He is the CTO and co-founder of Xamarin and a genuinely nice person.  Today we talk about Xamarin, Xamarin.Forms and mobile programming. &amp;#8230; Continue reading &amp;#8594;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2014/10/30/yet-another-podcast-135-miguel-de-icaza-on-xamarin/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/Nj1isvSuqpo/Show135.mp3" length="28123770" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show135.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Yet Another Podcast Show 134 – Scott Hunter and ASP.NET V-Next</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/aDPwkMkqA1I/</link>
+		<comments>http://jesseliberty.com/2014/10/06/yet-another-podcast-show-134-scott-hunter-and-asp-net-v-next/#comments</comments>
+		<pubDate>Mon, 06 Oct 2014 17:37:19 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[ASP.NET]]></category>
+		<category><![CDATA[Essentials]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9668</guid>
+		<description><![CDATA[Scott Hunter of Microsoft joins Jon Galloway and me to discuss ASP.NET V-Next.  If you are a web programmer do not miss this show. Scott&#8217;s Blog ASP.NET V-Next Page Jon Galloway&#8217;s Blog &#160; &#160; &#160; Listen &#124; Yet Another Podcast &#160;]]></description>
+				<content:encoded><![CDATA[<p>Scott Hunter of Microsoft joins Jon Galloway and me to discuss ASP.NET V-Next.  <a href="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2014/10/Scott-Hunter.png"><img class="alignright size-full wp-image-9669" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2014/10/Scott-Hunter.png?resize=130%2C130" alt="Scott Hunter" data-recalc-dims="1" /></a>If you are a web programmer <em>do not miss this show</em>.</p>
+<ul>
+<li><a href="http://blogs.msdn.com/b/scothu/">Scott&#8217;s Blog</a></li>
+<li><a href="http://www.asp.net/vnext">ASP.NET V-Next Page</a></li>
+<li><a href="http://weblogs.asp.net/jongalloway">Jon Galloway&#8217;s Blog</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a onclick="javascript:_gaq.push(['_trackPageview', '/download/wp-content/media/Show134.mp3']);"  href="http://jesseliberty.com/wp-content/media/Show134.mp3">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p>&nbsp;</p>
+<p><a onclick="javascript:_gaq.push(['_trackPageview', '/out/feeds.feedburner.com/JesseLibertyYapcast']);" onclick="javascript:_gaq.push(['_trackPageview', '/out/feeds.feedburner.com/JesseLibertyYapcast']);"  href="http://feeds.feedburner.com/JesseLibertyYapcast"><img title="rss" border="0" alt="rss" align="left" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2010/10/rss_thumb.jpg?resize=29%2C26" data-recalc-dims="1" /></a></p>
+<p><a onclick="javascript:_gaq.push(['_trackPageview', '/out/itunes.apple.com/us/podcast/id393751871']);" onclick="javascript:_gaq.push(['_trackPageview', '/out/itunes.apple.com/us/podcast/id393751871']);"  href="http://itunes.apple.com/us/podcast/id393751871"><img title="iTunes" border="0" alt="iTunes" align="left" src="http://i2.wp.com/jesseliberty.com/wp-content/uploads/2010/10/iTunes_thumb.jpg?resize=94%2C31" data-recalc-dims="1" /></a></p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/aDPwkMkqA1I" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2014/10/06/yet-another-podcast-show-134-scott-hunter-and-asp-net-v-next/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/-xos6qqI9U0/Show134.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Scott Hunter of Microsoft joins Jon Galloway and me to discuss ASP.NET V-Next.  If you are a web programmer do not miss this show. Scott&amp;#8217;s Blog ASP.NET V-Next Page Jon Galloway&amp;#8217;s Blog &amp;#160; &amp;#160; &amp;#160; Listen &amp;#124; Yet Another Podcast &amp;#16</itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>Scott Hunter of Microsoft joins Jon Galloway and me to discuss ASP.NET V-Next.  If you are a web programmer do not miss this show. Scott&amp;#8217;s Blog ASP.NET V-Next Page Jon Galloway&amp;#8217;s Blog &amp;#160; &amp;#160; &amp;#160; Listen &amp;#124; Yet Another Podcast &amp;#160;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2014/10/06/yet-another-podcast-show-134-scott-hunter-and-asp-net-v-next/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/-xos6qqI9U0/Show134.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show134.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Yet Another Podcast #133 – Jon Galloway on ASP.NET</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/psga-ltOFvc/</link>
+		<comments>http://jesseliberty.com/2014/09/17/yet-another-podcast-133-jon-galloway-on-asp-net/#comments</comments>
+		<pubDate>Wed, 17 Sep 2014 13:00:41 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[ASP.NET]]></category>
+		<category><![CDATA[Essentials]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9653</guid>
+		<description><![CDATA[Jon Galloway, co-host, friend and Microsoft Evangelist joins me to discuss ASP.NET MVC 5. Jon&#8217;s Blog Professional ASP.NET MVC 5 ASP.NET site &#160; Listen &#124; Yet Another Podcast &#160;]]></description>
+				<content:encoded><![CDATA[<p>Jon Galloway, co-host, friend and Microsoft Evangelist joins me to discuss <a href="http://i1.wp.com/jesseliberty.com/wp-content/uploads/2014/09/JonGalloway.jpg"><img class="alignright size-full wp-image-9654" src="http://i1.wp.com/jesseliberty.com/wp-content/uploads/2014/09/JonGalloway.jpg?resize=82%2C81" alt="Jon Galloway" data-recalc-dims="1" /></a>ASP.NET MVC 5.</p>
+<ul>
+<li><a href="http://weblogs.asp.net/jongalloway">Jon&#8217;s Blog</a></li>
+<li><a href="http://www.amazon.com/Professional-ASP-NET-MVC-Jon-Galloway/dp/1118794753/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1410958731&amp;sr=1-1&amp;keywords=professional+asp.net+mvc+5">Professional ASP.NET MVC 5</a></li>
+<li><a href="http://www.asp.net/">ASP.NET site</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><a href="http://jesseliberty.com/wp-content/media/Show133.mp3">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p>&nbsp;</p>
+<p><a href="http://feeds.feedburner.com/JesseLibertyYapcast"><img title="rss" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2010/10/rss_thumb.jpg?resize=29%2C26" alt="rss" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p><a href="http://itunes.apple.com/us/podcast/id393751871"><img title="iTunes" src="http://i2.wp.com/jesseliberty.com/wp-content/uploads/2010/10/iTunes_thumb.jpg?resize=94%2C31" alt="iTunes" align="left" border="0" data-recalc-dims="1" /></a></p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/psga-ltOFvc" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2014/09/17/yet-another-podcast-133-jon-galloway-on-asp-net/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/xDHrjoJTm5E/Show133.mp3" fileSize="31371342" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Jon Galloway, co-host, friend and Microsoft Evangelist joins me to discuss ASP.NET MVC 5. Jon&amp;#8217;s Blog Professional ASP.NET MVC 5 ASP.NET site &amp;#160; Listen &amp;#124; Yet Another Podcast &amp;#160;</itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>Jon Galloway, co-host, friend and Microsoft Evangelist joins me to discuss ASP.NET MVC 5. Jon&amp;#8217;s Blog Professional ASP.NET MVC 5 ASP.NET site &amp;#160; Listen &amp;#124; Yet Another Podcast &amp;#160;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2014/09/17/yet-another-podcast-133-jon-galloway-on-asp-net/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/xDHrjoJTm5E/Show133.mp3" length="31371342" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show133.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Yet Another Podcast #132: FalafelCon Roundtable</title>
+		<link>http://feedproxy.google.com/~r/JesseLibertyYapcast/~3/M8JJOyT2Pms/</link>
+		<comments>http://jesseliberty.com/2014/09/12/yet-another-podcast-132-falafelcon-roundtable/#comments</comments>
+		<pubDate>Fri, 12 Sep 2014 13:38:16 +0000</pubDate>
+		<dc:creator>jesseliberty@jesseliberty.com (Jesse Liberty)</dc:creator>
+				<category><![CDATA[AngularJS]]></category>
+		<category><![CDATA[ASP.NET]]></category>
+		<category><![CDATA[Azure]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Falafel Software]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Kendo UI]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Observations]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Patterns & Skills]]></category>
+		<category><![CDATA[Xamarin]]></category>
+		<category><![CDATA[XAML]]></category>
+		<category><![CDATA[YapCast]]></category>
+
+		<guid isPermaLink="false">http://jesseliberty.com/?p=9641</guid>
+		<description><![CDATA[Talking with J. Tower, Josh Eastburn and Venkata Koppaka of Falafel Software about their upcoming presentations at FalafelCon.  We also discuss working remotely, software, AngularJS, Xamarin and much more. Falafel Software FalafelCon Falafel Blogs HipChat GoToMeeting 48 States Project Special &#8230; <a href="http://jesseliberty.com/2014/09/12/yet-another-podcast-132-falafelcon-roundtable/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Talking with J. Tower, Josh Eastburn and Venkata Koppaka of Falafel Software about their upcoming presentations at <a href="http://falafel.com/falafel-con-2014?utm_source=blog&amp;utm_medium=FalafelCon-banner-blog&amp;utm_campaign=falafelcon%E2%80%8B%E2%80%8B%E2%80%8B">FalafelCon</a>.  We also discuss working remotely, software, AngularJS, Xamarin and much more.</p>
+<ul>
+<li><a href="http://falafel.com">Falafel Software</a></li>
+<li><a href="http://falafel.com/falafel-con-2014?utm_source=blog&amp;utm_medium=FalafelCon-banner-blog&amp;utm_campaign=falafelcon%E2%80%8B%E2%80%8B%E2%80%8B">FalafelCon</a></li>
+<li><a href="http://blog.falafel.com">Falafel Blogs</a></li>
+<li><a href="https://www.hipchat.com/">HipChat</a></li>
+<li><a href="http://www.gotomeeting.com/online/collaboration/home">GoToMeeting</a></li>
+<li><a href="http://48statesproject.com/">48 States Project</a></li>
+</ul>
+<h1><strong>Special 10% <a href="https://www.eventbrite.com/e/falafelcon-2014-the-ultimate-developer-conference-tickets-11203039593?discount=yetanotherpodcast">FalafeCon discount</a> for<br />
+</strong><strong>Yet Another Podcast Listeners.  </strong></h1>
+<p><a href="http://jesseliberty.com/wp-content/media/Show132.mp3">Listen</a> | <a href="http://jesseliberty.com/podcast">Yet Another Podcast</a></p>
+<p>&nbsp;</p>
+<p><a href="http://feeds.feedburner.com/JesseLibertyYapcast"><img title="rss" src="http://i0.wp.com/jesseliberty.com/wp-content/uploads/2010/10/rss_thumb.jpg?resize=29%2C26" alt="rss" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p><a href="http://itunes.apple.com/us/podcast/id393751871"><img title="iTunes" src="http://i2.wp.com/jesseliberty.com/wp-content/uploads/2010/10/iTunes_thumb.jpg?resize=94%2C31" alt="iTunes" align="left" border="0" data-recalc-dims="1" /></a></p>
+<p>&nbsp;</p>
+<img src="http://feeds.feedburner.com/~r/JesseLibertyYapcast/~4/M8JJOyT2Pms" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://jesseliberty.com/2014/09/12/yet-another-podcast-132-falafelcon-roundtable/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/HAKTA2wh4DA/Show132.mp3" fileSize="30473973" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Talking with J. Tower, Josh Eastburn and Venkata Koppaka of Falafel Software about their upcoming presentations at FalafelCon.  We also discuss working remotely, software, AngularJS, Xamarin and much more. Falafel Software FalafelCon Falafel Blogs HipChat</itunes:subtitle><itunes:author>Jesse Liberty</itunes:author><itunes:summary>Talking with J. Tower, Josh Eastburn and Venkata Koppaka of Falafel Software about their upcoming presentations at FalafelCon.  We also discuss working remotely, software, AngularJS, Xamarin and much more. Falafel Software FalafelCon Falafel Blogs HipChat GoToMeeting 48 States Project Special &amp;#8230; Continue reading &amp;#8594;</itunes:summary><itunes:keywords>Jesse,Liberty,Technology,Windows,Windows8</itunes:keywords><feedburner:origLink>http://jesseliberty.com/2014/09/12/yet-another-podcast-132-falafelcon-roundtable/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/JesseLibertyYapcast/~5/HAKTA2wh4DA/Show132.mp3" length="30473973" type="audio/mpeg" /><feedburner:origEnclosureLink>http://jesseliberty.com/wp-content/media/Show132.mp3</feedburner:origEnclosureLink></item>
+	<copyright>Licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</copyright><media:credit role="author">Jesse Liberty</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Yet Another Podcast</media:description></channel>
+</rss><!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Object Caching 1922/2050 objects using disk
+
+ Served from: jesseliberty.com @ 2015-11-13 17:02:26 by W3 Total Cache -->

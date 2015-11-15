@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="http://simplecast.fm/podcasts/282/rss" title="MP3 Audio"/>
+    <title>The Bike Shed</title>
+    <generator>https://simplecast.fm</generator>
+    <description>On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
+
+For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</description>
+    <language>en</language>
+    <pubDate>Wed, 11 Nov 2015 00:01:00 -0500</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2015 10:03:42 -0500</lastBuildDate>
+    <link>http://bikeshed.fm</link>
+    <image>
+      <url>http://simplecast-media.s3.amazonaws.com/podcast/image/282/1433513863-artwork.jpg</url>
+      <title>The Bike Shed</title>
+      <link>http://bikeshed.fm</link>
+    </image>
+    <itunes:author>thoughtbot</itunes:author>
+    <itunes:image href="http://simplecast-media.s3.amazonaws.com/podcast/image/282/1433513863-artwork.jpg"/>
+    <itunes:summary>On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
+
+For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</itunes:summary>
+    <itunes:subtitle>On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>web development, ruby, javascript, rails</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>thoughtbot</itunes:name>
+      <itunes:email>hosts@bikeshed.fm</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>39: Okay with Instability (with Yehuda Katz)</title>
+      <guid isPermaLink="false">ed9aad07-e9cf-4564-9eee-1bea588d0cf2</guid>
+      <link>http://bikeshed.fm/39</link>
+      <description>We talk with Yehuda Katz about how much risk is right for you and your app, the sharp tools of high level abstractions, and how our statistical intuition leads us astray on web performance.
+</description>
+      <content:encoded>
+        <![CDATA[<p>We talk with Yehuda Katz about how much risk is right for you and your app, the sharp tools of high level abstractions, and how our statistical intuition leads us astray on web performance.</p>
+
+<ul>
+<li><a href="https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline">Remove The Stress, Pick a Deadline</a></li>
+<li><a href="https://www.youtube.com/watch?v=9LfmrkyP81M">Writing Software by DHH</a></li>
+<li><a href="http://skylight.io">Skylight</a></li>
+<li><a href="http://blog.skylight.io/the-log-normal-reality/">The Log Normal Reality</a> - On how our statistical intuition leads us astray.</li>
+<li><a href="https://twitter.com/wycats">Yehuda on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 11 Nov 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/19968.mp3" length="48380788" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/19968/1447254216-artwork.jpg"/>
+      <itunes:duration>01:07:10</itunes:duration>
+      <itunes:summary>We talk with Yehuda Katz about how much risk is right for you and your app, the sharp tools of high level abstractions, and how our statistical intuition leads us astray on web performance.
+</itunes:summary>
+      <itunes:subtitle>We talk with Yehuda Katz about how much risk is right for you and your app, the sharp tools of high level abstractions, and how our statistical intuition leads us astray on web performance.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>38: Ugh, Forms</title>
+      <guid isPermaLink="false">995cd679-4dcd-4c96-b8ef-de2123de48a3</guid>
+      <link>http://bikeshed.fm/38</link>
+      <description>Laila and Derek discuss how they have handled forms with complex validation requirements and how to make these forms have a smooth user experience.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Laila and Derek discuss how they have handled forms with complex validation requirements and how to make these forms have a smooth user experience.</p>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation">HTML Form Validations</a></li>
+<li><a href="http://caniuse.com/#search=validation">HTML5 Validation Browser Support</a></li>
+<li><a href="http://parsleyjs.org">Parsely JS</a></li>
+<li><a href="https://github.com/DavyJonesLocker/client_side_validations">Client Side Validations</a></li>
+<li><a href="http://simple-form.plataformatec.com.br">SimpleForm</a></li>
+<li><a href="http://conversionxl.com/form-accessibility/">7 Ways Form Accessibility Can Boost Conversions</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 03 Nov 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/19487.mp3" length="29217464" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/19487/1446500573-artwork.jpg"/>
+      <itunes:duration>00:40:33</itunes:duration>
+      <itunes:summary>Laila and Derek discuss how they have handled forms with complex validation requirements and how to make these forms have a smooth user experience.
+</itunes:summary>
+      <itunes:subtitle>Laila and Derek discuss how they have handled forms with complex validation requirements and how to make these forms have a smooth user experience.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>37: The Web is Faster Without Garbage</title>
+      <guid isPermaLink="false">00e1c032-2e2b-4c4f-836d-484d49124efd</guid>
+      <link>http://bikeshed.fm/37</link>
+      <description>Begun, the ad block wars have. Derek debugs an issue that arises from iOS ad blocking and wonders if analytics will move back to the server side. Sean fills us in on how dirty checking works in ActiveRecord and how he's making it faster and better in Rails 5.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Begun, the ad block wars have. Derek debugs an issue that arises from iOS ad blocking and wonders if analytics will move back to the server side. Sean fills us in on how dirty checking works in ActiveRecord and how he's making it faster and better in Rails 5.</p>
+
+<ul>
+<li><a href="https://pbs.twimg.com/media/CQ9YJJ4U8AAscMz.jpg">Sean and his wife in a hot air balloon</a></li>
+<li><a href="http://www.loopinsight.com/2015/09/16/a-list-of-content-blockers-for-ios-9/">iOS 9 Content Blockers</a></li>
+<li><a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">The Cost of Mobile Ads on 50 News Websites</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Do_Not_Track">Do No Track</a> HTTP Header</li>
+<li><a href="http://api.rubyonrails.org/classes/ActiveModel/Dirty.html">ActiveModel Dirty API</a></li>
+<li><a href="https://github.com/rails/rails/blob/master/activerecord/lib/active_record/attribute_methods/dirty.rb">ActiveRecord Dirty</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 29 Oct 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/19300.mp3" length="31884775" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/19300/1446064903-artwork.jpg"/>
+      <itunes:duration>00:44:15</itunes:duration>
+      <itunes:summary>Begun, the ad block wars have. Derek debugs an issue that arises from iOS ad blocking and wonders if analytics will move back to the server side. Sean fills us in on how dirty checking works in ActiveRecord and how he's making it faster and better in Rails 5.
+</itunes:summary>
+      <itunes:subtitle>Begun, the ad block wars have. Derek debugs an issue that arises from iOS ad blocking and wonders if analytics will move back to the server side. Sean fills us in on how dirty checking works in ActiveRecord and how he's making it faster and better in Rail</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>36: Python Unchained</title>
+      <guid isPermaLink="false">f8d31edf-2dc0-4199-9d5d-bfce39f83c3f</guid>
+      <link>http://bikeshed.fm/36</link>
+      <description>Derek and Laila talk about learning Python and Django and discuss how thoughtbot adopts new languages, frameworks, and libraries. What factors influence adoption? How do we share what works and doesn't work?
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Laila talk about learning Python and Django and discuss how thoughtbot adopts new languages, frameworks, and libraries. What factors influence adoption? How do we share what works and doesn't work?</p>
+
+<ul>
+<li><a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">Writing your first Django app</a></li>
+<li><a href="https://docs.python.org/2/tutorial/index.html">The Python Tutorial</a></li>
+<li><a href="https://docs.djangoproject.com/en/1.8/topics/http/urls/">Django URLs</a></li>
+<li><a href="https://docs.djangoproject.com/en/1.8/topics/db/queries/#retrieving-specific-objects-with-filters">Django filters</a></li>
+<li><a href="http://learnyouahaskell.com">Learn You A Haskell For Great Good</a></li>
+<li><a href="http://www.seas.upenn.edu/~cis194/">CIS 194: Introduction to Haskell</a></li>
+<li><a href="http://twoscoopspress.org/products/two-scoops-of-django-1-8">Two Scoops of Django</a></li>
+<li><a href="https://gumroad.com/l/ruby-science">Ruby Science</a></li>
+<li><a href="https://github.com/thoughtbot/suspenders">Suspenders</a></li>
+<li><a href="https://playbook.thoughtbot.com/#research">thoughtbot's research board</a></li>
+<li><a href="https://robots.thoughtbot.com/validating-json-schemas-with-an-rspec-matcher">Validating Schemas with an RSpec Matcher</a></li>
+<li><a href="https://github.com/thoughtbot/json_matchers"><code>json_matchers</code></a></li>
+<li><a href="https://github.com/thoughtbot/scenic"><code>scenic</code></a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 15 Oct 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/18464.mp3" length="36102819" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/18464/1444855955-artwork.jpg"/>
+      <itunes:duration>00:50:06</itunes:duration>
+      <itunes:summary>Derek and Laila talk about learning Python and Django and discuss how thoughtbot adopts new languages, frameworks, and libraries. What factors influence adoption? How do we share what works and doesn't work?
+</itunes:summary>
+      <itunes:subtitle>Derek and Laila talk about learning Python and Django and discuss how thoughtbot adopts new languages, frameworks, and libraries. What factors influence adoption? How do we share what works and doesn't work?
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>35: GitHub Ate My Résumé</title>
+      <guid isPermaLink="false">eb16a137-f5b9-4465-abbb-8bf7fa6ec8c7</guid>
+      <link>http://bikeshed.fm/35</link>
+      <description>Sean and Derek explain why you should always use a personal email address in your Git configuration before they dive into Ruby exception handling, and potential MRI proc optimizations.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek explain why you should always use a personal email address in your Git configuration before they dive into Ruby exception handling, and potential MRI proc optimizations.</p>
+
+<ul>
+<li>Set your <a href="https://help.github.com/articles/setting-your-email-in-git/">Git email address</a> to an address you own "forever".</li>
+<li>Git <a href="https://git-scm.com/docs/git-shortlog#_mapping_authors"><code>.mailmap</code></a></li>
+<li><a href="https://thoughtbot.com/jobs">Jobs at thoughtbot</a></li>
+<li><a href="https://github.com/rest-client/rest-client">rest-client</a></li>
+<li>Ruby's <a href="http://ruby-doc.org/core-2.2.3/Kernel.html#method-i-raise"><code>Kernel#raise</code></a> documentation</li>
+<li>Ruby's <a href="http://ruby-doc.org/core-2.2.3/Exception.html#method-i-cause"><code>Exception#cause</code></a> documentation</li>
+<li><a href="https://github.com/rails/spring/blob/master/lib/spring/application.rb#L258-L275">Spring overrides <code>raise</code></a>, but feels uneasy about it.</li>
+<li><a href="http://exceptionalruby.com">Exceptional Ruby</a> by Avdi Grim.</li>
+<li><a href="http://ruby-doc.org/core-2.2.3/Proc.html#method-i-3D-3D-3D"><code>Proc#===</code></a> documentation.</li>
+<li><a href="http://www.upcase.com/coupons/podcast-oct">Upcase</a>: 50% Off Your First Month For Bike Shed Listeners!</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 07 Oct 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/18161.mp3" length="28975152" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/18161/1444229140-artwork.jpg"/>
+      <itunes:duration>00:40:12</itunes:duration>
+      <itunes:summary>Sean and Derek explain why you should always use a personal email address in your Git configuration before they dive into Ruby exception handling, and potential MRI proc optimizations.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek explain why you should always use a personal email address in your Git configuration before they dive into Ruby exception handling, and potential MRI proc optimizations.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>34: README.md</title>
+      <guid isPermaLink="false">3f20e045-13c3-4a99-8d23-53070234f524</guid>
+      <link>http://bikeshed.fm/34</link>
+      <description>Derek is joined by Laila Winner to discuss Neo4j, the importance of fantastic documentation, and the different types of documentation a project requires.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek is joined by Laila Winner to discuss Neo4j, the importance of fantastic documentation, and the different types of documentation a project requires.</p>
+
+<ul>
+<li><a href="http://plibmttbhgaty.com/">PLIBMTTBHGATY</a></li>
+<li><a href="http://neo4j.com/">Neo4j</a></li>
+<li><a href="http://stevelosh.com/blog/2013/09/teach-dont-tell/">Teach, Don't Tell</a></li>
+<li><a href="https://users.rust-lang.org/t/lets-talk-about-ecosystem-documentation/2791">Let's talk about ecosystem documentation</a> - Grading documentation of the top 40 crates in Rust.</li>
+<li><a href="https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md">FactoryGirl Getting Started</a></li>
+<li><a href="https://github.com/thoughtbot/clearance/blob/master/lib/clearance/sign_in_guard.rb#L4-L39">Clearance <code>SignInGuard</code> documentation</a></li>
+<li><a href="http://guides.rubyonrails.org/security.html">Rails Security Guide</a></li>
+<li><a href="https://thoughtbot.com/jobs">Jobs at thoughtbot</a></li>
+<li><a href="https://twitter.com/malandr1na">Laila on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 29 Sep 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/17866.mp3" length="27948409" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/17866/1443622862-artwork.jpg"/>
+      <itunes:duration>00:38:47</itunes:duration>
+      <itunes:summary>Derek is joined by Laila Winner to discuss Neo4j, the importance of fantastic documentation, and the different types of documentation a project requires.
+</itunes:summary>
+      <itunes:subtitle>Derek is joined by Laila Winner to discuss Neo4j, the importance of fantastic documentation, and the different types of documentation a project requires.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>33: Just Put it in a Module, Man</title>
+      <guid isPermaLink="false">9e592860-5916-4af6-85a4-6f32bdbd37bf</guid>
+      <link>http://bikeshed.fm/33</link>
+      <description>Sean and Derek take some listener questions, and dig into DRY.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek take some listener questions, and dig into DRY.</p>
+
+<ul>
+<li><a href="http://c2.com/cgi/wiki?DontRepeatYourself">DRY</a></li>
+<li><a href="http://c2.com/cgi/wiki?SingleResponsibilityPrinciple">Single Responsibility Principle (SRP)</a></li>
+<li><a href="https://github.com/josevalim/inherited_resources">Inherited Resources</a></li>
+<li><a href="https://www.youtube.com/watch?v=8bZh5LMaSmE">Sandi Mets - All The Little Things</a></li>
+<li>Sign up for <a href="http://www.sandimetz.com/">Sandi Metz's "Chainline" newsletter</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sunk_costs">Sunk cost fallacy</a></li>
+<li><a href="https://twitter.com/sarahmei/status/635822455337058304">"Inheritence is not for sharing code"</a></li>
+<li><a href="https://github.com/rails/rails/pull/21337">Eric Hayes' Rails PR</a></li>
+<li><a href="http://www.basketball-reference.com/players/b/birdla01.html">Larry Bird</a></li>
+</ul>
+
+
+<p>Thanks for sending us your questions and feedback. Got more? You can email us at <a href="mailto:hosts@bikeshed.fm">hosts@bikeshed.fm</a> or <a href="https://twitter.com/_bikeshed">tweet us</a>.</p>
+]]>
+      </content:encoded>
+      <pubDate>Tue, 22 Sep 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/17544.mp3" length="29098032" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/17544/1442950625-artwork.jpg"/>
+      <itunes:duration>00:40:23</itunes:duration>
+      <itunes:summary>Sean and Derek take some listener questions, and dig into DRY.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek take some listener questions, and dig into DRY.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>32: Bug For Bug Compatibility</title>
+      <guid isPermaLink="false">914ca847-10a0-4ba0-a3f3-94eac8bbeac0</guid>
+      <link>http://bikeshed.fm/32</link>
+      <description>Derek and Sean discuss Microsoft's interest in open source, improving the Rails development story on Windows, and Sean's progress implementing an ORM in Rust.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean discuss Microsoft's interest in open source, improving the Rails development story on Windows, and Sean's progress implementing an ORM in Rust.</p>
+
+<ul>
+<li><a href="http://daverupert.com/2015/08/developing-on-windows/">Developing on Windows</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Windows_PowerShell">PowerShell</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cygwin">Cygwin</a></li>
+<li><a href="http://stackoverflow.com/questions/985281/what-is-the-closest-thing-windows-has-to-fork">Does Windows <code>fork</code>?</a></li>
+<li><a href="https://dev.modern.ie/">Modern.ie</a></li>
+<li><a href="https://github.com/xdissent/ievms">ievms</a></li>
+<li><a href="http://blogs.msdn.com/b/askie/archive/2009/03/23/understanding-compatibility-modes-in-internet-explorer-8.aspx">Internet Explorer compatibility mode</a></li>
+<li><a href="http://postgis.net/">PostGIS</a></li>
+<li><a href="https://robots.thoughtbot.com/using-arel-to-compose-sql-queries">Using Arel to Compose SQL Queries</a></li>
+<li><a href="https://github.com/activerecord-hackery/ransack">Ransack</a></li>
+<li>Rust <a href="https://github.com/rust-lang/rfcs/pull/1210/">specialization</a></li>
+<li>Rust grapples with <a href="https://internals.rust-lang.org/t/orphan-rules/1322">orphan instances</a></li>
+<li><a href="https://github.com/sgrif/yaqb">Sean's in-progress Rust ORM</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 15 Sep 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/17282.mp3" length="36454251" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/17282/1442327616-artwork.jpg"/>
+      <itunes:duration>00:50:36</itunes:duration>
+      <itunes:summary>Derek and Sean discuss Microsoft's interest in open source, improving the Rails development story on Windows, and Sean's progress implementing an ORM in Rust.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean discuss Microsoft's interest in open source, improving the Rails development story on Windows, and Sean's progress implementing an ORM in Rust.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>31: Oxidizing an ORM</title>
+      <guid isPermaLink="false">fc041ad6-6bbf-4287-9c54-a1407b16ed83</guid>
+      <link>http://bikeshed.fm/31</link>
+      <description>Are provably correct queries of interest to you? Sean gives a rundown of what a Rusty ORM might be like to build.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Are provably correct queries of interest to you? Sean gives a rundown of what a Rusty ORM might be like to build.</p>
+
+<ul>
+<li><a href="http://doc.rust-lang.org/std/string/struct.String.html">String</a>, <a href="http://doc.rust-lang.org/std/str/index.html">str</a>, and <a href="http://doc.rust-lang.org/std/ffi/struct.CStr.html">CStr</a>.</li>
+<li>What's a <a href="http://www.miroslavkopecky.com/2014/08/design-patterns-with-scala-fundamental.html">marker trait</a>?</li>
+<li>Rust <a href="http://doc.rust-lang.org/book/macros.html">macros</a>.</li>
+<li>Rust <a href="https://doc.rust-lang.org/book/compiler-plugins.html">compiler plugins</a>.</li>
+<li><a href="http://www.merriam-webster.com/dictionary/hygienic">hy·gien·ic ˌhī-ˈjē-nik, -ˈje- also -jē-ˈe-nik</a></li>
+<li>Sean's <a href="https://gist.github.com/sgrif/5f44e911eb9be515bdfb">ORM query thoughts</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 08 Sep 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/17063.mp3" length="34869631" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/17063/1441896081-artwork.jpg"/>
+      <itunes:duration>00:48:24</itunes:duration>
+      <itunes:summary>Are provably correct queries of interest to you? Sean gives a rundown of what a Rusty ORM might be like to build.
+</itunes:summary>
+      <itunes:subtitle>Are provably correct queries of interest to you? Sean gives a rundown of what a Rusty ORM might be like to build.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>30: Just Go to Slash Wibble</title>
+      <guid isPermaLink="false">48931772-9af3-4952-81b6-a408758b0f83</guid>
+      <link>http://bikeshed.fm/30</link>
+      <description>Derek and Sean discuss hypothetical changes to Rails routing before turning their attention toward hunting memory bloat and the proposal that strings be frozen by default in Ruby 3.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean discuss hypothetical changes to Rails routing before turning their attention toward hunting memory bloat and the proposal that strings be frozen by default in Ruby 3.</p>
+
+<ul>
+<li>The Bike Shed listeners <a href="https://github.com/rails/rails/pull/21135">make <code>disable_with</code> default</a> on <code>submit_tag</code></li>
+<li>Derek <a href="https://gist.github.com/derekprior/3015a311182a34e0aa3a">tries to explain the trouble with unrestricted routes</a> to a client.</li>
+<li>The trouble with <a href="http://stackoverflow.com/questions/3736759/ruby-on-rails-singular-resource-and-form-for">singular resources and <code>form_for</code></a></li>
+<li>Use <a href="https://github.com/schneems/derailed_benchmarks"><code>derailed benchmarks</code></a> to find memory leaks and bloat.</li>
+<li><a href="https://blog.engineyard.com/2009/thats-not-a-memory-leak-its-bloat">ActiveRecord memory bloat</a></li>
+<li>Matz: <a href="https://twitter.com/yukihiro_matz/status/634386185507311616">String literals frozen by default in Ruby 3</a></li>
+<li>The <a href="https://bugs.ruby-lang.org/issues/11473">issue for discussion</a> because Twitter is terrible for these things.</li>
+<li><a href="https://speakerdeck.com/sferik/symbols">The trouble with symbols</a></li>
+<li><a href="https://robots.thoughtbot.com/ruby-2-keyword-arguments#required-keyword-arguments">Required keyword argument syntax</a> is ugly.</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 01 Sep 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/16292.mp3" length="33454812" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/16292/1441211092-artwork.jpg"/>
+      <itunes:duration>00:46:26</itunes:duration>
+      <itunes:summary>Derek and Sean discuss hypothetical changes to Rails routing before turning their attention toward hunting memory bloat and the proposal that strings be frozen by default in Ruby 3.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean discuss hypothetical changes to Rails routing before turning their attention toward hunting memory bloat and the proposal that strings be frozen by default in Ruby 3.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>29: Django Unchained (Mike Burns)</title>
+      <guid isPermaLink="false">753d2e1e-abad-4493-ad46-7829be12c61e</guid>
+      <link>http://bikeshed.fm/29</link>
+      <description>Sean is joined by Mike Burns to discuss what Ruby and Rails can learn from Python and Django.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean is joined by Mike Burns to discuss what Ruby and Rails can learn from Python and Django.</p>
+
+<ul>
+<li><a href="https://twitter.com/mikeburns">Mike Burns</a></li>
+<li>Python's <a href="https://docs.python.org/2/library/functions.html#map"><code>map</code></a></li>
+<li><a href="https://www.djangoproject.com/">Django</a></li>
+<li>George's <a href="http://confreaks.tv/videos/railsconf2013-sleeping-with-the-enemy">Sleeping with the Enemy</a> talk from RailsConf 2013</li>
+<li><a href="http://lwn.net/Articles/590299/">A False Midnight</a></li>
+<li><a href="https://docs.python.org/2/library/doctest.html">Python doctest</a></li>
+<li><a href="https://wiki.python.org/moin/PythonDecoratorLibrary">Python Decorator Library</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 25 Aug 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/16052.mp3" length="16895792" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/16052/1440529016-artwork.jpg"/>
+      <itunes:duration>00:23:26</itunes:duration>
+      <itunes:summary>Sean is joined by Mike Burns to discuss what Ruby and Rails can learn from Python and Django.
+</itunes:summary>
+      <itunes:subtitle>Sean is joined by Mike Burns to discuss what Ruby and Rails can learn from Python and Django.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>28: Minisode 0.1.1</title>
+      <guid isPermaLink="false">55e3d20f-dda1-4b35-b4fb-cb2da10bae91</guid>
+      <link>http://bikeshed.fm/28</link>
+      <description>Did you know Rails has no integration test suite? What could go wrong?
+</description>
+      <content:encoded>
+        <![CDATA[<p>Did you know Rails has no integration test suite? What could go wrong?</p>
+
+<ul>
+<li><a href="https://github.com/rails/rails/pull/14384"><code>ActionController::Parameters</code> no longer inherits from <code>Hash</code></a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Aug 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/15484.mp3" length="6710231" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/15484/1439908955-artwork.jpg"/>
+      <itunes:duration>00:09:17</itunes:duration>
+      <itunes:summary>Did you know Rails has no integration test suite? What could go wrong?
+</itunes:summary>
+      <itunes:subtitle>Did you know Rails has no integration test suite? What could go wrong?
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>27: I've Got 29.97 Problems (and codecs are some)</title>
+      <guid isPermaLink="false">926f910c-9ead-40d7-a222-d31df877e898</guid>
+      <link>http://bikeshed.fm/27</link>
+      <description>Sean and Derek circle back on HTTP before diving into unsafe rust, and finally the merits of a small standard library.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek circle back on HTTP before diving into unsafe rust, and finally the merits of a small standard library.</p>
+
+<ul>
+<li><a href="https://www.mnot.net/blog/2015/06/15/http2_implementation_status">HTTP2 implementation status</a></li>
+<li><a href="http://ffmpeg.org/">libffmpeg</a></li>
+<li><a href="https://doc.rust-lang.org/nightly/nomicon/">unsafe rust</a></li>
+<li><a href="https://internals.rust-lang.org/t/uninitialized-memory/1652">uninitialized memory in Rust</a></li>
+<li><a href="https://users.rust-lang.org/t/stdx-the-missing-batteries-of-rus">stdx - the missing batteries of Rust</a></li>
+<li><a href="https://github.com/npm/npm/releases/tag/v3.0.0">NPM 3.0.0</a></li>
+<li><a href="https://docs.npmjs.com/cli/shrinkwrap">NPM Shrinkwrap</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 11 Aug 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/15290.mp3" length="31661585" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/15290/1439413304-artwork.jpg"/>
+      <itunes:duration>00:43:56</itunes:duration>
+      <itunes:summary>Sean and Derek circle back on HTTP before diving into unsafe rust, and finally the merits of a small standard library.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek circle back on HTTP before diving into unsafe rust, and finally the merits of a small standard library.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>26: My Cache is in the Cloud</title>
+      <guid isPermaLink="false">14d66ef5-302f-4d1e-85ac-31ff93345f10</guid>
+      <link>http://bikeshed.fm/26</link>
+      <description>This week, Sean and Derek discuss performance and inheriting code. In a stroke of complete madness, Derek decides that turbolinks isn't that bad.
+</description>
+      <content:encoded>
+        <![CDATA[<p>This week, Sean and Derek discuss performance and inheriting code. In a stroke of complete madness, Derek decides that turbolinks isn't that bad.</p>
+
+<ul>
+<li><a href="https://github.com/spree/spree">Spree</a></li>
+<li><a href="http://www.browserscope.org/?category=network&amp;v=top">Browserscope network profile details</a></li>
+<li><a href="https://www.mnot.net/blog/2014/06/07/rfc2616_is_dead">RFC2616 is Dead</a></li>
+<li><a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html#sec8.1.4">Original HTTP/1.1 connection limit</a></li>
+<li><a href="http://tools.ietf.org/html/rfc7230#section-6.4">Updated HTTP/1.1 connection specification removes the specific limit</a></li>
+<li><a href="https://github.com/panicsteve/cloud-to-butt">cloud-to-butt</a></li>
+<li><a href="https://github.com/rails/turbolinks">turbolinks</a></li>
+<li><a href="https://github.com/kossnocorp/jquery.turbolinks">jquery.turbolinks</a></li>
+<li><a href="http://caniuse.com/#feat=script-async">async script loading</a></li>
+<li>Disabling form buttons with <a href="https://robots.thoughtbot.com/a-tour-of-rails-jquery-ujs#disabling-links-and-buttons"><code>disable_with</code></a></li>
+<li><a href="http://www.paulirish.com/2009/fighting-the-font-face-fout/">FOUT: flash of unstyled text</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 04 Aug 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/14861.mp3" length="24490659" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/14861/1438703563-artwork.jpg"/>
+      <itunes:duration>00:33:59</itunes:duration>
+      <itunes:summary>This week, Sean and Derek discuss performance and inheriting code. In a stroke of complete madness, Derek decides that turbolinks isn't that bad.
+</itunes:summary>
+      <itunes:subtitle>This week, Sean and Derek discuss performance and inheriting code. In a stroke of complete madness, Derek decides that turbolinks isn't that bad.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>25: Throwing the Schema Out With the SOAPy Bathwater (Gordon Fontenot)</title>
+      <guid isPermaLink="false">1ba0a4b6-02af-4eec-be7a-c6848638d68f</guid>
+      <link>http://bikeshed.fm/25</link>
+      <description>Derek is joined by Gordon Fontenot for a discussion of the JSON API specification, problems consuming it from Swift, and the future of functional programming in Swift.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek is joined by Gordon Fontenot for a discussion of the JSON API specification, problems consuming it from Swift, and the future of functional programming in Swift.</p>
+
+<p>This episode of The Bike Shed is sponsored by:</p>
+
+<ul>
+<li><a href="http://www.codeschool.com/thebikeshed/?utm_source=test&amp;utm_medium=podcast&amp;utm_content=homepage&amp;utm_campaign=the%20bike%20shed">Code School</a>: Entertaining online learning for existing and aspiring developers. Leave a review on our <a href="https://itunes.apple.com/us/podcast/the-bike-shed/id935763119?mt=2">iTunes page</a> to be entered to win a free month of Code School.</li>
+</ul>
+
+
+<p>Links / Show Notes</p>
+
+<ul>
+<li><a href="http://jsonapi.org/">JSON API</a></li>
+<li><a href="https://github.com/thoughtbot/argo">Argo</a>: Functional JSON parsing in Swift</li>
+<li><a href="https://robots.thoughtbot.com/functional-swift-for-dealing-with-optional-values">Swift Optionals</a></li>
+<li><a href="https://github.com/wvteijlingen/spine">Spine</a>: A Swift JSON API client</li>
+<li><a href="https://github.com/thoughtbot/curry">Curry</a>: Swift framework for function currying.</li>
+<li><a href="http://stateless.co/hal_specification.html">HAL</a>: Hypertext Application Language</li>
+<li><a href="https://en.wikipedia.org/wiki/SOAP">SOAP</a></li>
+<li><a href="http://json-schema.org/">JSON Schema</a></li>
+<li><a href="https://github.com/thoughtbot/runes">Runes</a></li>
+<li><a href="http://buildphase.fm/">Build Phase</a>- For more of Gordon's insight into baseball and iOS development</li>
+<li><a href="https://twitter.com/GFontenot">Gordon on Twitter</a></li>
+<li><a href="http://orteil.dashnet.org/cookieclicker/">Cookie Clicker</a></li>
+<li><a href="https://swarmsim.github.io/#/">Swarm Sim</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 28 Jul 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/14704.mp3" length="36876148" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/14704/1438094820-artwork.jpg"/>
+      <itunes:duration>00:51:11</itunes:duration>
+      <itunes:summary>Derek is joined by Gordon Fontenot for a discussion of the JSON API specification, problems consuming it from Swift, and the future of functional programming in Swift.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.
+</itunes:summary>
+      <itunes:subtitle>Derek is joined by Gordon Fontenot for a discussion of the JSON API specification, problems consuming it from Swift, and the future of functional programming in Swift.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learnin</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>24: You Look Good in a Lab Coat (Richard Schneeman)</title>
+      <guid isPermaLink="false">aefb2e68-d349-42dc-a9e3-68edd2341bf9</guid>
+      <link>http://bikeshed.fm/24</link>
+      <description>Richard Schneeman joins The Bike Shed to discuss ruby memory use, horizontal scaling, and tackling open source issues big and small.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Richard Schneeman joins The Bike Shed to discuss ruby memory use, horizontal scaling, and tackling open source issues big and small.</p>
+
+<p>This episode of The Bike Shed is sponsored by:</p>
+
+<ul>
+<li><a href="http://www.codeschool.com/thebikeshed/?utm_source=test&amp;utm_medium=podcast&amp;utm_content=homepage&amp;utm_campaign=the%20bike%20shed">Code School</a>: Entertaining online learning for existing and aspiring developers. Leave a review on our <a href="https://itunes.apple.com/us/podcast/the-bike-shed/id935763119?mt=2">iTunes page</a> to be entered to win a free month of Code School.</li>
+</ul>
+
+
+<p>Links &amp; Show Notes</p>
+
+<ul>
+<li><a href="http://confreaks.tv/videos/railsconf2015-speed-science">Speed Science</a> - Richard's Railsconf 2015 talk</li>
+<li><a href="https://github.com/mikel/mail/issues/812"><code>mail</code> gem memory use</a></li>
+<li><a href="https://github.com/mime-types/ruby-mime-types/issues/94"><code>mime-types</code> memory use</a></li>
+<li><a href="https://github.com/rails/rails/pull/15840">Deprecate <code>*_path</code> methods in mailers</a></li>
+<li><a href="https://xkcd.com/1172/">XKCD: Evey change breaks someone's workflow</a></li>
+<li><a href="https://www.quora.com/The-Hitchhikers-Guide-to-the-Galaxy-creative-franchise/Why-does-six-times-nine-equal-forty-two">Why does 6 times 9 equal 42?</a></li>
+<li><a href="http://words.steveklabnik.com/the-language-strangeness-budget">The Language Strangeness Budget</a></li>
+<li><a href="http://codetriage.com">Code Triage</a></li>
+<li><a href="http://docsdoctor.org">Docs Doctor</a></li>
+<li><a href="https://rubytogether.org/">Ruby Together</a></li>
+<li><a href="http://keeprubyweird.com/">Keep Ruby Weird</a></li>
+<li><a href="https://twitter.com/schneems">Richard on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 21 Jul 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/14292.mp3" length="29588298" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/14292/1437439316-artwork.jpg"/>
+      <itunes:duration>00:41:04</itunes:duration>
+      <itunes:summary>Richard Schneeman joins The Bike Shed to discuss ruby memory use, horizontal scaling, and tackling open source issues big and small.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.
+</itunes:summary>
+      <itunes:subtitle>Richard Schneeman joins The Bike Shed to discuss ruby memory use, horizontal scaling, and tackling open source issues big and small.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring develop</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>23: Why Did They Call it Rust?!</title>
+      <guid isPermaLink="false">5a2a7d64-7eb1-4954-b028-7b58a3533d1d</guid>
+      <link>http://bikeshed.fm/23</link>
+      <description>Sean gives Derek a tour of Rust, a new systems language from Mozilla.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean gives Derek a tour of Rust, a new systems language from Mozilla.</p>
+
+<p>This episode of The Bike Shed is sponsored by:</p>
+
+<ul>
+<li><p><a href="http://www.codeschool.com/thebikeshed/?utm_source=test&amp;utm_medium=podcast&amp;utm_content=homepage&amp;utm_campaign=the%20bike%20shed">Code School</a>: Entertaining online learning for existing and aspiring developers. Leave a review on our <a href="https://itunes.apple.com/us/podcast/the-bike-shed/id935763119?mt=2">iTunes page</a> to be entered to win a free month of Code School.</p></li>
+<li><p><a href="http://rust-lang.org">Rust</a></p></li>
+<li><a href="http://doc.rust-lang.org/book/">The Rust Programming Language</a></li>
+<li><a href="https://air.mozilla.org/guaranteeing-memory-safety-in-rust/">Guaranteeing Memory Safety in Rust</a></li>
+<li><a href="http://blog.rust-lang.org/2015/05/11/traits.html">Rust traits</a></li>
+<li><a href="http://doc.crates.io/">Cargo</a></li>
+<li><a href="http://doc.rust-lang.org/std/macro.include_str!.html"><code>include_str!</code></a></li>
+<li><a href="http://doc.rust-lang.org/stable/book/match.html">Pattern matching in Rust</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 14 Jul 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/14116.mp3" length="31093578" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/14116/1436897502-artwork.jpg"/>
+      <itunes:duration>00:43:09</itunes:duration>
+      <itunes:summary>Sean gives Derek a tour of Rust, a new systems language from Mozilla.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.
+</itunes:summary>
+      <itunes:subtitle>Sean gives Derek a tour of Rust, a new systems language from Mozilla.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a f</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>22: No Capes! (Eileen Uchitelle)</title>
+      <guid isPermaLink="false">9790b228-252b-43cd-b719-047d535b7ba9</guid>
+      <link>http://bikeshed.fm/22</link>
+      <description>Eileen Uchitelle joins the show to discuss performance improvements to ActiveRecord, speeding up integration tests, and contributing to or running open source projects.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Eileen Uchitelle joins the show to discuss performance improvements to ActiveRecord, speeding up integration tests, and contributing to or running open source projects.</p>
+
+<p>This episode of The Bike Shed is sponsored by:</p>
+
+<ul>
+<li><a href="http://www.codeschool.com/thebikeshed/?utm_source=test&amp;utm_medium=podcast&amp;utm_content=homepage&amp;utm_campaign=the%20bike%20shed">Code School</a>: Entertaining online learning for existing and aspiring developers. Leave a review on our <a href="https://itunes.apple.com/us/podcast/the-bike-shed/id935763119">iTunes page</a> to be entered to win a free month of Code School.</li>
+</ul>
+
+
+<p>Links &amp; Show Notes</p>
+
+<ul>
+<li><a href="http://i1190.photobucket.com/albums/z457/selene0789/NoCapes_zps82c1bcc0.jpg">No Capes!</a></li>
+<li><a href="https://www.youtube.com/watch?v=lOpVcqiAIiI">CRUD! The Consequences of Not Understanding How ActiveRecord</a> - Eileen's Midwest Ruby Talk</li>
+<li><a href="https://github.com/rails/rails/commit/e247f3257927e008ed89944249ac38a8838f719f">fix delete_all to remove records directly</a></li>
+<li><a href="http://confreaks.tv/videos/goruco2015-how-to-performance">How To Performance</a> - Eileen's talk from GORUCO</li>
+<li><a href="http://www.confreaks.tv/videos/railsconf2015-breaking-down-the-barrier-demystifying-contributing-to-rails">Breaking Down the Barrier: Demystifying Contributing to Rails</a> - Eileen's lab from RailsConf</li>
+<li><a href="https://twitter.com/eileencodes">Eileen on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 07 Jul 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/13888.mp3" length="27528491" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/13888/1436279627-artwork.jpg"/>
+      <itunes:duration>00:38:12</itunes:duration>
+      <itunes:summary>Eileen Uchitelle joins the show to discuss performance improvements to ActiveRecord, speeding up integration tests, and contributing to or running open source projects.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learning for existing and aspiring developers. Leave a review on our iTunes page to be entered to win a free month of Code School.
+</itunes:summary>
+      <itunes:subtitle>Eileen Uchitelle joins the show to discuss performance improvements to ActiveRecord, speeding up integration tests, and contributing to or running open source projects.
+
+This episode of The Bike Shed is sponsored by Code School. Entertaining online learni</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>21: The "Best" Canada (Godfrey Chan)</title>
+      <guid isPermaLink="false">14ff89fa-e996-47d1-832b-fe93aa8db851</guid>
+      <link>http://bikeshed.fm/21</link>
+      <description>Rails Core Team member Godfrey Chan joins the show to demystify rails bug hunting and contributing.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Rails Core Team member Godfrey Chan joins the show to demystify rails bug hunting and contributing.</p>
+
+<ul>
+<li>Godfrey's RailsConf talk: <a href="http://confreaks.tv/videos/railsconf2015-prying-open-the-black-box">Prying Open The Black Box</a></li>
+<li><a href="https://youtu.be/cp7_u0kcQRo">The Waltons Say Goodnight</a></li>
+<li><a href="https://github.com/vanruby/canada">Canada gem</a></li>
+<li><a href="http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#create-an-executable-test-case">Rails Bug Templates</a></li>
+<li><a href="http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html">Rails Contributing Guide</a></li>
+<li><a href="http://blog.travis-ci.com/2014-12-17-faster-builds-with-container-based-infrastructure/">Travis Container Infrastructure</a></li>
+<li><a href="http://vanruby.org/">Vancouver Ruby Group</a></li>
+<li><a href="https://twitter.com/chancancode">Godfrey on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 30 Jun 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/13549.mp3" length="17043880" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/13549/1435615052-artwork.jpg"/>
+      <itunes:duration>00:23:38</itunes:duration>
+      <itunes:summary>Rails Core Team member Godfrey Chan joins the show to demystify rails bug hunting and contributing.
+</itunes:summary>
+      <itunes:subtitle>Rails Core Team member Godfrey Chan joins the show to demystify rails bug hunting and contributing.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>20: Intentionally Excruciatingly Painful</title>
+      <guid isPermaLink="false">772c3efd-c4ad-4eee-a861-d1e29e3b4fb2</guid>
+      <link>http://bikeshed.fm/20</link>
+      <description>We're joined by Josh Clayton to discuss our differing strategies on testing view behavior, strategies for dealing with brittle feature specs, and what types of tests each of us favor.
+</description>
+      <content:encoded>
+        <![CDATA[<p>We're joined by Josh Clayton to discuss our differing strategies on testing view behavior, strategies for dealing with brittle feature specs, and what types of tests each of us favor.</p>
+
+<ul>
+<li><a href="https://relishapp.com/rspec/rspec-mocks/v/3-3/docs/verifying-doubles/partial-doubles">Verifying partial doubles</a></li>
+<li><a href="https://github.com/hashrocket/decent_exposure">Decent exposure</a></li>
+<li><a href="https://github.com/MIT-IR/abet/commit/7443270b3f52364d7899cefd95f42735f50e79f1">Defining helpers directly on the view in view specs</a></li>
+<li><a href="https://robots.thoughtbot.com/don-t-stub-the-system-under-test">Don't stub the system under test</a></li>
+<li><a href="https://robots.thoughtbot.com/faster-tests-sign-in-through-the-back-door">Clearance Back Door</a></li>
+<li>Automatic form filling driven by i18n and Factory Girl with <a href="https://github.com/thoughtbot/formulaic">Formulaic</a></li>
+<li><a href="https://robots.thoughtbot.com/mystery-guest">Mystery guests</a></li>
+<li>Using data attributes to <a href="https://robots.thoughtbot.com/decoupling-data-from-presentation">decouple data from presentation</a></li>
+<li><a href="http://martinfowler.com/bliki/TestPyramid.html">Testing pyramid</a></li>
+<li><a href="https://github.com/thoughtbot/shoulda-matchers">Shoulda Matchers</a></li>
+<li><a href="https://github.com/trptcolin/consistency_fail">Consistency Fail</a></li>
+<li><a href="https://twitter.com/joshuaclayton">Josh Clayton on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 23 Jun 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/13282.mp3" length="29572625" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/13282/1435066882-artwork.jpg"/>
+      <itunes:duration>00:41:02</itunes:duration>
+      <itunes:summary>We're joined by Josh Clayton to discuss our differing strategies on testing view behavior, strategies for dealing with brittle feature specs, and what types of tests each of us favor.
+</itunes:summary>
+      <itunes:subtitle>We're joined by Josh Clayton to discuss our differing strategies on testing view behavior, strategies for dealing with brittle feature specs, and what types of tests each of us favor.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>19: The Oncoming Storm (Sam Phippen)</title>
+      <guid isPermaLink="false">8cca25f0-f850-4b7a-a10b-c9b54f12199e</guid>
+      <link>http://bikeshed.fm/19</link>
+      <description>Derek and Sean are joined by Sam Phippen from the RSpec core team to discuss RSpec mocks, testing strategies, and minitest.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean are joined by Sam Phippen from the RSpec core team to discuss RSpec mocks, testing strategies, and minitest.</p>
+
+<ul>
+<li>RSpec 3 adds <a href="http://rspec.info/blog/2014/01/new-in-rspec-3-composable-matchers/">composable matchers</a></li>
+<li><a href="https://relishapp.com/rspec/rspec-mocks/docs/basics/spies">Spies</a> were added to RSpec in 2.14</li>
+<li>Using <a href="https://relishapp.com/rspec/rspec-mocks/docs/working-with-legacy-code/any-instance"><code>any_instance</code></a> to test legacy code</li>
+<li><a href="https://github.com/seattlerb/minitest">minitest</a></li>
+<li>RSpec's <a href="https://www.relishapp.com/rspec/rspec-mocks/docs/mutating-constants"><code>stub_const</code></a> method.</li>
+<li><a href="https://robots.thoughtbot.com/don-t-stub-the-system-under-test">Don't Stub the System Under Test</a></li>
+<li><code>assigns</code> and <code>assert_template</code> are <a href="https://github.com/rails/rails/issues/18950">deprecated in Rails 5</a></li>
+<li>Sam's RailsConf talk: <a href="https://www.youtube.com/watch?v=SOi_1reKn8M">Understanding Rails Test Types in RSpec</a></li>
+<li><a href="http://funandplausible.solutions/">Fun &amp; Plausible Solutions</a></li>
+<li><a href="https://twitter.com/samphippen">Sam on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 16 Jun 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/13093.mp3" length="21039675" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/13093/1434465524-artwork.jpg"/>
+      <itunes:duration>00:29:11</itunes:duration>
+      <itunes:summary>Derek and Sean are joined by Sam Phippen from the RSpec core team to discuss RSpec mocks, testing strategies, and minitest.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean are joined by Sam Phippen from the RSpec core team to discuss RSpec mocks, testing strategies, and minitest.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>18: This Podcast is Rigged (But Not Animated)</title>
+      <guid isPermaLink="false">aba0ae0d-49a7-4073-aef5-14bc60642eda</guid>
+      <link>http://bikeshed.fm/18</link>
+      <description>Sean and Derek discuss rails asset dependencies before diving into an overview of animation techniques and C extensions.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek discuss rails asset dependencies before diving into an overview of animation techniques and C extensions.</p>
+
+<ul>
+<li><a href="https://rails-assets.org/">Rails Assets</a></li>
+<li><a href="http://www.prioritized.net/blog/gemify-assets-for-rails/">Gemify Assets for Rails</a></li>
+<li><a href="https://bibwild.wordpress.com/2014/10/02/non-digested-asset-names-in-rails-4-your-options/">Non-digested asset names in Rails 4</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Skeletal_animation">Animation Rigging</a></li>
+<li><a href="https://www.unrealengine.com/what-is-unreal-engine-4">Unreal Engine</a></li>
+<li><a href="https://unity3d.com/">Unity</a></li>
+<li><a href="http://www.reddit.com/r/starcitizen/comments/1rl7bq/could_somebody_please_explain_physical_based/">Physically Based Rendering</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Fast_inverse_square_root">The Carmack Constant or Fast Inverse Square Root</a></li>
+<li><a href="http://blog.skylight.io/bending-the-curve-writing-safe-fast-native-gems-with-rust/">Bending the Curve: Writing Safe &amp; Fast Native Gems With Rust</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 09 Jun 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/12940.mp3" length="28273608" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/12940/1433871825-artwork.jpg"/>
+      <itunes:duration>00:39:14</itunes:duration>
+      <itunes:summary>Sean and Derek discuss rails asset dependencies before diving into an overview of animation techniques and C extensions.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek discuss rails asset dependencies before diving into an overview of animation techniques and C extensions.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>17: Railing About Performance (Sam Saffron)</title>
+      <guid isPermaLink="false">b2b10ebb-804f-4ea9-8eae-3ee0d288e2a0</guid>
+      <link>http://bikeshed.fm/17</link>
+      <description>We chat with Sam Saffron about performance, benchmarking, and database migration strategies.
+</description>
+      <content:encoded>
+        <![CDATA[<p>We chat with Sam Saffron about performance, benchmarking, and database migration strategies.</p>
+
+<ul>
+<li><a href="http://samsaffron.com/">Sam Saffron</a></li>
+<li><a href="http://www.discourse.org/">Discourse</a></li>
+<li><a href="https://github.com/MiniProfiler/rack-mini-profiler">rack-mini-profiler</a></li>
+<li><a href="https://github.com/tmm1/stackprof">stackprof</a></li>
+<li><a href="https://rubybench.org/">RubyBench</a></li>
+<li><a href="http://api.rubyonrails.org/classes/ActiveRecord/Scoping/Default/ClassMethods.html#method-i-default_scope"><code>default_scope</code></a></li>
+<li><a href="http://en.wikipedia.org/wiki/View_%28SQL%29">SQL Views</a></li>
+<li><a href="https://github.com/thoughtbot/scenic">Scenic</a> - Database view support in Rails</li>
+<li><a href="http://grafana.org/">Grafana</a></li>
+<li><a href="https://www.docker.com/">Docker</a></li>
+<li><a href="http://guides.rubyonrails.org/v3.2.8/migrations.html#types-of-schema-dumps">Types of Rails schema dumps</a></li>
+<li><a href="https://github.com/SamSaffron/message_bus">Message Bus</a></li>
+<li><a href="http://logster.info">Logster</a></li>
+</ul>
+
+
+<p>Feedback? You can <a href="https://twitter.com/_bikeshed">tweet us</a>, <a href="mailto:hosts@bikeshed.fm">email us</a>, or leave a <a href="http://bikeshed.fm/17">comment on our website</a>.</p>
+]]>
+      </content:encoded>
+      <pubDate>Tue, 02 Jun 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/12743.mp3" length="33696093" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/12743/1433217754-artwork.jpg"/>
+      <itunes:duration>00:46:46</itunes:duration>
+      <itunes:summary>We chat with Sam Saffron about performance, benchmarking, and database migration strategies.
+</itunes:summary>
+      <itunes:subtitle>We chat with Sam Saffron about performance, benchmarking, and database migration strategies.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>16: Wizards Are Hard to Kill</title>
+      <guid isPermaLink="false">204afc53-03c3-447f-95ec-4d27998f8144</guid>
+      <link>http://bikeshed.fm/16</link>
+      <description>Grab Bag! Derek and Sean talk about math, augmented reality, RailsConf wrap up, Minimum Viable Products, Accessibility...
+</description>
+      <content:encoded>
+        <![CDATA[<p>Grab Bag! Derek and Sean talk about math, augmented reality, RailsConf wrap up, Minimum Viable Products, Accessibility...</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Homography_%28computer_vision%29">Homography</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Isomorphism">Isomorphism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Homomorphism">Homomorphism</a></li>
+<li><a href="https://www.youtube.com/watch?v=KokSHK_MV-U">Sean's Augmented Reality PoC</a></li>
+<li><a href="https://kerbalspaceprogram.com/en/">Kerbal Space Program</a></li>
+<li>Derek's talk on <a href="http://confreaks.tv/videos/railsconf2015-implementing-a-strong-code-review-culture">Cultivating Code Review Culture</a></li>
+<li>Sean's talk on <a href="http://confreaks.tv/videos/railsconf2015-designing-a-great-ruby-api-how-we-re-simplifying-rails-5">Designing a Great Ruby API</a></li>
+<li><a href="http://edgeapi.rubyonrails.org/classes/ActiveRecord/Attributes/ClassMethods.html#method-i-attribute">Attributes API documentation</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Minimum_viable_product">Minimum Viable Product</a></li>
+<li><a href="https://twitter.com/chandracarney">Chandra Carney</a>'s talk on <a href="http://confreaks.tv/videos/railsconf2015-how-to-program-with-accessibility-in-mind">Programming with Accessibility in Mind</a></li>
+<li><a href="https://www.youtube.com/watch?v=OMPfEXIlTVE">Nothing is Something</a> by <a href="https://twitter.com/sandimetz">Sandi Metz</a></li>
+<li><a href="https://www.youtube.com/watch?v=MSgR-hJjdTo">Sometimes a Controller is Just a Controller</a> by <a href="https://twitter.com/searls">Justin Searls</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 27 May 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/12600.mp3" length="26423290" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/12600/1432737461-artwork.jpg"/>
+      <itunes:duration>00:36:40</itunes:duration>
+      <itunes:summary>Grab Bag! Derek and Sean talk about math, augmented reality, RailsConf wrap up, Minimum Viable Products, Accessibility...
+</itunes:summary>
+      <itunes:subtitle>Grab Bag! Derek and Sean talk about math, augmented reality, RailsConf wrap up, Minimum Viable Products, Accessibility...
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>15: Might As Well Be About Trains (Sarah Mei)</title>
+      <guid isPermaLink="false">87c18c0c-4379-4dad-943f-8c17815537da</guid>
+      <link>http://bikeshed.fm/15</link>
+      <description>Sean, Derek, and Sarah Mei talk about conference speaking, refactoring, and OO vs FP problems.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean, Derek, and Sarah Mei talk about conference speaking, refactoring, and OO vs FP problems.</p>
+
+<ul>
+<li><a href="http://www.sarahmei.com/">Sarah Mei</a></li>
+<li><a href="http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/">What Your Conference Proposal Is Missing</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Conway%27s_law">Conway's Law</a></li>
+<li><a href="https://www.omniref.com/blog/blog/2014/11/17/matz-at-rubyconf-2014-will-ruby-3-dot-0-be-statically-typed/">Will Ruby 3.0 Be Statically Typed?</a></li>
+<li><a href="https://twitter.com/sarahmei">Sarah on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 19 May 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/11908.mp3" length="22568556" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/11908/1431987999-artwork.jpg"/>
+      <itunes:duration>00:31:18</itunes:duration>
+      <itunes:summary>Sean, Derek, and Sarah Mei talk about conference speaking, refactoring, and OO vs FP problems.
+</itunes:summary>
+      <itunes:subtitle>Sean, Derek, and Sarah Mei talk about conference speaking, refactoring, and OO vs FP problems.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>14: An Acceptable Level of Hassle (David Heinemeier Hansson)</title>
+      <guid isPermaLink="false">1470df51-73f4-44e3-ba09-dec4556a0a0d</guid>
+      <link>http://bikeshed.fm/14</link>
+      <description>This week, we're joined by DHH and discuss microservices, monoliths, shared abstractions, and the fate of Action Cable.
+</description>
+      <content:encoded>
+        <![CDATA[<p>This week, we're joined by DHH and discuss microservices, monoliths, shared abstractions, and the fate of Action Cable.</p>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=KJVTM7mE1Cc">DHH's Keynote</a></li>
+<li><a href="http://martinfowler.com/articles/microservices.html">Microservices</a></li>
+<li><a href="http://martinfowler.com/bliki/SacrificialArchitecture.html">Sacrificial Architecture</a></li>
+<li><a href="https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/">Scaling Mercurial at Facebook</a></li>
+<li><a href="http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html#method-i-has_secure_password"><code>has_secure_password</code></a></li>
+<li><a href="https://github.com/codahale/bcrypt-ruby">BCrypt</a></li>
+<li><a href="http://api.rubyonrails.org/classes/ActionController/RequestForgeryProtection.html">Request Forgery Protection</a></li>
+<li><a href="http://apidock.com/rails/ActionView/Helpers/ActiveRecordHelper/error_messages_for"><code>error_messages_for</code></a> removed in Rails 3</li>
+<li>Sandi Metz on <a href="https://twitter.com/sandimetz/status/273110526706462721">the cost of the wrong abstraction</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/WebSockets">WebSockets</a></li>
+<li><a href="https://github.com/eventmachine/eventmachine">Event Machine</a></li>
+<li><a href="http://faye.jcoglan.com/">Faye</a></li>
+<li><a href="http://basecamp.com">Basecamp</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 12 May 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/11459.mp3" length="39277035" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/11459/1431440323-artwork.jpg"/>
+      <itunes:duration>00:54:31</itunes:duration>
+      <itunes:summary>This week, we're joined by DHH and discuss microservices, monoliths, shared abstractions, and the fate of Action Cable.
+</itunes:summary>
+      <itunes:subtitle>This week, we're joined by DHH and discuss microservices, monoliths, shared abstractions, and the fate of Action Cable.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>13: Begrudging Applause (Aaron Patterson)</title>
+      <guid isPermaLink="false">4217bded-354d-4d72-bef2-ead33ff1c130</guid>
+      <link>http://bikeshed.fm/13</link>
+      <description>Live from RailsConf, Aaron Patterson joins the show to talk about Rails 5, Rack 2, Contributing to Open Source, and cats. We also field audience questions.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Live from RailsConf, Aaron Patterson joins the show to talk about Rails 5, Rack 2, Contributing to Open Source, and cats. We also field audience questions.</p>
+
+<ul>
+<li><a href="https://youtu.be/kDdYNPVqLZs">Video-version of this podcast!</a></li>
+<li><a href="https://youtu.be/KJVTM7mE1Cc">DHH's RailsConf Keynote</a></li>
+<li><a href="https://youtu.be/B3gYklsN9uc">Aaron's RailsConf Keynote</a></li>
+<li><a href="https://gist.github.com/derekprior/45ffcccf55b7b7d26ace">Action Cable</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Push_technology#Long_polling">Long Polling</a></li>
+<li><a href="https://github.com/rails/turbolinks">TurboLinks</a></li>
+<li><a href="https://github.com/emberjs/rfcs">Ember RFC Process</a></li>
+<li><a href="https://github.com/tenderlove/the_metal">Rack 2</a></li>
+<li><a href="https://itunes.apple.com/us/app/nekoatsume/id923917775?mt=8">Neko Atsume</a> (<a href="https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume&amp;hl=ja">also on Android</a>)</li>
+<li><a href="https://rubytogether.org/">Ruby Together</a></li>
+<li><a href="http://www.call-cc.org/">Chicken Scheme</a></li>
+<li><a href="http://wiki.call-cc.org/eggref/4/awful">Awful</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Offal">Offal</a></li>
+<li><a href="https://iojs.org/en/faq.html">Node/IO Fork</a></li>
+<li><a href="https://pragprog.com/book/rails4/agile-web-development-with-rails-4">Agile Web Development With Rails</a></li>
+<li><a href="https://github.com/apotonick/cells">Cells</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 05 May 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/11191.mp3" length="38514991" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/11191/1430772597-artwork.jpg"/>
+      <itunes:duration>00:53:27</itunes:duration>
+      <itunes:summary>Live from RailsConf, Aaron Patterson joins the show to talk about Rails 5, Rack 2, Contributing to Open Source, and cats. We also field audience questions.
+</itunes:summary>
+      <itunes:subtitle>Live from RailsConf, Aaron Patterson joins the show to talk about Rails 5, Rack 2, Contributing to Open Source, and cats. We also field audience questions.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>12: A Poor Man's binding.pry</title>
+      <guid isPermaLink="false">088fe107-3e91-4794-98ca-6461c27a9ede</guid>
+      <link>http://bikeshed.fm/12</link>
+      <description>Derek and Sean talk about naming, debugging, and the anxiety of conference talks.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean talk about naming, debugging, and the anxiety of conference talks.</p>
+
+<ul>
+<li>Sean <a href="https://github.com/saturday06/gradle-android-scala-plugin/pull/55/files#diff-7b639ea9e4a150c67861b3c35dbd8b9eL211">fixes Android tooling</a> in one line.</li>
+<li>Martin Fowler on <a href="http://martinfowler.com/articles/refactoring-external-service.html">naming objects after patterns</a></li>
+<li><a href="https://kapeli.com/dash">Dash</a> for OS X</li>
+<li><a href="http://www.alfredapp.com/">Alfred</a> for OS X</li>
+<li>The beauty of <a href="http://sapphiresteel.com/IMG/png/intellisense.png">Intellisense</a> in Visual Studio</li>
+<li>Derek's <a href="https://github.com/thoughtbot/dotfiles/pull/360"><code>bundle search</code></a> command</li>
+<li><a href="https://www.jetbrains.com/ruby/">Ruby Mine</a></li>
+<li><a href="http://www.windycityrails.org/videos/2014/#9">Sean's talk at windy city rails</a></li>
+<li><a href="https://www.youtube.com/watch?v=l9JXH7JPjR4">How to talk to Developers</a> by Ben Orenstein</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 17 Apr 2015 13:37:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/10518.mp3" length="23008981" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/10518/1429292510-artwork.jpg"/>
+      <itunes:duration>00:31:55</itunes:duration>
+      <itunes:summary>Derek and Sean talk about naming, debugging, and the anxiety of conference talks.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean talk about naming, debugging, and the anxiety of conference talks.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>11: Form-ing Opinions</title>
+      <guid isPermaLink="false">a41615a3-81e7-445b-a31d-1e524392bb39</guid>
+      <link>http://bikeshed.fm/11</link>
+      <description>Sean and Derek talk about the state of Android tooling, refactoring journeys, and an approach to rails form objects.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek talk about the state of Android tooling, refactoring journeys, and an approach to rails form objects.</p>
+
+<ul>
+<li><a href="https://developer.android.com/tools/building/multidex.html">Dalvik executables limited to 65,536 methods</a></li>
+<li><a href="http://proguard.sourceforge.net/">ProGuard</a></li>
+<li><a href="http://blogs.msdn.com/b/ieinternals/archive/2011/05/14/10164546.aspx">Stylesheet limits in Internet Explorer</a></li>
+<li>A <a href="https://lh4.googleusercontent.com/-q_CSd6VuGxg/UfeYTp6ci_I/AAAAAAAAgV8/gXy32wVX47A/w480-h360-no/programming.gif">refactoring jounrney</a> in animated gif form.</li>
+<li><a href="https://github.com/plataformatec/simple_form#the-wrappers-api">Simple Form wrappers</a></li>
+<li><a href="https://www.playframework.com/documentation/2.0/ScalaForms">ScalaForms</a></li>
+<li><a href="http://www.yesodweb.com/book/routing-and-handlers">Type-safe URLs in Yesod</a></li>
+<li><a href="https://docs.djangoproject.com/en/1.8/topics/forms/">Django forms</a></li>
+<li><a href="https://github.com/rails/rails/pull/19324">Batching up touch calls</a></li>
+<li><a href="https://robots.thoughtbot.com/the-perils-of-uniqueness-validations">Issues with uniqueness validations</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 03 Apr 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/9885.mp3" length="26900390" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/9885/1428083112-artwork.jpg"/>
+      <itunes:duration>00:37:19</itunes:duration>
+      <itunes:summary>Sean and Derek talk about the state of Android tooling, refactoring journeys, and an approach to rails form objects.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek talk about the state of Android tooling, refactoring journeys, and an approach to rails form objects.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10: I Don't Get Functional Programming</title>
+      <guid isPermaLink="false">4ee821ab-ad43-4432-b5da-4b8468858bf3</guid>
+      <link>http://bikeshed.fm/10</link>
+      <description>Pat Brisbin joins Derek to discuss the many advantages of Haskell programming.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Pat Brisbin joins Derek to discuss the many advantages of Haskell programming.</p>
+
+<p><em>note: at 27:01 Pat says "referential integrity" when he meant "<a href="https://wiki.haskell.org/Referential_transparency">referential transparency</a>"; he's very sorry.</em></p>
+
+<ul>
+<li><a href="http://maybe-haskell.com/bikeshed">Maybe Haskell</a> 50% off</li>
+<li><a href="http://xmonad.org/">xmonad</a> tiling window manager</li>
+<li><a href="http://learnyouahaskell.com/">Learn You A Haskell</a></li>
+<li><a href="https://github.com/thoughtbot/carnival">Carnival</a> - Open source, Haskell-powered commenting for the <a href="https://robots.thoughtbot.com/ship-you-a-haskell">Giant Robots Blog</a></li>
+<li><a href="https://wiki.haskell.org/Pointfree">Pointfree Style</a></li>
+<li><a href="https://twitter.com/patbrisbin/status/556555319909056512">How to say dots and dollars</a></li>
+<li><a href="https://hackage.haskell.org/package/base-4.7.0.2/docs/Data-Maybe.html">The Maybe data type</a></li>
+<li><a href="https://hackhands.com/guide-lazy-evaluation-haskell/">The Incomplete Guide to Lazy Evaluation (in Haskell)</a></li>
+<li><a href="https://robots.thoughtbot.com/building-haskell-projects-with-halcyon">Building Haskell Projects with Halcyon</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 20 Mar 2015 00:01:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/9377.mp3" length="29252037" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/9377/1426785406-artwork.jpg"/>
+      <itunes:duration>00:40:35</itunes:duration>
+      <itunes:summary>Pat Brisbin joins Derek to discuss the many advantages of Haskell programming.
+</itunes:summary>
+      <itunes:subtitle>Pat Brisbin joins Derek to discuss the many advantages of Haskell programming.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>9: Monorails, For the Kids</title>
+      <guid isPermaLink="false">2baab32c-1c02-4b38-a1c5-25fbd8ee626b</guid>
+      <link>http://bikeshed.fm/9</link>
+      <description>Sean and Derek discuss Monoliths, Service Oriented Architecture, and the new Adapter Specific Type Registry in Rails 5.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek discuss Monoliths, Service Oriented Architecture, and the new Adapter Specific Type Registry in Rails 5.</p>
+
+<ul>
+<li><a href="http://images.thoughtbot.com/podcasts/bikeshed/guestsean.jpg">Guest Sean</a></li>
+<li><a href="http://pokemondb.net/pokedex/furret">Furret</a></li>
+<li><a href="https://upcase.com/haskell">Haskell</a> and <a href="https://upcase.com/workflow">tmux</a> Upcase trails.</li>
+<li><a href="http://www.schneems.com/2014/12/15/hashie-considered-harmful.html">Hashie Considered Harmful</a></li>
+<li><a href="https://github.com/rails/rails/blob/265dcb779dd4bfd9745e0131f585749d7034c3c7/activerecord/lib/active_record/type/adapter_specific_registry.rb">Adapter Specific Type Registry</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 06 Mar 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/8905.mp3" length="24953116" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/8905/1425591030-artwork.jpg"/>
+      <itunes:duration>00:34:37</itunes:duration>
+      <itunes:summary>Sean and Derek discuss Monoliths, Service Oriented Architecture, and the new Adapter Specific Type Registry in Rails 5.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek discuss Monoliths, Service Oriented Architecture, and the new Adapter Specific Type Registry in Rails 5.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>8: Attributes API, Relation#or, Paid Open Source</title>
+      <guid isPermaLink="false">242598f2-9ef0-40e3-bcdf-153a2f9602d0</guid>
+      <link>http://bikeshed.fm/8</link>
+      <description>Derek and Sean discuss what the Attributes API enables, the addition of Relation#or and paid open source.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean discuss what the Attributes API enables, the addition of <code>Relation#or</code> and paid open source.</p>
+
+<ul>
+<li><a href="https://github.com/rails/rails/commit/70ac072976c8cc6f013f0df3777e54ccae3f4f8c">Sean's attributes API is "finished"</a></li>
+<li><a href="https://github.com/rails/rails/blob/8c752c7ac739d5a86d4136ab1e9d0142c4041e58/activerecord/lib/active_record/attributes.rb">Attributes API documentation</a></li>
+<li><a href="https://github.com/rgeo/activerecord-postgis-adapter">PostGIS ActiveRecord Adapter</a></li>
+<li><a href="http://api.rubyonrails.org/classes/ActiveRecord/Aggregations/ClassMethods.html"><code>composed_of</code></a></li>
+<li><a href="http://confreaks.tv/videos/railsconf2014-keynote-10-years">Yehuda's RailsConf Keynote</a> on the power of shared abstractions.</li>
+<li><a href="http://confreaks.tv/videos/railsconf2014-curmudgeon-an-opinionated-look-at-an-opinionated-framework">Ernie Miller's RailsConf talk</a> on the consequences of Rails' abstractions.</li>
+<li><a href="https://github.com/rails/rails/blob/158c7eb1d61a28452e0aafd1e05314352eea2749/activerecord/lib/active_record/model_schema.rb#L310-L320"><code>load_schema</code> makes sense now.</a></li>
+<li><a href="http://ruby-doc.org//stdlib-2.2.0/libdoc/delegate/rdoc/Object.html"><code>DelegateClass</code></a></li>
+<li><a href="https://twitter.com/steveklabnik/status/563169746615406592">Steve Klabnik tweets</a> about companies not giving back significantly to Ruby open source</li>
+<li><a href="https://github.com/jruby/jruby/pull/2562">Sean speeds up <code>&amp;block</code> on MRI and jRuby</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 20 Feb 2015 13:08:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/7880.mp3" length="18022878" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/7880/1424456397-artwork.jpg"/>
+      <itunes:duration>00:37:29</itunes:duration>
+      <itunes:summary>Derek and Sean discuss what the Attributes API enables, the addition of Relation#or and paid open source.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean discuss what the Attributes API enables, the addition of Relation#or and paid open source.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>7: At the Car Wash</title>
+      <guid isPermaLink="false">da778230-899a-4e95-aa22-8087d3384df6</guid>
+      <link>http://bikeshed.fm/7</link>
+      <description>Derek and Sean talk trade schools, sneaky bugs, bad method names, before_filters, and the Superbowl.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean talk trade schools, sneaky bugs, bad method names, before_filters, and the Superbowl.</p>
+
+<ul>
+<li><a href="http://turing.io">Turing School</a> and <a href="http://www.thisismetis.com/ruby-on-rails">Metis</a> trade schools.</li>
+<li><a href="http://youtu.be/3v8I5egzoMo">"Car Wash"</a> by Rose Royce</li>
+<li>Sean introduces <a href="https://github.com/rails/rails/commit/be9b68038e83a617eb38c26147659162e4ac3d2c"><code>accessed_fields</code></a> to the ActiveRecord Attributes API.</li>
+<li><a href="https://github.com/peek/peek">Peek</a> for insights into your rails app.</li>
+<li><a href="https://github.com/flyerhzm/bullet">Bullet</a> for hunting down N+1 queries and unused eager loading.</li>
+<li>What does <a href="https://github.com/lostisland/faraday#writing-middleware">Faraday middleware</a> look like?</li>
+<li>The <a href="https://github.com/thoughtbot/clearance/commit/4b514d94a5a00c754f3638709d1a36814522422a">Clearance redirect loop</a> Derek introduced and fixed.</li>
+<li><code>before filter</code> and its friends have been <a href="https://github.com/rails/rails/commit/7644a99d90a0521165ebde1ccd201603bf7f126a">deprecated in Rails 5.0</a></li>
+<li>The various ways people <a href="http://www.intridea.com/blog/2011/6/7/conversations-controller-setter-pattern">set instance variables in Rails controllers</a>.</li>
+<li><a href="http://api.rubyonrails.org/classes/ActiveRecord/AttributeMethods/BeforeTypeCast.html#method-i-read_attribute_before_type_cast"><code>read_attribute_before_typecast</code></a></li>
+<li><a href="https://github.com/rails/rails/compare/787e22bb491bd8c36db1e9734261c4ce02c5c5fd~1...d8e710410ea300ec4626250c0b35946cb52bc38c">problems from _before_type_cast</a></li>
+<li><a href="https://github.com/rails/rails/commit/96e504ec8af149962312c13dd418e13e4c74ce86">dirty checking causes errors</a></li>
+<li><a href="https://github.com/rails/rails/commit/7c6f3938dee47f0932c2a1d4924adaebc25517ac"><code>RangeError</code> s are hard</a> (Sean's solution to the test placement problem was to not commit the test)</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 30 Jan 2015 10:00:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/7232.mp3" length="23482888" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/7232/1422631435-artwork.jpg"/>
+      <itunes:duration>00:48:52</itunes:duration>
+      <itunes:summary>Derek and Sean talk trade schools, sneaky bugs, bad method names, before_filters, and the Superbowl.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean talk trade schools, sneaky bugs, bad method names, before_filters, and the Superbowl.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>6: Shh! Library Under Maintenance</title>
+      <guid isPermaLink="false">2d532b6f-620a-46a1-86f6-be6689fdd875</guid>
+      <link>http://bikeshed.fm/6</link>
+      <description>Sean and Derek discuss thoughtful deprecations, backwards compatibility, and other joys of library maintenance.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek discuss thoughtful deprecations, backwards compatibility, and other joys of library maintenance.</p>
+
+<ul>
+<li><a href="https://github.com/apotonick/trailblazer">Trailblazer</a></li>
+<li><a href="https://github.com/thoughtbot/clearance">Clearance</a></li>
+<li><a href="https://github.com/emberjs/rfcs/pull/15">Ember 2.0</a> - Stability without Stagnation</li>
+<li><a href="https://github.com/rails/rails/pull/18306">Ruby 2.2 on Rails 3.2</a>. Now merged, but unreleased.</li>
+<li>The original <a href="https://github.com/rails/arel/commit/008445d6fd5f825d9b445ac75a7be67f0f7ab52c">removal of ARel type casting</a></li>
+<li>Narrowing the scope - a <a href="https://github.com/rails/arel/commit/6160bfbda1d1781c3b08a33ec4955f170e95be11">less impactful ARel deprecation</a></li>
+<li><a href="https://github.com/rails/rails/compare/266ff70...2223f49">Rails changes</a> to accompany the ARel API changes.</li>
+<li>An <a href="https://github.com/rails/rails/issues/18385#issuecomment-69979898">example of an issue</a> these refactorings solve.</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 16 Jan 2015 11:28:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/6707.mp3" length="20282365" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/6707/1421426011-artwork.jpg"/>
+      <itunes:duration>00:42:12</itunes:duration>
+      <itunes:summary>Sean and Derek discuss thoughtful deprecations, backwards compatibility, and other joys of library maintenance.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek discuss thoughtful deprecations, backwards compatibility, and other joys of library maintenance.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>5: Rails is Not Your Architecture</title>
+      <guid isPermaLink="false">5db5d987-947f-41ab-8fbf-0c9f8de726d2</guid>
+      <link>http://bikeshed.fm/5</link>
+      <description>Derek and Sean discuss various ways of taking the Rails out of your Ruby on Rails application, what folder to put your files in, and the difficulties and rewards of learning new programming languages.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean discuss various ways of taking the Rails out of your Ruby on Rails application, what folder to put your files in, and the difficulties and rewards of learning new programming languages.</p>
+
+<ul>
+<li><a href="http://naildrivin5.com/blog/2014/05/27/rails-does-not-define-your-application-architecture.html">Rails Does Not Define Your Application Architecture</a></li>
+<li>What the hell is a <a href="http://stevelorek.com/service-objects.html">service object</a>?</li>
+<li>Fuzzy file finding with <a href="https://github.com/ctrlpvim/ctrlp.vim">ctrl-p</a></li>
+<li><a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models#query-objects">Query Objects</a></li>
+<li>Uncle Bob's <a href="http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html">Clean Architecture</a></li>
+<li><a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/#form-objects">Form Objects</a></li>
+<li><a href="https://www.playframework.com/documentation/2.0/ScalaForms">Scala Play forms</a></li>
+<li><a href="http://www.yesodweb.com/book/forms">Haskell Yesod Forms</a></li>
+<li><a href="https://www.haskell.org/haskellwiki/Pointfree#But_pointfree_has_more_points.21">But Pointfree Has More Points</a>!</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 31 Dec 2014 11:30:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/6265.mp3" length="18829121" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/6265/1420044155-artwork.jpg"/>
+      <itunes:duration>00:39:10</itunes:duration>
+      <itunes:summary>Derek and Sean discuss various ways of taking the Rails out of your Ruby on Rails application, what folder to put your files in, and the difficulties and rewards of learning new programming languages.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean discuss various ways of taking the Rails out of your Ruby on Rails application, what folder to put your files in, and the difficulties and rewards of learning new programming languages.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>4: Put Everything on the Front End</title>
+      <guid isPermaLink="false">0a0137bb-9417-4765-8842-aacc8aeeac38</guid>
+      <link>http://bikeshed.fm/4</link>
+      <description>Derek and Sean discuss hunting Rails performance regressions and techniques for improving performance in your web applications.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean discuss hunting Rails performance regressions and techniques for improving performance in your web applications.</p>
+
+<ul>
+<li><a href="http://samsaffron.com/archive/2014/12/01/speeding-up-rails-4-2">Speeding Up Rails 4.2</a></li>
+<li><a href="http://tmm1.net/ruby21-profiling/">StackProf</a></li>
+<li><a href="http://samsaffron.com/archive/2013/03/19/flame-graphs-in-ruby-miniprofiler">Flame Graphs</a></li>
+<li><a href="http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/">5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Key_frame">Key Frames</a></li>
+<li><a href="http://c2.com/cgi/wiki?BinarySearch">Binary Search Algorithm</a></li>
+<li><a href="https://www.youtube.com/watch?v=fGFM_UrSp70">Writing Fast Ruby</a> from Erik Micahels-Ober</li>
+<li>The <a href="http://api.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-select">select</a> and <a href="http://api.rubyonrails.org/classes/ActiveRecord/Calculations.html#method-i-pluck">pluck</a> methods</li>
+<li><a href="http://guides.rubyonrails.org/caching_with_rails.html#fragment-caching">Fragment Caching</a></li>
+<li><a href="https://github.com/rails/jquery-ujs/commit/c7dcc344eefcd9a646fe570f00fec73078ecb6c4">Exposing CSRF token refresh</a> in the jQuery UJS public API.</li>
+<li>Postgres <a href="http://www.postgresql.org/docs/9.3/static/using-explain.html">Explain Plans</a></li>
+<li><a href="http://robots.thoughtbot.com/implementing-multi-table-full-text-search-with-postgres">Implementing Multi-Table Full Text Search with Postgres in Rails</a></li>
+<li>Creating database views in Rails with <a href="https://github.com/thoughtbot/scenic">Scenic</a></li>
+<li>Tweet us <a href="https://twitter.com/_bikeshed">@_bikeshed</a> or send us <a href="mailto:hosts@bikeshed.fm">email</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 12 Dec 2014 14:22:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/6079.mp3" length="18431175" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/6079/1418412309-artwork.jpg"/>
+      <itunes:duration>00:38:20</itunes:duration>
+      <itunes:summary>Derek and Sean discuss hunting Rails performance regressions and techniques for improving performance in your web applications.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean discuss hunting Rails performance regressions and techniques for improving performance in your web applications.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>3: Flipping the Script</title>
+      <guid isPermaLink="false">4bf29fc6-2832-418c-84c9-76c6862efaf5</guid>
+      <link>http://bikeshed.fm/3</link>
+      <description>Sean and Derek take a fresh look at the tradeoffs in writing CoffeeScript and whether we should be using an ES6 transpiler instead.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek take a fresh look at the tradeoffs in writing CoffeeScript and whether we should be using an ES6 transpiler instead.</p>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">destructiring assignment</a> in JavaScript</li>
+<li><a href="http://robots.thoughtbot.com/function-currying-in-coffeescript">function currying</a> in CoffeeScript</li>
+<li>The <a href="http://coffeescript.org/#operators-existential">existential operator</a> in CoffeeScript</li>
+<li><a href="http://en.wikipedia.org/wiki/Stockholm_syndrome">Stockholm syndrome</a></li>
+<li><a href="https://www.youtube.com/watch?v=pM_ak1KsBKI#t=15m57s">CoffeeScript writes better JavaScript than you</a></li>
+<li><a href="http://kangax.github.io/compat-table/es5/">ES5 Compatibility Chart</a>: When can I use <code>map</code>, <code>reduce</code> and <code>forEach</code>?</li>
+<li>Underscore.js <a href="https://github.com/jashkenas/underscore/pull/1525">removes fallbacks to native ES5 array functions</a></li>
+<li>Safari's <a href="https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/">LLVM-optimized FTL JIT Compiler</a></li>
+<li>ES6 Transpilers <a href="https://github.com/google/traceur-compiler">traceur</a> and <a href="https://github.com/esnext/esnext">ESNext</a></li>
+<li><a href="https://github.com/lukehoban/es6features">ES6 Features</a></li>
+<li>A plethora of <a href="http://blog.cozycloud.cc/technic/2014/06/18/task-runners-comparison/">JavaScript build tools</a></li>
+<li>ES5 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode">strict mode</a></li>
+<li>Sprockets <a href="https://github.com/sstephenson/sprockets/issues/643">road map</a> for source maps support</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 28 Nov 2014 01:00:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/5881.mp3" length="12319567" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/5881/1416929928-artwork.jpg"/>
+      <itunes:duration>00:25:37</itunes:duration>
+      <itunes:summary>Sean and Derek take a fresh look at the tradeoffs in writing CoffeeScript and whether we should be using an ES6 transpiler instead.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek take a fresh look at the tradeoffs in writing CoffeeScript and whether we should be using an ES6 transpiler instead.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>2: Rails 4.2</title>
+      <guid isPermaLink="false">2cba067b-7e70-4b18-a338-a88460c46f98</guid>
+      <link>http://bikeshed.fm/2</link>
+      <description>Derek and Sean discuss Sean's commit access to Rails, what's coming in Rails 4.2, and how to go about making Rails code better.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean discuss Sean's commit access to Rails, what's coming in Rails 4.2, and how to go about making Rails code better.</p>
+
+<ul>
+<li>Ylan Segal wrote us to raise a <a href="http://ylan.segal-family.com/blog/2013/12/11/sandi-metz-revised-rules/">clarification</a> on one of Sandi's rules discussed in episode #1.</li>
+<li><a href="http://confreaks.com/videos/3387-railsconf-curmudgeon-an-opinionated-look-at-an-opinionated-framework">Ernie Miller's RailsConf Talk</a></li>
+<li>The <a href="http://edgeguides.rubyonrails.org/4_2_release_notes.html">Rails 4.2 release notes</a>.</li>
+<li>Sean's work on the <a href="https://github.com/rails/rails/blob/master/activerecord/lib/active_record/attributes.rb">attributes API</a>.</li>
+<li>Aaron Patterson explains <a href="http://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord.html">Adequate Record</a></li>
+<li>Aaron Patterson discusses adequate record, rails, and other topics on <a href="http://giantrobots.fm/100">Giant Robots #100</a>.</li>
+<li><a href="http://edgeguides.rubyonrails.org/active_job_basics.html">Active Job</a></li>
+<li><a href="https://github.com/rails/globalid">Global Id</a></li>
+<li><a href="https://github.com/rails/web-console">Web Console</a></li>
+<li><a href="https://github.com/matthuhiggins/foreigner">Foreigner</a> and <a href="https://github.com/jenseng/immigrant">Immigrant</a> are a good foreign key combination today with Foreigner subsumed by 4.2.</li>
+<li><a href="http://edgeapi.rubyonrails.org/classes/Hash.html#method-i-transform_values">transform_values</a></li>
+<li><a href="https://github.com/plataformatec/responders">Responders</a></li>
+<li>Derek's <a href="https://github.com/rails/rails/commit/9cdd0a1fdf8308985231242d378e3a1c29c4ab00">unDRY Rails Commit</a>.</li>
+<li>Thanks to <a href="https://twitter.com/rachelcope">Rachel Cope</a> and <a href="https://twitter.com/kaishin">Reda Lemeden</a> for our great artwork.</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Nov 2014 09:00:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/5536.mp3" length="17242050" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/5536/1416236743-artwork.jpg"/>
+      <itunes:duration>00:35:51</itunes:duration>
+      <itunes:summary>Derek and Sean discuss Sean's commit access to Rails, what's coming in Rails 4.2, and how to go about making Rails code better.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean discuss Sean's commit access to Rails, what's coming in Rails 4.2, and how to go about making Rails code better.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1: Sandi &amp; Derek's Rules</title>
+      <guid isPermaLink="false">8edf6560-02ff-4be0-beed-0f5e668c87c9</guid>
+      <link>http://bikeshed.fm/1</link>
+      <description>Sean and Derek discuss lessons learned from following Sandi Metz' rules on a project and the overall impact of rules on code.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean and Derek discuss lessons learned from following Sandi Metz' rules on a project and the overall impact of rules on code.</p>
+
+<ul>
+<li><a href="http://robots.thoughtbot.com/sandi-metz-rules-for-developers">Sandi Metz' Rules</a></li>
+<li><a href="http://robots.thoughtbot.com/sandi-metz-rules-for-developers">Ruby Rogues, episode #87</a>, where Sandi tells us the rules at 1 hour, 18 minutes, 27 seconds in.</li>
+<li><a href="http://www.poodr.com/">Practical Object Oriented Design in Ruby</a>, or POODR, is an excellent book you should all check out.</li>
+<li><a href="http://en.wikipedia.org/wiki/God_object">God classes</a></li>
+<li><a href="https://github.com/thoughtbot/guides/tree/master/style#ruby">thoughtbot's Ruby style guidelines</a> wherein we disavow ternary operators and conditional modifiers.</li>
+<li><a href="http://c2.com/cgi/wiki?FacadePattern">The facade pattern</a></li>
+<li><a href="http://c2.com/cgi/wiki?GuardClause">Guard clause</a></li>
+<li>Ruby's <a href="http://www.ruby-doc.org/core-2.1.3/Module.html#method-i-method_added"><code>method_added</code></a> method.</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 31 Oct 2014 10:46:00 -0400</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/5277.mp3" length="13369738" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/5277/1414767229-artwork.jpg"/>
+      <itunes:duration>00:27:48</itunes:duration>
+      <itunes:summary>Sean and Derek discuss lessons learned from following Sandi Metz' rules on a project and the overall impact of rules on code.
+</itunes:summary>
+      <itunes:subtitle>Sean and Derek discuss lessons learned from following Sandi Metz' rules on a project and the overall impact of rules on code.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

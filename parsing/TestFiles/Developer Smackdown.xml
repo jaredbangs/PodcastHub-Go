@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:a10="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Developer Smackdown</title>
+    <description>Developer Smackdown is a weekly technical audio podcast hosted by Clark Sell and Mark Nichols. Clark and Mark muse about anything related to the software industry and the developers behind it. On Developer Smackdown we try to not only give real world practical advice but have that honest conversation you would hae with your colleges after work. &amp;copy; Copyright 2009 – 2011 by Developer Smackdown.</description>
+    <language>en-us</language>
+    <a10:author>
+      <a10:name>Clark Sell</a10:name>
+      <a10:uri>http://developersmackdown.com</a10:uri>
+      <a10:email>fans@DeveloperSmackdown.com</a10:email>
+    </a10:author>
+    <a10:author>
+      <a10:name>Mark Nichols</a10:name>
+      <a10:uri>http://developersmackdown.com</a10:uri>
+      <a10:email>fans@DeveloperSmackdown.com</a10:email>
+    </a10:author>
+    <lastBuildDate>Wed, 27 Jul 2011 17:16:26 -0400</lastBuildDate>
+    <a10:contributor>
+      <a10:name>Clark Sell</a10:name>
+      <a10:uri>http://developersmackdown.com</a10:uri>
+      <a10:email>fans@DeveloperSmackdown.com</a10:email>
+    </a10:contributor>
+    <image>
+      <url>http://developersmackdown.com/logo.png</url>
+      <title>Developer Smackdown</title>
+      <link />
+    </image>
+    <itunes:subtitle>Developer Smackdown with Clark Sell and Mark Nichols</itunes:subtitle>
+    <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+    <itunes:summary>Mark Nichols and Clark Sell use their consulting experiences as a base for discussing how software is designed and created.  The whole software development lifecycle is fair game and they won’t hesitate to smack down common practices and push forward a better way to develop software – in their eyes anyway!</itunes:summary>
+    <itunes:image href="http://developersmackdown.com/logo.png" />
+    
+    
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheSmackdown" /><feedburner:info uri="thesmackdown" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:thumbnail url="http://developersmackdown.com/logo.png" /><media:keywords>NET,Web,Software,ALM,VSTS,TFS,Team,Build,OData,Technology,Development</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>fans@DeveloperSmackdown.com</itunes:email><itunes:name>Clark Sell, Mark Nichols</itunes:name></itunes:owner><itunes:explicit>yes</itunes:explicit><itunes:keywords>NET,Web,Software,ALM,VSTS,TFS,Team,Build,OData,Technology,Development</itunes:keywords><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><itunes:category text="Technology" /><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category><item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_064.mp3</guid>
+      <title>Musing #64: Good Bye Brandon Satrom, Hello Brandon Satrom</title>
+      <description>Brandon and Clark rap about careers and how’s Brandon’s has lead him to Kendo UI. Oh yea, did we mention he’s leaving Microsoft.</description>
+      <pubDate>Thu, 16 Feb 2012 10:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_064.mp3" />
+      <a10:updated>2012-02-16T11:07:15-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_064.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Good Bye Brandon Satrom, Hello Brandon Satrom</itunes:subtitle>
+      <itunes:summary>Brandon and Clark rap about careers and how’s Brandon’s has lead him to Kendo UI. Oh yea, did we mention he’s leaving Microsoft.</itunes:summary>
+      <itunes:duration>1/1/0001 1:02:30 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_064.mp3" length="60011504" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_064.mp3" fileSize="60011504" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_063.mp3</guid>
+      <title>Musing #63: Organizing a Conference with CodeManiacs Ian Randall and Ben Gracewood</title>
+      <description>In this episode, Clark and Mark talk across a lot of time zones to Ian Randall and Ben Gracewood about how to set up and organize a technical conference.  Ian and Ben are creating “CodeMania” which is a developer’s conference slated for March 2012 in Aukland, New Zealand.  This is an interesting behind-the-scenes view of what goes through the minds of organizers trying to create the ultimate technical discussion and learning environment.</description>
+      <pubDate>Thu, 15 Dec 2011 17:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_063.mp3" />
+      <a10:updated>2011-12-15T17:37:00-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_063.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Organizing a Conference with CodeManiacs Ian Randall and Ben Gracewood</itunes:subtitle>
+      <itunes:summary>In this episode, Clark and Mark talk across a lot of time zones to Ian Randall and Ben Gracewood about how to set up and organize a technical conference.  Ian and Ben are creating “CodeMania” which is a developer’s conference slated for March 2012 in Aukland, New Zealand.  This is an interesting behind-the-scenes view of what goes through the minds of organizers trying to create the ultimate technical discussion and learning environment.</itunes:summary>
+      <itunes:duration>1/1/0001 12:00:00 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_063.mp3" length="0" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_063.mp3" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_062.mp3</guid>
+      <title>Musing #62: Arduino and Netduino with a Couple of Microcontroller Geeks</title>
+      <description>In this version, we grab a table at the local pub and talk microcontrollers. Brothers, Min and Lwin Maung walk us through the Arduino and Netduino revolution. By the end of the show, we decided to hack Clark’s garage door. We will save that for another show.</description>
+      <pubDate>Wed, 26 Oct 2011 16:11:25 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_062.mp3" />
+      <a10:updated>2011-10-26T16:11:25-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_062.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Arduino and Netduino with a Couple of Microcontroller Geeks</itunes:subtitle>
+      <itunes:summary>In this version, we grab a table at the local pub and talk microcontrollers. Brothers, Min and Lwin Maung walk us through the Arduino and Netduino revolution. By the end of the show, we decided to hack Clark’s garage door. We will save that for another show.</itunes:summary>
+      <itunes:duration>1/1/0001 1:06:23 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_062.mp3" length="63745176" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_062.mp3" fileSize="63745176" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_061.mp3</guid>
+      <title>Musing #61: Live from HTML5.tx: Drifting Creatives destroys the DeveloperSmackdown.com website</title>
+      <description>We’re live from Austin TX at the epic HTML5.tx conference. In version 56 we asked the warriors from Drifting Creatives to blow up the DeveloperSmackdown.com site. They did exactly that! They walk us through what’s wrong, why they would change it. Of course they served us that plate of humble pie in front of 100 of our closest friends. After that Brandon and Clark talk about where the site should start adopting HTML5. </description>
+      <pubDate>Thu, 13 Oct 2011 13:42:27 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_061.mp3" />
+      <a10:updated>2011-10-13T13:42:27-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_061.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Live from HTML5.tx: Drifting Creatives destroys the DeveloperSmackdown.com website</itunes:subtitle>
+      <itunes:summary>We’re live from Austin TX at the epic HTML5.tx conference. In version 56 we asked the warriors from Drifting Creatives to blow up the DeveloperSmackdown.com site. They did exactly that! They walk us through what’s wrong, why they would change it. Of course they served us that plate of humble pie in front of 100 of our closest friends. After that Brandon and Clark talk about where the site should start adopting HTML5. </itunes:summary>
+      <itunes:duration>1/1/0001 12:49:54 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_061.mp3" length="47909802" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_061.mp3" fileSize="47909802" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_060.mp3</guid>
+      <title>Musing #60: Talkin Twilio and Telephony with Keith Casey and John Sheehan</title>
+      <description>In this version Mark and Clark talk to Keith Casey and John Sheehan of Twilio.  Keith and John are Twilio evangelists who talk to developers and help them create reliable and scalable voice and text messaging apps with Twilio technology.</description>
+      <pubDate>Wed, 07 Sep 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_060.mp3" />
+      <a10:updated>2011-09-07T00:22:32-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_060.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Talkin Twilio and Telephony with Keith Casey and John Sheehan</itunes:subtitle>
+      <itunes:summary>In this version Mark and Clark talk to Keith Casey and John Sheehan of Twilio.  Keith and John are Twilio evangelists who talk to developers and help them create reliable and scalable voice and text messaging apps with Twilio technology.</itunes:summary>
+      <itunes:duration>1/1/0001 12:35:43 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_060.mp3" length="34290446" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_060.mp3" fileSize="34290446" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_059.mp3</guid>
+      <title>Musing #59: Building HTML5tx.com with FrogSlayer's Sam Hooker</title>
+      <description>In this version Mark and Clark sit down with FrogSlayer’s Sam Hooker. We talk to Sam about how he took the creative built by Drifting Creatives and built HTML5TX.com.</description>
+      <pubDate>Wed, 31 Aug 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_059.mp3" />
+      <a10:updated>2011-08-31T10:47:44-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_059.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Building HTML5tx.com with FrogSlayer's Sam Hooker</itunes:subtitle>
+      <itunes:summary>In this version Mark and Clark sit down with FrogSlayer’s Sam Hooker. We talk to Sam about how he took the creative built by Drifting Creatives and built HTML5TX.com.</itunes:summary>
+      <itunes:duration>1/1/0001 12:37:28 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_059.mp3" length="35982314" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_059.mp3" fileSize="35982314" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_058.mp3</guid>
+      <title>Musing #58: A few beers and JavaScript with Brandon Satrom</title>
+      <description>What do you do when your on the road at 1AM? Easy, talk about JavaScript after after imbibing on a few cocktails. Clark and Brandon explore the resurgence of JavaScript today and talk about a number of populate JavaScript tools. Brandon even decides to show off his beat boxing skills.</description>
+      <pubDate>Wed, 24 Aug 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_058.mp3" />
+      <a10:updated>2011-08-24T07:31:00-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_058.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>A few beers and JavaScript with Brandon Satrom</itunes:subtitle>
+      <itunes:summary>What do you do when your on the road at 1AM? Easy, talk about JavaScript after after imbibing on a few cocktails. Clark and Brandon explore the resurgence of JavaScript today and talk about a number of populate JavaScript tools. Brandon even decides to show off his beat boxing skills.</itunes:summary>
+      <itunes:duration>1/1/0001 12:46:49 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_058.mp3" length="44959422" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_058.mp3" fileSize="44959422" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_057.mp3</guid>
+      <title>Musing #57: Turning on the LightSwitch with Jay Schmelzer</title>
+      <description>In this version Mark and Clark sit down with Microsoft Director Jay Schmelzer and talk about the newly released Visual Studio LightSwitch.  Jay flips on the LightSwitch for us as he walks us through just what exactly Visual Studio LightSwitch is and how it all works.</description>
+      <pubDate>Wed, 17 Aug 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_057.mp3" />
+      <a10:updated>2011-08-17T17:17:16-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_057.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Turning on the LightSwitch with Jay Schmelzer</itunes:subtitle>
+      <itunes:summary>In this version Mark and Clark sit down with Microsoft Director Jay Schmelzer and talk about the newly released Visual Studio LightSwitch.  Jay flips on the LightSwitch for us as he walks us through just what exactly Visual Studio LightSwitch is and how it all works.</itunes:summary>
+      <itunes:duration>1/1/0001 12:40:41 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_057.mp3" length="14657550" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_057.mp3" fileSize="14657550" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_056.mp3</guid>
+      <title>Musing #56: Creating the HTML5tx.com design with Drifting Creatives Gavin Braman and Martin Hooper</title>
+      <description>In this version Clark and Mark sit down with Gavin Braman and Martin Hooper, founders, owners and warriors of Drifting Creatives. Gavin and Martin were the designers behind html5tx.com. Listen to us as we try crawling into their heads and see just how they came up with such badassery.</description>
+      <pubDate>Wed, 10 Aug 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_056.mp3" />
+      <a10:updated>2011-08-08T16:51:03-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_056.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Creating the HTML5tx.com design with Drifting Creatives Gavin Braman and Martin Hooper</itunes:subtitle>
+      <itunes:summary>In this version Clark and Mark sit down with Gavin Braman and Martin Hooper, founders, owners and warriors of Drifting Creatives. Gavin and Martin were the designers behind html5tx.com. Listen to us as we try crawling into their heads and see just how they came up with such badassery.</itunes:summary>
+      <itunes:duration>1/1/0001 12:46:52 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_056.mp3" length="11258314" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_056.mp3" fileSize="11258314" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_055.mp3</guid>
+      <title>Musing #55: Kinecting with the Cosmos with Jonathan Fay, Dr. Mark SubbaRao &amp; Michelle Yehling (Part 2)</title>
+      <description>In this episode (part 2), we complete the interview on location at Adler Planetarium.  Mark and his guest cohost sister, Michelle (Nichols) Yehling talk to astronomer Dr. Mark SubbaRao of Adler Planetarium and Principal Software Architect Jonathan Fay of Microsoft Research about the details of developing the Worldwide Telescope, the conversion to Silverlight, Kinect in the WWT and future plans at Adler.</description>
+      <pubDate>Wed, 03 Aug 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_055.mp3" />
+      <a10:updated>2011-08-01T14:04:58-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_055.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Kinecting with the Cosmos with Jonathan Fay, Dr. Mark SubbaRao &amp; Michelle Yehling (Part 2)</itunes:subtitle>
+      <itunes:summary>In this episode (part 2), we complete the interview on location at Adler Planetarium.  Mark and his guest cohost sister, Michelle (Nichols) Yehling talk to astronomer Dr. Mark SubbaRao of Adler Planetarium and Principal Software Architect Jonathan Fay of Microsoft Research about the details of developing the Worldwide Telescope, the conversion to Silverlight, Kinect in the WWT and future plans at Adler.</itunes:summary>
+      <itunes:duration>1/1/0001 12:43:00 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_055.mp3" length="41293118" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_055.mp3" fileSize="41293118" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_054.mp3</guid>
+      <title>Musing #54: Kinecting with the Cosmos with Jonathan Fay, Dr. Mark SubbaRao &amp; Michelle Yehling (Part 1)</title>
+      <description>In this episode (part 1), we are on location at Adler Planetarium, Mark and his guest cohost sister, Michelle (Nichols) Yehling talk to astronomer Dr. Mark SubbaRao of Adler Planetarium and Principal Software Architect Jonathan Fay of Microsoft Research. </description>
+      <pubDate>Wed, 27 Jul 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_054.mp3" />
+      <a10:updated>2011-07-27T14:35:52-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_054.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Kinecting with the Cosmos with Jonathan Fay, Dr. Mark SubbaRao &amp; Michelle Yehling (Part 1)</itunes:subtitle>
+      <itunes:summary>In this episode (part 1), we are on location at Adler Planetarium, Mark and his guest cohost sister, Michelle (Nichols) Yehling talk to astronomer Dr. Mark SubbaRao of Adler Planetarium and Principal Software Architect Jonathan Fay of Microsoft Research. </itunes:summary>
+      <itunes:duration>1/1/0001 12:46:03 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_054.mp3" length="44210366" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_054.mp3" fileSize="44210366" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_053.mp3</guid>
+      <title>Musing #53: Building CTA Watch for Windows Phone with Matt Hidinger</title>
+      <description>In this show, Mark and Clark sit down with Matt Hidinger and talk about the building CTA Watch for Windows Phone 7. Matt discusses his experiences over this past year and shares a great deal of passion about the platform.</description>
+      <pubDate>Wed, 20 Jul 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_053.mp3" />
+      <a10:updated>2011-07-20T12:49:34-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_053.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Building CTA Watch for Windows Phone with Matt Hidinger</itunes:subtitle>
+      <itunes:summary>In this show, Mark and Clark sit down with Matt Hidinger and talk about the building CTA Watch for Windows Phone 7. Matt discusses his experiences over this past year and shares a great deal of passion about the platform.</itunes:summary>
+      <itunes:duration>1/1/0001 12:48:53 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_053.mp3" length="46930926" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_053.mp3" fileSize="46930926" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_052.mp3</guid>
+      <title>Musing #52: Application Security with Glenn Leifheit</title>
+      <description>In this episode, we talk to Glenn Leifheit, a Senior Information Security Consultant at FICO in Minneapolis-St. Paul, Minnesota about security – what to think about, where to start, approaches and best practices.</description>
+      <pubDate>Fri, 15 Jul 2011 10:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_052.mp3" />
+      <a10:updated>2011-07-15T07:10:06-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_052.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Application Security with Glenn Leifheit</itunes:subtitle>
+      <itunes:summary>In this episode, we talk to Glenn Leifheit, a Senior Information Security Consultant at FICO in Minneapolis-St. Paul, Minnesota about security – what to think about, where to start, approaches and best practices.</itunes:summary>
+      <itunes:duration>1/1/0001 12:41:05 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_052.mp3" length="39459625" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_052.mp3" fileSize="39459625" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_051.mp3</guid>
+      <title>Musing #51: TDD with Keith Burnell</title>
+      <description>In this episode, we talk to Keith Burnell, a Software Engineer with Skyline Technologies in Green Bay, Wisconsin about a topic near and dear to all three of us: Test Driven Development.</description>
+      <pubDate>Thu, 30 Jun 2011 16:10:01 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_051.mp3" />
+      <a10:updated>2011-06-30T16:10:01-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_051.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TDD with Keith Burnell</itunes:subtitle>
+      <itunes:summary>In this episode, we talk to Keith Burnell, a Software Engineer with Skyline Technologies in Green Bay, Wisconsin about a topic near and dear to all three of us: Test Driven Development.</itunes:summary>
+      <itunes:duration>1/1/0001 12:43:57 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_051.mp3" length="42208086" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_051.mp3" fileSize="42208086" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_050.mp3</guid>
+      <title>Musing #50: Developer Smackdown is 2 and we just hit show #50!! How do you learn?</title>
+      <description>Thank you for the support, Developer Smackdown is 2!?!? Yes you heard it right. 50 shows in 2 years. Clark and Mark start the show musing a bit and then dive into how might you learn using NuGet as an example. </description>
+      <pubDate>Fri, 17 Jun 2011 12:03:19 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_050.mp3" />
+      <a10:updated>2011-06-30T10:21:13-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_050.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Developer Smackdown is 2 and we just hit show #50!! How do you learn?</itunes:subtitle>
+      <itunes:summary>Thank you for the support, Developer Smackdown is 2!?!? Yes you heard it right. 50 shows in 2 years. Clark and Mark start the show musing a bit and then dive into how might you learn using NuGet as an example. </itunes:summary>
+      <itunes:duration>1/1/0001 1:11:22 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_050.mp3" length="68526676" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_050.mp3" fileSize="68526676" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_049.mp3</guid>
+      <title>Musing #49: Solus: Technology to Help with Peace of Mind</title>
+      <description>In this episode we get a little serious and talk to Nick Pearson, Mike Price and Nishanth Samala about an application they are working on to help friends and loved ones use targeted communications when a medical “situation” make things exceedingly difficult.</description>
+      <pubDate>Fri, 20 May 2011 21:43:01 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_049.mp3" />
+      <a10:updated>2011-06-30T10:40:08-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_049.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Solus: Technology to Help with Peace of Mind</itunes:subtitle>
+      <itunes:summary>In this episode we get a little serious and talk to Nick Pearson, Mike Price and Nishanth Samala about an application they are working on to help friends and loved ones use targeted communications when a medical “situation” make things exceedingly difficult.</itunes:summary>
+      <itunes:duration>1/1/0001 12:45:35 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_049.mp3" length="43775504" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_049.mp3" fileSize="43775504" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_048.mp3</guid>
+      <title>Musing #48: HTML5 Labs with Craig Kitterman</title>
+      <description>In this episode Mark and Clark sit down with Craig Kitterman, Senior Technical Ambassador in the Interoperability Strategy team at Microsoft . Craig schools us on HTML5 Labs and what it brings to web developers.</description>
+      <pubDate>Tue, 10 May 2011 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_048.mp3" />
+      <a10:updated>2011-06-24T10:01:19-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_048.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>HTML5 Labs with Craig Kitterman</itunes:subtitle>
+      <itunes:summary>In this episode Mark and Clark sit down with Craig Kitterman, Senior Technical Ambassador in the Interoperability Strategy team at Microsoft . Craig schools us on HTML5 Labs and what it brings to web developers.</itunes:summary>
+      <itunes:duration>1/1/0001 12:34:24 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_048.mp3" length="24778683" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_048.mp3" fileSize="24778683" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_047.mp3</guid>
+      <title>Musing #47: WCF Web API with Glenn Block and Scott Seely</title>
+      <description>In this show Mark and Clark sit down with Glenn Block and Scott Seely and talk about the new release of WCF’s Web API.  </description>
+      <pubDate>Thu, 05 May 2011 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_047.mp3" />
+      <a10:updated>2011-05-05T00:00:00-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_047.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>WCF Web API with Glenn Block and Scott Seely</itunes:subtitle>
+      <itunes:summary>In this show Mark and Clark sit down with Glenn Block and Scott Seely and talk about the new release of WCF’s Web API.  </itunes:summary>
+      <itunes:duration>1/1/0001 12:39:25 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_047.mp3" length="14198514" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_047.mp3" fileSize="14198514" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_046.mp3</guid>
+      <title>Musing #46: Unicorn Rhinos, Mexican Martini's, and 2 My Style Community Tacos</title>
+      <description>WARNING * WARNING * WARNING, this is a LONG show which is RAW and unfiltered.  If you have small children present, you’ve been warned. During SxSW Clark sat down with Keith Casey, Jeff Blankenburg and Brandon Satrom and talked community. Each of us represent different technical communities and different areas across the United States.  Clark attempts to get to the heart of what does and doesn’t work in their respective communities.</description>
+      <pubDate>Fri, 08 Apr 2011 10:20:48 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_046.mp3" />
+      <a10:updated>2011-04-08T10:20:48-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_046.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Unicorn Rhinos, Mexican Martini's, and 2 My Style Community Tacos</itunes:subtitle>
+      <itunes:summary>WARNING * WARNING * WARNING, this is a LONG show which is RAW and unfiltered.  If you have small children present, you’ve been warned. During SxSW Clark sat down with Keith Casey, Jeff Blankenburg and Brandon Satrom and talked community. Each of us represent different technical communities and different areas across the United States.  Clark attempts to get to the heart of what does and doesn’t work in their respective communities.</itunes:summary>
+      <itunes:duration>1/1/0001 1:33:41 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_046.mp3" length="22495356" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_046.mp3" fileSize="22495356" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_045.mp3</guid>
+      <title>Musing #45: Assert.OhNoHeDidn’t( BDD with Brandon Satrom and Sara Summers );</title>
+      <description>Live from the SxSW show floor, Clark talks with 2 native hipsters, Brandon Satrom and Sara Summers about Behavior Driven Development or BDD for short. </description>
+      <pubDate>Fri, 01 Apr 2011 09:08:13 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_045.mp3" />
+      <a10:updated>2011-04-01T09:16:51-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_045.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Assert.OhNoHeDidn’t( BDD with Brandon Satrom and Sara Summers );</itunes:subtitle>
+      <itunes:summary>Live from the SxSW show floor, Clark talks with 2 native hipsters, Brandon Satrom and Sara Summers about Behavior Driven Development or BDD for short. </itunes:summary>
+      <itunes:duration>1/1/0001 12:45:14 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_045.mp3" length="43436421" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_045.mp3" fileSize="43436421" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_044.mp3</guid>
+      <title>Musing #44: Umbraco with Warren Buckley</title>
+      <description>During SxSW Clark had a chance to sit down with Warren Buckley, front end developer with Umbraco.  Clark and Warren muse everything Umbraco.</description>
+      <pubDate>Wed, 30 Mar 2011 08:27:21 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_044.mp3" />
+      <a10:updated>2011-03-30T08:27:21-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_044.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Umbraco with Warren Buckley</itunes:subtitle>
+      <itunes:summary>During SxSW Clark had a chance to sit down with Warren Buckley, front end developer with Umbraco.  Clark and Warren muse everything Umbraco.</itunes:summary>
+      <itunes:duration>1/1/0001 12:26:06 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_044.mp3" length="25058282" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_044.mp3" fileSize="25058282" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_043.mp3</guid>
+      <title>Musing #43: Chewy Chong serves us some IE9 humble pie.</title>
+      <description>Clark managed to somehow transfer into the Redmond distortion field and meet up with an old friend, Chewy Chong. Chewy works on the IE9 team inside of Windows organization and serves us a delicious slice of IE9 humble pie. We have an honest conversation about today’s browsers, frameworks and the current state state of IE.  Chewy explains what it means to us  developers and site owners.</description>
+      <pubDate>Mon, 28 Mar 2011 11:03:57 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_043.mp3" />
+      <a10:updated>2011-03-29T09:08:56-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_043.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Chewy Chong serves us some IE9 humble pie.</itunes:subtitle>
+      <itunes:summary>Clark managed to somehow transfer into the Redmond distortion field and meet up with an old friend, Chewy Chong. Chewy works on the IE9 team inside of Windows organization and serves us a delicious slice of IE9 humble pie. We have an honest conversation about today’s browsers, frameworks and the current state state of IE.  Chewy explains what it means to us  developers and site owners.</itunes:summary>
+      <itunes:duration>1/1/0001 12:37:19 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_043.mp3" length="35835803" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_043.mp3" fileSize="35835803" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_042.mp3</guid>
+      <title>Musing #42: 3 Guys, 3 Helpers, NOT Three’s Company with Brandon Satrom</title>
+      <description>Clark and Mark sit down with Microsoft’s Brandon Satrom to talk through three very different implementations of an ASP.NET Helper. We dive into the dirty details of each and how come each implementation is just so different.</description>
+      <pubDate>Thu, 24 Mar 2011 13:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_042.mp3" />
+      <a10:updated>2011-03-24T21:48:32-04:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_042.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>3 Guys, 3 Helpers, NOT Three’s Company with Brandon Satrom</itunes:subtitle>
+      <itunes:summary>Clark and Mark sit down with Microsoft’s Brandon Satrom to talk through three very different implementations of an ASP.NET Helper. We dive into the dirty details of each and how come each implementation is just so different.</itunes:summary>
+      <itunes:duration>1/1/0001 12:46:19 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_042.mp3" length="44475830" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_042.mp3" fileSize="44475830" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_041.mp3</guid>
+      <title>Musing #41: http://bit.ly/TheSmackdownTalksToBitly with Matt LeMay</title>
+      <description>What’s the first rule of bit.ly?…You can’t bit.ly a bit.ly!  Mark and Clark talk to Matt LeMay of Bit.ly about their API’s, the analytics that they provide, how they are used, how they fit in to the internet ecosystem and where they are hoping to go in the future.</description>
+      <pubDate>Wed, 16 Feb 2011 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_041.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_041.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>http://bit.ly/TheSmackdownTalksToBitly with Matt LeMay</itunes:subtitle>
+      <itunes:summary>What’s the first rule of bit.ly?…You can’t bit.ly a bit.ly!  Mark and Clark talk to Matt LeMay of Bit.ly about their API’s, the analytics that they provide, how they are used, how they fit in to the internet ecosystem and where they are hoping to go in the future.</itunes:summary>
+      <itunes:duration>1/1/0001 12:46:51 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_041.mp3" length="33738969" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_041.mp3" fileSize="33738969" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_040.mp3</guid>
+      <title>Musing #40: I NEED HELP, HELP, HELPERS</title>
+      <description>In this version, Mark and Clark muse about ASP.NET Helpers and NuGet. What are they, getting started and of course deploying.</description>
+      <pubDate>Thu, 03 Feb 2011 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_040.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_040.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>I NEED HELP, HELP, HELPERS</itunes:subtitle>
+      <itunes:summary>In this version, Mark and Clark muse about ASP.NET Helpers and NuGet. What are they, getting started and of course deploying.</itunes:summary>
+      <itunes:duration>1/1/0001 12:41:10 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_040.mp3" length="39523825" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_040.mp3" fileSize="39523825" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_039.mp3</guid>
+      <title>Musing #39: The Name's Matrix, WebMatrix!</title>
+      <description>Clark and Mark talk about the release of the new web development environment from Microsoft called WebMatrix.  As part of that discussion, they also talk about "Razor", the new view engine syntax.  All of this wouldn't be complete without doing a comparison of the WebMatrix editing environment with Visual Studio and how they coexist.  Helpers and the Nuget Gallery publishing environment help finish up the session.</description>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_039.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_039.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>The Name's Matrix, WebMatrix!</itunes:subtitle>
+      <itunes:summary>Clark and Mark talk about the release of the new web development environment from Microsoft called WebMatrix.  As part of that discussion, they also talk about "Razor", the new view engine syntax.  All of this wouldn't be complete without doing a comparison of the WebMatrix editing environment with Visual Studio and how they coexist.  Helpers and the Nuget Gallery publishing environment help finish up the session.</itunes:summary>
+      <itunes:duration>1/1/0001 12:00:00 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_039.mp3" length="0" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_039.mp3" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_038.mp3</guid>
+      <title>Musing #38: The unplugged history of 271447</title>
+      <description>In this off topic musing, Clark and Mark attempt to chat about Clark's professional career.  It really didn't go how we thought it might when we talked about the idea in the first place, so why bother editing? We leave this one basically the way it got recorded. Have a behind the scenes look as we try to look inside Clark's career. Hopefully his badge still works after we publish this.</description>
+      <pubDate>Mon, 10 Jan 2011 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_038.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_038.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>The unplugged history of 271447</itunes:subtitle>
+      <itunes:summary>In this off topic musing, Clark and Mark attempt to chat about Clark's professional career.  It really didn't go how we thought it might when we talked about the idea in the first place, so why bother editing? We leave this one basically the way it got recorded. Have a behind the scenes look as we try to look inside Clark's career. Hopefully his badge still works after we publish this.</itunes:summary>
+      <itunes:duration>1/1/0001 1:06:32 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_038.mp3" length="47909706" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_038.mp3" fileSize="47909706" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_037.mp3</guid>
+      <title>Musing #37: Talkin ASP.NET MVC with Brandon Satrom</title>
+      <description>Clark and Mark talk to Brandon Satrom of Microsoft about ASP.NET MVC.  We talk about the old and the very new and how MVC has evolved over the years.</description>
+      <pubDate>Fri, 07 Jan 2011 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_037.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_037.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>Talkin ASP.NET MVC with Brandon Satrom</itunes:subtitle>
+      <itunes:summary>Clark and Mark talk to Brandon Satrom of Microsoft about ASP.NET MVC.  We talk about the old and the very new and how MVC has evolved over the years.</itunes:summary>
+      <itunes:duration>1/1/0001 12:57:12 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_037.mp3" length="41195493" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_037.mp3" fileSize="41195493" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_036.mp3</guid>
+      <title>Musing #36: A year in the rear view mirror.</title>
+      <description>In this musing Mark and Clark reflect on a bit of history.  We explore how Developer Smackdown got started, what we've liked and have a few laughs.  One year down, many more to go.</description>
+      <pubDate>Thu, 02 Dec 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_036.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_036.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>A year in the rear view mirror.</itunes:subtitle>
+      <itunes:summary>In this musing Mark and Clark reflect on a bit of history.  We explore how Developer Smackdown got started, what we've liked and have a few laughs.  One year down, many more to go.</itunes:summary>
+      <itunes:duration>1/1/0001 12:00:00 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_036.mp3" length="0" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_036.mp3" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_035.mp3</guid>
+      <title>Musing #35: Take 2-Catching Up: Talking Tech and Gearheading</title>
+      <description>In this musing, Clark and Mark catch up after a summer hiatus and talk about what's been happening - digital pens, Kinect, Windows Phone 7, cars, upcoming events, and a bunch of other ramblings.</description>
+      <pubDate>Wed, 03 Nov 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_035.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_035.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>Take 2-Catching Up: Talking Tech and Gearheading</itunes:subtitle>
+      <itunes:summary>In this musing, Clark and Mark catch up after a summer hiatus and talk about what's been happening - digital pens, Kinect, Windows Phone 7, cars, upcoming events, and a bunch of other ramblings.</itunes:summary>
+      <itunes:duration>1/1/0001 12:35:29 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_035.mp3" length="25555623" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_035.mp3" fileSize="25555623" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_034.mp3</guid>
+      <title>Musing #34: What's that Lync? with George Durzi</title>
+      <description>In this musing, Clark and Mark talk to George Durzi of Clarity Consulting about developing within the Lync Server 2010 environment.  Lync (not to be confused with Linq) is is the Unified Communications environment formerly known as Office Communicator.</description>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_034.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_034.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>What's that Lync? with George Durzi</itunes:subtitle>
+      <itunes:summary>In this musing, Clark and Mark talk to George Durzi of Clarity Consulting about developing within the Lync Server 2010 environment.  Lync (not to be confused with Linq) is is the Unified Communications environment formerly known as Office Communicator.</itunes:summary>
+      <itunes:duration>1/1/0001 12:43:23 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_034.mp3" length="31300638" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_034.mp3" fileSize="31300638" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_033.mp3</guid>
+      <title>Musing #33: UX with Corey Miller</title>
+      <description>In this musing Mark and Clark chat with Microsoft MVP Corey Miller aka The XAML Mammal about everything UX.  Corey dives into what it really means to be a designer in today's world.</description>
+      <pubDate>Tue, 05 Oct 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_033.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_033.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>UX with Corey Miller</itunes:subtitle>
+      <itunes:summary>In this musing Mark and Clark chat with Microsoft MVP Corey Miller aka The XAML Mammal about everything UX.  Corey dives into what it really means to be a designer in today's world.</itunes:summary>
+      <itunes:duration>1/1/0001 12:56:11 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_033.mp3" length="53991861" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_033.mp3" fileSize="53991861" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_032.mp3</guid>
+      <title>Musing #32: TFS Migrations with Ed Blankenship</title>
+      <description>In this musing Clark and Mark chat with MVP Ed Blankenship.  The TFS fan boys sit down and muse about doing TFS migrations.</description>
+      <pubDate>Fri, 24 Sep 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_032.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_032.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TFS Migrations with Ed Blankenship</itunes:subtitle>
+      <itunes:summary>In this musing Clark and Mark chat with MVP Ed Blankenship.  The TFS fan boys sit down and muse about doing TFS migrations.</itunes:summary>
+      <itunes:duration>1/1/0001 12:50:20 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_032.mp3" length="21198866" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_032.mp3" fileSize="21198866" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_031.mp3</guid>
+      <title>Musing #31: GUID my @$$, I plead IUnknown with Chris Woodruff</title>
+      <description>In this musing Clark and Mark chat with MVP Chris Woodruff.  Chris schools us on .NET RIA Services while he reminisces about his DCOM development days in Delphi. </description>
+      <pubDate>Fri, 17 Sep 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_031.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_031.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>GUID my @$$, I plead IUnknown with Chris Woodruff</itunes:subtitle>
+      <itunes:summary>In this musing Clark and Mark chat with MVP Chris Woodruff.  Chris schools us on .NET RIA Services while he reminisces about his DCOM development days in Delphi. </itunes:summary>
+      <itunes:duration>1/1/0001 12:44:16 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_031.mp3" length="18654043" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_031.mp3" fileSize="18654043" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_030.mp3</guid>
+      <title>Musing #30: Taking a REST with Scott Seely</title>
+      <description>Taking a little REST using .NET WCF.  Scott Seely educates us on the use of .NET WCF within the world of REST, POX and URI's, .NET 4.0, REST vs. SOAP, HATEOAS vs. TUK, DataContract vs. XMLSerializable and more religious wars.  This recording was done just minutes after a tornado touched down just outside of DS Studio North so as a result, we were all a little excited. </description>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_030.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_030.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>Taking a REST with Scott Seely</itunes:subtitle>
+      <itunes:summary>Taking a little REST using .NET WCF.  Scott Seely educates us on the use of .NET WCF within the world of REST, POX and URI's, .NET 4.0, REST vs. SOAP, HATEOAS vs. TUK, DataContract vs. XMLSerializable and more religious wars.  This recording was done just minutes after a tornado touched down just outside of DS Studio North so as a result, we were all a little excited. </itunes:summary>
+      <itunes:duration>1/1/0001 12:57:14 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_030.mp3" length="41272411" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_030.mp3" fileSize="41272411" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_029.mp3</guid>
+      <title>Musing #29: Google IO with Wade Wegner</title>
+      <description>In this musing Clark and Mark chat with fellow blue badge Wader Wegner.  We recap what Wade took in while attending the 2010 Google IO Conference.</description>
+      <pubDate>Wed, 21 Jul 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_029.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_029.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Google IO with Wade Wegner</itunes:subtitle>
+      <itunes:summary>In this musing Clark and Mark chat with fellow blue badge Wader Wegner.  We recap what Wade took in while attending the 2010 Google IO Conference.</itunes:summary>
+      <itunes:duration>1/1/0001 12:59:06 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_029.mp3" length="42608427" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_029.mp3" fileSize="42608427" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_028.mp3</guid>
+      <title>Musing #28: HTML5 with Brian Hogan</title>
+      <description>In this musing Clark and Mark chat with Pragmatic Bookshelf author Brian Hogan.  We explore some of the different aspects of HTML5 and what it offers.</description>
+      <pubDate>Fri, 02 Jul 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_028.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_028.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>HTML5 with Brian Hogan</itunes:subtitle>
+      <itunes:summary>In this musing Clark and Mark chat with Pragmatic Bookshelf author Brian Hogan.  We explore some of the different aspects of HTML5 and what it offers.</itunes:summary>
+      <itunes:duration>1/1/0001 12:41:53 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_028.mp3" length="30217296" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_028.mp3" fileSize="30217296" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_027.mp3</guid>
+      <title>Musing #27: Application Architecture and PowerShell with Steven Murawski</title>
+      <description>In this version, Clark and Mark chat with Steven Murawski and talk a bit about PowerShell.  This isn't a show about what PowerShell is but rather why it should be an upfront design tenant of everyone's application. architecture.</description>
+      <pubDate>Wed, 09 Jun 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_027.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_027.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Application Architecture and PowerShell with Steven Murawski</itunes:subtitle>
+      <itunes:summary>In this version, Clark and Mark chat with Steven Murawski and talk a bit about PowerShell.  This isn't a show about what PowerShell is but rather why it should be an upfront design tenant of everyone's application. architecture.</itunes:summary>
+      <itunes:duration>1/1/0001 12:00:00 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_027.mp3" length="0" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_027.mp3" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_026.mp3</guid>
+      <title>Musing #26: Event Driven Architectures with Matt Long</title>
+      <description>We're getting deep with a discussion about Event Driven Architecture - what it is and what it can do.  We're talking to our friend and Microsoft colleague Matt Long</description>
+      <pubDate>Thu, 03 Jun 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_026.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_026.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>Event Driven Architectures with Matt Long</itunes:subtitle>
+      <itunes:summary>We're getting deep with a discussion about Event Driven Architecture - what it is and what it can do.  We're talking to our friend and Microsoft colleague Matt Long</itunes:summary>
+      <itunes:duration>1/1/0001 12:37:25 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_026.mp3" length="35976968" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_026.mp3" fileSize="35976968" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_025.mp3</guid>
+      <title>Musing #25: Multi-Touch with Travis Feirtag</title>
+      <description>In this version, Clark and Mark sit down with Travis Feirtag and talk multi-touch.  We explore the importance of user experience and what role multi-touch plays in applications today.  Of course we dive into what that means to .NET.  Listen along as we start touching UX.</description>
+      <pubDate>Wed, 26 May 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_025.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_025.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Multi-Touch with Travis Feirtag</itunes:subtitle>
+      <itunes:summary>In this version, Clark and Mark sit down with Travis Feirtag and talk multi-touch.  We explore the importance of user experience and what role multi-touch plays in applications today.  Of course we dive into what that means to .NET.  Listen along as we start touching UX.</itunes:summary>
+      <itunes:duration>1/1/0001 1:01:11 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_025.mp3" length="44109011" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_025.mp3" fileSize="44109011" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_024.mp3</guid>
+      <title>Musing #24: TFS Team Build 2010</title>
+      <description>In this version of The Smackdown, Clark and Mark introduce Team Foundation Server's Team Build 2010.</description>
+      <pubDate>Thu, 13 May 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_024.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_024.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TFS Team Build 2010</itunes:subtitle>
+      <itunes:summary>In this version of The Smackdown, Clark and Mark introduce Team Foundation Server's Team Build 2010.</itunes:summary>
+      <itunes:duration>1/1/0001 12:43:22 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_024.mp3" length="31285264" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_024.mp3" fileSize="31285264" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_023.mp3</guid>
+      <title>Musing #23: Intro to OData</title>
+      <description>In this version of The Smackdown, Clark and Mark introduce OData. Our goal was to simply bring some awareness to what is this thing called OData and how can you start finding more information about it.</description>
+      <pubDate>Mon, 19 Apr 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_023.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_023.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Intro to OData</itunes:subtitle>
+      <itunes:summary>In this version of The Smackdown, Clark and Mark introduce OData. Our goal was to simply bring some awareness to what is this thing called OData and how can you start finding more information about it.</itunes:summary>
+      <itunes:duration>1/1/0001 12:35:29 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_023.mp3" length="8575765" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_023.mp3" fileSize="8575765" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_022.mp3</guid>
+      <title>Musing #22: Why Projects Fail!?  Wah, Wah, Wahhhhh</title>
+      <description>This time we talk about our vast experience with failed projects.  Project "X" is the big topic but there were others.</description>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_022.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_022.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>Why Projects Fail!?  Wah, Wah, Wahhhhh</itunes:subtitle>
+      <itunes:summary>This time we talk about our vast experience with failed projects.  Project "X" is the big topic but there were others.</itunes:summary>
+      <itunes:duration>1/1/0001 12:49:57 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_022.mp3" length="12050790" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_022.mp3" fileSize="12050790" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_021.mp3</guid>
+      <title>Musing #21: MIX10 - Live from MIX day 4 (Last Day Recap)</title>
+      <description>Today the quick update turned into a group discussion with Lance Larson, Travis Feirtag and Aaron Hoffman about what we all saw and heard at MIX10.</description>
+      <pubDate>Wed, 17 Mar 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_021.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_021.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>MIX10 - Live from MIX day 4 (Last Day Recap)</itunes:subtitle>
+      <itunes:summary>Today the quick update turned into a group discussion with Lance Larson, Travis Feirtag and Aaron Hoffman about what we all saw and heard at MIX10.</itunes:summary>
+      <itunes:duration>1/1/0001 12:19:04 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_021.mp3" length="4640282" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_021.mp3" fileSize="4640282" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_020.mp3</guid>
+      <title>Musing #20: MIX10 - Live from MIX day 3 (official day 2)</title>
+      <description>Today the quick update turned into a group discussion with Lance Larson, Travis Feirtag and Aaron Hoffman about what we all saw and heard at MIX10.</description>
+      <pubDate>Tue, 16 Mar 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_020.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_020.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>MIX10 - Live from MIX day 3 (official day 2)</itunes:subtitle>
+      <itunes:summary>Today the quick update turned into a group discussion with Lance Larson, Travis Feirtag and Aaron Hoffman about what we all saw and heard at MIX10.</itunes:summary>
+      <itunes:duration>1/1/0001 12:58:15 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_020.mp3" length="14045210" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_020.mp3" fileSize="14045210" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_019.mp3</guid>
+      <title>Musing #19: MIX10 - Live from MIX day 2 (official day 1)</title>
+      <description>Today we got to hear an amazing keynote at MIX10 about Silverlight 4.0 and Windows Phone 7 Series.  Saw some really impressive demos of applications for the phone that were created in only 3 weeks.  Then, went to some sessions talking about the phone, MVVM, app development and more.</description>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_019.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_019.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>MIX10 - Live from MIX day 2 (official day 1)</itunes:subtitle>
+      <itunes:summary>Today we got to hear an amazing keynote at MIX10 about Silverlight 4.0 and Windows Phone 7 Series.  Saw some really impressive demos of applications for the phone that were created in only 3 weeks.  Then, went to some sessions talking about the phone, MVVM, app development and more.</itunes:summary>
+      <itunes:duration>1/1/0001 12:22:12 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_019.mp3" length="5390330" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_019.mp3" fileSize="5390330" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_018.mp3</guid>
+      <title>Musing #18: MIX10 - Live from MIX day 1</title>
+      <description>Today is the pre-conference sessions and we talk about the new Silverlight 4.0 capabilities and a little about ASP.Net MVC 2.0.</description>
+      <pubDate>Sun, 14 Mar 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_018.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_018.mp3" />
+      <itunes:author>Clark Sell and Mark Nichols</itunes:author>
+      <itunes:subtitle>MIX10 - Live from MIX day 1</itunes:subtitle>
+      <itunes:summary>Today is the pre-conference sessions and we talk about the new Silverlight 4.0 capabilities and a little about ASP.Net MVC 2.0.</itunes:summary>
+      <itunes:duration>1/1/0001 12:12:58 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_018.mp3" length="3175026" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_018.mp3" fileSize="3175026" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_017.mp3</guid>
+      <title>Musing #17: Mix10 Smackdown - Were kicking off things.</title>
+      <description>In this musing Clark and Mark kick off their trip to the Microsoft Mix 2010 Conference in Vega$.  We will explore some of the different techniques they use to navigate such a conference.</description>
+      <pubDate>Fri, 12 Mar 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_017.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_017.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Mix10 Smackdown - Were kicking off things.</itunes:subtitle>
+      <itunes:summary>In this musing Clark and Mark kick off their trip to the Microsoft Mix 2010 Conference in Vega$.  We will explore some of the different techniques they use to navigate such a conference.</itunes:summary>
+      <itunes:duration>1/1/0001 12:41:02 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_017.mp3" length="9908219" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_017.mp3" fileSize="9908219" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_016.mp3</guid>
+      <title>Musing #16: Bamboozled in the Office</title>
+      <description>It's the first show of the new year and decade.  Mark and Clark talk about, well, nothing that they planned on.  The show gets bamboozled right from the start and the discussion turns toward where most development is done and that's in your office at home.  We talk about what went into the design and what makes the office work from two similar but still different points of view.</description>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_016.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_016.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Bamboozled in the Office</itunes:subtitle>
+      <itunes:summary>It's the first show of the new year and decade.  Mark and Clark talk about, well, nothing that they planned on.  The show gets bamboozled right from the start and the discussion turns toward where most development is done and that's in your office at home.  We talk about what went into the design and what makes the office work from two similar but still different points of view.</itunes:summary>
+      <itunes:duration>1/1/0001 12:37:46 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_016.mp3" length="15929884" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_016.mp3" fileSize="15929884" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_015.mp3</guid>
+      <title>Musing #15: Martin Woodward talks about Teamprise</title>
+      <description>In this version of The Smackdown Mark and Clark have the awesome opportunity to spend some time with Martin Woodward.  Martin recently joined Microsoft as a result of the Microsoft Teamprise acquisition joining the Visual Studio ALM Suite of tools. Martin tells us all about getting his Microsoft chip installed as well as some Teamprise stuff too.</description>
+      <pubDate>Sun, 07 Mar 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_015.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_015.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Martin Woodward talks about Teamprise</itunes:subtitle>
+      <itunes:summary>In this version of The Smackdown Mark and Clark have the awesome opportunity to spend some time with Martin Woodward.  Martin recently joined Microsoft as a result of the Microsoft Teamprise acquisition joining the Visual Studio ALM Suite of tools. Martin tells us all about getting his Microsoft chip installed as well as some Teamprise stuff too.</itunes:summary>
+      <itunes:duration>1/1/0001 12:36:02 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_015.mp3" length="8707584" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_015.mp3" fileSize="8707584" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_014.mp3</guid>
+      <title>Musing #14: Is Your Robot Looking At My Hinie?</title>
+      <description>Mark and Clark talk about doing home automation using Z-Wave and MS Robotics Studio.  Clark wants to turn his house into a robot and they talk about how to get started with home automation.  Tips and tricks include quickly changing editor font size in Visual Studio 08 - great support for code demos. Woopra web site analytics are also discussed.</description>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_014.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_014.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Is Your Robot Looking At My Hinie?</itunes:subtitle>
+      <itunes:summary>Mark and Clark talk about doing home automation using Z-Wave and MS Robotics Studio.  Clark wants to turn his house into a robot and they talk about how to get started with home automation.  Tips and tricks include quickly changing editor font size in Visual Studio 08 - great support for code demos. Woopra web site analytics are also discussed.</itunes:summary>
+      <itunes:duration>1/1/0001 12:31:41 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_014.mp3" length="13375555" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_014.mp3" fileSize="13375555" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_013.mp3</guid>
+      <title>Musing #13: Home Server and why we like it!</title>
+      <description>Clark and Mark explore how Windows Home Server joined their arsenal of computer hardware and software.  Listen to why and how they both leverage Windows Home Server.</description>
+      <pubDate>Sun, 07 Feb 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_013.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_013.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Home Server and why we like it!</itunes:subtitle>
+      <itunes:summary>Clark and Mark explore how Windows Home Server joined their arsenal of computer hardware and software.  Listen to why and how they both leverage Windows Home Server.</itunes:summary>
+      <itunes:duration>1/1/0001 12:39:20 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_013.mp3" length="16581920" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_013.mp3" fileSize="16581920" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_012.mp3</guid>
+      <title>Musing #12: Are You Mocking Me?!</title>
+      <description>Mark and Clark talk about the use of mocks and stubs for unit testing.  They define each and then talk about when they are best used.  Tips and tricks include data driven testing using Excel and using Ping with IPV6 and IPV4.</description>
+      <pubDate>Sun, 10 Jan 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_012.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_012.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Are You Mocking Me?!</itunes:subtitle>
+      <itunes:summary>Mark and Clark talk about the use of mocks and stubs for unit testing.  They define each and then talk about when they are best used.  Tips and tricks include data driven testing using Excel and using Ping with IPV6 and IPV4.</itunes:summary>
+      <itunes:duration>1/1/0001 12:39:37 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_012.mp3" length="16699255" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_012.mp3" fileSize="16699255" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_011.mp3</guid>
+      <title>Musing #11: Ketchup Time?!?</title>
+      <description>It's been too long so Clark and Mark do a little catching up.</description>
+      <pubDate>Mon, 04 Jan 2010 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_011.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_011.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>Ketchup Time?!?</itunes:subtitle>
+      <itunes:summary>It's been too long so Clark and Mark do a little catching up.</itunes:summary>
+      <itunes:duration>1/1/0001 12:43:57 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_011.mp3" length="18520079" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_011.mp3" fileSize="18520079" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_010.mp3</guid>
+      <title>Musing #10: Windows 7 Boot to VHD</title>
+      <description>Clark and Mark talk about there first experiences with Windows 7 Boot to VHD.</description>
+      <pubDate>Thu, 19 Nov 2009 00:00:00 -0500</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_010.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_010.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>Clark and Mark talk about there first experiences with Windows 7 Boot to VHD.</itunes:summary>
+      <itunes:duration>1/1/0001 12:34:03 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_010.mp3" length="14310662" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_010.mp3" fileSize="14310662" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_009.mp3</guid>
+      <title>Musing #9: Intro to ASP.NET MVC</title>
+      <description>Clark and Mark talk about there first experiences with ASP.NET MVC. It is an MVC Love Fest</description>
+      <pubDate>Fri, 30 Oct 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_009.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_009.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>Clark and Mark talk about there first experiences with ASP.NET MVC. It is an MVC Love Fest</itunes:summary>
+      <itunes:duration>1/1/0001 12:36:44 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_009.mp3" length="15496814" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_009.mp3" fileSize="15496814" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_008.mp3</guid>
+      <title>Musing #8: The Smackdown Site is up and running!!</title>
+      <description>Clark and Mark finally get the DeveloperSmackdown.com site up and running, at least some of it ;).  We're going to explore how and why we got started with the site.</description>
+      <pubDate>Sat, 26 Sep 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_008.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_008.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>Clark and Mark finally get the DeveloperSmackdown.com site up and running, at least some of it ;).  We're going to explore how and why we got started with the site.</itunes:summary>
+      <itunes:duration>1/1/0001 12:43:37 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_008.mp3" length="18387038" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_008.mp3" fileSize="18387038" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_007.mp3</guid>
+      <title>Musing #7: We got Nothing ( sorta )</title>
+      <description>Podcaster’s block.  We’re going to talk about just a few of our favorite features in the world of Windows and\or VSTS.  </description>
+      <pubDate>Fri, 14 Aug 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_007.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_007.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>Podcaster’s block.  We’re going to talk about just a few of our favorite features in the world of Windows and\or VSTS.  </itunes:summary>
+      <itunes:duration>1/1/0001 12:36:50 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_007.mp3" length="15533536" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_007.mp3" fileSize="15533536" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_006.mp3</guid>
+      <title>Musing #6: Unit Testing</title>
+      <description>Clark and Mark start demystifying the black art of automated testing.   This is just the start of a whole series of shows around Automated Testing.</description>
+      <pubDate>Thu, 06 Aug 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_006.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_006.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>Clark and Mark start demystifying the black art of automated testing.   This is just the start of a whole series of shows around Automated Testing.</itunes:summary>
+      <itunes:duration>1/1/0001 12:35:11 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_006.mp3" length="16949318" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_006.mp3" fileSize="16949318" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_005.mp3</guid>
+      <title>Musing #5: Team Build - Then and Now</title>
+      <description>Team Build 2010 or “v3” is coming.   Clark and Mark reflect on a bit of Team Build history and touch on a few things to expect with Team Build 2010.</description>
+      <pubDate>Thu, 16 Jul 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_005.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_005.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>Team Build 2010 or “v3” is coming.   Clark and Mark reflect on a bit of Team Build history and touch on a few things to expect with Team Build 2010.</itunes:summary>
+      <itunes:duration>1/1/0001 12:42:28 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_005.mp3" length="20445785" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_005.mp3" fileSize="20445785" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_004.mp3</guid>
+      <title>Musing #4: Source Control</title>
+      <description>If you write software chances are your using source control.  Clark and Mark talk about a few source control common practices that continue to work on their projects.</description>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_004.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_004.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>If you write software chances are your using source control.  Clark and Mark talk about a few source control common practices that continue to work on their projects.</itunes:summary>
+      <itunes:duration>1/1/0001 12:49:25 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_004.mp3" length="23782842" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_004.mp3" fileSize="23782842" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_003.mp3</guid>
+      <title>Musing #3: TFS Nugget Show</title>
+      <description>TFS is a big product!  Clark and Mark talk about a few of their favorite TFS features and tricks.</description>
+      <pubDate>Thu, 02 Jul 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_003.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_003.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>TFS is a big product!  Clark and Mark talk about a few of their favorite TFS features and tricks.</itunes:summary>
+      <itunes:duration>1/1/0001 12:45:12 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_003.mp3" length="21757406" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_003.mp3" fileSize="21757406" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_002.mp3</guid>
+      <title>Musing #2: The Build Master</title>
+      <description>This is for you Mr. Build Master.  We love you, we need you.  Mark and Clark talk about just how important a “build master” is to software development.</description>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_002.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_002.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>This is for you Mr. Build Master.  We love you, we need you.  Mark and Clark talk about just how important a “build master” is to software development.</itunes:summary>
+      <itunes:duration>1/1/0001 12:42:37 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_002.mp3" length="20524121" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_002.mp3" fileSize="20524121" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+    <item>
+      <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_001.mp3</guid>
+      <title>Musing #1: The Intro</title>
+      <description>Come join Mark and Clark on their madden voyage into podcasting.  We are guaranteed to stumble around but you got to start somewhere, right?</description>
+      <pubDate>Wed, 24 Jun 2009 00:00:00 -0400</pubDate>
+      <a10:link href="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_001.mp3" />
+      <a10:updated>2011-02-22T13:37:22-05:00</a10:updated>
+      <a10:content type="audio/mpeg" src="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_001.mp3" />
+      <itunes:author>Clark Sell, Mark Nichols</itunes:author>
+      <itunes:subtitle>TBD</itunes:subtitle>
+      <itunes:summary>Come join Mark and Clark on their madden voyage into podcasting.  We are guaranteed to stumble around but you got to start somewhere, right?</itunes:summary>
+      <itunes:duration>1/1/0001 12:29:52 AM</itunes:duration>
+      <itunes:keywords />
+      <author>fans@DeveloperSmackdown.com (Clark Sell, Mark Nichols)</author>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_001.mp3" length="14400423" type="audio/mpeg" />
+    <media:content url="http://www.podtrac.com/pts/redirect.mp3/DeveloperSmackdown.com/Services/PodcastServices.svc/GetPodcast/ds_001.mp3" fileSize="14400423" type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit></item>
+  <media:credit role="author">Clark Sell, Mark Nichols</media:credit><media:rating>adult</media:rating><media:description type="plain">Developer Smackdown with Clark Sell and Mark Nichols</media:description></channel>
+</rss>

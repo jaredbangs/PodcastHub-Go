@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+
+<channel>
+	<title>The Lapse Storytelling Podcast</title>
+	<atom:link href="http://www.thelapse.org/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://www.thelapse.org</link>
+	<description>iTunes Best of 2014! &#8220;Beautifully edited &#038; rich in sound,&#8221; true stories that feel like movies. See with your ears. This is The Lapse. New to the show? Try &#8220;His My Arms,&#8221; &#8220;Where&#8217;s Violet,&#8221; or &#8220;Cool Running.&#8221;</description>
+	<lastBuildDate>Wed, 04 Nov 2015 20:25:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+<!-- podcast_generator="Blubrry PowerPress/6.0.5" mode="advanced" -->
+	<itunes:summary>Winner of iTunes Best Podcasts of 2014, &quot;beautifully edited &amp; rich in sound,&quot; sound designer Kyle Gest journeys listeners through true stories, gussied up. See with your ears. This is The Lapse.
+
+New to the show? Try &quot;His My Arms,&quot; &quot;Where&#039;s Violet?&quot; or &quot;Cool Running.&quot; Whether wrongfully arrested in Thailand, contracting flesh-eating bacteria, or taking your parents to Burning Man, we tell true stories that feel like movies.</itunes:summary>
+	<itunes:author>The Lapse Storytellers</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://i.imgur.com/amVKYj5.jpg" />
+	<itunes:owner>
+		<itunes:name>The Lapse Storytellers</itunes:name>
+		<itunes:email>mellowthello@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>mellowthello@gmail.com (The Lapse Storytellers)</managingEditor>
+	<itunes:subtitle>iTunes Best of 2014! &quot;Beautifully edited &amp; rich in sound,&quot; true stories that feel like movies. See with your ears. This is The Lapse.</itunes:subtitle>
+	<image>
+		<title>The Lapse Storytelling Podcast</title>
+		<url>http://thelapse.org/wp-content/uploads/powerpress/The_Lapse_Logo_1400_Blue_Rasterized_2_copy.png</url>
+		<link>http://www.thelapse.org</link>
+	</image>
+	<itunes:category text="Arts">
+		<itunes:category text="Performing Arts" />
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals" />
+	</itunes:category>
+		<rawvoice:rating>TV-14</rawvoice:rating>
+		<rawvoice:frequency>Monthly</rawvoice:frequency>
+	<item>
+		<title>The Greg Reaper &#8211; Greg Armstrong &#124; Episode 33</title>
+		<link>http://www.thelapse.org/the-greg-reaper-greg-armstrong-episode-33/</link>
+		<pubDate>Sun, 01 Nov 2015 02:38:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thelapse.org/?p=551</guid>
+		<comments>http://www.thelapse.org/the-greg-reaper-greg-armstrong-episode-33/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>After witnessing the suicide of a young boy, wherever Greg goes, death seems to follow.
+
+This month&#039;s executive-level supporters, courtesy patreon.com/thelapse - Dan Lesser, Richard Gwirtz, Cindy Crijns, &amp; Jill Galvez. Support The Lapse for as little as $1 a month and get access to hours of additional content.
+
+While this month&#039;s story deals with some markedly darker subject matter, Greg is the co-host of comedy podcast The All Seeing Guys. Insightful, funny, standup guy. Give his exploits a listen.</description>
+		<content:encoded><![CDATA[<p>After witnessing the suicide of a young boy, wherever Greg goes, death seems to follow.</p>
+<p>This month&#8217;s executive-level supporters, courtesy <a href="http://patreon.com/thelapse">patreon.com/thelapse</a> &#8211; Dan Lesser, Richard Gwirtz, Cindy Crijns, &amp; Jill Galvez. Support The Lapse for as little as $1 a month and get access to hours of additional content.</p>
+<p>While this month&#8217;s story deals with some markedly darker subject matter, Greg is the co-host of comedy podcast <a href="http://www.podnose.com/the-all-seeing-guys/" target="_blank">The All Seeing Guys</a>. Insightful, funny, standup guy. Give his exploits a listen.</p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/the-greg-reaper-greg-armstrong-episode-33/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/33_The_Greg_Reaper_-_Greg_Armstrong___Episode_33.mp3" length="40476770" type="audio/mpeg" />
+		<itunes:subtitle>After witnessing the suicide of a young boy, wherever Greg goes, death seems to follow.</itunes:subtitle>
+		<itunes:summary>After witnessing the suicide of a young boy, wherever Greg goes, death seems to follow.
+
+This month&#039;s executive-level supporters, courtesy patreon.com/thelapse - Dan Lesser, Richard Gwirtz, Cindy Crijns, &amp; Jill Galvez. Support The Lapse for as little as $1 a month and get access to hours of additional content.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:40</itunes:duration>
+		</item>
+	<item>
+		<title>Fatal Attractions &#8211; Kyle Gest &#124; Episode 32</title>
+		<link>http://www.thelapse.org/fatal-attractions-kyle-gest-episode-32/</link>
+		<pubDate>Sun, 04 Oct 2015 02:28:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thelapse.org/?p=539</guid>
+		<comments>http://www.thelapse.org/fatal-attractions-kyle-gest-episode-32/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>BOO! How better to scare your pants off than a trip to the local haunted house? Try playing one of the monsters. If you&#039;re not prepared to get punched or spat on, this may not be the job for you. It&#039;s a SPOOKTACULAR Halloween episode of The Lapse!
+
+This month&#039;s Patreon executive producers, courtesy patreon.com/thelapse - Dan Lesser, Richard Gwirtz, Cindy Crijns, &amp; Jill Galvez. Support The Lapse for as little as $1 a month and get access to a wealth of bonus content &lt;3.</description>
+		<content:encoded><![CDATA[<p>BOO! How better to scare your pants off than a trip to the local haunted house? Try playing one of the monsters. If you&#8217;re not prepared to get punched or spat on, this may not be the job for you. It&#8217;s a SPOOKTACULAR Halloween episode of The Lapse!</p>
+<p>This month&#8217;s Patreon executive producers, courtesy <a href="http://patreon.com/thelapse">patreon.com/thelapse</a> &#8211; Dan Lesser, Richard Gwirtz, Cindy Crijns, &amp; Jill Galvez. Support The Lapse for as little as $1 a month and get access to a wealth of bonus content &lt;3.</p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/fatal-attractions-kyle-gest-episode-32/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/32_Fatal_Attractions_-_Kyle_Gest___Episode_32.mp3" length="40966646" type="audio/mpeg" />
+		<itunes:subtitle>BOO! How better to scare your pants off than a trip to the local haunted house? Try playing one of the monsters.  If you&#039;re not prepared to get punched or spat on, this may not be the job for you. It&#039;s a SPOOKTACULAR Halloween episode!</itunes:subtitle>
+		<itunes:summary>BOO! How better to scare your pants off than a trip to the local haunted house? Try playing one of the monsters. Try playing one of the monsters. If you&#039;re not prepared to get punched or spat on, this may not be the job for you. It&#039;s a SPOOKTACULAR Halloween episode!
+
+This month&#039;s Patreon executive producers, courtesy patreon.com/thelapse - Dan Lesser, Richard Gwirtz, Cindy Crijns, &amp; Jill Galvez. Support us for as little as $1 a month and get access to a wealth of bonus content &lt;3.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:46</itunes:duration>
+		</item>
+	<item>
+		<title>Where&#8217;s Violet? &#8211; Felisha Martin &#124; Episode 31</title>
+		<link>http://www.thelapse.org/wheres-violet-felisha-martin/</link>
+		<pubDate>Sun, 06 Sep 2015 00:30:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thelapse.org/?p=531</guid>
+		<comments>http://www.thelapse.org/wheres-violet-felisha-martin/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>Felisha&#039;s mother Violet went missing 22 years ago. No body was ever recovered. Could she really still be out there? How do you a tell a true story when you don&#039;t know what the truth really is? Sometimes the need for closure speaks louder.
+
+Felisha Martin&#039;s journey continues at http://www.missingviolet.com. You&#039;ll find a wealth of pictures, newspaper articles, and more. Share Violet&#039;s image. Ask a friend if they&#039;ve seen her. Ask two. We&#039;ll be using the hashtag #wheresviolet to keep track.
+
+Support us for as little as $1 a month! This episodes executive producers, courtesy of Patreon.com/thelapse: Jill Galvez, Richard Gwirtz, Dan Lesser, and Cindy Crijns.</description>
+		<content:encoded><![CDATA[<p>Felisha&#8217;s mother Violet went missing 22 years ago. No body was ever recovered. Could she really still be out there? How do you a tell a true story when you don&#8217;t know what the truth really is? Sometimes the need for closure speaks louder.</p>
+<p>Felisha Martin&#8217;s journey continues at <a href="http://www.missingviolet.com/" target="_blank">http://www.missingviolet.com</a>. You&#8217;ll find a wealth of pictures, newspaper articles, and more. Share Violet&#8217;s image. Ask a friend if they&#8217;ve seen her. Ask two. We&#8217;ll be using the hashtag #wheresviolet to keep track.</p>
+<p><span style="line-height: 1.5;">Support us for as little as $1 a month! This episodes executive producers, courtesy of Patreon.com/thelapse: Jill Galvez, Richard Gwirtz, Dan Lesser, and Cindy Crijns.</span></p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/wheres-violet-felisha-martin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/_wheresviolet_-_Felisha_Martin___Episode_31.mp3" length="54872448" type="audio/mpeg" />
+		<itunes:subtitle>Felisha&#039;s mother went missing 22 years ago. No body was ever recovered. Could she really still be out there?</itunes:subtitle>
+		<itunes:summary>Felisha&#039;s mother Violet went missing 22 years ago. No body was ever recovered. Could she really still be out there?
+
+Citing a lack of evidence, Violet&#039;s case file was suspended indefinitely. How do you a tell a true story when you don&#039;t know what the truth really is? Sometimes the need for closure speaks louder.
+
+This episodes executive producers, courtesy of Patreon.com/thelapse: Jill Galvez, Richard Gwirtz, Dan Lesser, and Cindy Crijns.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>22:38</itunes:duration>
+		</item>
+	<item>
+		<title>Best of The Lapse &#8211; Year One</title>
+		<link>http://www.thelapse.org/best-of-the-lapse-year-one/</link>
+		<pubDate>Sun, 02 Aug 2015 23:32:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thelapse.org/?p=506</guid>
+		<comments>http://www.thelapse.org/best-of-the-lapse-year-one/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>Some of our very best stories from year one of The Lapse Storytelling Podcast!
+
+This compilation stitches major fan faves with some of our personal picks up to February 2015. If you haven&#039;t listened to the archives, now&#039;s the time to learn what you&#039;re missing out on.
+
+PLUS: Win a copy of the award-winning Taking My Parents to Burning Man, the now-completed film that inspired our episode of the same name. See http://thelapse.org for details.</description>
+		<content:encoded><![CDATA[<p>Some of our very best stories from year one of The Lapse Storytelling Podcast!</p>
+<p>This compilation stitches major fan faves with some of our personal picks up to February 2015. If you haven&#8217;t listened to the archives, now&#8217;s the time to learn what you&#8217;re missing out on.</p>
+<p>PLUS: Win a copy of the award-winning <a href="http://www.amazon.com/gp/product/B012BO7N3O/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B012BO7N3O&amp;linkCode=as2&amp;tag=thelapsstorpo-20&amp;linkId=E3CNXV73H6AMT2F2">Taking My Parents to Burning Man</a>, the now-completed film that inspired our episode of the same name. See http://thelapse.org for details.</p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/best-of-the-lapse-year-one/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Best_of_The_Lapse_-_Year_One.mp3" length="103920667" type="audio/mpeg" />
+		<itunes:subtitle>Some of our very best stories from year one of The Lapse Storytelling Podcast! This compilation stitches major fan faves with some of our personal picks up to February 2015.</itunes:subtitle>
+		<itunes:summary>Some of our very best stories from year one of The Lapse Storytelling Podcast!
+
+This compilation stitches major fan faves with some of our personal picks up to February 2015. If you haven&#039;t listened to the archives, now&#039;s the time to learn what you&#039;re missing out on.
+
+PLUS: Win a copy of the award-winning Taking My Parents to Burning Man, the now-completed film that inspired our episode of the same name. See http://thelapse.org for details.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:11:52</itunes:duration>
+		</item>
+	<item>
+		<title>His My Arms &#8211; Will Lautzenheiser &#124; Episode 30</title>
+		<link>http://www.thelapse.org/his-my-arms-will-lautzenheiser/</link>
+		<pubDate>Sun, 12 Jul 2015 02:00:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thelapse.org/?p=495</guid>
+		<comments>http://www.thelapse.org/his-my-arms-will-lautzenheiser/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>Flesh-eating bacteria. A loss of all four of his limbs. And then? That&#039;s when Will&#039;s story gets really wild.
+
+I could&#039;ve spoken to Will Lautzenheiser for days. He&#039;s a wonderfully insightful, well-spoken guy with an experience that just fascinates on every conceivable level. If you&#039;d like to hear the uncut (three hour!) interview, you&#039;ll find it at Patreon.com/thelapse.
+
+Huge thank you and shout out to Mara Bresnahan, without whom Will and I may never have met.</description>
+		<content:encoded><![CDATA[<p>Flesh-eating bacteria. A loss of all four of his limbs. And then? That&#8217;s when Will&#8217;s story gets really wild.</p>
+<p>I could&#8217;ve spoken to Will Lautzenheiser for days. He&#8217;s a wonderfully insightful, well-spoken guy with an experience that just fascinates on every conceivable level. If you&#8217;d like to hear the uncut (three hour!) interview, you&#8217;ll find it at Patreon.com/thelapse.</p>
+<p>Huge thank you and shout out to Mara Bresnahan, without whom Will and I may never have met.</p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/his-my-arms-will-lautzenheiser/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/His_My_Arms_-_Will_Lautzenheiser___Episode_30.mp3" length="70632049" type="audio/mpeg" />
+		<itunes:subtitle>Flesh-eating bacteria. A loss of all four of his limbs. And then? That&#039;s when Will&#039;s story gets really wild.</itunes:subtitle>
+		<itunes:summary>Flesh-eating bacteria. A loss of all four of his limbs. And then? That&#039;s when Will&#039;s story gets really wild.
+
+I could&#039;ve spoken to Will Lautzenheiser for days. He&#039;s a wonderfully insightful, well-spoken guy with an experience that just fascinates on every conceivable level. If you&#039;d like to hear the uncut (three hour!) interview, you&#039;ll find it at Patreon.com/thelapse.
+
+Huge thank you and shout out to Mara Bresnahan, without whom Will and I may never have met.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>29:11</itunes:duration>
+		</item>
+	<item>
+		<title>My So-Called Fiancé &#124; Episode 29</title>
+		<link>http://www.thelapse.org/my-so-called-fiance-episode-29/</link>
+		<pubDate>Sun, 14 Jun 2015 03:47:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thelapse.org/?p=488</guid>
+		<comments>http://www.thelapse.org/my-so-called-fiance-episode-29/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>When your love for a stranger is enough to bail them out of prison... by pretending to be their bride.
+
+Sara is the perfect example of someone who had a story, but didn&#039;t quite know how to share it. After our interview, finding these little insights she never knew she had, she joked that I should offer a degree in Lapse-ology. Any takers?
+
+Support The Lapse on Patreon for as little as $1! As a solo-produced podcast, your support keeps this show alive.</description>
+		<content:encoded><![CDATA[<p>When your love for a stranger is enough to bail them out of prison&#8230; by pretending to be their bride.</p>
+<p>Sara is the perfect example of someone who had a story, but didn&#8217;t quite know how to share it. After our interview, finding these little insights she never knew she had, she joked that I should offer a degree in Lapse-ology. Any takers?</p>
+<p><a href="http://patreon.com/thelapse">Support The Lapse on Patreon</a> for as little as $1! As a solo-produced podcast, your support keeps this show alive.</p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/my-so-called-fiance-episode-29/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/My_So-Called_Fiance_-_Sara___Episode_29.mp3" length="35346564" type="audio/mpeg" />
+		<itunes:subtitle>When your love for a stranger is enough to bail them out of prison... by pretending to be their bride.</itunes:subtitle>
+		<itunes:summary>When your love for a stranger is enough to bail them out of prison... by pretending to be their bride.
+
+Sara is the perfect example of someone who had a story, but didn&#039;t quite know how to share it. After our interview, finding these little insights she never knew she had, she joked that I should offer a degree in Lapse-ology. Any takers?
+
+Support The Lapse on Patreon for as little as $1! As a solo-produced podcast, your support keeps this show alive.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>18:08</itunes:duration>
+		</item>
+	<item>
+		<title>The Last Word &#8211; Jupiter Diego &#124; Episode 28</title>
+		<link>http://www.thelapse.org/the-last-word-jupiter-diego-episode-28/</link>
+		<pubDate>Sun, 24 May 2015 07:59:51 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=467</guid>
+		<comments>http://www.thelapse.org/the-last-word-jupiter-diego-episode-28/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>Death with dignity. An angel of mercy. Assisted suicide.
+
+Jupiter Diego&#039;s father is a renowned conductor and violinist, a man used to a certain quality of life. But as he&#039;s struck terminally ill, as his body is no longer what it was, he seeks the help of his family. Shouldn&#039;t he die on his own terms?
+
+
+You can listen to more of Jupiter Diego&#039;s work on his website as well as on the &quot;What if you lost a high speed chase?&quot; episode of This is Actually Happening. I will admit, I would&#039;ve loved to edit that one.
+
+Support The Lapse on Patreon for as little as $1! As a solo-produced podcast, your support goes further than you could possibly imagine.</description>
+		<content:encoded><![CDATA[<p>Death with dignity. An angel of mercy. Assisted suicide.</p>
+<p>Jupiter Diego&#8217;s father is a renowned conductor and violinist, a man used to a certain quality of life. But as he&#8217;s struck terminally ill, as his body is no longer what it was, he seeks the help of his family. Shouldn&#8217;t he die on his own terms?<a href="http://thelapse.org/wp-content/uploads/2015/05/deathdignity.jpg"><br />
+</a></p>
+<p>You can listen to more of Jupiter Diego&#8217;s work on <a href="http://www.jupiterdiego.com">his website</a> as well as on the &#8220;What if you lost a high speed chase?&#8221; episode of <a href="http://feeds.misfitrad.io/happening">This is Actually Happening</a>. I will admit, I would&#8217;ve loved to edit that one.</p>
+<p><a href="http://patreon.com/thelapse">Support The Lapse on Patreon</a> for as little as $1! As a solo-produced podcast, your support goes further than you could possibly imagine.</p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/the-last-word-jupiter-diego-episode-28/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Last_Word_-_Jupiter_Diego_Episode_28.mp3" length="29110047" type="audio/mpeg" />
+		<itunes:subtitle>Death with dignity. An angel of mercy. Assisted suicide.</itunes:subtitle>
+		<itunes:summary>Death with dignity. An angel of mercy. Assisted suicide.
+
+Jupiter Diego&#039;s father is a renowned conductor and violinist, a man used to a certain quality of life. But as he&#039;s struck terminally ill, as his body is no longer what it was, he seeks the help of his family. Shouldn&#039;t he die on his own terms?</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:47</itunes:duration>
+		</item>
+	<item>
+		<title>Cool Running &#8211; Jennifer Purdie &#124; Episode 27</title>
+		<link>http://www.thelapse.org/cool-running-jennifer-purdie-episode-27/</link>
+		<pubDate>Sun, 03 May 2015 07:54:15 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=453</guid>
+		<comments>http://www.thelapse.org/cool-running-jennifer-purdie-episode-27/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>Sub-zero temps, chest-high mud, and ravenous birds? We&#039;re going on an adventure.
+
+Jennifer Purdie is on a mission to complete a marathon across all seven continents. But to do that, she&#039;ll have to brave the most grueling trek of them all: a seven hour gauntlet across the Antarctic tundra.
+
+
+If you appreciate the work that I do here at The Lapse, I sure could use your support. Sharing these stories is my passion, but it ultimately comes out of my pocket. Please consider making a contribution on our Patreon campaign and be a part of keeping this something special.
+
+Follow Jennifer&#039;s ongoing adventures at jenniferpurdie.com.
+Download &quot;Cool Running&quot; NOW on iTunes, Stitcher, or stream it at the link below.</description>
+		<content:encoded><![CDATA[<p>Sub-zero temps, chest-high mud, and ravenous birds? We&#8217;re going on an adventure.</p>
+<p>Jennifer Purdie is on a mission to complete a marathon across all seven continents. But to do that, she&#8217;ll have to brave the most grueling trek of them all: a seven hour gauntlet across the Antarctic tundra.<a href="http://thelapse.org/wp-content/uploads/2015/05/a1dddc21cc223c71d6606de96ffab292.jpg"><br />
+</a></p>
+<p>If you appreciate the work that I do here at The Lapse, I sure could use your support. Sharing these stories is my passion, but it ultimately comes out of my pocket. Please consider making a contribution on our <a href="http://www.patreon.com/thelapse">Patreon campaign</a> and be a part of keeping this something special.</p>
+<p>Follow Jennifer&#8217;s ongoing adventures at<a href="http://jenniferpurdie.com"> jenniferpurdie.com</a>.</p>
+<h3>Download &#8220;Cool Running&#8221; NOW on <a href="https://itunes.apple.com/us/podcast/cool-running-jennifer-purdie/id816816401?i=341274247&amp;mt=2">iTunes</a>, <a href="http://www.stitcher.com/podcast/the-lapse">Stitcher</a>, or stream it at the link below.</h3>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/cool-running-jennifer-purdie-episode-27/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Cool_Running_-_Jennifer_Purdie_-_Episode_27.mp3" length="30987490" type="audio/mpeg" />
+		<itunes:subtitle>Sub-zero temps, chest-high mud, and ravenous birds? We&#039;re going on an adventure.</itunes:subtitle>
+		<itunes:summary>Sub-zero temps, chest-high mud, and ravenous birds? We&#039;re going on an adventure.
+
+Jennifer Purdie is on a mission to complete a marathon across all seven continents. But to do that, she&#039;ll have to brave the most grueling trek of them all: a seven hour gauntlet across the Antarctic tundra.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:07</itunes:duration>
+		</item>
+	<item>
+		<title>The Hole In My Sock &#8211; Natasha Porter &#124; Episode 26</title>
+		<link>http://www.thelapse.org/the-hole-in-my-sock-natasha-porter-episode-26/</link>
+		<pubDate>Sun, 12 Apr 2015 17:47:52 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=437</guid>
+		<comments>http://www.thelapse.org/the-hole-in-my-sock-natasha-porter-episode-26/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>How could a hole in your sock mean the end of your life? When you don&#039;t actually find one.
+
+Natasha Porter was on vacation in Australia when she very was struck with a very unlikely illness. Not one in a hundred, but one in a hundred thousand. She still lives with its ramifications to this day.
+
+What strikes me most about Natasha&#039;s story, aside from the harrowing experience of it all, are the psychological consequences of such a rare and sudden illness. Like the universe is out to get you. That feeling, at least, is something I can relate to.
+
+Like the show? Support us! Running The Lapse does not pay the rent, but for as little as $1, you can keep it running. Plus you&#039;ll find out about that time I was on a reality show. Awesome, right? That&#039;s Patreon.com/thelapse.
+
+Download &quot;The Hole in My Sock&quot; NOW on iTunes, Stitcher, or stream it at the link below.</description>
+		<content:encoded><![CDATA[<div class="shareContent">How could a hole in your sock mean the end of your life? When you don&#8217;t actually find one.</div>
+<div class="shareContent"></div>
+<p>
+<div class="shareContent">Natasha Porter was on vacation in Australia when she very was struck with a very unlikely illness. Not one in a hundred, but one in a hundred thousand. She still lives with its ramifications to this day.</div>
+</p>
+<div class="shareContent"></div>
+<p>
+<div class="shareContent">What strikes me most about Natasha&#8217;s story, aside from the harrowing experience of it all, are the psychological consequences of such a rare and sudden illness. Like the universe is out to get you. That feeling, at least, is something I can relate to.</div>
+<div class="shareContent"></div>
+</p>
+<p>
+<div class="shareContent">Like the show?<a href="http://www.patreon.com/thelapse"> Support us</a>! Running The Lapse does not pay the rent, but for as little as $1, you can keep it running. Plus you&#8217;ll find out about that time I was on a reality show. Awesome, right? That&#8217;s <a href="http://patreon.com/thelapse">Patreon.com/thelapse</a>.</div>
+<div class="shareContent"></div>
+</p>
+<h3 class="shareContent">Download &#8220;The Hole in My Sock&#8221; NOW on <a href="https://itunes.apple.com/ca/podcast/lapse-storytelling-podcast/id816816401?mt=2">iTunes</a>, <a href="http://www.stitcher.com/podcast/the-lapse">Stitcher</a>, or stream it at the link below.</h3>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/the-hole-in-my-sock-natasha-porter-episode-26/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Hole_In_My_Sock_-_Natasha_Porter___Episode_26.mp3" length="34789348" type="audio/mpeg" />
+		<itunes:subtitle>How could a hole in your sock mean the end of your life? When you don&#039;t actually find one.</itunes:subtitle>
+		<itunes:summary>How could a hole in your sock mean the end of your life? When you don&#039;t actually find one.
+ 
+Natasha Porter was on vacation in Australia when she very was struck with a very unlikely illness. Not one in a hundred, but one in a hundred thousand. She still lives with its ramifications to this day.
+
+Like the show? Support us! Running The Lapse does not pay the rent, but for as little as $1, you can keep it running. Plus you&#039;ll find out about that time I was on a reality show. Awesome, right? That&#039;s Patreon.com/thelapse.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>17:54</itunes:duration>
+		</item>
+	<item>
+		<title>The Freshman &#8211; Chad Michael &#124; Episode 25</title>
+		<link>http://www.thelapse.org/the-freshman-chad-michael-episode-25/</link>
+		<pubDate>Sun, 22 Mar 2015 15:06:44 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=428</guid>
+		<comments>http://www.thelapse.org/the-freshman-chad-michael-episode-25/#comments</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>You&#039;re 13. You&#039;re gay. And you&#039;re an evangelical Christian.
+
+As a shy, slightly effeminate teen, making friends with the other lads isn&#039;t easy for Chad Michael. But when his eyes meet the big blues of another church boy, the connection is undeniable... and his secret unmentionable.
+
+
+Chad&#039;s known as The Video Poet. As a graduate of USC Film School, he merges filmmaking prowess with slam poetry cred. The poem that inspired him to tell this story, the personal side of this story, is Dear American Youth Pastor. Check it out.
+
+If you&#039;re a teen in the Pasadena area and you&#039;re looking for a non-judgmental place, somebody to talk to, you&#039;ll find Chad at All Saints Episcopal Church.
+
+
+
+Support The Lapse on Patreon for as little as $1! With your help, we can have more episodes, more often.
+Download &quot;The Freshman&quot; NOW on iTunes, Stitcher, or stream it at the link below.</description>
+		<content:encoded><![CDATA[<p>You&#8217;re 13. You&#8217;re gay. And you&#8217;re an evangelical Christian.</p>
+<p>As a shy, slightly effeminate teen, making friends with the other lads isn&#8217;t easy for Chad Michael. But when his eyes meet the big blues of another church boy, the connection is undeniable&#8230; and his secret unmentionable.<a href="http://thelapse.org/wp-content/uploads/2015/03/Gay-Jesus.png"><br />
+</a></p>
+<p>Chad&#8217;s known as <a href="http://thevideopoet.com/">The Video Poet</a>. As a graduate of USC Film School, he merges filmmaking prowess with slam poetry cred. The poem that inspired him to tell this story, the personal side of this story, is <a href="https://www.youtube.com/watch?v=CBW4R8vjA1Q"><em>Dear American Youth Pastor</em></a>. Check it out.</p>
+<p>If you&#8217;re a teen in the Pasadena area and you&#8217;re looking for a non-judgmental place, somebody to talk to, you&#8217;ll find Chad at <a href="http://allsaints-pas.org/">All Saints Episcopal Church</a>.</p>
+<p><iframe src="https://www.youtube.com/embed/CBW4R8vjA1Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="http://www.patreon.com/thelapse">Support The Lapse on Patreon</a> for as little as $1! With your help, we can have more episodes, more often.</p>
+<h3>Download &#8220;The Freshman&#8221; NOW on <a href="https://itunes.apple.com/ca/podcast/freshman-chad-michael-episode/id816816401?i=338194047&amp;mt=2">iTunes,</a> <a href="http://www.stitcher.com/podcast/the-lapse">Stitcher,</a> or stream it at the link below.</h3>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/the-freshman-chad-michael-episode-25/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Freshman_-_Chad_Michael___Episode_25.mp3" length="35285338" type="audio/mpeg" />
+		<itunes:subtitle>You&#039;re 13. You&#039;re gay. And you&#039;re an evangelical Christian.</itunes:subtitle>
+		<itunes:summary>You&#039;re 13. You&#039;re gay. And you&#039;re an evangelical Christian.
+
+As a shy, slightly effeminate teen, making friends with the other lads isn&#039;t easy for Chad Michael. But when his eyes meet the big blues of another church boy, the connection is undeniable... and his secret unmentionable.
+
+Support The Lapse on Patreon for as little as $1! www.patreon.com/thelapse</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>18:09</itunes:duration>
+		</item>
+	<item>
+		<title>Hollywood Sugar Beets &#8211; Ryan Uytdewilligen &#124; Episode 24</title>
+		<link>http://www.thelapse.org/hollywood-sugar-beets-ryan-uytdewilligen-episode-24/</link>
+		<pubDate>Sun, 01 Mar 2015 21:22:04 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=411</guid>
+		<description>Coming of Age. Family Legacies. The Ca-merican Dream.
+
+Ryan Uytdewilligen - go on, try and say it - ached for a change of scenery. Silver screens, big city lights, Hollywood nights. But as a third generation farm boy with an increasingly ill family to tend to, his path may have already been set.
+
+If you&#039;re among our many American listeners, settle in. We&#039;ve got a true blue Canadian accent coming atcha.
+
+Support The Lapse on Patreon for as little as $1! We&#039;re a mere $22 from our goal as of this post.
+Download Hollywood Sugar Beets NOW on iTunes, Stitcher, or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Hollywood_Sugar_Beats_-_Ryan_Uytdewilligen___Episode_24.mp3" length="33700508" type="audio/mpeg" />
+		<itunes:subtitle>Coming of Age. Family Legacies. The Ca-merican Dream. - Ryan Uytdewilligen - go on, try and say it - ached for a change of scenery. Silver screens, big city lights, Hollywood nights. But as a third generation farm boy with an increasingly ill family t...</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>17:20</itunes:duration>
+		</item>
+	<item>
+		<title>Mom &#124; Episode 23</title>
+		<link>http://www.thelapse.org/mom-lyne-p-episode-23/</link>
+		<pubDate>Sun, 08 Feb 2015 16:40:30 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=395</guid>
+		<description>One year of The Lapse Storytelling Podcast! What better guest than the very first storyteller I ever met? My mother.
+
+When you hear of a town named like &quot;Maple Ridge,&quot; you might think it remote. Canadian. Peaceful. For both my mum and I, that stereotype holds true for all but the latter. This is but one of those tales: the very unusual friendship between my mother and a meth-addicted homeless man.
+
+
+
+As of this episode, we&#039;re a mere $50 shy of our Patreon goal. In order to continue at the pace we&#039;re at, ever and onward with no hiatus, the show can&#039;t live off its savings. For as little as a buck, you can keep us out of the red. Happy anniversary, you lovely people.
+Download &quot;Mom&quot; on iTunes, Stitcher, or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Mom_-_Lyne_P___Episode_23.mp3" length="20675187" type="audio/mpeg" />
+		<itunes:subtitle>One year of The Lapse Storytelling Podcast! What better guest than the very first storyteller I ever met? My mother.</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>14:04</itunes:duration>
+		</item>
+	<item>
+		<title>Meet My Rapist &#8211; Jessie Kahnweiler &#124; Episode 22</title>
+		<link>http://www.thelapse.org/meet-rapist-jessie-kahnweiler-episode-22/</link>
+		<pubDate>Sun, 18 Jan 2015 18:45:02 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=381</guid>
+		<description>Jessie Kahnweiler had a tough sell: a short satirical comedy about rape. Wait, wait, wait - hear us out.
+
+Years ago, in her college years, Jessie was raped. For more than half a decade she&#039;d been trying to tell herself she was okay. Outwardly, that&#039;s what she told people. But that creeping sensation, the kind where deep down something is dreadfully wrong, it was only a matter of time before it gurgled back up.
+
+
+
+But Jessie has kind of did the impossible. She&#039;s a talented, intelligent, filmmaker with a wicked sense of a humor. So guess what? Her film is really, really funny.
+
+This episode is the story behind the story, but if you&#039;ve yet to watch Meet My Rapist, you&#039;ll find it embedded right here on thelapse.org. It was a selection at the 2014 Slamdance Film Festival. You&#039;d be missing something special if you skipped it.
+
+
+
+Want to hear the full, unedited interview? Keep The Lapse alive on Patreon. We&#039;re a mere $65 from our goal as of this writing and we&#039;ve got a whack of fun stuff if you do.
+Download Meet My Rapist NOW on iTunes, Stitcher, or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/22_Meet_My_Rapist_-_Jessie_Kahnweiler___Episode_22.mp3" length="34067310" type="audio/mpeg" />
+		<itunes:subtitle>Here&#039;s a tough sell: a short satirical comedy about rape. Wait, wait, wait - hear us out.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>23:22</itunes:duration>
+		</item>
+	<item>
+		<title>I Made This &#8211; Kyle Gest &#124; Episode 21</title>
+		<link>http://www.thelapse.org/made-kyle-gest-episode-21/</link>
+		<pubDate>Mon, 12 Jan 2015 07:02:38 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=376</guid>
+		<description>I, Kyle Gest, have been accused of being both very fortunate and incredibly unlucky. Truth is, without that combination, I may never have started this show. These are the origins of The Lapse Storytelling Podcast.
+Fair warning, they&#039;re more dramatic than you might expect.
+
+
+
+Got $1? Keep The Lapse alive on Patreon. If you&#039;re curious about the how and why of Kyle&#039;s high school experience, you can find a live version of that story on Rain City Chronicles.
+Download I Made This HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/I_Made_This_-_Kyle_Gest___Episode_21.mp3" length="27382754" type="audio/mpeg" />
+		<itunes:subtitle>I, Kyle Gest, have been accused of being both very fortunate and incredibly unlucky. Truth is, without that combination, I may never have started this show.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:13</itunes:duration>
+		</item>
+	<item>
+		<title>Minisode 1 &#124; Monica Hamburg&#8217;s Final Date</title>
+		<link>http://www.thelapse.org/minisode-1-monica-hamburg/</link>
+		<pubDate>Sun, 04 Jan 2015 20:32:15 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=360</guid>
+		<description>How could episode 19&#039;s Monica Hamburg POSSIBLY go out with that lunatic again? Find out what happened on her very final date. Spoilers for episode 19&#039;s The Force. And if you dig this one, Minisode 2 is available RIGHT NOW at Patreon!
+
+
+
+I&#039;ve been busting butts to make this a show you think is worth supporting. We don&#039;t have the crew or the budget most shows of this quality have. The Lapse is supported entirely by you, and it needs your help to keep running. We&#039;re half way to our first goal. Spare a dollar?
+ Download Minisode 1 HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Minisode_1_-_Monica_Hamburg_s_Final_Date.mp3" length="13251250" type="audio/mpeg" />
+		<itunes:subtitle>How could episode 19&#039;s Monica Hamburg POSSIBLY go out with that lunatic again? Find out what happened on her very final date. Spoilers for episode 19&#039;s The Force. And if you dig this one, Minisode 2 is available RIGHT NOW at Patreon.com/TheLapse!</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>5:20</itunes:duration>
+		</item>
+	<item>
+		<title>Depression Quest &#8211; Sean Michael Hayes &#124; Episode 20</title>
+		<link>http://www.thelapse.org/depression-quest-sean-michael-hayes-episode-20/</link>
+		<pubDate>Sun, 14 Dec 2014 08:06:12 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=352</guid>
+		<description>Ketamine is a drug largely used in veterinary clinics. Recreationally, it&#039;s used to induce an out of body experience. The oft-sought &quot;K-Hole.&quot; But Sean Michael Hayes was looking to score for a different reason. He was trying to save his life.
+
+One in ten North Americans is diagnosed with major depressive disorder. Many more live in silence, believing that what they&#039;re experiencing is normal, or convincing themselves that medication for the mind is something to be ashamed of. This is the story of Sean&#039;s quest for normalcy.
+
+
+
+
+Sean Michael Hayes is the author of a trilogy of books about his experience, the first of which, Five Weeks in the Amazon is available here. We just barely graze it in our episode, but the book spans the full breadth of Sean&#039;s time in Peru. Look for his second memoir, I Killed a Black Dog, coming soon. If you&#039;re not familiar with the quote, think Churchill.
+
+Patreon news! Once a month we&#039;ll be debuting extra-special bonus vignettes exclusive to our contributors. These&#039;ll be short pieces under five minutes, either original or bits we love but just couldn&#039;t fit into the program. Wondering what happened on Monica&#039;s final date? How about the mysterious black spots that afflicted Sean in Thailand? You&#039;ll find all that with a donation to our Patreon campaign. I&#039;m trying, folks. I need your support.
+Download Depression Quest HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Depression_Quest_-_Sean_Hayes___Episode_20.mp3" length="36342491" type="audio/mpeg" />
+		<itunes:subtitle>Ketamine is a drug largely used in veterinary clinics. Recreationally, it&#039;s used to induce an out of body experience. The oft-sought &quot;K-Hole.&quot; But Sean Michael Hayes was looking to score for a different reason. He was trying to save his life.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:58</itunes:duration>
+		</item>
+	<item>
+		<title>The Force &#8211; Monica Hamburg &#124; Episode 19</title>
+		<link>http://www.thelapse.org/force-monica-hamburg-episode-19/</link>
+		<pubDate>Sun, 23 Nov 2014 09:55:31 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=343</guid>
+		<description>Impersonating an officer carries up to a two year sentence. But what if you genuinely believed you were one? The wonderfully funny Monica Hamburg shares what might humbly be described as the Worst. Date. Ever.
+
+
+
+ 
+
+Monica was an absolute treat to have on the show. She&#039;s the host of her very own, very dark, very funny podcast, Dazed and Convicted. If you dig weird criminals and the dregs of Craigslist, you should absolutely check her out.
+
+Heads up for this episode. We talk sexy talk. If you&#039;ve got kids in the room, there&#039;s a brief reference to a job of the blowing variety.
+Download The Force HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Force_-_Monica_Hamburg___Episode_19.mp3" length="28979037" type="audio/mpeg" />
+		<itunes:subtitle>Impersonating an officer carries up to a two year sentence. But what if you genuinely believed you were one? Monica Hamburg shares what might humbly be described as the Worst. Date. Ever.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:39</itunes:duration>
+		</item>
+	<item>
+		<title>Scenic Route &#8211; Gavin Kennedy &#124; Episode 18</title>
+		<link>http://www.thelapse.org/scenic-route-gavin-kennedy-episode-18/</link>
+		<pubDate>Mon, 03 Nov 2014 06:14:57 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=327</guid>
+		<description>Two dudes. Two bikes. 11,357 kilometres. What could possibly go wrong?
+
+Gavin Kennedy was one of those rare people who made a mad drunken bet and actually stuck to it. He wasn&#039;t a cyclist. He hadn&#039;t trained for this. But sense be damned: he was biking from Vancouver, Canada to God Knows, Argentina.
+
+
+
+
+All of Gavin&#039;s adventures, including way more than we could ever possibly mention on this show, can be found on his travelogue - www.twodudesonbikes.com. If that&#039;s down when you read this, tune in shortly. It should swing online again.
+Download Scenic Route HERE on iTunes or stream it at the link below.
+ </description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Scenic_Route_-_Gavin_Kennedy___Episode_18.mp3" length="21446332" type="audio/mpeg" />
+		<itunes:subtitle>Two dudes. Two bikes. 11,357 kilometres. What could possibly go wrong?</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:11</itunes:duration>
+		</item>
+	<item>
+		<title>Mocking Bird &#8211; Karina Sims &#124; Episode 17</title>
+		<link>http://www.thelapse.org/mocking-bird-karina-sims-episode-17/</link>
+		<pubDate>Sun, 12 Oct 2014 22:49:52 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=319</guid>
+		<description>Kids are beautiful, wonderful, disgusting creatures, aren&#039;t they?
+
+Dwayne really really likes to spit. He&#039;s good at it. Really good. Maybe Guinness World Records good. What does one do with such talent? Evidently, you make archenemies with this week&#039;s storyteller, Karina Sims.
+
+
+
+Karina&#039;s the author of Sinners Circle. It&#039;s about purveyor of porn, Amanda Troy. By day, she&#039;s a sex shop employee. By night? Serial killer. If you dig Karina&#039;s voice, her sweet cynicism is all over her novel. Check it out.
+Download Mocking Bird HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/17_Mocking_Bird_-_Karina_Sims___Episode_17.mp3" length="13442355" type="audio/mpeg" />
+		<itunes:subtitle>Kids are beautiful, wonderful, disgusting creatures, aren&#039;t they?</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>8:38</itunes:duration>
+		</item>
+	<item>
+		<title>The War Against War &#8211; Rosa Del Duca &#124; Episode 16</title>
+		<link>http://www.thelapse.org/war-war-rosa-del-duca-episode-16/</link>
+		<pubDate>Sun, 21 Sep 2014 01:26:14 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=312</guid>
+		<description>Rosa Del Duca joined the U.S. National Guard at seventeen. She&#039;d spend nearly half a decade trying to escape it.
+
+This is probably the longest episode we&#039;ve had since the beginning, but it&#039;s bite-sized compared to Rosa&#039;s experience as a conscientious objector. If I had all the time and all the money, her story could fill a feature. Fortunately, her (excellent) memoir fills that void. Hit up Rosa&#039;s site for more on her work. I recommend it.
+
+
+
+Credit for this episode&#039;s interview goes to Jessie Brennan. Bang up job, lady.
+
+Please, if you haven&#039;t, visit Patreon.com/thelapse and help keep The Lapse is business. The clock, she&#039;s a tickin&#039;. Don&#039;t wait till she stops.
+Download The War Against War HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_War_Against_War_-_Rosa_Del_Duca___Episode_16.mp3" length="21287641" type="audio/mpeg" />
+		<itunes:subtitle>Rosa joined the U.S. National Guard at seventeen. She&#039;d spend nearly half a decade trying to escape it.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:04</itunes:duration>
+		</item>
+	<item>
+		<title>The Good Guy Defense &#8211; George De Young &#124; Episode 15</title>
+		<link>http://www.thelapse.org/good-guy-defense-george-de-young-episode-15/</link>
+		<pubDate>Mon, 01 Sep 2014 21:28:39 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=298</guid>
+		<description>George De Young was framed. And the Thai Police were in on it.
+
+It&#039;s funny, despite this being one of the show&#039;s more incredible stories, George has never actually listened to The Lapse. He pitched me on a lark from a Craigslist ad. Even after our interview, he still had to ask, &quot;what&#039;s the show called again?&quot; Hope we did you justice, George.
+
+
+
+Major thanks to Jessie Brennan for this week&#039;s transcription! I forgot to credit you in the audio portion of the show. You&#039;re the best.
+
+If you&#039;ve yet to contribute to our Patreon campaign, please consider it. There is a clock, and it is ticking.
+
+Download The Good Guy Defense HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Good_Guy_Defense_-_George_De_Young___Episode_15.mp3" length="20906089" type="audio/mpeg" />
+		<itunes:subtitle>George De Young was framed. And the Thai Police were in on it.</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>13:49</itunes:duration>
+		</item>
+	<item>
+		<title>Awkward &#8211; Marshall Whitlock &#124; Episode 14</title>
+		<link>http://www.thelapse.org/awkward-marshall-whitlock-episode-14/</link>
+		<pubDate>Sat, 16 Aug 2014 21:21:59 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=275</guid>
+		<description>Ah, the pity date. When you just don&#039;t have a good enough excuse to say &quot;no.&quot;  Marshall Whitlock returns to The Lapse with what might be the funniest story we&#039;ve ever had.
+
+
+
+Tact. Some got it. Some don&#039;t. If you&#039;re the cringing type, settle in. It gets awkward.
+
+If this show brings you just the smallest bit of joy, please donate to our Patreon campaign. We&#039;ve got rewards ranging from behind the scenes access to personalized lessons in storytelling, straight from me to you. You can keep The Lapse living for as little as $2.00 a month. An affordable cause, if ever there was one. Visit Patreon.com/TheLapse today.
+Download Awkward HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Marshall_Whitlock_-_Awkward_-_Episode_14.mp3" length="16862546" type="audio/mpeg" />
+		<itunes:subtitle>Ah, the pity date. When you just don&#039;t have a good enough excuse to say &quot;no.&quot;  Marshall Whitlock returns to The Lapse with what might be the funniest story we&#039;ve ever had.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:00</itunes:duration>
+		</item>
+	<item>
+		<title>Crew Change &#8211; Becka Vees &#124; Episode 13</title>
+		<link>http://www.thelapse.org/crew-change-becka-vees-episode-13/</link>
+		<pubDate>Sat, 02 Aug 2014 22:48:15 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=260</guid>
+		<description>&quot;Where do I download The Crew Change?&quot;
+
+You won&#039;t find it. Not unless you know someone who knows someone. Not unless you&#039;re part of the underground, the cats who ride the rails. The drifters, hobos, and punks that hitch like it&#039;s a living. And why shouldn&#039;t they? They ain&#039;t got no other livin&#039;.
+
+
+
+You won&#039;t find a copy because The Crew Change is the stowaway&#039;s bible. It&#039;s the Anarchist&#039;s Cookbook of the rails; a complete guide to when, where, and how to catch a free ride... without getting caught.
+
+Heads up! I&#039;m on TV. Catch me Wednesday nights on The Audience Canada at 10PM on The W Network. Tune back in to http://thelapse.org where you can catch direct links to the episodes I&#039;m in.
+Download Crew Change HERE on iTunes or stream at it the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/13_Crew_Change_-_Becka_Vees___Episode_13.mp3" length="19164604" type="audio/mpeg" />
+		<itunes:subtitle>&quot;Where do I download The Crew Change?&quot;  You won&#039;t find it. Not unless you know someone who knows someone. Not unless you&#039;re part of the underground, the cats who ride the rails. The drifters, hobos, and punks that hitch like it&#039;s a living.</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>12:36</itunes:duration>
+		</item>
+	<item>
+		<title>The Spy Club &#8211; Kyle Gest &#124; Episode 12</title>
+		<link>http://www.thelapse.org/spy-club-kyle-gest-episode-12/</link>
+		<pubDate>Sun, 20 Jul 2014 01:17:47 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=253</guid>
+		<description>I was an eleven year old Peeping Tom. I loved James Bond. I wanted to be James Bond. Which is why, naturally, I became the founder and president of Spy Club.
+
+This is a first for The Lapse, in that this story is by yours truly, Kyle Gest. We&#039;d originally recorded guest narration (big ups to William Hopkins, accent extraordinaire), but a couple catastrophes later, we couldn&#039;t use it. The final result is our very first story without an additional narrator. This is straight from me to you! I think it&#039;s a barrel of monkeys.
+
+
+
+A reminder for my Canadian brethren: I&#039;m on TV! You can catch me Wednesday nights on The W Network at 10PM Pacific. Check your local listings for The Audience Canada if you&#039;re keen to put a face to the voice.
+Download The Spy Club HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Spy_Club_-_Kyle_Gest.mp3" length="16700449" type="audio/mpeg" />
+		<itunes:subtitle>I was an eleven year old Peeping Tom.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>10:53</itunes:duration>
+		</item>
+	<item>
+		<title>Odd Couple &#8211; Linda Feuerhelm &#124; Episode 11</title>
+		<link>http://www.thelapse.org/odd-couple-linda-feuerhelm-episode-11/</link>
+		<pubDate>Mon, 30 Jun 2014 06:07:48 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=245</guid>
+		<description>For a while, mum and dad are perfect. Right, even when they&#039;re wrong. It&#039;s only as we get older that our parents become humanized. People with problems. Linda Feuerhelm should&#039;ve been too young to have that revelation, but as you&#039;ll hear in this week&#039;s episode... there&#039;s something very wrong with Linda&#039;s mum.
+
+
+
+Major, major thanks to Jessie Brennan for this episode&#039;s transcription and to Alex Ricci for the ongoing editorial assistance. I&#039;m so sorry, I forgot to mention them both in this episode&#039;s credits. They&#039;re absolute gems. I&#039;ll be mentioning them again the next.
+
+I&#039;m on vacation, so it&#039;ll be an extra week before the show returns. Worry not! We&#039;ll see you in three.
+Download Odd Couple HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Odd_Couple_-_Linda_Feuerhelm_Episode_11.mp3" length="16802260" type="audio/mpeg" />
+		<itunes:subtitle>Something is very wrong with Linda&#039;s mum.</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>10:58</itunes:duration>
+		</item>
+	<item>
+		<title>Wish I Was A Little Bit Smaller &#8211; Emily Levy &#124; Episode 10</title>
+		<link>http://www.thelapse.org/wish-i-was-a-little-bit-smaller-episode-10/</link>
+		<pubDate>Sun, 15 Jun 2014 01:53:51 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=238</guid>
+		<description>Emily Levy is 6&quot;1&#039;. If that doesn&#039;t seem like a big deal, try again. The average Canadian woman is less than 5&#039;4&quot;. Emily is taller than 99.6% of all the world&#039;s women combined.
+
+This is the original, unaired pilot of The Lapse Storytelling Podcast. With a couple hiccups in our regular scheduled programming, I thought it&#039;d be a treat to share just where The Lapse came from. It&#039;s funny. I didn&#039;t realize how much narration I did back then.
+
+
+
+We&#039;ve all got a story to tell. A great story. Hell, multiple great stories. The trick is, while everybody&#039;s got one, it&#039;s the telling that makes the story tick. I started The Lapse with that theory in mind and I still believe it&#039;s true. I hope you dig this one. I&#039;m still proud of it.
+Download Wish I Was A Little Bit Smaller HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Wish_I_Was_a_Little_Bit_Smaller_-_Episode_10.mp3" length="5242880" type="audio/mpeg" />
+		<itunes:subtitle>Emily is taller than 99.6% of all the world&#039;s women combined.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>12:29</itunes:duration>
+		</item>
+	<item>
+		<title>State of Emergency &#8211; Gabriel Bellman &#124; Episode 9</title>
+		<link>http://www.thelapse.org/state-of-emergency-episode-9/</link>
+		<pubDate>Sun, 01 Jun 2014 17:46:46 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=230</guid>
+		<description>Gabriel Bellman has witnessed more disasters than any one person rightfully should. Volcanoes, earthquakes, riots, terrorism... Despite hopping around the U.S. from state to state, where Gabriel goes, bad news seems to follow.
+
+The strange thing about being a magnet for disaster? It begins to feel familiar. Routine. Call him unlucky, but the man lives to tell about it.
+
+
+
+Gabriel is the founder of the Frozen Film Festival in San Francisco. He&#039;s been running the thing since 2006 and it&#039;s begun to attract some seriously talented filmmakers. If you&#039;re going to be in San Fran July 17th - 20th, check it out. He&#039;s also a director himself; his latest documentary, The Bellman Equation, is available online. And if that weren&#039;t enough, Gabriel runs his own (250+ episode!) podcast Film 4 Thought.
+Download State of Emergency HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/State_of_Emergency_-_Gabriel_Bellman___Episode_9.mp3" length="11128263" type="audio/mpeg" />
+		<itunes:subtitle>Gabriel Bellman has witnessed more disasters than any one person rightfully should. Volcanoes, earthquakes, riots, terrorism... Despite hopping around the U.S. from state to state, where Gabriel goes, bad news seems to follow.</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>10:32</itunes:duration>
+		</item>
+	<item>
+		<title>A Few Loose Screws &#8211; Wichita Sims &#124; Episode 8</title>
+		<link>http://www.thelapse.org/a-few-loose-screws-episode-8/</link>
+		<pubDate>Sun, 18 May 2014 22:23:16 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=222</guid>
+		<description>This is, without question, the darkest episode The Lapse has ever aired.
+
+Try not to take what I&#039;m about to say as reductive. Because when Wichita Sims underwent treatment for breast cancer, the ingredients were a known quantity: chemo, radiation, group counseling. It was standard practice. Routinized. Regimented. She stuck to the recipe and she lived to tell it.
+
+
+
+There&#039;s no such thing as boilerplate brain surgery. One slip, one miscalculation, and you may irreparably change a human being. When Wichita developed a brain tumor, her doctor told her not to worry. Unfortunately, that is where her story begins.
+
+For more on Wichita Sims, including her previous struggles with breast cancer, you can read her work online at www.WichitaSims.com.
+Download A Few Loose Screws HERE on iTunes or stream it at the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/A_Few_Loose_Screws_-_Wichita_Sims___Episode_8.mp3" length="12764196" type="audio/mpeg" />
+		<itunes:subtitle>This is, without question, the darkest episode The Lapse has ever aired.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:48</itunes:duration>
+		</item>
+	<item>
+		<title>Taking My Parents to Burning Man &#124; Episode 7</title>
+		<link>http://www.thelapse.org/taking-parents-burning-man-episode-7/</link>
+		<pubDate>Mon, 05 May 2014 08:02:03 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=206</guid>
+		<description>Taking your conservative parents to Burning Man is one thing. Filming every moment is another.
+
+This marks a particularly special episode of The Lapse: two storytellers, one story. Speaking to co-directors Joel Ashton McCarthy and Bryant &quot;Spry Bry&quot; Boesen was a treat. Matthau and Lemon would be proud; they&#039;re an Odd Couple in the best sense, just mismatched enough to compliment one another. In a lot of ways, Joel has more in common with Charles and Lee, Bryant&#039;s parents.
+
+
+
+Rather than give away its namesake, aptly named Taking My Parents to Burning Man, this episode explores more of the dynamic between Joel and Bryant. I think it&#039;s a pretty fabulous companion piece. Two voices is a lot of work to edit with, so settle in for something special. It might be a while before this kind of episode again.
+
+In the meantime, you need to see this movie. Get tickets at the Soho Film Festival in New York for May 17th now because the film has sold out at every screening thus far. You can also buy tickets in Vancouver at the Rio Theatre on May 30th and May 31st.
+
+Bryant Boesen is moving on to his next Burning Man-esque venture with The Art of Expression. It&#039;s beautiful. Just incredibly gorgeous. You can also watch him breathe fire which is worth hitting up for that alone.
+
+Joel McCarthy is just about to enter production on After Film School, a delightfully black comedy that&#039;s being funded in part by Telus. The pitch video already makes me smile.
+
+After you listen to this, you can get a whole free freakin&#039; audiobook!
+Visit www.audibletrial.com/TheLapse. Seriously, they&#039;re run by Amazon and their selection is amazing. They want to help hosting this show a little and give you guys free stuff in the process, but only if you hit that link. Get your free audiobook now.
+Listen to Episode 7: Taking My Parents to Burning Man on iTunes or stream it below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Taking_My_Parents_to_Burning_Man___Episode_7.mp3" length="22414377" type="audio/mpeg" />
+		<itunes:subtitle>Getting your conservative parents to Burning Man is one thing. Filming every moment is another.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Some Kinda Magic by Christopher James Schuh &#124; Episode 6</title>
+		<link>http://www.thelapse.org/some-kinda-magic-episode-6/</link>
+		<pubDate>Sat, 19 Apr 2014 23:49:33 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=197</guid>
+		<description>The classic magician is a dying breed. Christopher James Schuh represents a sect of dreamers bent on keeping that tradition alive. Not a relic of vaudevillian past or some Criss Angel special still haunting Spike TV. I&#039;ve seen the man float a table across the room with nary a wire in sight. He&#039;s good. Real good.
+
+
+
+If watching the illusion is fascinating, so too is getting a glimpse behind the curtain. This episode is for the kid in all of you. It&#039;s wonder. It&#039;s whimsy. It&#039;s Some Kinda Magic.
+
+For more on Christopher James Schuh, including tour info, videos, and pictures of the table trick in action, be sure to check out his site.
+
+Exciting stuff! We&#039;ve recorded our very first international story with more to come. Busy, busy, busy but keep sending those pitches. Not good story will be turned away. And if you want to contribute to the show from behind the scenes, you can get details here. Looking for story curators, interviewers, and sound people, people!
+
+Download &quot;Some Kinda Magic&quot; on iTunes HERE!</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/06_Some_Kinda_Magic_-_Christopher_James_Schuh___Episode_6.mp3" length="16152120" type="audio/mpeg" />
+		<itunes:subtitle>The classic magician is a dying breed. Christopher James Schuh represents a sect of dreamers bent on keeping that tradition alive.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>10:53</itunes:duration>
+		</item>
+	<item>
+		<title>Stranger Danger by Rob Puittinen &#124; Episode 5</title>
+		<link>http://www.thelapse.org/stranger-danger-episode-5/</link>
+		<pubDate>Sat, 05 Apr 2014 20:04:48 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=174</guid>
+		<description>Like strangers, like dangers, fear takes many forms. Ever wish you had an opportunity to reshape the smirk on every childhood bully? Give &#039;em all a good fistful of knuckles? Rob Puittinen got that opportunity in a way he never anticipated.
+
+Like Rob, I was no stranger to small town living. I grew up in the Fraser Valley, another peacefully named dung heap on the outskirts of greater Vancouver. Years from now, should I have a kid, here&#039;s the piece of advice I&#039;ll give him: &quot;Livin&#039; in a small town don&#039;t make you invincible, boy.&quot; With hope, my Canadian accent will have matured into a rugged southern drawl.
+
+Few announcements to make while you download.  The show&#039;s growing faster than I anticipated. We&#039;re getting a God&#039;s honest following here, and for that, I love ya. But as the workload increases, The Lapse Storytelling Podcast is Hiring Assistants. See that post for details.
+
+Number two, you might just hear The Lapse on satellite radio, XM Channel 123. That&#039;s right! PRX Remix dug us enough to license a couple episodes for broadcast. Right alongside big brothers like The Moth. The pay is peanuts for us, so don&#039;t clap too loudly, but look at that. Two months in the cockpit and we&#039;re already flying. Let&#039;s see where this baby takes us.
+
+Third, if you&#039;re the disaffected type, if you feel like your vote doesn&#039;t matter, I&#039;ve got news: just a single review from you on iTunes makes us shoot up the rankings. You actually do make a difference, and you&#039;ll keep this show running. Pretty please. Leave a review on iTunes.
+
+Listen to Stranger Danger below or GET IT HERE on iTunes.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Stranger_Danger_-_Rob_Puittinen___Episode_5.mp3" length="14627770" type="audio/mpeg" />
+		<itunes:subtitle>Ever wish you had another opportunity to reshape that smirk on every childhood bully? Give &#039;em all a good fistful of knuckles? Rob Puittinen got that opportunity in a way he never anticipated.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>9:49</itunes:duration>
+		</item>
+	<item>
+		<title>43 &#038; Pregnant by Lee-Anne Ekland &#124; Episode 4</title>
+		<link>http://www.thelapse.org/43-pregnant-lee-anne-ekland/</link>
+		<pubDate>Sat, 22 Mar 2014 22:38:05 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=148</guid>
+		<description>You&#039;re pregnant. 43 years old. A 1 in 3 chance your child might have Down Syndrome. Do you follow through?
+
+Whatever your belief, understand this:  when the hard and fast rules of your life are thrust in front of you, it&#039;s impossible not to question them. Broad strokes of black and white morality soon blend to grey. Cue Lee-Anne Ekland. Fair warning: she&#039;s been through a lot.
+
+
+
+This week&#039;s episode gets a little ambitious, skipping and jumping between Lee-Anne&#039;s past and present. For me, it was like putting together a really good puzzle. I think you&#039;ll dig the result.
+
+After you listen to this story, you need to check out Lee-Anne Ekland&#039;s blog. Especially if you&#039;re a mother. Her story here continues there to this day. That&#039;s a spoiler warning if you&#039;re wondering.
+
+Download the story here on iTunes or hit the stream below.
+
+ </description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/43_Pregnant_-_Lee-Anne_Ekland.mp3" length="10518127" type="audio/mpeg" />
+		<itunes:subtitle>Pregnancy. 43 years old. A 1 in 3 chance your child might have Down Syndrome. Do you follow through?</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:27</itunes:duration>
+		</item>
+	<item>
+		<title>Secret Mexican Popstar by Mann Cuevas &#124; Episode 3</title>
+		<link>http://www.thelapse.org/mann-cuevas-mexican-popstar/</link>
+		<pubDate>Sun, 09 Mar 2014 22:37:02 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=122</guid>
+		<description>Mann Cuevas is a #1 hit-single popstar. Between you and I? It&#039;s a secret.
+
+A visit to Manuel&#039;s work in Vancouver might net you a free cup of coffee. A step off the plane with Mann in Mexico will likely get you trampled. For everyone who wonders what it&#039;s like to be Clark Kent, this is your episode.
+
+Whether you&#039;re familiar with his work or not, you should absolutely listen to the Mann himself, including his brand new Terra EP. Even if you&#039;re not a fan of the genre, the Mexican music industry is a fascinating wild-west of a place. If you just can&#039;t get enough Mann in your life, check out his hour-long documentary, MANN:2013.
+
+To be honest, I&#039;m excited to see the turnout for this one. Either you&#039;ve not a clue who Mann Cuevas is... or you know exactly who he is and that&#039;s the only reason you&#039;re listening to this podcast. I&#039;ll update you on the stats in the weeks to come. ¡Órale! Mexico!
+
+Get it on iTunes or the link below.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/Secret_Mexican_Popstar_-_Mann_Cuevas.mp3" length="11076948" type="audio/mpeg" />
+		<itunes:subtitle>Mann Cuevas is a #1 hit-single popstar. Between you and I? It&#039;s a secret.  A visit to Manuel&#039;s work in Vancouver might net you a free cup of coffee. A step off the plane with Mann in Mexico will likely get you trampled.</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>14:36</itunes:duration>
+		</item>
+	<item>
+		<title>A Virgin Too Lucky by Marshall Whitlock &#124; Episode 2</title>
+		<link>http://www.thelapse.org/virgin-too-lucky-marshall-whitlock/</link>
+		<pubDate>Sun, 23 Feb 2014 17:55:55 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=112</guid>
+		<description>When you&#039;re a virgin, sex for the first time seems impossible. The older you get, the more futile the fantasy. But as the cliche goes, be careful what you wish for. Marshall Whitlock was one virgin too lucky.
+
+
+
+ 
+
+ 
+
+This marks the second episode of The Lapse and I couldn&#039;t be more excited to share it. Marshall and I were university buds, a combo, like ale and bitters. Strong, dark, stout. Recommended in moderation. Trust me when I say this: you know a guy well enough, you&#039;re certain to pull a good goddamned story out of him. Not the least of which is how he lost his virginity.
+
+I&#039;ll make my listeners a bet: if you&#039;ve lost your virginity in a more incredible, more outlandish way, send us a message. We&#039;ll have you on the show.
+
+Check out the episode below or nab it on iTunes.</description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/A_Virgin_Too_Lucky_-_Marshall_Whitlock.mp3" length="8123596" type="audio/mpeg" />
+		<itunes:subtitle>When you&#039;re a virgin, sex for the first time seems impossible. The older you get, the more futile the fantasy. But as the cliche goes, be careful what you wish for. Marshall Whitlock was one virgin too lucky.</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:08</itunes:duration>
+		</item>
+	<item>
+		<title>The Upside of Cancer by TJ Kelly &#124; Episode 1</title>
+		<link>http://www.thelapse.org/upside-cancer-tj-kelly/</link>
+		<pubDate>Sun, 09 Feb 2014 01:04:29 +0000</pubDate>
+		<guid isPermaLink="false">http://thelapse.org/?p=75</guid>
+		<description>Even cancer has a silver lining, at least when you listen to TJ Kelly&#039;s story. With her, the very fist episode of The Lapse is LIVE!
+
+I met TJ on a television show, of all things, debuting at the end of March. She&#039;s a fabulous, funny lady that&#039;ll make you laugh even in spite of her circumstances. We stumbled into the story when I asked her about her blog, a site she once owned called Girl in a Van, chronicling her adventures across the U.S. She&#039;d stopped writing for it. When I asked her why, she told me she&#039;d need a couple more drinks first.
+
+I obliged.
+
+You don&#039;t expect the C Word after a couple drinks. Where TJ&#039;s road trip ends is where this story begins. She hopes to one day publish a memoir on her experience.
+
+Sidenote: It&#039;s my birthday! Please do me one little thing. Like The Lapse on Facebook and share it with somebody, anybody. It&#039;d sincerely help me out. That means more content from The Lapse and the possibility of food on my table. Get the episode here on iTunes.
+
+ </description>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Upside_of_Cancer_-_TJ_Kelly.mp3" length="11888727" type="audio/mpeg" />
+		<itunes:subtitle>Cancer? If you ask TJ Kelly, it ain&#039;t all bad. The Lapse Storytelling Podcast is everything your favourite movie is, but the stories are true. They&#039;re true stories. Gussied up.</itunes:subtitle>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>16:22</itunes:duration>
+		</item>
+</channel>
+</rss>

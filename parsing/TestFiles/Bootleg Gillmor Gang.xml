@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:yt="http://gdata.youtube.com/schemas/2007" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+   <channel>
+      <title>Bootleg Gillmor Gang</title>
+      <description>Pipes Output</description>
+      <link>http://pipes.yahoo.com/pipes/pipe.info?_id=cb54c4087c8c18e444e9f3f086e80709</link>
+      <atom:link rel="next" href="http://pipes.yahoo.com/pipes/pipe.run?_id=cb54c4087c8c18e444e9f3f086e80709&amp;_render=rss&amp;page=2" />
+      <pubDate>Thu, 01 Oct 2015 23:01:26 +0000</pubDate>
+      <generator>http://pipes.yahoo.com/pipes/</generator>
+   <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheGillmorGangShow" /><feedburner:info uri="thegillmorgangshow" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><language>en-us</language><media:rating>adult</media:rating><media:thumbnail url="http://www.crunchbase.com/assets/images/resized/0001/7446/17446v1-max-250x250.jpg" /><itunes:explicit>yes</itunes:explicit><itunes:image href="http://www.crunchbase.com/assets/images/resized/0001/7446/17446v1-max-250x250.jpg" /><itunes:subtitle>Pipes Output</itunes:subtitle></channel>
+</rss><!-- fe6.yql.bf1.yahoo.com compressed/chunked Thu Oct  1 23:01:25 UTC 2015 -->

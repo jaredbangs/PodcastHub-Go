@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+<channel>
+	<title>Linux In Da House  Ogg-Vorbis Feed</title>
+	<link>http://linuxindahouse.org</link>
+    <description>Linux in Da House is a show about One family that is 100% GNU/Linux.</description>
+	<language>en-us</language>
+	<copyright>Creative Commons License Some Rights Reserved</copyright>
+	
+	
+
+	<lastBuildDate>Sun, 26 Jan 2014 18:30:00 EDT</lastBuildDate>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/LinuxInDaHouseOgg-vorbisFeed" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="linuxindahouseogg-vorbisfeed" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Linux In Da House Episode 013</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>Paige talks about her experiences with Krita</description> 
+		<pubDate>Sun, 26 Jan 2014 16:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/lidh_013-2014-01-26.ogg" length="36968530" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/lidh_013-2014-01-26.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 012</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>Post 2013 Ohio Linuxfest Wrap up</description> 
+		<pubDate>Wed, 02 Oct 2013 19:51:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/lidh_012-2013-10-02.ogg" length="29623775" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/lidh_012-2013-10-02.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 011</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>On the way to Ohio Linux Fest 2013 we talk about the excitement!</description> 
+		<pubDate>Wed, 18 Sep 2013 19:51:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/lidh_011-2013-09-13.ogg" length="10225952" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/lidh_011-2013-09-13.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 010</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>A new laptop, SELF, KDE 4, OpenSuse</description> 
+		<pubDate>Sun, 22 Jul 2012 00:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/lidh_010-2012-07-22.ogg" length="28199271" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/lidh_010-2012-07-22.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 009</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>Paige discusses her adventures with Inkscap and Synfig studio, Linux Mint woes.</description> 
+		<pubDate>Mon, 28 May 2012 00:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/linuxInDaHouse_009-2012-05-31.ogg" length="34121332" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/linuxInDaHouse_009-2012-05-31.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 008</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>Paige reviews the Wacom Bamboo tablet she got for Christmas, gimp, audacity, creating ring tones</description> 
+		<pubDate>Sun, 01 Jan 2012 10:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/linuxInDaHouse_008-2012-01-01.ogg" length="44715893" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/linuxInDaHouse_008-2012-01-01.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 007</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>Paige reviews Linux Mint 12 RC, Gnome 3 and Unity, Ubuntu and hardware woes</description> 
+		<pubDate>Tue, 22 Nov 2011 10:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/linuxInDaHouse_007-2011-11-22.ogg" length="30500982" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/linuxInDaHouse_007-2011-11-22.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 006</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>Linux h8trs, gimp stuff, review of Beneath a Steel Sky and Trauma, Ubuntu 11.10 upgrade debacle</description> 
+		<pubDate>Tue, 25 Oct 2011 10:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/linuxInDaHouse_006-2011-10-23.ogg" length="46628444" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/linuxInDaHouse_006-2011-10-23.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 005</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>Paige does some gimp work, reviews of Linux Action Show, GNU World Order, Linux News Log and Welcome 2 My Nightmare</description> 
+		<pubDate>Sun, 25 Sep 2011 10:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/linuxInDaHouse_005-2011-09-25.ogg" length="37135849" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/linuxInDaHouse_005-2011-09-25.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 004</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>RevolutionOS, BSD, Gimp, Inkscape</description> 
+		<pubDate>Sun, 08 May 2011 10:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/linuxInDaHouse_004-2011-05-08.ogg" length="50548384" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/linuxInDaHouse_004-2011-05-08.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 003</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>GNU 4 freedoms, OpenOffice, School, Gimp</description> 
+		<pubDate>Mon, 28 Mar 2011 10:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/linuxInDaHouse_003-2011-03-28.ogg" length="30489778" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/linuxInDaHouse_003-2011-03-28.ogg</guid>
+</item>
+
+<item>
+		<title>Linux In Da House Episode 002</title>
+		<link>http://www.linuxindahouse.org</link>
+        <description>Paige creates wallpaper with gimp, Samba, ssh, sshfs</description> 
+		<pubDate>Tue, 15 Feb 2011 10:30:00 EDT</pubDate>
+        <enclosure url="http://www.tlltsarchive.org/archives/linuxInDaHouse_002-2011-02-15.ogg" length="52390763" type="audio/ogg" />
+        <guid>http://www.tlltsarchive.org/archives/linuxInDaHouse_002-2011-02-15.ogg</guid>
+</item>
+</channel>
+</rss>

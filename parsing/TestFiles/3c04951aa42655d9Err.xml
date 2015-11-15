@@ -1,0 +1,156 @@
+<?php
+
+date_default_timezone_set('UTC');
+
+define('LIBSYN_ROOT', dirname(dirname(dirname(__FILE__))));
+
+set_include_path(
+	get_include_path() 
+	. PATH_SEPARATOR . LIBSYN_ROOT . DIRECTORY_SEPARATOR . 'library' 
+	. PATH_SEPARATOR . LIBSYN_ROOT . DIRECTORY_SEPARATOR . 'library4' 
+);
+
+include 'Zend/Loader/Autoloader.php';
+
+Zend_Loader_Autoloader::getInstance()->setFallbackAutoloader(true);
+
+try {
+	$context = new Libsyn_Context();
+
+	$trafficker = Libsyn_Service_Trafficker::getInstance();
+
+	$url = $trafficker->trafficRequest($_SERVER['REQUEST_URI']);
+
+	$url = rewriteDevelopmentUrl($url);
+
+	issueRedirect($url, $trafficker->showData, $trafficker->fileData);
+}
+catch (Exception $e) {
+	if ($e->getCode() != 404 && $e->getCode() != 403) {
+		Libsyn_Log::fatal($e);
+	}
+
+	if (!$trafficker->isDebug()) {
+		issueError($_SERVER['REQUEST_URI'], $e->getCode(), $e->getMessage());
+	}
+}
+
+
+/** 
+ * Issues a redirect to the provided URL.
+ * Will take into account Facebook user agent.
+ * @param string $url Destination URL
+ */
+function issueRedirect($url, $show, $media) {
+	global $context;
+
+	if (!empty($url)) {
+		$fileName = basename(parse_url($url, PHP_URL_PATH));
+		$mimeType = Libsyn_Utilities::getMimeType($fileName);
+
+		// Facebook doesn't handle redirects so well and it uses the Content-Type
+		// header to determine whether or not it's going to try to embed
+		// a link using one of it's players.  We want to make sure that Facebook
+		// does embed our audio specifically.  Since facebook's URL scraper
+		// sends a 206 request and isn't even concerned with checking the content
+		// we'll not send them any - instead 200 the response and exit out, but
+		// first send the proper mime type for Facebook player goodness.
+		if (isset($_SERVER['HTTP_USER_AGENT']) && stripos($_SERVER['HTTP_USER_AGENT'], 'facebook') !== false) {
+			header("HTTP/1.0 200 OK");
+			
+			$trafficUrl = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+
+			$assetUrl = 'http://' . $context->getHostname('assets') . (
+				(!empty($media['image_content_id'])) ? '/content/' . $media['image_content_id'] : '/show/' . $show['show_id']
+			);
+
+			print <<<EOHTML
+<html>
+<head>
+<title>{$media['item_title']}</title>
+<meta name="medium" 				content="audio" />
+<meta property="og:url"  			content="{$trafficUrl}" />
+<meta property="og:audio"			content="{$trafficUrl}" />
+<meta property="og:audio:type" 		content="{$mimeType}" />
+<meta property="og:audio:album"		content="{$show['show_title']}" />
+<meta property="og:audio:artist"	content="{$show['show_title']}" />
+<meta property="og:audio:title"		content="{$media['item_title']}" /> 
+<meta property="og:locale"			content="en_US" />
+<meta property="og:title"			content="{$media['item_title']}" /> 
+<meta property="og:description"		content="" /> 
+<meta property="og:image"			content="{$assetUrl}" />
+</head>
+<body>
+</body>
+</html>
+EOHTML;
+		} else { 
+			header("Location: {$url}");
+		}
+	}
+}
+
+function issueError($url, $code, $message) {
+	switch ($code) {
+		case 404:
+			$code = "404 Not Found";
+			break;
+		case 403:
+			$code = "403 Forbidden";
+			break;
+		default:
+			$code = "500 Internal Server Error";
+			break;
+	}
+
+	header("HTTP/1.0 $code");
+
+	$error_number = $code;
+	$error_message_1 = "";//$msg1;
+	$error_message_2 = "";//$msg2;
+
+	include_once("error.php");
+
+	exit();
+}
+
+/**
+ * Verifies that the file exists (iff this is a dev deployment type)
+ * and, on failure, rewrites to production
+ */
+function rewriteDevelopmentUrl($url) {
+	global $context;
+
+	if ($context->isProduction()) {
+		return $url;
+	}   
+
+	// If not running in deployment or 
+	// the URL returns a HTTP code of 2??,
+	// do not modifiy
+	if (checkUrl($url)) {
+		return $url;
+	}   
+	else {
+		$url = str_replace("/t/", "/p/", $url);
+	}   
+	return $url;
+
+}
+
+function checkUrl($url) {
+	$ch = curl_init($url);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); 
+	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1); 
+	curl_setopt($ch, CURLOPT_NOBODY, 1);
+	curl_setopt($ch, CURLOPT_CONNECTTIMEOUT_MS, 750);
+	curl_setopt($ch, CURLOPT_TIMEOUT_MS, 750);
+
+	$response = curl_exec($ch);
+
+	$httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+	curl_close($ch);
+
+	return $httpCode >= 200 && $httpCode < 300;
+}
+

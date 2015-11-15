@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    
+    <title>The Ruby Show</title>
+    <link>http://rubyshow.com</link>
+    <pubDate>Fri, 01 Mar 2013 23:20:46 GMT</pubDate>
+    <description>Once known as Rails Envy, The Ruby Show is one of the most popular and longest running Ruby podcasts, with news and discussion about the latest topics in the Ruby and Rails communities. </description>
+    <language>en-us</language>
+    <itunes:subtitle>The Ruby Show</itunes:subtitle>
+    <itunes:author>Jason Seifer and Peter Cooper</itunes:author>
+    <itunes:summary>Once known as Rails Envy, The Ruby Show is one of the most popular and longest running Ruby podcasts, with news and discussion about the latest topics in the Ruby and Rails communities. </itunes:summary>
+    <itunes:image href="http://rubyshow.com/images/cover_art_300.png" />
+    <itunes:keywords>ruby,rails,ruby,on,rails,rubyonrails,programming,development,web,development,web,2,0</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    
+    
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/railsenvy-podcast" /><feedburner:info uri="railsenvy-podcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:thumbnail url="http://rubyshow.com/images/cover_art_300.png" /><media:keywords>ruby,rails,ruby,on,rails,rubyonrails,programming,development,web,development,web,2,0</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Podcasting</media:category><itunes:owner><itunes:email>me@jasonseifer.com</itunes:email><itunes:name>Jason Seifer and Peter Cooper</itunes:name></itunes:owner><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><itunes:category text="Technology"><itunes:category text="Podcasting" /></itunes:category><image><link>http://5by5.tv/rubyshow</link><url>http://5by5.tv/artwork/rubyshow/itunes/rubyshow.jpg</url><title>The Ruby Show</title></image><feedburner:emailServiceId>railsenvy-podcast</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+      <title>Ruby 1.9.3-p392</title>
+      <link>http://feedproxy.google.com/~r/railsenvy-podcast/~3/U20iCyOR8y0/222</link>
+      <guid isPermaLink="false">http://rubyshow.com/episodes/222</guid>
+      <pubDate>Fri, 01 Mar 2013 23:20:46 GMT</pubDate>
+      <author>me@jasonseifer.com (Jason Seifer and Peter Cooper)</author>
+      <description>In this episode of The Ruby Show, Jason and Peter talk about the latest Ruby release, Rails security releases, and the usual round up of interesting projects.&lt;img src="http://feeds.feedburner.com/~r/railsenvy-podcast/~4/U20iCyOR8y0" height="1" width="1" alt=""/&gt;</description>
+      
+      <itunes:author>hi@rubyshow.com (The Ruby Show)</itunes:author>
+      <itunes:duration>23:47</itunes:duration>
+      <itunes:subtitle>In this episode of The Ruby Show, Jason and Peter talk about the latest Ruby release, Rails security releases, and the usual round up of interesting projects.</itunes:subtitle>
+      <itunes:summary>In this episode of The Ruby Show, Jason and Peter talk about the latest Ruby release, Rails security releases, and the usual round up of interesting projects.</itunes:summary>
+      <itunes:keywords>ruby, news, rubyonrails, rails, rails3, gems, rubygems, the ruby show</itunes:keywords>
+    <media:content url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/Bkq1pLpyHrk/222.mp3" fileSize="17174717" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://rubyshow.com/episodes/222</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/Bkq1pLpyHrk/222.mp3" length="17174717" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyshow.com/download/feed/222.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Rails 3.0.20 and 2.3.16</title>
+      <link>http://feedproxy.google.com/~r/railsenvy-podcast/~3/D1H3S8WDwag/221</link>
+      <guid isPermaLink="false">http://rubyshow.com/episodes/221</guid>
+      <pubDate>Fri, 01 Feb 2013 22:34:31 GMT</pubDate>
+      <author>me@jasonseifer.com (Jason Seifer and Peter Cooper)</author>
+      <description>In this episode, Jason and Peter talk about the latest security updates to Rails, Threads in Ruby, and the usual round up of interesting blog posts.&lt;img src="http://feeds.feedburner.com/~r/railsenvy-podcast/~4/D1H3S8WDwag" height="1" width="1" alt=""/&gt;</description>
+      
+      <itunes:author>hi@rubyshow.com (The Ruby Show)</itunes:author>
+      <itunes:duration>20:07</itunes:duration>
+      <itunes:subtitle>In this episode, Jason and Peter talk about the latest security updates to Rails, Threads in Ruby, and the usual round up of interesting blog posts.</itunes:subtitle>
+      <itunes:summary>In this episode, Jason and Peter talk about the latest security updates to Rails, Threads in Ruby, and the usual round up of interesting blog posts.</itunes:summary>
+      <itunes:keywords>ruby, news, rubyonrails, rails, rails3, gems, rubygems, the ruby show</itunes:keywords>
+    <media:content url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/jYXbV8V-ba0/221.mp3" fileSize="14533886" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://rubyshow.com/episodes/221</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/jYXbV8V-ba0/221.mp3" length="14533886" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyshow.com/download/feed/221.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Ruby 1.9.3-p374</title>
+      <link>http://feedproxy.google.com/~r/railsenvy-podcast/~3/B5Q1S-_a-AQ/220</link>
+      <guid isPermaLink="false">http://rubyshow.com/episodes/220</guid>
+      <pubDate>Tue, 22 Jan 2013 21:18:16 GMT</pubDate>
+      <author>me@jasonseifer.com (Jason Seifer and Peter Cooper)</author>
+      <description>In this episode, Jason and Peter talk about the latest Ruby release, developing iOS applications with Ruby, Kids Ruby, and the usual round up of interesting projects and posts.&lt;img src="http://feeds.feedburner.com/~r/railsenvy-podcast/~4/B5Q1S-_a-AQ" height="1" width="1" alt=""/&gt;</description>
+      
+      <itunes:author>hi@rubyshow.com (The Ruby Show)</itunes:author>
+      <itunes:duration>21:36</itunes:duration>
+      <itunes:subtitle>In this episode, Jason and Peter talk about the latest Ruby release, developing iOS applications with Ruby, Kids Ruby, and the usual round up of interesting projects and posts.</itunes:subtitle>
+      <itunes:summary>In this episode, Jason and Peter talk about the latest Ruby release, developing iOS applications with Ruby, Kids Ruby, and the usual round up of interesting projects and posts.</itunes:summary>
+      <itunes:keywords>ruby, news, rubyonrails, rails, rails3, gems, rubygems, the ruby show</itunes:keywords>
+    <media:content url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/ppo8OcuRSgw/220.mp3" fileSize="15594909" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://rubyshow.com/episodes/220</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/ppo8OcuRSgw/220.mp3" length="15594909" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyshow.com/download/feed/220.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Rails Security Updates</title>
+      <link>http://feedproxy.google.com/~r/railsenvy-podcast/~3/XrsRk6-W-eU/219</link>
+      <guid isPermaLink="false">http://rubyshow.com/episodes/219</guid>
+      <pubDate>Thu, 17 Jan 2013 02:21:13 GMT</pubDate>
+      <author>me@jasonseifer.com (Jason Seifer and Peter Cooper)</author>
+      <description>In this episode, Peter and Jason talk about the latest Rails security releases (upgrade now!), Ruby 2.0.0 preview 1, and some cool new projects.&lt;img src="http://feeds.feedburner.com/~r/railsenvy-podcast/~4/XrsRk6-W-eU" height="1" width="1" alt=""/&gt;</description>
+      
+      <itunes:author>hi@rubyshow.com (The Ruby Show)</itunes:author>
+      <itunes:duration>24:27</itunes:duration>
+      <itunes:subtitle>In this episode, Peter and Jason talk about the latest Rails security releases (upgrade now!), Ruby 2.0.0 preview 1, and some cool new projects.</itunes:subtitle>
+      <itunes:summary>In this episode, Peter and Jason talk about the latest Rails security releases (upgrade now!), Ruby 2.0.0 preview 1, and some cool new projects.</itunes:summary>
+      <itunes:keywords>ruby, news, rubyonrails, rails, rails3, gems, rubygems, the ruby show</itunes:keywords>
+    <media:content url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/RRgjbI0Hvmc/219.mp3" fileSize="17650421" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://rubyshow.com/episodes/219</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/RRgjbI0Hvmc/219.mp3" length="17650421" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyshow.com/download/feed/219.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Ruby 1.9.3-p362</title>
+      <link>http://feedproxy.google.com/~r/railsenvy-podcast/~3/hBU4HNw7LG4/218</link>
+      <guid isPermaLink="false">http://rubyshow.com/episodes/218</guid>
+      <pubDate>Fri, 04 Jan 2013 20:29:17 GMT</pubDate>
+      <author>me@jasonseifer.com (Jason Seifer and Peter Cooper)</author>
+      <description>In this episode, Peter and Jason talk about the latest patch level release of Ruby, Rails 4 changes, and the usual round up of interesting projects and posts.
+
+Peter's audio is a bit off this week due to a recording error on our part but it will be back to normal next week.&lt;img src="http://feeds.feedburner.com/~r/railsenvy-podcast/~4/hBU4HNw7LG4" height="1" width="1" alt=""/&gt;</description>
+      
+      <itunes:author>hi@rubyshow.com (The Ruby Show)</itunes:author>
+      <itunes:duration>24:31</itunes:duration>
+      <itunes:subtitle>In this episode, Peter and Jason talk about the latest patch level release of Ruby, Rails 4 changes, and the usual round up of interesting projects and posts.</itunes:subtitle>
+      <itunes:summary>In this episode, Peter and Jason talk about the latest patch level release of Ruby, Rails 4 changes, and the usual round up of interesting projects and posts.
+
+Peter's audio is a bit off this week due to a recording error on our part but it will be back to normal next week.</itunes:summary>
+      <itunes:keywords>ruby, news, rubyonrails, rails, rails3, gems, rubygems, the ruby show</itunes:keywords>
+    <media:content url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/dn4_c4uSGRE/218.mp3" fileSize="17689504" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://rubyshow.com/episodes/218</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/dn4_c4uSGRE/218.mp3" length="17689504" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyshow.com/download/feed/218.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>The British Ruby Conference</title>
+      <link>http://feedproxy.google.com/~r/railsenvy-podcast/~3/zeoceamcITM/217</link>
+      <guid isPermaLink="false">http://rubyshow.com/episodes/217</guid>
+      <pubDate>Fri, 30 Nov 2012 16:16:57 GMT</pubDate>
+      <author>me@jasonseifer.com (Jason Seifer and Peter Cooper)</author>
+      <description>In this episode, Peter and Jason discuss the British Ruby Conference, Ruby 1.9.3-p327, Capybara 2.0.0, and more.
+
+Also, huge apologies for Jason's audio quality in this episode. There was a hiss that showed up after recording that couldn't be fixed. Listen at your own risk!&lt;img src="http://feeds.feedburner.com/~r/railsenvy-podcast/~4/zeoceamcITM" height="1" width="1" alt=""/&gt;</description>
+      
+      <itunes:author>hi@rubyshow.com (The Ruby Show)</itunes:author>
+      <itunes:duration>25:30</itunes:duration>
+      <itunes:subtitle>In this episode, Peter and Jason discuss the British Ruby Conference, Ruby 1.9.3-p327, Capybara 2.0.0, and more. Also, huge apologies for Jason's audio quality in this episode. There was a hiss that showed up after recording that couldn't be fixed. Listen</itunes:subtitle>
+      <itunes:summary>In this episode, Peter and Jason discuss the British Ruby Conference, Ruby 1.9.3-p327, Capybara 2.0.0, and more.
+
+Also, huge apologies for Jason's audio quality in this episode. There was a hiss that showed up after recording that couldn't be fixed. Listen at your own risk!</itunes:summary>
+      <itunes:keywords>ruby, news, rubyonrails, rails, rails3, gems, rubygems, the ruby show</itunes:keywords>
+    <media:content url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/13aDgp_V-e4/217.mp3" fileSize="15336494" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://rubyshow.com/episodes/217</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/13aDgp_V-e4/217.mp3" length="15336494" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyshow.com/download/feed/217.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Rubinius 2.0.0.rc1</title>
+      <link>http://feedproxy.google.com/~r/railsenvy-podcast/~3/sJMxCXWOCao/216</link>
+      <guid isPermaLink="false">http://rubyshow.com/episodes/216</guid>
+      <pubDate>Thu, 15 Nov 2012 03:38:57 GMT</pubDate>
+      <author>me@jasonseifer.com (Jason Seifer and Peter Cooper)</author>
+      <description>In this episode, Peter and Jason talk about the Ruby 2.0 walkthrough, Rails 4.0, Rubinius 2.0.0.rc1, and much more.
+
+Check out Peter's Kickstarter for the Ruby 2.0 walkthrough!&lt;img src="http://feeds.feedburner.com/~r/railsenvy-podcast/~4/sJMxCXWOCao" height="1" width="1" alt=""/&gt;</description>
+      
+      <itunes:author>hi@rubyshow.com (The Ruby Show)</itunes:author>
+      <itunes:duration>24:31</itunes:duration>
+      <itunes:subtitle>In this episode, Peter and Jason talk about the Ruby 2.0 walkthrough, Rails 4.0, Rubinius 2.0.0.rc1, and much more.</itunes:subtitle>
+      <itunes:summary>In this episode, Peter and Jason talk about the Ruby 2.0 walkthrough, Rails 4.0, Rubinius 2.0.0.rc1, and much more.
+
+Check out Peter's Kickstarter for the Ruby 2.0 walkthrough!</itunes:summary>
+      <itunes:keywords>ruby, news, rubyonrails, rails, rails3, gems, rubygems, the ruby show</itunes:keywords>
+    <media:content url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/EkKUIKylkEg/216.mp3" fileSize="14737919" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://rubyshow.com/episodes/216</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/EkKUIKylkEg/216.mp3" length="14737919" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyshow.com/download/feed/216.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>Ruby 2.0 preview 1</title>
+      <link>http://feedproxy.google.com/~r/railsenvy-podcast/~3/PwfccfL2XqQ/215</link>
+      <guid isPermaLink="false">http://rubyshow.com/episodes/215</guid>
+      <pubDate>Tue, 06 Nov 2012 23:16:15 GMT</pubDate>
+      <author>me@jasonseifer.com (Jason Seifer and Peter Cooper)</author>
+      <description>In this episode of The Ruby Show, Jason and Peter talk about Ruby 2.0 preview 1, Ruby Under a Microscope, Rails Best Practices, and more.&lt;img src="http://feeds.feedburner.com/~r/railsenvy-podcast/~4/PwfccfL2XqQ" height="1" width="1" alt=""/&gt;</description>
+      
+      <itunes:author>hi@rubyshow.com (The Ruby Show)</itunes:author>
+      <itunes:duration>27:01</itunes:duration>
+      <itunes:subtitle>In this episode of The Ruby Show, Jason and Peter talk about Ruby 2.0 preview 1, Ruby Under a Microscope, Rails Best Practices, and more.</itunes:subtitle>
+      <itunes:summary>In this episode of The Ruby Show, Jason and Peter talk about Ruby 2.0 preview 1, Ruby Under a Microscope, Rails Best Practices, and more.</itunes:summary>
+      <itunes:keywords>ruby, news, rubyonrails, rails, rails3, gems, rubygems, the ruby show</itunes:keywords>
+    <media:content url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/e04c2BMJXwo/215.mp3" fileSize="16237282" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><feedburner:origLink>http://rubyshow.com/episodes/215</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/railsenvy-podcast/~5/e04c2BMJXwo/215.mp3" length="16237282" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyshow.com/download/feed/215.mp3</feedburner:origEnclosureLink></item>
+  <media:credit role="author">Jason Seifer and Peter Cooper</media:credit><media:rating>nonadult</media:rating><media:description type="plain">The Ruby Show</media:description></channel>
+</rss>

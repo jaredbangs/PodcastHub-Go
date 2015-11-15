@@ -1,0 +1,845 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" >
+<channel>
+  <title>Hacker Public Radio</title>
+  <link>http://hackerpublicradio.org/about.php</link>
+  <itunes:subtitle>A daily show hosted the community on topics that are of interest to hackers and hobbyists.</itunes:subtitle>
+  <description>Hacker Public Radio is an podcast that releases shows every weekday Monday through Friday. Our shows are produced by the community (you) and can be on any topic that are of interest to hackers and hobbyists.</description>
+  <language>en-us</language>
+  <itunes:category text="Technology">
+    <itunes:category text="Tech News"/>
+  </itunes:category>
+  <itunes:category text="Education">
+    <itunes:category text="Training"/>
+  </itunes:category>
+  <itunes:image href="http://hackerpublicradio.org/images/hpr_feed_itunes.png"/>
+  <itunes:explicit>yes</itunes:explicit>
+  <itunes:keywords>Community Radio, Tech Interviews, Linux, Open, Hobby, Software Freedom</itunes:keywords>
+  <copyright>Creative Commons Attribution-ShareAlike 3.0 License</copyright>
+  <managingEditor>feedback@NOSPAM-hackerpublicradio.org (HPR Feedback)</managingEditor> 
+  <itunes:owner>    
+    <itunes:name>HPR Webmaster</itunes:name>
+    <itunes:email>admin@hackerpublicradio.org</itunes:email>
+  </itunes:owner>
+  <webMaster>admin@NOSPAM-hackerpublicradio.org (HPR Webmaster)</webMaster> 
+  <generator>kate</generator> 
+  <docs>http://www.rssboard.org/rss-specification</docs>
+  <ttl>3200</ttl>
+  <skipDays>
+    <day>Saturday</day>
+    <day>Sunday</day>
+  </skipDays>
+  <image>
+    <url>http://hackerpublicradio.org/images/hpr_feed_small.png</url>
+    <title>Hacker Public Radio</title>
+    <link>http://hackerpublicradio.org/about.php</link>
+    <description>The Hacker Public Radio Old Microphone Logo</description>
+    <height>164</height>
+    <width>144</width>
+  </image>
+  <atom:link href="http://hackerpublicradio.org/hpr_ogg_rss.php" rel="self" type="application/rss+xml" />
+  <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
+  <item>
+    <title>HPR1900: 20 - SSH Basics</title>
+    <author>zwilnik.nospam@nospam.zwilnik.com (Ahuka)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1900</link>
+    <description><![CDATA[
+So as we saw in the introductory tutorial, SSH uses the Client-Server model. Now, technically a server is just the machine you are connecting to, and there is no reason in principle that it could not be another desktop, a laptop, or even a telephone if it has the appropriate software. and in the previous tutorial we showed how you can easily install and set up an ssh server on your home network using another computer or a Raspberry Pi so that you can experiment with these commands. The model really reduces to you as the client, and the other machine as the server. As with all Internet connections there are standards and protocols involved. The original Telnet communicated over TCP through port 23. Because SSH was conceived as a replacement, it used the same TCP protocols, and was assigned the adjacent port number of 22. 
+For more go to http://www.zwilnik.com/?page_id=726 
+
+
+Links:
+
+
+https://tools.ietf.org/html/rfc4253
+
+https://www.tiltedwindmillpress.com/?product=ssh-mastery-openssh-putty-tunnels-and-keys-ebook
+
+http://www.zwilnik.com/?page_id=726
+
+
+]]>
+</description>
+    <itunes:summary><![CDATA[
+So as we saw in the introductory tutorial, SSH uses the Client-Server model. Now, technically a server is just the machine you are connecting to, and there is no reason in principle that it could not be another desktop, a laptop, or even a telephone if it has the appropriate software. and in the previous tutorial we showed how you can easily install and set up an ssh server on your home network using another computer or a Raspberry Pi so that you can experiment with these commands. The model really reduces to you as the client, and the other machine as the server. As with all Internet connections there are standards and protocols involved. The original Telnet communicated over TCP through port 23. Because SSH was conceived as a replacement, it used the same TCP protocols, and was assigned the adjacent port number of 22. 
+For more go to http://www.zwilnik.com/?page_id=726 
+
+
+Links:
+
+
+https://tools.ietf.org/html/rfc4253
+
+https://www.tiltedwindmillpress.com/?product=ssh-mastery-openssh-putty-tunnels-and-keys-ebook
+
+http://www.zwilnik.com/?page_id=726
+
+
+]]>
+</itunes:summary>
+    <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1900.ogg" length="10738532" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1900.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1899: MyTinyTodo List</title>
+    <author>jonlancekulp.nospam@nospam.gmail.com (Jon Kulp)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1899</link>
+    <description><![CDATA[This show is about my favorite tool to keep track of stuff I have to do, stuff I want to do, gift ideas for my family, books I want to read, HPR topics to record, etc. It's called MyTinyTodo. It's a web app that you can host on your own server and access from any device that has a web browser.
+The website claims that it is already mobile friendly, but I did not like the mobile interface they had, and also did not like the fact that I had to use a different URL to get the mobile interface, so I hacked the stylesheet and the index.html file in the code to make it a responsive design. Now it looks great on all of my devices.
+Features
+
+Multiple lists
+Task notes
+Tags (and tag cloud)
+Due dates (input format: y-m-d, m/d/y, d.m.y, m/d, d.m)
+Priority (-1, 0, +1, +2)
+Different sortings including sort by drag-and-drop
+Search
+Password protection
+
+System requirements
+
+PHP 5.2.0 or greater;
+PHP extensions: php_mysql (MySQL version), php_pdo and php_pdo_sqlite (SQLite version).
+
+Installation
+Setup is very easy as these things go. Check out the installation instructions at their website.]]>
+</description>
+    <itunes:summary><![CDATA[This show is about my favorite tool to keep track of stuff I have to do, stuff I want to do, gift ideas for my family, books I want to read, HPR topics to record, etc. It's called MyTinyTodo. It's a web app that you can host on your own server and access from any device that has a web browser.
+The website claims that it is already mobile friendly, but I did not like the mobile interface they had, and also did not like the fact that I had to use a different URL to get the mobile interface, so I hacked the stylesheet and the index.html file in the code to make it a responsive design. Now it looks great on all of my devices.
+Features
+
+Multiple lists
+Task notes
+Tags (and tag cloud)
+Due dates (input format: y-m-d, m/d/y, d.m.y, m/d, d.m)
+Priority (-1, 0, +1, +2)
+Different sortings including sort by drag-and-drop
+Search
+Password protection
+
+System requirements
+
+PHP 5.2.0 or greater;
+PHP extensions: php_mysql (MySQL version), php_pdo and php_pdo_sqlite (SQLite version).
+
+Installation
+Setup is very easy as these things go. Check out the installation instructions at their website.]]>
+</itunes:summary>
+    <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1899.ogg" length="7697523" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1899.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1898: Free my music!</title>
+    <author>andrew.neher1.nospam@nospam.gmail.com (Alpha32)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1898</link>
+    <description><![CDATA[
+How I got my music library transferred from my Mac to my Linux box, thereby allowing me to fully switch to Linux. This is a problem I've been neglecting for a while that has been keeping me tethered to iTunes whenever I want to hear my music. This probably isn't the best or simplest solution, but it's how I felt comfortable doing it.
+]]>
+</description>
+    <itunes:summary><![CDATA[
+How I got my music library transferred from my Mac to my Linux box, thereby allowing me to fully switch to Linux. This is a problem I've been neglecting for a while that has been keeping me tethered to iTunes whenever I want to hear my music. This probably isn't the best or simplest solution, but it's how I felt comfortable doing it.
+]]>
+</itunes:summary>
+    <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1898.ogg" length="4485549" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1898.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1897: Installing Windows 7 Ultimate</title>
+    <author>swift1102008.nospam@nospam.gmail.com (swift110)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1897</link>
+    <description><![CDATA[
+http://anthonyvenable110.wordpress.com is my blog so feel free to check me out there.
+
+]]>
+</description>
+    <itunes:summary><![CDATA[
+http://anthonyvenable110.wordpress.com is my blog so feel free to check me out there.
+
+]]>
+</itunes:summary>
+    <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1897.ogg" length="11413982" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1897.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1896: User Local Software</title>
+    <author>ericxdu23.nospam@nospam.gmail.com (Eric Duhamel)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1896</link>
+    <description><![CDATA[In this recording I describe how I decided where to store software that I downloaded manually, as opposed to software that is installed and organized automatically by GNU/Linux systems.
+SPOILER: I settled on ~/local/src/ and ~/local/opt/
+Happy Halloween.
+This is my first time recording a podcast. I recorded this in an afternoon when no one else was around except the furry kids and the neighbors outside. I've had the idea for this episode for a while, but having never recorded before didn't really know when/where/how to do it until just now.
+The perspective of this episode comes from a GNU/Linux user since Sept. 2012, and a little bit of experience from 2002-2004. I'm interested in easy, simple solutions that everyone can use to solve problems or use new things.
+Special thanks to Clacke for recommending in his recent episode the free/open-source Android recording application uRecord available from F-Droid. The resulting audio sounds great and uRecord is very easy to use. I recorded several separate paragraphs and concatenated them with Audacity.
+]]>
+</description>
+    <itunes:summary><![CDATA[In this recording I describe how I decided where to store software that I downloaded manually, as opposed to software that is installed and organized automatically by GNU/Linux systems.
+SPOILER: I settled on ~/local/src/ and ~/local/opt/
+Happy Halloween.
+This is my first time recording a podcast. I recorded this in an afternoon when no one else was around except the furry kids and the neighbors outside. I've had the idea for this episode for a while, but having never recorded before didn't really know when/where/how to do it until just now.
+The perspective of this episode comes from a GNU/Linux user since Sept. 2012, and a little bit of experience from 2002-2004. I'm interested in easy, simple solutions that everyone can use to solve problems or use new things.
+Special thanks to Clacke for recommending in his recent episode the free/open-source Android recording application uRecord available from F-Droid. The resulting audio sounds great and uRecord is very easy to use. I recorded several separate paragraphs and concatenated them with Audacity.
+]]>
+</itunes:summary>
+    <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1896.ogg" length="3674727" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1896.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1895: 65 - LibreOffice Impress - OLE Objects, Spreadsheets, and Charts</title>
+    <author>zwilnik.nospam@nospam.zwilnik.com (Ahuka)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1895</link>
+    <description><![CDATA[
+The next topic we want to cover involves something called OLE, which stands for Object Linking and Embedding. This was developed by Microsoft, but has spread to the free software world as well. What it means is that you can use data from two different programs together, and changes made in place are automatically reflected in the other place. A great example comes with spreadsheets, since you create them in a spreadsheet program like Calc, but you might want to take a table created there and put it into a slide to display. 
+For more go to http://www.ahuka.com/?page_id=1275
+
+
+Links
+
+
+http://www.ahuka.com/?page_id=1275
+
+]]>
+</description>
+    <itunes:summary><![CDATA[
+The next topic we want to cover involves something called OLE, which stands for Object Linking and Embedding. This was developed by Microsoft, but has spread to the free software world as well. What it means is that you can use data from two different programs together, and changes made in place are automatically reflected in the other place. A great example comes with spreadsheets, since you create them in a spreadsheet program like Calc, but you might want to take a table created there and put it into a slide to display. 
+For more go to http://www.ahuka.com/?page_id=1275
+
+
+Links
+
+
+http://www.ahuka.com/?page_id=1275
+
+]]>
+</itunes:summary>
+    <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1895.ogg" length="10357824" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1895.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1894: Interview with Davide Zilli and Dr Marianne Sinka of the HumBug Project</title>
+    <author>ken.nospam@nospam.fallon.ie (Ken Fallon)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1894</link>
+    <description><![CDATA[
+Back in 2012 I put up a blog post on my site related to the need for an Open Source Mosquito Locator. Mosquitoes are the greatest killer of humans per year.
+
+
+
+Recently Alexandre Azzalini left a comment pointing me to the HumBug project which is dedicated to Mosquito Detection and Habitat Mapping for Improved Malaria Modelling. I got in touch, and so today I talk to Davide Zilli, and Dr. Marianne Sinka who were winners of the Google Impact Challenge UK 2014.
+
+
+Royal Botanic Gardens Kew: Crowdsourcing data to help prevent mosquito-borne diseases
+
+Mosquitoes are responsible for the spread of some of the most deadly and costly diseases, with more than half the world's population living in areas where they are routinely exposed to disease carrying mosquitoes. One of the most deadly diseases that they transmit is malaria, that kills over 600,000 people every year. The Royal Botanic Gardens Kew will equip villagers in rural Indonesia with wearable acoustic sensors to detect the sound of mosquitoes. Each species has its own wing beat allowing the research team to record the occurrence of different species, as well as daily readings of critical environmental conditions. Combined with detailed vegetation maps, this will be able to track disease-bearing mosquitoes. Over the next three years, Kew Gardens will work with Oxford University to turn this project into a reality, creating a downloadable smartphone app and a range of wearable acoustic detectors. This novel technology will be trialled in 150 rural households in Indonesia with the aim of preventing and managing outbreaks of mosquito-borne disease. This prototype technology has the potential ultimately to be rolled out in every region of the world where mosquito-borne diseases pose a threat to life.
+https://impactchallenge.withgoogle.com/uk2014
+
+
+Their approach is to use a Goertzel algorithm running on either a dedicated device or on a smart phone to identify species. This data will then be used for Habitat Mapping and Vector modeling to try and target only species that are a danger to Humans.
+
+
+
+Reach them on Twitter @humbugmozz
+
+
+Links
+
+http://kenfallon.com/open-source-mosquito-locator/
+http://www.telegraph.co.uk/news/worldnews/11644785/Which-animal-kills-the-most-humans.html
+http://humbug.robots.ox.ac.uk/
+http://davide.zillis.net/
+http://seeg.zoo.ox.ac.uk/members/dr-marianne-sinka
+https://impactchallenge.withgoogle.com/uk2014
+https://twitter.com/humbugmozz
+https://en.wikipedia.org/wiki/Goertzel_algorithm
+http://soundtrap.io/
+http://shop.ee.co.uk/mobile-phones/pay-as-you-go/alcatel-pixi-3-(4.5)/details
+http://www.gsmarena.com/alcatel_pixi_3_(4)-6933.php
+http://humbug.robots.ox.ac.uk/research/sensing/
+http://humbug.robots.ox.ac.uk/research/mapping/
+http://humbug.robots.ox.ac.uk/research/modelling/
+
+
+
+]]>
+</description>
+    <itunes:summary><![CDATA[
+Back in 2012 I put up a blog post on my site related to the need for an Open Source Mosquito Locator. Mosquitoes are the greatest killer of humans per year.
+
+
+
+Recently Alexandre Azzalini left a comment pointing me to the HumBug project which is dedicated to Mosquito Detection and Habitat Mapping for Improved Malaria Modelling. I got in touch, and so today I talk to Davide Zilli, and Dr. Marianne Sinka who were winners of the Google Impact Challenge UK 2014.
+
+
+Royal Botanic Gardens Kew: Crowdsourcing data to help prevent mosquito-borne diseases
+
+Mosquitoes are responsible for the spread of some of the most deadly and costly diseases, with more than half the world's population living in areas where they are routinely exposed to disease carrying mosquitoes. One of the most deadly diseases that they transmit is malaria, that kills over 600,000 people every year. The Royal Botanic Gardens Kew will equip villagers in rural Indonesia with wearable acoustic sensors to detect the sound of mosquitoes. Each species has its own wing beat allowing the research team to record the occurrence of different species, as well as daily readings of critical environmental conditions. Combined with detailed vegetation maps, this will be able to track disease-bearing mosquitoes. Over the next three years, Kew Gardens will work with Oxford University to turn this project into a reality, creating a downloadable smartphone app and a range of wearable acoustic detectors. This novel technology will be trialled in 150 rural households in Indonesia with the aim of preventing and managing outbreaks of mosquito-borne disease. This prototype technology has the potential ultimately to be rolled out in every region of the world where mosquito-borne diseases pose a threat to life.
+https://impactchallenge.withgoogle.com/uk2014
+
+
+Their approach is to use a Goertzel algorithm running on either a dedicated device or on a smart phone to identify species. This data will then be used for Habitat Mapping and Vector modeling to try and target only species that are a danger to Humans.
+
+
+
+Reach them on Twitter @humbugmozz
+
+
+Links
+
+http://kenfallon.com/open-source-mosquito-locator/
+http://www.telegraph.co.uk/news/worldnews/11644785/Which-animal-kills-the-most-humans.html
+http://humbug.robots.ox.ac.uk/
+http://davide.zillis.net/
+http://seeg.zoo.ox.ac.uk/members/dr-marianne-sinka
+https://impactchallenge.withgoogle.com/uk2014
+]]>
+</itunes:summary>
+    <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1894.ogg" length="29804888" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1894.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1893: My LastPass Alternative</title>
+    <author>james.nospam@nospam.toebesacademy.com (ToeJet)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1893</link>
+    <description><![CDATA[
+My LastPass Alternative
+
+
+
+Password Database: KeePass http://keepass.info/
+KeePass client is in the fedora repos.
+
+
+
+
+Save file to a location that will be synced between devices.  Im my case Owncloud.   Desktop Client syncs available for Linux, Windows and Mac. Mobile clients for Android, IOS, and even blackberry. Syncing note:  I do not launch the desktop client on login. This allows the owncloud client to sync files before launching keepass. Also, I exit keypass before logging out for the same reason.
+
+
+For integration with browser, there are
+
+
+
+Firefox: Passifox https://addons.mozilla.org/en-US/firefox/addon/passifox/
+
+Chrome: chromeIPass https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae?hl=en
+
+Android: https://f-droid.org/repository/browse/?fdfilter=keepass&amp;amp;fdid=com.android.keepass
+
+
+
+
+And finally when on machines I don't control:
+
+
+
+Remote Access: Browser Pass https://bitbucket.org/namn/browsepass/
+
+
+
+
+On same server with ownlcloud, can open files
+]]>
+</description>
+    <itunes:summary><![CDATA[
+My LastPass Alternative
+
+
+
+Password Database: KeePass http://keepass.info/
+KeePass client is in the fedora repos.
+
+
+
+
+Save file to a location that will be synced between devices.  Im my case Owncloud.   Desktop Client syncs available for Linux, Windows and Mac. Mobile clients for Android, IOS, and even blackberry. Syncing note:  I do not launch the desktop client on login. This allows the owncloud client to sync files before launching keepass. Also, I exit keypass before logging out for the same reason.
+
+
+For integration with browser, there are
+
+
+
+Firefox: Passifox https://addons.mozilla.org/en-US/firefox/addon/passifox/
+
+Chrome: chromeIPass https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae?hl=en
+
+Android: https://f-droid.org/repository/browse/?fdfilter=keepass&amp;amp;fdid=com.android.keepass
+
+
+
+
+And finally when on machines I don't control:
+
+
+
+Remote Access: Browser Pass https://bitbucket.org/namn/browsepass/
+
+
+
+
+On same server with ownlcloud, can open files
+]]>
+</itunes:summary>
+    <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1893.ogg" length="3144099" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1893.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1892: my chicken coop</title>
+    <author>Jezra.nospam@nospam.jezra.net (Jezra)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1892</link>
+    <description><![CDATA[
+Door hardware build: http://www.jezra.net/blog/GNU_Linux_chicken_coop_door_hardware
+
+
+The twilight checker: http://www.jezra.net/blog/The_magic_starts_at_330AM_a_coop_story
+]]>
+</description>
+    <itunes:summary><![CDATA[
+Door hardware build: http://www.jezra.net/blog/GNU_Linux_chicken_coop_door_hardware
+
+
+The twilight checker: http://www.jezra.net/blog/The_magic_starts_at_330AM_a_coop_story
+]]>
+</itunes:summary>
+    <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1892.ogg" length="6258846" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1892.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1891: HPR Community News for October 2015</title>
+    <author>admin.nospam@nospam.hackerpublicradio.org (HPR Volunteers)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1891</link>
+    <description><![CDATA[
+New hosts
+
+Welcome to our new hosts: 
+    clacke, 
+    Moral Volcano, 
+    JustMe, 
+    thelovebug.
+
+
+Last Month's Shows
+
+    
+    Id
+    Day
+    Date
+    Title
+    Host
+    
+    
+    1869
+    Thu
+    2015-10-01
+    Irssi Connectbot
+    NYbill
+    
+    
+    1870
+    Fri
+    2015-10-02
+    19 - Home SSH Server
+    Ahuka
+    
+    
+    1871
+    Mon
+    2015-10-05
+    HPR Community News for September 2015
+    HPR Volunteers
+    
+    
+    1872
+    Tue
+    2015-10-06
+    Sim City BuildIt September 2015
+    swift110
+    
+    
+    1873
+    Wed
+    2015-10-07
+    TiT Radio 21 - I Thought I Had Better Links
+    FiftyOneFifty
+    
+    
+    1874
+    Thu
+    2015-10-08
+    Interview with Droops
+    Ken Fallon
+    
+    
+    1875
+    Fri
+    2015-10-09
+    63 - LibreOffice Impress - Formatting Text
+    Ahuka
+    
+    
+    1876
+    Mon
+    2015-10-12
+    MicrobeLog, or: On Shaving Yaks and Doing Things
+    clacke
+    
+    
+    1877
+    Tue
+    2015-10-13
+    Recording HPR on the fly on your Android phone
+    clacke
+    
+    
+    1878
+    Wed
+    2015-10-14
+    What's In My Bag
+    b-yeezi
+    
+    
+    1879
+    Thu
+    2015-10-15
+    Hacking a Belt to Make it Fit
+    Jon Kulp
+    
+    
+    1880
+    Fri
+    2015-10-16
+    Arduino Bluetooth HOWTO
+    klaatu
+    
+    
+    1881
+    Mon
+    2015-10-19
+    My road to Linux
+    clacke
+    
+    
+    1882
+    Tue
+    2015-10-20
+    How I Compute Away From My Computer
+    Thaj Sara
+    
+    
+    1883
+    Wed
+    2015-10-21
+    Don't Get Locked In
+    Knightwise
+    
+    
+    1884
+    Thu
+    2015-10-22
+    Some more Bash tips
+    Dave Morriss
+    
+    
+    1885
+    Fri
+    2015-10-23
+    64 - LibreOffice Impress - Multimedia
+    Ahuka
+    
+    
+    1886
+    Mon
+    2015-10-26
+    Moral Volcano's Linux Tips &amp;amp; Tricks podcast for Hacker Public Radio
+    Moral Volcano
+    
+    
+    1887
+    Tue
+    2015-10-27
+    Coffee Making Basics
+    JustMe
+    
+    
+    1888
+    Wed
+    2015-10-28
+    Diceware Passphrase
+    John Duarte
+    
+    
+    1889
+    Thu
+    2015-10-29
+    experiencing the meegopad T-02  part one
+    A Shadowy Figure
+    
+    
+    1890
+    Fri
+    2015-10-30
+    A short walk with my son
+    thelovebug
+    
+
+Mailing List discussions
+
+Policy decisions surrounding HPR are taken by the community as a whole. This discussion takes
+place on the Mail List which is open to all
+HPR listeners and contributors. The discussions are open and available on the
+Gmane
+archive.
+
+The main threads this month were:
+
+    From: Dave Morriss &amp;lt;perloid@...&amp;gt;
+        Date: 2015-09-28 11:15:19 +0100
+        Subject: HPR Community News - next Saturday on 2015-10-03T18:00:00Z
+        Link: http://comments.gmane.org/gmane.network.syndication.podcast.hacker-public-radio/965
+        Messages: 6
+    From: Dave Morriss &amp;lt;perloid@...&amp;gt;
+        Date: 2015-10-26 08:56:11 UTC
+        Subject: HPR Community News - next Saturday on 2015-10-31T18:00:00Z
+        Link: http://comments.gmane.org/gmane.network.syndication.podcast.hacker-public-radio/973
+        Messages: 4
+
+Total messages this month: 10
+
+
+Comments this month
+
+These are comments which have been made during the past month, either to shows
+released during the month or to past shows.
+There are 32 comments:
+ 
+hpr1728
+(2015-03-18) &quot;Requested Topic: Favourite Browser Extensions&quot;
+by Fin.
+    Comment 3:
+Fin on 2015-10-30:
+&quot;Ad-Block Edge Successor&quot; 
+ 
+hpr1828
+(2015-08-05) &quot;Multimeter Mod's Part 1&quot;
+by NYbill.
+    Comment 3:
+Neandergeek on 2015-10-17:
+&quot;Great imprompto series&quot; 
+ 
+hpr1848
+(2015-09-02) &quot;Introduction to w3m, a Command Line Web Browser&quot;
+by Frank Bell.
+  Comment 1:
+tom_len on 2015-10-01:
+&quot;automatize login from command line&quot;  Comment 2:
+Frank on 2015-10-27:&quot;[no title]&quot; 
+ 
+hpr1859
+(2015-09-17) &quot;A Mouse in a Maze on the Raspberry PI&quot;
+by Gabriel Evenfire.
+   Comment 2:
+Eric on 2015-10-07:
+&quot;A better maze&quot;  Comment 3:
+Gabriel Evenfire on 2015-10-13:
+&quot;Maze generation&quot; 
+ 
+hpr1862
+(2015-09-22) &quot;The Awesomely Epic Guide To KDE Part 1&quot;
+by Geddes.
+   Comment 2:
+Geddes on 2015-10-16:&quot;[no title]&quot; 
+ 
+hpr1863
+(2015-09-23) &quot;The Awesomely Epic Guide To KDE Part 2&quot;
+by Geddes.
+   Comment 2:
+Geddes on 2015-10-16:
+&quot;Thanks for the feedback&quot; 
+ 
+hpr1864
+(2015-09-24) &quot;Turning an old printer into a network printer&quot;
+by Dave Morriss.
+    Comment 3:
+turtle on 2015-10-05:&quot;[no title]&quot;  Comment 4:
+Dave Morriss on 2015-10-06:
+&quot;DEC-LN03&quot;  Comment 5:
+Bob Evans on 2015-10-07:
+&quot;connecting to legacy printers&quot;  Comment 6:
+Dave Morriss on 2015-10-07:
+&quot;Re: connecting to legacy printers&quot; 
+ 
+hpr1866
+(2015-09-28) &quot;An awkward talk with two young computer users&quot;
+by Quvmoh.
+   Comment 2:
+combiner on 2015-10-05:&quot;[no title]&quot; 
+ 
+hpr1867
+(2015-09-29) &quot;The Lafayette Public Library Maker Space&quot;
+by Jon Kulp.
+  Comment 1:
+amunizp on 2015-10-07:
+&quot;3D print&quot; 
+ 
+hpr1870
+(2015-10-02) &quot;19 - Home SSH Server&quot;
+by Ahuka.
+  Comment 1:
+kdmurray on 2015-10-06:
+&quot;SSH Passwords&quot; 
+ 
+hpr1874
+(2015-10-08) &quot;Interview with Droops&quot;
+by Ken Fallon.
+  Comment 1:
+droops on 2015-09-27:
+&quot;Thanks&quot;  Comment 2:
+J. on 2015-10-08:&quot;[no title]&quot;  Comment 3:
+Dave Morriss on 2015-10-13:
+&quot;I loved this interview&quot; 
+ 
+hpr1880
+(2015-10-16) &quot;Arduino Bluetooth HOWTO&quot;
+by klaatu.
+  Comment 1:
+Mike Ray on 2015-10-16:
+&quot;Great show&quot; 
+ 
+hpr1881
+(2015-10-19) &quot;My road to Linux&quot;
+by clacke.
+  Comment 1:
+Fin on 2015-10-19:
+&quot;Music fail&quot;  Comment 2:
+Dave Morriss on 2015-10-23:
+&quot;Great episode&quot;  Comment 3:
+clacke on 2015-10-26:
+&quot;Thanks&quot; 
+ 
+hpr1884
+(2015-10-22) &quot;Some more Bash tips&quot;
+by Dave Morriss.
+  Comment 1:
+Frank on 2015-10-27:&quot;[no title]&quot;  Comment 2:
+Dave Morriss on 2015-10-27:
+&quot;Thanks Frank, glad you enjoyed it&quot;  Comment 3:
+Frank on 2015-10-28:&quot;[no title]&quot;  Comment 4:
+Dave Morriss on 2015-10-29:
+&quot;Regular expressions&quot; 
+ 
+hpr1889
+(2015-10-29) &quot;experiencing the meegopad T-02  part one&quot;
+by A Shadowy Figure.
+  Comment 1:
+GNULinuxRTM on 2015-10-29:
+&quot;Execellent Episode.&quot;  Comment 2:
+Jon Kulp  on 2015-10-30:
+&quot;Tremendous! &quot;  Comment 3:
+Fin on 2015-10-30:
+&quot;Fantastic!&quot;  Comment 4:
+A Shadowy Figure on 2015-10-31:
+&quot;Like your work as well GNULinuxRTM&quot; 
+ 
+hpr1890
+(2015-10-30) &quot;A short walk with my son&quot;
+by thelovebug.
+  Comment 1:
+Jon Kulp  on 2015-10-30:
+&quot;Up with the $2 lapel mic! &quot;  Comment 2:
+Mike Ray on 2015-10-31:
+&quot;Audio Quality&quot;
+
+
+
+]]>
+</description>
+    <itunes:summary><![CDATA[
+New hosts
+
+Welcome to our new hosts: 
+    clacke, 
+    Moral Volcano, 
+    JustMe, 
+    thelovebug.
+
+
+Last Month's Shows
+
+    
+    Id
+    Day
+    Date
+    Title
+    Host
+    
+    
+    1869
+    Thu
+    2015-10-01
+    Irssi Connectbot
+    NYbill
+    
+    
+    1870
+    Fri
+    2015-10-02
+    19 - Home SSH Server
+    Ahuka
+    
+    
+    1871
+    Mon
+    2015-10-05
+    HPR Community News for September 2015
+    HPR Volunteers
+    
+    
+    1872
+    Tue
+    2015-10-06
+    Sim City BuildIt September 2015
+    swift110
+    
+    
+    1873
+    Wed
+    2015-10-07
+    TiT Radio 21 - I Thought I Had Better Links
+    FiftyOneFifty
+    
+    
+    1874
+    Thu
+    2015-10-08
+    Interview with Droops
+    Ken Fallon
+    
+    
+    1875
+    Fri
+    2015-10-09
+    63 - LibreOffice Impress - Formatting Text
+    ]]>
+</itunes:summary>
+    <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1891.ogg" length="23560524" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1891.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+	<title>TechCrunch » Gillmor Gang</title>
+	
+	<link>http://techcrunch.com</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Sat, 14 Nov 2015 06:04:37 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain="techcrunch.com" port="80" path="/?rsscloud=notify" registerProcedure="" protocol="http-post" />
+<image>
+		<url>http://1.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=96&amp;d=http%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title> » Gillmor Gang</title>
+		<link>http://techcrunch.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://techcrunch.com/osd.xml" title="TechCrunch" />
+	
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheGillmorGang" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="thegillmorgang" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://techcrunch.com/?pushpress=hub" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Startup and Technology News</itunes:subtitle><item>
+		<title>Gillmor Gang: Special Edition</title>
+		<link>http://techcrunch.com/2015/09/26/gillmor-gang-special-edition/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/09/26/gillmor-gang-special-edition/#comments</comments>
+		<pubDate>Sat, 26 Sep 2015 15:32:50 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1215630</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Firesign Theatre
+A conversation with David Ossman and Philip Proctor
+The two surviving members of the Firesign Theatre took to Skype to remember their late colleagues Phil Austin and Peter Bergman. The group&#8217;s final show was in 2011, and Peter Bergman died in 2012. Phil Austin died June 18 at his home on Fox Island, Washington; he was 74. <a href="http://techcrunch.com/2015/09/26/gillmor-gang-special-edition/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/09/26/gillmor-gang-special-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10382215/519110703_213_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Special%26nbsp%3BEdition</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang LIVE 05.29.15</title>
+		<link>http://techcrunch.com/2015/05/29/gillmor-gang-live-05-29-15/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/05/29/gillmor-gang-live-05-29-15/#comments</comments>
+		<pubDate>Fri, 29 May 2015 20:08:18 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[dan farber]]></category>
+		<category><![CDATA[Steve Gillmor]]></category>
+		<category><![CDATA[Kevin Marks]]></category>
+		<category><![CDATA[john taschek]]></category>
+		<category><![CDATA[Robert Scoble]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1164756</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; Dan Farber, Kevin Marks, Robert Scoble,John Taschek, and Steve Gillmor. LIVE recording session today at 1pmPT/4pmET.
+GG on Facebook
+GG LIVE chatroom
+Our sister-show, G3, on Facebook
+Our sister-show, G3. on Ustream (archives) <a href="http://techcrunch.com/2015/05/29/gillmor-gang-live-05-29-15/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/05/29/gillmor-gang-live-05-29-15/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang LIVE 04.03.15</title>
+		<link>http://techcrunch.com/2015/04/03/gillmor-gang-live-04-03-15/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/04/03/gillmor-gang-live-04-03-15/#comments</comments>
+		<pubDate>Fri, 03 Apr 2015 20:06:12 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Keith Teare]]></category>
+		<category><![CDATA[Kevin Marks]]></category>
+		<category><![CDATA[frank radice]]></category>
+		<category><![CDATA[Steve Gillmor]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1140641</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; Keith Teare, Kevin Marks, Frank Radice, and Steve Gillmor. LIVE recording session today, 04.03.15, at 1pmPT/4pmET. 
+Gillmor Gang on Facebook
+LIVE FriendFeed chat during the live broadcast only (and for the very last time on FriendFeed) 
+Our sister show, G3 on Ustream
+Our sister show, G3, on Facebook <a href="http://techcrunch.com/2015/04/03/gillmor-gang-live-04-03-15/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/04/03/gillmor-gang-live-04-03-15/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang LIVE 02.06.15</title>
+		<link>http://techcrunch.com/2015/02/06/gillmor-gang-live-02-06-15/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/02/06/gillmor-gang-live-02-06-15/#comments</comments>
+		<pubDate>Fri, 06 Feb 2015 21:29:19 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Danny Sullivan]]></category>
+		<category><![CDATA[john taschek]]></category>
+		<category><![CDATA[david sifry]]></category>
+		<category><![CDATA[Kevin Marks]]></category>
+		<category><![CDATA[Steve Gillmor]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1116245</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; Danny Sullivan, Dave Sifry, John Taschek, Kevin Marks, and Steve Gillmor. LIVE recording session today at 1pm Pacific.
+The Gillmor Gang on Facebook
+Our live Friendfeed chat during the live show
+Our sister show G3
+Our sister show on Facebook <a href="http://techcrunch.com/2015/02/06/gillmor-gang-live-02-06-15/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/02/06/gillmor-gang-live-02-06-15/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: The Whole Truth</title>
+		<link>http://techcrunch.com/2015/01/31/gillmor-gang-the-whole-truth/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/01/31/gillmor-gang-the-whole-truth/#comments</comments>
+		<pubDate>Sat, 31 Jan 2015 17:59:04 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[Robert Scoble]]></category>
+		<category><![CDATA[Steve Gillmor]]></category>
+		<category><![CDATA[Keith Teare]]></category>
+		<category><![CDATA[Kevin Marks]]></category>
+		<category><![CDATA[john taschek]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[xml]]></category>
+		<category><![CDATA[RSS]]></category>
+		<category><![CDATA[notifications]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[@scobleizer]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@kevinmarks]]></category>
+		<category><![CDATA[@jtaschek]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1113491</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; John Taschek, Robert Scoble, Kevin Marks, Keith Teare, and Steve Gillmor. Topics include the new Microsoft and its Outlook reboot, the Gang on Women in Tech, why XML, RSS, and Notifications change everything, and why @kevinmarks disagrees. Shortly after this recording, Robert Scoble announced a health-focused hiatus. We wish him success. <a href="http://techcrunch.com/2015/01/31/gillmor-gang-the-whole-truth/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/01/31/gillmor-gang-the-whole-truth/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10372578/518628851_3_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20The%20Whole%26nbsp%3BTruth</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: HoloCraft</title>
+		<link>http://techcrunch.com/2015/01/24/gillmor-gang-holocraft/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/01/24/gillmor-gang-holocraft/#comments</comments>
+		<pubDate>Sat, 24 Jan 2015 18:04:54 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@scobleizer]]></category>
+		<category><![CDATA[@benedictevans]]></category>
+		<category><![CDATA[@kevinmarks]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[Oculus Rift]]></category>
+		<category><![CDATA[HoloLens]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Apple Watch]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1110033</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; Benedict Evans, Robert Scoble, Kevin Marks, Keith Teare, and Steve Gillmor. Topics include the future of sunglasses, why iWatch is the hub of the Notification OS, and the battle for the next 5 years is already over. And then, of course, what the Gang thinks. Plus, David Sifry joins the ladies of G3 to launch the new Handle priority mail/todo/scheduling app. <a href="http://techcrunch.com/2015/01/24/gillmor-gang-holocraft/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/01/24/gillmor-gang-holocraft/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10372341/518617031_3_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20HoloCraft</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: Dog Ears</title>
+		<link>http://techcrunch.com/2015/01/17/gillmor-gang-dog-ears/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/01/17/gillmor-gang-dog-ears/#comments</comments>
+		<pubDate>Sat, 17 Jan 2015 18:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@dbfarber]]></category>
+		<category><![CDATA[@jtaschek]]></category>
+		<category><![CDATA[@kevinmarks]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[@scobleizer]]></category>
+		<category><![CDATA[Nest]]></category>
+		<category><![CDATA[Google Glass]]></category>
+		<category><![CDATA[Facebook Work]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1106716</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; Dan Farber, John Taschek, Kevin Marks, Keith Teare, and Steve Gillmor. Topics include the Nesting of Google Glass, Neil Young&#8217;s Pono and mixing to the car radio, why Selma got shortchange in the Oscar nominations, Facebook @ Work or not, and some tough notification talk to wind it up. If you miss Scobleizer, watch him join our sister show G3. <a href="http://techcrunch.com/2015/01/17/gillmor-gang-dog-ears/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/01/17/gillmor-gang-dog-ears/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10372110/518605486_3_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Dog%26nbsp%3BEars</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang LIVE 01.16.14</title>
+		<link>http://techcrunch.com/2015/01/16/gillmor-gang-live-01-16-14/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/01/16/gillmor-gang-live-01-16-14/#comments</comments>
+		<pubDate>Fri, 16 Jan 2015 21:07:29 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1106476</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; John Taschek, Keith Teare, Kevin Marks, Dan Farber, and Steve Gillmor.  Live recording session today at 1pm Pacific/4pm Eastern.
+Gillmor Gang on Facebook here
+Live Friendfeed chat during live show broadcast here
+Check out our sister show, G3, on Ustream here <a href="http://techcrunch.com/2015/01/16/gillmor-gang-live-01-16-14/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/01/16/gillmor-gang-live-01-16-14/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: Kind of Clue</title>
+		<link>http://techcrunch.com/2015/01/10/gillmor-gang-kind-of-clue/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/01/10/gillmor-gang-kind-of-clue/#comments</comments>
+		<pubDate>Sat, 10 Jan 2015 18:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@dsearls]]></category>
+		<category><![CDATA[@dweinberger]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@kevinmarks]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1103437</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; David Weinberger, Doc Searls, Keith Teare, Kevin Marks, and Steve Gillmor. The first show of 2015 marks the return of New Clues, a dynamic updating of the famed Cluetrain Manifesto by two of the four, Doc Searls and David Weinberger. <a href="http://techcrunch.com/2015/01/10/gillmor-gang-kind-of-clue/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/01/10/gillmor-gang-kind-of-clue/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10371866/518593268_44_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Kind%20of%26nbsp%3BClue</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang LIVE</title>
+		<link>http://techcrunch.com/2015/01/09/gillmor-gang-live-2/?ncid=rss</link>
+		<comments>http://techcrunch.com/2015/01/09/gillmor-gang-live-2/#comments</comments>
+		<pubDate>Fri, 09 Jan 2015 21:06:28 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1103212</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; Doc Searls, David Weinberger, Kevin Marks, Robert Scoble, Keith Teare, and Steve Gillmor. LIVE recording session today at 1pm Pacific/4pm Eastern. 
+Live chat during the show recording is at http://friendfeed.com/stevegillmor/15bb3b9c/gillmor-gang-live-friday-01-09-15-recording-at
+Gillmor Gang on Facebook
+Our sister show, G3, on Facebook <a href="http://techcrunch.com/2015/01/09/gillmor-gang-live-2/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2015/01/09/gillmor-gang-live-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: Hackathon</title>
+		<link>http://techcrunch.com/2014/12/20/gillmor-gang-hackathon/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/12/20/gillmor-gang-hackathon/#comments</comments>
+		<pubDate>Sat, 20 Dec 2014 18:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@scobleizer]]></category>
+		<category><![CDATA[@alexia]]></category>
+		<category><![CDATA[@kevinmarks]]></category>
+		<category><![CDATA[@jtaschek]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[Sony]]></category>
+		<category><![CDATA[drones]]></category>
+		<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Amazon 1 hour]]></category>
+		<category><![CDATA[Google Inbox]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1097373</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; Robert Scoble, Alexia Tsotsis, Kevin Marks, and Steve Gillmor. Recorded live Friday, December 19, 2014. Our end-of-year show, produced as RogenGate broke and the President held a press conference. It may have occurred to some employees at Sony that they would be better off with some form of corporate SnapChat. It may have occurred to the President that there&#8217;s&hellip; <a href="http://techcrunch.com/2014/12/20/gillmor-gang-hackathon/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/12/20/gillmor-gang-hackathon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10371373/518568621_324_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Hackathon</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang LIVE 12.19.14</title>
+		<link>http://techcrunch.com/2014/12/19/gillmor-gang-live-12-19-14/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/12/19/gillmor-gang-live-12-19-14/#comments</comments>
+		<pubDate>Fri, 19 Dec 2014 21:11:15 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[Remove From TC River]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1097101</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; Robert Scoble, Kevin Marks, Alexia Tsotsis, John Taschek, and Steve Gillmor. LIVE recording session has concluded for today.
+Gillmor Gang on Facebook 
+Our sister show G3 on Facebook <a href="http://techcrunch.com/2014/12/19/gillmor-gang-live-12-19-14/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/12/19/gillmor-gang-live-12-19-14/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: Enterprise Edition</title>
+		<link>http://techcrunch.com/2014/12/13/gillmor-gang-enterprise-edition/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/12/13/gillmor-gang-enterprise-edition/#comments</comments>
+		<pubDate>Sat, 13 Dec 2014 18:11:29 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[Salesforce Analyst Summit]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@jtaschek]]></category>
+		<category><![CDATA[@firstthingbruce]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[Enterprise]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1094414</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; John Taschek, Bruce Richardson, Keith Teare, and Steve Gillmor. Recorded live Friday, December 12, 2014 in Menlo Park, California at the Salesforce Analyst Summit 2014. Analysts and Salesforce executives discussed the Summit&#8217;s theme of Continuous Transformation for 2020. <a href="http://techcrunch.com/2014/12/13/gillmor-gang-enterprise-edition/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/12/13/gillmor-gang-enterprise-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10371176/518558774_3_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Enterprise%26nbsp%3BEdition</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: Not Fade Away</title>
+		<link>http://techcrunch.com/2014/12/06/gillmor-gang-not-fade-away/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/12/06/gillmor-gang-not-fade-away/#comments</comments>
+		<pubDate>Sat, 06 Dec 2014 19:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@scobleizer]]></category>
+		<category><![CDATA[@dsearls]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[yo]]></category>
+		<category><![CDATA[homescreen]]></category>
+		<category><![CDATA[body cameras]]></category>
+		<category><![CDATA[Deep Linking]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[IoT]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1091399</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; Robert Scoble, Doc Searls, Keith Teare, and Steve Gillmor. Recorded live Friday, December 5, 2014.
+As notifications and deep linking are built out, the Gillmor Gang is implementing a series of interconnected apps and services including a forthcoming Gillmor Gang app. <a href="http://techcrunch.com/2014/12/06/gillmor-gang-not-fade-away/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/12/06/gillmor-gang-not-fade-away/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10370964/518548191_3_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Not%20Fade%26nbsp%3BAway</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang LIVE 12.05.14</title>
+		<link>http://techcrunch.com/2014/12/05/gillmor-gang-live-12-05-14/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/12/05/gillmor-gang-live-12-05-14/#comments</comments>
+		<pubDate>Fri, 05 Dec 2014 21:05:34 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[Remove From TC River]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1091154</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; Robert Scoble, Keith Teare, Doc Searls, and Steve Gillmor. LIVE recording session today 1pm Pacific; 4pm Eastern. 
+Gillmor Gang on Facebook
+LIVE Friendfeed chat during show live broadcast  
+Our sister show G3 on Facebook <a href="http://techcrunch.com/2014/12/05/gillmor-gang-live-12-05-14/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/12/05/gillmor-gang-live-12-05-14/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: Basement Tape</title>
+		<link>http://techcrunch.com/2014/11/29/gillmor-gang-basement-tape/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/11/29/gillmor-gang-basement-tape/#comments</comments>
+		<pubDate>Sat, 29 Nov 2014 18:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@scobleizer]]></category>
+		<category><![CDATA[@dbfarber]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[yo]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1088862</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; Robert Scoble, Dan Farber, Keith Teare, and Steve Gillmor. Recorded live Friday, November 28, 2014. I stopped writing a few years ago, mostly because I felt the form was too much a parlor trick. Social felt more directed, less pious, touched with a gentle irony when played well. Threaded through Twitter, the social graph added context to the polemic of the post, a&hellip; <a href="http://techcrunch.com/2014/11/29/gillmor-gang-basement-tape/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/11/29/gillmor-gang-basement-tape/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10370761/518538016_190_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Basement%26nbsp%3BTape</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: Cash or Charge</title>
+		<link>http://techcrunch.com/2014/11/22/gillmor-gang-cash-or-charge/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/11/22/gillmor-gang-cash-or-charge/#comments</comments>
+		<pubDate>Sat, 22 Nov 2014 18:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@scobleizer]]></category>
+		<category><![CDATA[@dbfarber]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@kevinmarks]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[facebook groups]]></category>
+		<category><![CDATA[inbox]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1086728</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; Robert Scoble, Dan Farber, Kevin Marks, Keith Teare, and Steve Gillmor. Hard not to talk about Uber, given the clash between hubris and transformational momentum. The Gang swims in a sea of messaging apps, Facebook passport control, Google InBox immigration. Newspaper taxis appear on the shore, waiting to take you away. Climb in the back,with your head in the Cloud,&hellip; <a href="http://techcrunch.com/2014/11/22/gillmor-gang-cash-or-charge/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/11/22/gillmor-gang-cash-or-charge/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10370584/518529168_3_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Cash%20or%26nbsp%3BCharge</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang LIVE 11.21.14</title>
+		<link>http://techcrunch.com/2014/11/21/gillmor-gang-live-11-21-14/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/11/21/gillmor-gang-live-11-21-14/#comments</comments>
+		<pubDate>Fri, 21 Nov 2014 21:11:41 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1086363</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; Robert Scoble, Kevin Marks, Keith Teare, Dan Farber, and Steve Gillmor. Live recording session today at 1pm PT. 
+Gillmor Gang on Facebook
+Friendfeed chat during live broadcast  
+Our sister show, G3 <a href="http://techcrunch.com/2014/11/21/gillmor-gang-live-11-21-14/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/11/21/gillmor-gang-live-11-21-14/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang: Silent Noise</title>
+		<link>http://techcrunch.com/2014/11/15/gillmor-gang-silent-noise/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/11/15/gillmor-gang-silent-noise/#comments</comments>
+		<pubDate>Sat, 15 Nov 2014 18:12:45 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@scobleizer]]></category>
+		<category><![CDATA[@kevinmarks]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Basement Tapes]]></category>
+		<category><![CDATA[pono]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1083834</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;The Gillmor Gang &#8212; Robert Scoble, Keith Teare, Kevin Marks, and Steve Gillmor. Recorded live Friday, November 14, 2014.
+Topics include: Pono, Bob Dylan&#8217;s Basement Tapes, Twitter Investor Day, @scobleizer&#8217;s Top Two Tips to Improve Facebook, Notification News, Amazon Echo. Time passes slowly up here in the mountains when you&#8217;re lost in a dream. <a href="http://techcrunch.com/2014/11/15/gillmor-gang-silent-noise/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/11/15/gillmor-gang-silent-noise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+<media:content url="http://pthumbnails.5min.com/10370336/518516752_18_1279_727.jpg" type="image/jpeg" medium="image"><media:title type="html">Gillmor%20Gang%3A%20Silent%26nbsp%3BNoise</media:title></media:content>
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Gillmor Gang Live 11.14.14</title>
+		<link>http://techcrunch.com/2014/11/14/gillmor-gang-live-11-14-14/?ncid=rss</link>
+		<comments>http://techcrunch.com/2014/11/14/gillmor-gang-live-11-14-14/#comments</comments>
+		<pubDate>Fri, 14 Nov 2014 17:06:32 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Gillmor]]></dc:creator>
+				<category><![CDATA[Remove From TC River]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=1083289</guid>
+		<description><![CDATA[<img width="680" height="383" src="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=680" class="attachment-large wp-post-image" alt="Gillmor Gang Artcard" />&nbsp;Gillmor Gang &#8211; Robert Scoble, Keith Teare, Kevin Marks, and Steve Gillmor. Live recording session has concluded for today. 
+Our Facebook page
+Our sister show, G3 on Facebook <a href="http://techcrunch.com/2014/11/14/gillmor-gang-live-11-14-14/?ncid=rss">Read More</a>]]></description>
+		<wfw:commentRss>http://techcrunch.com/2014/11/14/gillmor-gang-live-11-14-14/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=210&amp;h=158&amp;crop=1" />
+
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2014/02/gg-test-pattern-sepia3.jpg?w=150" medium="image">
+			<media:title type="html">GG test pattern sepia3</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	</item>
+	<media:rating>nonadult</media:rating></channel>
+</rss>
