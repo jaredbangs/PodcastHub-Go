@@ -47,6 +47,26 @@ func TestFeedContentHasTitle(t *testing.T) {
 	assert.NotNil(t, feed.Channel.Title, "Title should not be nil")
 }
 
+func TestFeedShouldHave47Enclosures(t *testing.T) {
+
+	parser := RssParser{}
+
+	feed, _ := parser.ParseFeedContent(getValidTestContent())
+
+	enclosureCount := 0
+
+	for _, item := range feed.Channel.ItemList {
+		for _, enclosure := range item.Enclosures {
+			if len(enclosure.Url) != 0 {
+				enclosureCount = enclosureCount + 1
+			}
+		}
+	}
+
+	assert.Equal(t, 47, enclosureCount, "47 items should have enclosures")
+
+}
+
 func TestItemsUsuallyHaveEnclosures(t *testing.T) {
 
 	parser := RssParser{}
@@ -56,7 +76,7 @@ func TestItemsUsuallyHaveEnclosures(t *testing.T) {
 	emptyEnclosureItemCount := 0
 
 	for _, item := range feed.Channel.ItemList {
-		if len(item.Enclosure.Url) == 0 {
+		if len(item.Enclosures) == 0 {
 			emptyEnclosureItemCount = emptyEnclosureItemCount + 1
 		}
 	}
