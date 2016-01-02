@@ -16,14 +16,55 @@
       <link>http://gnuworldorder.info</link>
     </image>
     <!--SCRIPTENT-->
-
     <item>
-      <title>gnuWorldOrder_book</title> <link>https://www.smashwords.com/books/view/582453</link> <guid>https://www.smashwords.com/books/view/582453</guid> <author>Klaatu</author> <enclosure length="4" url="https://www.smashwords.com/books/view/582453" type="text/xml"/> <pubDate>Mon, 04 Oct 2015 09:43:10 NZST</pubDate> <description>
+      <title>gnuWorldOrder_Xx10</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx10.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx10.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="15344823" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx10.ogg" type="audio/ogg"/>
+      <pubDate>Mon, 07 Dec 2015 21:05:51 NZDT</pubDate>
+      <description>
+Klaatu talks about MyPaint, compares layer behaviour in GIMP to other photo
+editors, talks about desktop cusomisation with Fluxbox, and more.
+
+ shasum -a256=a2df5644bdb7b3f0543611878780b5fa2aae51ee2d33da584cb29787f95d3b14</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx09</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx09.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx09.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="19629925" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx09.ogg" type="audio/ogg"/>
+      <pubDate>Sun, 15 Nov 2015 21:32:11 NZDT</pubDate>
+      <description>
+Klaatu talks about selections in Emacs, compiling for 32 bit on a 64 bit
+machine, file managers, and an intro to MariaDB.
+
+The Flowblade experiment didn't quite work out, so this episode was edited in
+Kdenlive.
+
+ shasum -a256=07e6f0bfefa2ea40bb3dc8df726c7774337e0f7fa080bbfca3b7c1d851cabdee</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_book</title>
+      <link>https://www.smashwords.com/books/view/582453</link>
+      <guid>https://www.smashwords.com/books/view/582453</guid>
+      <author>Klaatu</author>
+      <enclosure length="4" url="https://www.smashwords.com/books/view/582453" type="text/xml"/>
+      <pubDate>Mon, 04 Oct 2015 09:43:10 NZST</pubDate>
+      <description>
 The next episode is taking a lot longer than anticipated, not for any good reason aside from real life, some unexpected setbacks in a few movie productions, and preparations for the upcoming <a href="http://allthingsopen.org/speakers/klaatu-einzelganger" target="_blank">All Things Open</a> conference. Klaatu was interviewed about the conference over on <a href="http://opensource.com/business/15/9/ato-interview-klaatu" target="_blank">Opensource.com</a> so feel free to read that.
 
 Speaking of reading...in the mean time, Klaatu has published an ebook full of random musings, cartoons, some history, and a few useful tutorials. It's meant to be a book that celebrates being a computer nerd in the age of open source technology. Not anything groundbreaking, but some nice light reading maybe. It is available for $0 at https://www.smashwords.com/books/view/582453</description>
-</item>
-    <item><title>gnuWorldOrder_Xx08</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx08.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx08.ogg</guid> <author>Klaatu</author> <enclosure length="19480411" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx08.ogg" type="audio/ogg"/> <pubDate>Mon, 31 Aug 2015 21:43:10 NZST</pubDate> <description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx08</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx08.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx08.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="19480411" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx08.ogg" type="audio/ogg"/>
+      <pubDate>Mon, 31 Aug 2015 21:43:10 NZST</pubDate>
+      <description>
 Klaatu talks tough about why anyone should even bother with Linux. He shows
 noobs how to manage thumbnailing in file managers, and does a pretty good
 Synfig tutorial.
@@ -36,8 +77,16 @@ source...yet?
 
 Next two episodes are being edited with the open source editor **Flowblade**.
 
- shasum -a256=7407fd6711a5390af120170382571556c109ba961b2a9d215a99d237293e6305</description></item>
-<item><title>gnuWorldOrder_Xx07</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx07.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx07.ogg</guid> <author>Klaatu</author> <enclosure length="18513125" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx07.ogg" type="audio/ogg"/> <pubDate>Wed, 29 Jul 2015 00:23:05 NZST</pubDate> <description>
+ shasum -a256=7407fd6711a5390af120170382571556c109ba961b2a9d215a99d237293e6305</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx07</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx07.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx07.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="18513125" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx07.ogg" type="audio/ogg"/>
+      <pubDate>Wed, 29 Jul 2015 00:23:05 NZST</pubDate>
+      <description>
 Klaatu talks about file choosers, file management, and font menus.
 
 Note that previous episodes of Gnu World Order have been edited in Kdenlive or
@@ -50,8 +99,16 @@ frame rates. This episode seemed like a good way to test that.
 A full report on Klaatu's findings will happen in the final episode of this
 season.
 
- shasum -a256=9b3b1e990916d8580bcf2ef0a9a3ef8caef3db01b5db59d8cc90b6f7d484362c</description></item>
-<item><title>gnuWorldOrder_Xx06</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx06.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx06.ogg</guid> <author>Klaatu</author> <enclosure length="24670579" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx06.ogg" type="audio/ogg"/> <pubDate>Mon, 22 Jun 2015 21:42:51 NZST</pubDate> <description>
+ shasum -a256=9b3b1e990916d8580bcf2ef0a9a3ef8caef3db01b5db59d8cc90b6f7d484362c</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx06</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx06.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx06.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="24670579" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx06.ogg" type="audio/ogg"/>
+      <pubDate>Mon, 22 Jun 2015 21:42:51 NZST</pubDate>
+      <description>
 Klaatu talks about Docker and Docker Hub, and shows you how to get started
 with it. Plus, how to create your own MIMEtypes with the dark magick of XML!
 
@@ -64,42 +121,98 @@ in /usr/share/icons/hicolor/scalable
 You may have to log out and log back in for things to kick in, but it works a
 treat.
 
- shasum -a256=5ed286eab658b7684405bc38df438deea96729aab4a185311cadd722176058fd</description></item>
-<item><title>gnuWorldOrder_Xx05init</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05init.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05init.ogg</guid> <author>Klaatu</author> <enclosure length="7593030" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05init.ogg" type="audio/ogg"/> <pubDate>Sun, 31 May 2015 21:47:20 NZST</pubDate> <description>
+ shasum -a256=5ed286eab658b7684405bc38df438deea96729aab4a185311cadd722176058fd</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx05init</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05init.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05init.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="7593030" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05init.ogg" type="audio/ogg"/>
+      <pubDate>Sun, 31 May 2015 21:47:20 NZST</pubDate>
+      <description>
 Swap out your init system with something new.
 
 Is your init system baked into your distribution? Sounds like you use a non-
 modular package management system. Try Slackware!
 
- shasum -a256=71789c77be4fa1529f324b581aa93ba4a57aea0b27a7b4582a56dc739948bbdb</description></item>
-<item><title>gnuWorldOrder_Xx05icons</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05icons.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05icons.ogg</guid> <author>Klaatu</author> <enclosure length="3359405" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05icons.ogg" type="audio/ogg"/> <pubDate>Sun, 19 Apr 2015 19:43:54 NZST</pubDate> <description>
+ shasum -a256=71789c77be4fa1529f324b581aa93ba4a57aea0b27a7b4582a56dc739948bbdb</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx05icons</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05icons.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05icons.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="3359405" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05icons.ogg" type="audio/ogg"/>
+      <pubDate>Sun, 19 Apr 2015 19:43:54 NZST</pubDate>
+      <description>
 One week late due to a homevisit to the States, Klaatu returns with a friendly
 introduction to theming your Linux desktop icons.
 
- shasum -a256=63f1df4c7d870b087d4a7c3dd2766ee181081a01e78fdd13b3c477b47d42b6fd</description></item>
-<item><title>gnuWorldOrder_Xx05</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05.ogg</guid> <author>Klaatu</author> <enclosure length="12848319" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05.ogg" type="audio/ogg"/> <pubDate>Mon, 30 Mar 2015 01:09:50 NZDT</pubDate> <description>
+ shasum -a256=63f1df4c7d870b087d4a7c3dd2766ee181081a01e78fdd13b3c477b47d42b6fd</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx05</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="12848319" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx05.ogg" type="audio/ogg"/>
+      <pubDate>Mon, 30 Mar 2015 01:09:50 NZDT</pubDate>
+      <description>
 Everything you ever wanted to know about hard drives and filesystems.
 
- shasum -a256=9a6a323f4101f0c4d767c3a1f67aecc32c26707d8be6aebdba49d4b9fa7b7c91</description></item>
-<item><title>gnuWorldOrder_Xx04gccld</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04gccld.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04gccld.ogg</guid> <author>Klaatu</author> <enclosure length="4650900" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04gccld.ogg" type="audio/ogg"/> <pubDate>Sun, 15 Mar 2015 20:31:17 NZDT</pubDate> <description>
+ shasum -a256=9a6a323f4101f0c4d767c3a1f67aecc32c26707d8be6aebdba49d4b9fa7b7c91</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx04gccld</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04gccld.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04gccld.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="4650900" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04gccld.ogg" type="audio/ogg"/>
+      <pubDate>Sun, 15 Mar 2015 20:31:17 NZDT</pubDate>
+      <description>
 HOWTO link to libraries using relative paths. That's all. That's the entire
 episode.
 
- shasum -a256=8c0457c378f80740a57637bc872b34c52f9d338d964489391504d8159d724178</description></item>
-<item><title>gnuWorldOrder_Xx04</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04.ogg</guid> <author>Klaatu</author> <enclosure length="8223924" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04.ogg" type="audio/ogg"/> <pubDate>Mon, 02 Mar 2015 18:42:28 NZDT</pubDate> <description>
+ shasum -a256=8c0457c378f80740a57637bc872b34c52f9d338d964489391504d8159d724178</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx04</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="8223924" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx04.ogg" type="audio/ogg"/>
+      <pubDate>Mon, 02 Mar 2015 18:42:28 NZDT</pubDate>
+      <description>
 Klaatu talks about packaging techniques, portable apps and App Images, ldd,
 LD_PATH. For the noobs, he covers EVERY possible way you can install
 applications on Linux.
 
- shasum -a256=d4d904b9070a93ed7dc6934656f99c35ba4f9fb63ee035756949b75e1b5fd1aa</description></item>
-<item><title>gnuWorldOrder_Xx03</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx03.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx03.ogg</guid> <author>Klaatu</author> <enclosure length="5997137" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx03.ogg" type="audio/ogg"/> <pubDate>Sun, 15 Feb 2015 19:08:57 NZDT</pubDate> <description>
+ shasum -a256=d4d904b9070a93ed7dc6934656f99c35ba4f9fb63ee035756949b75e1b5fd1aa</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx03</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx03.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx03.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="5997137" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx03.ogg" type="audio/ogg"/>
+      <pubDate>Sun, 15 Feb 2015 19:08:57 NZDT</pubDate>
+      <description>
 Klaatu talks about distributions, and what they mean to Linux users and the
 corporations who might want to deliver products to them. And then for the
 noobs, an explanation of how dot-desktop files work and how you can leverage
 them.
 
- shasum -a256=aac172057c5aad32dbeb806c4adaf01d30e905740f059cdf9c996acbc47ff8f5</description></item>
-<item><title>gnuWorldOrder_Xx02</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx02.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx02.ogg</guid> <author>Klaatu</author> <enclosure length="6939509" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx02.ogg" type="audio/ogg"/> <pubDate>Sun, 01 Feb 2015 20:30:48 NZDT</pubDate> <description>
+ shasum -a256=aac172057c5aad32dbeb806c4adaf01d30e905740f059cdf9c996acbc47ff8f5</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx02</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx02.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx02.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="6939509" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx02.ogg" type="audio/ogg"/>
+      <pubDate>Sun, 01 Feb 2015 20:30:48 NZDT</pubDate>
+      <description>
 Klaatu tries out a neat init hack, demonstrates how to type non-ascii
 ("special characters") characters on Linux, reviews his experience of spending
 the past 7 months with the Dvorak kdyboard layout, and talks about learning
@@ -108,8 +221,16 @@ curves and change.
 Watch this space for a bonus GIMP-tutorial episode, coming soon (that's two
 episodes this fortnight, for the price of one).
 
- shasum -a256=d1abb1864a505dcb8a8c8f813d25ec2cad460310a992d186e147475148294122</description></item>
-<item><title>gnuWorldOrder_Xx01</title> <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx01.ogg</link> <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx01.ogg</guid> <author>Klaatu</author> <enclosure length="4366724" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx01.ogg" type="audio/ogg"/> <pubDate>Mon, 19 Jan 2015 00:05:47 NZDT</pubDate> <description>
+ shasum -a256=d1abb1864a505dcb8a8c8f813d25ec2cad460310a992d186e147475148294122</description>
+    </item>
+    <item>
+      <title>gnuWorldOrder_Xx01</title>
+      <link>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx01.ogg</link>
+      <guid>http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx01.ogg</guid>
+      <author>Klaatu</author>
+      <enclosure length="4366724" url="http://gnuworldorder.info/audiophile/gnuWorldOrder_Xx01.ogg" type="audio/ogg"/>
+      <pubDate>Mon, 19 Jan 2015 00:05:47 NZDT</pubDate>
+      <description>
 Klaatu muses about the Hacker and Maker cultures, demonstrates how to install
 fonts, and gives a demonstration of Krita.
 
@@ -117,7 +238,8 @@ Did you know that Krita has just won the ImagineFX Magazine Artist Choice
 Award? ImagineFX is by no means an Open Source -centric magazine, so this is
 frankly a huge win for the Krita team!
 
- shasum -a256=360292f69cdc35897fddff00260c59fa1dcecb54300e43dab852a364260e98c4</description></item>
+ shasum -a256=360292f69cdc35897fddff00260c59fa1dcecb54300e43dab852a364260e98c4</description>
+    </item>
     <item>
       <title>gnuWorldOrder_Xx00a</title>
       <link>http://www.gnuworldorder.info/audiophile/gnuWorldOrder_Xx00a.ogg</link>

@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"><title>Free as in Freedom</title><link>http://faif.us/cast/</link><description>A bi-weekly discussion of legal, policy, and other issues in the open source and software freedom community (including occasional interviews) from Brooklyn, New York, USA.  Presented by Karen Sandler and Bradley M. Kuhn.</description><atom:link href="http://faif.us/feeds/cast-ogg/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 04 Jun 2015 10:25:00 -0400</lastBuildDate><managingEditor>podcast@faif.us (Bradley and Karen)</managingEditor><image><url>http://faif.us/img/cast/faif_144x144.jpg</url><title>Free as in Freedom</title><link>http://faif.us/cast/</link><width>144</width><height>144</height></image><webMaster>oggcast@faif.us (Bradley and Karen)</webMaster><itunes:explicit>No</itunes:explicit><itunes:block>No</itunes:block><generator>http://www.faif.us/code</generator><media:thumbnail url="http://faif.us/img/cast/faif_144x144.jpg"></media:thumbnail><itunes:image href="http://faif.us/img/cast/faif_300x300.jpg"></itunes:image><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Government &amp; Organizations</media:category><itunes:category text="Government &amp; Organizations"><itunes:category text="Non-Profit"></itunes:category></itunes:category><media:keywords>open,source,,opensource,,freesoftware,,software,freedom,,legal,,law,,linux,,free,,license,,gpl,,lgpl,,agpl,,bsd</media:keywords><itunes:owner><itunes:email>podcast@faif.us</itunes:email><itunes:name>Free as in Freedom</itunes:name></itunes:owner><itunes:summary>A bi-weekly discussion of legal, policy, and other issues in the open source and software freedom community (including occasional interviews) from Brooklyn, New York, USA.  Presented by Karen Sandler and Bradley M. Kuhn.</itunes:summary><itunes:subtitle>Bi-Weekly Discussion of Legal, Policy, and Any other Issues in the Free, Libre, and Open Source Software (FLOSS) Community</itunes:subtitle><itunes:author>Free as in Freedom</itunes:author><atom:link href="http://faif.us/feeds/cast-ogg/" type="application/rss+xml" rel="self"></atom:link><copyright>2010, 2011, 2012, 2013, 2014, 2015, Free as in Freedom.  Licensed under a Creative Commons Attribution-Share Alike 3.0 USA License.</copyright><media:copyright>Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015, Free as in Freedom.  Licensed under a Creative Commons Attribution-Share Alike 3.0 USA License.</media:copyright><item><title>0x56: &amp;hellip; &amp;amp; We're Back!
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"><title>Free as in Freedom</title><link>http://faif.us/cast/</link><description>A bi-weekly discussion of legal, policy, and other issues in the open source and software freedom community (including occasional interviews) from Brooklyn, New York, USA.  Presented by Karen Sandler and Bradley M. Kuhn.</description><atom:link href="http://faif.us/feeds/cast-ogg/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 24 Nov 2015 10:05:00 -0500</lastBuildDate><managingEditor>podcast@faif.us (Bradley and Karen)</managingEditor><image><url>http://faif.us/img/cast/faif_144x144.jpg</url><title>Free as in Freedom</title><link>http://faif.us/cast/</link><width>144</width><height>144</height></image><webMaster>oggcast@faif.us (Bradley and Karen)</webMaster><itunes:explicit>No</itunes:explicit><itunes:block>No</itunes:block><generator>http://www.faif.us/code</generator><media:thumbnail url="http://faif.us/img/cast/faif_144x144.jpg"></media:thumbnail><itunes:image href="http://faif.us/img/cast/faif_300x300.jpg"></itunes:image><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Government &amp; Organizations</media:category><itunes:category text="Government &amp; Organizations"><itunes:category text="Non-Profit"></itunes:category></itunes:category><media:keywords>open,source,,opensource,,freesoftware,,software,freedom,,legal,,law,,linux,,free,,license,,gpl,,lgpl,,agpl,,bsd</media:keywords><itunes:owner><itunes:email>podcast@faif.us</itunes:email><itunes:name>Free as in Freedom</itunes:name></itunes:owner><itunes:summary>A bi-weekly discussion of legal, policy, and other issues in the open source and software freedom community (including occasional interviews) from Brooklyn, New York, USA.  Presented by Karen Sandler and Bradley M. Kuhn.</itunes:summary><itunes:subtitle>Bi-Weekly Discussion of Legal, Policy, and Any other Issues in the Free, Libre, and Open Source Software (FLOSS) Community</itunes:subtitle><itunes:author>Free as in Freedom</itunes:author><atom:link href="http://faif.us/feeds/cast-ogg/" type="application/rss+xml" rel="self"></atom:link><copyright>2010, 2011, 2012, 2013, 2014, 2015, Free as in Freedom.  Licensed under a Creative Commons Attribution-Share Alike 3.0 USA License.</copyright><media:copyright>Copyright (C) 2010, 2011, 2012, 2013, 2014, 2015, Free as in Freedom.  Licensed under a Creative Commons Attribution-Share Alike 3.0 USA License.</media:copyright><item><title>0x57: Support Conservancy Now!
+</title><link>http://faif.us/cast/2015/nov/24/0x57/</link><description>&lt;p&gt;
+&lt;a href="http://faif.us/cast-media/FaiF_0x57_Support-Conservancy.ogg"&gt;&lt;img alt="[Direct download of cast in Ogg/Vorbis
+                                          format]" src="http://faif.us/img/cast/audio_ogg_button.png"/&gt;&lt;/a&gt;
+&lt;a href="http://faif.us/cast-media/FaiF_0x57_Support-Conservancy.mp3"&gt;&lt;img alt="[Direct download of cast in MP3 format]"
+                                     src="http://faif.us/img/cast/audio_mp3_button.png"/&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3&gt;Show Notes&lt;/h3&gt;
+
+   &lt;ul&gt;
+
+   &lt;li&gt; Bradley mentioned &lt;a
+   href="https://en.wikipedia.org/wiki/Cygnus_Solutions"&gt;Cygnus
+   Solutions&lt;/a&gt;, ultimately acquired by Red Hat, which was an early
+   for-profit supporter of copylefted projects.&lt;/li&gt;
+
+   &lt;li&gt;Bradley and Karen discussed the &lt;a
+   href="https://sfconservancy.org/copyleft-compliance/vmware-lawsuit-faq.html"&gt;VMware
+   lawsuit&lt;/a&gt;.&lt;/li&gt;
+
+   &lt;li&gt;&lt;a href="http://dustycloud.org/blog/why-i-am-pro-gpl/"&gt;Chris Webber
+   wrote this blog post in response to a Shane Curcuru, who is VP of Brand
+   Management at the Apache Software Foundation, anti-copyleft talk at OSCON
+   2015&lt;/a&gt;. Shane's talk is consistent with &lt;a
+   href="https://web.archive.org/web/20150120123334/http://www.openoffice.org/why/why_compliance.html"&gt;Apache
+   Software Foundation's historical&lt;/a&gt; and &lt;a
+   href="https://www.openoffice.org/why/why_compliance.html"&gt;recent&lt;/a&gt;
+   anti-copyleft positions (12:23)&lt;/li&gt;
+   &lt;/ul&gt;
+
+
+&lt;hr width="80%"/&gt;
+
+&lt;p&gt;Send feedback and comments on the cast
+to &lt;a href="mailto:cast@faif.us"&gt;&amp;lt;oggcast@faif.us&amp;gt;&lt;/a&gt;.
+You can keep in touch with &lt;a href="http://faif.us"&gt;Free as in Freedom&lt;/a&gt; on our IRC channel, #faif on irc.freenode.net, and
+  by &lt;a href="http://identi.ca/faif"&gt;following FaiF on identi.ca&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Free as in Freedom is produced by &lt;a href="http://danlynch.org/blog/"&gt;Dan Lynch&lt;/a&gt;
+  of &lt;a href="http://www.halfbakedmedia.com/"&gt;half baked media&lt;/a&gt;.
+Theme
+  music written and performed
+  by &lt;a href="http://www.miketarantino.com"&gt;Mike Tarantino&lt;/a&gt;
+  with &lt;a href="http://www.charliepaxson.com"&gt;Charlie Paxson&lt;/a&gt; on drums.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="license"
+   href="http://creativecommons.org/licenses/by-nd/3.0/us/"&gt;&lt;img alt="Creative
+   Commons License" style="border-width:0"
+   src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" hspace=10 /&gt;&lt;/a&gt;
+   For shows from 0x00 through 0x16, the content
+   of &lt;span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Sound" rel="dc:type"&gt;this
+   oggcast&lt;/span&gt;, the accompanying show notes and music are licensed
+   under the &lt;a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;Creative Commons
+   Attribution-Share-Alike 3.0 Unported license (CC-By-SA-3.0
+   Unported)&lt;/a&gt;.  For shows from 0x17 onward, the license for those
+   materials is
+   the &lt;a rel="license"
+   href="http://creativecommons.org/licenses/by-sa/3.0/us/"&gt;Creative
+   Commons Attribution-Share-Alike 3.0 USA license (CC-By-SA-3.0
+   USA)&lt;/a&gt;.
+&lt;/p&gt;
+</description><author>oggcast@faif.us (Free as in Freedom)</author><pubDate>Tue, 24 Nov 2015 10:05:00 -0500</pubDate><guid>http://faif.us/cast/2015/nov/24/0x57/</guid><enclosure url="http://faif.us/cast-media/FaiF_0x57_Support-Conservancy.ogg" length="38102539" type="audio/ogg"></enclosure><category>Technology</category><itunes:explicit>No</itunes:explicit><itunes:block>No</itunes:block><itunes:keywords>open source, opensource, freesoftware, software freedom, legal, law, linux, free, license, gpl, lgpl, agpl, bsd</itunes:keywords><itunes:author>Free as in Freedom</itunes:author><itunes:duration>00:26:10</itunes:duration><media:content url="http://faif.us/cast-media/FaiF_0x57_Support-Conservancy.ogg" type="audio/ogg" fileSize="38102539"></media:content></item><item><title>0x56: &amp;hellip; &amp;amp; We're Back!
 </title><link>http://faif.us/cast/2015/jun/04/and-we-are-back/</link><description>&lt;p&gt;
 &lt;a href="http://faif.us/cast-media/FaiF_0x56_And-Were-Back.ogg"&gt;&lt;img alt="[Direct download of cast in Ogg/Vorbis
                                           format]" src="http://faif.us/img/cast/audio_ogg_button.png"/&gt;&lt;/a&gt;

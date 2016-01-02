@@ -10,12 +10,12 @@
     <copyright>Creative Commons</copyright>
     <managingEditor>andre.charland@nitobi.com (andre.charland@nitobi.com)</managingEditor>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2015 06:33:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2016 21:16:57 GMT</lastBuildDate>
     <generator>Hipcast RSS Feeder 1.44</generator>
     <category>Technology</category>
     <ttl>60</ttl>
     <image>
-      <url>http://ebadre.hipcast.com/albumart/1001.1447482849.jpg</url>
+      <url>http://ebadre.hipcast.com/albumart/1001.1451769429.jpg</url>
       <link>http://blogs.ebusiness-apps.com/andre</link>
       <title>Nitobi's Enterprise AJAX Podcast</title>
     </image>
@@ -28,7 +28,7 @@
       <itunes:name>Andre Charland</itunes:name>
       <itunes:email>acharland@ebusinessapps.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://ebadre.hipcast.com/albumart/1001_itunes.1447482849.jpg"/>
+    <itunes:image href="http://ebadre.hipcast.com/albumart/1001_itunes.1451769429.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>

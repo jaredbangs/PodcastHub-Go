@@ -6,7 +6,7 @@
 	
 	<link>http://loveandradio.org/</link>
 	<description>Nick van der Kolk’s Love and Radio features in-depth, otherworldly-produced interviews with an eclectic range of subjects, from the seedy to the sublime. Get inside the mind of a rogue taxidermist. Find out what it’s like to experience a stroke firsthand. Or spend time with an artist who gives away her life savings every night. You’ve never heard anything like it before. Powered by PRX’s Radiotopia.</description>
-	<lastBuildDate>Fri, 23 Oct 2015 17:03:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Nov 2015 00:32:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,27 @@
 	</image>
 	
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feed.loveandradio.org/loveplusradio" /><feedburner:info uri="loveplusradio" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Copyright Love and Radio, LLC</media:copyright><media:thumbnail url="http://loveandradio.org/images/Loveandradio14002.jpg" /><media:keywords>loveandradio,storytelling,interviews,kolk,vanderkolk,radiotopia,prx</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Society &amp; Culture</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Music</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Comedy</media:category><itunes:owner><itunes:email>contact@loveandradio.org</itunes:email><itunes:name>Love and Radio</itunes:name></itunes:owner><itunes:keywords>loveandradio,storytelling,interviews,kolk,vanderkolk,radiotopia,prx</itunes:keywords><itunes:category text="Society &amp; Culture" /><itunes:category text="Arts" /><itunes:category text="Music" /><itunes:category text="Comedy" /><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeed.loveandradio.org%2Floveplusradio" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><item>
+		<title>Points Unknown</title>
+		<link>http://feed.loveandradio.org/~r/loveplusradio/~3/VRaiOdinDdg/</link>
+		<comments>http://loveandradio.prx.org/2015/11/points-unknown/#comments</comments>
+		<pubDate>Tue, 17 Nov 2015 02:00:50 +0000</pubDate>
+		<dc:creator>contact@loveandradio.org (Love and Radio)</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://loveandradio.prx.org/?p=280</guid>
+		<description><![CDATA[David is followed by a strange hooded figure]]></description>
+				<content:encoded><![CDATA[<p>David is followed by a strange hooded figure</p>
+<img src="http://feeds.feedburner.com/~r/loveplusradio/~4/VRaiOdinDdg" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://loveandradio.prx.org/2015/11/points-unknown/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>David is followed by a strange hooded figure</itunes:subtitle>
+		<itunes:summary>David is followed by a strange hooded figure</itunes:summary>
+		<itunes:author>Love + Radio</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>38:37</itunes:duration>
+	<media:content url="http://feed.loveandradio.org/~r/loveplusradio/~5/rwOZBMmtAX8/DavidFixedv2.mp3" fileSize="37069254" type="audio/mpeg" /><itunes:keywords>loveandradio,storytelling,interviews,kolk,vanderkolk,radiotopia,prx</itunes:keywords><feedburner:origLink>http://loveandradio.prx.org/2015/11/points-unknown/</feedburner:origLink><enclosure url="http://feed.loveandradio.org/~r/loveplusradio/~5/rwOZBMmtAX8/DavidFixedv2.mp3" length="37069254" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/loveandradio/cdn.loveandradio.prx.org/wp-content/uploads/DavidFixedv2.mp3</feedburner:origEnclosureLink></item>
+		<item>
 		<title>Discarnate Rebel Angel</title>
 		<link>http://feed.loveandradio.org/~r/loveplusradio/~3/HelMo7Lsj0A/</link>
 		<comments>http://loveandradio.prx.org/2015/10/discarnate-rebel-angel/#comments</comments>

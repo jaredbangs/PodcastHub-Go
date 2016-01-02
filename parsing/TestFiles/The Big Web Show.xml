@@ -3,7 +3,7 @@
   <channel>
     <title>The Big Web Show</title>
     <link>http://5by5.tv/bigwebshow</link>
-    <pubDate>Fri, 13 Nov 2015 20:00:00 GMT</pubDate>
+    <pubDate>Fri, 04 Dec 2015 18:30:00 GMT</pubDate>
     <description>The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters. Hosted by Jeffrey Zeldman.</description>
     <language>en-us</language>
     <itunes:subtitle>The Big Web Show</itunes:subtitle>
@@ -19,6 +19,72 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <item>
+      <title>140: Progressive Enhancement FTW with Aaron Gustafson</title>
+      <link>http://5by5.tv/bigwebshow/140</link>
+      <guid isPermalink="false">http://5by5.tv/bigwebshow/140</guid>
+      <pubDate>Fri, 04 Dec 2015 18:30:00 GMT</pubDate>
+      <author>Jeffrey Zeldman</author>
+      <description>Longtime web developer, lecturer, and web standards evangelist Aaron Gustafson and host Jeffrey Zeldman discuss the newly published update to Aaron’s best-selling industry classic “love letter to the web,” Adaptive Web Design: Crafting Rich Experiences With Progressive Enhancement, 2nd Edition (New Riders, 2015).
+
+Topics covered include: Aaron's superhero origin story as a creator of progressively enhanced websites and applications; "we’re not building things we haven't built on the web before;" "creating opportunities for people outside your comfort zone;" development in the world of Node.js; "every interface is a conversation;" "visual design is an enhancement;" "interaction is an enhancement;" nerding out over early web terminal interfaces; Microsoft, Opera, and more.
+
+Save 35% off Aaron Gustafson’s Adaptive Web Design: Crafting Rich Experiences With Progressive Enhancement, 2nd Edition when you enter discount code AARON35 at checkout.
+</description>
+      <enclosure url="http://fdlyr.co/d/bigwebshow/cdn.5by5.tv/audio/broadcasts/bigwebshow/2015/bigwebshow-140.mp3" length="32185932" type="audio/mpeg"/>
+      <content:encoded>&lt;p&gt;Longtime web developer, lecturer, and web standards evangelist Aaron Gustafson and host Jeffrey Zeldman discuss the newly published update to Aaron’s best-selling industry classic “love letter to the web,” Adaptive Web Design: Crafting Rich Experiences With Progressive Enhancement, 2nd Edition (New Riders, 2015).&lt;/p&gt;
+
+&lt;p&gt;Topics covered include: Aaron's superhero origin story as a creator of progressively enhanced websites and applications; "we’re not building things we haven't built on the web before;" "creating opportunities for people outside your comfort zone;" development in the world of Node.js; "every interface is a conversation;" "visual design is an enhancement;" "interaction is an enhancement;" nerding out over early web terminal interfaces; Microsoft, Opera, and more.&lt;/p&gt;
+
+&lt;p&gt;Save 35% off Aaron Gustafson’s Adaptive Web Design: Crafting Rich Experiences With Progressive Enhancement, 2nd Edition when you enter discount code AARON35 &lt;a href="http://www.peachpit.com/store/adaptive-web-design-crafting-rich-experiences-with-9780134216140"&gt;at checkout&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.aaron-gustafson.com/about/" class="link" target="_blank"&gt;About Aaron Gustafson&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://adaptivewebdesign.info/2nd-edition/" class="link" target="_blank"&gt;Adaptive Web Design Second Edition (“95% new material”)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://ptgmedia.pearsoncmg.com/images/9780134216140/samplepages/9780134216140.pdf" class="link" target="_blank"&gt;Read the first chapter free (PDF)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://adaptivewebdesign.info/" class="link" target="_blank"&gt;First Edition, May 2011 (read the entire first edition free) &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://webstandardssherpa.com/" class="link" target="_blank"&gt;Web Standards Sherpa&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.aaron-gustafson.com/notebook/" class="link" target="_blank"&gt;Notebook: Aaron’s blog&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.aaron-gustafson.com/speaking-engagements/" class="link" target="_blank"&gt;Engagements: Aaron’s speaking page, using Quantity Queries&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://alistapart.com/article/quantity-queries-for-css" class="link" target="_blank"&gt;&amp;quot;Quantity Queries for CSS&amp;quot; by Heydon Pickering in A List Apart&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://alistapart.com/author/agustafson" class="link" target="_blank"&gt;A List Apart: articles by Aaron Gustafson&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://alistapart.com/article/goingtoprint" class="link" target="_blank"&gt;Eric Meyer&amp;#x27;s &amp;quot;CSS Design: Going to Print&amp;quot; in A List Apart&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.whatsapp.com/" class="link" target="_blank"&gt;WhatsApp&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Brought to you by:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://braintreepayments.com/bigwebshow"&gt;Braintree&lt;/a&gt; (To learn more, and for your first $50,000 in transactions fee-free, go to BraintreePayments.com/BigWebShow)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.dreamhost.com/promo/thebigwebshow395/"&gt;DreamHost&lt;/a&gt; (Visit the link to sign up and make sure to use the code THEBIGWEBSHOW395 at checkout and you’ll get top rated web hosting for just $3.95/month and a free domain name).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://thinkful.com/bigwebshow"&gt;Thinkful&lt;/a&gt; (Learn to build websites &amp;amp; apps in 3 months and get 20% off when you visit Thinkful.com/bigwebshow)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content:encoded>
+      <itunes:author>Jeffrey Zeldman</itunes:author>
+      <itunes:duration>1:06:27</itunes:duration>
+      <itunes:subtitle>Longtime web developer, lecturer, and web standards evangelist Aaron Gustafson and host Jeffrey Zeldman discuss the newly published update to Aaron’s best-selling Adaptive Web Design.</itunes:subtitle>
+      <itunes:summary>Longtime web developer, lecturer, and web standards evangelist Aaron Gustafson and host Jeffrey Zeldman discuss the newly published update to Aaron’s best-selling industry classic “love letter to the web,” Adaptive Web Design: Crafting Rich Experiences With Progressive Enhancement, 2nd Edition (New Riders, 2015).
+
+Topics covered include: Aaron's superhero origin story as a creator of progressively enhanced websites and applications; "we’re not building things we haven't built on the web before;" "creating opportunities for people outside your comfort zone;" development in the world of Node.js; "every interface is a conversation;" "visual design is an enhancement;" "interaction is an enhancement;" nerding out over early web terminal interfaces; Microsoft, Opera, and more.
+
+Save 35% off Aaron Gustafson’s Adaptive Web Design: Crafting Rich Experiences With Progressive Enhancement, 2nd Edition when you enter discount code AARON35 at checkout.
+</itunes:summary>
+      <itunes:keywords>web design, mobile apps, content design, ux, web standards, jeffrey zeldman</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/7/cover.jpg"/>
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fbigwebshow%2F140&amp;user_id=danbenjamin"/>
+    </item>
+    <item>
+      <title>139: Every Time We Touch—Josh Clark, author of “Designing For Touch”</title>
+      <link>http://5by5.tv/bigwebshow/139</link>
+      <guid isPermalink="false">http://5by5.tv/bigwebshow/139</guid>
+      <pubDate>Fri, 20 Nov 2015 19:15:00 GMT</pubDate>
+      <author>Jeffrey Zeldman</author>
+      <description>Touch introduces physicality to designs that were once strictly virtual, and puts forth a new test: How does this design feel in the hand? Josh Clark’s new book, “Designing For Touch,” guides designers through this new touchscreen frontier, and is the launchpad for today’s Big Web Show discussion between author Clark and host Jeffrey Zeldman.
+
+In a fast-paced, freewheeling conversation, Josh and Jeffrey discuss why game designers are some of our most talented and inspiring interaction designers; the economy of motion; perceptions of value when viewing objects on touchscreen versus desktop computer; teaching digital designers to think like industrial designers (and vice-versa); long press versus force touch; how and when to make gestures discoverable; and much more.
+</description>
+      <enclosure url="http://fdlyr.co/d/bigwebshow/cdn.5by5.tv/audio/broadcasts/bigwebshow/2015/bigwebshow-139.mp3" length="27721882" type="audio/mpeg"/>
+      <content:encoded>&lt;p&gt;Touch introduces physicality to designs that were once strictly virtual, and puts forth a new test: How does this design feel in the hand? Josh Clark’s new book, “Designing For Touch,” guides designers through this new touchscreen frontier, and is the launchpad for today’s Big Web Show discussion between author Clark and host Jeffrey Zeldman.&lt;/p&gt;
+
+&lt;p&gt;In a fast-paced, freewheeling conversation, Josh and Jeffrey discuss why game designers are some of our most talented and inspiring interaction designers; the economy of motion; perceptions of value when viewing objects on touchscreen versus desktop computer; teaching digital designers to think like industrial designers (and vice-versa); long press versus force touch; how and when to make gestures discoverable; and much more.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Jeffrey Zeldman</itunes:author>
+      <itunes:duration>57:09</itunes:duration>
+      <itunes:subtitle>In a fast-paced, freewheeling conversation, Josh Clark and Jeffrey discuss why game designers are some of our most talented and inspiring interaction designers.</itunes:subtitle>
+      <itunes:summary>Touch introduces physicality to designs that were once strictly virtual, and puts forth a new test: How does this design feel in the hand? Josh Clark’s new book, “Designing For Touch,” guides designers through this new touchscreen frontier, and is the launchpad for today’s Big Web Show discussion between author Clark and host Jeffrey Zeldman.
+
+In a fast-paced, freewheeling conversation, Josh and Jeffrey discuss why game designers are some of our most talented and inspiring interaction designers; the economy of motion; perceptions of value when viewing objects on touchscreen versus desktop computer; teaching digital designers to think like industrial designers (and vice-versa); long press versus force touch; how and when to make gestures discoverable; and much more.
+</itunes:summary>
+      <itunes:keywords>web design, mobile apps, content design, ux, web standards, jeffrey zeldman</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/7/cover.jpg"/>
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fbigwebshow%2F139&amp;user_id=danbenjamin"/>
+    </item>
     <item>
       <title>138: An Infrastructure For Websites, with Pantheon’s Josh Koenig</title>
       <link>http://5by5.tv/bigwebshow/138</link>
@@ -37,6 +103,7 @@ Josh Koenig is a Co-Founder and Head of Product for Pantheon, the website manage
 &lt;p&gt;Josh &amp;amp; Z discuss how the industry is evolving, how smartphones are driving web growth, integrating a pull request with a server, the connection of the web to real life (and the fact that it’s no longer a meaningful distinction), the idealism of the early web, why technology doesn't solve human problems, why truly revolutionary change occurs only when new technologies fade into the background, and a future in which the back-end grunt work of website creation is automated.&lt;/p&gt;
 
 &lt;p&gt;Josh Koenig is a Co-Founder and Head of Product for Pantheon, the website management platform for WordPress and Drupal. Prior to that he was a founder at Chapter Three, a web consultancy based in San Francisco. Josh has been involved in building the internet with Open Source and Free software for nearly two decades.&lt;/p&gt;
+&lt;p&gt;Brought to you by &lt;a href="http://braintreepayments.com/bigwebshow"&gt;Braintree&lt;/a&gt; (To learn more, and for your first $50,000 in transactions fee-free, go to BraintreePayments.com/BigWebShow).&lt;/p&gt;
 </content:encoded>
       <itunes:author>Jeffrey Zeldman</itunes:author>
       <itunes:duration>1:01:48</itunes:duration>

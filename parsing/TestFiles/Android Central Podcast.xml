@@ -3,8 +3,8 @@
 	<channel>
 		
 		<title>Android Central Podcast</title>
-		<pubDate>Fri, 13 Nov 2015 23:06:44 +0000</pubDate>
-		<lastBuildDate>Fri, 13 Nov 2015 23:22:17 +0000</lastBuildDate>
+		<pubDate>Thu, 31 Dec 2015 16:52:36 +0000</pubDate>
+		<lastBuildDate>Thu, 31 Dec 2015 17:47:42 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://www.androidcentral.com</link>
 		<language>en</language>
@@ -21,6 +21,121 @@
 		<description>The Android Central Podcast, brought to you by AndroidCentral.com</description>
 		<itunes:subtitle>Android Central Podcast</itunes:subtitle>
 				<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/AndroidCentralPodcast" /><feedburner:info uri="androidcentralpodcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Mobile Nations</media:copyright><media:thumbnail url="http://www.mobilenations.com/broadcasting/podcast_android_central_1400.jpg" /><media:keywords>android,smartphone,smartphones,nexus,droid,google,phones,jjelly,bean,galaxy,samsung</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Gadgets</media:category><itunes:owner><itunes:email>phil@androidcentral.com</itunes:email><itunes:name>Nickinson, Hildenbrand, Dobie</itunes:name></itunes:owner><itunes:category text="Technology"><itunes:category text="Gadgets" /></itunes:category><item>
+			<title>268: Your Readers' Choice Awards!</title>
+			<pubDate>Thu, 31 Dec 2015 16:52:36 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[251019e85e0b9652460181303555bd0a]]></guid>
+			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/eSXk6LANm9s/268-your-readers-choice-awards</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
+			<description>&lt;p&gt;We're sneaking in one final podcast before the end of the year, and before we head to Las Vegas for CES. That means it's time to announce your Readers' Choice awards for 2015 — the best of the best as decided by you fine folks! &lt;br /&gt;&lt;br /&gt;(Oh, and we just might talk Star Wars a little bit.)&lt;/p&gt;
+&lt;p&gt;Thanks for a great 2015, everyone. See ya'll in the new year.&lt;/p&gt;
+&lt;p&gt;And thanks to this week's sponsor:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.casper.com/ac" target="_blank"&gt;&lt;strong&gt;Casper Mattresses:&lt;/strong&gt;&lt;/a&gt; Save $50 on any purchase on a surprisingly comfortable mattress by using coupon code &lt;strong&gt;AC&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/eSXk6LANm9s" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="51219092" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc268.mp3" />
+			<itunes:duration>01:10:52</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>android</itunes:keywords>
+			<itunes:subtitle><![CDATA[We're sneaking in one final podcast before the end of the year, and before we head to Las Vegas for CES. That means it's time to announce your Readers' Choice awards for 2015 — the best of the best as decided by you fine folks! (Oh,...]]></itunes:subtitle>
+					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc268.mp3" fileSize="51219092" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/268-your-readers-choice-awards</feedburner:origLink></item>
+		<item>
+			<title>267: Pondering Pixel C</title>
+			<pubDate>Fri, 18 Dec 2015 22:20:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fc0dd5cbf4414e0e742bdc45f49f6679]]></guid>
+			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/CKCffdWre-o/267-pondering-pixel-c</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
+			<description>&lt;p&gt;We've got the curious Pixel C tablet in our hot little hands, and it's time to climb all over this not-so-little wonder. Plus the guys get grilled on their top picks of 2015, and we answer more of your questions live on air. &lt;/p&gt;
+&lt;p&gt;Thanks to this week's sponsors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://meetcanary.com"&gt;&lt;strong&gt;Canary:&lt;/strong&gt;&lt;/a&gt; Smart home security in a single device. (Use promo code &lt;strong&gt;android&lt;/strong&gt; for free shipping.)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.braintreepayments.com/androidcentral"&gt;&lt;strong&gt;Braintree&lt;/strong&gt;&lt;/a&gt;: A single payments API for developers.&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/CKCffdWre-o" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="59993413" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc267.mp3" />
+			<itunes:duration>01:23:03</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>android</itunes:keywords>
+			<itunes:subtitle><![CDATA[We've got the curious Pixel C tablet in our hot little hands, and it's time to climb all over this not-so-little wonder. Plus the guys get grilled on their top picks of 2015, and we answer more of your questions live on air. 
+Thanks to this...]]></itunes:subtitle>
+					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc267.mp3" fileSize="59993413" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/267-pondering-pixel-c</feedburner:origLink></item>
+		<item>
+			<title>266: Koush, Chris Lacy and SwiftKey</title>
+			<pubDate>Fri, 11 Dec 2015 17:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[add7329d8fb49909d85cb46a0522fe06]]></guid>
+			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/jqclmrE8uaI/266-koush-chris-lacy-and-swiftkey</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
+			<description>&lt;p&gt;Our first Android History Project podcast (you can &lt;a href="http://www.androidcentral.com/podcast/android-central-264-brief-history-android"&gt;listen to it here&lt;/a&gt;) was such a hit, we decided to do another. And instead of listening to us gab for an hour we wrangled three top Android developers and have the honor of hearing their history of Android.&lt;/p&gt;
+&lt;p&gt;Huge thanks to Koushik Dutta (&lt;a href="http://www.vysor.io/"&gt;Vysor&lt;/a&gt;, &lt;a href="https://play.google.com/store/apps/developer?id=ClockworkMod"&gt;ClockworkMod&lt;/a&gt;), Chris Lacy (&lt;a href="https://play.google.com/store/apps/developer?id=Chris+Lacy"&gt;Action Launcher&lt;/a&gt;) and Joe Braidwood (&lt;a href="https://swiftkey.com"&gt;SwiftKey&lt;/a&gt;) for taking a few minutes out of their day to chat with us. &lt;/p&gt;
+&lt;p&gt;And be sure to check out our entire Android History Project at &lt;a href="http://www.historyofandroid.com"&gt;HistoryOfAndroid.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to this week's sponsors!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://braintreepayments.com/androidcentral"&gt;Braintree&lt;/a&gt;: A single, simple payments integration for developers.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://meetcanary.com"&gt;Canary&lt;/a&gt;: A complete home security system in a single device. Use promo code &lt;strong&gt;android&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/jqclmrE8uaI" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="38503206" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc266.mp3" />
+			<itunes:duration>53:12</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>android</itunes:keywords>
+			<itunes:subtitle><![CDATA[Our first Android History Project podcast (you can listen to it here) was such a hit, we decided to do another. And instead of listening to us gab for an hour we wrangled three top Android developers and have the honor of hearing their history of...]]></itunes:subtitle>
+					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc266.mp3" fileSize="38503206" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/266-koush-chris-lacy-and-swiftkey</feedburner:origLink></item>
+		<item>
+			<title>265: 21st Century Virtual Boy</title>
+			<pubDate>Fri, 04 Dec 2015 23:19:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2c3f85ea7454f72f2de5a79d1948adc1]]></guid>
+			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/TkoJytXyAHg/265-21st-century-virtual-boy</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
+			<description>&lt;p&gt;We're back for another live show this week. We'll discuss Android Central's ZOMG shocking revelation from earlier in the week, we've got everything you need to know about Samsung's new Gear VR virtual reality system, and we've got a backlog of really good voicemails to get through. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Thanks to this week's sponsors!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="http://www.meetcanary.com"&gt;Canary:&lt;/a&gt;&lt;/strong&gt; Start protecting your home today for just $199. Use promo code &lt;strong&gt;android&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://braintreepayments.com/androidcentral"&gt;&lt;strong&gt;Braintree:&lt;/strong&gt;&lt;/a&gt; A simple payments SDK solution for developers. &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.harrys.com"&gt;&lt;strong&gt;Harry's:&lt;/strong&gt;&lt;/a&gt; Great holiday shaving sets starting at $15. Use promo code &lt;strong&gt;AC&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/TkoJytXyAHg" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="50316613" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc265.mp3" />
+			<itunes:duration>01:09:37</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>android</itunes:keywords>
+			<itunes:subtitle><![CDATA[We're back for another live show this week. We'll discuss Android Central's ZOMG shocking revelation from earlier in the week, we've got everything you need to know about Samsung's new Gear VR virtual reality system, and we've got a backlog of really...]]></itunes:subtitle>
+					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc265.mp3" fileSize="50316613" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/265-21st-century-virtual-boy</feedburner:origLink></item>
+		<item>
+			<title>264: A brief history of Android</title>
+			<pubDate>Fri, 27 Nov 2015 17:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[459ed72adf98b72c6c094f9f2184e665]]></guid>
+			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/L422LSpp_dg/264-a-brief-history-of-android</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
+			<description>&lt;p&gt;We're taking this entire holiday podcast to talk about our History of Android project, an eight-part series that takes a look back at Android's meager beginnings through its rise to total world domination from some of the folks who actually made it happen.&lt;/p&gt;
+&lt;p&gt;Read the entire series at &lt;a href="http://www.historyofandroid.com"&gt;HistoryOfAndroid.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to this week's sponsors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thursdayboots.com/android"&gt;&lt;strong&gt;Thursday Boot Company:&lt;/strong&gt;&lt;/a&gt; Durable, sophisticated and versatile boots, perfect for work or play.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.meetcanary.com"&gt;&lt;strong&gt;Canary:&lt;/strong&gt;&lt;/a&gt; A complete home security system in a single package. Use promo code &lt;strong&gt;ANDROID&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/L422LSpp_dg" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="55021156" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc264.mp3" />
+			<itunes:duration>01:16:09</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>podcast,android</itunes:keywords>
+			<itunes:subtitle><![CDATA[We're taking this entire holiday podcast to talk about our History of Android project, an eight-part series that takes a look back at Android's meager beginnings through its rise to total world domination from some of the folks who actually made...]]></itunes:subtitle>
+					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc264.mp3" fileSize="55021156" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/264-a-brief-history-of-android</feedburner:origLink></item>
+		<item>
+			<title>263: Encry8%#@5Nq2</title>
+			<pubDate>Fri, 20 Nov 2015 23:08:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7bbbdb42e406f49c94c53c44f51af37b]]></guid>
+			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/GD16vz2PPy4/263-encry85nq2</link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/c/7/b/cc7b6dbe6ccab5f9/androidcentral-podcast-1400-1.jpg" />
+			<description>&lt;p&gt;This is going to get weird. Google's doing a major revamp of Google+, the LG Watch Urbane 2 has been canceled, and Jerry is going to re-enact the first Thanksgiving in iambic pentameter. Plus, we take a look at all the encryption talk in the news lately, and we answer more of your questions live on air.&lt;/p&gt;
+&lt;p&gt;Thanks to this week's sponsors!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.braintreepayments.com/androidcentral"&gt;&lt;strong&gt;Braintree:&lt;/strong&gt;&lt;/a&gt; A single, simple mobile payments API.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thursdayboots.com/android"&gt;&lt;strong&gt;Thursday Boots:&lt;/strong&gt;&lt;/a&gt; Durable, sophisticated and versatile boots, perfect for work and play.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.transferwise.com/android"&gt;&lt;strong&gt;TransferWise:&lt;/strong&gt;&lt;/a&gt; International money transfers made easy.&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/GD16vz2PPy4" height="1" width="1" alt=""/&gt;</description>
+			<enclosure length="60752636" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc263.mp3" />
+			<itunes:duration>01:24:06</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>android</itunes:keywords>
+			<itunes:subtitle><![CDATA[This is going to get weird. Google's doing a major revamp of Google+, the LG Watch Urbane 2 has been canceled, and Jerry is going to re-enact the first Thanksgiving in iambic pentameter. Plus, we take a look at all the encryption talk in the news...]]></itunes:subtitle>
+					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc263.mp3" fileSize="60752636" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/263-encry85nq2</feedburner:origLink></item>
+		<item>
 			<title>262: Guaranteed to Offend</title>
 			<pubDate>Fri, 13 Nov 2015 23:06:44 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[f6e2ee8089088112b5e25280b7711627]]></guid>
@@ -33,12 +148,12 @@
 &lt;li&gt;&lt;a href="http://www.braintreepayments.com/androidcentral"&gt;&lt;strong&gt;Braintree:&lt;/strong&gt;&lt;/a&gt; Simple and comprehensive payment system for developers.&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.redhat.com"&gt;&lt;strong&gt;Red Hat:&lt;/strong&gt;&lt;/a&gt; See what managed open-source enterprise can do for you.&lt;/li&gt;
 &lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/o8UXpmzxXYs" height="1" width="1" alt=""/&gt;</description>
-			<enclosure length="55749916" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc262.mp3" />
+			<enclosure length="55940450" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc262.mp3" />
 			<itunes:duration>01:17:06</itunes:duration>
 			<itunes:explicit>clean</itunes:explicit>
 			<itunes:keywords>android</itunes:keywords>
 			<itunes:subtitle><![CDATA[We have got a LOT to catch up on this week! Phil's back from his time with Huawei in China. We've got new Android Wear with Marshmallow. We've got even MORE thoughts on the Nexus 6P and the BlackBerry Priv. And we've got a lot of your questions and...]]></itunes:subtitle>
-					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc262.mp3" fileSize="55749916" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://phon.es/acpc262</feedburner:origLink></item>
+					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc262.mp3" fileSize="55940450" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://phon.es/acpc262</feedburner:origLink></item>
 		<item>
 			<title>261: The BlackBerry Privcast!</title>
 			<pubDate>Fri, 06 Nov 2015 23:21:45 +0000</pubDate>
@@ -2269,169 +2384,5 @@ Samsung...]]></itunes:subtitle>
 			<itunes:keywords />
 			<itunes:subtitle><![CDATA[We're on our way to Barcelona, Spain, today for Mobile World Congress, so no podcast this week. See you from MWC!]]></itunes:subtitle>
 					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/mwc.output.wav" fileSize="3920190" type="application/octet-stream" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://traffic.libsyn.com/androidcentral/mwc.output.wav</feedburner:origLink></item>
-		<item>
-			<title>Android Central 171: The MWC preview</title>
-			<pubDate>Fri, 14 Feb 2014 22:49:41 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[7adb60d175f25c301b486dc6869485e3]]></guid>
-			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/B8oNvt5Zo7Y/android-central-171-mwc-preview</link>
-			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
-			<description>&lt;p&gt;Four of us are headed to Barcelona next week for Mobile World Congress, and we preview what's ahead from one of Europe's biggest mobile tech events! Plus, what's up with Motorola now that its CEO is headed elsewhere, and our Brits finally get their hands on the Moto X.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/B8oNvt5Zo7Y" height="1" width="1" alt=""/&gt;</description>
-			<enclosure length="41762514" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc171.mp3" />
-			<itunes:duration>58:01</itunes:duration>
-			<itunes:explicit>clean</itunes:explicit>
-			<itunes:keywords>tech,mobile,world,congress,android,mwc</itunes:keywords>
-			<itunes:subtitle><![CDATA[We take a look at what's ahead for Mobile World Congress!]]></itunes:subtitle>
-					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc171.mp3" fileSize="41762514" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://www.androidcentral.com/podcast/android-central-171-mwc-preview</feedburner:origLink></item>
-		<item>
-			<title>Android Central 170: Alex in Wonderland</title>
-			<pubDate>Fri, 07 Feb 2014 22:39:15 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[2d5dbb07a4de921ac83176ace1007975]]></guid>
-			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/oTsZQO3Szjc/android-central-170-alex-in-wonderland</link>
-			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
-			<description>&lt;p&gt;We're back with a hodgepodge of Android news from the past week, including an expansion for Chromecast, a red Nexus 5, more of what we expect from Mobile World Congress — plus we answer your questions, live!&lt;/p&gt;
-&lt;h2&gt;Thing 1: Devices, devices everywhere&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/sony-xperia-z1-compact-versus-z1" sl-processed="1"&gt;Sony Xperia Z1 Compact versus Z1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/htc-one-one-year" sl-processed="1"&gt;HTC One, one year on&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/lg-g-flex-review" sl-processed="1"&gt;LG G Flex (AT&amp;T) review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/red-nexus-5-unboxing-and-hands" sl-processed="1"&gt;Red Nexus 5 unboxing and hands-on&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/pebble-steel-retail-unboxing-and-hands" sl-processed="1"&gt;Pebble Steel retail unboxing and hands-on&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/chromecast-reportedly-hitting-uk-soon-march-1" sl-processed="1"&gt;Chromecast reportedly hitting the UK as soon as March 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/htc-wearable-device-will-be-here-christmas-season" sl-processed="1"&gt;HTC: A wearable device will be here by the Christmas season&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/first-htc-m8-photo-shows-dual-rear-cameras" sl-processed="1"&gt;First HTC M8 photo shows dual rear cameras&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Thing 2: More things&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/nexus-5-launcher-now-google-now-launcher-after-search-update" sl-processed="1"&gt;Nexus 5 launcher becomes 'Google Now Launcher' after Search update&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/nbc-news-and-bullshit-zomg-sochi-olympics-android-hack-story" sl-processed="1"&gt;NBC News and the bullshit 'ZOMG Sochi Olympics Android hack' story&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/android-4x-now-786-active-devices-kitkat-still-under-2" sl-processed="1"&gt;Android 4.x now on 78.6% of active devices, KitKat still under 2%&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/beta-version-pebble-app-new-appstore-now-available-developers" sl-processed="1"&gt;Beta version of Pebble app with new appstore now available to developers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/samsung-unpacked-5-coming-mobile-world-congress-day-one" sl-processed="1"&gt;Samsung Unpacked 5 (and Galaxy S5, perhaps) coming to Mobile World Congress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/google-chromecast-sdk-released-developers" sl-processed="1"&gt;Google Chromecast SDK released to developers, Google Play Services updated as well&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/oTsZQO3Szjc" height="1" width="1" alt=""/&gt;</description>
-			<enclosure length="43623977" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc170.mp3" />
-			<itunes:duration>01:00:16</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords />
-			<itunes:subtitle><![CDATA[We're back with a hodgepodge of Android news from the past week, including an expansion for Chromecast, a red Nexus 5, more of what we expect from Mobile World Congress — plus we answer your questions, live!
-Thing 1: Devices, devices...]]></itunes:subtitle>
-					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc170.mp3" fileSize="43623977" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/android-central-170-alex-in-wonderland</feedburner:origLink></item>
-		<item>
-			<title>Android Central 169: Jerry's Little Lens Buddies</title>
-			<pubDate>Fri, 31 Jan 2014 22:48:47 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[cfb21a98fdf3d9ffbdebc3c209896a65]]></guid>
-			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/fyyufGU6za4/android-central-169-jerry-s-little-lens-buddies</link>
-			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
-			<description>&lt;p&gt;We survived the Great Google Outage of 2014 and the Great Florida Ice Storm of, erm, also 2014 and have made our triumphant return for the 169th edition of the Android Central Podcast! Good thing, too, because there was that little thing where Google sold Motorola off to Lenovo this week. Plus we chat up some of the more rumoriffic stories of the week, and answer a few your your questions. Join us!&lt;/p&gt;
-&lt;h2&gt;Thing 1: Google sells Motorola to Lenovo, plays nice with Samsung&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/lenovo-acquire-motorola-mobility-google-291bn-deal" sl-processed="1"&gt;Lenovo to acquire Motorola Mobility from Google in $2.91 billion deal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/motorola-may-not-have-hurt-google-s-bottom-line-quite-badly-it-seems" sl-processed="1"&gt;Motorola may not have hurt Google's bottom line quite as badly as it seems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/stock-talk-motorola-was-just-drop-bucket-google" sl-processed="1"&gt;Stock Talk: Motorola was just a drop in the bucket for Google&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/motorolas-final-quarter-under-google-124-billion-revenue-384-million-operating-loss" sl-processed="1"&gt;Motorola's final quarter under Google: $1.24 billion revenue, $384 million operating loss&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/samsung-and-google-sign-10-year-cross-licensing-deal" sl-processed="1"&gt;Samsung and Google sign a 10-year cross-licensing deal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Also: &lt;a href="http://www.androidcentral.com/samsung-could-introduce-life-times-app-future-phones" sl-processed="1"&gt;Samsung could introduce 'Life Times' app in future phones&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Thing 2: Rumors we haven't bothered with&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Google gets Samsung to tone down custom software?&lt;/li&gt;
-&lt;li&gt;Google to wind down the Nexus line after 2014?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Thing 3: Other stuff&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/galaxy-s4-s4-mini-black-edition-leather-effect-back-coming-russia" sl-processed="1"&gt;Galaxy S4 + S4 Mini 'black edition' with leather-effect back coming to Russia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/nexus-5-appears-slated-feb-4" sl-processed="1"&gt;Red Nexus 5 appears slated for Feb. 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/t-mobile-wrong-way-try-and-gain-customers" sl-processed="1"&gt;T-Mobile, this is the wrong way to try to gain customers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/swiftkey-makes-leap-ios-swiftkey-note" sl-processed="1"&gt;SwiftKey makes the leap to iOS with SwiftKey Note&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/android-device-manager-updated-now-has-password-prompt" sl-processed="1"&gt;Android Device Manager updated, now has a password prompt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/leaked-shots-claim-show-lg-g-pro-2" sl-processed="1"&gt;Leaked images claim to show LG's new G Pro 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/packaged-chrome-apps-come-android-and-ios-dev-preview-toolset" sl-processed="1"&gt;Packaged Chrome apps come to Android and iOS with dev preview toolset&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/google-announces-glass-titanium-collection-new-frames-and-prescription-lenses" sl-processed="1"&gt;Google announces Glass Titanium Collection: New frames and prescription lenses&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;Download all the Mobile Nations Android apps!&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://phon.es/acapp"&gt;Android Central&lt;/a&gt; (update coming soon!)&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://phon.es/cbapp"&gt;CrackBerry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://phon.es/imapp"&gt;iMore&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://phon.es/swfapp"&gt;Smartwatch Fans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://phon.es/wpcapp"&gt;WPCentral&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/fyyufGU6za4" height="1" width="1" alt=""/&gt;</description>
-			<enclosure length="49322456" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc169.mp3" />
-			<itunes:duration>01:08:31</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords>podcast,android</itunes:keywords>
-			<itunes:subtitle><![CDATA[We survived the Great Google Outage of 2014 and the Great Florida Ice Storm of, erm, also 2014 and have made our triumphant return for the 169th edition of the Android Central Podcast! Good thing, too, because there was that little thing where Google...]]></itunes:subtitle>
-					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc169.mp3" fileSize="49322456" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/android-central-169-jerry-s-little-lens-buddies</feedburner:origLink></item>
-		<item>
-			<title>Android Central 168: Google's $3.2 billion thermostat</title>
-			<pubDate>Fri, 17 Jan 2014 22:39:00 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[2377696f73399da11cf2c12d1ca374a5]]></guid>
-			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/3X6pDowp2KE/android-central-168</link>
-			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
-			<description>&lt;p&gt;What post-CES lull? Google bought Nest and its excellent connected-home products for $3.2 billion. Plus Richard Devine checks in from Europe's Moto X launch. You still probably shouldn't drive with Google Glass, and we answer more of your questions, live!&lt;/p&gt;
-&lt;h2&gt;Thing 1: Google Buys Nest for $3.2 billion&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/google-acquire-nest"&gt;Google to acquire Nest for $3.2 billion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/let-nest-be-nest-and-motorola-be-motorola-and-aviate-be-aviate"&gt;Let Nest be Nest ... (And Motorola be Motorola, and Aviate be Aviate)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/nest-co-founder-discusses-google-s-future-connected-home"&gt;Nest co-founder discusses Google's future in the connected home&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/stock-talk-google-s-purchase-nest-long-term-play-never-mind-short-term-jokes"&gt;Stock Talk: Google's purchase of Nest is a long-term play, never mind the short-term jokes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Thing 2: Moto X in Europe, Moto G GPe in the U.S.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/moto-g-google-play-edition-now-sale-179"&gt;Moto G Google Play edition now on sale for $179&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/hands-moto-g-google-play-edition"&gt;Hands-on with the Moto G Google Play edition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/motorola-brings-moto-x-europe"&gt;Motorola brings the Moto X to the UK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/hands-european-moto-x"&gt;First look: The European Moto X in London&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Thing 3: Other stuff&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/legality-using-google-glass-while-driving-still-murky-even-after-woman-avoids-ticket"&gt;Legality of using Google Glass while driving still murky, even after woman avoids ticket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/sprint-wifi-calling-poised-debut-two-samsung-phones"&gt;Sprint Wifi Calling poised to debut on two Samsung phones&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/sprint-s-lg-g-flex-available-stores-feb-7"&gt;Sprint's LG G Flex available in stores Feb. 7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/google-now-unsurprisingly-coming-your-desktop"&gt;Google Now is (unsurprisingly) coming to your desktop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.androidcentral.com/htc-desire-300-how-htc-attacks-low-end-market"&gt;Desire 300: This is how HTC attacks the low-end market&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;The new suite of Mobile Nations Android apps&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://phon.es/acapp"&gt;Android Central&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://phon.es/cbapp"&gt;CrackBerry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://phon.es/imapp"&gt;iMore&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://phon.es/swfapp"&gt;Smartwatch Fans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;WP Central (coming soon!)&lt;/li&gt;
-&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/3X6pDowp2KE" height="1" width="1" alt=""/&gt;</description>
-			<enclosure length="47764281" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc168.mp3" />
-			<itunes:duration>01:06:01</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords>podcast,android</itunes:keywords>
-			<itunes:subtitle><![CDATA[What post-CES lull? Google bought Nest and its excellent connected-home products for $3.2 billion. Plus Richard Devine checks in from Europe's Moto X launch. You still probably shouldn't drive with Google Glass, and we answer more of your questions,...]]></itunes:subtitle>
-					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc168.mp3" fileSize="47764281" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/android-central-168</feedburner:origLink></item>
-		<item>
-			<title>Android Central 167: The CES Podcast Special!</title>
-			<pubDate>Wed, 08 Jan 2014 03:09:37 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[ac0689ee87431ed49ed884abfb7e1b3d]]></guid>
-			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/2EH5f9aeewM/android-central-167-the-ces-podcast-special</link>
-			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
-			<description>&lt;p&gt;We're live from the Las Vegas Convention Center for CESlive and CES 2014, where wearables is the name of the game. Well, that and new Android phones and tablets. And processors. And lots of wearables. And we're bringing it all to you, live from the floor.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/2EH5f9aeewM" height="1" width="1" alt=""/&gt;</description>
-			<enclosure length="15597933" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc167.mp3" />
-			<itunes:duration>21:20</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords>ces,android,ceslive</itunes:keywords>
-			<itunes:subtitle><![CDATA[We're live from the Las Vegas Convention Center for CESlive and CES 2014, where wearables is the name of the game. Well, that and new Android phones and tablets. And processors. And lots of wearables. And we're bringing it all to you, live from the floor.]]></itunes:subtitle>
-					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc167.mp3" fileSize="15597933" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/android-central-167-the-ces-podcast-special</feedburner:origLink></item>
-		<item>
-			<title>Android Central 166: The Pre-CES Q&amp;A</title>
-			<pubDate>Fri, 03 Jan 2014 22:51:58 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[3e6e36d82f86f204bfa85ab71bcfca4b]]></guid>
-			<link>http://feedproxy.google.com/~r/AndroidCentralPodcast/~3/s0flqVCdTG4/android-central-166-the-pre-ces-q-a</link>
-			<itunes:image href="http://static.libsyn.com/p/assets/2/2/f/8/22f8770df698e765/androidcentral-podcast-1400.jpg" />
-			<description>&lt;p&gt;&lt;span style="color: #222222; font-family: Arial, Verdana, sans-serif; font-size: 12px;"&gt;No scripts. No nets. Just three Android nerds, your questions and an hour to kill before we pack up and head to Las Vegas for &lt;/span&gt;&lt;span data-scaytid="1" data-scayt_word="CES" style="color: #222222; font-family: Arial, Verdana, sans-serif; font-size: 12px; padding-bottom: 0px !important; background-image: url(data:image/gif; base64,r0lgodlhbaadaiabapaaap///yh/c1hnucbeyxrhwe1qpd94cgfja2v0igjlz2lupslvu78iiglkpsjxnu0wtxbdzwhpshpyzvn6tlrjemtjowqipz4gphg6eg1wbwv0ysb4bwxuczp4psjhzg9iztpuczptzxrhlyigedp4bxb0az0iqwrvymugwe1qienvcmugns4wlwmwnjegnjqumtqwotq5lcaymdewlzeylza3ltewoju3ojaxicagicagicaipia8cmrmoljerib4bwxuczpyzgy9imh0dha6ly93d3cudzmub3jnlze5otkvmdivmjitcmrmlxn5bnrhec1ucymipia8cmrmokrlc2nyaxb0aw9uihjkzjphym91dd0iiib4bwxuczp4bxa9imh0dha6ly9ucy5hzg9izs5jb20vegfwlzeumc8iihhtbg5zonhtce1npsjodhrwoi8vbnmuywrvymuuy29tl3hhcc8xljavbw0viib4bwxuczpzdfjlzj0iahr0cdovl25zlmfkb2jllmnvbs94yxavms4wl3nuexbll1jlc291cmnlumvmiyigeg1woknyzwf0b3jub29spsjbzg9izsbqag90b3nob3agq1m1ljegv2luzg93cyigeg1wtu06sw5zdgfuy2vjrd0ieg1wlmlpzdoyodu0oee5oddgmduxmuuxqjjbrdkzodu0qzq2qjfbmcigeg1wtu06rg9jdw1lbnrjrd0ieg1wlmrpzdoyodu0oee5otdgmduxmuuxqjjbrdkzodu0qzq2qjfbmci+idx4bxbnttpezxjpdmvkrnjvbsbzdfjlzjppbnn0yw5jzulepsj4bxauawlkoji4ntq4qtk2n0ywntexrtfcmkfeotm4ntrdndzcmuewiibzdfjlzjpkb2n1bwvudelepsj4bxauzglkoji4ntq4qtk3n0ywntexrtfcmkfeotm4ntrdndzcmuewii8+idwvcmrmokrlc2nyaxb0aw9upia8l3jkzjpsrey+idwvedp4bxbtzxrhpia8p3hwywnrzxqgzw5kpsjyij8+af/+/fz7+vn49/b19ppy8fdv7u3s6+rp6ofm5etj4uhg397d3nva2djx1txu09lr0m/ozczlysnix8bfxmpcwcc/vr28u7q5ule2tbszsrgwr66trkuqqainpqwko6khoj+enzybmpmyl5avljoskzcpjo2mi4qjiieghysdgogaf359fht6exh3dnv0c3jxcg9ubwxramloz2zlzgniywbfxl1cw1pzwfdwvvrtulfqt05ntetksuhhrkveq0jbqd8+ptw7ojk4nzy1ndmymtavli0skyopkccmjsqjiieghx4dhbsagrgxfhuuexirea8odqwlcgkibwyfbamcaqaaifkeaqaaaqasaaaaaaqaawaaagvehmyzbqa7) !important; background-position: 50% 100%; background-repeat: repeat no-repeat !important;"&gt;CES&lt;/span&gt;&lt;span style="color: #222222; font-family: Arial, Verdana, sans-serif; font-size: 12px;"&gt;. Enjoy!&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color: #222222; font-family: Arial, Verdana, sans-serif; font-size: 12px;"&gt;And be sure to swing by &lt;/span&gt;&lt;a data-cke-saved-href="http://www.androidcentral.com/ceslive" href="http://www.androidcentral.com/ceslive" style="font-family: Arial, Verdana, sans-serif; font-size: 12px;"&gt;our &lt;span data-scaytid="3" data-scayt_word="CESlive" style="padding-bottom: 0px !important; background-image: url(data:image/gif; base64,r0lgodlhbaadaiabapaaap///yh/c1hnucbeyxrhwe1qpd94cgfja2v0igjlz2lupslvu78iiglkpsjxnu0wtxbdzwhpshpyzvn6tlrjemtjowqipz4gphg6eg1wbwv0ysb4bwxuczp4psjhzg9iztpuczptzxrhlyigedp4bxb0az0iqwrvymugwe1qienvcmugns4wlwmwnjegnjqumtqwotq5lcaymdewlzeylza3ltewoju3ojaxicagicagicaipia8cmrmoljerib4bwxuczpyzgy9imh0dha6ly93d3cudzmub3jnlze5otkvmdivmjitcmrmlxn5bnrhec1ucymipia8cmrmokrlc2nyaxb0aw9uihjkzjphym91dd0iiib4bwxuczp4bxa9imh0dha6ly9ucy5hzg9izs5jb20vegfwlzeumc8iihhtbg5zonhtce1npsjodhrwoi8vbnmuywrvymuuy29tl3hhcc8xljavbw0viib4bwxuczpzdfjlzj0iahr0cdovl25zlmfkb2jllmnvbs94yxavms4wl3nuexbll1jlc291cmnlumvmiyigeg1woknyzwf0b3jub29spsjbzg9izsbqag90b3nob3agq1m1ljegv2luzg93cyigeg1wtu06sw5zdgfuy2vjrd0ieg1wlmlpzdoyodu0oee5oddgmduxmuuxqjjbrdkzodu0qzq2qjfbmcigeg1wtu06rg9jdw1lbnrjrd0ieg1wlmrpzdoyodu0oee5otdgmduxmuuxqjjbrdkzodu0qzq2qjfbmci+idx4bxbnttpezxjpdmvkrnjvbsbzdfjlzjppbnn0yw5jzulepsj4bxauawlkoji4ntq4qtk2n0ywntexrtfcmkfeotm4ntrdndzcmuewiibzdfjlzjpkb2n1bwvudelepsj4bxauzglkoji4ntq4qtk3n0ywntexrtfcmkfeotm4ntrdndzcmuewii8+idwvcmrmokrlc2nyaxb0aw9upia8l3jkzjpsrey+idwvedp4bxbtzxrhpia8p3hwywnrzxqgzw5kpsjyij8+af/+/fz7+vn49/b19ppy8fdv7u3s6+rp6ofm5etj4uhg397d3nva2djx1txu09lr0m/ozczlysnix8bfxmpcwcc/vr28u7q5ule2tbszsrgwr66trkuqqainpqwko6khoj+enzybmpmyl5avljoskzcpjo2mi4qjiieghysdgogaf359fht6exh3dnv0c3jxcg9ubwxramloz2zlzgniywbfxl1cw1pzwfdwvvrtulfqt05ntetksuhhrkveq0jbqd8+ptw7ojk4nzy1ndmymtavli0skyopkccmjsqjiieghx4dhbsagrgxfhuuexirea8odqwlcgkibwyfbamcaqaaifkeaqaaaqasaaaaaaqaawaaagvehmyzbqa7) !important; background-color: transparent !important; text-decoration: none !important; background-position: 50% 100%; background-repeat: repeat no-repeat !important;"&gt;CESlive&lt;/span&gt; coverage page&lt;/a&gt;&lt;span style="color: #222222; font-family: Arial, Verdana, sans-serif; font-size: 12px;"&gt;!&lt;/span&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/AndroidCentralPodcast/~4/s0flqVCdTG4" height="1" width="1" alt=""/&gt;</description>
-			<enclosure length="43083242" type="audio/mpeg" url="http://traffic.libsyn.com/androidcentral/acpc166.mp3" />
-			<itunes:duration>59:30</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords>podcast,ces,android,ceslive</itunes:keywords>
-			<itunes:subtitle><![CDATA[No scripts. No nets. Just three Android nerds, your questions and an hour to kill before we pack up and head to Las Vegas for CES. Enjoy!
-And be sure to swing by our CESlive coverage page!]]></itunes:subtitle>
-					<author>phil@androidcentral.com (Nickinson, Hildenbrand, Dobie)</author><media:content url="http://traffic.libsyn.com/androidcentral/acpc166.mp3" fileSize="43083242" type="audio/mpeg" /><itunes:author>Nickinson, Hildenbrand, Dobie</itunes:author><feedburner:origLink>http://androidcentral.libsyn.com/android-central-166-the-pre-ces-q-a</feedburner:origLink></item>
 	<media:credit role="author">Nickinson, Hildenbrand, Dobie</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Android Central Podcast</media:description></channel>
 </rss>

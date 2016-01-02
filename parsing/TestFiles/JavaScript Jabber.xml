@@ -10,8 +10,8 @@
     <managingEditor>Charles Max Wood (chuck@devchat.tv)</managingEditor>
     <webMaster>Charles Max Wood (chuck@devchat.tv)</webMaster>
     <copyright>2012-2014 Intentional Excellence Productions, LLC</copyright>
-    <pubdate>Wed, 11 Nov 2015 09:00:00 -0700</pubdate>
-    <lastBuildDate>Thu, 12 Nov 2015 15:01:20 -0500</lastBuildDate>
+    <pubdate>Wed, 30 Dec 2015 09:00:00 -0700</pubdate>
+    <lastBuildDate>Sat, 02 Jan 2016 14:07:17 -0500</lastBuildDate>
     <image>
       <link>http://javascriptjabber.com</link>
       <url>https://s3.amazonaws.com/devchat.tv/javascript_jabber_thumb.jpg</url>
@@ -34,6 +34,1365 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
     </itunes:category>
+
+
+
+    <item>
+      <title>192 JSJ IoT with Peter Hoddie</title>
+      <link>https://devchat.tv/js-jabber/192-jsj-iot-with-peter-hoddie</link>
+      <pubDate>Wed, 30 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Get your &lt;/span&gt;&lt;a href="https://allremoteconfs.com/js-2016" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; tickets!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:10 - Peter Hoddie Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/phoddie" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:36 - &lt;/span&gt;&lt;a href="http://kinoma.com/" style="text-decoration:none;"&gt;Kinoma&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:28 - Embedded Development in C; Approachability&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;05:24 - IoT = &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Internet_of_Things" style="text-decoration:none;"&gt;Internet of Things&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;; Embedded Devices and Systems&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:59 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Mesh_networking" style="text-decoration:none;"&gt;Mesh Networking&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:41 - IoT and JavaScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://kinoma.com/develop/documentation/js6/" style="text-decoration:none;"&gt;XS6&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://duktape.org/" style="text-decoration:none;"&gt;Duktape&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/luvit/luvit" style="text-decoration:none;"&gt;luvit&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.lua.org/" style="text-decoration:none;"&gt;Lua&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jewelbots.com/" style="text-decoration:none;"&gt;Jewelbots&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:08 - Getting Started &amp;amp; Electrical Engineering&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:42 - Testing &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;24:56 - Security&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:07 - &lt;/span&gt;&lt;a href="http://getbootstrap.com/" style="text-decoration:none;"&gt;Bootstrap&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:16 - Community Resistance&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:56 - Where is IoT heading as far as applications go?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Scriptability&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:57 - Preparing Today for the Future&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://letsencrypt.org/" style="text-decoration:none;"&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/" style="text-decoration:none;"&gt;The web accessibility basics&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://hangouts.readthesource.io/" style="text-decoration:none;"&gt;readthesource&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.getdrip.com/" style="text-decoration:none;"&gt;Drip&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.twilio.com/" style="text-decoration:none;"&gt;Twilio&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/js-2016" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.ecma-international.org/ecma-262/6.0/index.html" style="text-decoration:none;"&gt;Standard ECMA-262&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Peter)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/The-Future-Internet-And-How-Stop/dp/0300151241" style="text-decoration:none;"&gt;The Future of the Internet--And How to Stop It by Jonathan Zittrain&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Peter)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://sfconservancy.org/" style="text-decoration:none;"&gt;Software Freedom Conservancy&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Peter)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://javascriptjabber.com">JavaScript Jabber</source>
+      <author></author>
+      <guid isPermalink="false">26806e57-9070-4f70-9a26-98c2b6c30499</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Get your &lt;/span&gt;&lt;a href="https://allremoteconfs.com/js-2016" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; tickets!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:10 - Peter Hoddie Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/phoddie" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:36 - &lt;/span&gt;&lt;a href="http://kinoma.com/" style="text-decoration:none;"&gt;Kinoma&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:28 - Embedded Development in C; Approachability&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;05:24 - IoT = &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Internet_of_Things" style="text-decoration:none;"&gt;Internet of Things&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;; Embedded Devices and Systems&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:59 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Mesh_networking" style="text-decoration:none;"&gt;Mesh Networking&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:41 - IoT and JavaScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://kinoma.com/develop/documentation/js6/" style="text-decoration:none;"&gt;XS6&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://duktape.org/" style="text-decoration:none;"&gt;Duktape&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/luvit/luvit" style="text-decoration:none;"&gt;luvit&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.lua.org/" style="text-decoration:none;"&gt;Lua&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jewelbots.com/" style="text-decoration:none;"&gt;Jewelbots&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:08 - Getting Started &amp;amp; Electrical Engineering&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:42 - Testing &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;24:56 - Security&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:07 - &lt;/span&gt;&lt;a href="http://getbootstrap.com/" style="text-decoration:none;"&gt;Bootstrap&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:16 - Community Resistance&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:56 - Where is IoT heading as far as applications go?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Scriptability&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:57 - Preparing Today for the Future&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://letsencrypt.org/" style="text-decoration:none;"&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/" style="text-decoration:none;"&gt;The web accessibility basics&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://hangouts.readthesource.io/" style="text-decoration:none;"&gt;readthesource&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.getdrip.com/" style="text-decoration:none;"&gt;Drip&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.twilio.com/" style="text-decoration:none;"&gt;Twilio&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/js-2016" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.ecma-international.org/ecma-262/6.0/index.html" style="text-decoration:none;"&gt;Standard ECMA-262&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Peter)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/The-Future-Internet-And-How-Stop/dp/0300151241" style="text-decoration:none;"&gt;The Future of the Internet--And How to Stop It by Jonathan Zittrain&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Peter)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://sfconservancy.org/" style="text-decoration:none;"&gt;Software Freedom Conservancy&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Peter)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>58:50</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/js-jabber/JSJ192IoT.mp3?rss=true " length="56482731" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>191 JSJ Stripe with Craig McKeachie</title>
+      <link>https://devchat.tv/js-jabber/191-jsj-stripe-with-craig-mckeachie</link>
+      <pubDate>Wed, 23 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:26 - Craig McKeachie Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://twitter.com/cmckeachie" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.funnyant.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.funnyant.com/javascript-framework-guide/" style="text-decoration:none;"&gt;The JavaScript Framework Guide by Craig McKeachie&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://devchat.tv/js-jabber/132-jsj-mv-frameworks-with-craig-mckeachie" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;JavaScript Jabber Episode #132: MV Frameworks with Craig McKeachie&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.scavengerhuntriddles.net/" style="text-decoration:none;"&gt;Scavenger Hunt Creator&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:54 - &lt;/span&gt;&lt;a href="https://stripe.com/" style="text-decoration:none;"&gt;Stripe&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.pluralsight.com/courses/stripe-fundamentals-with-asp-net-mvc" style="text-decoration:none;"&gt;[Pluralsight] Stripe Fundamentals with ASP.NET MVC&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:22 - Behind the Scenes: &lt;/span&gt;&lt;a href="https://stripe.com/docs/api" style="text-decoration:none;"&gt;The Stripe API&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://stripe.com/docs/checkout" style="text-decoration:none;"&gt;checkout.js&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://stripe.com/docs/tutorials/forms" style="text-decoration:none;"&gt;stripe.js&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;11:51 - Security&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.pcisecuritystandards.org/" style="text-decoration:none;"&gt;PCI Compliance&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://kencochrane.net/blog/2012/01/developers-guide-to-pci-compliant-web-applications/" style="text-decoration:none;"&gt;Ken Cochrane: The Developers Guide to PCI Compliant Web applications&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:23 - What happens when things go wrong?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Webhooks&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://runscope.com" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;Runscope&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://ngrok.com/" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;ngrok&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.masteringmodernpayments.com/" style="text-decoration:none;"&gt;Mastering Modern Payments by Pete Keen&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.masteringmodernpayments.com/stripe-webhook-event-cheatsheet" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;The Stripe Webhook Event Cheatsheet&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:18 - Server-side Libraries&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/jaymedavis/stripe.net" style="text-decoration:none;"&gt;stripe.net&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;25:34 - Building Custom Forms&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/stripe/jquery.payment" style="text-decoration:none;"&gt;jquery.payment&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jessepollak.github.io/card/" style="text-decoration:none;"&gt;card.js&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:06 - Stripe + &lt;/span&gt;&lt;a href="https://www.promisejs.org/" style="text-decoration:none;"&gt;Promises&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;32:43 - Handling Payments on Behalf of your Customers&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://stripe.com/connect" style="text-decoration:none;"&gt;Stripe Connect&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:40 - Stripe Integration&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://ti.to/" style="text-decoration:none;"&gt;Tito&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.shopify.com/" style="text-decoration:none;"&gt;Shopify&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.getdrip.com/" style="text-decoration:none;"&gt;Drip&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://baremetrics.com/" style="text-decoration:none;"&gt;Baremetrics&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:39 - The Stripe Dashboard&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.braintreepayments.com/" style="text-decoration:none;"&gt;Braintree&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://stripe.com/bitcoin" style="text-decoration:none;"&gt;Stripe: Start accepting Bitcoin instantly&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.starwars.com" style="text-decoration:none;"&gt;Star Wars&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.kickstarter.com/projects/1277034820/masks-a-new-generation" style="text-decoration:none;"&gt;Masks: A New Generation&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=GUCcObwIsOs" style="text-decoration:none;"&gt;A Defense of Comic Sans&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://plus.google.com/+Runscope/posts/JLSnmtTzWXw" style="text-decoration:none;"&gt;Runscope T-shirt&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/mgechev/angularjs-in-patterns" style="text-decoration:none;"&gt;angularjs-in-patterns&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.mallofamerica.com/events/view/1321" style="text-decoration:none;"&gt;Mall of America Events: Photos with Santa&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.christmascats.tv/" style="text-decoration:none;"&gt;Christmas Cats TV&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://news.nationalgeographic.com/2015/11/151117-cats-cucumbers-videos-behavior" style="text-decoration:none;"&gt;Cats with Cucumbers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.homedepot.com/p/RIDGID-X4-18-Volt-Lithium-Ion-Cordless-Drill-and-Impact-Driver-Combo-Kit-2-Tool-R9602/205762719" style="text-decoration:none;"&gt;RIDGID X4 18-Volt Lithium-Ion Cordless Drill and Impact Driver Combo Kit (2-Tool)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/playlist?list=PLJesql-aSfX7NJwuiq_gKU5cnjbTr1lRQ" style="text-decoration:none;"&gt;Angular Remote Conf Video Playlist&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://hourofcode.com/" style="text-decoration:none;"&gt;Hour of Code&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Craig)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://buff.ly/1RtjE2L" style="text-decoration:none;"&gt;[egghead.io] ...learn when to use a service, factory, or provider?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Craig)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8" style="text-decoration:none;"&gt;A Dark Room&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Craig)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://entreprogrammers.com/episode-47-1-a-dark-room-for-ios/" style="text-decoration:none;"&gt;EntreProgrammers: Episode 47.1 A Dark Room for iOS&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://entreprogrammers.com/episode-47-2-a-dark-room-for-ios/" style="text-decoration:none;"&gt;EntreProgrammers: Episode 47.2 A Dark Room for iOS&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;br /&gt;
+Craig&amp;rsquo;s Babel Course on Pluralsight (Craig)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://javascriptjabber.com">JavaScript Jabber</source>
+      <author></author>
+      <guid isPermalink="false">19bfa1b1-3128-4158-9b8a-30b2b6e973ae</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:26 - Craig McKeachie Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://twitter.com/cmckeachie" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.funnyant.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.funnyant.com/javascript-framework-guide/" style="text-decoration:none;"&gt;The JavaScript Framework Guide by Craig McKeachie&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://devchat.tv/js-jabber/132-jsj-mv-frameworks-with-craig-mckeachie" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;JavaScript Jabber Episode #132: MV Frameworks with Craig McKeachie&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.scavengerhuntriddles.net/" style="text-decoration:none;"&gt;Scavenger Hunt Creator&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:54 - &lt;/span&gt;&lt;a href="https://stripe.com/" style="text-decoration:none;"&gt;Stripe&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.pluralsight.com/courses/stripe-fundamentals-with-asp-net-mvc" style="text-decoration:none;"&gt;[Pluralsight] Stripe Fundamentals with ASP.NET MVC&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:22 - Behind the Scenes: &lt;/span&gt;&lt;a href="https://stripe.com/docs/api" style="text-decoration:none;"&gt;The Stripe API&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://stripe.com/docs/checkout" style="text-decoration:none;"&gt;checkout.js&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://stripe.com/docs/tutorials/forms" style="text-decoration:none;"&gt;stripe.js&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;11:51 - Security&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.pcisecuritystandards.org/" style="text-decoration:none;"&gt;PCI Compliance&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://kencochrane.net/blog/2012/01/developers-guide-to-pci-compliant-web-applications/" style="text-decoration:none;"&gt;Ken Cochrane: The Developers Guide to PCI Compliant Web applications&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:23 - What happens when things go wrong?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Webhooks&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://runscope.com" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;Runscope&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://ngrok.com/" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;ngrok&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.masteringmodernpayments.com/" style="text-decoration:none;"&gt;Mastering Modern Payments by Pete Keen&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.masteringmodernpayments.com/stripe-webhook-event-cheatsheet" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;The Stripe Webhook Event Cheatsheet&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:18 - Server-side Libraries&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/jaymedavis/stripe.net" style="text-decoration:none;"&gt;stripe.net&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;25:34 - Building Custom Forms&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/stripe/jquery.payment" style="text-decoration:none;"&gt;jquery.payment&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jessepollak.github.io/card/" style="text-decoration:none;"&gt;card.js&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:06 - Stripe + &lt;/span&gt;&lt;a href="https://www.promisejs.org/" style="text-decoration:none;"&gt;Promises&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;32:43 - Handling Payments on Behalf of your Customers&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://stripe.com/connect" style="text-decoration:none;"&gt;Stripe Connect&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:40 - Stripe Integration&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://ti.to/" style="text-decoration:none;"&gt;Tito&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.shopify.com/" style="text-decoration:none;"&gt;Shopify&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.getdrip.com/" style="text-decoration:none;"&gt;Drip&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://baremetrics.com/" style="text-decoration:none;"&gt;Baremetrics&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:39 - The Stripe Dashboard&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.braintreepayments.com/" style="text-decoration:none;"&gt;Braintree&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://stripe.com/bitcoin" style="text-decoration:none;"&gt;Stripe: Start accepting Bitcoin instantly&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.starwars.com" style="text-decoration:none;"&gt;Star Wars&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.kickstarter.com/projects/1277034820/masks-a-new-generation" style="text-decoration:none;"&gt;Masks: A New Generation&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=GUCcObwIsOs" style="text-decoration:none;"&gt;A Defense of Comic Sans&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://plus.google.com/+Runscope/posts/JLSnmtTzWXw" style="text-decoration:none;"&gt;Runscope T-shirt&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/mgechev/angularjs-in-patterns" style="text-decoration:none;"&gt;angularjs-in-patterns&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.mallofamerica.com/events/view/1321" style="text-decoration:none;"&gt;Mall of America Events: Photos with Santa&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.christmascats.tv/" style="text-decoration:none;"&gt;Christmas Cats TV&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://news.nationalgeographic.com/2015/11/151117-cats-cucumbers-videos-behavior" style="text-decoration:none;"&gt;Cats with Cucumbers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.homedepot.com/p/RIDGID-X4-18-Volt-Lithium-Ion-Cordless-Drill-and-Impact-Driver-Combo-Kit-2-Tool-R9602/205762719" style="text-decoration:none;"&gt;RIDGID X4 18-Volt Lithium-Ion Cordless Drill and Impact Driver Combo Kit (2-Tool)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/playlist?list=PLJesql-aSfX7NJwuiq_gKU5cnjbTr1lRQ" style="text-decoration:none;"&gt;Angular Remote Conf Video Playlist&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://hourofcode.com/" style="text-decoration:none;"&gt;Hour of Code&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Craig)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://buff.ly/1RtjE2L" style="text-decoration:none;"&gt;[egghead.io] ...learn when to use a service, factory, or provider?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Craig)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8" style="text-decoration:none;"&gt;A Dark Room&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Craig)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://entreprogrammers.com/episode-47-1-a-dark-room-for-ios/" style="text-decoration:none;"&gt;EntreProgrammers: Episode 47.1 A Dark Room for iOS&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://entreprogrammers.com/episode-47-2-a-dark-room-for-ios/" style="text-decoration:none;"&gt;EntreProgrammers: Episode 47.2 A Dark Room for iOS&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;br /&gt;
+Craig&amp;rsquo;s Babel Course on Pluralsight (Craig)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>58:29</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/js-jabber/JSJ191Stripe.mp3?rss=true" length="56152131" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>190 JSJ Web Performance Part 2 with Nik Molnar</title>
+      <link>https://devchat.tv/js-jabber/190-jsj-web-performance-part-2-with-nik-molnar</link>
+      <pubDate>Wed, 16 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;There&amp;rsquo;s still time! Check out and get your &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; tickets!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/js-jabber/184-jsj-web-performance-with-nik-molnar" style="text-decoration:none;"&gt;JavaScript Jabber Episode #184: Web Performance with Nik Molnar&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Part 1)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:04 - Nik Molnar Introduction &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/nikmd23" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/nikmd23" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://nikcodes.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://getglimpse.com/" style="text-decoration:none;"&gt;Glimpse&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.pluralsight.com/courses/webpagetest-deep-dive" style="text-decoration:none;"&gt;[Pluralsight] WebPageTest Deep Dive&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:58 - RAIL (Response, Animation, Idle, Load)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:03 - How do you know what is being kicked off? How do you avoid it?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:15 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Frame_rate" style="text-decoration:none;"&gt;Frame Rates&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://frames-per-second.appspot.com/" style="text-decoration:none;"&gt;frames-per-second.appspot.com&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://csstriggers.com" style="text-decoration:none;"&gt;CSS Triggers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:05 - Scrolling&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://creativejs.com/resources/requestanimationframe/" style="text-decoration:none;"&gt;requestAnimationFrame&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:09 - &lt;/span&gt;&lt;a href="https://w3c.github.io/web-animations/" style="text-decoration:none;"&gt;The Web Animation API&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:40 - Animation Accessibility, Usability, and Speed&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://haveibeenpwned.com/" style="text-decoration:none;"&gt;haveibeenpwned.com&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://youtu.be/7ubJzEi3HuA" style="text-decoration:none;"&gt;Ilya Grigorik: Speed, Performance, and Human Perception @ Fluent 2014&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;27:14 - HTTP and Optimization&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://conferences.oreilly.com/velocity/devops-web-performance-2015/public/schedule/detail/42385" style="text-decoration:none;"&gt;Yesterday&amp;#39;s perf best-practices are today&amp;#39;s HTTP/2 anti-patterns by Ilya Grigorik&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/ruby-rogues/135-rr-http-2-0-with-ilya-grigorik" style="text-decoration:none;"&gt;Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://tools.ietf.org/html/rfc7540" style="text-decoration:none;"&gt;Hypertext Transfer Protocol Version 2 (HTTP/2)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://caniuse.com/#feat=http2" style="text-decoration:none;"&gt;Can I use...&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://tools.ietf.org/html/rfc7540#section-8.2" style="text-decoration:none;"&gt;Server Push&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:25 - ES6 and Performance&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.incaseofstairs.com/2015/06/es6-feature-performance/" style="text-decoration:none;"&gt;ES6 Feature Performance&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/kpdecker/six-speed" style="text-decoration:none;"&gt;six-speed&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:46 - Understanding the Scale&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=JEpsKnWZrJ8" style="text-decoration:none;"&gt;Grace Hopper: Nanoseconds&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=1-vcErOPofQ" style="text-decoration:none;"&gt;Grace Hopper on Letterman&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;43:30 RAIL (Response, Animation, Idle, Load) Cont&amp;rsquo;d&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;46:15 - &lt;/span&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon" style="text-decoration:none;"&gt;Navigator.sendBeacon()&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;47:51 - &lt;/span&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management" style="text-decoration:none;"&gt;Memory Management&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)" style="text-decoration:none;"&gt;Garbage Collection&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=LaxbdIyBkL0" style="text-decoration:none;"&gt;Memory Management Masterclass with Addy Osmani&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://addyosmani.com/blog/video-javascript-memory-management-masterclass/" style="text-decoration:none;"&gt;Addy Osmani: JavaScript Memory Management Masterclass&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.red-gate.com/community/books/under-the-hood-dotnet-memory-management" style="text-decoration:none;"&gt;Under the Hood of .NET Memory Management by Chris Farrell and Nick Harrison&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Nik)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Memory vs Performance Problems&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=aiv1JOfMjm0" style="text-decoration:none;"&gt;Rick Hudson: Go GC: Solving the Latency Problem @ GopherCon 2015&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.dancarlin.com/hardcore-history-series/" style="text-decoration:none;"&gt;Hardcore History Podcast&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://danluu.com/empirical-pl" style="text-decoration:none;"&gt;Static vs. Dynamic Languages: A Literature Review&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://fullertj.tumblr.com/" style="text-decoration:none;"&gt;TJ Fuller Tumblr&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://dn.ht/picklecat/" style="text-decoration:none;"&gt;Pickle Cat&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://sub.watchmecode.net/" style="text-decoration:none;"&gt;WatchMeCode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;br /&gt;
+Don&amp;rsquo;t jump around while learning in JavaScript (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=eLfW_XMwBGk" style="text-decoration:none;"&gt;P!nk - Bohemian Rhapsody&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.infoq.com/presentations/Design-Composition-Performance" style="text-decoration:none;"&gt;Rich Hickey: Design, Composition and Performance&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://undisclosed-podcast.com/" style="text-decoration:none;"&gt;Undisclosed Podcast&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=8nZMseDOiJo" style="text-decoration:none;"&gt;History of Gaming Historian - 100K Subscriber Special&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://javascriptjabber.com/15minutes" style="text-decoration:none;"&gt;15 Minute Podcast Listener chat with Charles Wood&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://supercell.com/en/games/clashofclans/" style="text-decoration:none;"&gt;Clash of Clans&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.starwars.com/games-apps/star-wars-commander" style="text-decoration:none;"&gt;Star Wars Commander&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://onlycoin.com/" style="text-decoration:none;"&gt;Coin&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.theairhook.com/" style="text-decoration:none;"&gt;The Airhook&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.goldieblox.com/" style="text-decoration:none;"&gt;GoldieBlox&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://javascriptjabber.com">JavaScript Jabber</source>
+      <author></author>
+      <guid isPermalink="false">a49e1aa0-f8c9-4f18-8dfa-52ee2e7ea7f9</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;There&amp;rsquo;s still time! Check out and get your &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; tickets!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/js-jabber/184-jsj-web-performance-with-nik-molnar" style="text-decoration:none;"&gt;JavaScript Jabber Episode #184: Web Performance with Nik Molnar&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Part 1)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:04 - Nik Molnar Introduction &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/nikmd23" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/nikmd23" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://nikcodes.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://getglimpse.com/" style="text-decoration:none;"&gt;Glimpse&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.pluralsight.com/courses/webpagetest-deep-dive" style="text-decoration:none;"&gt;[Pluralsight] WebPageTest Deep Dive&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:58 - RAIL (Response, Animation, Idle, Load)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:03 - How do you know what is being kicked off? How do you avoid it?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:15 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Frame_rate" style="text-decoration:none;"&gt;Frame Rates&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://frames-per-second.appspot.com/" style="text-decoration:none;"&gt;frames-per-second.appspot.com&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://csstriggers.com" style="text-decoration:none;"&gt;CSS Triggers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:05 - Scrolling&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://creativejs.com/resources/requestanimationframe/" style="text-decoration:none;"&gt;requestAnimationFrame&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:09 - &lt;/span&gt;&lt;a href="https://w3c.github.io/web-animations/" style="text-decoration:none;"&gt;The Web Animation API&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:40 - Animation Accessibility, Usability, and Speed&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://haveibeenpwned.com/" style="text-decoration:none;"&gt;haveibeenpwned.com&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://youtu.be/7ubJzEi3HuA" style="text-decoration:none;"&gt;Ilya Grigorik: Speed, Performance, and Human Perception @ Fluent 2014&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;27:14 - HTTP and Optimization&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://conferences.oreilly.com/velocity/devops-web-performance-2015/public/schedule/detail/42385" style="text-decoration:none;"&gt;Yesterday&amp;#39;s perf best-practices are today&amp;#39;s HTTP/2 anti-patterns by Ilya Grigorik&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/ruby-rogues/135-rr-http-2-0-with-ilya-grigorik" style="text-decoration:none;"&gt;Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://tools.ietf.org/html/rfc7540" style="text-decoration:none;"&gt;Hypertext Transfer Protocol Version 2 (HTTP/2)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://caniuse.com/#feat=http2" style="text-decoration:none;"&gt;Can I use...&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://tools.ietf.org/html/rfc7540#section-8.2" style="text-decoration:none;"&gt;Server Push&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:25 - ES6 and Performance&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.incaseofstairs.com/2015/06/es6-feature-performance/" style="text-decoration:none;"&gt;ES6 Feature Performance&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/kpdecker/six-speed" style="text-decoration:none;"&gt;six-speed&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:46 - Understanding the Scale&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=JEpsKnWZrJ8" style="text-decoration:none;"&gt;Grace Hopper: Nanoseconds&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=1-vcErOPofQ" style="text-decoration:none;"&gt;Grace Hopper on Letterman&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;43:30 RAIL (Response, Animation, Idle, Load) Cont&amp;rsquo;d&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;46:15 - &lt;/span&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon" style="text-decoration:none;"&gt;Navigator.sendBeacon()&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;47:51 - &lt;/span&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management" style="text-decoration:none;"&gt;Memory Management&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)" style="text-decoration:none;"&gt;Garbage Collection&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=LaxbdIyBkL0" style="text-decoration:none;"&gt;Memory Management Masterclass with Addy Osmani&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://addyosmani.com/blog/video-javascript-memory-management-masterclass/" style="text-decoration:none;"&gt;Addy Osmani: JavaScript Memory Management Masterclass&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.red-gate.com/community/books/under-the-hood-dotnet-memory-management" style="text-decoration:none;"&gt;Under the Hood of .NET Memory Management by Chris Farrell and Nick Harrison&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Nik)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Memory vs Performance Problems&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=aiv1JOfMjm0" style="text-decoration:none;"&gt;Rick Hudson: Go GC: Solving the Latency Problem @ GopherCon 2015&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.dancarlin.com/hardcore-history-series/" style="text-decoration:none;"&gt;Hardcore History Podcast&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://danluu.com/empirical-pl" style="text-decoration:none;"&gt;Static vs. Dynamic Languages: A Literature Review&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://fullertj.tumblr.com/" style="text-decoration:none;"&gt;TJ Fuller Tumblr&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://dn.ht/picklecat/" style="text-decoration:none;"&gt;Pickle Cat&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://sub.watchmecode.net/" style="text-decoration:none;"&gt;WatchMeCode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;br /&gt;
+Don&amp;rsquo;t jump around while learning in JavaScript (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=eLfW_XMwBGk" style="text-decoration:none;"&gt;P!nk - Bohemian Rhapsody&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.infoq.com/presentations/Design-Composition-Performance" style="text-decoration:none;"&gt;Rich Hickey: Design, Composition and Performance&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://undisclosed-podcast.com/" style="text-decoration:none;"&gt;Undisclosed Podcast&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=8nZMseDOiJo" style="text-decoration:none;"&gt;History of Gaming Historian - 100K Subscriber Special&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://javascriptjabber.com/15minutes" style="text-decoration:none;"&gt;15 Minute Podcast Listener chat with Charles Wood&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://supercell.com/en/games/clashofclans/" style="text-decoration:none;"&gt;Clash of Clans&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.starwars.com/games-apps/star-wars-commander" style="text-decoration:none;"&gt;Star Wars Commander&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://onlycoin.com/" style="text-decoration:none;"&gt;Coin&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.theairhook.com/" style="text-decoration:none;"&gt;The Airhook&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.goldieblox.com/" style="text-decoration:none;"&gt;GoldieBlox&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:17:11</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/js-jabber/JSJ190Performance.mp3?rss=true" length="74100981" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>189 JSJ PureScript with John A. De Goes and Phil Freeman</title>
+      <link>https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman</link>
+      <pubDate>Wed, 09 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:54 - John A. De Goes Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/jdegoes" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/jdegoes" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://degoes.net/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://slamdata.com/" style="text-decoration:none;"&gt;SlamData&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:34 - Phil Freeman Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/paf31" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/paf31" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://functorial.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:38 - What is &lt;/span&gt;&lt;a href="http://www.purescript.org/" style="text-decoration:none;"&gt;PureScript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;09:11 - Features&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://programmers.stackexchange.com/questions/246439/extensible-effects-in-purescript" style="text-decoration:none;"&gt;Extensible Effects&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:24 - Overcoming the Vocabulary Problem in Functional Programming&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Design_Patterns" style="text-decoration:none;"&gt;Gang of Four Book&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Design Patterns)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/slamdata/purescript-halogen" style="text-decoration:none;"&gt;purescript-halogen&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:07 - Prerequisites to PureScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:14 - PureScript vs &lt;/span&gt;&lt;a href="http://elm-lang.org/" style="text-decoration:none;"&gt;Elm&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman" style="text-decoration:none;"&gt;JavaScript Jabber Episode #175: Elm with Evan Czaplicki and Richard Feldman&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;No Runtime&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;General Purpose vs UI-Focused&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Generic Containers&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:37 - Similar Languages to PureScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;44:07 - PureScript Background&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://roy.brianmckenna.org/" style="text-decoration:none;"&gt;Roy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;47:48 - The &lt;/span&gt;&lt;a href="https://github.com/WebAssembly" style="text-decoration:none;"&gt;WebAssembly&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Effect&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;51:01 - Readability&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;53:42 - &lt;/span&gt;&lt;a href="http://www.purescript.org/learn/" style="text-decoration:none;"&gt;PureScript Learning Resources&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://leanpub.com/purescript/read" style="text-decoration:none;"&gt;PureScript by Example by Phil Freeman&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/purescript/purescript/wiki/PureScript-Conf-2015" style="text-decoration:none;"&gt;PureScript Conf 2015/6&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;55:43 - Working with Abstractions&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/slamdata/purescript-aff" style="text-decoration:none;"&gt;purescript-aff&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://andreypopp.com/posts/2014-07-21-fighting-node-callbacks-with-purescript.html" style="text-decoration:none;"&gt;Audrey Popp: Fighting Node Callback Hell with PureScript&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html" style="text-decoration:none;"&gt;Philip Robects: What the heck is the event loop anyways? @ JS Conf EU 2014&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/latentflip/loupe" style="text-decoration:none;"&gt;loupe&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.imdb.com/title/tt1740299/" style="text-decoration:none;"&gt;The Man in the High Castle&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=S2FUSr3WlPk" style="text-decoration:none;"&gt;Nickolas Means: How to Crash an Airplane @ RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison) &amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.meetup.com/Lambda-Lounge-Utah/" style="text-decoration:none;"&gt;Lambda Lounge Utah&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=9a57V3bvzaI&amp;amp;feature=youtu.be" style="text-decoration:none;"&gt;Michael Trotter: Intro to PureScript @ Utah Haskell Meetup&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.meetup.com/Utah-Elm-Users/events/226004716/" style="text-decoration:none;"&gt;Utah Elm Users&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://screeps.com" style="text-decoration:none;"&gt;Screeps&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1501104314/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1501104314&amp;amp;linkCode=as2&amp;amp;tag=devchattv-20&amp;amp;linkId=SJL23DQYO7LY7JTL" style="text-decoration:none;"&gt;Most Likely to Succeed: Preparing Our Kids for the Innovation Era by Tony Wagner&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.imdb.com/title/tt4159076/?ref_=nv_sr_1" style="text-decoration:none;"&gt;Dark Matter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://degoesconsulting.com/lambdaconf/" style="text-decoration:none;"&gt;LambdaConf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (John)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://twitter.com/lambda_conf/" style="text-decoration:none;"&gt;@lambda_conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (John)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://github.com/ramda/ramda" style="text-decoration:none;"&gt;ramda&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (John)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.bbcgoodfood.com/recipes/252607/proper-beef-ale-and-mushroom-pie" style="text-decoration:none;"&gt;Proper beef, ale &amp;amp; mushroom pie&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (John)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://tidal.lurk.org" style="text-decoration:none;"&gt;Tidal&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Phil)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://sharkdp.github.io/purescript-flare" style="text-decoration:none;"&gt;purescript-flare&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Phil)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://forwardjs.com/" style="text-decoration:none;"&gt;The Forward JS Conference&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Phil)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://javascriptjabber.com">JavaScript Jabber</source>
+      <author></author>
+      <guid isPermalink="false">0b6418d6-56b7-457d-a524-ce1f295873f2</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:54 - John A. De Goes Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/jdegoes" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/jdegoes" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://degoes.net/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://slamdata.com/" style="text-decoration:none;"&gt;SlamData&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:34 - Phil Freeman Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/paf31" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/paf31" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://functorial.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:38 - What is &lt;/span&gt;&lt;a href="http://www.purescript.org/" style="text-decoration:none;"&gt;PureScript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;09:11 - Features&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://programmers.stackexchange.com/questions/246439/extensible-effects-in-purescript" style="text-decoration:none;"&gt;Extensible Effects&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:24 - Overcoming the Vocabulary Problem in Functional Programming&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Design_Patterns" style="text-decoration:none;"&gt;Gang of Four Book&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Design Patterns)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/slamdata/purescript-halogen" style="text-decoration:none;"&gt;purescript-halogen&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:07 - Prerequisites to PureScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:14 - PureScript vs &lt;/span&gt;&lt;a href="http://elm-lang.org/" style="text-decoration:none;"&gt;Elm&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman" style="text-decoration:none;"&gt;JavaScript Jabber Episode #175: Elm with Evan Czaplicki and Richard Feldman&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;No Runtime&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;General Purpose vs UI-Focused&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Generic Containers&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:37 - Similar Languages to PureScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;44:07 - PureScript Background&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://roy.brianmckenna.org/" style="text-decoration:none;"&gt;Roy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;47:48 - The &lt;/span&gt;&lt;a href="https://github.com/WebAssembly" style="text-decoration:none;"&gt;WebAssembly&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Effect&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;51:01 - Readability&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;53:42 - &lt;/span&gt;&lt;a href="http://www.purescript.org/learn/" style="text-decoration:none;"&gt;PureScript Learning Resources&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://leanpub.com/purescript/read" style="text-decoration:none;"&gt;PureScript by Example by Phil Freeman&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/purescript/purescript/wiki/PureScript-Conf-2015" style="text-decoration:none;"&gt;PureScript Conf 2015/6&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;55:43 - Working with Abstractions&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/slamdata/purescript-aff" style="text-decoration:none;"&gt;purescript-aff&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://andreypopp.com/posts/2014-07-21-fighting-node-callbacks-with-purescript.html" style="text-decoration:none;"&gt;Audrey Popp: Fighting Node Callback Hell with PureScript&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html" style="text-decoration:none;"&gt;Philip Robects: What the heck is the event loop anyways? @ JS Conf EU 2014&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/latentflip/loupe" style="text-decoration:none;"&gt;loupe&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.imdb.com/title/tt1740299/" style="text-decoration:none;"&gt;The Man in the High Castle&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=S2FUSr3WlPk" style="text-decoration:none;"&gt;Nickolas Means: How to Crash an Airplane @ RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison) &amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.meetup.com/Lambda-Lounge-Utah/" style="text-decoration:none;"&gt;Lambda Lounge Utah&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=9a57V3bvzaI&amp;amp;feature=youtu.be" style="text-decoration:none;"&gt;Michael Trotter: Intro to PureScript @ Utah Haskell Meetup&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.meetup.com/Utah-Elm-Users/events/226004716/" style="text-decoration:none;"&gt;Utah Elm Users&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jamison)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://screeps.com" style="text-decoration:none;"&gt;Screeps&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1501104314/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1501104314&amp;amp;linkCode=as2&amp;amp;tag=devchattv-20&amp;amp;linkId=SJL23DQYO7LY7JTL" style="text-decoration:none;"&gt;Most Likely to Succeed: Preparing Our Kids for the Innovation Era by Tony Wagner&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.imdb.com/title/tt4159076/?ref_=nv_sr_1" style="text-decoration:none;"&gt;Dark Matter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://degoesconsulting.com/lambdaconf/" style="text-decoration:none;"&gt;LambdaConf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (John)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://twitter.com/lambda_conf/" style="text-decoration:none;"&gt;@lambda_conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (John)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://github.com/ramda/ramda" style="text-decoration:none;"&gt;ramda&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (John)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.bbcgoodfood.com/recipes/252607/proper-beef-ale-and-mushroom-pie" style="text-decoration:none;"&gt;Proper beef, ale &amp;amp; mushroom pie&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (John)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://tidal.lurk.org" style="text-decoration:none;"&gt;Tidal&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Phil)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://sharkdp.github.io/purescript-flare" style="text-decoration:none;"&gt;purescript-flare&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Phil)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://forwardjs.com/" style="text-decoration:none;"&gt;The Forward JS Conference&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Phil)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:12:17</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/js-jabber/JSJ189PureScript.mp3?rss=true" length="69394771" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>188 JSJ JavaScript Code Smells with Elijah Manor</title>
+      <link>https://devchat.tv/js-jabber/188-jsj-javascript-code-smells-with-elijah-manor</link>
+      <pubDate>Wed, 02 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;a href="https://jsremoteconf.com/"&gt;&lt;span style="font-size:18px"&gt;Check out JS Remote Conf!&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:22 - Elijah Manor Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/elijahmanor" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/elijahmanor" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elijahmanor.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://leankit.com/" style="text-decoration:none;"&gt;LeanKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://gist.github.com/elijahmanor/6048b4f72265ee33fcaf" style="text-decoration:none;"&gt;Eliminate JavaScript Code Smells (Elijah&amp;#39;s Talk Abstract)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=JVlfj7mQZPo" style="text-decoration:none;"&gt;A video containing the 30 min version of the talk: Eliminate JavaScript Code Smells&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elijahmanor.com/talks/js-smells" style="text-decoration:none;"&gt;The full slides (60 mins worth of material)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:49 - What is a &amp;ldquo;Code Smell&amp;rdquo;?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://martinfowler.com/bliki/CodeSmell.html" style="text-decoration:none;"&gt;Martin Fowler: CodeSmell&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://eslint.org/" style="text-decoration:none;"&gt;ESLint&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jshint.com/" style="text-decoration:none;"&gt;JSHint&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:21 - Copy/Paste Code Error&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/danielstjules/jsinspect" style="text-decoration:none;"&gt;jsinspect&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://github.com/kucherenko/jscpd" style="text-decoration:none;"&gt;jscpd&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;ES6, ES7, &lt;/span&gt;&lt;a href="https://babeljs.io/" style="text-decoration:none;"&gt;Babel&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Support&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:11 - Using ES6 to Eliminate Code Smells&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:48 - Refactoring Case Statements&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Strategy_pattern" style="text-decoration:none;"&gt;The Strategy Pattern&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:29 - Juniors and Code Smells&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Code Reviews&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;27:29 - Isomorphic Code&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:12 - Framework Code Smells&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:47 - Identifying New Code Smells&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;36:33 - When Code Smells are OK&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;39:10 - Why use parameters?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://tacma.net/tacma.php" style="text-decoration:none;"&gt;Terms And Conditions May Apply&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://nodevember.org/" style="text-decoration:none;"&gt;Nodevember&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://developertea.com/" style="text-decoration:none;"&gt;Developer Tea&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.jakeshimabukuro.com/home/" style="text-decoration:none;"&gt;Jake Shimabukuro&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://screeps.com/" style="text-decoration:none;"&gt;Screeps&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/pocotan001/react-styleguide-generator" style="text-decoration:none;"&gt;react-styleguide-generator&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Elijah)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/sapegin/react-styleguidist" style="text-decoration:none;"&gt;react-styleguidist&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Elijah)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://youtu.be/w1RHQQ0cXlo" style="text-decoration:none;"&gt;The Phantom Menace - What it Should Have Been&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://youtu.be/ZE4bU56teH0" style="text-decoration:none;"&gt;Attack of the Clones - What it Should Have Been&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://javascriptjabber.com">JavaScript Jabber</source>
+      <author></author>
+      <guid isPermalink="false">213e5cb3-99b2-44bf-b003-9c918a1afb34</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;a href="https://jsremoteconf.com/"&gt;&lt;span style="font-size:18px"&gt;Check out JS Remote Conf!&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:22 - Elijah Manor Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/elijahmanor" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/elijahmanor" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elijahmanor.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://leankit.com/" style="text-decoration:none;"&gt;LeanKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://gist.github.com/elijahmanor/6048b4f72265ee33fcaf" style="text-decoration:none;"&gt;Eliminate JavaScript Code Smells (Elijah&amp;#39;s Talk Abstract)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=JVlfj7mQZPo" style="text-decoration:none;"&gt;A video containing the 30 min version of the talk: Eliminate JavaScript Code Smells&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elijahmanor.com/talks/js-smells" style="text-decoration:none;"&gt;The full slides (60 mins worth of material)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:49 - What is a &amp;ldquo;Code Smell&amp;rdquo;?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://martinfowler.com/bliki/CodeSmell.html" style="text-decoration:none;"&gt;Martin Fowler: CodeSmell&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://eslint.org/" style="text-decoration:none;"&gt;ESLint&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jshint.com/" style="text-decoration:none;"&gt;JSHint&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:21 - Copy/Paste Code Error&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/danielstjules/jsinspect" style="text-decoration:none;"&gt;jsinspect&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://github.com/kucherenko/jscpd" style="text-decoration:none;"&gt;jscpd&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;ES6, ES7, &lt;/span&gt;&lt;a href="https://babeljs.io/" style="text-decoration:none;"&gt;Babel&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Support&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:11 - Using ES6 to Eliminate Code Smells&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:48 - Refactoring Case Statements&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Strategy_pattern" style="text-decoration:none;"&gt;The Strategy Pattern&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:29 - Juniors and Code Smells&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Code Reviews&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;27:29 - Isomorphic Code&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:12 - Framework Code Smells&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:47 - Identifying New Code Smells&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;36:33 - When Code Smells are OK&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;39:10 - Why use parameters?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://tacma.net/tacma.php" style="text-decoration:none;"&gt;Terms And Conditions May Apply&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://nodevember.org/" style="text-decoration:none;"&gt;Nodevember&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://developertea.com/" style="text-decoration:none;"&gt;Developer Tea&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.jakeshimabukuro.com/home/" style="text-decoration:none;"&gt;Jake Shimabukuro&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://screeps.com/" style="text-decoration:none;"&gt;Screeps&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Joe)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/pocotan001/react-styleguide-generator" style="text-decoration:none;"&gt;react-styleguide-generator&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Elijah)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/sapegin/react-styleguidist" style="text-decoration:none;"&gt;react-styleguidist&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Elijah)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://youtu.be/w1RHQQ0cXlo" style="text-decoration:none;"&gt;The Phantom Menace - What it Should Have Been&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://youtu.be/ZE4bU56teH0" style="text-decoration:none;"&gt;Attack of the Clones - What it Should Have Been&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>51:30</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/js-jabber/JSJ188JSCodeSmells.mp3?rss=true" length="49455602" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>187 JSJ Vue.js with Evan You</title>
+      <link>https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you</link>
+      <pubDate>Wed, 25 Nov 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p style="text-align:center"&gt;&lt;span style="font-size:16px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;JS Remote Conf will be held from Thursday, January 14th - Saturday, January 16th! &lt;/span&gt;&lt;a href="http://jsremoteconf.com" style="text-decoration:none;"&gt;Sign up today!&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:59 - Evan You Introduction &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/youyuxi" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/yyx990803" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://evanyou.me/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.meteor.com/" style="text-decoration:none;"&gt;Meteor&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:34 - &lt;/span&gt;&lt;a href="http://vuejs.org/" style="text-decoration:none;"&gt;Vue.js&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; vs Competitors and Motivators Behind the Framework&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/" style="text-decoration:none;"&gt;Evan You: Vue.js: A (Re)introduction&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:18 - Use Cases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:06 - Overlapping Elements and The Component System&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://vuejs.org/guide/index.html" style="text-decoration:none;"&gt;Getting Started Guide&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;11:21 - Pulling in Data&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:50 - DOM Manipulation&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:38 - Ease of Getting Started&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:33 - Directives&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:18 - Adoption&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/vuejs/awesome-vue" style="text-decoration:none;"&gt;awesome-vue&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/vuejs/vue" style="text-decoration:none;"&gt;vue&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (GitHub)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:50 - The Future of Vue.js&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:59 - What is Vue.js Not Good At?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:07 - Testing&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;24:06 - Vue, Angular, and React: Reactivity and Performance&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://knockoutjs.com/" style="text-decoration:none;"&gt;Knockout&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:06 - Tradeoffs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;30:54 - Edgecases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;32:14 - &lt;/span&gt;&lt;a href="https://webpack.github.io/" style="text-decoration:none;"&gt;webpack&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:46 - Bundling&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:38 - Benchmarks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/mathieuancelin/js-repaint-perfs" style="text-decoration:none;"&gt;js-repaint-perfs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;More on Vue.js&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.laravelpodcast.com/episodes/19454-episode-37-i-love-the-things-you-are-saying" style="text-decoration:none;"&gt;Laravel Podcast Episode 37: I Love The Things You Are Saying&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://developertea.com/episodes/18582" style="text-decoration:none;"&gt;Developer Tea: Part One: Paul Straw &amp;amp; Sean Washington (@paulstraw &amp;amp; @seanwashington) talk about focus, JavaScript frameworks, and rites of passage&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (starting around 16:25)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.imdb.com/title/tt3322312/" style="text-decoration:none;"&gt;Daredevil&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Dave)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/channel/UCIqiLefbVHsOAXDAxQJH7Xw" style="text-decoration:none;"&gt;AlgoRythmics&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.relativefinder.org/" style="text-decoration:none;"&gt;Relative Finder&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://familysearch.org/" style="text-decoration:none;"&gt;FamilySearch&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.hardgraft.com/" style="text-decoration:none;"&gt;Hard Graft&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Evan)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.chenalexander.com/Piano-Phase" style="text-decoration:none;"&gt;Piano Phase&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Evan)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://javascriptjabber.com">JavaScript Jabber</source>
+      <author></author>
+      <guid isPermalink="false">d295d582-ff2a-4404-88fb-bf3af83e0ffe</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p style="text-align:center"&gt;&lt;span style="font-size:16px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;JS Remote Conf will be held from Thursday, January 14th - Saturday, January 16th! &lt;/span&gt;&lt;a href="http://jsremoteconf.com" style="text-decoration:none;"&gt;Sign up today!&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:59 - Evan You Introduction &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/youyuxi" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/yyx990803" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://evanyou.me/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.meteor.com/" style="text-decoration:none;"&gt;Meteor&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:34 - &lt;/span&gt;&lt;a href="http://vuejs.org/" style="text-decoration:none;"&gt;Vue.js&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; vs Competitors and Motivators Behind the Framework&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/" style="text-decoration:none;"&gt;Evan You: Vue.js: A (Re)introduction&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:18 - Use Cases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:06 - Overlapping Elements and The Component System&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://vuejs.org/guide/index.html" style="text-decoration:none;"&gt;Getting Started Guide&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;11:21 - Pulling in Data&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:50 - DOM Manipulation&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:38 - Ease of Getting Started&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:33 - Directives&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:18 - Adoption&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/vuejs/awesome-vue" style="text-decoration:none;"&gt;awesome-vue&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/vuejs/vue" style="text-decoration:none;"&gt;vue&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (GitHub)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:50 - The Future of Vue.js&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:59 - What is Vue.js Not Good At?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:07 - Testing&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;24:06 - Vue, Angular, and React: Reactivity and Performance&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://knockoutjs.com/" style="text-decoration:none;"&gt;Knockout&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:06 - Tradeoffs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;30:54 - Edgecases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;32:14 - &lt;/span&gt;&lt;a href="https://webpack.github.io/" style="text-decoration:none;"&gt;webpack&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:46 - Bundling&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:38 - Benchmarks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/mathieuancelin/js-repaint-perfs" style="text-decoration:none;"&gt;js-repaint-perfs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;More on Vue.js&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.laravelpodcast.com/episodes/19454-episode-37-i-love-the-things-you-are-saying" style="text-decoration:none;"&gt;Laravel Podcast Episode 37: I Love The Things You Are Saying&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://developertea.com/episodes/18582" style="text-decoration:none;"&gt;Developer Tea: Part One: Paul Straw &amp;amp; Sean Washington (@paulstraw &amp;amp; @seanwashington) talk about focus, JavaScript frameworks, and rites of passage&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (starting around 16:25)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.imdb.com/title/tt3322312/" style="text-decoration:none;"&gt;Daredevil&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Dave)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/channel/UCIqiLefbVHsOAXDAxQJH7Xw" style="text-decoration:none;"&gt;AlgoRythmics&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.relativefinder.org/" style="text-decoration:none;"&gt;Relative Finder&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://familysearch.org/" style="text-decoration:none;"&gt;FamilySearch&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.hardgraft.com/" style="text-decoration:none;"&gt;Hard Graft&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Evan)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.chenalexander.com/Piano-Phase" style="text-decoration:none;"&gt;Piano Phase&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Evan)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>47:53</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/js-jabber/JSJ187VueJS.mp3?rss=true" length="45973146" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>186 JSJ NativeScript with TJ VanToll and Burke Holland</title>
+      <link>https://devchat.tv/js-jabber/186-jsj-nativescript-with-tj-vantoll-and-burke-holland</link>
+      <pubDate>Wed, 18 Nov 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;! Buy a ticket! Submit a CFP!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:07 - Burke Holland Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/burkeholland" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/burkeholland" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://a.shinynew.me/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:01 - TJ Van Toll Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/tjvantoll" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/tjvantoll" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://tjvantoll.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:33 - &lt;/span&gt;&lt;a href="http://www.telerik.com/" style="text-decoration:none;"&gt;Telerik&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.telerik.com/platform" style="text-decoration:none;"&gt;Telerik Platform&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:57 - &lt;/span&gt;&lt;a href="http://nativescript.org" style="text-decoration:none;"&gt;NativeScript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://trac.webkit.org/wiki/JavaScriptCore" style="text-decoration:none;"&gt;JavaScriptCore&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/iphreaks/128-ips-javascriptcore-with-cesare-rocchi" style="text-decoration:none;"&gt;JavaScript Jabber #128: JavaScriptCore with Cesare Rocchi&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://facebook.github.io/react-native/" style="text-decoration:none;"&gt;React Native&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:41 - The Views&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:07 - Customizability, Styling, and Standardization&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:19 - React Native vs NativeScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;18:37 - APIs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://cocoapods.org/" style="text-decoration:none;"&gt;CocoaPods&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:17 - How NativeScript Works&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:04 - Edgecases?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Message Passing&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://docs.nativescript.org/runtimes/ios/marshalling/Marshalling-Overview.html" style="text-decoration:none;"&gt;Marshalling&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Mapping)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:12 - Memory Management&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;27:06 - &lt;/span&gt;&lt;a href="https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableView_Class/" style="text-decoration:none;"&gt;UITableView&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:59 - NativeScript and &lt;/span&gt;&lt;a href="https://angular.io/" style="text-decoration:none;"&gt;Angular&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g" style="text-decoration:none;"&gt;AngularConnect Talks on YouTube&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=4SbiiyRSIwo" style="text-decoration:none;"&gt;Sebastian Witalec: Building native mobile apps with Angular 2 0 and NativeScript​&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:22 - Adding NativeScript to Existing Projects &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:51 - Building for Wearables and AppleTV &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://developer.telerik.com/featured/apple-watch-and-the-cross-platform-crisis/" style="text-decoration:none;"&gt;Burke Holland: Apple Watch and the Cross-Platform Crisis&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:59 - Building Universal Applications&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:14 - Creating NativeScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.telerik.com/kendo-ui" style="text-decoration:none;"&gt;Kendo UI&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;39:42 - Use Cases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.nativescript.org/app-samples-with-code" style="text-decoration:none;"&gt;nativescript.org/app-samples-with-code&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:01 - Are there specific things NativeScript isn&amp;rsquo;t good for?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.npmjs.com/search?q=nativescript" style="text-decoration:none;"&gt;npmjs.com search: nativescript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:54 - Testing and Debugging&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;48:35 - Data Storage&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://caddyserver.com/" style="text-decoration:none;"&gt;Caddy&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=T70EnAdFzaU" style="text-decoration:none;"&gt;OC ReMix #505: Top Gear &amp;#39;Track 1 (Final Nitro Mix)&amp;#39; by Rayza&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff" style="text-decoration:none;"&gt;Jamie Talbot: What are Bloom filters? A tale of code, dinner, and a favour with unexpected consequences&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://twitter.com/mikegehard" style="text-decoration:none;"&gt;Mike Gehard (@mikegehard)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://angularconnect.com/sessions#becoming-betazoid-how-to-listen-and-empathize-with-others-in-the-workplace" style="text-decoration:none;"&gt;Joe Eames: Becoming Betazoid: How to Listen and Empathize with Others in the Workplace @ AngularConnect 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Dave)&lt;br /&gt;
+Exercise (Chuck)&lt;br /&gt;
+Sleep (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/atom/electron" style="text-decoration:none;"&gt;electron&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aaron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/B00EZB3WJQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00EZB3WJQ&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=JNUSG72IEVPSAGJN" style="text-decoration:none;"&gt;The Synchronicity War Series by Dietmar Wehr&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aaron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://itunes.apple.com/us/app/pause-relaxation-at-your-fingertip/id991764216?mt=8" style="text-decoration:none;"&gt;PAUSE&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Burke)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.imdb.com/title/tt3006802/" style="text-decoration:none;"&gt;Outlander&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (TJ)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://javascriptjabber.com">JavaScript Jabber</source>
+      <author></author>
+      <guid isPermalink="false">c9fa60f8-7c77-4812-868e-51a462d1da2e</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;! Buy a ticket! Submit a CFP!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:07 - Burke Holland Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/burkeholland" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/burkeholland" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://a.shinynew.me/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:01 - TJ Van Toll Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/tjvantoll" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/tjvantoll" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://tjvantoll.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:33 - &lt;/span&gt;&lt;a href="http://www.telerik.com/" style="text-decoration:none;"&gt;Telerik&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.telerik.com/platform" style="text-decoration:none;"&gt;Telerik Platform&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:57 - &lt;/span&gt;&lt;a href="http://nativescript.org" style="text-decoration:none;"&gt;NativeScript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://trac.webkit.org/wiki/JavaScriptCore" style="text-decoration:none;"&gt;JavaScriptCore&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/iphreaks/128-ips-javascriptcore-with-cesare-rocchi" style="text-decoration:none;"&gt;JavaScript Jabber #128: JavaScriptCore with Cesare Rocchi&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://facebook.github.io/react-native/" style="text-decoration:none;"&gt;React Native&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:41 - The Views&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:07 - Customizability, Styling, and Standardization&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:19 - React Native vs NativeScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;18:37 - APIs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://cocoapods.org/" style="text-decoration:none;"&gt;CocoaPods&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:17 - How NativeScript Works&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:04 - Edgecases?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Message Passing&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://docs.nativescript.org/runtimes/ios/marshalling/Marshalling-Overview.html" style="text-decoration:none;"&gt;Marshalling&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Mapping)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:12 - Memory Management&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;27:06 - &lt;/span&gt;&lt;a href="https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableView_Class/" style="text-decoration:none;"&gt;UITableView&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:59 - NativeScript and &lt;/span&gt;&lt;a href="https://angular.io/" style="text-decoration:none;"&gt;Angular&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g" style="text-decoration:none;"&gt;AngularConnect Talks on YouTube&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=4SbiiyRSIwo" style="text-decoration:none;"&gt;Sebastian Witalec: Building native mobile apps with Angular 2 0 and NativeScript​&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:22 - Adding NativeScript to Existing Projects &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:51 - Building for Wearables and AppleTV &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://developer.telerik.com/featured/apple-watch-and-the-cross-platform-crisis/" style="text-decoration:none;"&gt;Burke Holland: Apple Watch and the Cross-Platform Crisis&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:59 - Building Universal Applications&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:14 - Creating NativeScript&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.telerik.com/kendo-ui" style="text-decoration:none;"&gt;Kendo UI&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;39:42 - Use Cases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.nativescript.org/app-samples-with-code" style="text-decoration:none;"&gt;nativescript.org/app-samples-with-code&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:01 - Are there specific things NativeScript isn&amp;rsquo;t good for?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.npmjs.com/search?q=nativescript" style="text-decoration:none;"&gt;npmjs.com search: nativescript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:54 - Testing and Debugging&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;48:35 - Data Storage&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://caddyserver.com/" style="text-decoration:none;"&gt;Caddy&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=T70EnAdFzaU" style="text-decoration:none;"&gt;OC ReMix #505: Top Gear &amp;#39;Track 1 (Final Nitro Mix)&amp;#39; by Rayza&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (AJ)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff" style="text-decoration:none;"&gt;Jamie Talbot: What are Bloom filters? A tale of code, dinner, and a favour with unexpected consequences&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://twitter.com/mikegehard" style="text-decoration:none;"&gt;Mike Gehard (@mikegehard)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aimee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://angularconnect.com/sessions#becoming-betazoid-how-to-listen-and-empathize-with-others-in-the-workplace" style="text-decoration:none;"&gt;Joe Eames: Becoming Betazoid: How to Listen and Empathize with Others in the Workplace @ AngularConnect 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Dave)&lt;br /&gt;
+Exercise (Chuck)&lt;br /&gt;
+Sleep (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/atom/electron" style="text-decoration:none;"&gt;electron&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aaron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/B00EZB3WJQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00EZB3WJQ&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=JNUSG72IEVPSAGJN" style="text-decoration:none;"&gt;The Synchronicity War Series by Dietmar Wehr&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Aaron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://itunes.apple.com/us/app/pause-relaxation-at-your-fingertip/id991764216?mt=8" style="text-decoration:none;"&gt;PAUSE&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Burke)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.imdb.com/title/tt3006802/" style="text-decoration:none;"&gt;Outlander&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (TJ)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:01:00</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/js-jabber/JSJ186NativeScript.mp3?rss=true" length="58571298" type="audio/mpeg"/>
+    </item>
 
 
 

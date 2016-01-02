@@ -7,6 +7,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 
 <channel>
@@ -14,12 +15,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 	<atom:link href="http://survivorpodcast.com/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>http://survivorpodcast.com</link>
 	<description>Each week, The Tribe dissects the latest episode of the flagship CBS reality show Survivor.  From how they would have fared in a certain immunity challenge to just how Jeff Probst manages to maintain his dimples, they talk about it all, with lots of listener feedback, games, and a bunch of other fun surprises thrown in too.  So what are you waiting for?  Come join these veteran podcasters on their journey through wherever it is Mark Burnett decides to take us all next.  The Tribe has spoken!</description>
-	<lastBuildDate>Sun, 08 Nov 2015 04:36:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Dec 2015 01:00:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
-<!-- podcast_generator="Blubrry PowerPress/6.0.5" mode="advanced" -->
+	<generator>https://wordpress.org/?v=4.4</generator>
+<!-- podcast_generator="Blubrry PowerPress/6.2.2" mode="advanced" -->
 	<itunes:summary>Each week, The Tribe dissects the latest episode of the flagship CBS reality show Survivor.  From how they would have fared in a certain immunity challenge to just how Jeff Probst manages to maintain his dimples, they talk about it all, with lots of listener feedback, games, and a bunch of other fun surprises thrown in too.  So what are you waiting for?  Come join these veteran podcasters on their journey through wherever it is Mark Burnett decides to take us all next.  The Tribe has spoken!</itunes:summary>
 	<itunes:author>The Tribe</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
@@ -40,9 +41,156 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 	<itunes:category text="Comedy" />
 	<itunes:category text="Games &amp; Hobbies" />
 	<item>
+		<title>Cambodia: &#8220;Lie, Cheat and Steal&#8221;</title>
+		<link>http://survivorpodcast.com/cambodia-lie-cheat-and-steal/</link>
+		<comments>http://survivorpodcast.com/cambodia-lie-cheat-and-steal/#respond</comments>
+		<pubDate>Tue, 22 Dec 2015 01:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[The Tribe]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://survivorpodcast.com/?p=798</guid>
+		<description><![CDATA[The Tribe crosses the finish line of Survivor Cambodia with this Breeder filled episode.]]></description>
+				<content:encoded><![CDATA[<p>The Tribe crosses the finish line of Survivor Cambodia with this Breeder filled episode.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://survivorpodcast.com/cambodia-lie-cheat-and-steal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia13.mp3" length="54768092" type="audio/mpeg" />
+		<itunes:subtitle>The Tribe crosses the finish line of Survivor Cambodia with this Breeder filled episode.</itunes:subtitle>
+		<itunes:summary>The Tribe crosses the finish line of Survivor Cambodia with this Breeder filled episode.</itunes:summary>
+		<itunes:author>The Tribe</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:53:54</itunes:duration>
+	</item>
+		<item>
+		<title>Cambodia: &#8220;Villains Have More Fun&#8221;</title>
+		<link>http://survivorpodcast.com/cambodia-villains-have-more-fun/</link>
+		<comments>http://survivorpodcast.com/cambodia-villains-have-more-fun/#respond</comments>
+		<pubDate>Sun, 13 Dec 2015 11:01:33 +0000</pubDate>
+		<dc:creator><![CDATA[The Tribe]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://survivorpodcast.com/?p=796</guid>
+		<description><![CDATA[The Tribe is here to discuss the penultimate episode of Survivor Cambodia.]]></description>
+				<content:encoded><![CDATA[<p>The Tribe is here to discuss the penultimate episode of Survivor Cambodia.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://survivorpodcast.com/cambodia-villains-have-more-fun/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia12.mp3" length="40616202" type="audio/mpeg" />
+		<itunes:subtitle>The Tribe is here to discuss the penultimate episode of Survivor Cambodia.</itunes:subtitle>
+		<itunes:summary>The Tribe is here to discuss the penultimate episode of Survivor Cambodia.</itunes:summary>
+		<itunes:author>The Tribe</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:24:25</itunes:duration>
+	</item>
+		<item>
+		<title>Cambodia: &#8220;Tiny Little Shanks to the Heart&#8221;</title>
+		<link>http://survivorpodcast.com/cambodia-tiny-little-shanks-to-the-heart/</link>
+		<comments>http://survivorpodcast.com/cambodia-tiny-little-shanks-to-the-heart/#respond</comments>
+		<pubDate>Mon, 07 Dec 2015 08:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[The Tribe]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://survivorpodcast.com/?p=794</guid>
+		<description><![CDATA[The Tribe is back and the Montanans have taken over.  This week Paul, Alice, and Shandy are joined by the amazing Jessica Liese!]]></description>
+				<content:encoded><![CDATA[<p>The Tribe is back and the Montanans have taken over.  This week Paul, Alice, and Shandy are joined by the amazing Jessica Liese!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://survivorpodcast.com/cambodia-tiny-little-shanks-to-the-heart/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia11.mp3" length="37883794" type="audio/mpeg" />
+		<itunes:subtitle>The Tribe is back and the Montanans have taken over.  This week Paul, Alice, and Shandy are joined by the amazing Jessica Liese!</itunes:subtitle>
+		<itunes:summary>The Tribe is back and the Montanans have taken over.  This week Paul, Alice, and Shandy are joined by the amazing Jessica Liese!</itunes:summary>
+		<itunes:author>The Tribe</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:18:43</itunes:duration>
+	</item>
+		<item>
+		<title>The Survivor Historians: &#8220;Here is Another Cook Islands Podcast&#8221;</title>
+		<link>http://survivorpodcast.com/the-survivor-historians-here-is-another-cook-islands-podcast/</link>
+		<comments>http://survivorpodcast.com/the-survivor-historians-here-is-another-cook-islands-podcast/#respond</comments>
+		<pubDate>Fri, 04 Dec 2015 23:52:15 +0000</pubDate>
+		<dc:creator><![CDATA[The Tribe]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://survivorpodcast.com/?p=792</guid>
+		<description><![CDATA[The Survivor Historians are back to chop up their Survivor: Cook Islands coverage like poop.]]></description>
+				<content:encoded><![CDATA[<p>The Survivor Historians are back to chop up their Survivor: Cook Islands coverage like poop.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://survivorpodcast.com/the-survivor-historians-here-is-another-cook-islands-podcast/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/thetribe/funny115.com/podcast/historians35.mp3" length="93148298" type="audio/mpeg" />
+		<itunes:subtitle>The Survivor Historians are back to chop up their Survivor: Cook Islands coverage like poop.</itunes:subtitle>
+		<itunes:summary>The Survivor Historians are back to chop up their Survivor: Cook Islands coverage like poop.</itunes:summary>
+		<itunes:author>The Tribe</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>3:13:59</itunes:duration>
+	</item>
+		<item>
+		<title>Cambodia: &#8220;Like Selling Your Soul to the Devil/My Wheels are Spinning&#8221;</title>
+		<link>http://survivorpodcast.com/cambodia-like-selling-your-soul-to-the-devilmy-wheels-are-spinning/</link>
+		<comments>http://survivorpodcast.com/cambodia-like-selling-your-soul-to-the-devilmy-wheels-are-spinning/#comments</comments>
+		<pubDate>Sat, 28 Nov 2015 13:08:11 +0000</pubDate>
+		<dc:creator><![CDATA[The Tribe]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://survivorpodcast.com/?p=789</guid>
+		<description><![CDATA[The Tribe is back to discuss the double and 10th episode of Survivor Cambodia&#8230; also Colleen&#8217;s tears&#8230;]]></description>
+				<content:encoded><![CDATA[<p>The Tribe is back to discuss the double and 10th episode of Survivor Cambodia&#8230; also Colleen&#8217;s tears&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://survivorpodcast.com/cambodia-like-selling-your-soul-to-the-devilmy-wheels-are-spinning/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia10.mp3" length="46745783" type="audio/mpeg" />
+		<itunes:subtitle>The Tribe is back to discuss the double and 10th episode of Survivor Cambodia... also Colleen&#039;s tears...</itunes:subtitle>
+		<itunes:summary>The Tribe is back to discuss the double and 10th episode of Survivor Cambodia... also Colleen&#039;s tears...</itunes:summary>
+		<itunes:author>The Tribe</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:37:11</itunes:duration>
+	</item>
+		<item>
+		<title>Cambodia: &#8220;Witches Coven&#8221;</title>
+		<link>http://survivorpodcast.com/cambodia-witches-coven/</link>
+		<comments>http://survivorpodcast.com/cambodia-witches-coven/#respond</comments>
+		<pubDate>Mon, 23 Nov 2015 01:51:01 +0000</pubDate>
+		<dc:creator><![CDATA[The Tribe]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://survivorpodcast.com/?p=787</guid>
+		<description><![CDATA[This week the Tribe is joined by Haley Strong (@hstrong_) and Emma (@purplerockemma) to discuss episode 9 of Survivor Cambodia: Second Chance.]]></description>
+				<content:encoded><![CDATA[<p>This week the Tribe is joined by Haley Strong (<a href="https://twitter.com/hstrong_">@hstrong_</a>) and Emma (<a href="https://twitter.com/purplerockemma">@purplerockemma</a>) to discuss episode 9 of Survivor Cambodia: Second Chance.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://survivorpodcast.com/cambodia-witches-coven/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia09.mp3" length="71413214" type="audio/mpeg" />
+		<itunes:subtitle>This week the Tribe is joined by Haley Strong (@hstrong_) and Emma (@purplerockemma) to discuss episode 9 of Survivor Cambodia: Second Chance.</itunes:subtitle>
+		<itunes:summary>This week the Tribe is joined by Haley Strong (&lt;a href=&quot;https://twitter.com/hstrong_&quot;&gt;@hstrong_&lt;/a&gt;) and Emma (&lt;a href=&quot;https://twitter.com/purplerockemma&quot;&gt;@purplerockemma&lt;/a&gt;) to discuss episode 9 of Survivor Cambodia: Second Chance.</itunes:summary>
+		<itunes:author>The Tribe</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:39:03</itunes:duration>
+	</item>
+		<item>
+		<title>Cambodia: &#8220;You Call, We&#8217;ll Haul&#8221;</title>
+		<link>http://survivorpodcast.com/cambodia-you-call-well-haul/</link>
+		<comments>http://survivorpodcast.com/cambodia-you-call-well-haul/#respond</comments>
+		<pubDate>Sat, 14 Nov 2015 15:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[The Tribe]]></dc:creator>
+				<category><![CDATA[Episodes]]></category>
+
+		<guid isPermaLink="false">http://survivorpodcast.com/?p=785</guid>
+		<description><![CDATA[The Tribe is back to discuss the eight episode of Survivor Cambodia: Second Chance with special guest Mike Bloom (@AMikeBloomType). They also discuss finger action&#8230; Hoo hoo&#8230;]]></description>
+				<content:encoded><![CDATA[<p>The Tribe is back to discuss the eight episode of Survivor Cambodia: Second Chance with special guest Mike Bloom (@AMikeBloomType). They also discuss finger action&#8230; Hoo hoo&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://survivorpodcast.com/cambodia-you-call-well-haul/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia08.mp3" length="48940904" type="audio/mpeg" />
+		<itunes:subtitle>The Tribe is back to discuss the eight episode of Survivor Cambodia: Second Chance with special guest Mike Bloom (@AMikeBloomType). They also discuss finger action... Hoo hoo...</itunes:subtitle>
+		<itunes:summary>The Tribe is back to discuss the eight episode of Survivor Cambodia: Second Chance with special guest Mike Bloom (@AMikeBloomType). They also discuss finger action... Hoo hoo...</itunes:summary>
+		<itunes:author>The Tribe</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:41:45</itunes:duration>
+	</item>
+		<item>
 		<title>Cambodia: &#8220;Playing to Win&#8221;</title>
 		<link>http://survivorpodcast.com/cambodia-playing-to-win/</link>
-		<comments>http://survivorpodcast.com/cambodia-playing-to-win/#comments</comments>
+		<comments>http://survivorpodcast.com/cambodia-playing-to-win/#respond</comments>
 		<pubDate>Sun, 08 Nov 2015 04:36:01 +0000</pubDate>
 		<dc:creator><![CDATA[The Tribe]]></dc:creator>
 				<category><![CDATA[Episodes]]></category>
@@ -53,7 +201,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/cambodia-playing-to-win/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/cambodia07.mp3" length="124068427" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia07.mp3" length="124068427" type="audio/mpeg" />
 		<itunes:subtitle>This week The Tribe is joined by Jeremiah Panhorst (@jpanhorst) to discuss the merge episode of Survivor Cambodia.</itunes:subtitle>
 		<itunes:summary>This week The Tribe is joined by Jeremiah Panhorst (@jpanhorst) to discuss the merge episode of Survivor Cambodia.</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -63,7 +211,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 		<item>
 		<title>Cambodia: &#8220;Bunking with the Devil&#8221;</title>
 		<link>http://survivorpodcast.com/cambodia-bunking-with-the-devil/</link>
-		<comments>http://survivorpodcast.com/cambodia-bunking-with-the-devil/#comments</comments>
+		<comments>http://survivorpodcast.com/cambodia-bunking-with-the-devil/#respond</comments>
 		<pubDate>Fri, 30 Oct 2015 21:21:00 +0000</pubDate>
 		<dc:creator><![CDATA[The Tribe]]></dc:creator>
 				<category><![CDATA[Episodes]]></category>
@@ -74,7 +222,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/cambodia-bunking-with-the-devil/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/cambodia06.mp3" length="59073698" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia06.mp3" length="59073698" type="audio/mpeg" />
 		<itunes:subtitle>This week the Tribe is joined by Rats, Snakes and Goats&#039; Scott Churnoff (@scottchurnoff) to discuss the sixth episode of Survivor Cambodia: Second Chance.</itunes:subtitle>
 		<itunes:summary>This week the Tribe is joined by Rats, Snakes and Goats&#039; Scott Churnoff (@scottchurnoff) to discuss the sixth episode of Survivor Cambodia: Second Chance.</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -95,7 +243,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/cambodia-a-snake-in-the-grass/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/cambodia05.mp3" length="65484647" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia05.mp3" length="65484647" type="audio/mpeg" />
 		<itunes:subtitle>The Tribe returns for another week of Survivor: Cambodia!</itunes:subtitle>
 		<itunes:summary>The Tribe returns for another week of Survivor: Cambodia!</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -116,7 +264,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/the-survivor-historians-here-is-a-cook-islands-podcast/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/historians41.mp3" length="88107195" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/historians41.mp3" length="88107195" type="audio/mpeg" />
 		<itunes:subtitle>They can&#039;t avoid it any longer.  The Survivor Historians tackle part one of Survivor: Cook Islands!</itunes:subtitle>
 		<itunes:summary>They can&#039;t avoid it any longer.  The Survivor Historians tackle part one of Survivor: Cook Islands!</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -137,7 +285,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/cambodia-wheres-the-beef/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/cambodia04.mp3" length="39539121" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia04.mp3" length="39539121" type="audio/mpeg" />
 		<itunes:subtitle>This week the Tribe welcomes Ryan Elder (@RyanElderMusic) from Snakes, Rats and Goats (https://srgcast.wordpress.com/), Rick and Morty(on TV!!!), and creator of The Tribe&#039;s new theme song to the show to discuss episode four for Survivor Cambodia.</itunes:subtitle>
 		<itunes:summary>This week the Tribe welcomes Ryan Elder (@RyanElderMusic) from &lt;a href=&quot;https://srgcast.wordpress.com/&quot;&gt;Snakes, Rats and Goats&lt;/a&gt; (https://srgcast.wordpress.com/), Rick and Morty(on TV!!!), and creator of The Tribe&#039;s new theme song to the show to discuss episode four for Survivor Cambodia.</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -158,7 +306,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/cambodia-we-got-a-rat/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/cambodia03.mp3" length="75816459" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia03.mp3" length="75816459" type="audio/mpeg" />
 		<itunes:subtitle>The Tribe returns once again to cover the newest episode of Survivor: Cambodia!</itunes:subtitle>
 		<itunes:summary>The Tribe returns once again to cover the newest episode of Survivor: Cambodia!</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -179,7 +327,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/cambodia-survivor-macgyver-with-teresa-t-bird-cooper/feed/</wfw:commentRss>
 		<slash:comments>3</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/cambodia02.mp3" length="53319966" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia02.mp3" length="53319966" type="audio/mpeg" />
 		<itunes:subtitle>The Tribe is joined by Teresa T-Bird Cooper to discuss the second episode of Survivor Cambodia.</itunes:subtitle>
 		<itunes:summary>The Tribe is joined by Teresa T-Bird Cooper to discuss the second episode of Survivor Cambodia.</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -189,13 +337,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 		<item>
 		<title>Cambodia: &#8220;A Second Chance&#8221;</title>
 		<link>http://survivorpodcast.com/cambodia-a-second-chance/</link>
-		<comments>http://survivorpodcast.com/cambodia-a-second-chance/#comments</comments>
+		<comments>http://survivorpodcast.com/cambodia-a-second-chance/#respond</comments>
 		<pubDate>Sun, 27 Sep 2015 09:45:32 +0000</pubDate>
 		<dc:creator><![CDATA[The Tribe]]></dc:creator>
 				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[survivor]]></category>
 		<category><![CDATA[cambodia]]></category>
 		<category><![CDATA[second chances]]></category>
-		<category><![CDATA[survivor]]></category>
 
 		<guid isPermaLink="false">http://survivorpodcast.com/?p=762</guid>
 		<description><![CDATA[The Tribe is back to discuss the Premiere of Survivor Cambodia: Second Chances.]]></description>
@@ -203,7 +351,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/cambodia-a-second-chance/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/cambodia01.mp3" length="84296911" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodia01.mp3" length="84296911" type="audio/mpeg" />
 		<itunes:subtitle>The Tribe is back to discuss the Premiere of Survivor Cambodia: Second Chances.</itunes:subtitle>
 		<itunes:summary>The Tribe is back to discuss the Premiere of Survivor Cambodia: Second Chances.</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -224,7 +372,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/cambodia-second-chance-preview-show/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/cambodiapreviewshow.mp3" length="105455027" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/cambodiapreviewshow.mp3" length="105455027" type="audio/mpeg" />
 		<itunes:subtitle>The Tribe is back to preview the brand new season of Survivor, run through the castaways, play Merge or No Merge, and unveil their overall picks for this season&#039;s fantasy league!</itunes:subtitle>
 		<itunes:summary>The Tribe is back to preview the brand new season of Survivor, run through the castaways, play Merge or No Merge, and unveil their overall picks for this season&#039;s fantasy league!</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -246,7 +394,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/the-sorting-buff-cambodia/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-<enclosure url="http://survivorpodcast.com/podcasts/cambodiasortingbuff.mp3" length="72822369" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/survivorpodcast.com/podcasts/cambodiasortingbuff.mp3" length="72822369" type="audio/mpeg" />
 		<itunes:subtitle>Dearest Muggles, - The Wizards of The Tribe, bust out their wands and pull the Survivor Sorting Buff out of storage to determine which Hogwarts House the cast of Survivor Cambodia belong.... We solemnly swear we are up to no good...</itunes:subtitle>
 		<itunes:summary>Dearest Muggles,
 
@@ -258,7 +406,7 @@ The Wizards of The Tribe, bust out their wands and pull the Survivor Sorting Buf
 		<item>
 		<title>Survivor Crazy Mountains Retrospective Part 2</title>
 		<link>http://survivorpodcast.com/survivor-crazy-mountains-retrospective-part-2/</link>
-		<comments>http://survivorpodcast.com/survivor-crazy-mountains-retrospective-part-2/#comments</comments>
+		<comments>http://survivorpodcast.com/survivor-crazy-mountains-retrospective-part-2/#respond</comments>
 		<pubDate>Tue, 01 Sep 2015 15:37:09 +0000</pubDate>
 		<dc:creator><![CDATA[The Tribe]]></dc:creator>
 				<category><![CDATA[Episodes]]></category>
@@ -269,7 +417,7 @@ The Wizards of The Tribe, bust out their wands and pull the Survivor Sorting Buf
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/survivor-crazy-mountains-retrospective-part-2/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://survivorpodcast.com/podcasts/CRAZYMOUNTAINS02.mp3" length="86164287" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/survivorpodcast.com/podcasts/CRAZYMOUNTAINS02.mp3" length="86164287" type="audio/mpeg" />
 		<itunes:subtitle>The Tribe brings you part 2 of a very special retrospective of Heiko Reality&#039;s Survivor: Crazy Mountains!  Tim is joined by Paul, Shandy, Martha and Daron for an in depth look at this Montanan all-star season of Survivor.</itunes:subtitle>
 		<itunes:summary>The Tribe brings you part 2 of a very special retrospective of Heiko Reality&#039;s Survivor: Crazy Mountains!  Tim is joined by Paul, Shandy, Martha and Daron for an in depth look at this Montanan all-star season of Survivor.  Also if you haven&#039;t seen it yet, this is the second part of an indepth spoiler filled talk about it, so please check out this season on YouTube: https://www.youtube.com/user/Heiko401 and make sure to watch this fan made tribute to Shandy: http://youtu.be/ESEFTJzOo-U</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -279,7 +427,7 @@ The Wizards of The Tribe, bust out their wands and pull the Survivor Sorting Buf
 		<item>
 		<title>The Survivor Historians: &#8220;Innocent/Not That Innocent&#8221;</title>
 		<link>http://survivorpodcast.com/the-survivor-historians-innocentnot-that-innocent/</link>
-		<comments>http://survivorpodcast.com/the-survivor-historians-innocentnot-that-innocent/#comments</comments>
+		<comments>http://survivorpodcast.com/the-survivor-historians-innocentnot-that-innocent/#respond</comments>
 		<pubDate>Wed, 26 Aug 2015 07:36:32 +0000</pubDate>
 		<dc:creator><![CDATA[The Tribe]]></dc:creator>
 				<category><![CDATA[Episodes]]></category>
@@ -290,7 +438,7 @@ The Wizards of The Tribe, bust out their wands and pull the Survivor Sorting Buf
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/the-survivor-historians-innocentnot-that-innocent/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/historians40.mp3" length="96155554" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/www.survivorpodcast.com/podcasts/historians40.mp3" length="96155554" type="audio/mpeg" />
 		<itunes:subtitle>The Survivor Historians are back with the final part of their series on Survivor: Exile Island!</itunes:subtitle>
 		<itunes:summary>The Survivor Historians are back with the final part of their series on Survivor: Exile Island!</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
@@ -299,7 +447,7 @@ The Wizards of The Tribe, bust out their wands and pull the Survivor Sorting Buf
 		<item>
 		<title>Survivor Crazy Mountains Retrospective Part 1</title>
 		<link>http://survivorpodcast.com/survivor-crazy-mountains-retrospective-part-1/</link>
-		<comments>http://survivorpodcast.com/survivor-crazy-mountains-retrospective-part-1/#comments</comments>
+		<comments>http://survivorpodcast.com/survivor-crazy-mountains-retrospective-part-1/#respond</comments>
 		<pubDate>Sat, 22 Aug 2015 00:20:12 +0000</pubDate>
 		<dc:creator><![CDATA[The Tribe]]></dc:creator>
 				<category><![CDATA[Episodes]]></category>
@@ -310,159 +458,12 @@ The Wizards of The Tribe, bust out their wands and pull the Survivor Sorting Buf
 ]]></content:encoded>
 			<wfw:commentRss>http://survivorpodcast.com/survivor-crazy-mountains-retrospective-part-1/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://survivorpodcast.com/podcasts/CRAZYMOUNTAINS01.mp3" length="65305978" type="audio/mpeg" />
+<enclosure url="http://media.blubrry.com/thetribe/survivorpodcast.com/podcasts/CRAZYMOUNTAINS01.mp3" length="65305978" type="audio/mpeg" />
 		<itunes:subtitle>The Tribe brings you a very special retrospective of Heiko Reality&#039;s Survivor: Crazy Mountains!  Tim is joined by Paul, Shandy, Martha and Daron for an in depth look at this Montanan all-star season of Survivor.  Also if you haven&#039;t seen it yet,</itunes:subtitle>
 		<itunes:summary>The Tribe brings you a very special retrospective of Heiko Reality&#039;s Survivor: Crazy Mountains!  Tim is joined by Paul, Shandy, Martha and Daron for an in depth look at this Montanan all-star season of Survivor.  Also if you haven&#039;t seen it yet, check out this season on YouTube: https://www.youtube.com/user/Heiko401 and make sure to watch this fan made tribute to Shandy: http://youtu.be/ESEFTJzOo-U !Bubble Butt!</itunes:summary>
 		<itunes:author>The Tribe</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>2:15:13</itunes:duration>
-	</item>
-		<item>
-		<title>50 Shades of The Tribe</title>
-		<link>http://survivorpodcast.com/50-shades-of-the-tribe/</link>
-		<comments>http://survivorpodcast.com/50-shades-of-the-tribe/#comments</comments>
-		<pubDate>Mon, 06 Jul 2015 22:49:58 +0000</pubDate>
-		<dc:creator><![CDATA[The Tribe]]></dc:creator>
-				<category><![CDATA[Episodes]]></category>
-
-		<guid isPermaLink="false">http://survivorpodcast.com/?p=747</guid>
-		<description><![CDATA[NSFW!!! Today on 50 Shades of The Tribe, Shandy, Tim and Colleen strap on the leather and bust out the safe words to bring you this off-season podcast!  They dig deep to discuss the book and movie 50 Shades of Grey.  They are also joined by several subs.. erm&#8230; guests.  AGAIN! NSFW!!!]]></description>
-				<content:encoded><![CDATA[<p>NSFW!!! Today on 50 Shades of The Tribe, Shandy, Tim and Colleen strap on the leather and bust out the safe words to bring you this off-season podcast!  They dig deep to discuss the book and movie 50 Shades of Grey.  They are also joined by several subs.. erm&#8230; guests.  AGAIN! NSFW!!!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://survivorpodcast.com/50-shades-of-the-tribe/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/50shadesoftheTribe.mp3" length="61763065" type="audio/mpeg" />
-		<itunes:subtitle>NSFW!!! Today on 50 Shades of The Tribe, Shandy, Tim and Colleen strap on the leather and bust out the safe words to bring you this off-season podcast!  They dig deep to discuss the book and movie 50 Shades of Grey.</itunes:subtitle>
-		<itunes:summary>NSFW!!! Today on 50 Shades of The Tribe, Shandy, Tim and Colleen strap on the leather and bust out the safe words to bring you this off-season podcast!  They dig deep to discuss the book and movie 50 Shades of Grey.  They are also joined by several subs.. erm... guests.  AGAIN! NSFW!!!</itunes:summary>
-		<itunes:author>The Tribe</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>2:08:28</itunes:duration>
-	</item>
-		<item>
-		<title>When It Was Worth Playing For with Mario Lanza</title>
-		<link>http://survivorpodcast.com/when-it-was-worth-playing-for-with-mario-lanza/</link>
-		<comments>http://survivorpodcast.com/when-it-was-worth-playing-for-with-mario-lanza/#comments</comments>
-		<pubDate>Mon, 22 Jun 2015 19:21:28 +0000</pubDate>
-		<dc:creator><![CDATA[The Tribe]]></dc:creator>
-				<category><![CDATA[Episodes]]></category>
-
-		<guid isPermaLink="false">http://survivorpodcast.com/?p=744</guid>
-		<description><![CDATA[The Tribe sits down for a special interview with Survivor Historian and Author Mario Lanza about his new book &#8220;When It Was Worth Playing For.&#8221;  Please purchase your copy here: funny115.com or Amazon.com]]></description>
-				<content:encoded><![CDATA[<p>The Tribe sits down for a special interview with Survivor Historian and Author Mario Lanza about his new book &#8220;When It Was Worth Playing For.&#8221;  Please purchase your copy here: funny115.com or Amazon.com</p>
-]]></content:encoded>
-			<wfw:commentRss>http://survivorpodcast.com/when-it-was-worth-playing-for-with-mario-lanza/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://survivorpodcast.com/podcasts/MARIOBOOK.mp3" length="53827684" type="audio/mpeg" />
-		<itunes:subtitle>The Tribe sits down for a special interview with Survivor Historian and Author Mario Lanza about his new book &quot;When It Was Worth Playing For.&quot;  Please purchase your copy here: funny115.com or Amazon.com</itunes:subtitle>
-		<itunes:summary>The Tribe sits down for a special interview with Survivor Historian and Author Mario Lanza about his new book &quot;When It Was Worth Playing For.&quot;  Please purchase your copy here: funny115.com or Amazon.com</itunes:summary>
-		<itunes:author>The Tribe</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>55:58</itunes:duration>
-	</item>
-		<item>
-		<title>The Survivor Historians: &#8220;Pooper/Not A Pooper&#8221;</title>
-		<link>http://survivorpodcast.com/the-survivor-historians-poopernot-a-pooper/</link>
-		<comments>http://survivorpodcast.com/the-survivor-historians-poopernot-a-pooper/#comments</comments>
-		<pubDate>Fri, 05 Jun 2015 00:42:26 +0000</pubDate>
-		<dc:creator><![CDATA[The Tribe]]></dc:creator>
-				<category><![CDATA[Episodes]]></category>
-
-		<guid isPermaLink="false">http://survivorpodcast.com/?p=741</guid>
-		<description><![CDATA[The Survivor Historians return with the second part of their coverage of Survivor: Exile Island!]]></description>
-				<content:encoded><![CDATA[<p>The Survivor Historians return with the second part of their coverage of Survivor: Exile Island!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://survivorpodcast.com/the-survivor-historians-poopernot-a-pooper/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/historians39.mp3" length="54059952" type="audio/mpeg" />
-		<itunes:subtitle>The Survivor Historians return with the second part of their coverage of Survivor: Exile Island!</itunes:subtitle>
-		<itunes:summary>The Survivor Historians return with the second part of their coverage of Survivor: Exile Island!</itunes:summary>
-		<itunes:author>The Tribe</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:52:37</itunes:duration>
-	</item>
-		<item>
-		<title>Worlds Apart: &#8220;It&#8217;s A Fickle, Fickle Game&#8221;</title>
-		<link>http://survivorpodcast.com/worlds-apart-its-a-fickle-fickle-game/</link>
-		<comments>http://survivorpodcast.com/worlds-apart-its-a-fickle-fickle-game/#comments</comments>
-		<pubDate>Wed, 27 May 2015 03:50:41 +0000</pubDate>
-		<dc:creator><![CDATA[The Tribe]]></dc:creator>
-				<category><![CDATA[Episodes]]></category>
-
-		<guid isPermaLink="false">http://survivorpodcast.com/?p=737</guid>
-		<description><![CDATA[The Tribe is back to wrap-up Survivor: Worlds Apart!]]></description>
-				<content:encoded><![CDATA[<p>The Tribe is back to wrap-up Survivor: Worlds Apart!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://survivorpodcast.com/worlds-apart-its-a-fickle-fickle-game/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/worldsapart13.mp3" length="101888439" type="audio/mpeg" />
-		<itunes:subtitle>The Tribe is back to wrap-up Survivor: Worlds Apart!</itunes:subtitle>
-		<itunes:summary>The Tribe is back to wrap-up Survivor: Worlds Apart!</itunes:summary>
-		<itunes:author>The Tribe</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:46:02</itunes:duration>
-	</item>
-		<item>
-		<title>The Survivor Historians: &#8220;Smasher/Not a Smasher&#8221;</title>
-		<link>http://survivorpodcast.com/the-survivor-historians-smashernot-a-smasher/</link>
-		<comments>http://survivorpodcast.com/the-survivor-historians-smashernot-a-smasher/#comments</comments>
-		<pubDate>Thu, 21 May 2015 18:51:33 +0000</pubDate>
-		<dc:creator><![CDATA[The Tribe]]></dc:creator>
-				<category><![CDATA[Episodes]]></category>
-
-		<guid isPermaLink="false">http://survivorpodcast.com/?p=735</guid>
-		<description><![CDATA[The Survivor Historians return with the first part of their coverage of Survivor: Exile Island!]]></description>
-				<content:encoded><![CDATA[<p>The Survivor Historians return with the first part of their coverage of Survivor: Exile Island!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://survivorpodcast.com/the-survivor-historians-smashernot-a-smasher/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/historians38.mp3" length="81562147" type="audio/mpeg" />
-		<itunes:subtitle>The Survivor Historians return with the first part of their coverage of Survivor: Exile Island!</itunes:subtitle>
-		<itunes:summary>The Survivor Historians return with the first part of their coverage of Survivor: Exile Island!</itunes:summary>
-		<itunes:author>The Tribe</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>2:49:55</itunes:duration>
-	</item>
-		<item>
-		<title>Worlds Apart: &#8220;My Word Is My Bond&#8221;</title>
-		<link>http://survivorpodcast.com/worlds-apart-my-word-is-my-bond/</link>
-		<comments>http://survivorpodcast.com/worlds-apart-my-word-is-my-bond/#comments</comments>
-		<pubDate>Wed, 20 May 2015 03:29:53 +0000</pubDate>
-		<dc:creator><![CDATA[The Tribe]]></dc:creator>
-				<category><![CDATA[Episodes]]></category>
-
-		<guid isPermaLink="false">http://survivorpodcast.com/?p=733</guid>
-		<description><![CDATA[The Tribe returns for the penultimate episode of Survivor: Worlds Apart!]]></description>
-				<content:encoded><![CDATA[<p>The Tribe returns for the penultimate episode of Survivor: Worlds Apart!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://survivorpodcast.com/worlds-apart-my-word-is-my-bond/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/worldsapart12.mp3" length="116561329" type="audio/mpeg" />
-		<itunes:subtitle>The Tribe returns for the penultimate episode of Survivor: Worlds Apart!</itunes:subtitle>
-		<itunes:summary>The Tribe returns for the penultimate episode of Survivor: Worlds Apart!</itunes:summary>
-		<itunes:author>The Tribe</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>2:01:19</itunes:duration>
-	</item>
-		<item>
-		<title>Survivor Second Chance: Kelly Wiglesworth</title>
-		<link>http://survivorpodcast.com/survivor-second-chance-kelly-wiglesworth/</link>
-		<comments>http://survivorpodcast.com/survivor-second-chance-kelly-wiglesworth/#comments</comments>
-		<pubDate>Sat, 16 May 2015 03:39:14 +0000</pubDate>
-		<dc:creator><![CDATA[The Tribe]]></dc:creator>
-				<category><![CDATA[Episodes]]></category>
-
-		<guid isPermaLink="false">http://survivorpodcast.com/?p=731</guid>
-		<description><![CDATA[The Tribe is joined by Survivor: Borneo&#8217;s Kelly Wiglesworth.]]></description>
-				<content:encoded><![CDATA[<p>The Tribe is joined by Survivor: Borneo&#8217;s Kelly Wiglesworth.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://survivorpodcast.com/survivor-second-chance-kelly-wiglesworth/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://www.survivorpodcast.com/podcasts/secondchancesint16.mp3" length="9718826" type="audio/mpeg" />
-		<itunes:subtitle>The Tribe is joined by Survivor: Borneo&#039;s Kelly Wiglesworth.</itunes:subtitle>
-		<itunes:summary>The Tribe is joined by Survivor: Borneo&#039;s Kelly Wiglesworth.</itunes:summary>
-		<itunes:author>The Tribe</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>10:01</itunes:duration>
 	</item>
 	</channel>
 </rss>

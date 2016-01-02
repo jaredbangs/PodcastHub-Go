@@ -1,21 +1,1334 @@
-<br />
-<b>Deprecated</b>:  Assigning the return value of new by reference is deprecated in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php</b> on line <b>468</b><br />
-<br />
-<b>Deprecated</b>:  Assigning the return value of new by reference is deprecated in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php</b> on line <b>483</b><br />
-<br />
-<b>Deprecated</b>:  Assigning the return value of new by reference is deprecated in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php</b> on line <b>490</b><br />
-<br />
-<b>Deprecated</b>:  Assigning the return value of new by reference is deprecated in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php</b> on line <b>526</b><br />
-<br />
-<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-settings.php:468) in <b>/nfs/c04/h06/mnt/60388/domains/jayandjack.com/html/show/wp-includes/functions.php</b> on line <b>2030</b><br />
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" >
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Database Error</title>
-
-</head>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4547020-2";
+urchinTracker();
+</script>  <title>Hackermedia - is on the air!</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  
+  <!--this is the live bookmark, it has to have the absolute value-->
+<!--  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.hackermedia.org/rss/hackermedia.php" />-->
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="generator" content="Hand Coded Goodness" />
+ </head>
 <body>
-	<h1>Error establishing a database connection</h1>
-</body>
+<div class="frame">
+<div id="leftmenubar">
+<div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://hackerpublicradio.org">Hacker Public Radio</a></b></div>
+<ul>
+<a href="http://apple.hackermedia.org"><img src="images/apple.gif"></a>
+<a href="http://bsd.hackermedia.org"><img src="images/bsd.gif"></a>
+<a href="http://comedy.hackermedia.org"><img src="images/comedy.gif"></a>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://gaming.hackermedia.org"><img src="images/gaming.gif"></a>
+<a href="http://modding.hackermedia.org"><img src="images/modding.gif"></a>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://phreaking.hackermedia.org"><img src="images/phreaking.gif"></a>
+<a href="http://retro.hackermedia.org"><img src="images/retro.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<a href="http://voip.hackermedia.org"><img src="images/voip.gif"></a>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://hackerpublicradio.org/eps/hpr1935.mp3"><img src="images/download.gif" /></a><a href="http://hackerpublicradio.org/eps/hpr1935.mp3">HPR1935: Quick Bashpodder Fix</a></li>
+<li><a href="http://hackerpublicradio.org/eps/hpr1934.mp3"><img src="images/download.gif" /></a><a href="http://hackerpublicradio.org/eps/hpr1934.mp3">HPR1934: Experiencing the Meegopad T-02  Part two</a></li>
+<li><a href="http://hackerpublicradio.org/eps/hpr1933.mp3"><img src="images/download.gif" /></a><a href="http://hackerpublicradio.org/eps/hpr1933.mp3">HPR1933: HPR AudioBookClub 11 Street Candles</a></li>
+<li><a href="http://hackerpublicradio.org/eps/hpr1932.mp3"><img src="images/download.gif" /></a><a href="http://hackerpublicradio.org/eps/hpr1932.mp3">HPR1932: Klaatu interviews Grafana</a></li>
+<li><a href="http://hackerpublicradio.org/eps/hpr1931.mp3"><img src="images/download.gif" /></a><a href="http://hackerpublicradio.org/eps/hpr1931.mp3">HPR1931: Atomic force microscopy</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://hackerpublicradio.org"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://hackerpublicradio.org/hpr_rss.php"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://pauldotcom.com">Paul Dot Com</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-338.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-338.mp3">Interview with Team Onapsis, Schuyler Towne on X-Locks Project, Drunken Security News - Episode 338 - July 11, 2013</a></li>
+<li><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-337.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-337.mp3">Interview with Matt Bergin, Kati Rodzon & Mike Murray's Social Engineering War Stories, Drunken Security News - Episode 337 - July 4, 2013</a></li>
+<li><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-336-Part2.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-336-Part2.mp3">Liam Randall & Seth Hall on Bro IDS, Drunken Security News - Episode 336 - June 20, 2013</a></li>
+<li><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-336-Part1.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-336-Part1.mp3">Interview with Pete Lindstrom from Spire Security - Episode 336 - June 20, 2013</a></li>
+<li><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-335-Part2.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/pauldotcom/PaulDotCom-335-Part2.mp3">Interview with Bill Stearns, Phil Hagen on logstash - Episode 335 - June 13, 2013</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://pauldotcom.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://pauldotcom.com/podcast/psw.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://thecommandline.net/">Command Line</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/cmdln/~5/pI4pOr3Ub3g/cmdln.net_2011-06-19.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/cmdln/~5/pI4pOr3Ub3g/cmdln.net_2011-06-19.mp3">TCLP 2011-06-19 News (Comment Line 240-949-2638)</a></li>
+<li><a href="http://feedproxy.google.com/~r/cmdln/~5/XgLVj1e9wLo/cmdln.net_2011-06-15.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/cmdln/~5/XgLVj1e9wLo/cmdln.net_2011-06-15.mp3">TCLP 2011-06-15 Inner Chapter: Presence (Comment Line 240-949-2638)</a></li>
+<li><a href="http://feedproxy.google.com/~r/cmdln/~5/aVzuTXjMeso/cmdln.net_2011-06-12.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/cmdln/~5/aVzuTXjMeso/cmdln.net_2011-06-12.mp3">TCLP 2011-06-12 News (Comment Line 240-949-2638)</a></li>
+<li><a href="http://feedproxy.google.com/~r/cmdln/~5/YGjSnh8zxqo/cmdln.net_2011-06-01.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/cmdln/~5/YGjSnh8zxqo/cmdln.net_2011-06-01.mp3">TCLP 2011-06-01 Copyright Panel at Balticon 45 (Comment Line 240-949-2638)</a></li>
+<li><a href="http://feedproxy.google.com/~r/cmdln/~5/OG1IuGiOfNY/cmdln.net_2011-05-22.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/cmdln/~5/OG1IuGiOfNY/cmdln.net_2011-05-22.mp3">TCLP 2011-05-22 News (Comment Line 240-949-2638)</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://thecommandline.net/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/cmdln"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://phonelosers.org">Phone Losers</a></b></div>
+<ul>
+<a href="http://comedy.hackermedia.org"><img src="images/comedy.gif"></a>
+<a href="http://phreaking.hackermedia.org"><img src="images/phreaking.gif"></a>
+<hr /><li><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-23_snow_plow_show_royco_construction_inc_LQ.mp3"><img src="images/download.gif" /></a><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-23_snow_plow_show_royco_construction_inc_LQ.mp3">Royco Construction Inc.</a></li>
+<li><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-19_snow_plow_show_ugly_christmas_trees_LQ.mp3"><img src="images/download.gif" /></a><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-19_snow_plow_show_ugly_christmas_trees_LQ.mp3">Ugly Christmas Trees</a></li>
+<li><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-14_snow_plow_show_roy_gets_terminated_LQ.mp3"><img src="images/download.gif" /></a><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-14_snow_plow_show_roy_gets_terminated_LQ.mp3">Roy Gets Terminated</a></li>
+<li><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-11_snow_plow_show_tenants_from_airbnb_LQ.mp3"><img src="images/download.gif" /></a><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-11_snow_plow_show_tenants_from_airbnb_LQ.mp3">Tenants From Airbnb</a></li>
+<li><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-06_snow_plow_show_you_are_the_one_LQ.mp3"><img src="images/download.gif" /></a><a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-06_snow_plow_show_you_are_the_one_LQ.mp3">You Are The One</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://phonelosers.org"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://phonelosers.org/rss.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://lottalinuxlinks.com/">Lotta Linux Links</a></b></div>
+<ul>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_135.ogg"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_135.ogg">lottalinuxlinks.com linux user podcast 135 - ogg vorbis</a></li>
+<li><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_134.ogg"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_134.ogg">lottalinuxlinks.com linux user podcast 134 - ogg vorbis</a></li>
+<li><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_133.ogg"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_133.ogg">lottalinuxlinks.com linux user podcast 133 - ogg vorbis</a></li>
+<li><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_132.ogg"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_132.ogg">lottalinuxlinks.com linux user podcast 132 - ogg vorbis</a></li>
+<li><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_131.ogg"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/dsyates/lottalinuxlinks_131.ogg">lottalinuxlinks.com linux user podcast 131 - ogg vorbis</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://lottalinuxlinks.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://lottalinuxlinks.com/podcast/ogg.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.hwhq.com">GameRadio</a></b></div>
+<ul>
+<a href="http://gaming.hackermedia.org"><img src="images/gaming.gif"></a>
+<hr /><li><a href="http://www.hwhq.com/"><img src="images/download.gif" /></a><a href="http://www.hwhq.com/">GAMERadio 148</a></li>
+<li><a href="http://www.hwhq.com/GAMER/GAMER_181.mp3"><img src="images/download.gif" /></a><a href="http://www.hwhq.com/GAMER/GAMER_181.mp3">GAMERadio 181</a></li>
+<li><a href="http://www.hwhq.com/GAMER/GAMER_180.mp3"><img src="images/download.gif" /></a><a href="http://www.hwhq.com/GAMER/GAMER_180.mp3">GAMERadio 180</a></li>
+<li><a href="http://www.hwhq.com/GAMER/GAMER_182.mp3"><img src="images/download.gif" /></a><a href="http://www.hwhq.com/GAMER/GAMER_182.mp3">GAMERadio 182</a></li>
+<li><a href="http://www.hwhq.com/GAMER/GAMER_183.mp3"><img src="images/download.gif" /></a><a href="http://www.hwhq.com/GAMER/GAMER_183.mp3">GAMERadio 183</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.hwhq.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.hwhq.com/rss.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.agcpodcast.info/">All Games Considered</a></b></div>
+<ul>
+<a href="http://gaming.hackermedia.org"><img src="images/gaming.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/21n-NyUEIeY/agcnews110622-64k.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/21n-NyUEIeY/agcnews110622-64k.mp3">AGC News June 22nd 2011 (26:40)</a></li>
+<li><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/RXv4AsbILQ8/20110615AGCR-64k.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/RXv4AsbILQ8/20110615AGCR-64k.mp3">AGC Review 6 (Dungeon Crawl Classics Adventure Starter and You Geek, They Grok) (20:35)</a></li>
+<li><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/mMge49x9b7A/agcnews110613-64k.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/mMge49x9b7A/agcnews110613-64k.mp3">AGC News June 13th 2011 (42:25)</a></li>
+<li><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/_PkD_fnxzEY/20110603RPGB-64k.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/_PkD_fnxzEY/20110603RPGB-64k.mp3">RPG Buffet 17 (Lord of the Rings Role Playing Game) (20:28)</a></li>
+<li><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/1_ctXS4dwpM/20110524AGC-64k.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/AllGamesConsidered/~5/1_ctXS4dwpM/20110524AGC-64k.mp3">AGC 150 May 24th 2011 (Lamentations of Vornheim) (58:50)</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.agcpodcast.info/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/AllGamesConsidered"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.linuxactionshow.com">Linux Action Show</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/rxGo9SncxEo/Jupiterbroadcasting-LiveUSBDriveLASS17e08941.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/rxGo9SncxEo/Jupiterbroadcasting-LiveUSBDriveLASS17e08941.mp3">Live USB Drive | LAS | s17e08</a></li>
+<li><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/Y3jhcBTncow/Jupiterbroadcasting-AROSBroadwayInDepthLASS17e07624.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/Y3jhcBTncow/Jupiterbroadcasting-AROSBroadwayInDepthLASS17e07624.mp3">AROS Broadway | LAS | s17e07</a></li>
+<li><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/a9xK2IyJZpg/Jupiterbroadcasting-WebOS30InDepthLASS17e06579.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/a9xK2IyJZpg/Jupiterbroadcasting-WebOS30InDepthLASS17e06579.mp3">WebOS 3.0 In-Depth | LAS | s17e06</a></li>
+<li><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/zkfc2NJVOj0/Jupiterbroadcasting-HaikuReviewLASS17e05610.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/zkfc2NJVOj0/Jupiterbroadcasting-HaikuReviewLASS17e05610.mp3">Haiku Review | LAS | s17e05</a></li>
+<li><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/Xkdz5VFsfVo/Jupiterbroadcasting-AmahServerReviewLASS17e04191.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheLinuxActionShow/~5/Xkdz5VFsfVo/Jupiterbroadcasting-AmahServerReviewLASS17e04191.mp3">Amah Server Review | LAS | s17e04</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.linuxactionshow.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/TheLinuxActionShow"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/video.gif" /> <b><a href="http://www.labrats.tv">Lab Rats</a></b></div>
+<ul>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://modding.hackermedia.org"><img src="images/modding.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://media.libsyn.com/media/labratstv/labrats-209.divx"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/labratstv/labrats-209.divx">Episode 209: Get up to speed with USB 3.0</a></li>
+<li><a href="http://media.libsyn.com/media/labratstv/labrats-208.divx"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/labratstv/labrats-208.divx">Episode 208: Is the iPad worth the wait?</a></li>
+<li><a href="http://media.libsyn.com/media/labratstv/labrats-207.divx"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/labratstv/labrats-207.divx">Episode 207: What's new with Intel?</a></li>
+<li><a href="http://media.libsyn.com/media/labratstv/labrats-206.divx"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/labratstv/labrats-206.divx">Episode 206: Robots at CES 2010</a></li>
+<li><a href="http://media.libsyn.com/media/labratstv/labrats-205.divx"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/labratstv/labrats-205.divx">Episode 205: Weirdest of CES 2010</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.labrats.tv"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.labrats.tv/feedXVID640.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/video.gif" /> <b><a href="http://hak5.org">Hak.5</a></b></div>
+<ul>
+<a href="http://bsd.hackermedia.org"><img src="images/bsd.gif"></a>
+<a href="http://comedy.hackermedia.org"><img src="images/comedy.gif"></a>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://modding.hackermedia.org"><img src="images/modding.gif"></a>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://videos.revision3.com/revision3/web/hak5/haktip/0017/hak5--haktip--0017--wifi-frames--large.h264.mp4"><img src="images/download.gif" /></a><a href="http://videos.revision3.com/revision3/web/hak5/haktip/0017/hak5--haktip--0017--wifi-frames--large.h264.mp4">WiFi 101: 802.11 Frames - HakTip</a></li>
+<li><a href="http://videos.revision3.com/revision3/web/hak5/haktip/0016/hak5--haktip--0016--allaboutthegsbaby--large.h264.mp4"><img src="images/download.gif" /></a><a href="http://videos.revision3.com/revision3/web/hak5/haktip/0016/hak5--haktip--0016--allaboutthegsbaby--large.h264.mp4">Debunking Wireless Generations - a Jason Rant - HakTip</a></li>
+<li><a href="http://videos.revision3.com/revision3/web/hak5/0921/hak5--0921--canhazjib--large.h264.mp4"><img src="images/download.gif" /></a><a href="http://videos.revision3.com/revision3/web/hak5/0921/hak5--0921--canhazjib--large.h264.mp4">Bluetooth Packets & Boot Virtual Machines from USB - Hak5</a></li>
+<li><a href="http://videos.revision3.com/revision3/web/hak5/haktip/0015/hak5--haktip--0015--802dot11n--large.h264.mp4"><img src="images/download.gif" /></a><a href="http://videos.revision3.com/revision3/web/hak5/haktip/0015/hak5--haktip--0015--802dot11n--large.h264.mp4">WiFi 101: 802.11n - HakTip</a></li>
+<li><a href="http://videos.revision3.com/revision3/web/hak5/haktip/0014/hak5--haktip--0014--battle_o_vm--large.h264.mp4"><img src="images/download.gif" /></a><a href="http://videos.revision3.com/revision3/web/hak5/haktip/0014/hak5--haktip--0014--battle_o_vm--large.h264.mp4">Comparing Free Virtual Machine Software - HakTip</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://hak5.org"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://hak5xvid.libsyn.com/rss"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://powerscripting.wordpress.com/">Power Scripting</a></b></div>
+<ul>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/Powerscripting/~5/o7-EZaRogww/PSPodcast-150.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Powerscripting/~5/o7-EZaRogww/PSPodcast-150.mp3">Episode 150 - PowerScripting Podcast - Glenn Sizemore on NetApp and PowerShell</a></li>
+<li><a href="http://feedproxy.google.com/~r/Powerscripting/~5/sIvSZzJ2ItA/PSPodcast-149.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Powerscripting/~5/sIvSZzJ2ItA/PSPodcast-149.mp3">Episode 149 - PowerScripting Podcast - Vittorio Bertocci on Windows Azure Access Control Services</a></li>
+<li><a href="http://feedproxy.google.com/~r/Powerscripting/~5/_BTKVLOZw0E/PSPodcast-148.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Powerscripting/~5/_BTKVLOZw0E/PSPodcast-148.mp3">Episode 148 - PowerScripting Podcast - Matt Hester and Sarah Dutkiewicz</a></li>
+<li><a href="http://feedproxy.google.com/~r/Powerscripting/~5/Ek3CPXPTF70/PSPodcast-PowerGui.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Powerscripting/~5/Ek3CPXPTF70/PSPodcast-PowerGui.mp3">Bonus Episode - PowerScripting Podcast - Hal talking with Kirk Munro about PowerGui 3.0</a></li>
+<li><a href="http://feedproxy.google.com/~r/Powerscripting/~5/ceGDoFDKBmY/PSPodcast-147.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Powerscripting/~5/ceGDoFDKBmY/PSPodcast-147.mp3">Episode 147 - PowerScripting Podcast - Champions of the Scripting Games 2011</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://powerscripting.wordpress.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/powerscripting"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://goinglinux.com/">Going Linux</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://www.archive.org/download/glp141/glp141.mp3"><img src="images/download.gif" /></a><a href="http://www.archive.org/download/glp141/glp141.mp3">Going Linux #141 Install Ubuntu on a Mac </a></li>
+<li><a href="http://www.archive.org/download/glp140/glp140.mp3"><img src="images/download.gif" /></a><a href="http://www.archive.org/download/glp140/glp140.mp3">Going Linux #140 Listener Feedback </a></li>
+<li><a href="http://www.archive.org/download/glp139/glp139.mp3"><img src="images/download.gif" /></a><a href="http://www.archive.org/download/glp139/glp139.mp3">Going Linux #139 Audacity Tutorial & Noscillacast </a></li>
+<li><a href="http://www.archive.org/download/glp138/glp138.mp3"><img src="images/download.gif" /></a><a href="http://www.archive.org/download/glp138/glp138.mp3">Going Linux #138 Computer America #38 </a></li>
+<li><a href="http://www.archive.org/download/glp137/glp137.mp3"><img src="images/download.gif" /></a><a href="http://www.archive.org/download/glp137/glp137.mp3">Going Linux #137 Listener Feedback </a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://goinglinux.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://goinglinux.com/mp3podcast.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://basenetradio.net/">Basenet Radio</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://www.basenetradio.net/shows/basenetradio-high-4f.mp3"><img src="images/download.gif" /></a><a href="http://www.basenetradio.net/shows/basenetradio-high-4f.mp3">Basenet Radio Episode 0x4f</a></li>
+<li><a href="http://www.basenetradio.net/shows/basenetradio-high-4e.mp3"><img src="images/download.gif" /></a><a href="http://www.basenetradio.net/shows/basenetradio-high-4e.mp3">Basenet Radio Episode 0x4e</a></li>
+<li><a href="http://www.basenetradio.net/shows/basenetradio-high-4d.mp3"><img src="images/download.gif" /></a><a href="http://www.basenetradio.net/shows/basenetradio-high-4d.mp3">Basenet Radio Episode 0x4d</a></li>
+<li><a href="http://www.basenetradio.net"><img src="images/download.gif" /></a><a href="http://www.basenetradio.net">Omniscan</a></li>
+<li><a href="http://www.basenetradio.net/omniscan.wav"><img src="images/download.gif" /></a><a href="http://www.basenetradio.net/omniscan.wav">Omniscan</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://basenetradio.net/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://basenetradio.net/rss2.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://thebadapples.info/">Bad Apples</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://retro.hackermedia.org"><img src="images/retro.gif"></a>
+<hr /><li><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x13.ogg"><img src="images/download.gif" /></a><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x13.ogg">gnuWorldOrder_6x13.37</a></li>
+<li><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x12.ogg"><img src="images/download.gif" /></a><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x12.ogg">gnuWorldOrder_6x12</a></li>
+<li><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x11.ogg"><img src="images/download.gif" /></a><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x11.ogg">gnuWorldOrder_6x11</a></li>
+<li><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x10.ogg"><img src="images/download.gif" /></a><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x10.ogg">gnuWorldOrder_6x10</a></li>
+<li><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x09.ogg"><img src="images/download.gif" /></a><a href="http://www.thebadapples.info/audiophile/gnuWorldOrder_6x09.ogg">gnuWorldOrder_6x09</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://thebadapples.info/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://thebadapples.info/thebadapples/HOME/rss.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.linuxbasement.com/">Linux Basement</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/0IBj1cJdrJE/LB+-+Epsidoe+69+-+Not+Dead+Yet+.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/0IBj1cJdrJE/LB+-+Epsidoe+69+-+Not+Dead+Yet+.mp3">LB - Episode 69 - Not Dead Yet by Linux Basement</a></li>
+<li><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/zqwvDqad3Ak/lb68dot5.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/zqwvDqad3Ak/lb68dot5.mp3">LB - Episode 68.5 - Special Bonus Pre-Show Q&A from Ep. 68</a></li>
+<li><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/8OjgHeGHScc/LB-68.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/8OjgHeGHScc/LB-68.mp3">LB - Episode 68 - Chad Likes Belts and Lord D Takes a Plop by Linux Basement</a></li>
+<li><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/MpJcD1AdgoE/LB+-+Episode+67+-+Squeeze+for+Package+Freshness.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/MpJcD1AdgoE/LB+-+Episode+67+-+Squeeze+for+Package+Freshness.mp3">LB - Episode 67 - Squeeze for Package Freshness by Linux Basement</a></li>
+<li><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/2JS_q1oEjb0/LB+-+Episode+66+-+A+Case+of+the+Mondays.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/LinuxBasement/~5/2JS_q1oEjb0/LB+-+Episode+66+-+A+Case+of+the+Mondays.mp3">LB - Episode 66 - A Case of the Mondays by Linux Basement</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.linuxbasement.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/linuxbasement"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://linuxcrazy.com/">Linux Crazy</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://linuxcrazy.com/podcasts/LC-89.mp3"><img src="images/download.gif" /></a><a href="http://linuxcrazy.com/podcasts/LC-89.mp3">Podcast 89 Perseverance</a></li>
+<li><a href="http://linuxcrazy.com/podcasts/LC-88-quickie.mp3"><img src="images/download.gif" /></a><a href="http://linuxcrazy.com/podcasts/LC-88-quickie.mp3">Podcast 88</a></li>
+<li><a href="http://linuxcrazy.com/podcasts/LC-87-openbox.mp3"><img src="images/download.gif" /></a><a href="http://linuxcrazy.com/podcasts/LC-87-openbox.mp3">Podcast 87 Openbox + Xorg 1.9 -hal</a></li>
+<li><a href="http://linuxcrazy.com/podcasts/LC-86-Vilhelm.mp3"><img src="images/download.gif" /></a><a href="http://linuxcrazy.com/podcasts/LC-86-Vilhelm.mp3">Podcast 86 Vilhelm von Ehrenheim</a></li>
+<li><a href="http://linuxcrazy.com/podcasts/LC-85-Chris.mp3"><img src="images/download.gif" /></a><a href="http://linuxcrazy.com/podcasts/LC-85-Chris.mp3">Podcast 85 Chris DeRose</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://linuxcrazy.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.abbottdavid.com/forum/index.php"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://linuxcrazy.com/podcasts/Poderator.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.amigaz.org/">Amiga Roundtable</a></b></div>
+<ul>
+<a href="http://retro.hackermedia.org"><img src="images/retro.gif"></a>
+<hr /><li><a href="http://www.amigaz.org/podpress_trac/feed/1746/0/ART_20110529.mp3"><img src="images/download.gif" /></a><a href="http://www.amigaz.org/podpress_trac/feed/1746/0/ART_20110529.mp3">ART Episode 50 – FINALLY!!</a></li>
+<li><a href="http://www.amigaz.org/podpress_trac/feed/1462/0/ART_20110508.mp3"><img src="images/download.gif" /></a><a href="http://www.amigaz.org/podpress_trac/feed/1462/0/ART_20110508.mp3">ART 49 – That Windows Guy</a></li>
+<li><a href="http://www.amigaz.org/podpress_trac/feed/1196/0/ART_20101114.mp3"><img src="images/download.gif" /></a><a href="http://www.amigaz.org/podpress_trac/feed/1196/0/ART_20101114.mp3">ART Episode 48 – Obscure Podcast</a></li>
+<li><a href="http://www.amigaz.org/podpress_trac/feed/1038/0/ART_20100912.mp3"><img src="images/download.gif" /></a><a href="http://www.amigaz.org/podpress_trac/feed/1038/0/ART_20100912.mp3">ART Episode 47 – A Sunday with Trevor</a></li>
+<li><a href="http://www.amigaz.org/podpress_trac/feed/1034/0/ART_20100829.mp3"><img src="images/download.gif" /></a><a href="http://www.amigaz.org/podpress_trac/feed/1034/0/ART_20100829.mp3">ART Episode 46 – Anything BUT!</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.amigaz.org/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.amigaz.org/category/amiga-roundtable/feed"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://blueboxpodcast.com">Blue Box</a></b></div>
+<ul>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<a href="http://voip.hackermedia.org"><img src="images/voip.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/BlueBox/~5/nI3Lg3u57pw/BBP-086-2009-10-22.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/BlueBox/~5/nI3Lg3u57pw/BBP-086-2009-10-22.mp3">Blue Box #86: An Update on Blue Box, One Year Later</a></li>
+<li><a href="http://feedproxy.google.com/~r/BlueBox/~5/zinPOrMRpMw/BBP-084-2008-10-10.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/BlueBox/~5/zinPOrMRpMw/BBP-084-2008-10-10.mp3">Blue Box #84: New Cisco, Avaya, Nortel VoIP security vulnerabilities from VoIPShield, Skype in China, UCSniff and other new tools, news and more</a></li>
+<li><a href="http://feeds.feedburner.com/~r/BlueBox/~5/429956307/BBP-085-2008-10-17.mp3"><img src="images/download.gif" /></a><a href="http://feeds.feedburner.com/~r/BlueBox/~5/429956307/BBP-085-2008-10-17.mp3">Blue Box #85: Internet phone calls and terrorism, Georgia Tech report on Emerging Cyber Security Threats, phone jamming, 802.1X-REV, 802.1AE, VoIP security news and more</a></li>
+<li><a href="http://feedproxy.google.com/~r/BlueBox/~5/MTh8vf8F94E/BBP-085-2008-10-17.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/BlueBox/~5/MTh8vf8F94E/BBP-085-2008-10-17.mp3">Blue Box #85: Internet phone calls and terrorism, Georgia Tech report on Emerging Cyber Security Threats, phone jamming, 802.1X-REV, 802.1AE, VoIP security news and more</a></li>
+<li><a href="http://feedproxy.google.com/~r/BlueBox/~5/O3gxQWCBvL8/BBP-083-2008-09-04.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/BlueBox/~5/O3gxQWCBvL8/BBP-083-2008-09-04.mp3">Blue Box #83: SIP and Asterisk vulnerabilities, voice biometrics, P2PSIP, Aircell blocking Skype, VoIP security news and more…</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://blueboxpodcast.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/BlueBox"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.a2unplugged.com/">A2Unplugged</a></b></div>
+<ul>
+<a href="http://apple.hackermedia.org"><img src="images/apple.gif"></a>
+<a href="http://retro.hackermedia.org"><img src="images/retro.gif"></a>
+<hr /><li><a href="http://a2unplugged.com/wordpress/podcasts/2010/A2U-2010-07-03%200036.mp3"><img src="images/download.gif" /></a><a href="http://a2unplugged.com/wordpress/podcasts/2010/A2U-2010-07-03%200036.mp3">Show 0036: The Past, Present, and Future of Juiced.GS</a></li>
+<li><a href="http://www.a2unplugged.com/wordpress/podcasts/2010/A2U-2010-04-05%200035.mp3"><img src="images/download.gif" /></a><a href="http://www.a2unplugged.com/wordpress/podcasts/2010/A2U-2010-04-05%200035.mp3">Show 0035: 2009 Year End Review/2010 Year Beginning Preview</a></li>
+<li><a href="http://a2unplugged.com/wordpress/podcasts/2010/A2U-2010-02-25%200034.mp3"><img src="images/download.gif" /></a><a href="http://a2unplugged.com/wordpress/podcasts/2010/A2U-2010-02-25%200034.mp3">Show 0034: Joe Kohn, Rest in Peace</a></li>
+<li><a href="http://www.a2unplugged.com/wordpress/podcasts/2009/A2U-2009-09-20%20033.mp3"><img src="images/download.gif" /></a><a href="http://www.a2unplugged.com/wordpress/podcasts/2009/A2U-2009-09-20%20033.mp3">Show 0033: Mt. KeiraFest Coverage Featuring Andrew Roughan</a></li>
+<li><a href="http://www.a2unplugged.com/wordpress/podcasts/2009/A2U-2009-07-25 032.mp3"><img src="images/download.gif" /></a><a href="http://www.a2unplugged.com/wordpress/podcasts/2009/A2U-2009-07-25 032.mp3">Show 0032: Live from KansasFest 2009!</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.a2unplugged.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.a2unplugged.com/wordpress/wp-feed.php"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.eurotrashsecurity.eu">Eurotrash Security</a></b></div>
+<ul>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://www.eurotrashsecurity.eu/episodes/eurotrash22.mp3"><img src="images/download.gif" /></a><a href="http://www.eurotrashsecurity.eu/episodes/eurotrash22.mp3">Eurotrash episode 22</a></li>
+<li><a href="http://www.eurotrashsecurity.eu/episodes/eurotrash21.mp3"><img src="images/download.gif" /></a><a href="http://www.eurotrashsecurity.eu/episodes/eurotrash21.mp3">Eurotrash episode 21</a></li>
+<li><a href="http://www.eurotrashsecurity.eu/episodes/eurotrash20.mp3"><img src="images/download.gif" /></a><a href="http://www.eurotrashsecurity.eu/episodes/eurotrash20.mp3">Eurotrash episode 20</a></li>
+<li><a href="http://www.eurotrashsecurity.eu/episodes/microtrash23.mp3"><img src="images/download.gif" /></a><a href="http://www.eurotrashsecurity.eu/episodes/microtrash23.mp3">Eurotrash MicroTRASH 23 - BSidesLondon: Dr Paul Judge</a></li>
+<li><a href="http://www.eurotrashsecurity.eu/episodes/microtrash22.mp3"><img src="images/download.gif" /></a><a href="http://www.eurotrashsecurity.eu/episodes/microtrash22.mp3">Eurotrash MicroTRASH 22 - BSidesLondon: David Rook and Chris Wysopal</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.eurotrashsecurity.eu"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.eurotrashsecurity.eu/episodes/eurotrash.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://thelinuxlink.net/lager/">Lager</a></b></div>
+<ul>
+<a href="http://gaming.hackermedia.org"><img src="images/gaming.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://www.tlltsarchive.org/archives/lager_022-2009-04-20.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/lager_022-2009-04-20.mp3">LaGER Episode 022</a></li>
+<li><a href="http://www.tlltsarchive.org/archives/lager_021-2009-03-01.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/lager_021-2009-03-01.mp3">LaGER Episode 021</a></li>
+<li><a href="http://www.tlltsarchive.org/archives/lager_020-2009-02-02.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/lager_020-2009-02-02.mp3">LaGER Episode 020</a></li>
+<li><a href="http://www.tlltsarchive.org/archives/lager_019-2009-01-20.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/lager_019-2009-01-20.mp3">LaGER Episode 019</a></li>
+<li><a href="http://www.tlltsarchive.org/archives/lager_018-2009-01-18.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/lager_018-2009-01-18.mp3">LaGER Episode 018</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://thelinuxlink.net/lager/"><img src="images/site.png"></a><a class="showcase" href="http://www.thelinuxlink.net/forum/"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/LagerGnu/linuxAndGames/entertainmentRadio"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.cottonrohrscheib.com/">The Cotton Club</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<hr /><li><a href="http://www-tc.pbs.org/video/media/swf/PBSPlayer.swf"><img src="images/download.gif" /></a><a href="http://www-tc.pbs.org/video/media/swf/PBSPlayer.swf">Delta Dreams: Helena-West Helena</a></li>
+<li><a href="http://embed.break.com/MjA0MTU5Ng=="><img src="images/download.gif" /></a><a href="http://embed.break.com/MjA0MTU5Ng==">Bogey’s Newest Trick</a></li>
+<li><a href="http://www.cottonrohrscheib.com/blog/wp-content/uploads/podcasts/TheCottonClub-EP022.mp3"><img src="images/download.gif" /></a><a href="http://www.cottonrohrscheib.com/blog/wp-content/uploads/podcasts/TheCottonClub-EP022.mp3">EP:022 – The Cotton Club Podcast w/ Eric Boggs, CEO of Argyle Social Media Dashboard Software</a></li>
+<li><a href="http://aka.zero.jibjab.com/client/zero/ClientZero_EmbedViewer.swf?external_make_id=shfzJ6w8PyAxfL26&#038;service=elfyourself.jibjab.com&#038;partnerID=ElfYourself"><img src="images/download.gif" /></a><a href="http://aka.zero.jibjab.com/client/zero/ClientZero_EmbedViewer.swf?external_make_id=shfzJ6w8PyAxfL26&#038;service=elfyourself.jibjab.com&#038;partnerID=ElfYourself">Rohrscheib Christmas Blog 2010</a></li>
+<li><a href="http://www.cottonrohrscheib.com/blog/wp-content/uploads/podcasts/TheCottonClub-EP021.mp3"><img src="images/download.gif" /></a><a href="http://www.cottonrohrscheib.com/blog/wp-content/uploads/podcasts/TheCottonClub-EP021.mp3">EP: 021 – The Cotton Club Podcast</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.cottonrohrscheib.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/cottonrohrscheib/pjCa"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.thebadapples.infp">The Bad Apples</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /></ul>
+<div class="imagelinks"><a class="showcase" href="http://www.thebadapples.infp"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.thebadapples.info/ogg.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/video.gif" /> <b><a href="http://bsodtv.org/">Bastard Sons of Dialup</a></b></div>
+<ul>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://modding.hackermedia.org"><img src="images/modding.gif"></a>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /></ul>
+<div class="imagelinks"><a class="showcase" href="http://bsodtv.org/"><img src="images/site.png"></a><a class="showcase" href="http://forums.bsodtv.org/"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.bsodtv.org/rss.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://hackradiolive.com/">Hack Radio Live</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<hr /><li><a href="http://www.hackradiolive.org/shows/hrl13.mp3"><img src="images/download.gif" /></a><a href="http://www.hackradiolive.org/shows/hrl13.mp3">Lucifer's Hammer</a></li>
+<li><a href="http://www.hackradiolive.org/shows/hrl12.mp3"><img src="images/download.gif" /></a><a href="http://www.hackradiolive.org/shows/hrl12.mp3">Big Ass Table</a></li>
+<li><a href="http://www.hackradiolive.org/shows/hrl11.mp3"><img src="images/download.gif" /></a><a href="http://www.hackradiolive.org/shows/hrl11.mp3">Kalman Filter</a></li>
+<li><a href="http://www.hackradiolive.org/shows/hrl10.mp3"><img src="images/download.gif" /></a><a href="http://www.hackradiolive.org/shows/hrl10.mp3">No Set Topic 2</a></li>
+<li><a href="http://www.hackradiolive.org/shows/hrl9.mp3"><img src="images/download.gif" /></a><a href="http://www.hackradiolive.org/shows/hrl9.mp3">DIY Radar</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://hackradiolive.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/HackRadioLive?format=xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/video.gif" /> <b><a href="http://www.techcentric.org">Tech Centric</a></b></div>
+<ul>
+<a href="http://comedy.hackermedia.org"><img src="images/comedy.gif"></a>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://modding.hackermedia.org"><img src="images/modding.gif"></a>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://voip.hackermedia.org"><img src="images/voip.gif"></a>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://www.techcentric.org/episodes/season2/ep3/TechCentric-s02e03-divx.avi"><img src="images/download.gif" /></a><a href="http://www.techcentric.org/episodes/season2/ep3/TechCentric-s02e03-divx.avi">TechCentric Season 2 Episode 3</a></li>
+<li><a href="http://www.techcentric.org/episodes/season2/ep2/TechCentric-s02e02-divx.avi"><img src="images/download.gif" /></a><a href="http://www.techcentric.org/episodes/season2/ep2/TechCentric-s02e02-divx.avi">TechCentric Season 2 Episode 2</a></li>
+<li><a href="http://www.techcentric.org/episodes/season2/ep1/TechCentric-s02e01-divx.avi"><img src="images/download.gif" /></a><a href="http://www.techcentric.org/episodes/season2/ep1/TechCentric-s02e01-divx.avi">TechCentric Season 2 Episode 1</a></li>
+<li><a href="http://www.techcentric.org/episodes/season1/ep7/TechCentric-s01e07-divx.avi"><img src="images/download.gif" /></a><a href="http://www.techcentric.org/episodes/season1/ep7/TechCentric-s01e07-divx.avi">TechCentric Season 1 Episode 7</a></li>
+<li><a href="http://www.techcentric.org/episodes/season1/ep6/TechCentric-s01e06-divx.avi"><img src="images/download.gif" /></a><a href="http://www.techcentric.org/episodes/season1/ep6/TechCentric-s01e06-divx.avi">TechCentric Season 1 Episode 6</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.techcentric.org"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.techcentric.org/ep-rss.php?f=d"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.linux-foundation.org/weblogs/openvoices">Open Voices</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://podcasts.linux-foundation.org/mp3/may_09/bob_sutor.mp3"><img src="images/download.gif" /></a><a href="http://podcasts.linux-foundation.org/mp3/may_09/bob_sutor.mp3">Interview with Bob Sutor</a></li>
+<li><a href="http://podcasts.linux-foundation.org/mp3/aug_08/Mitchell_Baker.mp3"><img src="images/download.gif" /></a><a href="http://podcasts.linux-foundation.org/mp3/aug_08/Mitchell_Baker.mp3">Open Voices Interview with Mitchell Baker, Mozilla</a></li>
+<li><a href="http://podcasts.linux-foundation.org/mp3/apr_08/Edward_Screven.mp3"><img src="images/download.gif" /></a><a href="http://podcasts.linux-foundation.org/mp3/apr_08/Edward_Screven.mp3">Open Voices with Edward Screven of Oracle</a></li>
+<li><a href="http://podcasts.linux-foundation.org/mp3/mar_08/Ron_Hovsepian.mp3"><img src="images/download.gif" /></a><a href="http://podcasts.linux-foundation.org/mp3/mar_08/Ron_Hovsepian.mp3">Open Voices with Ron Hovsepian of Novell</a></li>
+<li><a href="http://podcasts.linux-foundation.org/mp3/feb_08/Shuttleworth1.mp3"><img src="images/download.gif" /></a><a href="http://podcasts.linux-foundation.org/mp3/feb_08/Shuttleworth1.mp3">Open Voices Podcast with Mark Shuttleworth</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.linux-foundation.org/weblogs/openvoices"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://linux-foundation.org/weblogs/openvoices/?feed=podcast"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://smbminute.com/">SMB Minute</a></b></div>
+<ul>
+<a href="http://apple.hackermedia.org"><img src="images/apple.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/bwcr8ZkSS7o/SMBMinute-nickerson-SMB_part_3.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/bwcr8ZkSS7o/SMBMinute-nickerson-SMB_part_3.mp3">Interview with Chirs Nickerson Part3</a></li>
+<li><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/DSqAFqQCBcQ/OSMBMinute-nickerson-SMB_part_2.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/DSqAFqQCBcQ/OSMBMinute-nickerson-SMB_part_2.mp3">Interview with Chris Nickerson Part 2, NOW with BETTER audio</a></li>
+<li><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/7PsVJlnhgqM/SMBMinute-nickerson-SMB_part_1.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/7PsVJlnhgqM/SMBMinute-nickerson-SMB_part_1.mp3">Interview with Chris Nickerson (part 1)</a></li>
+<li><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/-MJOfm1IyZ0/SMB_Minute_Episode_5_--Interview_Part_2.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/-MJOfm1IyZ0/SMB_Minute_Episode_5_--Interview_Part_2.mp3">The SMB Minute Episode5 — InterView with Michael Santarcangelo Part 2</a></li>
+<li><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/fh8z4LKnBCU/SMB_Minute_Episode_4_--5_Things.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/TheSmbMinute/~5/fh8z4LKnBCU/SMB_Minute_Episode_4_--5_Things.mp3">The SMB Minute Episode4 — 5 Simple Things to help secure your computer.</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://smbminute.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/TheSmbMinute"><img src="images/rss.png"></a></div>
+</div></div>   
+
+<div id="rightmenubar">
+<div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://tllts.org">The Linux Link Tech Show</a></b></div>
+<ul>
+<a href="http://bsd.hackermedia.org"><img src="images/bsd.gif"></a>
+<a href="http://comedy.hackermedia.org"><img src="images/comedy.gif"></a>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<a href="http://voip.hackermedia.org"><img src="images/voip.gif"></a>
+<hr /><li><a href="http://www.tlltsarchive.org/archives/tllts_639-12-30-15.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/tllts_639-12-30-15.mp3">The Linux Link Tech Show Episode 639</a></li>
+<li><a href="http://www.tlltsarchive.org/archives/tllts_638-12-23-15.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/tllts_638-12-23-15.mp3">The Linux Link Tech Show Episode 638</a></li>
+<li><a href="http://www.tlltsarchive.org/archives/tllts_637-12-16-15.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/tllts_637-12-16-15.mp3">The Linux Link Tech Show Episode 637</a></li>
+<li><a href="http://www.tlltsarchive.org/archives/tllts_636-12-09-15.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/tllts_636-12-09-15.mp3">The Linux Link Tech Show Episode 636</a></li>
+<li><a href="http://www.tlltsarchive.org/archives/tllts_635-12-02-15.mp3"><img src="images/download.gif" /></a><a href="http://www.tlltsarchive.org/archives/tllts_635-12-02-15.mp3">The Linux Link Tech Show Episode 635</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://tllts.org"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://thelinuxlink.net/tllts/tllts.rss"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://mckeay.libsyn.com">NetSec</a></b></div>
+<ul>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://traffic.libsyn.com/mckeay/nsp-061211-ep247.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/mckeay/nsp-061211-ep247.mp3">Network Security Podcast, Episode 247</a></li>
+<li><a href="http://traffic.libsyn.com/mckeay/nsp-070511-ep246.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/mckeay/nsp-070511-ep246.mp3">Network Security Podcast, Episode 246</a></li>
+<li><a href="http://traffic.libsyn.com/mckeay/NSP_062811_ep245.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/mckeay/NSP_062811_ep245.mp3">Network Security Podcast, Episode 245</a></li>
+<li><a href="http://traffic.libsyn.com/mckeay/nsp-062111-ep244.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/mckeay/nsp-062111-ep244.mp3">Network Security Podcast, Episode 244</a></li>
+<li><a href="http://traffic.libsyn.com/mckeay/nsp-060711-ep243.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/mckeay/nsp-060711-ep243.mp3">Network Security Podcast, Episode 243</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://mckeay.libsyn.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://mckeay.libsyn.com/rss"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://distrowatch.com">Distrowatch Weekly</a></b></div>
+<ul>
+<a href="http://bsd.hackermedia.org"><img src="images/bsd.gif"></a>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://distrowatch.com/podcast/dww20110718.mp3"><img src="images/download.gif" /></a><a href="http://distrowatch.com/podcast/dww20110718.mp3">DistroWatch Weekly, Issue 414, 18 July 2011</a></li>
+<li><a href="http://distrowatch.com/podcast/dww20110711.mp3"><img src="images/download.gif" /></a><a href="http://distrowatch.com/podcast/dww20110711.mp3">DistroWatch Weekly, Issue 413, 11 July 2011</a></li>
+<li><a href="http://distrowatch.com/podcast/dww20110704.mp3"><img src="images/download.gif" /></a><a href="http://distrowatch.com/podcast/dww20110704.mp3">DistroWatch Weekly, Issue 412, 04 July 2011</a></li>
+<li><a href="http://distrowatch.com/podcast/dww20110627.mp3"><img src="images/download.gif" /></a><a href="http://distrowatch.com/podcast/dww20110627.mp3">DistroWatch Weekly, Issue 411, 27 June 2011</a></li>
+<li><a href="http://distrowatch.com/podcast/dww20110620.mp3"><img src="images/download.gif" /></a><a href="http://distrowatch.com/podcast/dww20110620.mp3">DistroWatch Weekly, Issue 410, 20 June 2011</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://distrowatch.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://distrowatch.com/news/podcast.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/video.gif" /> <b><a href="http://www.makezine.com/">Make</a></b></div>
+<ul>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://modding.hackermedia.org"><img src="images/modding.gif"></a>
+<hr /><li><a href="http://cdn.makezine.com/make/2011/07/DJ-Sures-Toy-Hacking.m4v"><img src="images/download.gif" /></a><a href="http://cdn.makezine.com/make/2011/07/DJ-Sures-Toy-Hacking.m4v">DJ Sures’ Hacked Toy Robots (video)</a></li>
+<li><a href="http://cdn.makezine.com/make/2011/07/TheLatestInHobbyRobotics14.m4v"><img src="images/download.gif" /></a><a href="http://cdn.makezine.com/make/2011/07/TheLatestInHobbyRobotics14.m4v">The Latest in Hobby Robotics 14</a></li>
+<li><a href="http://cdn.makezine.com/make/2011/07/episode12full.m4v"><img src="images/download.gif" /></a><a href="http://cdn.makezine.com/make/2011/07/episode12full.m4v">Make: Live 7/13/11 — Robots (video)</a></li>
+<li><a href="http://cdn.makezine.com/make/2011/07/TYH-plywood-boat.m4v"><img src="images/download.gif" /></a><a href="http://cdn.makezine.com/make/2011/07/TYH-plywood-boat.m4v">“The Blue Crab” One-Sheet Plywood Boat – Tiny Yellow House</a></li>
+<li><a href="http://cdn.makezine.com/make/2011/07/ep12promo.m4v"><img src="images/download.gif" /></a><a href="http://cdn.makezine.com/make/2011/07/ep12promo.m4v">Make: Live Episode 12: Robots (preview video)</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.makezine.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://makezine.com/blog/archive/make_podcast/index.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://cyberspeak.libsyn.com/">Cyber Speak</a></b></div>
+<ul>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/soUelnhSTsQ/Cyberspeak-Show-136-2011-07-17.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/soUelnhSTsQ/Cyberspeak-Show-136-2011-07-17.mp3">CyberSpeak June 18, 2011</a></li>
+<li><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/qeB3cQgsrS4/Cyberspeak-Show-135-2011-06-25.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/qeB3cQgsrS4/Cyberspeak-Show-135-2011-06-25.mp3">CyberSpeak-Forensics and the 4th Amendment</a></li>
+<li><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/s3WHzA4lDWs/Cyberspeak-Show-134-2011-06-19.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/s3WHzA4lDWs/Cyberspeak-Show-134-2011-06-19.mp3">CyberSpeak June 20 2011</a></li>
+<li><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/EE5jQ-HIzEw/Cyberspeak-Show-133-2011-04-04.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/EE5jQ-HIzEw/Cyberspeak-Show-133-2011-04-04.mp3">CyberSpeak April 5, 2011 Watch out, Here Comes the Garbage Collector</a></li>
+<li><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/IAgFUJqUsSU/Cyberspeak-Show-132-2011-01-15.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Cyberspeak/~5/IAgFUJqUsSU/Cyberspeak-Show-132-2011-01-15.mp3">CyberSpeak Jan 16, 2011 - Prefetch Yourself</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://cyberspeak.libsyn.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/Cyberspeak"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://2600.com/offthehook">Off the Hook</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://phreaking.hackermedia.org"><img src="images/phreaking.gif"></a>
+<hr /><li><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151230-128.mp3"><img src="images/download.gif" /></a><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151230-128.mp3">Off The Hook - Dec 30, 2015</a></li>
+<li><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151223-128.mp3"><img src="images/download.gif" /></a><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151223-128.mp3">Off The Hook - Dec 23, 2015</a></li>
+<li><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151216-128.mp3"><img src="images/download.gif" /></a><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151216-128.mp3">Off The Hook - Dec 16, 2015</a></li>
+<li><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151209-128.mp3"><img src="images/download.gif" /></a><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151209-128.mp3">Off The Hook - Dec 09, 2015</a></li>
+<li><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151202-128.mp3"><img src="images/download.gif" /></a><a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151202-128.mp3">Off The Hook - Dec 02, 2015</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://2600.com/offthehook"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://2600.com/oth-broadband.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://thedrilldown.com/">The Drill Down</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/thedrilldown/rss2/~5/UN4Hv8SU814/thedrilldown-284409-06-11-2011.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/thedrilldown/rss2/~5/UN4Hv8SU814/thedrilldown-284409-06-11-2011.mp3">The Drill Down 188 – WWDC / E3 2011</a></li>
+<li><a href="http://thedrilldown.com/podpress_trac/feed/3116/0/thedrilldown-283377-06-03-2011.mp3"><img src="images/download.gif" /></a><a href="http://thedrilldown.com/podpress_trac/feed/3116/0/thedrilldown-283377-06-03-2011.mp3">The Drill Down 187 – Now This Means War</a></li>
+<li><a href="http://feedproxy.google.com/~r/thedrilldown/rss2/~5/gC7p8zB7O7M/thedrilldown-283377-06-03-2011.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/thedrilldown/rss2/~5/gC7p8zB7O7M/thedrilldown-283377-06-03-2011.mp3">The Drill Down 187 – Now This Means War</a></li>
+<li><a href="http://feedproxy.google.com/~r/thedrilldown/rss2/~5/S2KjKTd-P3w/thedrilldown-282364-05-26-2011.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/thedrilldown/rss2/~5/S2KjKTd-P3w/thedrilldown-282364-05-26-2011.mp3">The Drill Down 186 – On the Bubble?</a></li>
+<li><a href="http://thedrilldown.com/podpress_trac/feed/3102/0/thedrilldown-282364-05-26-2011.mp3"><img src="images/download.gif" /></a><a href="http://thedrilldown.com/podpress_trac/feed/3102/0/thedrilldown-282364-05-26-2011.mp3">The Drill Down 186 – On the Bubble?</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://thedrilldown.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://thedrilldown.com/feed/"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://linuxoutlaws.com/">Linux Outlaws</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws213.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws213.mp3">Linux Outlaws 213 - Mister Spliffy</a></li>
+<li><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws212.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws212.mp3">Linux Outlaws 212 - Head of Cloud</a></li>
+<li><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws211.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws211.mp3">Linux Outlaws 211 - Leave a Message After the Tone</a></li>
+<li><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws210.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws210.mp3">Linux Outlaws 210 - I Pray to Cthulhu</a></li>
+<li><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws209.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws209.mp3">Linux Outlaws 209 - FABRAGE x3</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://linuxoutlaws.com/"><img src="images/site.png"></a><a class="showcase" href="http://linuxoutlaws.com/forums/"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/linuxoutlaws"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://freshubuntu.blogspot.com/">Fresh Ubuntu</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/FreshUbuntu/~5/6xjZOfj_mWQ/fup_20100504b.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/FreshUbuntu/~5/6xjZOfj_mWQ/fup_20100504b.mp3">Episode 10.05.01</a></li>
+<li><a href="http://feedproxy.google.com/~r/FreshUbuntu/~5/rDc3qmHjqAA/fup_20100504a.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/FreshUbuntu/~5/rDc3qmHjqAA/fup_20100504a.mp3">Espisode 10.04.01</a></li>
+<li><a href="http://feedproxy.google.com/~r/FreshUbuntu/~5/PpehSGLa8_U/fup_shortcast_040210.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/FreshUbuntu/~5/PpehSGLa8_U/fup_shortcast_040210.mp3">Shortcast #0003 User's Interface MP3</a></li>
+<li><a href="http://www.archive.org/download/UsersInterface/fup_shortcast_040210.mp3"><img src="images/download.gif" /></a><a href="http://www.archive.org/download/UsersInterface/fup_shortcast_040210.mp3">Shortcast #0003 User's Interface MP3</a></li>
+<li><a href="http://feedproxy.google.com/~r/FreshUbuntu/~5/rsa8-4YulXg/fup_shotcast_20100301.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/FreshUbuntu/~5/rsa8-4YulXg/fup_shotcast_20100301.mp3">Shortcast #0001a - INX MP3</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://freshubuntu.blogspot.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/freshubuntu"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.acoupleofadmins.com/">Couple of Admins</a></b></div>
+<ul>
+<a href="http://apple.hackermedia.org"><img src="images/apple.gif"></a>
+<a href="http://bsd.hackermedia.org"><img src="images/bsd.gif"></a>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_153_20110403.mp3"><img src="images/download.gif" /></a><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_153_20110403.mp3">MOR 153 - Timebombs and T1’s</a></li>
+<li><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_152_20110327.mp3"><img src="images/download.gif" /></a><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_152_20110327.mp3">MOR 152 - Hellooooooo, Mr. Wilson!</a></li>
+<li><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_151_20110320.mp3"><img src="images/download.gif" /></a><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_151_20110320.mp3">MOR 151 - Author, Author!</a></li>
+<li><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_150_20110313.mp3"><img src="images/download.gif" /></a><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_150_20110313.mp3">MOR 150 - Nerd Fight!</a></li>
+<li><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_149_20110306.mp3"><img src="images/download.gif" /></a><a href="http://podcast.acoupleofadmins.com/media/podcast/MOR_149_20110306.mp3">MOR 149 - Default Denied</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.acoupleofadmins.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.acoupleofadmins.com/wp-feed.php"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://runyourownserver.org/">Run Your Own Server</a></b></div>
+<ul>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://feeds.runyourownserver.org/~r/runyourownserver/~5/494380891/ryos-podcast-episode0027.mp3"><img src="images/download.gif" /></a><a href="http://feeds.runyourownserver.org/~r/runyourownserver/~5/494380891/ryos-podcast-episode0027.mp3">RYOS, Episode 27 - Bye for Now</a></li>
+<li><a href="http://feeds.feedburner.com/~r/runyourownserver/~5/494380891/ryos-podcast-episode0027.mp3"><img src="images/download.gif" /></a><a href="http://feeds.feedburner.com/~r/runyourownserver/~5/494380891/ryos-podcast-episode0027.mp3">RYOS, Episode 27 - Bye for Now</a></li>
+<li><a href="http://feeds.runyourownserver.org/~r/runyourownserver/~5/nZYiZlR-PGw/ryos-podcast-episode0027.mp3"><img src="images/download.gif" /></a><a href="http://feeds.runyourownserver.org/~r/runyourownserver/~5/nZYiZlR-PGw/ryos-podcast-episode0027.mp3">RYOS, Episode 27 - Bye for Now</a></li>
+<li><a href="http://feeds.feedburner.com/~r/runyourownserver/~5/443734249/ryos-podcast-episode0026.mp3"><img src="images/download.gif" /></a><a href="http://feeds.feedburner.com/~r/runyourownserver/~5/443734249/ryos-podcast-episode0026.mp3">RYOS, Episode 26 - OpenSSL Certs and VMWare Issues - take2</a></li>
+<li><a href="http://feeds.runyourownserver.org/~r/runyourownserver/~5/443734249/ryos-podcast-episode0026.mp3"><img src="images/download.gif" /></a><a href="http://feeds.runyourownserver.org/~r/runyourownserver/~5/443734249/ryos-podcast-episode0026.mp3">RYOS, Episode 26 - OpenSSL Certs and VMWare Issues - take2</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://runyourownserver.org/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.runyourownserver.org/runyourownserver"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://podcast.com/show/65396/">SecuraBit</a></b></div>
+<ul>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/Securabit/~5/geTniwukj6k/SecuraBitEP83_Edited.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Securabit/~5/geTniwukj6k/SecuraBitEP83_Edited.mp3">SecuraBit Episode 83:  Hey look its the Human Hacker!!!</a></li>
+<li><a href="http://feedproxy.google.com/~r/Securabit/~5/DYJdmTSuuzk/SecuraBit_EP82.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Securabit/~5/DYJdmTSuuzk/SecuraBit_EP82.mp3">SecuraBit Episode 82:  Totally Rad Man!</a></li>
+<li><a href="http://feedproxy.google.com/~r/Securabit/~5/WyiQ2HlxTHk/SecuraBit_EP81.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Securabit/~5/WyiQ2HlxTHk/SecuraBit_EP81.mp3">SecuraBit Episode 81:  Network Admins Takeover</a></li>
+<li><a href="http://feedproxy.google.com/~r/Securabit/~5/f6jz2RcOblA/SecuraBit_EP80.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Securabit/~5/f6jz2RcOblA/SecuraBit_EP80.mp3">SecuraBit Episode 80:  Our 8080 Episode</a></li>
+<li><a href="http://feedproxy.google.com/~r/Securabit/~5/lwv4LvE7woU/SecuraBit_EP79.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/Securabit/~5/lwv4LvE7woU/SecuraBit_EP79.mp3">SecuraBit Episode 79:  Back to the basics with Marcus Carey!</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://podcast.com/show/65396/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/Securabit"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.novell.com/feeds/openaudio/">Novel Open Audio</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/cmp_1_1_noa.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/cmp_1_1_noa.mp3">Compliance Management Platform 1.1</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/noc5_noa.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/noc5_noa.mp3">Novell Operations Center 5</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/opensuse_11_4.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/opensuse_11_4.mp3">openSUSE 11.4</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/nsm_noa.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/nsm_noa.mp3">Storage Manager 3.0.1</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/idm_4_noa.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3?http://www.novell.com/recording/novellopenaudio/2011/idm_4_noa.mp3">Novell Identity Manager 4</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.novell.com/feeds/openaudio/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://www.novell.com/feeds/openaudio/?feed=rss2&cat=13&format=mp3"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://myextralife.com/">Extra Life</a></b></div>
+<ul>
+<a href="http://comedy.hackermedia.org"><img src="images/comedy.gif"></a>
+<a href="http://gaming.hackermedia.org"><img src="images/gaming.gif"></a>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<hr /><li><a href="http://www.archive.org/download/GoodbyeElr_448/GoodbyeElr.mp3"><img src="images/download.gif" /></a><a href="http://www.archive.org/download/GoodbyeElr_448/GoodbyeElr.mp3">ELR on Hiatus</a></li>
+<li><a href="http://libsyn.com/media/extralife/EL_Radio_233_01-28-2010.mp3"><img src="images/download.gif" /></a><a href="http://libsyn.com/media/extralife/EL_Radio_233_01-28-2010.mp3">#233 - Extra Life Radio: "The Internet is making you lazy!"</a></li>
+<li><a href="http://libsyn.com/media/extralife/EL_Radio_232_01-13-2010.mp3"><img src="images/download.gif" /></a><a href="http://libsyn.com/media/extralife/EL_Radio_232_01-13-2010.mp3">#232 - Extra Life Radio: "Predicting things is so 2010"</a></li>
+<li><a href="http://libsyn.com/media/extralife/EL_Radio_231_12-23-2009.mp3"><img src="images/download.gif" /></a><a href="http://libsyn.com/media/extralife/EL_Radio_231_12-23-2009.mp3">#231 - Extra Life Radio: "A Christmas Mugging...I mean Miracle!"</a></li>
+<li><a href="http://libsyn.com/media/extralife/EL_Radio_230_12-02-2009.mp3"><img src="images/download.gif" /></a><a href="http://libsyn.com/media/extralife/EL_Radio_230_12-02-2009.mp3">#230 - Extra Life Radio: "Do you wanna hate my avatar?"</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://myextralife.com/"><img src="images/site.png"></a><a class="showcase" href="http://myextralife.com/forum2/"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://myextralife.com/ftp/radio/rss.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://www.exoticliability.com/">Exotic Liability</a></b></div>
+<ul>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://traffic.libsyn.com/exoticliability/EL1.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/exoticliability/EL1.mp3">EL 1: A New Era</a></li>
+<li><a href="http://traffic.libsyn.com/exoticliability/Exotic_Liability_72.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/exoticliability/Exotic_Liability_72.mp3">Exotic Liability 72: Cobwebs</a></li>
+<li><a href="http://traffic.libsyn.com/exoticliability/Exotic_Liability_71.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/exoticliability/Exotic_Liability_71.mp3">Exotic Liability 71: 0-Day</a></li>
+<li><a href="http://traffic.libsyn.com/exoticliability/Exotic_Liability_70.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/exoticliability/Exotic_Liability_70.mp3">Exotic Liability 70: Port 79</a></li>
+<li><a href="http://traffic.libsyn.com/exoticliability/Exotic_Liability_68.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/exoticliability/Exotic_Liability_68.mp3">Exotic Liability 68: OpenDLP</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.exoticliability.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.exoticliability.com/main/authorization/signIn?target=http%3A%2F%2Fwww.exoticliability.com%2Fforum"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://exoticliability.libsyn.com/rss"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://bsdtalk.blogspot.com/">BSD Talk</a></b></div>
+<ul>
+<a href="http://bsd.hackermedia.org"><img src="images/bsd.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk205.mp3"><img src="images/download.gif" /></a><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk205.mp3">bsdtalk205 - FreeNAS 8 with Josh Paetzel</a></li>
+<li><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk204.mp3"><img src="images/download.gif" /></a><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk204.mp3">bsdtalk204 - mdocml mit Ingo Schwartze and Kristaps Dzonsons</a></li>
+<li><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk203.mp3"><img src="images/download.gif" /></a><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk203.mp3">BSDTalk 203 - BSDCan and PGCon with Dan Langille</a></li>
+<li><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk202.mp3"><img src="images/download.gif" /></a><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk202.mp3">bsdtalk202 - DragonFlyBSD 2.8 with Matthew Dillon</a></li>
+<li><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk201.mp3"><img src="images/download.gif" /></a><a href="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk201.mp3">bsdtalk201 - PC-BSD 9 Alpha with Kris Moore</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://bsdtalk.blogspot.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/Bsdtalk"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://twit.tv/FLOSS">FLOSS Weekly</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0171.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0171.mp3">FLOSS Weekly 171: Software Freedom Conservancy</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0170.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0170.mp3">FLOSS Weekly 170: Strawberry Perl</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0169.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0169.mp3">FLOSS Weekly 169: Jenkins</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0168.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0168.mp3">FLOSS Weekly 168: ClearOS</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0167.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/floss0167.mp3">FLOSS Weekly 167: Racket</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://twit.tv/FLOSS"><img src="images/site.png"></a><a class="showcase" href="http://twit.tv/forums/people.php?PageAction=SignOutNow&ReturnUrl=http://twit.tv/forums/"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://leoville.tv/podcasts/floss.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/video.gif" /> <b><a href="http://www.hackernews.com/">Hacker News Network</a></b></div>
+<ul>
+<a href="http://apple.hackermedia.org"><img src="images/apple.gif"></a>
+<a href="http://bsd.hackermedia.org"><img src="images/bsd.gif"></a>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://phreaking.hackermedia.org"><img src="images/phreaking.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNBTFe013409.m4v"><img src="images/download.gif" /></a><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNBTFe013409.m4v">HNNBTF.e013</a></li>
+<li><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNBTFe012760.m4v"><img src="images/download.gif" /></a><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNBTFe012760.m4v">HNNBTF.e012</a></li>
+<li><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNBTFe011808.m4v"><img src="images/download.gif" /></a><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNBTFe011808.m4v">HNNBTF.e011</a></li>
+<li><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNCast20110304373.m4v"><img src="images/download.gif" /></a><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNCast20110304373.m4v">HNNCast.2011.03.04</a></li>
+<li><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNCast20110225948.m4v"><img src="images/download.gif" /></a><a href="http://blip.tv/file/get/Hackernewsnetwork-HNNCast20110225948.m4v">HNNCast.2011.02.25</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://www.hackernews.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://hnncast.blip.tv/rss/iTunes"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://sploitcast.com">Sploit Cast</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://sploitcast.libsyn.com/index.php?post_id=318014#"><img src="images/download.gif" /></a><a href="http://sploitcast.libsyn.com/index.php?post_id=318014#">SploitCast #026</a></li>
+<li><a href="http://media.libsyn.com/media/sploitcast/sploitcast_26.mp3"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/sploitcast/sploitcast_26.mp3">SploitCast #026</a></li>
+<li><a href="http://traffic.libsyn.com/sploitcast/sploitcast_26.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/sploitcast/sploitcast_26.mp3">SploitCast #026</a></li>
+<li><a href="http://sploitcast.libsyn.com/index.php?post_id=297538#"><img src="images/download.gif" /></a><a href="http://sploitcast.libsyn.com/index.php?post_id=297538#">SploitCast #025</a></li>
+<li><a href="http://media.libsyn.com/media/sploitcast/sploitcast_25.mp3"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/sploitcast/sploitcast_25.mp3">SploitCast #025</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://sploitcast.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://sploitcast.libsyn.com/rss"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://radio.linuxquestions.org/">Linux Questions</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://mirror.linuxquestions.org/pub/lqradio/podcasts/2008/10/olf2008promo1.mp3"><img src="images/download.gif" /></a><a href="http://mirror.linuxquestions.org/pub/lqradio/podcasts/2008/10/olf2008promo1.mp3">LQ Radio Update</a></li>
+<li><a href="http://mirror.linuxquestions.org/pub/lqradio/podcasts/2008/05/LQ-Podcast-050908.mp3"><img src="images/download.gif" /></a><a href="http://mirror.linuxquestions.org/pub/lqradio/podcasts/2008/05/LQ-Podcast-050908.mp3">LinuxQuestions.org Podcast - 05.09.08</a></li>
+<li><a href="http://mirror.linuxquestions.org/pub/lqradio/podcasts/2008/04/LQ-Podcast-040908.mp3"><img src="images/download.gif" /></a><a href="http://mirror.linuxquestions.org/pub/lqradio/podcasts/2008/04/LQ-Podcast-040908.mp3">LinuxQuestions.org Podcast - 04.09.08</a></li>
+<li><a href="http://mirror.linuxquestions.org/pub/lqradio/podcasts/2008/02/LQ-Podcast-022808.mp3"><img src="images/download.gif" /></a><a href="http://mirror.linuxquestions.org/pub/lqradio/podcasts/2008/02/LQ-Podcast-022808.mp3">LinuxQuestions.org Podcast - 02.28.08</a></li>
+<li><a href="http://mirror.linuxquestions.org/pub/lqradio/interviews/LQRadio-GarethAndOrv.mp3"><img src="images/download.gif" /></a><a href="http://mirror.linuxquestions.org/pub/lqradio/interviews/LQRadio-GarethAndOrv.mp3">LQ Radio Interview - Gareth and Orv from SCALE 6X</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://radio.linuxquestions.org/"><img src="images/site.png"></a><a class="showcase" href="http://www.linuxquestions.org/"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/linuxquestions/LQPodcast"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://boringbeigebox.libsyn.com/">Boring Beige Box</a></b></div>
+<ul>
+<a href="http://retro.hackermedia.org"><img src="images/retro.gif"></a>
+<hr /><li><a href="http://traffic.libsyn.com/boringbeigebox/bbb-show022-011511.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/boringbeigebox/bbb-show022-011511.mp3">022: Online Communities</a></li>
+<li><a href="http://traffic.libsyn.com/boringbeigebox/bbb-show021-010811.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/boringbeigebox/bbb-show021-010811.mp3">021: Retro Recap</a></li>
+<li><a href="http://media.libsyn.com/media/boringbeigebox/bbb-show020-011808.mp3"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/boringbeigebox/bbb-show020-011808.mp3">020: Phases of Interest</a></li>
+<li><a href="http://traffic.libsyn.com/boringbeigebox/bbb-show020-011808.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/boringbeigebox/bbb-show020-011808.mp3">020: Phases of Interest</a></li>
+<li><a href="http://media.libsyn.com/media/boringbeigebox/bbb-show019-081907.mp3"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/boringbeigebox/bbb-show019-081907.mp3">019: ImagiNation Network Revival</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://boringbeigebox.libsyn.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://boringbeigebox.libsyn.com/rss"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://securityjustice.com/">Security Justice</a></b></div>
+<ul>
+<a href="http://news.hackermedia.org"><img src="images/news.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/sZ1kR-gYZnI/Security_Justice_Episode35.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/sZ1kR-gYZnI/Security_Justice_Episode35.mp3">Security Justice Episode 35- THOTCON Edition</a></li>
+<li><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/mX14ccu55Lo/Security_Justice_Episode34.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/mX14ccu55Lo/Security_Justice_Episode34.mp3">Security Justice Episode 34 – THOTCON, Notacon and the Penetration Testing Execution Standard with @kaospunk</a></li>
+<li><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/a0jJ4YyYMr4/Security_Justice_Episode33.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/a0jJ4YyYMr4/Security_Justice_Episode33.mp3">Security Justice Episode 33 – ShmooCon, BSidesCLE, Notacon, THOTCON, O-ISC, AIDE and DerbyCon</a></li>
+<li><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/zLVuBbB_hzk/Security_Justice_Episode32.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/zLVuBbB_hzk/Security_Justice_Episode32.mp3">Security Justice Episode 32 – Talking Risk with Alex Hutton (@alexhutton)</a></li>
+<li><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/Yy5D7JhRQ6o/Security_Justice_Episode31.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/SecurityJustice/~5/Yy5D7JhRQ6o/Security_Justice_Episode31.mp3">Security Justice Episode 31 – The Kevin Johnson (@secureideas) Special</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://securityjustice.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/SecurityJustice"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://secthis.com">SecThis</a></b></div>
+<ul>
+<a href="http://networking.hackermedia.org"><img src="images/networking.gif"></a>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/secthis/~5/07hLiThV_oY/secthis.com.051.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/secthis/~5/07hLiThV_oY/secthis.com.051.mp3">Podcast 51- WPA, Utimaco, FISMA, MI6</a></li>
+<li><a href="http://feeds.feedburner.com/~r/secthis/~5/435231875/secthis.com.051.mp3"><img src="images/download.gif" /></a><a href="http://feeds.feedburner.com/~r/secthis/~5/435231875/secthis.com.051.mp3">Podcast 51- WPA, Utimaco, FISMA, MI6</a></li>
+<li><a href="http://feeds.feedburner.com/~r/secthis/~5/322952623/secthis.com.049.mp3"><img src="images/download.gif" /></a><a href="http://feeds.feedburner.com/~r/secthis/~5/322952623/secthis.com.049.mp3">Podcast 49 - Idiots, SCADA, ID Theft, Apple</a></li>
+<li><a href="http://feedproxy.google.com/~r/secthis/~5/WVrFiiIVS5I/secthis.com.049.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/secthis/~5/WVrFiiIVS5I/secthis.com.049.mp3">Podcast 49 - Idiots, SCADA, ID Theft, Apple</a></li>
+<li><a href="http://feeds.feedburner.com/~r/secthis/~5/305622544/secthis.com.048.mp3"><img src="images/download.gif" /></a><a href="http://feeds.feedburner.com/~r/secthis/~5/305622544/secthis.com.048.mp3">Podcast 48 - Google, Apple, RIAA, SCADA</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://secthis.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/secthis"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://productivelinux.com/">Productive Linux</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://feedproxy.google.com/~r/productivelinux/ymoN/~5/-2DJ1XLrSrM/PLP-Episode22.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/productivelinux/ymoN/~5/-2DJ1XLrSrM/PLP-Episode22.mp3">PL Podcast #22 - Puppy Linux 4.2 (MP3 Format)</a></li>
+<li><a href="http://feeds.feedburner.com/~r/productivelinux/ymoN/~5/545578723/PLP-Episode21.mp3"><img src="images/download.gif" /></a><a href="http://feeds.feedburner.com/~r/productivelinux/ymoN/~5/545578723/PLP-Episode21.mp3">PL Podcast #21 - Zim Wiki (MP3 Format)</a></li>
+<li><a href="http://feedproxy.google.com/~r/productivelinux/ymoN/~5/VUkmGjhrk70/PLP-Episode21.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/productivelinux/ymoN/~5/VUkmGjhrk70/PLP-Episode21.mp3">PL Podcast #21 - Zim Wiki (MP3 Format)</a></li>
+<li><a href="http://feeds.feedburner.com/~r/productivelinux/ymoN/~5/532823076/PLP-Episode20.mp3"><img src="images/download.gif" /></a><a href="http://feeds.feedburner.com/~r/productivelinux/ymoN/~5/532823076/PLP-Episode20.mp3">The ProductiveLinux Podcast Episode #20 - Gnome-Do 0.8.0 (MP3 Format)</a></li>
+<li><a href="http://feedproxy.google.com/~r/productivelinux/ymoN/~5/9qcYm00fMsM/PLP-Episode20.mp3"><img src="images/download.gif" /></a><a href="http://feedproxy.google.com/~r/productivelinux/ymoN/~5/9qcYm00fMsM/PLP-Episode20.mp3">The ProductiveLinux Podcast Episode #20 - Gnome-Do 0.8.0 (MP3 Format)</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://productivelinux.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://feeds.feedburner.com/productivelinux/ymoN?format=xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://linuxcranks.info/">Linux Cranks</a></b></div>
+<ul>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<a href="http://phreaking.hackermedia.org"><img src="images/phreaking.gif"></a>
+<hr /><li><a href="http://recordings.talkshoe.com/TC-20037/TS-155267.mp3"><img src="images/download.gif" /></a><a href="http://recordings.talkshoe.com/TC-20037/TS-155267.mp3">Linux Cranks Podcast 3x15</a></li>
+<li><a href="http://recordings.talkshoe.com/TC-20037/TS-152670.mp3"><img src="images/download.gif" /></a><a href="http://recordings.talkshoe.com/TC-20037/TS-152670.mp3">Linux Cranks - We have new feeds.</a></li>
+<li><a href="http://recordings.talkshoe.com/TC-20037/TS-149310.mp3"><img src="images/download.gif" /></a><a href="http://recordings.talkshoe.com/TC-20037/TS-149310.mp3">Linux Cranks 3x12 mp3 - Dropping Boxes and Dropping Trou</a></li>
+<li><a href="http://recordings.talkshoe.com/TC-20037/TS-147463.mp3"><img src="images/download.gif" /></a><a href="http://recordings.talkshoe.com/TC-20037/TS-147463.mp3">Linux Cranks 3x11 mp3 - Savory Biscuits</a></li>
+<li><a href="http://recordings.talkshoe.com/TC-20037/TS-143356.mp3"><img src="images/download.gif" /></a><a href="http://recordings.talkshoe.com/TC-20037/TS-143356.mp3">Linux Cranks 3x10 mp3 - Sweater Puppies and Moose</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://linuxcranks.info/"><img src="images/site.png"></a><a class="showcase" href="http://linuxcranks.info/forum"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://recordings.talkshoe.com/rss20037.xml"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://openshorts.wordpress.com/">Open Shorts</a></b></div>
+<ul>
+<a href="http://hardware.hackermedia.org"><img src="images/hardware.gif"></a>
+<a href="http://modding.hackermedia.org"><img src="images/modding.gif"></a>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://opensource.hackermedia.org"><img src="images/opensource.gif"></a>
+<hr /><li><a href="http://download.podango.com/mediatracker/1/75874/OpnShrts-EP0002-080524-And_We_re_Back.mp3http://download.podango.com/mediatracker/1/75874/OpnShrts-EP0002-080524-And_We_re_Back.mp3&lt"><img src="images/download.gif" /></a><a href="http://download.podango.com/mediatracker/1/75874/OpnShrts-EP0002-080524-And_We_re_Back.mp3http://download.podango.com/mediatracker/1/75874/OpnShrts-EP0002-080524-And_We_re_Back.mp3&lt">OpnShrts-EP0002-080524-And We’re Back</a></li>
+<li><a href="http://download.podango.com/mediatracker/1/75874/OpnShrts-EP0002-080524-And_We_re_Back.mp3"><img src="images/download.gif" /></a><a href="http://download.podango.com/mediatracker/1/75874/OpnShrts-EP0002-080524-And_We_re_Back.mp3">OpnShrts-EP0002-080524-And We’re Back</a></li>
+<li><a href="http://download.podango.com/mediatracker/1/64672/OpnShrts-EP0001-080225-10_Years_On_and_New_Beginnings.mp3"><img src="images/download.gif" /></a><a href="http://download.podango.com/mediatracker/1/64672/OpnShrts-EP0001-080225-10_Years_On_and_New_Beginnings.mp3">OpnShrts-EP0001-080225-10 Years On and New Beginnings</a></li>
+<li><a href="http://download.podango.com/mediatracker/1/63564/OpnShrts-EP0000-080221-HelloWorld.mp3"><img src="images/download.gif" /></a><a href="http://download.podango.com/mediatracker/1/63564/OpnShrts-EP0000-080221-HelloWorld.mp3">OpnShrts-EP0000-080221-HelloWorld</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://openshorts.wordpress.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://openshorts.wordpress.com/feed"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://portableadmin.com">Portable Admin</a></b></div>
+<ul>
+<a href="http://linux.hackermedia.org"><img src="images/linux.gif"></a>
+<a href="http://windows.hackermedia.org"><img src="images/windows.gif"></a>
+<hr /><li><a href="http://media.libsyn.com/media/mubix/SPR_EP0.mp3"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/mubix/SPR_EP0.mp3">Security Podcast Review Episode 0: CSOOnline.com Security Insights Podcast - Fast Food Part 2</a></li>
+<li><a href="http://traffic.libsyn.com/mubix/SPR_EP0.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/mubix/SPR_EP0.mp3">Security Podcast Review Episode 0: CSOOnline.com Security Insights Podcast - Fast Food Part 2</a></li>
+<li><a href="http://mubix.libsyn.com/index.php?post_id=250133#"><img src="images/download.gif" /></a><a href="http://mubix.libsyn.com/index.php?post_id=250133#">Podcast Con Episode 1</a></li>
+<li><a href="http://media.libsyn.com/media/mubix/PoCbeta1-defcon15.mp3"><img src="images/download.gif" /></a><a href="http://media.libsyn.com/media/mubix/PoCbeta1-defcon15.mp3">Podcast Con Episode 1</a></li>
+<li><a href="http://traffic.libsyn.com/mubix/PoCbeta1-defcon15.mp3"><img src="images/download.gif" /></a><a href="http://traffic.libsyn.com/mubix/PoCbeta1-defcon15.mp3">Podcast Con Episode 1</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://portableadmin.com"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://mubix.libsyn.com/rss"><img src="images/rss.png"></a></div>
+</div><div class="menubox">
+<div class="menuheader"><img style="border: none; vertical-align: text-bottom;" src="images/audio.gif" /> <b><a href="http://anonymousaudio.com/">Anonymous Audio</a></b></div>
+<ul>
+<a href="http://security.hackermedia.org"><img src="images/security.gif"></a>
+<hr /><li><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.11.05.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.11.05.mp3">Anonymous Audio #007</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.11.18.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.11.18.mp3">Anonymous Audio #007</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.10.01.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.10.01.mp3">Anonymous Audio #006</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.09.03.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.09.03.mp3">Anonymous Audio #005</a></li>
+<li><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.08.20.mp3"><img src="images/download.gif" /></a><a href="http://www.podtrac.com/pts/redirect.mp3/anonymousaudio.com/audio/aa-2010.08.20.mp3">Anonymous Audio #004</a></li>
+</ul>
+<div class="imagelinks"><a class="showcase" href="http://anonymousaudio.com/"><img src="images/site.png"></a><a class="showcase" href="http://www.binrev.com/forums/index.php?showforum=22"><img 
+src="images/discuss.png"></a><a class="showcase"  
+href="http://anonymousaudio.com/?feed=rss2"><img src="images/rss.png"></a></div>
+</div></div>   
+
+<div class="subframe">
+<div style="text-align: center;">
+<img src="logo/random_image.php">
+<p style="text-align: center; margin: 0px;">
+<p><a href="index.php">Index</a> <!-- <font color="green">::</font> <a href="masters.php">Masters</a> <font color="green">::</font> <a href="awards.php">Awards</a> <font color="green">::</font> <a href="search.php">Search</a> <a href="archive.php">Archive</a> <font color="green">::</font> <a href="logosandart.php">Art</a> --><font color="green">::</font> <a href="faq.php">FAQ</a>   <!--<font color="green">::</font> <a href="dev/">Dev</a>--> <font color="green">::</font> <a href="contact.php">Contact</a>
+<br></p></div>
+
+</div><div class="subframe">
+<b>Featured Media: <a href="http://basenetradio.net/">Basenet Radio</a></b><hr>
+<div style="font-size: 80%;">
+<ul>
+<li><a href="http://www.basenetradio.net/shows/basenetradio-high-4f.mp3">There is a new episode,</a></b> what? what?</li>
+</ul><p>The show has been dormant for some time (years) but its back.</p>
+<center><p><a href="http://basenetradio.net/"><img border="0" title="Website" src="images/site.png"></a> <a href="http://www.binrev.com/forums/"><img border="0" title="Forum" src="images/discuss.png"></a></p></center></div>  </div>
+    <div class="subframe">
+     <b>Latest HackerMedia:</b><br /><hr />
+     <div style="background-color: #444444;"><b><i>December 31, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1935.mp3">HPR1935: Quick Bashpodder Fix</a><br /><span style="font-size: 70%;">
+Bashpodder is a great Bash script for downloading the latest episodes of podcasts and other media from their feeds.
+
+
+There are a few feeds that are not handled properly by Bashpodder, namely, the TED Talks podcast feed and the NPR digest show called the TED Radio Hour.
+
+
+The URLs for the audio files have a number of additional fields at the end of the string after the media file name, and Bashpodder picks up the last field as if it were the media file name for the show. So every TED Radio Hour episode is called &quot;510298&quot;. If you download more than one episode at a time, only the last episode to be saved will survive. Each new file clobbers the last one, because they all get the same filename.
+
+
+Charles in NJ made a simple fix to Bashpodder.shell to correct this problem, and he shares it in this episode.
+
+
+Links:
+
+
+Bashpodder: http://lincgeek.org/bashpodder
+
+TED Talks: http://blog.ted.com/audio_podcasts/
+
+TED Radio Hour:  http://www.npr.org/podcasts/510298/ted-radio-hour
+
+
+
+Additional Resources:
+
+
+Original version of Bashpodder.shell 
+http://hackerpublicradio.org/eps/hpr1935-bashpodder_original.shell
+
+Revised version with fixes to pick up TED-related podcast files 
+http://hackerpublicradio.org/eps/hpr1935-bashpodder.shell
+
+Abbreviated example of bp.conf configuration file that tells Bashpodder what resources to fetch 
+http://hackerpublicradio.org/eps/hpr1935-bp.conf
+
+Abbreviated example of podcast.log that shows how Bashpodder stores its history, including some sample TED links.
+http://hackerpublicradio.org/eps/hpr1935-podcast.log
+
+
+
+
+Happy New Year from Charles in NJ. 
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 30, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1934.mp3">HPR1934: Experiencing the Meegopad T-02  Part two</a><br /><span style="font-size: 70%;">
+Part 2 of &quot;Experiencing the Meegopad T-02.
+
+
+Many thanks to all the HPR contributers that inspire such great stories.
+
+
+Glossary of slang terms to be updated upon show release, along with the list of sound effects contributers.
+
+
+
+</span><br /><br />
+<b><font color="green">Off the Hook</font></b><br />
+<a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151230-128.mp3">Off The Hook - Dec 30, 2015</a><br /><span style="font-size: 70%;"></span><br /><br />
+<b><font color="green">The Linux Link Tech Show</font></b><br />
+<a href="http://www.tlltsarchive.org/archives/tllts_639-12-30-15.mp3">The Linux Link Tech Show Episode 639</a><br /><span style="font-size: 70%;">Ian Murdock, banana pi, chef, vimb</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 29, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1933.mp3">HPR1933: HPR AudioBookClub 11 Street Candles</a><br /><span style="font-size: 70%;">SUMMARY
+In this episode, the HPR_AudioBookClub reviews Street Candles by David Collins-Rivera. You can download this AudioBook for free from http://www.cavalcadeaudio.com/.
+If you liked this book, or are a fan of David Collins-Rivera, you can purchase it from http://www.amazon.com/s?ie=UTF8&amp;page=1&amp;rh=n%3A283155%2Cp_27%3ADavid%20Collins-Rivera.
+Pre-Spoilers
+
+ Thaj: Great book. Makes me want to go back and re-read the previous book.  I wonder how well some of the commentary  present in this book will resonate in the future.  The story is good enough I have no doubt that it will still be a good read, but I'm not sure if it might loose a bit. 
+ x1101: I Loved this book. So much so that I listened to it twice. Every chapter is a cliff hanger.
+ pokey: I LOVE this AudioBook! The author (Lostinbronx) really made me care about each of the characters. Every chapter is a cliff hanger, and that WORKS precisely because I do care about the characters.
+ pegwole: It was a fantastic post modern essay on life. Even though I listened to the wrong AudioBook.
+ CrispyoneFifty: Speaking for all of humanity, to all of humanity's future, I say &quot;you should go download and listen to this AudioBook!&quot;
+
+(summary)
+BEVERAGE REVIEWS
+As  usual, the HPR_AudioBookClub took some time to review the beverages that each of us were drinking during the episode
+
+ Thaj: Running late, just drinking water.  I know LAME!
+ x1101: Black Isle Organic Oatmeal Stout. Very little head, a cholate/coffee nose, as well as chocolate/coffee malt notes. Not overly fizzy, but not sudsy at all. Excellent. http://www.blackislebrewery.com/beer/Hibernator-Oatmeal-Stout.html
+ pokey: I drank a Six Star Creatine fruit punch because I'm tired of looking like Ejoq. I have to go to the gym after the show, and this stuff seems to help with muscle recovery. It tastes pretty good. There's no funny artificial sweetener after taste, for which I'm very grateful. http://www.sixstarpro.com/products/creatinex3/
+ pegwole: It's coffee. Its not a special one either, now shut up.
+ CrispyoneFifty: Newcastle Werewolf Blood-Red Ale It's sweet up front, and leaves a sweet after taste, with a punch of bitter in between. You can definitely taste the rye in there too. http://www.beeradvocate.com/beer/profile/342/71106/
+
+Spoilers Notes
+x1101's mental image of Bin Ragensten http://4.bp.blogspot.com/-tBCFYZpXFTE/ULLWzqZ0X9I/AAAAAAAAAQ4/-w4FEX8atL8/s1600/Santa-Claus-Rise-Of-The-Guardians-600x375.jpg 
+OUR NEXT AUDIOBOOK
+The Call of Cthulhu by H. P. Lovecraft
+ http://hppodcraft.com/podcasts/TheCallofCthulhu-hppodcraft.mp3
+pegwole suggested this AudioBook, and we all thought that horror was a pretty good selection for our October recording.
+NEXT RECORDING
+We record the second Tuesday of every month at 20:00 Eastern US time Which = the second Wednesday of each month at 01:00z (unless its daylight saving time, then its the second Tuesday 24:00zhttps://en.wikipedia.org/wiki/ISO_8601#Times  If you'd like a Google calendar invite, or if you'd like to be on the  HPR_AudioBookClub mailing list, please get in contact with us on the HPR  mailing list 'hpr at hackerpublicradio dot org.' We're way behind on publishing, so if you want to join us, get in contact one of these ways and we'll let you know what the current book is.
+FEEDBACK
+Thank  you very much for listening to this episode of the HPR_AudioBookClub.  We had a great time recording this show, and we hope you enjoyed it as  well. We also hope you'll consider joining us next time. Please leave a few words in the episode's comment section.
+ As always; remember to visit the HPR contribution page HPR could really use your help right now.
+http://hackerpublicradio.org/contribute.php
+Sincerely,
+ The HPR_AudioBookClub
+P.S. Some people really like finding mistakes. For their enjoyment, we always include a few.
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 28, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1932.mp3">HPR1932: Klaatu interviews Grafana</a><br /><span style="font-size: 70%;">
+Grafana provides a powerful and elegant way to create, explore, and share dashboards and data with your team and the world.
+
+
+Grafana is most commonly used for visualizing time series data for Internet infrastructure and application analytics but many use it in other domains including industrial sensors, home automation, weather, and process control.
+
+
+http://grafana.org
+
+
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 27, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1931.mp3">HPR1931: Atomic force microscopy</a><br /><span style="font-size: 70%;">I give a quick overview of what is nanotechnology. go over some of the tools used to view the small scale. I go a bit more in depth with atomic force microscopy.
+I left many things out that I would like to have said but mostly you can get further information here:
+https://en.wikipedia.org/wiki/Atomic_force_microscopy
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 24, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1930.mp3">HPR1930: A systemd primer</a><br /><span style="font-size: 70%;">1 What is systemd?
+A dependency system for unix services.
+And, a set of basic unix services to make a unix system usable.
+And, a growing list of not quite so basic services
+
+NTP, networkd, timers (crond/atd)
+
+From a programmers perspective, it’s the mainloop phenomenon.
+Alternatives
+Solaris: Service Management Facility
+Mac OSX: launchd
+Ubuntu: upstart (until recently)
+3 Replaces
+SYSV
+LSB (actually implements LSB deps)
+4 Terminology
+units
+
+[auto]mount
+swap
+path (inotify triggers)
+socket
+timer (crond/atd)
+service
+slice (cgroup)
+pseudo
+device
+snapshot
+scope
+
+
+
+targets
+
+replace run levels
+default target at boot
+can isolate to just one target
+
+5 Advantages – Design
+Proper, explicit dependencies between system compontents
+Starts components in parallel
+A proper separation of concerns, lots of situations covered.
+
+configuration files are regular, simple to understand generally small
+OTOH, there are LOTS of options
+
+Configuration is not runnable shell.
+[Unit]
+Description=CUPS Scheduler
+Documentation=man:cupsd(8)
+
+[Service]
+ExecStart=/usr/sbin/cupsd -l
+Type=simple
+
+[Install]
+Also=cups.socket cups.path
+WantedBy=printer.target
+
+Separate system and user daemons.
+6 Advantages – Sysadmins
+Modify configuration without modifying upstream configuration
+Service watching (startup, watchdog, failure modes)
+systemd-delta
+[EXTENDED]   /lib/systemd/system/rc-local.service → /lib/systemd/system/rc-local.service.d/debian.conf
+[EXTENDED]   /lib/systemd/system/systemd-timesyncd.service → /lib/systemd/system/systemd-timesyncd.service.d/disable-with-time-daemon.conf
+[EQUIVALENT] /etc/systemd/system/default.target → /lib/systemd/system/default.target
+
+3 overridden configuration files found.
+
+7 Advantages – Programming
+Removal of some error and security prone code
+
+socket activation (e.g. privileged ports)
+user/group changing
+
+8 Advantages – Provisioning
+standardized cgroup controls
+containers
+debootstrap ; systemd-spawn-boot
+* systemd takes care of all pseudo file systems for you
+9 Advantages – Users
+quick to boot
+can reduce load later on (services start &amp;amp; stop as required)
+10 Examples
+Color legend:
+
+black = Requires
+dark blue = Requisite
+dark grey = Wants
+red = Conflicts
+green = After
+
+systemd-analyze blame
+systemd-analyze plot
+systemd-analyze plot gdm.service
+11 Disadvantages
+Journald
+
+It’s really nice in theory, but in practice I’ve found it to be slow and buggy
+
+It’s a little new, so LTS distros necessarily have older versions
+
+el7 has something like 200 patches
+
+network-online.target is a bit flakey
+DBUS
+
+Unix is a graveyard of IPC, I don’t feel DBUS is much better
+KDBUS means it will probably be around for ever.
+
+12 Quandries
+Deeply hooked into linux specific details, not portable
+
+kernel api, cgroups, udev etc.
+
+Some cool features relient on file system e.g. btrfs for snapshot
+13 Future
+I haven’t had a chance to play with networkd yet, but it sounds like it’s going to be very good.
+14 Questions
+Migrating
+
+It depends…
+systemd only supports start/stop/reload
+work with the daemon: oneshot/simple/forking/inetd
+integrate with systemd: notify, watchdog
+
+Userspace
+
+Every login, a separate systemd –user is spawned
+Can override with .config/systemd files
+
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 23, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1929.mp3">HPR1929: I Found a Flashlight</a><br /><span style="font-size: 70%;">I Found a Flashlight
+
+A couple of weeks ago on the way to work I found a flashlight (or a &quot;torch,&quot; for those folks across the pond). It was rolling around on the street getting run over by cars and seemingly not suffering any damage as result. As soon as it was safe, I walked out into the street and grabbed it and took it with me. A little poking around online showed me that this was no ordinary device, but a police-grade flashlight.
+
+
+
+I contacted the Lafayette Police Department to find out what kind of flashlights they used and whether anyone had reported one missing. Ordinarily when I find something I don't worry about this, but I discovered that this thing cost quite a lot of money—around $125 on Amazon with a retail price of $225—and if a police officer had lost it I certainly didn't want him going into his own pocket to replace it if I could just give it back to him. The police department wrote back to me saying, yes, this was the kind of flashlight that they issued to their officers but no one was missing one. I also asked the University Police and they said they don't normally issue flashlights but that sometimes officers bought their own and no one had reported missing one. 
+
+After seeing the amazing build quality and absolutely unbelievable light quality this thing produced, I decided to keep it and so I had to buy a charger to recharge the battery. This cost about $28 and now I'm the proud owner of a Streamlight SL-20L flashlight. This is truly one of the greatest tools I've ever had. Listen to the show to hear me sing its praises!
+
+
+
+Links
+
+
+	Streamlight SL-20L LED Rechargeable Flashlight Series
+
+</span><br /><br />
+<b><font color="green">Off the Hook</font></b><br />
+<a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151223-128.mp3">Off The Hook - Dec 23, 2015</a><br /><span style="font-size: 70%;"></span><br /><br />
+<b><font color="green">Phone Losers</font></b><br />
+<a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-23_snow_plow_show_royco_construction_inc_LQ.mp3">Royco Construction Inc.</a><br /><span style="font-size: 70%;">
+Tony from Arizona is responsible for Kay's death.  Not me.  In today's show, I mostly fail at making people believe that I've torn their roof off, but a couple of them fall for it.  RIP, KAY!
+</span><br /><br />
+<b><font color="green">The Linux Link Tech Show</font></b><br />
+<a href="http://www.tlltsarchive.org/archives/tllts_638-12-23-15.mp3">The Linux Link Tech Show Episode 638</a><br /><span style="font-size: 70%;">Updates and fun, vivaldi, chef, systemd, wifi, pats ham, raspberry pi</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 22, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1928.mp3">HPR1928: Cov's Jams</a><br /><span style="font-size: 70%;">
+The playlist can be found at https://www.jamendo.com/playlist/500146000/cov-s-jams-001
+
+
+
+Cedric Share-The Awakening Part.II (DerFilm Cut Edition) CEDRIC SHARE #piano #technominimal #techno 02:39
+VENTO SUL 1 JURA #happy 03:19
+Satisfied MAURO DEL MAR (A.K.A. SCÁNDALI) #soundscapes #rock #song 02:06  
+Deva Dasis TASTE OF DREAM #keyboard #synthesizer #lounge 04:21 
+Im In Love With A Man ( I Can't Stand) ROCC NOBLES 03:36  
+We Have A Problem BILLY KORG #rock 05:35 
+Libera Me MARIO SALIS #strings #sad #soundtrack 04:53 
+Кокарда ДЕВЯТЬ #vocal 05:08 
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 21, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1927.mp3">HPR1927: Ansible Interview</a><br /><span style="font-size: 70%;">
+Klaatu talks to Ansible at All Things Open conference.
+
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 20, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1926.mp3">HPR1926: National Measurements Institutes</a><br /><span style="font-size: 70%;">I give a short personal view on what are National Measurements Institutes. More info can be found here:
+
+https://en.wikipedia.org/wiki/Measurement_uncertainty
+https://en.wikipedia.org/wiki/Metrology
+https://en.wikipedia.org/wiki/International_Bureau_of_Weights_and_Measures
+https://en.wikipedia.org/wiki/National_Physical_Laboratory_%28United_Kingdom%29
+https://en.wikipedia.org/wiki/Physikalisch-Technische_Bundesanstalt
+https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology
+
+One thing not mentioned but related is ISO:
+https://en.wikipedia.org/wiki/International_Organization_for_Standardization
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 19, 2015</i></b></div><br />
+<b><font color="green">Phone Losers</font></b><br />
+<a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-19_snow_plow_show_ugly_christmas_trees_LQ.mp3">Ugly Christmas Trees</a><br /><span style="font-size: 70%;">
+Gizmo doesn't hate the baby Jesus and probably has more lights on his house than Clark Griswald.  Thanks, Gizmo!
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 17, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1925.mp3">HPR1925: Kdenlive Part 1: Introduction to Kdenlive</a><br /><span style="font-size: 70%;">
+This article has been written by Seth Kenlon and is narrated for you by Geddes. It was first published on 2011-11-16 and some of the commands may have changed slightly. Please see https://opensource.com/life/11/11/introduction-kdenlive for the complete text.
+
+
+
+Seth Kenlon is an independent multimedia artist, free culture advocate, and UNIX geek. He is one of the maintainers of the Slackware-based multimedia production project, http://slackermedia.ml
+
+
+
+GNU/Linux has infamously been wanting for a good, solid, professional-level free video editor for years. There have been glimpses of hope here and there, but mostly the editors that have the look and feel of a professional application are prone to blockbuster-worthy crashes, and those that have been stable have mostly been stable because they don't actually do anything beyond very basic editing. Kdenlive changes all of that.
+
+
+At the film production facility at which I work, Kdenlive is the Linux editor in production use, and it performs (and frequently out-performs) the Mac boxes in cost, upkeep, flexibility, speed, and stability. This article series seeks to illuminate for professional editors how Kdenlive can replace proprietary tools, nearly as a drop-in replacement.
+
+
+A good video editor is one that is suitable for anyone wanting to edit video, with powerful features that enable the video professional to do any task required of the job, yet with the simplicity that allows a hobbyist to quickly cut together footage off of a phone or point-and-click camera. Kdenlive can be both of those things, but regardless of the scope of your video project, there are right and wrong ways of doing things. Over the course of five articles, we will review the practical usage and the common set of best practices that will ensure your projects are successful.
+
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 16, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1924.mp3">HPR1924: Port Forwarding</a><br /><span style="font-size: 70%;">Port Forwarding
+In Episode 1900, Ahuka advised you not to expose the ssh service to the Internet on the default port 22, there we agree. This is called &amp;quot;Security Through Obscurity&amp;quot;. Whenever possible, server functions exposed to the Internet should be on non-default port numbers (the exception being HTTP on a public web server). I disagree however, in Ahuka's method of changing the port. He said you should change the port on the server itself:
+From http://www.cyberciti.biz/tips/setup-ssh-to-run-on-a-non-standard-port.html
+Open /etc/ssh/sshd_config file and look for line Port 22 and change line to Port 2222. Restart sshd server. systemctl restart sshd
+Sshd is running on a non-standard port, connection attempts to the system will fail. You need to connect using following command:
+$ ssh -p 2222 user@your-ip OR $ ssh -p 2222 user@you.homenetwork.org
+This could make sense if you manage a business or school network, where you have numerous users within your network with whom you share varying levels of trust. Still, I don't think anyone who can brute force your shh logon or shared keys would be stymied by a simple change of ports. But Ahuka also mentioned home networks, and I think we would rather keep things simple. I would humbly suggest keep ssh servers set to port 22 internally, and using a technology called &amp;quot;port forwarding&amp;quot; available on most consumer routers. Port forwarding is simply an administrator configured table that redirects incoming traffic on one IP port to a specific internal IP address and IP port on your internal network. In fact, unless you have only one PC connected directly to you ISP with no router or firewall, you will still need to setup port forwarding to tell the router which machine on your network the for which incoming communication is intended.
+In other words, let's say you've enabled ssh on port 40001 of a machine with an internal address of 192.168.1.5. You try to login remotely via ssh on port 40001 using the external IP assigned to you by your ISP (which is taken from a range assigned to them by the IANA). The external IP of your router should be displayed on your router's status page, or you could type &amp;quot;what is my IP&amp;quot; into Google. Instead of an IP in the range 192.168.x.y, like you are probably using internally, your external address will be in the Class A or B range, for instance 73.149.12.124.
+So let's say you have ssh server running on port 40001 on a machine with IP adddress 192.168.1.5 on your home network. Your server has an external address of 73.149.12.124. You are at work or on vaction or whatever and you want to ssh into that machine on your home network, i.e,
+ssh -p 40001 you@73.149.12.124
+Unless the router itself supports ssh server (entirely possible with third party Linux based firmwares like Open-WRT and DD-WRT), if you haven't configured port fowarding, the router won't have any idea what to do with an incoming request on port 40001. You need to set up your port forwarding table in your router (don't worry, it's all point and click). IP forwarding may be under Advanced, in the menus, or Security, or Firewall, or a combination of the above.
+You will be asked to enter the external port number (in our example, 40001), TCP or UDP or both (in our case, ssh is both, so you may have to create two separate entries), the internal IP address (in our example 192.168.1.5) and the internal port number (if you changed it internally as Ahuka recommended, in our example 40001, but, and this is the whole point of this podcast, you are going to have to set up port forwarding anyway, so why change the port number locally in the first place? If the terms TCP (Transport Control Protocol) and UDP (User Data Protocol) are unfamiliar to you, the difference can easily be explained. Using TCP, the computer transmitting data stops every few packets (I think the default is three, but don't hold me to it) until it gets an acknowledgment from the receiver that the packets were successfully received, then the sender continues. With UDP, the sender blurts out the whole transmission without caring whether the receiver go it or not.
+Wikipedia has a great article on official and unofficial standardized port numbers. Once you get into five digits, conflicts to already assigned ports are rare, but it's still best to consult the Wiki. The higher numbers are generally not officially assigned, some particular software product is just &amp;quot;squatting&amp;quot; on the number. In fact, using the port number for a technology you are certain will never be used on your network may further obfuscate the service for which you are actually using it. You may think port 40001 is surely high enough to be free of conflict, but the Wiki says 40000 is used by &amp;quot;SafetyNET p Real-time Industrial Ethernet protocol&amp;quot;.
+Another advantage of port redirection is you could use a different external port number with every host on your network, i.e., 40001 redirects to you server, 40002 redirects to your desktop, 40003 redirects to the old laptop in the kid's room, etc. Personally, I'd only have port redirection into a single machine that is connected persistently (like a server), and the ssh from it into other hosts on the network (yes, this would be a connection of at least three nested shells). You can even run graphical programs over ssh with the -X argument, but I'm leaving that on for later discussion. Of course, we will loose that functionality when we move from x-server to Wayland, so if you need a GUI you may have to investigate technologies like VNC or VPN.
+Of course, everything depends on having a static IP locally on the ssh server (either set on host itself or manual assignment of IP on the router, if possible). You either need a static external address on the WAN (i.e., external address as seen from the Internet) side or employ a domain forwarding service. Also keep in mind, once we get Ivp6, everything above goes out the window.
+Links
+
+http://www.cyberciti.biz/tips/setup-ssh-to-run-on-a-non-standard-port.html
+
+</span><br /><br />
+<b><font color="green">Off the Hook</font></b><br />
+<a href="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151216-128.mp3">Off The Hook - Dec 16, 2015</a><br /><span style="font-size: 70%;"></span><br /><br />
+<b><font color="green">The Linux Link Tech Show</font></b><br />
+<a href="http://www.tlltsarchive.org/archives/tllts_637-12-16-15.mp3">The Linux Link Tech Show Episode 637</a><br /><span style="font-size: 70%;">Christian and Jon join us from the Vivaldi Project.</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 15, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1923.mp3">HPR1923:  Klaatu and System76</a><br /><span style="font-size: 70%;">
+Klaatu interviews Sam about kjd newest line of System76 computers, now with an all metal body! (the computers, not Klaatu, or Sam)
+
+
+https://system76.com/
+
+</span><br /><br />
+<b><font color="green">Phone Losers</font></b><br />
+<a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-14_snow_plow_show_roy_gets_terminated_LQ.mp3">Roy Gets Terminated</a><br /><span style="font-size: 70%;">
+Buster C is today's show sponsor, where I call more landlords from the list  Apocalypse sent me.
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 14, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1922.mp3">HPR1922: The case to backup Google email.</a><br /><span style="font-size: 70%;">
+Google Takeout, good for backup of gmail, or anything else from the Google-verse.
+
+
+https://www.google.com/takeout/
+
+
+
+
+Thunderbird email client
+
+
+https://www.mozilla.org/en-US/thunderbird/
+
+
+
+
+ImportExportTools for Thunderbird
+
+
+https://addons.mozilla.org/en-US/thunderbird/addon/importexporttools/
+
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 13, 2015</i></b></div><br />
+<b><font color="green">Hacker Public Radio</font></b><br />
+<a href="http://hackerpublicradio.org/eps/hpr1921.mp3">HPR1921: How to run a conference</a><br /><span style="font-size: 70%;">
+The slides that this podcast are based upon can be found here:
+
+
+https://docs.google.com/presentation/d/1_fkpXmW7ruYXOZBzXG5wGuNeFV_JPCA7G2A7qTMlN8g/edit?usp=sharing
+
+
+
+</span><br /><br />
+<div style="background-color: #444444;"><b><i>December 11, 2015</i></b></div><br />
+<b><font color="green">Phone Losers</font></b><br />
+<a href="http://www.bigbeefbueno.com/Shows/The_Snow_Plow_Show/2015-12-11_snow_plow_show_tenants_from_airbnb_LQ.mp3">Tenants From Airbnb</a><br /><span style="font-size: 70%;">
+Kody A. sponsors today's show where I attempt to re-create the latest Airbnb debacle in the form of wacky prank phone calls.
+</span><br /><br />
+<center><hr><a href="index_more.php">[more]</a></center>
+</div>
+<div class="subframe">
+<center>
+<span style="font-size: 80%;">
+Link to us!<br />
+<img border="1" src="http://hackermedia.org/images/hm_linkbox.gif"><br />
+Hackermedia.org is provided by:<br /><a href="http://binrev.com">Binary Revolution</a> | <a href="http://nomicon.info">Infonomicon Computer Club</a></span></center>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-1dsmrjyrjWnko";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-1dsmrjyrjWnko" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-1dsmrjyrjWnko.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+<!-- End Quantcast tag -->
+
+</div>
+ 
+   </div>
+  </div>
+ </body>
 </html>

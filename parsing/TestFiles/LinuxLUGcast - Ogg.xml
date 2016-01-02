@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+	<title>LinuxLUGcast - Ogg</title>
+	
+	<link>http://linuxlugcast.com</link>
+	<description>This episode in Ogg format</description>
+	<lastBuildDate>Sun, 20 Dec 2015 17:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4</generator>
+<!-- podcast_generator="Blubrry PowerPress/6.3" mode="advanced" -->
+	<itunes:summary />
+	<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+	<itunes:subtitle />
+	<image>
+		<title>LinuxLUGcast - Ogg</title>
+		<url>http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png</url>
+		<link>http://linuxlugcast.com</link>
+	</image>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/linuxlugcast/JZUx" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="linuxlugcast/jzux" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:thumbnail url="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" /><item>
+		<title>Episode-046</title>
+		<link>http://linuxlugcast.com/?p=464</link>
+		<pubDate>Sat, 19 Dec 2015 19:13:03 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=464</guid>
+		<comments>http://linuxlugcast.com/?p=464#respond</comments>
+		<dc:creator>Philip Shaffer</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description> 
+
+Listener Feedback
+
+ email:
+
+kwisher: The AUR has no packages for ARM, yaourt -A can force ignore, Debian/Ubuntu Nagios package is nagios3
+
+acremaker: using vlc to stream video “to play encrypted bluray (movies) with linux ... to install Makemkv and its modified libaacs
+library (from AUR for Arch users)”
+
+Dave Morris: more about Nagios  and running a pi off a drive not an sdcard: https://learn.adafruit.com/external-drive-as-raspberry-pi-root/overview
+
+Ilan Rabinovitch: SCALE announcement
+http://www.socallinuxexpo.org/
+
+mailing list:
+monsterb: let’s encrypt
+https://letsencrypt.readthedocs.org/en/latest/intro.html
+ssl cert checkers:
+sslscan (available in most repos)
+https://www.ssllabs.com/index.html
+
+G+ community page:
+Mark Rice: owncloud or seafile
+
+Monsterb: world's first commercial remote-controlled drone powered by ubuntu
+http://fossbytes.com/worlds-first-commercial-remote-controlled-drones-powered-ubuntu/
+
+Show Topics
+
+FiftyOneFifty 
+Nagios progress: Evaluation of Snappy Core as a platform. Chose Ubuntu Mate for ARM instead, attempting terminal only mode
+install grub2-common, sudo update-grub http://askubuntu.com/questions/16371/how-do-i-disable-x-at-boot-time-so-that-the-system-boots-in-text-mode
+ChromeOS evaluation:  Google doesn’t produce images for installation on generic systems.  While there are several ChromeOS skinned versions of Ubuntu,  the only true ChromiumOS based images are available here: http://arnoldthebat.co.uk/wordpress/chromium-os/
+Quickrevue: Fluke Networks MicroMapper  (Ethernet Cable Tester)
+
+HonkeyMagoo
+x11vnc
+https://wiki.archlinux.org/index.php/X11vnc</description>
+		<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><span style="font-family: Sans; font-size: 9pt;"><b><span style="color: #000000; text-decoration: underline;">Listener Feedback</span></b></span></p>
+<p><span style="font-family: Sans; font-size: 9pt;"> <b><span style="color: #000000;">email:</span></b></span></p>
+<p><span style="color: #000000;">kwisher: The AUR has no packages for ARM, yaourt -A can force ignore, Debian/Ubuntu Nagios package is nagios3</span></p>
+<p><span style="color: #000000;">acremaker: using vlc to stream video “to play encrypted bluray (movies) with linux &#8230; to install Makemkv and its modified libaacs</span><br />
+<span style="color: #000000;">library (from AUR for Arch users)”</span></p>
+<p><span style="color: #000000;">Dave Morris: more about Nagios  and running a pi off a drive not an sdcard: <a href="https://learn.adafruit.com/external-drive-as-raspberry-pi-root/overview">https://learn.adafruit.com/external-drive-as-raspberry-pi-root/overview</a></span></p>
+<p><span style="color: #000000;">Ilan Rabinovitch: SCALE announcement</span><br />
+<a href="http://www.socallinuxexpo.org/">http://www.socallinuxexpo.org/</a></p>
+<p><b><span style="color: #000000;">mailing list:</span></b><br />
+<span style="color: #000000;">monsterb: let’s encrypt</span><br />
+<a href="https://letsencrypt.readthedocs.org/en/latest/intro.html">https://letsencrypt.readthedocs.org/en/latest/intro.html</a><br />
+<span style="color: #000000;">ssl cert checkers:</span><br />
+<span style="color: #000000;">sslscan (available in most repos)</span><br />
+<a href="https://www.ssllabs.com/index.html">https://www.ssllabs.com/index.html</a></p>
+<p><b><span style="color: #000000;">G+ community page:</span></b><br />
+<span style="color: #000000;">Mark Rice: owncloud or seafile</span></p>
+<p><span style="color: #000000;">Monsterb: world&#8217;s first commercial remote-controlled drone powered by ubuntu</span><br />
+<a href="http://fossbytes.com/worlds-first-commercial-remote-controlled-drones-powered-ubuntu/">http://fossbytes.com/worlds-first-commercial-remote-controlled-drones-powered-ubuntu/</a></p>
+<p><b><span style="color: #000000; text-decoration: underline;">Show Topics</span></b></p>
+<p><b><span style="color: #000000; text-decoration: underline;">FiftyOneFifty </span></b><br />
+<span style="color: #000000;">Nagios progress: Evaluation of Snappy Core as a platform. Chose Ubuntu Mate for ARM instead, attempting terminal only mode</span><br />
+<span style="color: #000000;">install grub2-common, sudo update-grub </span><a href="http://askubuntu.com/questions/16371/how-do-i-disable-x-at-boot-time-so-that-the-system-boots-in-text-mode">http://askubuntu.com/questions/16371/how-do-i-disable-x-at-boot-time-so-that-the-system-boots-in-text-mode</a><br />
+<span style="color: #000000;">ChromeOS evaluation:  Google doesn’t produce images for installation on generic systems.  While there are several ChromeOS skinned versions of Ubuntu,  the only true ChromiumOS based images are available here: <a href="http://arnoldthebat.co.uk/wordpress/chromium-os">http://arnoldthebat.co.uk/wordpress/chromium-os</a>/</span><br />
+<span style="color: #000000;">Quickrevue: Fluke Networks MicroMapper  (Ethernet Cable Tester)</span></p>
+<p><b><span style="color: #000000; text-decoration: underline;">HonkeyMagoo</span></b><br />
+<span style="color: #000000;">x11vnc</span><br />
+<a href="https://wiki.archlinux.org/index.php/X11vnc">https://wiki.archlinux.org/index.php/X11vnc</a></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=464</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLUGCast046/LinuxLUGCast_046.ogg" length="55683346" type="audio/ogg" />
+	<itunes:subtitle>  - Listener Feedback email: - kwisher: The AUR has no packages for ARM, yaourt -A can force ignore, Debian/Ubuntu Nagios package is nagios3 - acremaker: using vlc to stream video “to play encrypted bluray (movies) with linux ...</itunes:subtitle>
+		<itunes:summary> 
+
+Listener Feedback
+
+ email:
+
+kwisher: The AUR has no packages for ARM, yaourt -A can force ignore, Debian/Ubuntu Nagios package is nagios3
+
+acremaker: using vlc to stream video “to play encrypted bluray (movies) with linux ... to install Makemkv and its modified libaacs
+library (from AUR for Arch users)”
+
+Dave Morris: more about Nagios  and running a pi off a drive not an sdcard: &lt;a href="https://learn.adafruit.com/external-drive-as-raspberry-pi-root/overview"&gt;https://learn.adafruit.com/external-drive-as-raspberry-pi-root/overview&lt;/a&gt;
+
+Ilan Rabinovitch: SCALE announcement
+&lt;a href="http://www.socallinuxexpo.org/"&gt;http://www.socallinuxexpo.org/&lt;/a&gt;
+
+mailing list:
+monsterb: let’s encrypt
+&lt;a href="https://letsencrypt.readthedocs.org/en/latest/intro.html"&gt;https://letsencrypt.readthedocs.org/en/latest/intro.html&lt;/a&gt;
+ssl cert checkers:
+sslscan (available in most repos)
+&lt;a href="https://www.ssllabs.com/index.html"&gt;https://www.ssllabs.com/index.html&lt;/a&gt;
+
+G+ community page:
+Mark Rice: owncloud or seafile
+
+Monsterb: world's first commercial remote-controlled drone powered by ubuntu
+&lt;a href="http://fossbytes.com/worlds-first-commercial-remote-controlled-drones-powered-ubuntu/"&gt;http://fossbytes.com/worlds-first-commercial-remote-controlled-drones-powered-ubuntu/&lt;/a&gt;
+
+Show Topics
+
+FiftyOneFifty 
+Nagios progress: Evaluation of Snappy Core as a platform. Chose Ubuntu Mate for ARM instead, attempting terminal only mode
+install grub2-common, sudo update-grub &lt;a href="http://askubuntu.com/questions/16371/how-do-i-disable-x-at-boot-time-so-that-the-system-boots-in-text-mode"&gt;http://askubuntu.com/questions/16371/how-do-i-disable-x-at-boot-time-so-that-the-system-boots-in-text-mode&lt;/a&gt;
+ChromeOS evaluation:  Google doesn’t produce images for installation on generic systems.  While there are several ChromeOS skinned versions of Ubuntu,  the only true ChromiumOS based images are available here: &lt;a href="http://arnoldthebat.co.uk/wordpress/chromium-os"&gt;http://arnoldthebat.co.uk/wordpress/chromium-os&lt;/a&gt;/
+Quickrevue: Fluke Networks MicroMapper  (Ethernet Cable Tester)
+
+HonkeyMagoo
+x11vnc
+&lt;a href="https://wiki.archlinux.org/index.php/X11vnc"&gt;https://wiki.archlinux.org/index.php/X11vnc&lt;/a&gt;</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:10</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLUGCast046/LinuxLUGCast_046.ogg" fileSize="55683346" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-045</title>
+		<link>http://linuxlugcast.com/?p=459</link>
+		<pubDate>Sun, 06 Dec 2015 11:52:59 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=459</guid>
+		<comments>http://linuxlugcast.com/?p=459#respond</comments>
+		<dc:creator>Philip Shaffer</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>&lt;!doctype html&gt;
+
+episode 45Showtopics
+
+FiftyOneFifty 
+More on Nagios.  Version of hardware monitoring modules has the wrong syntax for Python 3.  Original source in the AUR is now missing.  When you eliminate the outdated source, you find the source has not been ported to ARM.  There is a possibility of installing Nagios from Debian/Ubuntu repros (thanks Dave Morris).  https://www.howtoforge.com/instdiaalling-nagios-on-debian-lenny-and-monitoring-a-debian-lenny-server Chromecast wired adapter on Raspberry Pi, does not automatically show up as a new interface.  Ideas for multimedia streaming across a network, i.e., “casting” DVDs to TVs on my home network.
+
+HonkeyMagoo
+Mediatomb: MediaTomb is an open source (GPL) UPnP MediaServer with a nice web user interface, it allows you to stream your digital media through your home network
+
+http://mediatomb.cc/
+
+configuring mediatomb to work with ps3
+
+https://help.ubuntu.com/community/MediaTomb
+
+Also a long discussion on what Linux OS to put new users on
+
+
+Next recording date: Dec. 18, 2015</description>
+		<content:encoded><![CDATA[<p>&lt;!doctype html&gt;</p>
+<p>episode 45<span style="font-family: Sans; font-size: 9pt;"><b>Showtopics</b></p>
+<p><b><span style="color: #000000; text-decoration: underline;">FiftyOneFifty </span></b><br />
+<span style="color: #000000;">More on Nagios.  Version of hardware monitoring modules has the wrong syntax for Python 3.  Original source in the AUR is now missing.  When you eliminate the outdated source, you find the source has not been ported to ARM.  There is a possibility of installing Nagios from Debian/Ubuntu repros (thanks Dave Morris).  </span><a href="https://www.howtoforge.com/installing-nagios-on-debian-lenny-and-monitoring-a-debian-lenny-server">https://www.howtoforge.com/instdiaalling-nagios-on-debian-lenny-and-monitoring-a-debian-lenny-server</a><span style="color: #000000;"> Chromecast wired adapter on Raspberry Pi, does not automatically show up as a new interface.  Ideas for multimedia streaming across a network, i.e., “casting” DVDs to TVs on my home network.</span></p>
+<p><b><span style="color: #000000; text-decoration: underline;">HonkeyMagoo</span></b><br />
+<span style="color: #000000;">Mediatomb: </span><span style="color: #333333; background-color: #ffffff;">MediaTomb is an open source (GPL) UPnP MediaServer with a nice web user interface, it allows you to stream your digital media through your home network</span></p>
+<p><a href="http://mediatomb.cc/">http://mediatomb.cc/</a></p>
+<p><span style="color: #333333; background-color: #ffffff;">configuring mediatomb to work with ps3</span></p>
+<p><a href="https://help.ubuntu.com/community/MediaTomb">https://help.ubuntu.com/community/MediaTomb</a></p>
+<p>Also a long discussion on what Linux OS to put new users on</p>
+<p><b><span style="color: #000000;">Next recording date: Dec. 18, 2015</span></b></span></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=459</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLUGCast045/LinuxLUGCast_045.ogg" length="64931016" type="audio/ogg" />
+	<itunes:subtitle>&lt;!doctype html&gt; - episode 45Showtopics - FiftyOneFifty  More on Nagios.  Version of hardware monitoring modules has the wrong syntax for Python 3.  Original source in the AUR is now missing.  When you eliminate the outdated source,</itunes:subtitle>
+		<itunes:summary>&lt;!doctype html&gt;
+
+episode 45Showtopics
+
+FiftyOneFifty 
+More on Nagios.  Version of hardware monitoring modules has the wrong syntax for Python 3.  Original source in the AUR is now missing.  When you eliminate the outdated source, you find the source has not been ported to ARM.  There is a possibility of installing Nagios from Debian/Ubuntu repros (thanks Dave Morris).  &lt;a href="https://www.howtoforge.com/installing-nagios-on-debian-lenny-and-monitoring-a-debian-lenny-server"&gt;https://www.howtoforge.com/instdiaalling-nagios-on-debian-lenny-and-monitoring-a-debian-lenny-server&lt;/a&gt; Chromecast wired adapter on Raspberry Pi, does not automatically show up as a new interface.  Ideas for multimedia streaming across a network, i.e., “casting” DVDs to TVs on my home network.
+
+HonkeyMagoo
+Mediatomb: MediaTomb is an open source (GPL) UPnP MediaServer with a nice web user interface, it allows you to stream your digital media through your home network
+
+&lt;a href="http://mediatomb.cc/"&gt;http://mediatomb.cc/&lt;/a&gt;
+
+configuring mediatomb to work with ps3
+
+&lt;a href="https://help.ubuntu.com/community/MediaTomb"&gt;https://help.ubuntu.com/community/MediaTomb&lt;/a&gt;
+
+Also a long discussion on what Linux OS to put new users on
+
+
+Next recording date: Dec. 18, 2015</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:30:00</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLUGCast045/LinuxLUGCast_045.ogg" fileSize="64931016" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-044</title>
+		<link>http://linuxlugcast.com/?p=451</link>
+		<pubDate>Wed, 25 Nov 2015 17:31:50 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=451</guid>
+		<comments>http://linuxlugcast.com/?p=451#respond</comments>
+		<dc:creator>Kevin Wisher</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>Show Topics
+
+FiftyOneFifty
+
+Reviews: Remix Mini
+
+http://www.jide.com/en/mini
+
+Quassel:
+
+http://www.quassel-irc.org/
+
+http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu
+
+Next recording date: Dec. 4, 2015
+
+ </description>
+		<content:encoded><![CDATA[<p><b>Show Topics</b></p>
+<p><strong>FiftyOneFifty</strong></p>
+<p><em>Reviews: Remix Mini</em></p>
+<p><a href="http://www.jide.com/en/mini">http://www.jide.com/en/mini</a></p>
+<p><em>Quassel:</em></p>
+<p><a href="http://www.quassel-irc.org/">http://www.quassel-irc.org/</a></p>
+<p><a href="http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu">http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu</a></p>
+<p><strong>Next recording date: Dec. 4, 2015</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=451</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-044/LugCast-044.ogg" length="64000447" type="audio/ogg" />
+	<itunes:subtitle>Show Topics - FiftyOneFifty - Reviews: Remix Mini - http://www.jide.com/en/mini - Quassel: - http://www.quassel-irc.org/ - http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu - Next recording date: Dec. 4, 2015 -  </itunes:subtitle>
+		<itunes:summary>Show Topics
+
+FiftyOneFifty
+
+Reviews: Remix Mini
+
+&lt;a href="http://www.jide.com/en/mini"&gt;http://www.jide.com/en/mini&lt;/a&gt;
+
+Quassel:
+
+&lt;a href="http://www.quassel-irc.org/"&gt;http://www.quassel-irc.org/&lt;/a&gt;
+
+&lt;a href="http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu"&gt;http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu&lt;/a&gt;
+
+Next recording date: Dec. 4, 2015
+
+ </itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:21</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-044/LugCast-044.ogg" fileSize="64000447" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-043</title>
+		<link>http://linuxlugcast.com/?p=446</link>
+		<pubDate>Sat, 07 Nov 2015 13:36:02 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=446</guid>
+		<comments>http://linuxlugcast.com/?p=446#respond</comments>
+		<dc:creator>Kevin Wisher</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>Show Topics
+
+HonkeyMagoo welcomes a new family member
+https://plus.google.com/109502200836255777959/posts/3mTHgGg3Cjh
+
+FiftyOneFifty 
+Report from Ohio Linux Fest
+
+Kwisher
+
+Reglue needs your help
+http://linuxlock.blogspot.com/2015/11/were-past-halfway-point-we-could-use.html
+
+Indiegogo campaign
+https://www.indiegogo.com/projects/delivering-technology-to-those-that-need-it-most#/
+
+Cherrytree
+A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
+http://www.giuspen.com/cherrytree/
+
+Next recording date: Nov. 20, 2015</description>
+		<content:encoded><![CDATA[<p><strong>Show Topics</strong><strong></p>
+<p>HonkeyMagoo welcomes a new family member<br />
+</strong><a href="https://plus.google.com/109502200836255777959/posts/3mTHgGg3Cjh">https://plus.google.com/109502200836255777959/posts/3mTHgGg3Cjh</a><strong><br />
+</strong><strong><br />
+</strong><em><strong>FiftyOneFifty </strong></em><em><strong><br />
+</strong></em>Report from Ohio Linux Fest<em><strong></p>
+<p></strong></em><em><strong>Kwisher</strong></em><em><strong></p>
+<p></strong></em><strong>Reglue needs your help</strong><em><strong><br />
+</strong></em><a href="http://linuxlock.blogspot.com/2015/11/were-past-halfway-point-we-could-use.html">http://linuxlock.blogspot.com/2015/11/were-past-halfway-point-we-could-use.html</a><em><strong></p>
+<p></strong></em><strong>Indiegogo campaign</strong><br />
+<a href="https://www.indiegogo.com/projects/delivering-technology-to-those-that-need-it-most#/">https://www.indiegogo.com/projects/delivering-technology-to-those-that-need-it-most#/</a><em></p>
+<p></em><strong>Cherrytree</strong><em><strong><br />
+</strong></em>A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.<br />
+<a href="http://www.giuspen.com/cherrytree/">http://www.giuspen.com/cherrytree/</a><em><strong></p>
+<p></strong></em><strong>Next recording date: Nov. 20, 2015</strong></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=446</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-043/LugCast-043.ogg" length="35381965" type="audio/ogg" />
+	<itunes:subtitle>Show Topics - HonkeyMagoo welcomes a new family member https://plus.google.com/109502200836255777959/posts/3mTHgGg3Cjh - FiftyOneFifty  Report from Ohio Linux Fest - Kwisher - Reglue needs your help http://linuxlock.blogspot.</itunes:subtitle>
+		<itunes:summary>Show Topics
+
+HonkeyMagoo welcomes a new family member
+&lt;a href="https://plus.google.com/109502200836255777959/posts/3mTHgGg3Cjh"&gt;https://plus.google.com/109502200836255777959/posts/3mTHgGg3Cjh&lt;/a&gt;
+
+FiftyOneFifty 
+Report from Ohio Linux Fest
+
+Kwisher
+
+Reglue needs your help
+&lt;a href="http://linuxlock.blogspot.com/2015/11/were-past-halfway-point-we-could-use.html"&gt;http://linuxlock.blogspot.com/2015/11/were-past-halfway-point-we-could-use.html&lt;/a&gt;
+
+Indiegogo campaign
+&lt;a href="https://www.indiegogo.com/projects/delivering-technology-to-those-that-need-it-most#/"&gt;https://www.indiegogo.com/projects/delivering-technology-to-those-that-need-it-most#/&lt;/a&gt;
+
+Cherrytree
+A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
+&lt;a href="http://www.giuspen.com/cherrytree/"&gt;http://www.giuspen.com/cherrytree/&lt;/a&gt;
+
+Next recording date: Nov. 20, 2015</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>42:40</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-043/LugCast-043.ogg" fileSize="35381965" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-042</title>
+		<link>http://linuxlugcast.com/?p=438</link>
+		<pubDate>Sat, 17 Oct 2015 16:22:26 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=438</guid>
+		<comments>http://linuxlugcast.com/?p=438#respond</comments>
+		<dc:creator>Kevin Wisher</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>Listener Feedback
+
+G+ feedback from:
+
+Dan Williams - https://plus.google.com/+DanWilliams3/posts/FyF53Gopnqu
+
+Matthew Williams - https://plus.google.com/101542819146828378581/posts/7QxgS2Q9Pej
+
+Show Topics
+
+FatherFinch
+
+Open FOSS Training
+
+IndieGoGo Campaign - https://www.indiegogo.com/projects/open-foss-training#/
+
+First Video Released with Multiple Hosting Services
+
+Vimeo: https://vimeo.com/142657631
+
+YouTube: https://www.youtube.com/watch?v=r1rYoH_XwFc
+
+Book review- Computing Without Compromise: Love Letters to Open Source by Klaatu
+
+https://www.smashwords.com/books/view/582453
+
+HonkeyMagoo
+
+cracking wpa2 with aircrack-ng
+
+airmon-ng (to list available devices)
+
+airmon-ng start &lt;device name&gt; (to start listening on that device)
+
+airodump-ng &lt;device name&gt; (starts the listening of wireless networks. note: the device name will change when started from example wlan0 to wlan0mon) Note: you will need to kill ALL processes listed as troublesome.
+
+airodump-ng -w &lt;filename&gt; -c &lt;channel&gt; --bssid&lt;bssid of wap&gt;  &lt;device name&gt; (the file name can be random. the -c is the channel of the bssid your trying to crack) This needs to run until a device connects to the Wifi network you are monitoring.
+
+aircrack-ng &lt;filename.cap&gt; -w &lt;your password list&gt; (in kali linux you can go to /usr/share/wordlists for a good wordlists)
+
+https://www.youtube.com/watch?v=74JHwZETMhY
+
+Next recording date: Nov. 06, 2015</description>
+		<content:encoded><![CDATA[<p><b>Listener Feedback</b></p>
+<p><strong>G+ feedback from:</strong></p>
+<p>Dan Williams &#8211; <a href="https://plus.google.com/+DanWilliams3/posts/FyF53Gopnqu">https://plus.google.com/+DanWilliams3/posts/FyF53Gopnqu</a></p>
+<p>Matthew Williams &#8211; <a href="https://plus.google.com/101542819146828378581/posts/7QxgS2Q9Pej">https://plus.google.com/101542819146828378581/posts/7QxgS2Q9Pej</a></p>
+<p><b>Show Topics</b></p>
+<p><b><i>FatherFinch</i></b></p>
+<p><b>Open FOSS Training</b></p>
+<p><b>IndieGoGo Campaign</b> &#8211; <a href="https://www.indiegogo.com/projects/open-foss-training#/">https://www.indiegogo.com/projects/open-foss-training#/</a></p>
+<p><b>First Video Released with Multiple Hosting Services</b></p>
+<p>Vimeo: <a href="https://vimeo.com/142657631">https://vimeo.com/142657631</a></p>
+<p>YouTube: <a href="https://www.youtube.com/watch?v=r1rYoH_XwFc">https://www.youtube.com/watch?v=r1rYoH_XwFc</a></p>
+<p><b>Book review</b>&#8211; Computing Without Compromise: Love Letters to Open Source by Klaatu</p>
+<p><a href="https://www.smashwords.com/books/view/582453">https://www.smashwords.com/books/view/582453</a></p>
+<p><b><i>HonkeyMagoo</i></b></p>
+<p><b>cracking wpa2 with aircrack-ng</b></p>
+<p><b><i>airmon-ng</i></b> (to list available devices)</p>
+<p><b><i>airmon-ng start</i></b> &lt;device name&gt; (to start listening on that device)</p>
+<p><b><i>airodump-ng &lt;device name&gt;</i></b> (starts the listening of wireless networks. note: the device name will change when started from example wlan0 to wlan0mon) Note: you will need to kill ALL processes listed as troublesome.</p>
+<p><b><i>airodump-ng -w &lt;filename&gt; -c &lt;channel&gt; &#8211;bssid&lt;bssid of wap&gt;</i></b>  <b><i>&lt;device name&gt;</i></b> (the file name can be random. the -c is the channel of the bssid your trying to crack) This needs to run until a device connects to the Wifi network you are monitoring.</p>
+<p><b><i>aircrack-ng &lt;filename.cap&gt; -w &lt;your password list&gt;</i></b> (in kali linux you can go to /usr/share/wordlists for a good wordlists)</p>
+<p><a href="https://www.youtube.com/watch?v=74JHwZETMhY">https://www.youtube.com/watch?v=74JHwZETMhY</a></p>
+<p><b>Next recording date: Nov. 06, 2015</b></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=438</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-042/LugCast-042.ogg" length="37021932" type="audio/ogg" />
+	<itunes:subtitle>Listener Feedback - G+ feedback from: - Dan Williams - https://plus.google.com/+DanWilliams3/posts/FyF53Gopnqu - Matthew Williams - https://plus.google.com/101542819146828378581/posts/7QxgS2Q9Pej - Show Topics - FatherFinch - </itunes:subtitle>
+		<itunes:summary>Listener Feedback
+
+G+ feedback from:
+
+Dan Williams - &lt;a href="https://plus.google.com/+DanWilliams3/posts/FyF53Gopnqu"&gt;https://plus.google.com/+DanWilliams3/posts/FyF53Gopnqu&lt;/a&gt;
+
+Matthew Williams - &lt;a href="https://plus.google.com/101542819146828378581/posts/7QxgS2Q9Pej"&gt;https://plus.google.com/101542819146828378581/posts/7QxgS2Q9Pej&lt;/a&gt;
+
+Show Topics
+
+FatherFinch
+
+Open FOSS Training
+
+IndieGoGo Campaign - &lt;a href="https://www.indiegogo.com/projects/open-foss-training#/"&gt;https://www.indiegogo.com/projects/open-foss-training#/&lt;/a&gt;
+
+First Video Released with Multiple Hosting Services
+
+Vimeo: &lt;a href="https://vimeo.com/142657631"&gt;https://vimeo.com/142657631&lt;/a&gt;
+
+YouTube: &lt;a href="https://www.youtube.com/watch?v=r1rYoH_XwFc"&gt;https://www.youtube.com/watch?v=r1rYoH_XwFc&lt;/a&gt;
+
+Book review- Computing Without Compromise: Love Letters to Open Source by Klaatu
+
+&lt;a href="https://www.smashwords.com/books/view/582453"&gt;https://www.smashwords.com/books/view/582453&lt;/a&gt;
+
+HonkeyMagoo
+
+cracking wpa2 with aircrack-ng
+
+airmon-ng (to list available devices)
+
+airmon-ng start &lt;device name&gt; (to start listening on that device)
+
+airodump-ng &lt;device name&gt; (starts the listening of wireless networks. note: the device name will change when started from example wlan0 to wlan0mon) Note: you will need to kill ALL processes listed as troublesome.
+
+airodump-ng -w &lt;filename&gt; -c &lt;channel&gt; --bssid&lt;bssid of wap&gt;  &lt;device name&gt; (the file name can be random. the -c is the channel of the bssid your trying to crack) This needs to run until a device connects to the Wifi network you are monitoring.
+
+aircrack-ng &lt;filename.cap&gt; -w &lt;your password list&gt; (in kali linux you can go to /usr/share/wordlists for a good wordlists)
+
+&lt;a href="https://www.youtube.com/watch?v=74JHwZETMhY"&gt;https://www.youtube.com/watch?v=74JHwZETMhY&lt;/a&gt;
+
+Next recording date: Nov. 06, 2015</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>44:39</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-042/LugCast-042.ogg" fileSize="37021932" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-041</title>
+		<link>http://linuxlugcast.com/?p=434</link>
+		<pubDate>Sat, 03 Oct 2015 15:08:51 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=434</guid>
+		<comments>http://linuxlugcast.com/?p=434#respond</comments>
+		<dc:creator>Kevin Wisher</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>Listener Feedback
+
+G+ feedback from Dan Williams
+https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi
+
+Email feedback from Burritoe
+
+Interview with Matthew Williams from Open FOSS Training
+http://openfosstraining.com/
+
+Indiegogo Campaign
+http://igg.me/at/openfosstraining
+
+Show Topics
+
+HonkeyMagoo
+
+Build your own OpenWRT
+http://wiki.openwrt.org/doc/howto/buildroot.exigence#downloading_sources
+http://www.thepowerbase.com/2012/01/openwrt-build-guide-start-to-finish/3/
+
+Kwisher
+
+External hard disk enclosure
+http://www.newegg.com/Product/Product.aspx?Item=9SIA24G3434946
+
+2 Port SATA to eSATA Slot Plate Bracket
+http://tinyurl.com/p84dg8v
+
+Self signed SSL certificate
+http://www.noobslab.com/2015/01/install-owncloud-in-ubuntulinux-mint.html
+
+Next recording date: Oct. 16, 2015</description>
+		<content:encoded><![CDATA[<p><strong>Listener Feedback</strong><strong></p>
+<p>G+ feedback from Dan Williams</strong><br />
+<a href="https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi">https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi</a></p>
+<p><strong>Email feedback from Burritoe</strong></p>
+<p><strong>Interview with Matthew Williams from Open FOSS Training</strong><br />
+<a href="http://openfosstraining.com/">http://openfosstraining.com/</a></p>
+<p><strong>Indiegogo Campaign</strong><br />
+<a href="http://igg.me/at/openfosstraining">http://igg.me/at/openfosstraining</a></p>
+<p><strong>Show Topics</strong><strong></p>
+<p></strong><em><strong>HonkeyMagoo</strong></em><em><strong></p>
+<p></strong></em><strong>Build your own OpenWRT</strong><em><strong><br />
+</strong></em><a href="http://wiki.openwrt.org/doc/howto/buildroot.exigence#downloading_sources">http://wiki.openwrt.org/doc/howto/buildroot.exigence#downloading_sources</a><br />
+<a href="http://www.thepowerbase.com/2012/01/openwrt-build-guide-start-to-finish/3/">http://www.thepowerbase.com/2012/01/openwrt-build-guide-start-to-finish/3/</a><em><strong></p>
+<p></strong></em><em><strong>Kwisher</strong></em><em><strong></p>
+<p></strong></em><strong>External hard disk enclosure</strong><em><br />
+</em><a href="http://www.newegg.com/Product/Product.aspx?Item=9SIA24G3434946">http://www.newegg.com/Product/Product.aspx?Item=9SIA24G3434946</a><em></p>
+<p></em><strong>2 Port SATA to eSATA Slot Plate Bracket</strong><br />
+<a href="http://tinyurl.com/p84dg8v">http://tinyurl.com/p84dg8v</a></p>
+<p><strong>Self signed SSL certificate</strong><br />
+<a href="http://www.noobslab.com/2015/01/install-owncloud-in-ubuntulinux-mint.html">http://www.noobslab.com/2015/01/install-owncloud-in-ubuntulinux-mint.html</a></p>
+<p><strong>Next recording date: Oct. 16, 2015</strong></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=434</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-041/LugCast-041.ogg" length="40486995" type="audio/ogg" />
+	<itunes:subtitle>Listener Feedback - G+ feedback from Dan Williams https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi - Email feedback from Burritoe - Interview with Matthew Williams from Open FOSS Training http://openfosstraining.com/ - </itunes:subtitle>
+		<itunes:summary>Listener Feedback
+
+G+ feedback from Dan Williams
+&lt;a href="https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi"&gt;https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi&lt;/a&gt;
+
+Email feedback from Burritoe
+
+Interview with Matthew Williams from Open FOSS Training
+&lt;a href="http://openfosstraining.com/"&gt;http://openfosstraining.com/&lt;/a&gt;
+
+Indiegogo Campaign
+&lt;a href="http://igg.me/at/openfosstraining"&gt;http://igg.me/at/openfosstraining&lt;/a&gt;
+
+Show Topics
+
+HonkeyMagoo
+
+Build your own OpenWRT
+&lt;a href="http://wiki.openwrt.org/doc/howto/buildroot.exigence#downloading_sources"&gt;http://wiki.openwrt.org/doc/howto/buildroot.exigence#downloading_sources&lt;/a&gt;
+&lt;a href="http://www.thepowerbase.com/2012/01/openwrt-build-guide-start-to-finish/3/"&gt;http://www.thepowerbase.com/2012/01/openwrt-build-guide-start-to-finish/3/&lt;/a&gt;
+
+Kwisher
+
+External hard disk enclosure
+&lt;a href="http://www.newegg.com/Product/Product.aspx?Item=9SIA24G3434946"&gt;http://www.newegg.com/Product/Product.aspx?Item=9SIA24G3434946&lt;/a&gt;
+
+2 Port SATA to eSATA Slot Plate Bracket
+&lt;a href="http://tinyurl.com/p84dg8v"&gt;http://tinyurl.com/p84dg8v&lt;/a&gt;
+
+Self signed SSL certificate
+&lt;a href="http://www.noobslab.com/2015/01/install-owncloud-in-ubuntulinux-mint.html"&gt;http://www.noobslab.com/2015/01/install-owncloud-in-ubuntulinux-mint.html&lt;/a&gt;
+
+Next recording date: Oct. 16, 2015</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>55:58</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-041/LugCast-041.ogg" fileSize="40486995" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-040</title>
+		<link>http://linuxlugcast.com/?p=429</link>
+		<pubDate>Sat, 19 Sep 2015 15:22:47 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=429</guid>
+		<comments>http://linuxlugcast.com/?p=429#respond</comments>
+		<dc:creator>Kevin Wisher</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>Listener Feedback
+
+G+ feedback from Dan Williams
+https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi
+
+Show Topics
+
+FiftyOneFifty
+
+We were joined by Chris Waid, CEO of ThinkPenguin to discuss the Save WiFi campaign (https://libreplanet.org/wiki/Save_WiFi/Individual_Comments). The FCC is proposing rules governing devices with WiFi radios that has the potential of preventing users from installing the operating system of their choice on PCs, network equipment, and smart phones. Chris is trying to get the word out while the FCC’s comment period is still open.
+https://www.federalregister.gov/articles/2015/09/01/2015-21634/extension-of-time-for-comments-on-equipment-authorization
+
+Next recording date: Oct. 02, 2015</description>
+		<content:encoded><![CDATA[<p><strong><span style="color: #000000; text-decoration: underline;">Listener Feedback</span></strong></p>
+<p>G+ feedback from Dan Williams<br />
+<a href="https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi">https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi</a></p>
+<p><strong><span style="color: #000000; text-decoration: underline;">Show Topics</span></strong></p>
+<p><em><strong><span style="color: #000000; text-decoration: underline;">FiftyOneFifty</span></strong></em></p>
+<p><span style="color: #000000;">We were joined by Chris Waid, CEO of ThinkPenguin to discuss the Save WiFi campaign (</span><a href="https://libreplanet.org/wiki/Save_WiFi/Individual_Comments">https://libreplanet.org/wiki/Save_WiFi/Individual_Comments</a><span style="color: #000000;">). The FCC is proposing rules governing devices with WiFi radios that has the potential of preventing users from installing the operating system of their choice on PCs, network equipment, and smart phones. Chris is trying to get the word out while the FCC’s comment period is still open.<br />
+</span><a href="https://www.federalregister.gov/articles/2015/09/01/2015-21634/extension-of-time-for-comments-on-equipment-authorization">https://www.federalregister.gov/articles/2015/09/01/2015-21634/extension-of-time-for-comments-on-equipment-authorization</a></p>
+<p><em><strong><span style="color: #000000;">Next recording date: Oct. 02, 2015</span></strong></em><em><br />
+</em></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=429</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-040/LugCast-040.ogg" length="65720990" type="audio/ogg" />
+	<itunes:subtitle>Listener Feedback - G+ feedback from Dan Williams https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi - Show Topics - FiftyOneFifty - We were joined by Chris Waid, CEO of ThinkPenguin to discuss the Save WiFi campaign (https://libreplanet.</itunes:subtitle>
+		<itunes:summary>Listener Feedback
+
+G+ feedback from Dan Williams
+&lt;a href="https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi"&gt;https://plus.google.com/+DanWilliams3/posts/4WCtXYCXqCi&lt;/a&gt;
+
+Show Topics
+
+FiftyOneFifty
+
+We were joined by Chris Waid, CEO of ThinkPenguin to discuss the Save WiFi campaign (&lt;a href="https://libreplanet.org/wiki/Save_WiFi/Individual_Comments"&gt;https://libreplanet.org/wiki/Save_WiFi/Individual_Comments&lt;/a&gt;). The FCC is proposing rules governing devices with WiFi radios that has the potential of preventing users from installing the operating system of their choice on PCs, network equipment, and smart phones. Chris is trying to get the word out while the FCC’s comment period is still open.
+&lt;a href="https://www.federalregister.gov/articles/2015/09/01/2015-21634/extension-of-time-for-comments-on-equipment-authorization"&gt;https://www.federalregister.gov/articles/2015/09/01/2015-21634/extension-of-time-for-comments-on-equipment-authorization&lt;/a&gt;
+
+Next recording date: Oct. 02, 2015</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:31:01</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-040/LugCast-040.ogg" fileSize="65720990" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-039</title>
+		<link>http://linuxlugcast.com/?p=424</link>
+		<pubDate>Sat, 05 Sep 2015 04:03:28 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=424</guid>
+		<comments>http://linuxlugcast.com/?p=424#respond</comments>
+		<dc:creator>Kevin Wisher</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>Show Topics
+
+FiftyOneFifty  
+
+The FCC hates Open Source
+https://libreplanet.org/wiki/Save_WiFi/Individual_Comments  
+
+arstechnica article
+http://arstechnica.com/information-technology/2015/09/fcc-accused-of-locking-down-wi-fi-routers-but-the-truth-is-a-bit-murkier/
+
+Mycroft.ai
+https://mycroft.ai/
+
+Fweeb
+
+Getting video to work on a USB3 dock (DisplayLink drivers):
+http://www.displaylink.com/downloads/ubuntu.php
+http://support.displaylink.com/knowledgebase/articles/615714#ubuntu 
+
+Kwisher
+
+Open Foss Training
+http://openfosstraining.com/
+
+Youtube Promo
+https://www.youtube.com/watch?v=swrCzu9e20M&amp;feature=youtu.be
+
+Next recording date: Sept.18, 2015</description>
+		<content:encoded><![CDATA[<p><span style="font-family: Sans; font-size: 12pt;"><b><span style="color: #000000; text-decoration: underline;">Show Topics</span></b></span></p>
+<p><b><span style="color: #000000; text-decoration: underline;">FiftyOneFifty </span></b><b> </b><b></b></p>
+<p><b><span style="color: #000000; text-decoration: underline;">The FCC hates Open Source</span></b><b><span style="color: #000000;"><br />
+</span></b><a href="https://libreplanet.org/wiki/Save_WiFi/Individual_Comments">https://libreplanet.org/wiki/Save_WiFi/Individual_Comments</a> <b> </b><b></b></p>
+<p><b><span style="color: #000000;">arstechnica article</span></b><span style="color: #000000;"><br />
+</span><a href="http://arstechnica.com/information-technology/2015/09/fcc-accused-of-locking-down-wi-fi-routers-but-the-truth-is-a-bit-murkier/">http://arstechnica.com/information-technology/2015/09/fcc-accused-of-locking-down-wi-fi-routers-but-the-truth-is-a-bit-murkier/</a></p>
+<p><b><span style="color: #000000; text-decoration: underline;">Mycroft.ai</span></b><b><span style="color: #000000;"><br />
+</span></b><a href="https://mycroft.ai/">https://mycroft.ai/</a><b></b></p>
+<p><b><span style="color: #000000; text-decoration: underline;">Fweeb</span></b><b></b></p>
+<p><b><span style="color: #000000; text-decoration: underline;">Getting video to work on a USB3 dock</span></b><b><span style="color: #000000;"> (DisplayLink drivers):</span></b><b><br />
+</b><a href="http://www.displaylink.com/downloads/ubuntu.php">http://www.displaylink.com/downloads/ubuntu.php</a><span style="color: #1155cc;"><br />
+</span><a href="http://support.displaylink.com/knowledgebase/articles/615714#ubuntu">http://support.displaylink.com/knowledgebase/articles/615714#ubuntu</a> <b></b></p>
+<p><b><span style="color: #000000; text-decoration: underline;">Kwisher</span></b><b></b></p>
+<p><b><span style="color: #000000; text-decoration: underline;">Open Foss Training</span></b><b><span style="color: #000000;"><br />
+</span></b><a href="http://openfosstraining.com/">http://openfosstraining.com/</a><b></b></p>
+<p><b><span style="color: #000000;">Youtube Promo</span></b><span style="color: #000000;"><br />
+</span><a href="https://www.youtube.com/watch?v=swrCzu9e20M&amp;feature=youtu.be">https://www.youtube.com/watch?v=swrCzu9e20M&amp;feature=youtu.be</a></p>
+<p><b><span style="color: #000000;">Next recording date: Sept.18, 2015</span></b><span style="color: #000000;"><br />
+</span></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=424</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-039/LugCast-039.ogg" length="38754093" type="audio/ogg" />
+	<itunes:subtitle>Show Topics - FiftyOneFifty   - The FCC hates Open Source https://libreplanet.org/wiki/Save_WiFi/Individual_Comments   - arstechnica article http://arstechnica.com/information-technology/2015/09/fcc-accused-of-locking-down-wi-fi-routers-but-the-tr...</itunes:subtitle>
+		<itunes:summary>Show Topics
+
+FiftyOneFifty  
+
+The FCC hates Open Source
+&lt;a href="https://libreplanet.org/wiki/Save_WiFi/Individual_Comments"&gt;https://libreplanet.org/wiki/Save_WiFi/Individual_Comments&lt;/a&gt;  
+
+arstechnica article
+&lt;a href="http://arstechnica.com/information-technology/2015/09/fcc-accused-of-locking-down-wi-fi-routers-but-the-truth-is-a-bit-murkier/"&gt;http://arstechnica.com/information-technology/2015/09/fcc-accused-of-locking-down-wi-fi-routers-but-the-truth-is-a-bit-murkier/&lt;/a&gt;
+
+Mycroft.ai
+&lt;a href="https://mycroft.ai/"&gt;https://mycroft.ai/&lt;/a&gt;
+
+Fweeb
+
+Getting video to work on a USB3 dock (DisplayLink drivers):
+&lt;a href="http://www.displaylink.com/downloads/ubuntu.php"&gt;http://www.displaylink.com/downloads/ubuntu.php&lt;/a&gt;
+&lt;a href="http://support.displaylink.com/knowledgebase/articles/615714#ubuntu"&gt;http://support.displaylink.com/knowledgebase/articles/615714#ubuntu&lt;/a&gt; 
+
+Kwisher
+
+Open Foss Training
+&lt;a href="http://openfosstraining.com/"&gt;http://openfosstraining.com/&lt;/a&gt;
+
+Youtube Promo
+&lt;a href="https://www.youtube.com/watch?v=swrCzu9e20M&amp;feature=youtu.be"&gt;https://www.youtube.com/watch?v=swrCzu9e20M&amp;feature=youtu.be&lt;/a&gt;
+
+Next recording date: Sept.18, 2015</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>46:36</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-039/LugCast-039.ogg" fileSize="38754093" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-038</title>
+		<link>http://linuxlugcast.com/?p=416</link>
+		<pubDate>Sat, 22 Aug 2015 13:43:59 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=416</guid>
+		<comments>http://linuxlugcast.com/?p=416#respond</comments>
+		<dc:creator>Kevin Wisher</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>Listener Feedback
+
+Ep-036 feedback email from Dave Morris
+
+Show Topics
+
+FiftyOneFifty 
+
+WiTi Board appliance 
+https://www.indiegogo.com/projects/witi-board-open-home-intelligence#/story
+
+OpenWRT supports both Snort and Kismet IDS’s 
+http://archive09.linux.com/articles/53009 
+http://wiki.openwrt.org/doc/howto/wireless.tool.kismet 
+
+Dual, powered SATA ports means you can set up a RAID for a server or a NAS
+https://mqmaker.com/making-your-own-nas-with-witi-board/ 
+
+Honkeymagoo
+
+OpenWRT
+https://openwrt.org/
+
+Installing snort on OpenWRT
+http://home.versatel.nl/janssenmaj/snort.html
+
+Installing squid on OpenWRT
+http://blog.sllabs.com/2012/03/fun-with-openwrt.html
+
+Open EdTech Podcast
+http://openedtechpodcast.com/
+
+Next recording date: September 04, 2015</description>
+		<content:encoded><![CDATA[<p><span style="font-family: Sans; font-size: 12pt;"><b><span style="color: #000000; text-decoration: underline;">Listener Feedback</span></b></span></p>
+<p><span style="color: #000000;">Ep-036 feedback email from Dave Morris</span><b></b></p>
+<p><b><span style="color: #000000; text-decoration: underline;">Show Topics</span></b><b></b></p>
+<p><i><b><span style="color: #000000; text-decoration: underline;">FiftyOneFifty </span></b></i><i><b></b></i></p>
+<p><b><span style="color: #000000;">WiTi Board appliance</span></b><i> </i><i><br />
+</i><a href="https://www.indiegogo.com/projects/witi-board-open-home-intelligence#/story">https://www.indiegogo.com/projects/witi-board-open-home-intelligence#/story</a><i></i></p>
+<p><b><span style="color: #000000;">OpenWRT supports both Snort and Kismet IDS’s</span></b> <i><br />
+</i><a href="http://archive09.linux.com/articles/53009">http://archive09.linux.com/articles/53009</a><i> </i><i><br />
+</i><a href="http://wiki.openwrt.org/doc/howto/wireless.tool.kismet">http://wiki.openwrt.org/doc/howto/wireless.tool.kismet</a><i> </i><i></i></p>
+<p><b><span style="color: #000000;">Dual, powered SATA ports means you can set up a RAID for a server or a NAS</span></b><br />
+<a href="https://mqmaker.com/making-your-own-nas-with-witi-board/">https://mqmaker.com/making-your-own-nas-with-witi-board/</a><i> </i><i></i></p>
+<p><i><b><span style="color: #000000; text-decoration: underline;">Honkeymagoo</span></b></i><i><b></b></i></p>
+<p><b><span style="color: #000000;">OpenWRT</span></b><i><span style="color: #000000;"><br />
+</span></i><a href="https://openwrt.org/">https://openwrt.org/</a><i></i></p>
+<p><b>I</b><b><span style="color: #000000;">nstalling snort on OpenWRT</span></b><i><span style="color: #000000;"><br />
+</span></i><a href="http://home.versatel.nl/janssenmaj/snort.html">http://home.versatel.nl/janssenmaj/snort.html</a><i></i></p>
+<p><b>I</b><b><span style="color: #000000;">nstalling squid on OpenWRT</span></b><i><span style="color: #000000;"><br />
+</span></i><a href="http://blog.sllabs.com/2012/03/fun-with-openwrt.html">http://blog.sllabs.com/2012/03/fun-with-openwrt.html</a><i></i></p>
+<p><i><b><span style="color: #000000; text-decoration: underline;">Open EdTech Podcast</span></b></i><i><b><span style="color: #000000;"><br />
+</span></b></i><a href="http://openedtechpodcast.com/">http://openedtechpodcast.com/</a><i><b></b></i></p>
+<p><b><span style="color: #000000;">Next recording date: September 04, 2015</span></b></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=416</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-038/LugCast-038.ogg" length="39010629" type="audio/ogg" />
+	<itunes:subtitle>Listener Feedback - Ep-036 feedback email from Dave Morris - Show Topics - FiftyOneFifty  - WiTi Board appliance  https://www.indiegogo.com/projects/witi-board-open-home-intelligence#/story - OpenWRT supports both Snort and Kismet IDS’s  </itunes:subtitle>
+		<itunes:summary>Listener Feedback
+
+Ep-036 feedback email from Dave Morris
+
+Show Topics
+
+FiftyOneFifty 
+
+WiTi Board appliance 
+&lt;a href="https://www.indiegogo.com/projects/witi-board-open-home-intelligence#/story"&gt;https://www.indiegogo.com/projects/witi-board-open-home-intelligence#/story&lt;/a&gt;
+
+OpenWRT supports both Snort and Kismet IDS’s 
+&lt;a href="http://archive09.linux.com/articles/53009"&gt;http://archive09.linux.com/articles/53009&lt;/a&gt; 
+&lt;a href="http://wiki.openwrt.org/doc/howto/wireless.tool.kismet"&gt;http://wiki.openwrt.org/doc/howto/wireless.tool.kismet&lt;/a&gt; 
+
+Dual, powered SATA ports means you can set up a RAID for a server or a NAS
+&lt;a href="https://mqmaker.com/making-your-own-nas-with-witi-board/"&gt;https://mqmaker.com/making-your-own-nas-with-witi-board/&lt;/a&gt; 
+
+Honkeymagoo
+
+OpenWRT
+&lt;a href="https://openwrt.org/"&gt;https://openwrt.org/&lt;/a&gt;
+
+Installing snort on OpenWRT
+&lt;a href="http://home.versatel.nl/janssenmaj/snort.html"&gt;http://home.versatel.nl/janssenmaj/snort.html&lt;/a&gt;
+
+Installing squid on OpenWRT
+&lt;a href="http://blog.sllabs.com/2012/03/fun-with-openwrt.html"&gt;http://blog.sllabs.com/2012/03/fun-with-openwrt.html&lt;/a&gt;
+
+Open EdTech Podcast
+&lt;a href="http://openedtechpodcast.com/"&gt;http://openedtechpodcast.com/&lt;/a&gt;
+
+Next recording date: September 04, 2015</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>46:54</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-038/LugCast-038.ogg" fileSize="39010629" type="audio/ogg" /></item>
+	<item>
+		<title>Episode-037</title>
+		<link>http://linuxlugcast.com/?p=409</link>
+		<pubDate>Sun, 09 Aug 2015 17:08:16 +0000</pubDate>
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=409</guid>
+		<comments>http://linuxlugcast.com/?p=409#respond</comments>
+		<dc:creator>Kevin Wisher</dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<description>Listener Feedback
+
+Link to mailing list discussion:
+http://mail.linuxlugcast.com/pipermail/lugcast_linuxlugcast.com/2015-August/000042.html 
+
+FCC rules article:
+http://www.infoq.com/news/2015/07/FCC-Blocks-Open-Source
+
+Actual FCC item:
+https://apps.fcc.gov/oetcf/kdb/forms/FTSSearchResultPage.cfm?id=39498&amp;switch=P 
+ 
+Show Topics
+
+FatherFinch
+
+SSH reverse tunneling goodness
+http://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work
+
+YouTube video
+https://youtu.be/XS4YOYSz8Jo
+
+FiftyOneFifty
+
+An avenue to installing packages not found in your distribution's repository
+Recently, I found a video from Penguicon on my phone I wanted to share on G+. Unfortunately, I’d taken it in portrait mode, and Google wanted to display it on it’s side. I could have fixed this by sharing it to YouTube first, but I have no interest in starting a YouTube channel. Unlike most timeline based video editors, Avidemux does do 90 degree rotation, but it is not present in the Wheezy distro. However, I found the .deb at: http://www.deb-multimedia.org/dists/oldstable/main/binary-i386/package/avidemux
+
+www.deb-multimedia.org lets you locate binaries by package and distribution. Each .deb page includes links to dependencies not found in the repositories of the distribution. Each of those may have other dependencies, so you have to work your way down till you find packages with no out of repro dependencies, install those first (sudo dpkg -i package-name.deb), then work your way back up.
+
+Once I had Avidemux installed, I figured out how to rotate the video 90 degrees and save it as a new file. Unfortunately, this totally destroyed the audio in the clip. In this case, audio was incidental, so I edited the new file with Avidemux and removed the audio entirely. I’m sure it would have been as easy to rip the audio from the original file, and add it back into the rotated version.
+
+Next recording date: August 21, 2015</description>
+		<content:encoded><![CDATA[<p><span style="font-family: Sans; font-size: 12pt;"><b><span style="color: #000000; text-decoration: underline;">Listener Feedback</span></b></span></p>
+<p>Link to mailing list discussion:<b><br />
+</b><a href="http://mail.linuxlugcast.com/pipermail/lugcast_linuxlugcast.com/2015-August/000042.html">http://mail.linuxlugcast.com/pipermail/lugcast_linuxlugcast.com/2015-August/000042.html</a><b> </b><b></b></p>
+<p><b><span style="color: #000000;">FCC rules article:</span></b><b><br />
+</b><a href="http://www.infoq.com/news/2015/07/FCC-Blocks-Open-Source">http://www.infoq.com/news/2015/07/FCC-Blocks-Open-Source</a><b><span style="color: #1155cc;"><br />
+</span></b><b><br />
+</b><b><span style="color: #000000;">Actual FCC item:</span></b><b><br />
+</b><a href="https://apps.fcc.gov/oetcf/kdb/forms/FTSSearchResultPage.cfm?id=39498&amp;switch=P">https://apps.fcc.gov/oetcf/kdb/forms/FTSSearchResultPage.cfm?id=39498&amp;switch=P</a><b> </b><b><br />
+</b><b> </b><b><br />
+</b><b><span style="color: #000000; text-decoration: underline;">Show Topics</span></b><b></b></p>
+<p><i><b><span style="color: #000000; text-decoration: underline;">FatherFinch</span></b></i><i><b></b></i></p>
+<p><b><span style="color: #000000;">SSH reverse tunneling goodness</span></b><span style="color: #000000;"><br />
+</span><a href="http://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work">http://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work</a><i></i></p>
+<p><b>YouTube video</b><i><br />
+</i><a href="https://youtu.be/XS4YOYSz8Jo">https://youtu.be/XS4YOYSz8Jo</a></p>
+<p><i><b><span style="color: #000000; text-decoration: underline;">FiftyOneFifty</span></b></i><i><b></b></i></p>
+<p><b><span style="color: #000000;">An avenue to installing packages not found in your distribution&#8217;s repository</span></b><span style="color: #000000;"><br />
+Recently, I found a video from Penguicon on my phone I wanted to share on G+. Unfortunately, I’d taken it in portrait mode, and Google wanted to display it on it’s side. I could have fixed this by sharing it to YouTube first, but I have no interest in starting a YouTube channel. Unlike most timeline based video editors, Avidemux does do 90 degree rotation, but it is not present in the Wheezy distro. However, I found the .deb at: </span><a href="http://www.deb-multimedia.org/dists/oldstable/main/binary-i386/package/avidemux">http://www.deb-multimedia.org/dists/oldstable/main/binary-i386/package/avidemux</a></p>
+<p><a href="http://www.deb-multimedia.org">www.deb-multimedia.org</a><span style="color: #000000;"> lets you locate binaries by package and distribution. Each .deb page includes links to dependencies not found in the repositories of the distribution. Each of those may have other dependencies, so you have to work your way down till you find packages with no out of repro dependencies, install those first (sudo dpkg -i package-name.deb), then work your way back up.</span></p>
+<p><span style="color: #000000;">Once I had Avidemux installed, I figured out how to rotate the video 90 degrees and save it as a new file. Unfortunately, this totally destroyed the audio in the clip. In this case, audio was incidental, so I edited the new file with Avidemux and removed the audio entirely. I’m sure it would have been as easy to rip the audio from the original file, and add it back into the rotated version.</span></p>
+<p><i><b><span style="color: #000000;">Next recording date: August 21, 2015</span></b></i></p>
+]]></content:encoded>
+		<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=409</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-037/LugCast-037.ogg" length="31587770" type="audio/ogg" />
+	<itunes:subtitle>Listener Feedback - Link to mailing list discussion: http://mail.linuxlugcast.com/pipermail/lugcast_linuxlugcast.com/2015-August/000042.html  - FCC rules article: http://www.infoq.com/news/2015/07/FCC-Blocks-Open-Source - Actual FCC item: </itunes:subtitle>
+		<itunes:summary>Listener Feedback
+
+Link to mailing list discussion:
+&lt;a href="http://mail.linuxlugcast.com/pipermail/lugcast_linuxlugcast.com/2015-August/000042.html"&gt;http://mail.linuxlugcast.com/pipermail/lugcast_linuxlugcast.com/2015-August/000042.html&lt;/a&gt; 
+
+FCC rules article:
+&lt;a href="http://www.infoq.com/news/2015/07/FCC-Blocks-Open-Source"&gt;http://www.infoq.com/news/2015/07/FCC-Blocks-Open-Source&lt;/a&gt;
+
+Actual FCC item:
+&lt;a href="https://apps.fcc.gov/oetcf/kdb/forms/FTSSearchResultPage.cfm?id=39498&amp;switch=P"&gt;https://apps.fcc.gov/oetcf/kdb/forms/FTSSearchResultPage.cfm?id=39498&amp;switch=P&lt;/a&gt; 
+ 
+Show Topics
+
+FatherFinch
+
+SSH reverse tunneling goodness
+&lt;a href="http://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work"&gt;http://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work&lt;/a&gt;
+
+YouTube video
+&lt;a href="https://youtu.be/XS4YOYSz8Jo"&gt;https://youtu.be/XS4YOYSz8Jo&lt;/a&gt;
+
+FiftyOneFifty
+
+An avenue to installing packages not found in your distribution's repository
+Recently, I found a video from Penguicon on my phone I wanted to share on G+. Unfortunately, I’d taken it in portrait mode, and Google wanted to display it on it’s side. I could have fixed this by sharing it to YouTube first, but I have no interest in starting a YouTube channel. Unlike most timeline based video editors, Avidemux does do 90 degree rotation, but it is not present in the Wheezy distro. However, I found the .deb at: &lt;a href="http://www.deb-multimedia.org/dists/oldstable/main/binary-i386/package/avidemux"&gt;http://www.deb-multimedia.org/dists/oldstable/main/binary-i386/package/avidemux&lt;/a&gt;
+
+&lt;a href="http://www.deb-multimedia.org"&gt;www.deb-multimedia.org&lt;/a&gt; lets you locate binaries by package and distribution. Each .deb page includes links to dependencies not found in the repositories of the distribution. Each of those may have other dependencies, so you have to work your way down till you find packages with no out of repro dependencies, install those first (sudo dpkg -i package-name.deb), then work your way back up.
+
+Once I had Avidemux installed, I figured out how to rotate the video 90 degrees and save it as a new file. Unfortunately, this totally destroyed the audio in the clip. In this case, audio was incidental, so I edited the new file with Avidemux and removed the audio entirely. I’m sure it would have been as easy to rip the audio from the original file, and add it back into the rotated version.
+
+Next recording date: August 21, 2015</itunes:summary>
+		<itunes:author>LinuxLUGcast - Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>37:54</itunes:duration>
+		<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-037/LugCast-037.ogg" fileSize="31587770" type="audio/ogg" /></item>
+<media:credit role="author">LinuxLUGcast - Ogg</media:credit><media:rating>nonadult</media:rating><media:description type="plain"></media:description></channel>
+</rss>

@@ -12,12 +12,12 @@
  <link>http://www.2600.com/offthehook</link>
  <description>2600: The Hacker Quarterly</description>
 </image>
- <copyright>Copyright 1995-2015 2600 Enterprises, Inc. All Rights Reserved.</copyright>
+ <copyright>Copyright 1995-2016 2600 Enterprises, Inc. All Rights Reserved.</copyright>
  <managingEditor>oth@2600.com (Off The Hook)</managingEditor>
  <webMaster>webmaster@2600.com (webmaster)</webMaster>
  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
- <pubDate>Thu, 12 Nov 2015 03:52:43 +0000</pubDate>
- <lastBuildDate>Thu, 12 Nov 2015 03:52:43 +0000</lastBuildDate>
+ <pubDate>Thu, 31 Dec 2015 04:25:22 +0000</pubDate>
+ <lastBuildDate>Thu, 31 Dec 2015 04:25:22 +0000</lastBuildDate>
  <itunes:category text="News &amp; Politics" />
  <itunes:category text="Technology"> <itunes:category text="Tech News" />
 </itunes:category>
@@ -26,6 +26,66 @@
  <itunes:explicit>no</itunes:explicit>
  <itunes:owner> <itunes:email>webmaster@2600.com</itunes:email>
 </itunes:owner>
+ <item> <title>Off The Hook - Dec 30, 2015</title>
+ <link>http://www.2600.com/offthehook/2015/1215.html</link>
+ <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
+ <guid isPermaLink="false">oth20151230-hq</guid>
+ <pubDate>Wed, 30 Dec 2015 19:00:00 EST</pubDate>
+ <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
+ <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151230-128.mp3" length="56518012" type="audio/mpeg" />
+<itunes:duration>58:52</itunes:duration>
+ </item>
+ <item> <title>Off The Hook - Dec 23, 2015</title>
+ <link>http://www.2600.com/offthehook/2015/1215.html</link>
+ <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
+ <guid isPermaLink="false">oth20151223-hq</guid>
+ <pubDate>Wed, 23 Dec 2015 19:00:00 EST</pubDate>
+ <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
+ <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151223-128.mp3" length="56742038" type="audio/mpeg" />
+<itunes:duration>59:06</itunes:duration>
+ </item>
+ <item> <title>Off The Hook - Dec 16, 2015</title>
+ <link>http://www.2600.com/offthehook/2015/1215.html</link>
+ <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
+ <guid isPermaLink="false">oth20151216-hq</guid>
+ <pubDate>Wed, 16 Dec 2015 19:00:00 EST</pubDate>
+ <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
+ <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151216-128.mp3" length="56183645" type="audio/mpeg" />
+<itunes:duration>58:31</itunes:duration>
+ </item>
+ <item> <title>Off The Hook - Dec 09, 2015</title>
+ <link>http://www.2600.com/offthehook/2015/1215.html</link>
+ <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
+ <guid isPermaLink="false">oth20151209-hq</guid>
+ <pubDate>Wed, 09 Dec 2015 19:00:00 EST</pubDate>
+ <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
+ <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151209-128.mp3" length="114707541" type="audio/mpeg" />
+<itunes:duration>119:29</itunes:duration>
+ </item>
+ <item> <title>Off The Hook - Dec 02, 2015</title>
+ <link>http://www.2600.com/offthehook/2015/1215.html</link>
+ <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
+ <guid isPermaLink="false">oth20151202-hq</guid>
+ <pubDate>Wed, 02 Dec 2015 19:00:00 EST</pubDate>
+ <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
+ <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151202-128.mp3" length="58292247" type="audio/mpeg" />
+<itunes:duration>60:43</itunes:duration>
+ </item>
+ <item> <title>Off The Hook - Nov 25, 2015</title>
+ <link>http://www.2600.com/offthehook/2015/1115.html</link>
+ <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
+ <guid isPermaLink="false">oth20151125-hq</guid>
+ <pubDate>Wed, 25 Nov 2015 19:00:00 EST</pubDate>
+ <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
+ <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
+    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20151125-128.mp3" length="60470652" type="audio/mpeg" />
+<itunes:duration>62:59</itunes:duration>
+ </item>
  <item> <title>Off The Hook - Nov 11, 2015</title>
  <link>http://www.2600.com/offthehook/2015/1115.html</link>
  <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
@@ -65,66 +125,6 @@
  <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
     <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20150930-128.mp3" length="57047150" type="audio/mpeg" />
 <itunes:duration>59:25</itunes:duration>
- </item>
- <item> <title>Off The Hook - Sep 23, 2015</title>
- <link>http://www.2600.com/offthehook/2015/0915.html</link>
- <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
- <guid isPermaLink="false">oth20150923-hq</guid>
- <pubDate>Wed, 23 Sep 2015 19:00:00 EST</pubDate>
- <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
- <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
-    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20150923-128.mp3" length="57842109" type="audio/mpeg" />
-<itunes:duration>60:15</itunes:duration>
- </item>
- <item> <title>Off The Hook - Sep 16, 2015</title>
- <link>http://www.2600.com/offthehook/2015/0915.html</link>
- <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
- <guid isPermaLink="false">oth20150916-hq</guid>
- <pubDate>Wed, 16 Sep 2015 19:00:00 EST</pubDate>
- <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
- <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
-    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20150916-128.mp3" length="57378174" type="audio/mpeg" />
-<itunes:duration>59:46</itunes:duration>
- </item>
- <item> <title>Off The Hook - Sep 09, 2015</title>
- <link>http://www.2600.com/offthehook/2015/0915.html</link>
- <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
- <guid isPermaLink="false">oth20150909-hq</guid>
- <pubDate>Wed, 09 Sep 2015 19:00:00 EST</pubDate>
- <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
- <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
-    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20150909-128.mp3" length="58294338" type="audio/mpeg" />
-<itunes:duration>60:43</itunes:duration>
- </item>
- <item> <title>Off The Hook - Sep 02, 2015</title>
- <link>http://www.2600.com/offthehook/2015/0915.html</link>
- <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
- <guid isPermaLink="false">oth20150902-hq</guid>
- <pubDate>Wed, 02 Sep 2015 19:00:00 EST</pubDate>
- <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
- <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
-    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20150902-128.mp3" length="58624944" type="audio/mpeg" />
-<itunes:duration>61:04</itunes:duration>
- </item>
- <item> <title>Off The Hook - Aug 26, 2015</title>
- <link>http://www.2600.com/offthehook/2015/0815.html</link>
- <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
- <guid isPermaLink="false">oth20150826-hq</guid>
- <pubDate>Wed, 26 Aug 2015 19:00:00 EST</pubDate>
- <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
- <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
-    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20150826-128.mp3" length="58614491" type="audio/mpeg" />
-<itunes:duration>61:03</itunes:duration>
- </item>
- <item> <title>Off The Hook - Aug 19, 2015</title>
- <link>http://www.2600.com/offthehook/2015/0815.html</link>
- <author>oth@2600.com (Emmanuel Goldstein et.al.)</author>
- <guid isPermaLink="false">oth20150819-hq</guid>
- <pubDate>Wed, 19 Aug 2015 19:00:00 EST</pubDate>
- <source url="http://www.2600.com/oth-broadband.xml">Off The Hook (high-bitrate)</source>
- <itunes:author>oth@2600.com (Emmanuel Goldstein et.al.)</itunes:author>
-    <enclosure url="http://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2015/off_the_hook__20150819-128.mp3" length="62056803" type="audio/mpeg" />
-<itunes:duration>64:38</itunes:duration>
  </item>
 </channel>
 </rss>

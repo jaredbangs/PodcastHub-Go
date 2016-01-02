@@ -23,7 +23,7 @@
   <webMaster>admin@NOSPAM-hackerpublicradio.org (HPR Webmaster)</webMaster> 
   <generator>kate</generator> 
   <docs>http://www.rssboard.org/rss-specification</docs>
-  <ttl>3200</ttl>
+  <ttl>43200</ttl>
   <skipDays>
     <day>Saturday</day>
     <day>Sunday</day>
@@ -37,807 +37,773 @@
     <width>144</width>
   </image>
   <atom:link href="http://hackerpublicradio.org/hpr_ogg_rss.php" rel="self" type="application/rss+xml" />
-  <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
+  <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
   <item>
-    <title>HPR1900: 20 - SSH Basics</title>
-    <author>zwilnik.nospam@nospam.zwilnik.com (Ahuka)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1900</link>
+    <title>HPR1935: Quick Bashpodder Fix</title>
+    <author>catintp.nospam@nospam.yahoo.com (Charles in NJ)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1935</link>
     <description><![CDATA[
-So as we saw in the introductory tutorial, SSH uses the Client-Server model. Now, technically a server is just the machine you are connecting to, and there is no reason in principle that it could not be another desktop, a laptop, or even a telephone if it has the appropriate software. and in the previous tutorial we showed how you can easily install and set up an ssh server on your home network using another computer or a Raspberry Pi so that you can experiment with these commands. The model really reduces to you as the client, and the other machine as the server. As with all Internet connections there are standards and protocols involved. The original Telnet communicated over TCP through port 23. Because SSH was conceived as a replacement, it used the same TCP protocols, and was assigned the adjacent port number of 22. 
-For more go to http://www.zwilnik.com/?page_id=726 
+Bashpodder is a great Bash script for downloading the latest episodes of podcasts and other media from their feeds.
+
+
+There are a few feeds that are not handled properly by Bashpodder, namely, the TED Talks podcast feed and the NPR digest show called the TED Radio Hour.
+
+
+The URLs for the audio files have a number of additional fields at the end of the string after the media file name, and Bashpodder picks up the last field as if it were the media file name for the show. So every TED Radio Hour episode is called &quot;510298&quot;. If you download more than one episode at a time, only the last episode to be saved will survive. Each new file clobbers the last one, because they all get the same filename.
+
+
+Charles in NJ made a simple fix to Bashpodder.shell to correct this problem, and he shares it in this episode.
 
 
 Links:
 
 
-https://tools.ietf.org/html/rfc4253
+Bashpodder: http://lincgeek.org/bashpodder
 
-https://www.tiltedwindmillpress.com/?product=ssh-mastery-openssh-putty-tunnels-and-keys-ebook
+TED Talks: http://blog.ted.com/audio_podcasts/
 
-http://www.zwilnik.com/?page_id=726
+TED Radio Hour:  http://www.npr.org/podcasts/510298/ted-radio-hour
+
+
+
+Additional Resources:
+
+
+Original version of Bashpodder.shell 
+http://hackerpublicradio.org/eps/hpr1935-bashpodder_original.shell
+
+Revised version with fixes to pick up TED-related podcast files 
+http://hackerpublicradio.org/eps/hpr1935-bashpodder.shell
+
+Abbreviated example of bp.conf configuration file that tells Bashpodder what resources to fetch 
+http://hackerpublicradio.org/eps/hpr1935-bp.conf
+
+Abbreviated example of podcast.log that shows how Bashpodder stores its history, including some sample TED links.
+http://hackerpublicradio.org/eps/hpr1935-podcast.log
+
+
+
+
+Happy New Year from Charles in NJ. 
+]]>
+</description>
+    <itunes:summary><![CDATA[
+Bashpodder is a great Bash script for downloading the latest episodes of podcasts and other media from their feeds.
+
+
+There are a few feeds that are not handled properly by Bashpodder, namely, the TED Talks podcast feed and the NPR digest show called the TED Radio Hour.
+
+
+The URLs for the audio files have a number of additional fields at the end of the string after the media file name, and Bashpodder picks up the last field as if it were the media file name for the show. So every TED Radio Hour episode is called &quot;510298&quot;. If you download more than one episode at a time, only the last episode to be saved will survive. Each new file clobbers the last one, because they all get the same filename.
+
+
+Charles in NJ made a simple fix to Bashpodder.shell to correct this problem, and he shares it in this episode.
+
+
+Links:
+
+
+Bashpodder: http://lincgeek.org/bashpodder
+
+TED Talks: http://blog.ted.com/audio_podcasts/
+
+TED Radio Hour:  http://www.npr.org/podcasts/510298/ted-radio-hour
+
+
+
+Additional Resources:
+
+
+Original version of Bashpodder.shell 
+http://hackerpublicradio.org/eps/hpr1935-bashpodder_original.shell
+
+Revised version with fixes to pick up TED-related podcast files 
+http://hackerpublicradio.org/eps/hpr1935-bashpodder.shell
+
+Abbreviated example of bp.conf configuration file that tells Bashpodder what resources to fetch 
+http://hackerpublicradio.org/eps/hpr1935-bp.conf
+
+Abbreviated example of podcast.log that shows how Bashpodder stores its history, including some sample TED links.
+http://hackerpublicradio.org/eps/hpr1935-podcast.log
+
+
+
+
+Happy New Year from Charles in NJ. 
+]]>
+</itunes:summary>
+    <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1935.ogg" length="6546311" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1935.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1934: Experiencing the Meegopad T-02  Part two</title>
+    <author>hpr.saxz.nospam@nospam.9ox.net (A Shadowy Figure)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1934</link>
+    <description><![CDATA[
+Part 2 of &quot;Experiencing the Meegopad T-02.
+
+
+Many thanks to all the HPR contributers that inspire such great stories.
+
+
+Glossary of slang terms to be updated upon show release, along with the list of sound effects contributers.
+
+
+Special thanks to the following individuals from freesound.org for their sound effects used throughout this episode.
+
+Rutgermuller 
+jaredi
+hybrid34
+lintphishx
+timbre
+cameronmusic
+cr4sht3st
+husky70
+mojomills
+ultradust
+conleec
+ingolyrio
+dapperdanial
+robinhood76
+unfa
+kwahma-02
+stephsinger22
+lonemonk
+reg7783
+
+Higher quality stereo copies of this episode in .Flac, Ogg, and MP3 format can be found at the following link.
+https://drive.google.com/folderview?id=0B6BAm4vn8c7QWnZLbnFib0JPc2M&amp;amp;usp=sharing
+
+Glossary of slang terms used in this episode:
+
+&quot;Came unglued&quot; = going berzerk
+&quot;Sang a little song&quot; = provided information to law enforcement
+&quot;Still&quot; = whiskey making apparatus 
+&quot;Scoring Barbies&quot; = Picking up women
+&quot;G-Men&quot; = Government employees. (Federal agents)
+&quot;Makerspace&quot; = 3-D Printing facility
+&quot;Johnny Law&quot; = Law Enforcement
+&quot;C-Note&quot; = $100.00 bill
+&quot;Speakeasy&quot; = illegal drinking establishment in prohibition era United States
+&quot;68 Chevelle&quot; = 1968 Chevrolet 2-door automobile
+&quot;Ratting me out&quot; = informing on someone
+&quot;Frank Nitty&quot; = 30's era Gangster, Al Capon's right hand man (Enforcer)
+
+Disclaimer:
+
+All characters are fictitious renditions of HPR contributers.
+Nothing about any individuals character is based on anything other than my personal convenience of using their likenesses in fictitious storytelling.
+No disrespect is intended in any way.
+
+The genre that the character A Shadowy Figure lives in is hard boiled Noir.
+Noir reflects a past history that had different standards than we do now.
+I do not personally hold those antiquated world views. Nor do I promote them through this work of fiction. I would like to think this artistic creation does provide an opportunity to see how far we've come as a society.
+
+But most of all, I'd like to think that you the listener, are entertained and/or inspired by this presentation.
+
+Thank you all for your support.
+
+A Shadowy Figure
+]]>
+</description>
+    <itunes:summary><![CDATA[
+Part 2 of &quot;Experiencing the Meegopad T-02.
+
+
+Many thanks to all the HPR contributers that inspire such great stories.
+
+
+Glossary of slang terms to be updated upon show release, along with the list of sound effects contributers.
+
+
+Special thanks to the following individuals from freesound.org for their sound effects used throughout this episode.
+
+Rutgermuller 
+jaredi
+hybrid34
+lintphishx
+timbre
+cameronmusic
+cr4sht3st
+husky70
+mojomills
+ultradust
+conleec
+ingolyrio
+dapperdanial
+robinhood76
+unfa
+kwahma-02
+stephsinger22
+lonemonk
+reg7783
+
+Higher quality stereo copies of this episode in .Flac, Ogg, and MP3 format can be found at the following link.
+https://drive.google.com/folderview?id=0B6BAm4vn8c7QWnZLbnFib0JPc2M&amp;amp;usp=sharing
+
+Glossary of slang terms used in this episode:
+
+&quot;Came unglued&quot; = going berzerk
+&quot;Sang a little song&quot; = provided information to law enforcement
+&quot;Still&quot; = whiskey making apparatus 
+&quot;Scoring Barbies&quot; = Picking up women
+&quot;G-Men&quot; = Government employees. (Federal agents)
+&quot;Makerspace&quot; = 3-D Printing facility
+&quot;Johnny Law&quot; = Law Enforcement
+&quot;C-Note&quot; = $100.00 bill
+&quot;Speakeasy&quot; = illegal drinking establishment in prohibition era United States
+&quot;68 Chevelle&quot; = 1968 Chevrolet 2-door automobile
+&quot;Ratting me out&quot; = informing on someone
+&quot;Frank Nitty&quot; = 30's era Gangster, Al Capon's right hand man (Enforcer)
+
+Disclaimer:
+
+All characters are fictitious renditions of HPR contributers.
+Nothing about any individuals character is based on anything other than my personal convenience of using their likenesses in fictitious storytelling.
+No disrespect is intended in any way.
+
+The genre that the character A Shadowy Figure lives in is hard boiled Noir.
+Noir reflects a past history that had different standards than we do now.
+I do not personally hold those antiquated world views. Nor do I promote them through this work of fiction. I would like to think this artistic creation does provide an opportunity to see how far we've come as a society.
+
+But most of all, I'd like to think that you the listener, are entertained and/or inspired by this presentation.
+
+Thank you all for your support.
+
+A Shadowy Figure
+]]>
+</itunes:summary>
+    <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1934.ogg" length="9059536" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1934.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1933: HPR AudioBookClub 11 Street Candles</title>
+    <author>admin.nospam@nospam.hackerpublicradio.org (HPR_AudioBookClub)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1933</link>
+    <description><![CDATA[SUMMARY
+In this episode, the HPR_AudioBookClub reviews Street Candles by David Collins-Rivera. You can download this AudioBook for free from http://www.cavalcadeaudio.com/.
+If you liked this book, or are a fan of David Collins-Rivera, you can purchase it from http://www.amazon.com/s?ie=UTF8&amp;amp;page=1&amp;amp;rh=n%3A283155%2Cp_27%3ADavid%20Collins-Rivera.
+Pre-Spoilers
+
+ Thaj: Great book. Makes me want to go back and re-read the previous book.  I wonder how well some of the commentary  present in this book will resonate in the future.  The story is good enough I have no doubt that it will still be a good read, but I'm not sure if it might loose a bit. 
+ x1101: I Loved this book. So much so that I listened to it twice. Every chapter is a cliff hanger.
+ pokey: I LOVE this AudioBook! The author (Lostinbronx) really made me care about each of the characters. Every chapter is a cliff hanger, and that WORKS precisely because I do care about the characters.
+ pegwole: It was a fantastic post modern essay on life. Even though I listened to the wrong AudioBook.
+ CrispyoneFifty: Speaking for all of humanity, to all of humanity's future, I say &quot;you should go download and listen to this AudioBook!&quot;
+
+(summary)
+BEVERAGE REVIEWS
+As  usual, the HPR_AudioBookClub took some time to review the beverages that each of us were drinking during the episode
+
+ Thaj: Running late, just drinking water.  I know LAME!
+ x1101: Black Isle Organic Oatmeal Stout. Very little head, a cholate/coffee nose, as well as chocolate/coffee malt notes. Not overly fizzy, but not sudsy at all. Excellent. http://www.blackislebrewery.com/beer/Hibernator-Oatmeal-Stout.html
+ pokey: I drank a Six Star Creatine fruit punch because I'm tired of looking like Ejoq. I have to go to the gym after the show, and this stuff seems to help with muscle recovery. It tastes pretty good. There's no funny artificial sweetener after taste, for which I'm very grateful. http://www.sixstarpro.com/products/creatinex3/
+ pegwole: It's coffee. Its not a special one either, now shut up.
+ CrispyoneFifty: Newcastle Werewolf Blood-Red Ale It's sweet up front, and leaves a sweet after taste, with a punch of bitter in between. You can definitely taste the rye in there too. http://www.beeradvocate.com/beer/profile/342/71106/
+
+Spoilers Notes
+x1101's mental image of Bin Ragensten http://4.bp.blogspot.com/-tBCFYZpXFTE/ULLWzqZ0X9I/AAAAAAAAAQ4/-w4FEX8atL8/s1600/Santa-Claus-Rise-Of-The-Guardians-600x375.jpg 
+OUR NEXT AUDIOBOOK
+The Call of Cthulhu by H. P. Lovecraft
+ http://hppodcraft.com/podcasts/TheCallofCthulhu-hppodcraft.mp3
+pegwole suggested this AudioBook, and we all thought that horror was a pretty good selection for our October recording.
+NEXT RECORDING
+We record the second Tuesday of every month at 20:00 Eastern US time Which = the second Wednesday of each month at 01:00z (unless its daylight saving time, then its the second Tuesday 24:00zhttps://en.wikipedia.org/wiki/ISO_8601#Times  If you'd like a Google calendar invite, or if you'd like to be on the  HPR_AudioBookClub mailing list, please get in contact with us on the HPR  mailing list 'hpr at hackerpublicradio dot org.' We're way behind on publishing, so if you want to join us, get in contact one of these ways and we'll let you know what the current book is.
+FEEDBACK
+Thank  you very much for listening to this episode of the HPR_AudioBookClub.  We had a great time recording this show, and we hope you enjoyed it as  well. We also hope you'll consider joining us next time. Please leave a few words in the episode's comment section.
+ As always; remember to visit the HPR contribution page HPR could really use your help right now.
+http://hackerpublicradio.org/contribute.php
+Sincerely,
+ The HPR_AudioBookClub
+P.S. Some people really like finding mistakes. For their enjoyment, we always include a few.
+]]>
+</description>
+    <itunes:summary><![CDATA[SUMMARY
+In this episode, the HPR_AudioBookClub reviews Street Candles by David Collins-Rivera. You can download this AudioBook for free from http://www.cavalcadeaudio.com/.
+If you liked this book, or are a fan of David Collins-Rivera, you can purchase it from http://www.amazon.com/s?ie=UTF8&amp;amp;page=1&amp;amp;rh=n%3A283155%2Cp_27%3ADavid%20Collins-Rivera.
+Pre-Spoilers
+
+ Thaj: Great book. Makes me want to go back and re-read the previous book.  I wonder how well some of the commentary  present in this book will resonate in the future.  The story is good enough I have no doubt that it will still be a good read, but I'm not sure if it might loose a bit. 
+ x1101: I Loved this book. So much so that I listened to it twice. Every chapter is a cliff hanger.
+ pokey: I LOVE this AudioBook! The author (Lostinbronx) really made me care about each of the characters. Every chapter is a cliff hanger, and that WORKS precisely because I do care about the characters.
+ pegwole: It was a fantastic post modern essay on life. Even though I listened to the wrong AudioBook.
+ CrispyoneFifty: Speaking for all of humanity, to all of humanity's future, I say &quot;you should go download and listen to this AudioBook!&quot;
+
+(summary)
+BEVERAGE REVIEWS
+As  usual, the HPR_AudioBookClub took some time to review the beverages that each of us were drinking during the episode
+
+ Thaj: Running late, just drinking water.  I know LAME!
+ x1101: Black Isle Organic Oatmeal Stout. Very little head, a cholate/coffee nose, as well as chocolate/coffee malt notes. Not overly fizzy, but not sudsy at all. Excellent. http://www.blackislebrewery.com/beer/Hibernator-Oatmeal-Stout.html
+ pokey: I drank a Six Star Creatine fruit punch because I'm tired of looking like Ejoq. I have to go to the gym after the show, and this stuff seems to help with muscle recovery. It tastes pretty good. There's no funny artificial sweetener after taste, for which I'm very grateful. http://www.sixstarpro.com/products/creatinex3/
+ pegwole: It's coffee. Its not a special one either, now shut up.
+ CrispyoneFifty: Newcastle Werewolf Blood-Red Ale It's sweet up front, and leaves a sweet after taste, with a punch of bitter in between. You can definitely taste the rye in there too. http://www.beeradvocate.com/beer/profile/342/71106/
+
+Spoilers Notes
+x1101's mental image of Bin Ragensten http://4.bp.blogspot.com/-tBCFYZpXFTE/ULLWzqZ0X9I/AAAAAAAAAQ4/-w4FEX8atL8/s1600/Santa-Claus-Rise-Of-The-Guardians-600x375.jpg 
+OUR NEXT AUDIOBOOK
+The Call of Cthulhu by H. P. Lovecraft
+ http://hppodcraft.com/podcasts/TheCallofCthulhu-hppodcraft.mp3
+pegwole suggested this AudioBook, and we all thought that horror was a pretty good selection for our October recording.
+NEXT RECORDING
+We record the second Tuesday of every month at 20:00 Eastern US time Which = the second Wednesday of each month at 01:00z (unless its daylight saving time, then its the second Tuesday 24:00zhttps://en.wikipedia.org/wiki/ISO_8601#Times  If you'd like a Google calendar invite, or if you'd like to be on the  HPR_AudioBookClub mailing list, please get in contact with us on the HPR  mailing list 'hpr ]]>
+</itunes:summary>
+    <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1933.ogg" length="68013289" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1933.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1932: Klaatu interviews Grafana</title>
+    <author>klaatu.nospam@nospam.straightedgelinux.com (klaatu)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1932</link>
+    <description><![CDATA[
+Grafana provides a powerful and elegant way to create, explore, and share dashboards and data with your team and the world.
+
+
+Grafana is most commonly used for visualizing time series data for Internet infrastructure and application analytics but many use it in other domains including industrial sensors, home automation, weather, and process control.
+
+
+http://grafana.org
 
 
 ]]>
 </description>
     <itunes:summary><![CDATA[
-So as we saw in the introductory tutorial, SSH uses the Client-Server model. Now, technically a server is just the machine you are connecting to, and there is no reason in principle that it could not be another desktop, a laptop, or even a telephone if it has the appropriate software. and in the previous tutorial we showed how you can easily install and set up an ssh server on your home network using another computer or a Raspberry Pi so that you can experiment with these commands. The model really reduces to you as the client, and the other machine as the server. As with all Internet connections there are standards and protocols involved. The original Telnet communicated over TCP through port 23. Because SSH was conceived as a replacement, it used the same TCP protocols, and was assigned the adjacent port number of 22. 
-For more go to http://www.zwilnik.com/?page_id=726 
+Grafana provides a powerful and elegant way to create, explore, and share dashboards and data with your team and the world.
 
 
-Links:
+Grafana is most commonly used for visualizing time series data for Internet infrastructure and application analytics but many use it in other domains including industrial sensors, home automation, weather, and process control.
 
 
-https://tools.ietf.org/html/rfc4253
-
-https://www.tiltedwindmillpress.com/?product=ssh-mastery-openssh-putty-tunnels-and-keys-ebook
-
-http://www.zwilnik.com/?page_id=726
+http://grafana.org
 
 
 ]]>
 </itunes:summary>
-    <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1900.ogg" length="10738532" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1900.ogg</guid>
+    <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1932.ogg" length="3871099" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1932.ogg</guid>
     <itunes:explicit>yes</itunes:explicit>
   </item>
   <item>
-    <title>HPR1899: MyTinyTodo List</title>
+    <title>HPR1931: Atomic force microscopy</title>
+    <author>amunizp.nospam@nospam.member.fsf.org (Amunizp)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1931</link>
+    <description><![CDATA[I give a quick overview of what is nanotechnology. go over some of the tools used to view the small scale. I go a bit more in depth with atomic force microscopy.
+I left many things out that I would like to have said but mostly you can get further information here:
+https://en.wikipedia.org/wiki/Atomic_force_microscopy]]>
+</description>
+    <itunes:summary><![CDATA[I give a quick overview of what is nanotechnology. go over some of the tools used to view the small scale. I go a bit more in depth with atomic force microscopy.
+I left many things out that I would like to have said but mostly you can get further information here:
+https://en.wikipedia.org/wiki/Atomic_force_microscopy]]>
+</itunes:summary>
+    <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1931.ogg" length="9094626" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1931.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1930: A systemd primer</title>
+    <author>clinton.roy.nospam@nospam.gmail.com (Clinton Roy)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1930</link>
+    <description><![CDATA[1 What is systemd?
+A dependency system for unix services.
+And, a set of basic unix services to make a unix system usable.
+And, a growing list of not quite so basic services
+
+NTP, networkd, timers (crond/atd)
+
+From a programmers perspective, it’s the mainloop phenomenon.
+2 Alternatives
+Solaris: Service Management Facility
+Mac OSX: launchd
+Ubuntu: upstart (until recently)
+3 Replaces
+SYSV
+LSB (actually implements LSB deps)
+4 Terminology
+units
+
+[auto]mount
+swap
+path (inotify triggers)
+socket
+timer (crond/atd)
+service
+slice (cgroup)
+pseudo
+device
+snapshot
+scope
+
+
+
+targets
+
+replace run levels
+default target at boot
+can isolate to just one target
+
+5 Advantages – Design
+Proper, explicit dependencies between system compontents
+Starts components in parallel
+A proper separation of concerns, lots of situations covered.
+
+configuration files are regular, simple to understand generally small
+OTOH, there are LOTS of options
+
+Configuration is not runnable shell.
+[Unit]
+Description=CUPS Scheduler
+Documentation=man:cupsd(8)
+
+[Service]
+ExecStart=/usr/sbin/cupsd -l
+Type=simple
+
+[Install]
+Also=cups.socket cups.path
+WantedBy=printer.target
+
+Separate system and user daemons.
+6 Advantages – Sysadmins
+Modify configuration without modifying upstream configuration
+Service watching (startup, watchdog, failure modes)
+systemd-delta
+[EXTENDED]   /lib/systemd/system/rc-local.service → /lib/systemd/system/rc-local.service.d/debian.conf
+[EXTENDED]   /lib/systemd/system/systemd-timesyncd.service → /lib/systemd/system/systemd-timesyncd.service.d/disable-with-time-daemon.conf
+[EQUIVALENT] /etc/systemd/system/default.target → /lib/systemd/system/default.target
+
+3 overridden configuration files found.
+
+7 Advantages – Programming
+Removal of some error and security prone code
+
+socket activation (e.g. privileged ports)
+user/group changing
+
+8 Advantages – Provisioning
+standardized cgroup controls
+containers
+debootstrap ; systemd-spawn-boot
+* systemd takes care of all pseudo file systems for you
+9 Advantages – Users
+quick to boot
+can reduce load later on (services start &amp;amp; stop as required)
+10 Examples
+Color legend:
+
+black = Requires
+dark blue = Requisite
+dark grey = Wants
+red = Conflicts
+green = After
+
+systemd-analyze blame
+systemd-analyze plot
+systemd-analyze plot gdm.service
+11 Disadvantages
+Journald
+
+It’s really nice in theory, but in practice I’ve found it to be slow and buggy
+
+It’s a little new, so LTS distros necessarily have older versions
+
+el7 has something like 200 patches
+
+network-online.target is a bit flakey
+DBUS
+
+Unix is a graveyard of IPC, I don’t feel DBUS is much better
+KDBUS means it will probably be around for ever.
+
+12 Quandries
+Deeply hooked into linux specific details, not portable
+
+kernel api, cgroups, udev etc.
+
+Some cool features relient on file system e.g. btrfs for snapshot
+13 Future
+I haven’t had a chance to play with networkd yet, but it sounds like it’s going to be very good.
+14 Questions
+Migrating
+
+It depends…
+systemd only supports start/stop/reload
+work with the daemon: oneshot/simple/forking/inetd
+integrate with systemd: notify, watchdog
+
+Userspace
+
+Every login, a separate systemd –user is spawned
+Can override with .config/systemd files
+
+]]>
+</description>
+    <itunes:summary><![CDATA[1 What is systemd?
+A dependency system for unix services.
+And, a set of basic unix services to make a unix system usable.
+And, a growing list of not quite so basic services
+
+NTP, networkd, timers (crond/atd)
+
+From a programmers perspective, it’s the mainloop phenomenon.
+2 Alternatives
+Solaris: Service Management Facility
+Mac OSX: launchd
+Ubuntu: upstart (until recently)
+3 Replaces
+SYSV
+LSB (actually implements LSB deps)
+4 Terminology
+units
+
+[auto]mount
+swap
+path (inotify triggers)
+socket
+timer (crond/atd)
+service
+slice (cgroup)
+pseudo
+device
+snapshot
+scope
+
+
+
+targets
+
+replace run levels
+default target at boot
+can isolate to just one target
+
+5 Advantages – Design
+Proper, explicit dependencies between system compontents
+Starts components in parallel
+A proper separation of concerns, lots of situations covered.
+
+configuration files are regular, simple to understand generally small
+OTOH, there are LOTS of options
+
+Configuration is not runnable shell.
+[Unit]
+Description=CUPS Scheduler
+Documentation=man:cupsd(8)
+
+[Service]
+ExecStart=/usr/sbin/cupsd -l
+Type=simple
+
+[Install]
+Also=cups.socket cups.path
+WantedBy=printer.target
+
+Separate system and user daemons.
+6 Advantages – Sysadmins
+Modify configuration without modifying upstream configuration
+Service watching (startup, watchdog, failure modes)
+systemd-delta
+[EXTENDED]   /lib/systemd/system/rc-local.service → /lib/systemd/system/rc-local.service.d/debian.conf
+[EXTENDED]   /lib/systemd/system/systemd-timesyncd.service → /lib/systemd/system/systemd-timesyncd.service.d/disable-with-time-daemon.conf
+[EQUIVALENT] /etc/systemd/system/default.target → /lib/systemd/system/default.target
+
+3 overridden configuration files found.
+
+7 Advantages – Programming
+Removal of some error and security prone code
+
+socket activation (e.g. privileged ports)
+user/group changing
+
+8 Advantages – Provisioning
+standardized cgroup controls
+containers
+debootstrap ; systemd-spawn-boot
+* systemd takes care of all pseudo file systems for you
+9 Advantages – Users
+quick to boot
+can reduce load later on (services start &amp;amp; stop as required)
+10 Examples
+Color legend:
+
+black = Requires
+dark blue = Requisite
+dark grey = Wants
+red = Conflicts
+green = After
+
+systemd-analyze blame
+systemd-analyze plot
+systemd-analyze plot gdm.service
+11 Disadvantages
+Journald
+
+It’s really nice in theory, but in practice I’ve found it to be slow and buggy
+
+It’s a little new, so LTS distros necessarily have older versions
+
+el7 has something like 200 patches
+
+network-online.target is a bit flakey
+DBUS
+
+Unix is a graveyard of IPC, I don’t feel DBUS is much better
+KDBUS means it will probably be around for ever.
+
+12 Quandries
+Deeply hooked into linux specific details, not portable
+
+kernel api, cgroups, udev etc.
+
+Some cool features relient on file system e.g. btrfs for snapshot
+13 Future
+I haven’t had a chance to play with netw]]>
+</itunes:summary>
+    <pubDate>Fri, 25 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1930.ogg" length="5639896" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1930.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1929: I Found a Flashlight</title>
     <author>jonlancekulp.nospam@nospam.gmail.com (Jon Kulp)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1899</link>
-    <description><![CDATA[This show is about my favorite tool to keep track of stuff I have to do, stuff I want to do, gift ideas for my family, books I want to read, HPR topics to record, etc. It's called MyTinyTodo. It's a web app that you can host on your own server and access from any device that has a web browser.
-The website claims that it is already mobile friendly, but I did not like the mobile interface they had, and also did not like the fact that I had to use a different URL to get the mobile interface, so I hacked the stylesheet and the index.html file in the code to make it a responsive design. Now it looks great on all of my devices.
-Features
+    <link>http://hackerpublicradio.org/eps.php?id=1929</link>
+    <description><![CDATA[I Found a Flashlight
 
-Multiple lists
-Task notes
-Tags (and tag cloud)
-Due dates (input format: y-m-d, m/d/y, d.m.y, m/d, d.m)
-Priority (-1, 0, +1, +2)
-Different sortings including sort by drag-and-drop
-Search
-Password protection
+A couple of weeks ago on the way to work I found a flashlight (or a &quot;torch,&quot; for those folks across the pond). It was rolling around on the street getting run over by cars and seemingly not suffering any damage as result. As soon as it was safe, I walked out into the street and grabbed it and took it with me. A little poking around online showed me that this was no ordinary device, but a police-grade flashlight.
 
-System requirements
 
-PHP 5.2.0 or greater;
-PHP extensions: php_mysql (MySQL version), php_pdo and php_pdo_sqlite (SQLite version).
 
-Installation
-Setup is very easy as these things go. Check out the installation instructions at their website.]]>
-</description>
-    <itunes:summary><![CDATA[This show is about my favorite tool to keep track of stuff I have to do, stuff I want to do, gift ideas for my family, books I want to read, HPR topics to record, etc. It's called MyTinyTodo. It's a web app that you can host on your own server and access from any device that has a web browser.
-The website claims that it is already mobile friendly, but I did not like the mobile interface they had, and also did not like the fact that I had to use a different URL to get the mobile interface, so I hacked the stylesheet and the index.html file in the code to make it a responsive design. Now it looks great on all of my devices.
-Features
+I contacted the Lafayette Police Department to find out what kind of flashlights they used and whether anyone had reported one missing. Ordinarily when I find something I don't worry about this, but I discovered that this thing cost quite a lot of money—around $125 on Amazon with a retail price of $225—and if a police officer had lost it I certainly didn't want him going into his own pocket to replace it if I could just give it back to him. The police department wrote back to me saying, yes, this was the kind of flashlight that they issued to their officers but no one was missing one. I also asked the University Police and they said they don't normally issue flashlights but that sometimes officers bought their own and no one had reported missing one. 
 
-Multiple lists
-Task notes
-Tags (and tag cloud)
-Due dates (input format: y-m-d, m/d/y, d.m.y, m/d, d.m)
-Priority (-1, 0, +1, +2)
-Different sortings including sort by drag-and-drop
-Search
-Password protection
+After seeing the amazing build quality and absolutely unbelievable light quality this thing produced, I decided to keep it and so I had to buy a charger to recharge the battery. This cost about $28 and now I'm the proud owner of a Streamlight SL-20L flashlight. This is truly one of the greatest tools I've ever had. Listen to the show to hear me sing its praises!
 
-System requirements
-
-PHP 5.2.0 or greater;
-PHP extensions: php_mysql (MySQL version), php_pdo and php_pdo_sqlite (SQLite version).
-
-Installation
-Setup is very easy as these things go. Check out the installation instructions at their website.]]>
-</itunes:summary>
-    <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1899.ogg" length="7697523" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1899.ogg</guid>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
-  <item>
-    <title>HPR1898: Free my music!</title>
-    <author>andrew.neher1.nospam@nospam.gmail.com (Alpha32)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1898</link>
-    <description><![CDATA[
-How I got my music library transferred from my Mac to my Linux box, thereby allowing me to fully switch to Linux. This is a problem I've been neglecting for a while that has been keeping me tethered to iTunes whenever I want to hear my music. This probably isn't the best or simplest solution, but it's how I felt comfortable doing it.
-]]>
-</description>
-    <itunes:summary><![CDATA[
-How I got my music library transferred from my Mac to my Linux box, thereby allowing me to fully switch to Linux. This is a problem I've been neglecting for a while that has been keeping me tethered to iTunes whenever I want to hear my music. This probably isn't the best or simplest solution, but it's how I felt comfortable doing it.
-]]>
-</itunes:summary>
-    <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1898.ogg" length="4485549" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1898.ogg</guid>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
-  <item>
-    <title>HPR1897: Installing Windows 7 Ultimate</title>
-    <author>swift1102008.nospam@nospam.gmail.com (swift110)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1897</link>
-    <description><![CDATA[
-http://anthonyvenable110.wordpress.com is my blog so feel free to check me out there.
-
-]]>
-</description>
-    <itunes:summary><![CDATA[
-http://anthonyvenable110.wordpress.com is my blog so feel free to check me out there.
-
-]]>
-</itunes:summary>
-    <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1897.ogg" length="11413982" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1897.ogg</guid>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
-  <item>
-    <title>HPR1896: User Local Software</title>
-    <author>ericxdu23.nospam@nospam.gmail.com (Eric Duhamel)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1896</link>
-    <description><![CDATA[In this recording I describe how I decided where to store software that I downloaded manually, as opposed to software that is installed and organized automatically by GNU/Linux systems.
-SPOILER: I settled on ~/local/src/ and ~/local/opt/
-Happy Halloween.
-This is my first time recording a podcast. I recorded this in an afternoon when no one else was around except the furry kids and the neighbors outside. I've had the idea for this episode for a while, but having never recorded before didn't really know when/where/how to do it until just now.
-The perspective of this episode comes from a GNU/Linux user since Sept. 2012, and a little bit of experience from 2002-2004. I'm interested in easy, simple solutions that everyone can use to solve problems or use new things.
-Special thanks to Clacke for recommending in his recent episode the free/open-source Android recording application uRecord available from F-Droid. The resulting audio sounds great and uRecord is very easy to use. I recorded several separate paragraphs and concatenated them with Audacity.
-]]>
-</description>
-    <itunes:summary><![CDATA[In this recording I describe how I decided where to store software that I downloaded manually, as opposed to software that is installed and organized automatically by GNU/Linux systems.
-SPOILER: I settled on ~/local/src/ and ~/local/opt/
-Happy Halloween.
-This is my first time recording a podcast. I recorded this in an afternoon when no one else was around except the furry kids and the neighbors outside. I've had the idea for this episode for a while, but having never recorded before didn't really know when/where/how to do it until just now.
-The perspective of this episode comes from a GNU/Linux user since Sept. 2012, and a little bit of experience from 2002-2004. I'm interested in easy, simple solutions that everyone can use to solve problems or use new things.
-Special thanks to Clacke for recommending in his recent episode the free/open-source Android recording application uRecord available from F-Droid. The resulting audio sounds great and uRecord is very easy to use. I recorded several separate paragraphs and concatenated them with Audacity.
-]]>
-</itunes:summary>
-    <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1896.ogg" length="3674727" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1896.ogg</guid>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
-  <item>
-    <title>HPR1895: 65 - LibreOffice Impress - OLE Objects, Spreadsheets, and Charts</title>
-    <author>zwilnik.nospam@nospam.zwilnik.com (Ahuka)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1895</link>
-    <description><![CDATA[
-The next topic we want to cover involves something called OLE, which stands for Object Linking and Embedding. This was developed by Microsoft, but has spread to the free software world as well. What it means is that you can use data from two different programs together, and changes made in place are automatically reflected in the other place. A great example comes with spreadsheets, since you create them in a spreadsheet program like Calc, but you might want to take a table created there and put it into a slide to display. 
-For more go to http://www.ahuka.com/?page_id=1275
 
 
 Links
 
 
-http://www.ahuka.com/?page_id=1275
-
+	Streamlight SL-20L LED Rechargeable Flashlight Series
 ]]>
 </description>
-    <itunes:summary><![CDATA[
-The next topic we want to cover involves something called OLE, which stands for Object Linking and Embedding. This was developed by Microsoft, but has spread to the free software world as well. What it means is that you can use data from two different programs together, and changes made in place are automatically reflected in the other place. A great example comes with spreadsheets, since you create them in a spreadsheet program like Calc, but you might want to take a table created there and put it into a slide to display. 
-For more go to http://www.ahuka.com/?page_id=1275
+    <itunes:summary><![CDATA[I Found a Flashlight
+
+A couple of weeks ago on the way to work I found a flashlight (or a &quot;torch,&quot; for those folks across the pond). It was rolling around on the street getting run over by cars and seemingly not suffering any damage as result. As soon as it was safe, I walked out into the street and grabbed it and took it with me. A little poking around online showed me that this was no ordinary device, but a police-grade flashlight.
+
+
+
+I contacted the Lafayette Police Department to find out what kind of flashlights they used and whether anyone had reported one missing. Ordinarily when I find something I don't worry about this, but I discovered that this thing cost quite a lot of money—around $125 on Amazon with a retail price of $225—and if a police officer had lost it I certainly didn't want him going into his own pocket to replace it if I could just give it back to him. The police department wrote back to me saying, yes, this was the kind of flashlight that they issued to their officers but no one was missing one. I also asked the University Police and they said they don't normally issue flashlights but that sometimes officers bought their own and no one had reported missing one. 
+
+After seeing the amazing build quality and absolutely unbelievable light quality this thing produced, I decided to keep it and so I had to buy a charger to recharge the battery. This cost about $28 and now I'm the proud owner of a Streamlight SL-20L flashlight. This is truly one of the greatest tools I've ever had. Listen to the show to hear me sing its praises!
+
 
 
 Links
 
 
-http://www.ahuka.com/?page_id=1275
-
+	Streamlight SL-20L LED Rechargeable Flashlight Series
 ]]>
 </itunes:summary>
-    <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1895.ogg" length="10357824" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1895.ogg</guid>
+    <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1929.ogg" length="7868815" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1929.ogg</guid>
     <itunes:explicit>yes</itunes:explicit>
   </item>
   <item>
-    <title>HPR1894: Interview with Davide Zilli and Dr Marianne Sinka of the HumBug Project</title>
-    <author>ken.nospam@nospam.fallon.ie (Ken Fallon)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1894</link>
+    <title>HPR1928: Cov&apos;s Jams</title>
+    <author>cov.nospam@nospam.mykolab.com (Cov)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1928</link>
     <description><![CDATA[
-Back in 2012 I put up a blog post on my site related to the need for an Open Source Mosquito Locator. Mosquitoes are the greatest killer of humans per year.
+The playlist can be found at https://www.jamendo.com/playlist/500146000/cov-s-jams-001
 
 
 
-Recently Alexandre Azzalini left a comment pointing me to the HumBug project which is dedicated to Mosquito Detection and Habitat Mapping for Improved Malaria Modelling. I got in touch, and so today I talk to Davide Zilli, and Dr. Marianne Sinka who were winners of the Google Impact Challenge UK 2014.
+Cedric Share-The Awakening Part.II (DerFilm Cut Edition) CEDRIC SHARE #piano #technominimal #techno 02:39
+VENTO SUL 1 JURA #happy 03:19
+Satisfied MAURO DEL MAR (A.K.A. SCÁNDALI) #soundscapes #rock #song 02:06  
+Deva Dasis TASTE OF DREAM #keyboard #synthesizer #lounge 04:21 
+Im In Love With A Man ( I Can't Stand) ROCC NOBLES 03:36  
+We Have A Problem BILLY KORG #rock 05:35 
+Libera Me MARIO SALIS #strings #sad #soundtrack 04:53 
+Кокарда ДЕВЯТЬ #vocal 05:08 
+]]>
+</description>
+    <itunes:summary><![CDATA[
+The playlist can be found at https://www.jamendo.com/playlist/500146000/cov-s-jams-001
 
 
-Royal Botanic Gardens Kew: Crowdsourcing data to help prevent mosquito-borne diseases
 
-Mosquitoes are responsible for the spread of some of the most deadly and costly diseases, with more than half the world's population living in areas where they are routinely exposed to disease carrying mosquitoes. One of the most deadly diseases that they transmit is malaria, that kills over 600,000 people every year. The Royal Botanic Gardens Kew will equip villagers in rural Indonesia with wearable acoustic sensors to detect the sound of mosquitoes. Each species has its own wing beat allowing the research team to record the occurrence of different species, as well as daily readings of critical environmental conditions. Combined with detailed vegetation maps, this will be able to track disease-bearing mosquitoes. Over the next three years, Kew Gardens will work with Oxford University to turn this project into a reality, creating a downloadable smartphone app and a range of wearable acoustic detectors. This novel technology will be trialled in 150 rural households in Indonesia with the aim of preventing and managing outbreaks of mosquito-borne disease. This prototype technology has the potential ultimately to be rolled out in every region of the world where mosquito-borne diseases pose a threat to life.
-https://impactchallenge.withgoogle.com/uk2014
-
-
-Their approach is to use a Goertzel algorithm running on either a dedicated device or on a smart phone to identify species. This data will then be used for Habitat Mapping and Vector modeling to try and target only species that are a danger to Humans.
-
-
-
-Reach them on Twitter @humbugmozz
-
-
-Links
-
-http://kenfallon.com/open-source-mosquito-locator/
-http://www.telegraph.co.uk/news/worldnews/11644785/Which-animal-kills-the-most-humans.html
-http://humbug.robots.ox.ac.uk/
-http://davide.zillis.net/
-http://seeg.zoo.ox.ac.uk/members/dr-marianne-sinka
-https://impactchallenge.withgoogle.com/uk2014
-https://twitter.com/humbugmozz
-https://en.wikipedia.org/wiki/Goertzel_algorithm
-http://soundtrap.io/
-http://shop.ee.co.uk/mobile-phones/pay-as-you-go/alcatel-pixi-3-(4.5)/details
-http://www.gsmarena.com/alcatel_pixi_3_(4)-6933.php
-http://humbug.robots.ox.ac.uk/research/sensing/
-http://humbug.robots.ox.ac.uk/research/mapping/
-http://humbug.robots.ox.ac.uk/research/modelling/
-
-
+Cedric Share-The Awakening Part.II (DerFilm Cut Edition) CEDRIC SHARE #piano #technominimal #techno 02:39
+VENTO SUL 1 JURA #happy 03:19
+Satisfied MAURO DEL MAR (A.K.A. SCÁNDALI) #soundscapes #rock #song 02:06  
+Deva Dasis TASTE OF DREAM #keyboard #synthesizer #lounge 04:21 
+Im In Love With A Man ( I Can't Stand) ROCC NOBLES 03:36  
+We Have A Problem BILLY KORG #rock 05:35 
+Libera Me MARIO SALIS #strings #sad #soundtrack 04:53 
+Кокарда ДЕВЯТЬ #vocal 05:08 
+]]>
+</itunes:summary>
+    <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1928.ogg" length="19896921" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1928.ogg</guid>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+  <item>
+    <title>HPR1927: Ansible Interview</title>
+    <author>klaatu.nospam@nospam.straightedgelinux.com (klaatu)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1927</link>
+    <description><![CDATA[
+Klaatu talks to Ansible at All Things Open conference.
 
 ]]>
 </description>
     <itunes:summary><![CDATA[
-Back in 2012 I put up a blog post on my site related to the need for an Open Source Mosquito Locator. Mosquitoes are the greatest killer of humans per year.
+Klaatu talks to Ansible at All Things Open conference.
 
-
-
-Recently Alexandre Azzalini left a comment pointing me to the HumBug project which is dedicated to Mosquito Detection and Habitat Mapping for Improved Malaria Modelling. I got in touch, and so today I talk to Davide Zilli, and Dr. Marianne Sinka who were winners of the Google Impact Challenge UK 2014.
-
-
-Royal Botanic Gardens Kew: Crowdsourcing data to help prevent mosquito-borne diseases
-
-Mosquitoes are responsible for the spread of some of the most deadly and costly diseases, with more than half the world's population living in areas where they are routinely exposed to disease carrying mosquitoes. One of the most deadly diseases that they transmit is malaria, that kills over 600,000 people every year. The Royal Botanic Gardens Kew will equip villagers in rural Indonesia with wearable acoustic sensors to detect the sound of mosquitoes. Each species has its own wing beat allowing the research team to record the occurrence of different species, as well as daily readings of critical environmental conditions. Combined with detailed vegetation maps, this will be able to track disease-bearing mosquitoes. Over the next three years, Kew Gardens will work with Oxford University to turn this project into a reality, creating a downloadable smartphone app and a range of wearable acoustic detectors. This novel technology will be trialled in 150 rural households in Indonesia with the aim of preventing and managing outbreaks of mosquito-borne disease. This prototype technology has the potential ultimately to be rolled out in every region of the world where mosquito-borne diseases pose a threat to life.
-https://impactchallenge.withgoogle.com/uk2014
-
-
-Their approach is to use a Goertzel algorithm running on either a dedicated device or on a smart phone to identify species. This data will then be used for Habitat Mapping and Vector modeling to try and target only species that are a danger to Humans.
-
-
-
-Reach them on Twitter @humbugmozz
-
-
-Links
-
-http://kenfallon.com/open-source-mosquito-locator/
-http://www.telegraph.co.uk/news/worldnews/11644785/Which-animal-kills-the-most-humans.html
-http://humbug.robots.ox.ac.uk/
-http://davide.zillis.net/
-http://seeg.zoo.ox.ac.uk/members/dr-marianne-sinka
-https://impactchallenge.withgoogle.com/uk2014
 ]]>
 </itunes:summary>
-    <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1894.ogg" length="29804888" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1894.ogg</guid>
+    <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1927.ogg" length="4527708" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1927.ogg</guid>
     <itunes:explicit>yes</itunes:explicit>
   </item>
   <item>
-    <title>HPR1893: My LastPass Alternative</title>
-    <author>james.nospam@nospam.toebesacademy.com (ToeJet)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1893</link>
-    <description><![CDATA[
-My LastPass Alternative
+    <title>HPR1926: National Measurements Institutes</title>
+    <author>amunizp.nospam@nospam.member.fsf.org (Amunizp)</author>
+    <link>http://hackerpublicradio.org/eps.php?id=1926</link>
+    <description><![CDATA[I give a short personal view on what are National Measurements Institutes. More info can be found here:
 
+https://en.wikipedia.org/wiki/Measurement_uncertainty
+https://en.wikipedia.org/wiki/Metrology
+https://en.wikipedia.org/wiki/International_Bureau_of_Weights_and_Measures
+https://en.wikipedia.org/wiki/National_Physical_Laboratory_%28United_Kingdom%29
+https://en.wikipedia.org/wiki/Physikalisch-Technische_Bundesanstalt
+https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology
 
-
-Password Database: KeePass http://keepass.info/
-KeePass client is in the fedora repos.
-
-
-
-
-Save file to a location that will be synced between devices.  Im my case Owncloud.   Desktop Client syncs available for Linux, Windows and Mac. Mobile clients for Android, IOS, and even blackberry. Syncing note:  I do not launch the desktop client on login. This allows the owncloud client to sync files before launching keepass. Also, I exit keypass before logging out for the same reason.
-
-
-For integration with browser, there are
-
-
-
-Firefox: Passifox https://addons.mozilla.org/en-US/firefox/addon/passifox/
-
-Chrome: chromeIPass https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae?hl=en
-
-Android: https://f-droid.org/repository/browse/?fdfilter=keepass&amp;amp;fdid=com.android.keepass
-
-
-
-
-And finally when on machines I don't control:
-
-
-
-Remote Access: Browser Pass https://bitbucket.org/namn/browsepass/
-
-
-
-
-On same server with ownlcloud, can open files
-]]>
+One thing not mentioned but related is ISO:
+https://en.wikipedia.org/wiki/International_Organization_for_Standardization]]>
 </description>
-    <itunes:summary><![CDATA[
-My LastPass Alternative
+    <itunes:summary><![CDATA[I give a short personal view on what are National Measurements Institutes. More info can be found here:
 
+https://en.wikipedia.org/wiki/Measurement_uncertainty
+https://en.wikipedia.org/wiki/Metrology
+https://en.wikipedia.org/wiki/International_Bureau_of_Weights_and_Measures
+https://en.wikipedia.org/wiki/National_Physical_Laboratory_%28United_Kingdom%29
+https://en.wikipedia.org/wiki/Physikalisch-Technische_Bundesanstalt
+https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology
 
-
-Password Database: KeePass http://keepass.info/
-KeePass client is in the fedora repos.
-
-
-
-
-Save file to a location that will be synced between devices.  Im my case Owncloud.   Desktop Client syncs available for Linux, Windows and Mac. Mobile clients for Android, IOS, and even blackberry. Syncing note:  I do not launch the desktop client on login. This allows the owncloud client to sync files before launching keepass. Also, I exit keypass before logging out for the same reason.
-
-
-For integration with browser, there are
-
-
-
-Firefox: Passifox https://addons.mozilla.org/en-US/firefox/addon/passifox/
-
-Chrome: chromeIPass https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae?hl=en
-
-Android: https://f-droid.org/repository/browse/?fdfilter=keepass&amp;amp;fdid=com.android.keepass
-
-
-
-
-And finally when on machines I don't control:
-
-
-
-Remote Access: Browser Pass https://bitbucket.org/namn/browsepass/
-
-
-
-
-On same server with ownlcloud, can open files
-]]>
+One thing not mentioned but related is ISO:
+https://en.wikipedia.org/wiki/International_Organization_for_Standardization]]>
 </itunes:summary>
-    <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1893.ogg" length="3144099" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1893.ogg</guid>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
-  <item>
-    <title>HPR1892: my chicken coop</title>
-    <author>Jezra.nospam@nospam.jezra.net (Jezra)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1892</link>
-    <description><![CDATA[
-Door hardware build: http://www.jezra.net/blog/GNU_Linux_chicken_coop_door_hardware
-
-
-The twilight checker: http://www.jezra.net/blog/The_magic_starts_at_330AM_a_coop_story
-]]>
-</description>
-    <itunes:summary><![CDATA[
-Door hardware build: http://www.jezra.net/blog/GNU_Linux_chicken_coop_door_hardware
-
-
-The twilight checker: http://www.jezra.net/blog/The_magic_starts_at_330AM_a_coop_story
-]]>
-</itunes:summary>
-    <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1892.ogg" length="6258846" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1892.ogg</guid>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
-  <item>
-    <title>HPR1891: HPR Community News for October 2015</title>
-    <author>admin.nospam@nospam.hackerpublicradio.org (HPR Volunteers)</author>
-    <link>http://hackerpublicradio.org/eps.php?id=1891</link>
-    <description><![CDATA[
-New hosts
-
-Welcome to our new hosts: 
-    clacke, 
-    Moral Volcano, 
-    JustMe, 
-    thelovebug.
-
-
-Last Month's Shows
-
-    
-    Id
-    Day
-    Date
-    Title
-    Host
-    
-    
-    1869
-    Thu
-    2015-10-01
-    Irssi Connectbot
-    NYbill
-    
-    
-    1870
-    Fri
-    2015-10-02
-    19 - Home SSH Server
-    Ahuka
-    
-    
-    1871
-    Mon
-    2015-10-05
-    HPR Community News for September 2015
-    HPR Volunteers
-    
-    
-    1872
-    Tue
-    2015-10-06
-    Sim City BuildIt September 2015
-    swift110
-    
-    
-    1873
-    Wed
-    2015-10-07
-    TiT Radio 21 - I Thought I Had Better Links
-    FiftyOneFifty
-    
-    
-    1874
-    Thu
-    2015-10-08
-    Interview with Droops
-    Ken Fallon
-    
-    
-    1875
-    Fri
-    2015-10-09
-    63 - LibreOffice Impress - Formatting Text
-    Ahuka
-    
-    
-    1876
-    Mon
-    2015-10-12
-    MicrobeLog, or: On Shaving Yaks and Doing Things
-    clacke
-    
-    
-    1877
-    Tue
-    2015-10-13
-    Recording HPR on the fly on your Android phone
-    clacke
-    
-    
-    1878
-    Wed
-    2015-10-14
-    What's In My Bag
-    b-yeezi
-    
-    
-    1879
-    Thu
-    2015-10-15
-    Hacking a Belt to Make it Fit
-    Jon Kulp
-    
-    
-    1880
-    Fri
-    2015-10-16
-    Arduino Bluetooth HOWTO
-    klaatu
-    
-    
-    1881
-    Mon
-    2015-10-19
-    My road to Linux
-    clacke
-    
-    
-    1882
-    Tue
-    2015-10-20
-    How I Compute Away From My Computer
-    Thaj Sara
-    
-    
-    1883
-    Wed
-    2015-10-21
-    Don't Get Locked In
-    Knightwise
-    
-    
-    1884
-    Thu
-    2015-10-22
-    Some more Bash tips
-    Dave Morriss
-    
-    
-    1885
-    Fri
-    2015-10-23
-    64 - LibreOffice Impress - Multimedia
-    Ahuka
-    
-    
-    1886
-    Mon
-    2015-10-26
-    Moral Volcano's Linux Tips &amp;amp; Tricks podcast for Hacker Public Radio
-    Moral Volcano
-    
-    
-    1887
-    Tue
-    2015-10-27
-    Coffee Making Basics
-    JustMe
-    
-    
-    1888
-    Wed
-    2015-10-28
-    Diceware Passphrase
-    John Duarte
-    
-    
-    1889
-    Thu
-    2015-10-29
-    experiencing the meegopad T-02  part one
-    A Shadowy Figure
-    
-    
-    1890
-    Fri
-    2015-10-30
-    A short walk with my son
-    thelovebug
-    
-
-Mailing List discussions
-
-Policy decisions surrounding HPR are taken by the community as a whole. This discussion takes
-place on the Mail List which is open to all
-HPR listeners and contributors. The discussions are open and available on the
-Gmane
-archive.
-
-The main threads this month were:
-
-    From: Dave Morriss &amp;lt;perloid@...&amp;gt;
-        Date: 2015-09-28 11:15:19 +0100
-        Subject: HPR Community News - next Saturday on 2015-10-03T18:00:00Z
-        Link: http://comments.gmane.org/gmane.network.syndication.podcast.hacker-public-radio/965
-        Messages: 6
-    From: Dave Morriss &amp;lt;perloid@...&amp;gt;
-        Date: 2015-10-26 08:56:11 UTC
-        Subject: HPR Community News - next Saturday on 2015-10-31T18:00:00Z
-        Link: http://comments.gmane.org/gmane.network.syndication.podcast.hacker-public-radio/973
-        Messages: 4
-
-Total messages this month: 10
-
-
-Comments this month
-
-These are comments which have been made during the past month, either to shows
-released during the month or to past shows.
-There are 32 comments:
- 
-hpr1728
-(2015-03-18) &quot;Requested Topic: Favourite Browser Extensions&quot;
-by Fin.
-    Comment 3:
-Fin on 2015-10-30:
-&quot;Ad-Block Edge Successor&quot; 
- 
-hpr1828
-(2015-08-05) &quot;Multimeter Mod's Part 1&quot;
-by NYbill.
-    Comment 3:
-Neandergeek on 2015-10-17:
-&quot;Great imprompto series&quot; 
- 
-hpr1848
-(2015-09-02) &quot;Introduction to w3m, a Command Line Web Browser&quot;
-by Frank Bell.
-  Comment 1:
-tom_len on 2015-10-01:
-&quot;automatize login from command line&quot;  Comment 2:
-Frank on 2015-10-27:&quot;[no title]&quot; 
- 
-hpr1859
-(2015-09-17) &quot;A Mouse in a Maze on the Raspberry PI&quot;
-by Gabriel Evenfire.
-   Comment 2:
-Eric on 2015-10-07:
-&quot;A better maze&quot;  Comment 3:
-Gabriel Evenfire on 2015-10-13:
-&quot;Maze generation&quot; 
- 
-hpr1862
-(2015-09-22) &quot;The Awesomely Epic Guide To KDE Part 1&quot;
-by Geddes.
-   Comment 2:
-Geddes on 2015-10-16:&quot;[no title]&quot; 
- 
-hpr1863
-(2015-09-23) &quot;The Awesomely Epic Guide To KDE Part 2&quot;
-by Geddes.
-   Comment 2:
-Geddes on 2015-10-16:
-&quot;Thanks for the feedback&quot; 
- 
-hpr1864
-(2015-09-24) &quot;Turning an old printer into a network printer&quot;
-by Dave Morriss.
-    Comment 3:
-turtle on 2015-10-05:&quot;[no title]&quot;  Comment 4:
-Dave Morriss on 2015-10-06:
-&quot;DEC-LN03&quot;  Comment 5:
-Bob Evans on 2015-10-07:
-&quot;connecting to legacy printers&quot;  Comment 6:
-Dave Morriss on 2015-10-07:
-&quot;Re: connecting to legacy printers&quot; 
- 
-hpr1866
-(2015-09-28) &quot;An awkward talk with two young computer users&quot;
-by Quvmoh.
-   Comment 2:
-combiner on 2015-10-05:&quot;[no title]&quot; 
- 
-hpr1867
-(2015-09-29) &quot;The Lafayette Public Library Maker Space&quot;
-by Jon Kulp.
-  Comment 1:
-amunizp on 2015-10-07:
-&quot;3D print&quot; 
- 
-hpr1870
-(2015-10-02) &quot;19 - Home SSH Server&quot;
-by Ahuka.
-  Comment 1:
-kdmurray on 2015-10-06:
-&quot;SSH Passwords&quot; 
- 
-hpr1874
-(2015-10-08) &quot;Interview with Droops&quot;
-by Ken Fallon.
-  Comment 1:
-droops on 2015-09-27:
-&quot;Thanks&quot;  Comment 2:
-J. on 2015-10-08:&quot;[no title]&quot;  Comment 3:
-Dave Morriss on 2015-10-13:
-&quot;I loved this interview&quot; 
- 
-hpr1880
-(2015-10-16) &quot;Arduino Bluetooth HOWTO&quot;
-by klaatu.
-  Comment 1:
-Mike Ray on 2015-10-16:
-&quot;Great show&quot; 
- 
-hpr1881
-(2015-10-19) &quot;My road to Linux&quot;
-by clacke.
-  Comment 1:
-Fin on 2015-10-19:
-&quot;Music fail&quot;  Comment 2:
-Dave Morriss on 2015-10-23:
-&quot;Great episode&quot;  Comment 3:
-clacke on 2015-10-26:
-&quot;Thanks&quot; 
- 
-hpr1884
-(2015-10-22) &quot;Some more Bash tips&quot;
-by Dave Morriss.
-  Comment 1:
-Frank on 2015-10-27:&quot;[no title]&quot;  Comment 2:
-Dave Morriss on 2015-10-27:
-&quot;Thanks Frank, glad you enjoyed it&quot;  Comment 3:
-Frank on 2015-10-28:&quot;[no title]&quot;  Comment 4:
-Dave Morriss on 2015-10-29:
-&quot;Regular expressions&quot; 
- 
-hpr1889
-(2015-10-29) &quot;experiencing the meegopad T-02  part one&quot;
-by A Shadowy Figure.
-  Comment 1:
-GNULinuxRTM on 2015-10-29:
-&quot;Execellent Episode.&quot;  Comment 2:
-Jon Kulp  on 2015-10-30:
-&quot;Tremendous! &quot;  Comment 3:
-Fin on 2015-10-30:
-&quot;Fantastic!&quot;  Comment 4:
-A Shadowy Figure on 2015-10-31:
-&quot;Like your work as well GNULinuxRTM&quot; 
- 
-hpr1890
-(2015-10-30) &quot;A short walk with my son&quot;
-by thelovebug.
-  Comment 1:
-Jon Kulp  on 2015-10-30:
-&quot;Up with the $2 lapel mic! &quot;  Comment 2:
-Mike Ray on 2015-10-31:
-&quot;Audio Quality&quot;
-
-
-
-]]>
-</description>
-    <itunes:summary><![CDATA[
-New hosts
-
-Welcome to our new hosts: 
-    clacke, 
-    Moral Volcano, 
-    JustMe, 
-    thelovebug.
-
-
-Last Month's Shows
-
-    
-    Id
-    Day
-    Date
-    Title
-    Host
-    
-    
-    1869
-    Thu
-    2015-10-01
-    Irssi Connectbot
-    NYbill
-    
-    
-    1870
-    Fri
-    2015-10-02
-    19 - Home SSH Server
-    Ahuka
-    
-    
-    1871
-    Mon
-    2015-10-05
-    HPR Community News for September 2015
-    HPR Volunteers
-    
-    
-    1872
-    Tue
-    2015-10-06
-    Sim City BuildIt September 2015
-    swift110
-    
-    
-    1873
-    Wed
-    2015-10-07
-    TiT Radio 21 - I Thought I Had Better Links
-    FiftyOneFifty
-    
-    
-    1874
-    Thu
-    2015-10-08
-    Interview with Droops
-    Ken Fallon
-    
-    
-    1875
-    Fri
-    2015-10-09
-    63 - LibreOffice Impress - Formatting Text
-    ]]>
-</itunes:summary>
-    <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
-    <enclosure url="http://hackerpublicradio.org/eps/hpr1891.ogg" length="23560524" type="audio/ogg"/>
-    <guid>http://hackerpublicradio.org/eps/hpr1891.ogg</guid>
+    <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+    <enclosure url="http://hackerpublicradio.org/eps/hpr1926.ogg" length="4826084" type="audio/ogg"/>
+    <guid>http://hackerpublicradio.org/eps/hpr1926.ogg</guid>
     <itunes:explicit>yes</itunes:explicit>
   </item>
   </channel>

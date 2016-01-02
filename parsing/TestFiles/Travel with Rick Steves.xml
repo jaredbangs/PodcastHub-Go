@@ -5,21 +5,21 @@
 		<channel>
 			<title>Travel with Rick Steves</title>
 			<itunes:author>www.ricksteves.com</itunes:author>
-			<link>http://www.ricksteves.com</link>
+			<link>https://www.ricksteves.com</link>
 			<description>A weekly one-hour conversation with guest experts and callers about travel, cultures, people, and the things we find around the world that give life its extra sparkle. Rick Steves is America's leading authority on travel to Europe and beyond. Host and writer of over a hundred public television travel shows and author of 30 best-selling guidebooks, Rick now brings his passion for exploring and understanding our world to public radio. Related travel information and message boards on www.ricksteves.com.</description>
 			<itunes:subtitle>A weekly one-hour conversation with guest experts and callers about travel, cultures, people, and the things we find around the world that give life its extra sparkle.</itunes:subtitle>
 			<itunes:summary>A weekly one-hour conversation with guest experts and callers about travel, cultures, people, and the things we find around the world that give life its extra sparkle. Rick Steves is America's leading authority on travel to Europe and beyond. Host and writer of over a hundred public television travel shows and author of 30 best-selling guidebooks, Rick now brings his passion for exploring and understanding our world to public radio. Related travel information and message boards on www.ricksteves.com.</itunes:summary>
 			<language>en-us</language>
-			<copyright>2015 by Rick Steves Europe, Inc.</copyright>
+			<copyright>2016 by Rick Steves Europe, Inc.</copyright>
 			<itunes:owner>
 				<itunes:name>Rick Steves</itunes:name>
 				<itunes:email>rick@ricksteves.com</itunes:email>
 			</itunes:owner>
-			<itunes:image href="http://podcasts.ricksteves.com/images/podlogo.jpg"></itunes:image>
+			<itunes:image href="http://podcasts.ricksteves.com/images/podlogo-1200.jpg"></itunes:image>
 			<image>
-				<url>http://podcasts.ricksteves.com/images/podlogo_sm.gif</url> 
+				<url>http://podcasts.ricksteves.com/images/podlogo.jpg</url> 
 				<title>Travel with Rick Steves</title> 
-				<link>http://www.ricksteves.com</link> 
+				<link>https://www.ricksteves.com</link> 
 			</image>
 			<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Places &amp; Travel"/>
@@ -29,6 +29,153 @@
 			<itunes:keywords>NPR, public radio, Rick Steves, travel, europe</itunes:keywords>
 			
 			
+					
+					<item>
+						<title><![CDATA[Fresh Start in Ireland; Travel Smarts; Travel Plans]]></title>
+						<itunes:author>Rick Steves</itunes:author>
+						<description><![CDATA[
+	Hear how an American found delight, and a fresh start, in rural Ireland &mdash;&nbsp;even after an unwelcome medical diagnosis ended his career. Then consumer-travel expert Christopher Elliott explains the pros and cons of travel insurance, and lets us in on the tacked-on costs of many &ldquo;bargain&rdquo; airfares. And listeners share their plans for overseas travel in the year ahead.
+ For more information on Travel with Rick Steves - including episode descriptions, program archives and related details - visit www.ricksteves.com.]]></description>
+						<itunes:subtitle><![CDATA[
+	Hear how an American found delight, and a fresh start, in rural Ireland &mdash;&nbsp;even after an unwelcome medical diagnosis ended his career. Then consumer-travel expert Christopher Elliott explains the pros and cons of travel insurance, and lets us in on the tacked-on costs of many &ldquo;bargain&rdquo; airfares. And listeners share their plans for overseas travel in the year ahead.
+]]></itunes:subtitle>
+						<itunes:summary><![CDATA[
+	Hear how an American found delight, and a fresh start, in rural Ireland &mdash;&nbsp;even after an unwelcome medical diagnosis ended his career. Then consumer-travel expert Christopher Elliott explains the pros and cons of travel insurance, and lets us in on the tacked-on costs of many &ldquo;bargain&rdquo; airfares. And listeners share their plans for overseas travel in the year ahead.
+]]></itunes:summary> 
+						<enclosure url="http://www.podtrac.com/pts/redirect.mp3/podcasts.ricksteves.com/feeds/pgm429_pod.mp3" length="24836954" type="audio/x-mpegurl"/>
+						<guid>http://podcasts.ricksteves.com/feeds/pgm429_pod.mp3</guid>
+						<pubDate>Sun, 03 Jan 2016 12:00:00 +0800</pubDate>
+						<itunes:explicit>no</itunes:explicit> 
+						<itunes:keywords>NPR, public radio, Rick Steves, travel, France</itunes:keywords>
+						<itunes:duration>53:30</itunes:duration> 
+					</item>
+				
+					
+					<item>
+						<title><![CDATA[The Joy of Pasta; European New Year's Traditions; Swiss Party]]></title>
+						<itunes:author>Rick Steves</itunes:author>
+						<description><![CDATA[
+	Hear about New Year&#39;s customs and superstitions of Belgium, Portugal, Turkey, Wales, the Netherlands, Spain, Sicily, Hungary, and Scotland. Then brighten your New Year with new tips for pairing the right kind of pasta and sauce, and learn the dos and don&rsquo;ts of attending a dinner party in Switzerland.
+ For more information on Travel with Rick Steves - including episode descriptions, program archives and related details - visit www.ricksteves.com.]]></description>
+						<itunes:subtitle><![CDATA[
+	Hear about New Year&#39;s customs and superstitions of Belgium, Portugal, Turkey, Wales, the Netherlands, Spain, Sicily, Hungary, and Scotland. Then brighten your New Year with new tips for pairing the right kind of pasta and sauce, and learn the dos and don&rsquo;ts of attending a dinner party in Switzerland.
+]]></itunes:subtitle>
+						<itunes:summary><![CDATA[
+	Hear about New Year&#39;s customs and superstitions of Belgium, Portugal, Turkey, Wales, the Netherlands, Spain, Sicily, Hungary, and Scotland. Then brighten your New Year with new tips for pairing the right kind of pasta and sauce, and learn the dos and don&rsquo;ts of attending a dinner party in Switzerland.
+]]></itunes:summary> 
+						<enclosure url="http://www.podtrac.com/pts/redirect.mp3/podcasts.ricksteves.com/feeds/pgm428_pod.mp3" length="25056373" type="audio/x-mpegurl"/>
+						<guid>http://podcasts.ricksteves.com/feeds/pgm428_pod.mp3</guid>
+						<pubDate>Sun, 27 Dec 2015 12:00:00 +0800</pubDate>
+						<itunes:explicit>no</itunes:explicit> 
+						<itunes:keywords>NPR, public radio, Rick Steves, travel, France</itunes:keywords>
+						<itunes:duration>53:30</itunes:duration> 
+					</item>
+				
+					
+					<item>
+						<title><![CDATA[International Christmas Party]]></title>
+						<itunes:author>Rick Steves</itunes:author>
+						<description><![CDATA[
+	Hear about holiday traditions in Wales, Hungary, Sicily, and Scotland, then learn about the unique ways people light up the season in Santa Fe &mdash; where the glow of luminarias and the scent of pi&ntilde;on wood fires leave a lasting impression.&nbsp;And listen in as we head much farther south to hear how scientists at a research station in Antarctica make merry.&nbsp;Also, listeners share some of their favorite Christmas memories from holiday travels.
+ For more information on Travel with Rick Steves - including episode descriptions, program archives and related details - visit www.ricksteves.com.]]></description>
+						<itunes:subtitle><![CDATA[
+	Hear about holiday traditions in Wales, Hungary, Sicily, and Scotland, then learn about the unique ways people light up the season in Santa Fe &mdash; where the glow of luminarias and the scent of pi&ntilde;on wood fires leave a lasting impression.&nbsp;And listen in as we head much farther south to hear how scientists at a research station in Antarctica make merry.&nbsp;Also, listeners share some of their favorite Christmas memories from holiday travels.
+]]></itunes:subtitle>
+						<itunes:summary><![CDATA[
+	Hear about holiday traditions in Wales, Hungary, Sicily, and Scotland, then learn about the unique ways people light up the season in Santa Fe &mdash; where the glow of luminarias and the scent of pi&ntilde;on wood fires leave a lasting impression.&nbsp;And listen in as we head much farther south to hear how scientists at a research station in Antarctica make merry.&nbsp;Also, listeners share some of their favorite Christmas memories from holiday travels.
+]]></itunes:summary> 
+						<enclosure url="http://www.podtrac.com/pts/redirect.mp3/podcasts.ricksteves.com/feeds/pgm270c_pod.mp3" length="24655977" type="audio/x-mpegurl"/>
+						<guid>http://podcasts.ricksteves.com/feeds/pgm270c_pod.mp3</guid>
+						<pubDate>Sun, 20 Dec 2015 12:00:00 +0800</pubDate>
+						<itunes:explicit>no</itunes:explicit> 
+						<itunes:keywords>NPR, public radio, Rick Steves, travel, France</itunes:keywords>
+						<itunes:duration>53:30</itunes:duration> 
+					</item>
+				
+					
+					<item>
+						<title><![CDATA[More European Christmas Traditions]]></title>
+						<itunes:author>Rick Steves</itunes:author>
+						<description><![CDATA[
+	Nothing says Christmas like fresh oysters and fermented trout &mdash; at least according to some Europeans. Learn about the yuletide traditions of France, Norway, Greece, London, the Spanish Basque Country, and small-town Italy, from the varied fare to unusual holiday decorations to Santa&rsquo;s leaner &mdash; and often meaner &mdash; overseas counterparts.
+ For more information on Travel with Rick Steves - including episode descriptions, program archives and related details - visit www.ricksteves.com.]]></description>
+						<itunes:subtitle><![CDATA[
+	Nothing says Christmas like fresh oysters and fermented trout &mdash; at least according to some Europeans. Learn about the yuletide traditions of France, Norway, Greece, London, the Spanish Basque Country, and small-town Italy, from the varied fare to unusual holiday decorations to Santa&rsquo;s leaner &mdash; and often meaner &mdash; overseas counterparts.
+]]></itunes:subtitle>
+						<itunes:summary><![CDATA[
+	Nothing says Christmas like fresh oysters and fermented trout &mdash; at least according to some Europeans. Learn about the yuletide traditions of France, Norway, Greece, London, the Spanish Basque Country, and small-town Italy, from the varied fare to unusual holiday decorations to Santa&rsquo;s leaner &mdash; and often meaner &mdash; overseas counterparts.
+]]></itunes:summary> 
+						<enclosure url="http://www.podtrac.com/pts/redirect.mp3/podcasts.ricksteves.com/feeds/pgm427_pod.mp3" length="24834655" type="audio/x-mpegurl"/>
+						<guid>http://podcasts.ricksteves.com/feeds/pgm427_pod.mp3</guid>
+						<pubDate>Sun, 13 Dec 2015 12:00:00 +0800</pubDate>
+						<itunes:explicit>no</itunes:explicit> 
+						<itunes:keywords>NPR, public radio, Rick Steves, travel, France</itunes:keywords>
+						<itunes:duration>53:30</itunes:duration> 
+					</item>
+				
+					
+					<item>
+						<title><![CDATA[American Lighthouses; Skyfaring; Travel Tales; the Longbow]]></title>
+						<itunes:author>Rick Steves</itunes:author>
+						<description><![CDATA[
+	Learn about some of America&rsquo;s most interesting lighthouses to visit &ndash; or even slumber in. Then an experienced pilot explains why the view from a 747 never gets old. And listen in as we consider the longbow&rsquo;s influence on the balance of power in medieval Europe, with some extra time to hear listeners share their favorite European travel memories.
+ For more information on Travel with Rick Steves - including episode descriptions, program archives and related details - visit www.ricksteves.com.]]></description>
+						<itunes:subtitle><![CDATA[
+	Learn about some of America&rsquo;s most interesting lighthouses to visit &ndash; or even slumber in. Then an experienced pilot explains why the view from a 747 never gets old. And listen in as we consider the longbow&rsquo;s influence on the balance of power in medieval Europe, with some extra time to hear listeners share their favorite European travel memories.
+]]></itunes:subtitle>
+						<itunes:summary><![CDATA[
+	Learn about some of America&rsquo;s most interesting lighthouses to visit &ndash; or even slumber in. Then an experienced pilot explains why the view from a 747 never gets old. And listen in as we consider the longbow&rsquo;s influence on the balance of power in medieval Europe, with some extra time to hear listeners share their favorite European travel memories.
+]]></itunes:summary> 
+						<enclosure url="http://www.podtrac.com/pts/redirect.mp3/podcasts.ricksteves.com/feeds/pgm426_pod.mp3" length="24829013" type="audio/x-mpegurl"/>
+						<guid>http://podcasts.ricksteves.com/feeds/pgm426_pod.mp3</guid>
+						<pubDate>Sun, 06 Dec 2015 12:00:00 +0800</pubDate>
+						<itunes:explicit>no</itunes:explicit> 
+						<itunes:keywords>NPR, public radio, Rick Steves, travel, France</itunes:keywords>
+						<itunes:duration>53:30</itunes:duration> 
+					</item>
+				
+					
+					<item>
+						<title><![CDATA[The Inca Trail; Ottoman Turkey; Medieval Castles in Wales]]></title>
+						<itunes:author>Rick Steves</itunes:author>
+						<description><![CDATA[
+	Hear how you can get close to the ancients by hiking Peru&rsquo;s Inca Trail, and get tips for enjoying Cuzco and Machu Picchu. Then we&rsquo;ll zoom in on two more areas with striking monuments from the past: Turkey, with its legacy of the Ottoman Empire, and Wales, with its string of massive medieval castles.
+ For more information on Travel with Rick Steves - including episode descriptions, program archives and related details - visit www.ricksteves.com.]]></description>
+						<itunes:subtitle><![CDATA[
+	Hear how you can get close to the ancients by hiking Peru&rsquo;s Inca Trail, and get tips for enjoying Cuzco and Machu Picchu. Then we&rsquo;ll zoom in on two more areas with striking monuments from the past: Turkey, with its legacy of the Ottoman Empire, and Wales, with its string of massive medieval castles.
+]]></itunes:subtitle>
+						<itunes:summary><![CDATA[
+	Hear how you can get close to the ancients by hiking Peru&rsquo;s Inca Trail, and get tips for enjoying Cuzco and Machu Picchu. Then we&rsquo;ll zoom in on two more areas with striking monuments from the past: Turkey, with its legacy of the Ottoman Empire, and Wales, with its string of massive medieval castles.
+]]></itunes:summary> 
+						<enclosure url="http://www.podtrac.com/pts/redirect.mp3/podcasts.ricksteves.com/feeds/pgm317a_pod.mp3" length="24975924" type="audio/x-mpegurl"/>
+						<guid>http://podcasts.ricksteves.com/feeds/pgm317a_pod.mp3</guid>
+						<pubDate>Sun, 29 Nov 2015 12:00:00 +0800</pubDate>
+						<itunes:explicit>no</itunes:explicit> 
+						<itunes:keywords>NPR, public radio, Rick Steves, travel, France</itunes:keywords>
+						<itunes:duration>53:30</itunes:duration> 
+					</item>
+				
+					
+					<item>
+						<title><![CDATA[Jamon; Scandinavian Cuisine; A Tavola in Italy; Life From Scratch]]></title>
+						<itunes:author>Rick Steves</itunes:author>
+						<description><![CDATA[
+	Hear what makes jamon so beloved by Spaniards and ham-loving travelers.&nbsp;Then learn about the traditional comfort foods of Scandinavia, and the after-dinner customs that keep Italians lingering at restaurant tables. And hear why a mom in Tulsa started a four-year project to cook foods from every country in the world.
+ For more information on Travel with Rick Steves - including episode descriptions, program archives and related details - visit www.ricksteves.com.]]></description>
+						<itunes:subtitle><![CDATA[
+	Hear what makes jamon so beloved by Spaniards and ham-loving travelers.&nbsp;Then learn about the traditional comfort foods of Scandinavia, and the after-dinner customs that keep Italians lingering at restaurant tables. And hear why a mom in Tulsa started a four-year project to cook foods from every country in the world.
+]]></itunes:subtitle>
+						<itunes:summary><![CDATA[
+	Hear what makes jamon so beloved by Spaniards and ham-loving travelers.&nbsp;Then learn about the traditional comfort foods of Scandinavia, and the after-dinner customs that keep Italians lingering at restaurant tables. And hear why a mom in Tulsa started a four-year project to cook foods from every country in the world.
+]]></itunes:summary> 
+						<enclosure url="http://www.podtrac.com/pts/redirect.mp3/podcasts.ricksteves.com/feeds/pgm425_pod.mp3" length="24977596" type="audio/x-mpegurl"/>
+						<guid>http://podcasts.ricksteves.com/feeds/pgm425_pod.mp3</guid>
+						<pubDate>Sun, 22 Nov 2015 12:00:00 +0800</pubDate>
+						<itunes:explicit>no</itunes:explicit> 
+						<itunes:keywords>NPR, public radio, Rick Steves, travel, France</itunes:keywords>
+						<itunes:duration>53:30</itunes:duration> 
+					</item>
+				
 					
 					<item>
 						<title><![CDATA[The Cotswolds; Joanna Lumley's Greece, part 2; Unlikely Ski Resorts; Reykjavik Night Out]]></title>

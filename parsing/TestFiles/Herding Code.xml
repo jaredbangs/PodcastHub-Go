@@ -6,12 +6,123 @@
 	
 	<link>http://herdingcode.com</link>
 	<description>The Herding Code Podcast</description>
-	<lastBuildDate>Tue, 22 Sep 2015 21:34:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Nov 2015 02:12:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/HerdingCode" /><feedburner:info uri="herdingcode" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Creative Commons (by-nc-sa)</media:copyright><media:thumbnail url="http://herdingcode.com/herdingCode.png" /><media:keywords>dotnet,asp,net,programming,software,web,development</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><itunes:owner><itunes:email>jon_galloway@yahoo.com</itunes:email><itunes:name>Herding Code</itunes:name></itunes:owner><itunes:author>Herding Code</itunes:author><itunes:explicit>no</itunes:explicit><itunes:image href="http://herdingcode.com/herdingCode.png" /><itunes:keywords>dotnet,asp,net,programming,software,web,development</itunes:keywords><itunes:subtitle>A weekly discussion on software development</itunes:subtitle><itunes:summary>A weekly discussion featuring K. Scott Allen (odetocode.com), Kevin Dente, Scott Koon (lazycoder.com), and Jon Galloway.</itunes:summary><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license><feedburner:emailServiceId>HerdingCode</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+		<title>Herding Code 214: Todd Gardner on Tracking JavaScript Errors with {Track:js}</title>
+		<link>http://feedproxy.google.com/~r/HerdingCode/~3/q3DhT91xRKc/</link>
+		<comments>http://herdingcode.com/herding-code-214-todd-gardner-on-tracking-javascript-errors-with-trackjs/#comments</comments>
+		<pubDate>Sat, 28 Nov 2015 01:39:12 +0000</pubDate>
+		<dc:creator>jon_galloway@yahoo.com (Herding Code)</dc:creator>
+				<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://herdingcode.com/?p=729</guid>
+		<description><![CDATA[At NDC Oslo, Jon talked to Todd Gardner about {Track:js} and some of the difficulties in diagnosing JavaScript errors. Download / Listen: Herding Code 214: Todd Gardner on Tracking JavaScript Errors with {Track:js} Show Notes: What&#8217;s TrackJS? (0:20) Jon asks Todd to explain TrackJS. Todd said it&#8217;s something he built to help with difficult JavaScript [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>At NDC Oslo, Jon talked to <a href="https://twitter.com/toddhgardner">Todd Gardner</a> about <a href="https://trackjs.com/">{Track:js}</a> and some of the difficulties in diagnosing JavaScript errors.</p>
+<p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0214-Todd-Gardner.mp3">Herding Code 214: Todd Gardner on Tracking JavaScript Errors with {Track:js}</a></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-729-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0214-Todd-Gardner.mp3?_=1" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0214-Todd-Gardner.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0214-Todd-Gardner.mp3</a></audio>
+<h3>Show Notes:</h3>
+<ul>
+<ul>
+<li>What&#8217;s TrackJS? </li>
+<ul>
+<li>(0:20) Jon asks Todd to explain <a href="https://trackjs.com/">TrackJS</a>. Todd said it&#8217;s something he built to help with difficult JavaScript debugging issues a few years ago. JavaScript applications were difficult to debug because it was hard to define the different failure states of his applications. Over time, they worked to add in diagnostic state (e.g. shopping, checkout, etc.). Over time, they added in network state and user state. Over time they came up with telemetry, which defines states and state changes, which can be a lot more helpful than a stacktrace in diagnosing and fixing an error. </li>
+</ul>
+<li>Why context is more important than stack traces</li>
+<ul>
+<li>(2:34) Jon agrees, saying that it&#8217;s really frustrating to try to reproduce an error as a developer, and context is really important. Todd says that stack traces are limited because applications are so asynchronous in nature now &#8211; an error may be from a timeout which was a response to an Ajax event which was a response to a user click.</li>
+<li>(3:44) Todd says they also track a lot of general information like browser, operating system, and things like date and time information. He once spent a really long time on an error one user was experiencing on a calendaring application because they were stuck in the &#8217;70&#8217;s (literally).</li>
+</ul>
+<li>How TrackJS gathers and exposes data</li>
+<ul>
+<li>(4:34) Jon asks how developers integrate TrackJS into their applications. Todd says it&#8217;s a simple JavaScript include.</li>
+<li>(4:56) Jon ask more about how he gets access to the reported information when he&#8217;s troubleshooting an error. Todd says there are three problems to solve. </li>
+<ul>
+<li>The first problem to solve is alerting: you get daily rollups on top errors and trends. </li>
+<li>Second, when you log in, you need to see which errors are which important (filtering out background noise like unsupported useragents, strange Chrome extensions that modify the DOM, etc.). You need to know which errors impact the most people, which cause users to leave, and which are top browser-specific errors.</li>
+<li>Third, you need to need to be able to dig into and diagnose a specific error.</li>
+</ul>
+<li>(6:45) Jon asks more about how he&#8217;d diagnose a specific error. Todd describes the contextual information TrackJS provides for an error (including things like browser, screen size, user information). For example, one issue they diagnosed recently only occurred at a specific screen size due to a responsive design which modified the page so certain elements were only displayed in a range of screen widths.</li>
+</ul>
+<li>Common problem: Partial Load Failure</li>
+<ul>
+<li>(8:14) Jon asks Todd what running the service has shown him are common problems that developers aren&#8217;t considering in building JavaScript apps. Todd says it&#8217;s partial loading failure &#8211; cases where most of the JavaScript assets on a page load, but just one fails. In one instance, they saw everything on a page but the Stripe library load, which caused payment data to be insecurely posted.</li>
+<li>(10:35) Jon asks about the best way to test for and handle partial load failures. </li>
+</ul>
+<li>Common problem: Same Origin Policy</li>
+<ul>
+<li>(11:36) Todd explains same origin policy restrictions in loading loading libraries from other domains, and using cross-origin headers to handle that.</li>
+</ul>
+<li>Business model and subscription overview</li>
+<ul>
+<li>(12:30) Jon asks about the business model for TrackJS. Todd explains that they offer free service to charitable and open source projects. For paid accounts, they bill based on page views rather than error count because he feels billing based on errors creates counter-incentives for users.</li>
+</ul>
+</ul>
+</ul>
+<img src="http://feeds.feedburner.com/~r/HerdingCode/~4/q3DhT91xRKc" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://herdingcode.com/herding-code-214-todd-gardner-on-tracking-javascript-errors-with-trackjs/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<media:content url="http://feedproxy.google.com/~r/HerdingCode/~5/WgxvQMEisiU/HerdingCode-0214-Todd-Gardner.mp3" fileSize="6143164" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>At NDC Oslo, Jon talked to Todd Gardner about {Track:js} and some of the difficulties in diagnosing JavaScript errors. Download / Listen: Herding Code 214: Todd Gardner on Tracking JavaScript Errors with {Track:js} Show Notes: What&amp;#8217;s TrackJS? (0:20)</itunes:subtitle><itunes:author>Herding Code</itunes:author><itunes:summary>At NDC Oslo, Jon talked to Todd Gardner about {Track:js} and some of the difficulties in diagnosing JavaScript errors. Download / Listen: Herding Code 214: Todd Gardner on Tracking JavaScript Errors with {Track:js} Show Notes: What&amp;#8217;s TrackJS? (0:20) Jon asks Todd to explain TrackJS. Todd said it&amp;#8217;s something he built to help with difficult JavaScript [&amp;#8230;]</itunes:summary><itunes:keywords>dotnet,asp,net,programming,software,web,development</itunes:keywords><feedburner:origLink>http://herdingcode.com/herding-code-214-todd-gardner-on-tracking-javascript-errors-with-trackjs/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/HerdingCode/~5/WgxvQMEisiU/HerdingCode-0214-Todd-Gardner.mp3" length="6143164" type="audio/mpeg" /><feedburner:origEnclosureLink>http://herdingcode.com/wp-content/uploads/HerdingCode-0214-Todd-Gardner.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Herding Code 213: Sean Trelford on Composing 3D Objects with F# and OpenGL</title>
+		<link>http://feedproxy.google.com/~r/HerdingCode/~3/mZrmps4m2uU/</link>
+		<comments>http://herdingcode.com/herding-code-213-sean-trelford-on-composing-3d-objects-with-f-and-opengl/#comments</comments>
+		<pubDate>Sat, 21 Nov 2015 01:06:29 +0000</pubDate>
+		<dc:creator>jon_galloway@yahoo.com (Herding Code)</dc:creator>
+				<category><![CDATA[interview]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://herdingcode.com/?p=726</guid>
+		<description><![CDATA[At NDC Oslo, Sean Trelford did a lightning talk on composing 3D objects using F# and OpenGL. Oh, and he&#8217;s 8 years old. Sean (and his dad, Phil) talk to Jon about learning coding with Small Basic and F#, and how it&#8217;s fun to learn coding by building video games. Download / Listen: Herding Code [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>At NDC Oslo, Sean Trelford did a lightning talk on composing 3D objects using F# and OpenGL. Oh, and he&#8217;s 8 years old. Sean (and his dad, Phil) talk to Jon about learning coding with Small Basic and F#, and how it&#8217;s fun to learn coding by building video games.</p>
+<p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0213-Sean-Trelford.mp3">Herding Code 213: Sean Trelford on Composing 3D Objects with F# and OpenGL</a></p>
+<audio class="wp-audio-shortcode" id="audio-726-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0213-Sean-Trelford.mp3?_=2" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0213-Sean-Trelford.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0213-Sean-Trelford.mp3</a></audio>
+<h3>Show Notes:</h3>
+<ul>
+<ul>
+<li>Hello
+<ul>
+<li>(0:34) Sean is eight years old, but that didn&#8217;t keep him from giving an <a href="https://vimeo.com/131637102">NDC talk on composing 3D Objects with F# and OpenGL</a>. </li>
+</ul>
+</li>
+<li>Sean&#8217;s Talk
+<ul>
+<li>(1:13) Jon asks Sean whether he showed slides or did live coding. </li>
+<li>(1:39) Sean made an army from one 3D man model. </li>
+<li>(2:09) Jon asks how difficult it is to call OpenGL from F#. Sean&#8217;s dad, Phil, explains how Sean used a domain specific language &#8211; about 50 lines of code. You can use it to create shapes like cubes and spheres, color them, transform them, etc. </li>
+<li>(3:30) Phil explains how Sean used the F# REPL to create and modify 3D objects interactively, then used functional composition to put the parts (head, arms, legs) together to build the army man, the used functional composition and aggregation to create the army. </li>
+</ul>
+</li>
+<li>Learning Small Basic and F#
+<ul>
+<li>(4:37) Jon asks Sean if F# is his first computer language; Sean says he started with <a href="http://smallbasic.com/">Small Basic</a>. Jon asks if he found it difficult to move from Small Basic to F#, Sean and Phil explain how F# is actually a pretty natural step from Small Basic. Small Basic has no functions with parameters, so when they had a project that ran into that limitation they just moved the code from Small Basic to F# and used the Small Basic library to construct 2D shapes (leveraging WPF). </li>
+</ul>
+</li>
+<li>Fun Basic
+<ul>
+<li>(7:02) Phil said that last year he and Sean rewrote Small Basic as <a href="https://www.microsoft.com/en-US/store/apps/Fun-Basic/9NBLGGH168N7">Fun Basic (available free in the Windows Store)</a>. It&#8217;s an IDE with IntelliSense, code completion, etc. It&#8217;s got backward compatibility with Small Basic, but includes function with arguments, pattern matching, etc. </li>
+</ul>
+</li>
+<li>Learning programming with video games </li>
+<ul>
+<li>(8:02) Jon asks about what next for Sean. Recently they went to a game jam and made a platform game. Phil says the REPL environment is huge for game building. </li>
+<li>(9:04) Jon mentions the IoT lab at NDC and asks Sean if he&#8217;s done anything with IoT; Sean says no. Jon says it seems like people try to get kids interested in coding with IoT, but maybe games are more fun to get started. Phil says that Sean&#8217;s got a <a href="https://www.youtube.com/watch?v=5TK3WRDnVkk">Minecraft channel</a> on YouTube. Jon asks Sean about making videos about making games. </li>
+<li>(10:38) Phil says he got started on computers with games &#8211; he made his first game when he was 11, but his first commercial game was when he was 14 &#8211; <a href="http://trelford.com/blog/post/gday.aspx">Flint Eastwood</a>. </li>
+<li>(11:44) Jon asks Sean if this is his first time in Olso, and his first conference. It&#8217;s his first time in Oslo, and his first &quot;speaking&quot; oriented conference. </li>
+<li>11:28 Jon asks if they&#8217;ve got any last messages, maybe to encourage kids to get started with coding. Phil recommends the Hour of Code, as well as other resources online. Phil says his older son got into programming by adding levels to games, then writing scripts for AI&#8217;s, etc. Phil says that&#8217;s how he got started &#8211; looking at other peoples&#8217; code and going from there. Don&#8217;t necessarily get hung up on fancy coding concepts, just script something and have fun!</li>
+</ul>
+</ul>
+</ul>
+<img src="http://feeds.feedburner.com/~r/HerdingCode/~4/mZrmps4m2uU" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://herdingcode.com/herding-code-213-sean-trelford-on-composing-3d-objects-with-f-and-opengl/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<media:content url="http://feedproxy.google.com/~r/HerdingCode/~5/gVyQreiLaek/HerdingCode-0213-Sean-Trelford.mp3" fileSize="5679777" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>At NDC Oslo, Sean Trelford did a lightning talk on composing 3D objects using F# and OpenGL. Oh, and he&amp;#8217;s 8 years old. Sean (and his dad, Phil) talk to Jon about learning coding with Small Basic and F#, and how it&amp;#8217;s fun to learn coding by buil</itunes:subtitle><itunes:author>Herding Code</itunes:author><itunes:summary>At NDC Oslo, Sean Trelford did a lightning talk on composing 3D objects using F# and OpenGL. Oh, and he&amp;#8217;s 8 years old. Sean (and his dad, Phil) talk to Jon about learning coding with Small Basic and F#, and how it&amp;#8217;s fun to learn coding by building video games. Download / Listen: Herding Code [&amp;#8230;]</itunes:summary><itunes:keywords>dotnet,asp,net,programming,software,web,development</itunes:keywords><feedburner:origLink>http://herdingcode.com/herding-code-213-sean-trelford-on-composing-3d-objects-with-f-and-opengl/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/HerdingCode/~5/gVyQreiLaek/HerdingCode-0213-Sean-Trelford.mp3" length="5679777" type="audio/mpeg" /><feedburner:origEnclosureLink>http://herdingcode.com/wp-content/uploads/HerdingCode-0213-Sean-Trelford.mp3</feedburner:origEnclosureLink></item>
+		<item>
 		<title>Herding Code 212: Steve Sanderson on Web Development in 2020</title>
 		<link>http://feedproxy.google.com/~r/HerdingCode/~3/QeucBNsy2tY/</link>
 		<comments>http://herdingcode.com/herding-code-212-steve-sanderson-on-web-development-in-2020/#comments</comments>
@@ -24,8 +135,7 @@
 				<content:encoded><![CDATA[<p>While at NDC Oslo, Jon talked Steve Sanderson about Web Development in 2020 &#8211; future JavaScript features, adventurous optimizations, and constraint-based styling. </p>
 <p>This week we&#8217;ve also got a full transcript (thanks to Damian Guard!).</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0212-Steve-Sanderson.mp3">Herding Code 212: Steve Sanderson on Web Development in 2020</a></p>
-<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio class="wp-audio-shortcode" id="audio-724-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0212-Steve-Sanderson.mp3?_=1" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0212-Steve-Sanderson.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0212-Steve-Sanderson.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-724-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0212-Steve-Sanderson.mp3?_=3" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0212-Steve-Sanderson.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0212-Steve-Sanderson.mp3</a></audio>
 <h3>Show Notes:</h3>
 <ul>
 <ul>
@@ -203,6 +313,7 @@
 <img src="http://feeds.feedburner.com/~r/HerdingCode/~4/QeucBNsy2tY" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://herdingcode.com/herding-code-212-steve-sanderson-on-web-development-in-2020/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
+
 		<media:content url="http://feedproxy.google.com/~r/HerdingCode/~5/Eph-0CjGrzA/HerdingCode-0212-Steve-Sanderson.mp3" fileSize="8839933" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>While at NDC Oslo, Jon talked Steve Sanderson about Web Development in 2020 &amp;#8211; future JavaScript features, adventurous optimizations, and constraint-based styling. This week we&amp;#8217;ve also got a full transcript (thanks to Damian Guard!). Download /</itunes:subtitle><itunes:author>Herding Code</itunes:author><itunes:summary>While at NDC Oslo, Jon talked Steve Sanderson about Web Development in 2020 &amp;#8211; future JavaScript features, adventurous optimizations, and constraint-based styling. This week we&amp;#8217;ve also got a full transcript (thanks to Damian Guard!). Download / Listen: Herding Code 212: Steve Sanderson on Web Development in 2020 Show Notes: Hello (0:34) Steve summarizes his NDC [&amp;#8230;]</itunes:summary><itunes:keywords>dotnet,asp,net,programming,software,web,development</itunes:keywords><feedburner:origLink>http://herdingcode.com/herding-code-212-steve-sanderson-on-web-development-in-2020/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/HerdingCode/~5/Eph-0CjGrzA/HerdingCode-0212-Steve-Sanderson.mp3" length="8839933" type="audio/mpeg" /><feedburner:origEnclosureLink>http://herdingcode.com/wp-content/uploads/HerdingCode-0212-Steve-Sanderson.mp3</feedburner:origEnclosureLink></item>
 		<item>
 		<title>Herding Code 211: James Mickens on The State of Computer Security and Bitcoin and Thomas Jefferson and Internet of Terrible Things and Prawns and Oslo’s Terrible Secret</title>
@@ -218,7 +329,7 @@
 				<content:encoded><![CDATA[<p>While at NDC, Jon talks to James Mickens about his terrifying computer security keynote presentation. </p>
 <p>TLDR you are doomed.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0211-James-Mickens.mp3">Herding Code 211: James Mickens on The State of Computer Security and Bitcoin and Thomas Jefferson and Internet of Terrible Things and Prawns Oslo&#8217;s Terrible Secret</a></p>
-<audio class="wp-audio-shortcode" id="audio-717-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0211-James-Mickens.mp3?_=2" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0211-James-Mickens.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0211-James-Mickens.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-717-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0211-James-Mickens.mp3?_=4" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0211-James-Mickens.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0211-James-Mickens.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello</li>
@@ -280,7 +391,7 @@
 		<description><![CDATA[While at NDC Oslo, K Scott and Jon talked to Ian Cooper about Microservices and using the Brighter library for Command Dispatcher / Command Processor patterns. Download / Listen: Herding Code 210: Ian Cooper on Microservices and the Brighter library Show Notes: Why Microservices? (0:48) Ian explains that &#34;micro&#34; doesn&#8217;t imply number of lines of [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>While at NDC Oslo, K Scott and Jon talked to Ian Cooper about Microservices and using the Brighter library for Command Dispatcher / Command Processor patterns.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0210-Ian-Cooper.mp3">Herding Code 210: Ian Cooper on Microservices and the Brighter library</a></p>
-<audio class="wp-audio-shortcode" id="audio-715-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0210-Ian-Cooper.mp3?_=3" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0210-Ian-Cooper.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0210-Ian-Cooper.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-715-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0210-Ian-Cooper.mp3?_=5" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0210-Ian-Cooper.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0210-Ian-Cooper.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Why Microservices?
@@ -372,7 +483,7 @@
 		<description><![CDATA[While at NDC Oslo, Jon talked to Robert Friberg about in-memory databases in general. They discussed OrigoDB, Robert&#8217;s open source in-memory database, as well as Redis and SQL Server Hekaton. Download / Listen: Herding Code 209: Robert Friberg on In-memory Databases and OrigoDB Show Notes: Hello (00:18) Jon asks Robert what his presentation was about. [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>While at NDC Oslo, Jon talked to Robert Friberg about in-memory databases in general. They discussed OrigoDB, Robert&#8217;s open source in-memory database, as well as Redis and SQL Server Hekaton.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0209-Robert-Friberg.mp3">Herding Code 209: Robert Friberg on In-memory Databases and OrigoDB</a></p>
-<audio class="wp-audio-shortcode" id="audio-711-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0209-Robert-Friberg.mp3?_=4" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0209-Robert-Friberg.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0209-Robert-Friberg.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-711-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0209-Robert-Friberg.mp3?_=6" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0209-Robert-Friberg.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0209-Robert-Friberg.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello
@@ -457,7 +568,7 @@
 		<description><![CDATA[While at NDC Oslo, K Scott and Jon talked to Chris Klug about pragmatically applying SOLID principles and on moving from Silverlight to HTML5. Download / Listen: Herding Code 208: Chris Klug on SOLID principles and migrating from Silverlight to Angular and TypeScript Show Notes: Hello There (00:18) Jon says hi to Chris Klug and [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>While at NDC Oslo, K Scott and Jon talked to Chris Klug about pragmatically applying SOLID principles and on moving from Silverlight to HTML5.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0208-Chris-Klug.mp3">Herding Code 208: Chris Klug on SOLID principles and migrating from Silverlight to Angular and TypeScript</a></p>
-<audio class="wp-audio-shortcode" id="audio-709-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0208-Chris-Klug.mp3?_=5" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0208-Chris-Klug.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0208-Chris-Klug.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-709-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0208-Chris-Klug.mp3?_=7" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0208-Chris-Klug.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0208-Chris-Klug.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello There
@@ -510,7 +621,7 @@
 		<description><![CDATA[While at NDC Oslo, K Scott and Jon talked to Damian about ASP.NET 5, running DNX cross-platform (including Raspberry Pi), the exploratory work he and the team are doing to make ASP.NET 5 run really fast, TagHelpers, and his favorite Redmond craft beers. Download / Listen: Herding Code 207: Damian Edwards on ASP.NET 5, DNX [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>While at NDC Oslo, K Scott and Jon talked to Damian about ASP.NET 5, running DNX cross-platform (including Raspberry Pi), the exploratory work he and the team are doing to make ASP.NET 5 run really fast, TagHelpers, and his favorite Redmond craft beers.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0207-Damian-Edwards.mp3">Herding Code 207: Damian Edwards on ASP.NET 5, DNX everywhere, and experimental servers on Windows</a></p>
-<audio class="wp-audio-shortcode" id="audio-707-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0207-Damian-Edwards.mp3?_=6" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0207-Damian-Edwards.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0207-Damian-Edwards.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-707-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0207-Damian-Edwards.mp3?_=8" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0207-Damian-Edwards.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0207-Damian-Edwards.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello</li>
@@ -575,7 +686,7 @@
 		<description><![CDATA[While at NDC Oslo, K Scott and Jon talked to Rachel about accessibility (web and otherwise) and testing. Download / Listen: Herding Code 206: Rachel Appel on Accessibility and Unit Testing Show Notes: Accessibility (00:18) Jon starts by asking Rachel what aspects of accessibility she addressed in her talk. Rachel overviews some aspects: visual, auditory, [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>While at NDC Oslo, K Scott and Jon talked to Rachel about accessibility (web and otherwise) and testing.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0206-Rachel-Appel.mp3">Herding Code 206: Rachel Appel on Accessibility and Unit Testing</a></p>
-<audio class="wp-audio-shortcode" id="audio-703-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0206-Rachel-Appel.mp3?_=7" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0206-Rachel-Appel.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0206-Rachel-Appel.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-703-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0206-Rachel-Appel.mp3?_=9" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0206-Rachel-Appel.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0206-Rachel-Appel.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Accessibility </li>
@@ -627,7 +738,7 @@
 		<description><![CDATA[While at NDC Oslo, K Scott and Jon caught up with Udi Dahan to discuss his experiences in building a distributed company (Particular Software) to offer support and services for NServiceBus and related technologies. Download / Listen: Herding Code 205: Udi Dahan on Starting a Company Based on an Open Source Project Show Notes: Hello [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>While at NDC Oslo, K Scott and Jon caught up with Udi Dahan to discuss his experiences in building a distributed company (Particular Software) to offer support and services for NServiceBus and related technologies.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0205-Udi-Dahan.mp3">Herding Code 205: Udi Dahan on Starting a Company Based on an Open Source Project</a></p>
-<audio class="wp-audio-shortcode" id="audio-700-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0205-Udi-Dahan.mp3?_=8" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0205-Udi-Dahan.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0205-Udi-Dahan.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-700-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0205-Udi-Dahan.mp3?_=10" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0205-Udi-Dahan.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0205-Udi-Dahan.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello There
@@ -693,7 +804,7 @@
 				<content:encoded><![CDATA[<p>The guys talk to Sara J. Chipps and Geroge Stocker about Jewelbots: smart jewelry for a smarter generation.</p>
 <p><strong>Note</strong>: They were called Jewliebots when the podcast was recorded, but were since <a href="http://jewelbots.tumblr.com/post/117102099229/jewliebots-is-now-jewelbots">renamed to Jewelbots</a>.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0204-Jewelbots.mp3">Herding Code 204: Sara Chipps and George Stocker on Jewelbots</a></p>
-<audio class="wp-audio-shortcode" id="audio-697-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0204-Jewelbots.mp3?_=9" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0204-Jewelbots.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0204-Jewelbots.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-697-11" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0204-Jewelbots.mp3?_=11" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0204-Jewelbots.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0204-Jewelbots.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello There </li>
@@ -779,7 +890,7 @@
 		<description><![CDATA[The guys talk to Rob Eisenberg about Aurelia. Download / Listen: Herding Code 203: Rob Eisenberg on Aurelia Show Notes: [Sponsor Message] (00:17) This episode is brought to you by the App Quality Bundle at http://buildbetter.software Hello There (01:15) Kevin introduces Rob. (02:05) Kevin asks Rob about his Xaml platform work with Caliburn.Micro. Rob says [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to Rob Eisenberg about Aurelia.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0203-Rob-Eisenberg.mp3">Herding Code 203: Rob Eisenberg on Aurelia</a></p>
-<audio class="wp-audio-shortcode" id="audio-695-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0203-Rob-Eisenberg.mp3?_=10" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0203-Rob-Eisenberg.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0203-Rob-Eisenberg.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-695-12" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0203-Rob-Eisenberg.mp3?_=12" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0203-Rob-Eisenberg.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0203-Rob-Eisenberg.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>[Sponsor Message]
@@ -882,7 +993,7 @@
 		<description><![CDATA[The guys talk to Ahmet Alp Balkan about Docker, containers, building an ASP.NET 5 image for Docker, and working on the Azure Linux team at Microsoft. Download / Listen: Herding Code 202: Ahmet Alp Balkan on Docker Show Notes: Working on the Azure Linux team at Microsoft (00:17) Jon introduces Ahmet and asks what it&#8217;s [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to Ahmet Alp Balkan about Docker, containers, building an ASP.NET 5 image for Docker, and working on the Azure Linux team at Microsoft.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0202-Ahmet-Alp-Balkan.mp3">Herding Code 202: Ahmet Alp Balkan on Docker</a></p>
-<audio class="wp-audio-shortcode" id="audio-691-11" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0202-Ahmet-Alp-Balkan.mp3?_=11" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0202-Ahmet-Alp-Balkan.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0202-Ahmet-Alp-Balkan.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-691-13" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0202-Ahmet-Alp-Balkan.mp3?_=13" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0202-Ahmet-Alp-Balkan.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0202-Ahmet-Alp-Balkan.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Working on the Azure Linux team at Microsoft
@@ -956,7 +1067,7 @@
 		<description><![CDATA[Jon meets Kenji and Trevor at a small airfield in San Diego to talk about Spoon, an application containierization and streaming platform for Windows. They discuss different virtual machine approaches, Spoon&#8217;s features, the container movement, and flying airplanes. Download / Listen: Herding Code 201: Kenji Obata on Spoon, application virtualization, containers, and flying little airplanes [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Jon meets Kenji and Trevor at a small airfield in San Diego to talk about Spoon, an application containierization and streaming platform for Windows. They discuss different virtual machine approaches, Spoon&#8217;s features, the container movement, and flying airplanes.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0201-Kenji-Obata.mp3">Herding Code 201: Kenji Obata on Spoon, application virtualization, containers, and flying little airplanes</a></p>
-<audio class="wp-audio-shortcode" id="audio-689-12" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0201-Kenji-Obata.mp3?_=12" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0201-Kenji-Obata.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0201-Kenji-Obata.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-689-14" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0201-Kenji-Obata.mp3?_=14" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0201-Kenji-Obata.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0201-Kenji-Obata.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Application virtualization and Xenocode&#8217;s origins </li>
@@ -1065,7 +1176,7 @@
 		<description><![CDATA[The guys talk about the Node / iojs fork, Angular 2, K Scott&#8217;s new Microsoft Band and other wearables, Kickstarter successes and failures, container technologies like Docker, and some recent articles about women heroes of coding. Download / Listen: Herding Code 200: io.js, Angular angst, K Scott&#8217;s new Band, Kickstarters, Containers and Old School Elite [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk about the Node / iojs fork, Angular 2, K Scott&#8217;s new Microsoft Band and other wearables, Kickstarter successes and failures, container technologies like Docker, and some recent articles about women heroes of coding.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0200-Discussion.mp3">Herding Code 200: io.js, Angular angst, K Scott&#8217;s new Band, Kickstarters, Containers and Old School Elite Women Coders</a></p>
-<audio class="wp-audio-shortcode" id="audio-687-13" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0200-Discussion.mp3?_=13" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0200-Discussion.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0200-Discussion.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-687-15" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0200-Discussion.mp3?_=15" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0200-Discussion.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0200-Discussion.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>The Node / io.js fork
@@ -1152,7 +1263,7 @@
 		<description><![CDATA[Jon talks to Rob Reynolds about how Chocolatey has grown over the past few years, how OneGet fits in, and the Chocolatey Kickstarter. Download / Listen: Herding Code 199: Rob Reynolds on the Chocolatey Kickstarter, Chocolatey growth and OneGet Show Notes: The state of the Chocolatey (00:19) Rob explains what Chocolatey is and compares it [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Jon talks to Rob Reynolds about how Chocolatey has grown over the past few years, how OneGet fits in, and the Chocolatey Kickstarter.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0199-Rob-Reynolds.mp3">Herding Code 199: Rob Reynolds on the Chocolatey Kickstarter, Chocolatey growth and OneGet</a></p>
-<audio class="wp-audio-shortcode" id="audio-683-14" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0199-Rob-Reynolds.mp3?_=14" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0199-Rob-Reynolds.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0199-Rob-Reynolds.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-683-16" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0199-Rob-Reynolds.mp3?_=16" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0199-Rob-Reynolds.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0199-Rob-Reynolds.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>The state of the Chocolatey
@@ -1225,7 +1336,7 @@
 		<description><![CDATA[The guys talk to ASP.NET team member Damian Edwards about ASP.NET vNext (the next version of ASP.NET), Tag Helpers, and what&#8217;s new with SignalR. Download / Listen: Herding Code 198: Damian Edwards on ASP.NET vNext, Tag Helpers and SignalR Show Notes: Hello. What is ASP.NET vNext? (00:18) ASP.NET vNext is the next version of ASP.NET. [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to ASP.NET team member Damian Edwards about ASP.NET vNext (the next version of ASP.NET), Tag Helpers, and what&#8217;s new with SignalR.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0198-Damian-Edwards.mp3">Herding Code 198: Damian Edwards on ASP.NET vNext, Tag Helpers and SignalR</a></p>
-<audio class="wp-audio-shortcode" id="audio-679-15" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0198-Damian-Edwards.mp3?_=15" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0198-Damian-Edwards.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0198-Damian-Edwards.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-679-17" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0198-Damian-Edwards.mp3?_=17" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0198-Damian-Edwards.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0198-Damian-Edwards.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello. What is ASP.NET vNext? </li>
@@ -1315,7 +1426,7 @@
 		<description><![CDATA[It&#8217;s time for a discussion show! Download / Listen: Herding Code 197 &#8211; Summer Stories, C# 6, Vim and Atom, Terrible Keyboards, Poorly Aged Hipster Code, React and the Apple Watch Show Notes: (01:22) What&#8217;s new for Kevin? Node, Backbone, working at Brandcast, some talk about how the shop runs. Plus he&#8217;s been busy moving. [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>It&#8217;s time for a discussion show!</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0197-Discussion.mp3">Herding Code 197 &#8211; Summer Stories, C# 6, Vim and Atom, Terrible Keyboards, Poorly Aged Hipster Code, React and the Apple Watch</a></p>
-<audio class="wp-audio-shortcode" id="audio-674-16" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0197-Discussion.mp3?_=16" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0197-Discussion.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0197-Discussion.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-674-18" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0197-Discussion.mp3?_=18" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0197-Discussion.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0197-Discussion.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>(01:22) What&#8217;s new for Kevin? Node, Backbone, working at Brandcast, some talk about how the shop runs. Plus he&#8217;s been busy moving.</li>
@@ -1369,7 +1480,7 @@
 		<description><![CDATA[The guys talk to AngularJS committer Matias Niemela about AngularJS and Angular animations with ngAnimate. Download / Listen: Herding Code 196: Matias Niemela on ngAnimate Show Notes: Hello. How&#8217;d you get started with AngularJS and ngAnimate? (01:00) K Scott notes a tweet from Matias that he liked Angular before it was popular and asks Matias [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to AngularJS committer Matias Niemela about AngularJS and Angular animations with ngAnimate.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0196-Matias-Niemela.mp3">Herding Code 196: Matias Niemela on ngAnimate</a></p>
-<audio class="wp-audio-shortcode" id="audio-670-17" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0196-Matias-Niemela.mp3?_=17" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0196-Matias-Niemela.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0196-Matias-Niemela.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-670-19" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0196-Matias-Niemela.mp3?_=19" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0196-Matias-Niemela.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0196-Matias-Niemela.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello. How&#8217;d you get started with AngularJS and ngAnimate?
@@ -1457,7 +1568,7 @@
 		<description><![CDATA[The guys talk to Michael Mahemoff about Player FM, a cloud based podcast application which is focused on discovery and multi-device synchronization that he recently showed off at Google I/O. Download / Listen: Herding Code 195: Michael Mahemoff on Player FM Show Notes: Hello. What is Player FM? (00:48) K Scott asks Mike for a [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to Michael Mahemoff about Player FM, a cloud based podcast application which is focused on discovery and multi-device synchronization that he recently showed off at Google I/O.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0195-Michael-Mahemoff.mp3">Herding Code 195: Michael Mahemoff on Player FM</a></p>
-<audio class="wp-audio-shortcode" id="audio-668-18" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0195-Michael-Mahemoff.mp3?_=18" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0195-Michael-Mahemoff.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0195-Michael-Mahemoff.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-668-20" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0195-Michael-Mahemoff.mp3?_=20" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0195-Michael-Mahemoff.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0195-Michael-Mahemoff.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello. What is Player FM? </li>
@@ -1544,7 +1655,7 @@
 		<description><![CDATA[The guys talk to Hadi Hariri about Kotlin, Nitra, and his NDC talk, Developing In A Decade. Download / Listen: Herding Code 194: Hadi Hariri on Kotlin Show Notes: Hello. What is Kotlin? (01:00) K Scott asks what Kotlin is. Hadi explains it&#8217;s a statically type programming language that targets the JVM and JavaScript, and [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to Hadi Hariri about Kotlin, Nitra, and his NDC talk, Developing In A Decade.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0194-Hadi-Hariri.mp3">Herding Code 194: Hadi Hariri on Kotlin</a></p>
-<audio class="wp-audio-shortcode" id="audio-666-19" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0194-Hadi-Hariri.mp3?_=19" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0194-Hadi-Hariri.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0194-Hadi-Hariri.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-666-21" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0194-Hadi-Hariri.mp3?_=21" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0194-Hadi-Hariri.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0194-Hadi-Hariri.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello. What is Kotlin?
@@ -1617,7 +1728,7 @@
 		<description><![CDATA[At Techorama 2014 (Belgium), Jon corners Mark Rendle for a few minutes to talk about his new startup, Zudio, &#34;the Azure Cloud storage toolkit,&#34; his keynote on the History of Programming, and other minutia. Download / Listen: Herding Code 193: Mark Rendle on Zudio, developing with Angular and Typescript, The History of Programming, and Simple.Data [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At Techorama 2014 (Belgium), Jon corners Mark Rendle for a few minutes to talk about his new startup, Zudio, &quot;the Azure Cloud storage toolkit,&quot; his keynote on the History of Programming, and other minutia. </p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0193-Mark-Rendle.mp3">Herding Code 193: Mark Rendle on Zudio, developing with Angular and Typescript, The History of Programming, and Simple.Data</a></p>
-<audio class="wp-audio-shortcode" id="audio-660-20" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0193-Mark-Rendle.mp3?_=20" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0193-Mark-Rendle.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0193-Mark-Rendle.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-660-22" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0193-Mark-Rendle.mp3?_=22" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0193-Mark-Rendle.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0193-Mark-Rendle.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>History of Programming
@@ -1691,7 +1802,7 @@
 		<description><![CDATA[The guys talk to Jackson Harper about CodeReview, his iPad application for reviewing GitHub pull requests. As Jackson describes the episode on Twitter: &#34;&#8230;hear me talk about: @johnsheehan, @codereviewapp, and my one weird trick for writing better code.&#34; Download / Listen: Herding Code 192: Jackson Harper on the CodeReview iOS app Show Notes: Hello. What [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to Jackson Harper about CodeReview, his iPad application for reviewing GitHub pull requests. As Jackson describes the episode on Twitter: &quot;&#8230;hear me talk about: <a href="https://twitter.com/johnsheehan"><s>@</s><b>johnsheehan</b></a>, <a href="https://twitter.com/codereviewapp"><s>@</s><b>codereviewapp</b></a>, and my one weird trick for writing better code.&quot;</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0192-Jackson-Harper.mp3">Herding Code 192: Jackson Harper on the CodeReview iOS app</a></p>
-<audio class="wp-audio-shortcode" id="audio-656-21" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0192-Jackson-Harper.mp3?_=21" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0192-Jackson-Harper.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0192-Jackson-Harper.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-656-23" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0192-Jackson-Harper.mp3?_=23" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0192-Jackson-Harper.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0192-Jackson-Harper.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Hello. What is CodeReview?
@@ -1805,7 +1916,7 @@
 		<description><![CDATA[The guys (joined by guest host Rob Conery) talk to Derick Bailey about his new podcast audio hosting venture, SignalLeaf. Download / Listen: Herding Code 191: Derick Bailey on SignalLeaf and Getting Started Podcasting Show Notes: What is SignalLeaf? (00:18) Kevin introduces the show and warns listeners that Rob Conery is present. (01:00) Kevin asks [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys (joined by guest host Rob Conery) talk to Derick Bailey about his new podcast audio hosting venture, SignalLeaf.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0191-Derick-Bailey.mp3">Herding Code 191: Derick Bailey on SignalLeaf and Getting Started Podcasting</a></p>
-<audio class="wp-audio-shortcode" id="audio-652-22" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0191-Derick-Bailey.mp3?_=22" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0191-Derick-Bailey.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0191-Derick-Bailey.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-652-24" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0191-Derick-Bailey.mp3?_=24" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0191-Derick-Bailey.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0191-Derick-Bailey.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>What is SignalLeaf?
@@ -1907,7 +2018,7 @@
 		<description><![CDATA[In our final interview from NDC London, Jon and K. Scott talk to Rob Ashton his cage match with Jeremy Miller on NodeJS vs. C#, some functional languages he&#8217;s been learning, and cooking just enough curry. Download / Listen: Herding Code 190: Rob Ashton on NodeJS vs C#, Clojure and Cooking Constraints Show Notes: The [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>In our final interview from NDC London, Jon and K. Scott talk to Rob Ashton his cage match with Jeremy Miller on NodeJS vs. C#, some functional languages he&#8217;s been learning, and cooking just enough curry.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0190-Rob-Ashton.mp3">Herding Code 190: Rob Ashton on NodeJS vs C#, Clojure and Cooking Constraints</a></p>
-<audio class="wp-audio-shortcode" id="audio-650-23" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0190-Rob-Ashton.mp3?_=23" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0190-Rob-Ashton.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0190-Rob-Ashton.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-650-25" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0190-Rob-Ashton.mp3?_=25" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0190-Rob-Ashton.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0190-Rob-Ashton.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>The NDC Cage Match: Testing! NodeJS vs. C#</li>
@@ -1955,7 +2066,7 @@
 		<description><![CDATA[At NDC London, Jon and K Scott talk to Gary Bernhardt about his talk, The Birth and Death of JavaScript. Download / Listen: Herding Code 189: Gary Bernhardt on The Birth and Death of JavaScript Show Notes: (00:15) The talk occurs in the year 2035. JavaScript is now pronounced differently, and there has been another [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC London, Jon and K Scott talk to Gary Bernhardt about his talk, The Birth and Death of JavaScript. </p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0189-Gary-Bernhardt.mp3">Herding Code 189: Gary Bernhardt on The Birth and Death of JavaScript</a></p>
-<audio class="wp-audio-shortcode" id="audio-647-24" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0189-Gary-Bernhardt.mp3?_=24" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0189-Gary-Bernhardt.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0189-Gary-Bernhardt.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-647-26" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0189-Gary-Bernhardt.mp3?_=26" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0189-Gary-Bernhardt.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0189-Gary-Bernhardt.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>(00:15) The talk occurs in the year 2035. JavaScript is now pronounced differently, and there has been another world war. </li>
@@ -2000,7 +2111,7 @@
 		<description><![CDATA[At NDC London, Jon talks to Pete Smith about Superscribe, a library which brings graph based routing to ASP.NET, Web API and OWIN. Download / Listen: Herding Code 188: Pete Smith on Superscribe Note: There&#8217;s a little bit of background noise due to the conference recording. Show Notes: Intro to Superscribe (00:20) Jon asks Pete [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC London, Jon talks to Pete Smith about Superscribe, a library which brings graph based routing to ASP.NET, Web API and OWIN. </p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0188-Pete-Smith.mp3">Herding Code 188: Pete Smith on Superscribe</a></p>
-<audio class="wp-audio-shortcode" id="audio-644-25" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0188-Pete-Smith.mp3?_=25" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0188-Pete-Smith.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0188-Pete-Smith.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-644-27" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0188-Pete-Smith.mp3?_=27" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0188-Pete-Smith.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0188-Pete-Smith.mp3</a></audio>
 <p><em>Note: There&#8217;s a little bit of background noise due to the conference recording.</em></p>
 <p>Show Notes:</p>
 <ul>
@@ -2067,7 +2178,7 @@
 		<description><![CDATA[At NDC London, Jon and K. Scott talk to Paul Betts about several of his recent open source libraries designed to simplify cross platform development on C#. Download / Listen: Herding Code 187: Brock Allen on ASP.NET Security and Identity Show Notes: Intro (00:18) Brock gave two presentations on security at NDC, as well as [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC London, Jon and K. Scott talk to Paul Betts about several of his recent open source libraries designed to simplify cross platform development on C#.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0187-Brock-Allen.mp3">Herding Code 187: Brock Allen on ASP.NET Security and Identity</a></p>
-<audio class="wp-audio-shortcode" id="audio-642-26" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0187-Brock-Allen.mp3?_=26" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0187-Brock-Allen.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0187-Brock-Allen.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-642-28" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0187-Brock-Allen.mp3?_=28" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0187-Brock-Allen.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0187-Brock-Allen.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Intro
@@ -2138,7 +2249,7 @@
 		<description><![CDATA[At NDC London, Jon and K. Scott talk to Paul Betts about several of his recent open source libraries designed to simplify cross platform development on C#. Download / Listen: Herding Code 186: Paul Betts on three cross-platform libraries: splat, ModernHttpClient and punchclock Show Notes: Intro (00:18) Jon welcomes Paul back &#8211; he&#8217;s been on [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC London, Jon and K. Scott talk to Paul Betts about several of his recent open source libraries designed to simplify cross platform development on C#.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0186-Paul-Betts.mp3">Herding Code 186: Paul Betts on three cross-platform libraries: splat, ModernHttpClient and punchclock</a></p>
-<audio class="wp-audio-shortcode" id="audio-639-27" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0186-Paul-Betts.mp3?_=27" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0186-Paul-Betts.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0186-Paul-Betts.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-639-29" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0186-Paul-Betts.mp3?_=29" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0186-Paul-Betts.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0186-Paul-Betts.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Intro
@@ -2206,7 +2317,7 @@
 		<description><![CDATA[At NDC Jon and K. Scott talk to Glenn Block about Splunk. Download / Listen: Herding Code 185: Glenn Block on Splunk Show Notes: Intro (00:18) Glenn got a new job at Splunk. What is Splunk? (00:40) Jon asks Glenn what Splunk does. Splunk has a product that gathers operational intelligence. It&#8217;s got a data [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC Jon and K. Scott talk to Glenn Block about Splunk.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0185-Glenn-Block.mp3">Herding Code 185: Glenn Block on Splunk</a></p>
-<audio class="wp-audio-shortcode" id="audio-637-28" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0185-Glenn-Block.mp3?_=28" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0185-Glenn-Block.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0185-Glenn-Block.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-637-30" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0185-Glenn-Block.mp3?_=30" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0185-Glenn-Block.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0185-Glenn-Block.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Intro</li>
@@ -2275,7 +2386,7 @@
 		<description><![CDATA[At NDC Jon and K. Scott talk to Scott Guthrie about his talk Building Real World Apps with Windows Azure, what&#8217;s new in Windows Azure, the advantage of provisioning and scaling up and down instantly, and more. Download / Listen: Herding Code 184: Scott Guthrie on Windows Azure Show Notes: Scott talk: Building Real World [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC Jon and K. Scott talk to Scott Guthrie about his talk Building Real World Apps with Windows Azure, what&#8217;s new in Windows Azure, the advantage of provisioning and scaling up and down instantly, and more.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0184-Scott-Guthrie.mp3">Herding Code 184: Scott Guthrie on Windows Azure</a></p>
-<audio class="wp-audio-shortcode" id="audio-635-29" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0184-Scott-Guthrie.mp3?_=29" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0184-Scott-Guthrie.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0184-Scott-Guthrie.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-635-31" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0184-Scott-Guthrie.mp3?_=31" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0184-Scott-Guthrie.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0184-Scott-Guthrie.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Scott talk: Building Real World Apps with Windows Azure
@@ -2340,7 +2451,7 @@
 		<description><![CDATA[The guys talk to Pablo Santos about Semantic Merge, a merge tool that understands your code. Download / Listen: Herding Code 183: Semantic Merge with Pablo Santos Show Notes: Intro (00:18) Semantic Merge is a diff tool with a semantic understanding of your code. Language support (01:01) Jon asks about what languages Semantic Merge supports. [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to Pablo Santos about Semantic Merge, a merge tool that understands your code.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0183-Semantic-Merge.mp3">Herding Code 183: Semantic Merge with Pablo Santos</a></p>
-<audio class="wp-audio-shortcode" id="audio-630-30" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0183-Semantic-Merge.mp3?_=30" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0183-Semantic-Merge.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0183-Semantic-Merge.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-630-32" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0183-Semantic-Merge.mp3?_=32" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0183-Semantic-Merge.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0183-Semantic-Merge.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Intro</li>
@@ -2422,7 +2533,7 @@
 				<content:encoded><![CDATA[<p>The guys talk to Rob Eisenberg about the Durandal Kickstarter. <a href="http://www.kickstarter.com/projects/eisenbergeffect/durandal-2014">This Kickstater ends on January 10, 2014, so go back it now!</a></p>
 <p>Download / Listen:</p>
 <p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0182-Durandal-Kickstarter.mp3">Herding Code 182: Durandal Kickstarter with Rob Eisenberg</a><br />
-<audio class="wp-audio-shortcode" id="audio-626-31" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0182-Durandal-Kickstarter.mp3?_=31" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0182-Durandal-Kickstarter.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0182-Durandal-Kickstarter.mp3</a></audio></p>
+<audio class="wp-audio-shortcode" id="audio-626-33" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0182-Durandal-Kickstarter.mp3?_=33" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0182-Durandal-Kickstarter.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0182-Durandal-Kickstarter.mp3</a></audio></p>
 <p>Show Notes:</p>
 <ul>
 <li>Durandal overview
@@ -2583,7 +2694,7 @@
 		<description><![CDATA[The guys talk to Mads Kristensen about all the new web tools in Visual 2013, Web Essentials, Side Waffle and Web Dev Checklist. Download / Listen: Herding Code 180: Visual Studio 2013 Web Tools, Web Essentials and Side Waffle with Mads Kristensen Show Notes: Intro (00:34) Mads works on the ASP.NET team building tools for [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The guys talk to Mads Kristensen about all the new web tools in Visual 2013, Web Essentials, Side Waffle and Web Dev Checklist.</p>
 <p>Download / Listen:</p>
-<p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0180-Mads-Kristensen.mp3">Herding Code 180: Visual Studio 2013 Web Tools, Web Essentials and Side Waffle with Mads Kristensen</a><audio class="wp-audio-shortcode" id="audio-620-33" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0180-Mads-Kristensen.mp3?_=33" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0180-Mads-Kristensen.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0180-Mads-Kristensen.mp3</a></audio></p>
+<p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0180-Mads-Kristensen.mp3">Herding Code 180: Visual Studio 2013 Web Tools, Web Essentials and Side Waffle with Mads Kristensen</a><audio class="wp-audio-shortcode" id="audio-620-35" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0180-Mads-Kristensen.mp3?_=35" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0180-Mads-Kristensen.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0180-Mads-Kristensen.mp3</a></audio></p>
 <p>Show Notes:</p>
 <ul>
 <li>Intro
@@ -2664,7 +2775,7 @@
 		<description><![CDATA[K Scott and and Jon talk to&#160; about Uffe Bjorklund and Magnus Thor about xSockets, a free framework for Web Socket and WebRTC communications. Download / Listen: Herding Code 179: xSockets with Uffe Bjorklund and Magnus Thor Show Notes: Intro (00:30) Uffe and Magnus introduce themselves. (00:50) K Scott asks about how xSockets got started, [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>K Scott and and Jon talk to&#160; about Uffe Bjorklund and Magnus Thor about xSockets, a free framework for Web Socket and WebRTC communications.</p>
 <p>Download / Listen:</p>
-<p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0179-xSockets.mp3">Herding Code 179: xSockets with Uffe Bjorklund and Magnus Thor</a><audio class="wp-audio-shortcode" id="audio-615-34" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0179-xSockets.mp3?_=34" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0179-xSockets.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0179-xSockets.mp3</a></audio></p>
+<p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0179-xSockets.mp3">Herding Code 179: xSockets with Uffe Bjorklund and Magnus Thor</a><audio class="wp-audio-shortcode" id="audio-615-36" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0179-xSockets.mp3?_=36" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0179-xSockets.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0179-xSockets.mp3</a></audio></p>
 <p>Show Notes:</p>
 <ul>
 <li>Intro
@@ -2757,7 +2868,7 @@
 				<content:encoded><![CDATA[<p>The guys chat about Async, .</p>
 <p>Download / Listen:</p>
 <p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0178-Discussion.mp3">Herding Code 178: Async, C# Syntax, AngularJS, Document Databases, Podcast Hosting, A New Job and Summer Vacations</a></p>
-<audio class="wp-audio-shortcode" id="audio-610-35" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0178-Discussion.mp3?_=35" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0178-Discussion.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0178-Discussion.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-610-37" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0178-Discussion.mp3?_=37" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0178-Discussion.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0178-Discussion.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Async: Our Generation&#8217;s Goto Statement?</li>
@@ -2848,7 +2959,7 @@
 				<content:encoded><![CDATA[<p>At NDC, K Scott and and Jon talked to Anthony vander Hoorn about the how he and Nik built Glimpse and how it&#8217;s evolved over time.</p>
 <p>Download / Listen:</p>
 <p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0177-NDC-Anthony-VDH.mp3">Herding Code 177: Anthony vander Hoorn on Glimpse Internals</a></p>
-<audio class="wp-audio-shortcode" id="audio-604-36" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0177-NDC-Anthony-VDH.mp3?_=36" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0177-NDC-Anthony-VDH.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0177-NDC-Anthony-VDH.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-604-38" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0177-NDC-Anthony-VDH.mp3?_=38" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0177-NDC-Anthony-VDH.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0177-NDC-Anthony-VDH.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Glimpse internals
@@ -2897,7 +3008,7 @@
 		<description><![CDATA[At NDC, Jon and K Scott talked to Jon  McCoy about hacking .NET and .NET developer security. Download: Herding Code 176: Jon McCoy on Hacking .NET Show Notes: Intro and NDC talks (00:30) Jon McCoy overviews his NDC talks, explaining how he got into security and some of the amazing things he&#8217;s found out about [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC, Jon and K Scott talked to Jon  McCoy about hacking .NET and .NET developer security.</p>
 <p>Download: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0176-NDC-Jon-McCoy.mp3">Herding Code 176: Jon McCoy on Hacking .NET</a></p>
-<audio class="wp-audio-shortcode" id="audio-584-37" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0176-NDC-Jon-McCoy.mp3?_=37" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0176-NDC-Jon-McCoy.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0176-NDC-Jon-McCoy.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-584-39" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0176-NDC-Jon-McCoy.mp3?_=39" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0176-NDC-Jon-McCoy.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0176-NDC-Jon-McCoy.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Intro and NDC talks
@@ -2970,7 +3081,7 @@
 		<description><![CDATA[At NDC, Jon, K Scott and Rob Conery talked to Dominick Baier about HTTP API security: CORS, token based authentication and more. Download: Herding Code 175: Dominick Baier on Securing ASP.NET Web APIs and HTTP Services Show Notes: Overview of CORS and Token Based Authentication (00:17) K Scott asks Dominick about the subject of his [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC, Jon, K Scott and Rob Conery talked to Dominick Baier about HTTP API security: CORS, token based authentication and more.</p>
 <p>Download: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0175-NDC-Dominick-Baier.mp3">Herding Code 175: Dominick Baier on Securing ASP.NET Web APIs and HTTP Services</a></p>
-<audio class="wp-audio-shortcode" id="audio-578-38" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0175-NDC-Dominick-Baier.mp3?_=38" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0175-NDC-Dominick-Baier.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0175-NDC-Dominick-Baier.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-578-40" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0175-NDC-Dominick-Baier.mp3?_=40" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0175-NDC-Dominick-Baier.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0175-NDC-Dominick-Baier.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Overview of CORS and Token Based Authentication
@@ -3032,7 +3143,7 @@
 		<description><![CDATA[At NDC, K Scott and and Jon talked to Paul Stack about automating server configuration management with Puppet and PowerShell. Download: Herding Code 174: Paul Stack on automating Windows configuration managment with Puppet and PowerShell Show Notes: Intro (00:32) Paul gave a talk on Windows infrastructure management with Puppet and PowerShell. Puppet is a configuration [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC, K Scott and and Jon talked to Paul Stack about automating server configuration management with Puppet and PowerShell.</p>
 <p>Download: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0174-NDC-Paul-Stack.mp3">Herding Code 174: Paul Stack on automating Windows configuration managment with Puppet and PowerShell</a></p>
-<audio class="wp-audio-shortcode" id="audio-576-39" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0174-NDC-Paul-Stack.mp3?_=39" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0174-NDC-Paul-Stack.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0174-NDC-Paul-Stack.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-576-41" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0174-NDC-Paul-Stack.mp3?_=41" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0174-NDC-Paul-Stack.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0174-NDC-Paul-Stack.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Intro
@@ -3107,7 +3218,7 @@
 		<description><![CDATA[At NDC, Jon, K Scott and and Rob Conery talked to Laurent Bugnion about XAML development, sharing code between Windows 8 and Windows Phone, and modern design. Download / Listen: Herding Code 173: Laurent Bugnion on sharing code with MVVM Light in Windows 8 and Windows Phone Show Notes: XAML vs. HTML for Windows Store [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC, Jon, K Scott and and Rob Conery talked to Laurent Bugnion about XAML development, sharing code between Windows 8 and Windows Phone, and modern design.</p>
 <p>Download / Listen: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0173-NDC-Laurent-Bugnion.mp3">Herding Code 173: Laurent Bugnion on sharing code with MVVM Light in Windows 8 and Windows Phone</a></p>
-<audio class="wp-audio-shortcode" id="audio-572-40" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0173-NDC-Laurent-Bugnion.mp3?_=40" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0173-NDC-Laurent-Bugnion.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0173-NDC-Laurent-Bugnion.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-572-42" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0173-NDC-Laurent-Bugnion.mp3?_=42" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0173-NDC-Laurent-Bugnion.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0173-NDC-Laurent-Bugnion.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>XAML vs. HTML for Windows Store development
@@ -3164,7 +3275,7 @@
 		<description><![CDATA[At NDC, Jon and K Scott talked to Nik Molnar about what he&#8217;s learned about running an open source project from his experiences with Glimpse. Download: Herding Code 172: Nik Molnar on Running an Open Source Project Show Notes: Running an open source project (00:35) Nik says he&#8217;s writing the guide he wishes he&#8217;d had [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC, Jon and K Scott talked to Nik Molnar about what he&#8217;s learned about running an open source project from his experiences with Glimpse.</p>
 <p>Download: <a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0172-NDC-Nik-Molnar-on-running-an-open-source-project-and-cooking.mp3">Herding Code 172: Nik Molnar on Running an Open Source Project</a></p>
-<audio class="wp-audio-shortcode" id="audio-567-41" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0172-NDC-Nik-Molnar-on-running-an-open-source-project-and-cooking.mp3?_=41" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0172-NDC-Nik-Molnar-on-running-an-open-source-project-and-cooking.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0172-NDC-Nik-Molnar-on-running-an-open-source-project-and-cooking.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-567-43" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0172-NDC-Nik-Molnar-on-running-an-open-source-project-and-cooking.mp3?_=43" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0172-NDC-Nik-Molnar-on-running-an-open-source-project-and-cooking.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0172-NDC-Nik-Molnar-on-running-an-open-source-project-and-cooking.mp3</a></audio>
 <p>Show Notes:</p>
 <ul>
 <li>Running an open source project
@@ -3291,7 +3402,7 @@
 		<description><![CDATA[At NDC, Jon and Rob Conery quizzed Richard Campbell about books, nanotech, graphene, cooking, travel, explosions and more. Download / Listen: Herding Code 170: NDC Geekout with Richard Campbell and Rob Conery Show Notes: Cryptonomicon and other Neal Stephenson books (00:55) Rob Conery says he&#8217;s been rereading Cryptonomicon. Richard, Jon and Rob talk about their [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>At NDC, Jon and Rob Conery quizzed Richard Campbell about books, nanotech, graphene, cooking, travel, explosions and more.</p>
 <p>Download / Listen:</p>
-<p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0170-NDC-Geekout-with-Richard-Campbell.mp3">Herding Code 170: NDC Geekout with Richard Campbell and Rob Conery</a> <audio class="wp-audio-shortcode" id="audio-561-42" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0170-NDC-Geekout-with-Richard-Campbell.mp3?_=42" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0170-NDC-Geekout-with-Richard-Campbell.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0170-NDC-Geekout-with-Richard-Campbell.mp3</a></audio></p>
+<p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0170-NDC-Geekout-with-Richard-Campbell.mp3">Herding Code 170: NDC Geekout with Richard Campbell and Rob Conery</a> <audio class="wp-audio-shortcode" id="audio-561-44" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://herdingcode.com/wp-content/uploads/HerdingCode-0170-NDC-Geekout-with-Richard-Campbell.mp3?_=44" /><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0170-NDC-Geekout-with-Richard-Campbell.mp3">http://herdingcode.com/wp-content/uploads/HerdingCode-0170-NDC-Geekout-with-Richard-Campbell.mp3</a></audio></p>
 <p>Show Notes:</p>
 <ul>
 <li>Cryptonomicon and other Neal Stephenson books
@@ -3920,84 +4031,7 @@
 
 		<guid isPermaLink="false">http://herdingcode.com/?p=531</guid>
 		<description><![CDATA[This week on Herding Code, the guys talk to Damien Guard and Robert Sweeney about Sticker Tales (a Windows Store application for kids), some challenges in building touch applications for kids, their CSharpAnalytics open source library, and a companion app they built for Western Digital. Download / Listen: Herding Code 163: Sticker Tales and Building [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>This week on Herding Code, the guys talk to Damien Guard and Robert Sweeney about Sticker Tales (a Windows Store application for kids), some challenges in building touch applications for kids, their CSharpAnalytics open source library, and a companion app they built for Western Digital.</p>
-<p>Download / Listen:</p>
-<p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0163-Sticker-Tales-and-Building-Windows-Store-apps.mp3">Herding Code 163: Sticker Tales and Building Windows Store apps</a>
-<p>Show Notes:</p>
-<ul>
-<li>Introductions </li>
-<ul>
-<li>(00:39) Damien describes what he&#8217;s been up to since we last talked to him. </li>
-<li>(01:25) Robert worked on the Windows user interface, then XBox.com, then several apps for NetFlix. </li>
-<li>(02:57) Jon asked about the experience of building high scale customer facing applications at XBox and NetFlix. Damian tells about how they ran the XBox store on two servers. </li>
-</ul>
-<li>Building Sticker Tales</li>
-<ul>
-<li>(03:38) Jon asks how they decided to build a sticker book app. Robert explains how they got started. </li>
-<li>(04:45) Robert describes how they decided to spend some money on professional illustration. </li>
-<li>(05:40) Jon describes how Sticker Tales works and how he loves watching what his five year old daughter comes up with, especially how she plays with scale. Robert says he sees the same as his daughter </li>
-<li>(6:57) Damien describes some of the surprises they saw in user testing. </li>
-<li>(8:30) Scott K asks if their experiences in watching how kids interact with touch gestures will influence their design in general. </li>
-<li>(9:18) Damien talks about some of the changes the kids inspired, especially using direction of motion to flip things. Jon says he wants this flip gesture everywhere, and Scott K says he thinks kids should be interaction testing all touch interfaces. </li>
-<li>(10:44) Damien gives another example with how pinch / zoom didn&#8217;t work well for kids, and they added a handle instead. </li>
-<li>(11:26) Jon asks about how they were interacting with the illustrators. Robert describes the interaction and how they handled different image sizes, exporting, etc. </li>
-</ul>
-<li>In-app purchases</li>
-<ul>
-<li>(13:37) Jon asks about the &quot;free app + in app purchase&quot; model. Robert explains why they chose that model.</li>
-<li>(14:48) Jon asks if the in-app purchases were difficult to set up. Damien says yes and explains how it was set up. Robert says the purchasing is easy, but the delivery is up to you as the developer. </li>
-</ul>
-<li>Google Analytics and the CSharpAnalytics library</li>
-<ul>
-<li>(17:00) K Scott asks about what kind of analytics they were using. Damien explains how they used Google Analytics and explains they published that library as CSharpAnalytics on GitHub. Damien likes tracking usage patterns, Robert says he loves the real-time and geographic views. </li>
-<li>(18:19) Robert says they track initiated vs. completed purchases, and they see it&#8217;s only about 10%. Jon speculates that&#8217;s because kids start the purchase and the parents veto it. </li>
-<li>(19:08) K Scott asks if it&#8217;s only available for Windows 8. Damien says that&#8217;s all that&#8217;s documented, but he&#8217;s set it up to work with Windows Phone as well. </li>
-<li>(19:30) Jon asks about how auto-analytics work. </li>
-</ul>
-<li>Platform targeting &#8211; iPad future, Windows 8 implementation</li>
-<ul>
-<li>(20:40) Kevin asks if they&#8217;re looking at porting this to iPad. Robert says they&#8217;re looking at using Xamarin for that. </li>
-<li>(21:24) Jon asks about what Windows 8 integration points they&#8217;re using. Robert discusses live tiles, sharing, search, and background download API support. </li>
-<li>(22:58) Jon asks if they used C# / XAML or HTML. Damien says they went with C# / XAML partly because the touch API support seemed better early on. </li>
-</ul>
-<li>SharpDX and performance</li>
-<ul>
-<li>(23:30) Damien explains that they&#8217;re using SharpDX to be able to take screenshots for live tiles, sharing, etc. Jon gets confused and thinks they&#8217;re using SharpDX everywhere, but Robert explains it&#8217;s only for saving screenshots &#8211; everything else is using image controls. </li>
-<li>(26:54) Jon asks if they ran into any performance issues. Robert explains some of the guidelines they&#8217;d learned at NetFlix and says that everything&#8217;s worked really well in StickerTales. Damien says they&#8217;ve seen great performance on Surface / ARM as well. Jon says he&#8217;s seen Audacity recompiled for ARM and it worked great on Surface, too. </li>
-</ul>
-<li>Data storage and MVVM perspective</li>
-<ul>
-<li>(28:34) Jon asks what they&#8217;re using for data storage; Damien says using XML.</li>
-<li>(28:46) Robert says they&#8217;re not using MVVM because it just doesn&#8217;t work with the Microsoft tools and isn&#8217;t worth it for the kinds of thin clients they&#8217;ve been building, even at NetFlix.</li>
-</ul>
-<li>Western Digital companion application</li>
-<ul>
-<li>(30:07) Jon asks how about their next project, a companion application for Western Digital. Damien describes how Western Digital wanted an application that would present an all-up aggregate view of media on external media.</li>
-<li>(30:42) Damien says they using SQLite for that project and explains the challenges they ran into with hierarchical data storage in a relational database engine.</li>
-</ul>
-<li>Unit Testing Windows Store application code</li>
-<ul>
-<li>(32:52) Kevin asks about the testing story. Damien says they used MSTest and it all worked fine, with the exception of determining code coverage. Jon asks some questions about testing frameworks and test focus for Windows Store applications.</li>
-<li>(35:20) Robert says the WinRT platform wasn&#8217;t written in a very testable manner &#8211; there are lots of static classes and a generally test resistant API.</li>
-</ul>
-<li>Business Challenges and Opportunity for Windows Store Developers</li>
-<ul>
-<li>(36:38) Jon asks about the challenges of building and running a company that&#8217;s building Windows 8 applications. Robert describes some of the perception and education issues they face in selling the potential to customers.</li>
-<li>(38:20) Scott K compares the current Windows Store opportunity to the pre-iOS Mac development market &#8211; a nice place to create a niche product and make a good living. Damien says it is nice to be featured in the store, and that&#8217;s difficult on other platforms. Robert says that ease of developing Windows Store applications means that you still need to market your applications.</li>
-</ul>
-</ul>
-<p>Show Links:</p>
-<ul>
-<li>Damien Guard (<a href="https://twitter.com/damienguard">@damienguard</a>, <a href="http://damieng.com/">blog</a>)</li>
-<li>Robert Sweeney (<a href="http://www.linkedin.com/in/rsweeney21">LinkedIn</a>)</li>
-<li><a href="http://stickertales.com/">Sticker Tales</a></li>
-<li><a title="http://attackpattern.com/" href="http://attackpattern.com/">Attack Pattern</a></li>
-<li><a href="https://github.com/AttackPattern/CSharpAnalytics">CSharpAnalytics</a></li>
-<li><a href="http://sharpdx.org/">SharpDX</a> </li>
-<li><a href="http://attackpattern.com/portfolio/wd-companion-app/">WD Companion App</a> </li>
-<li><a href="http://herdingcode.com/?p=187">Herding Code 50: Damien Guard on LINQ to SQL, Entity Framework, and Fontography</a></li>
-</ul>
-<img src="http://feeds.feedburner.com/~r/HerdingCode/~4/Pl5fGyqqxW0" height="1" width="1" alt=""/>]]></content:encoded>
+				<content:encoded><![CDATA[This week on Herding Code, the guys talk to Damien Guard and Robert Sweeney about Sticker Tales (a Windows Store application for kids), some challenges in building touch applications for kids, their CSharpAnalytics open source library, and a companion app they built for Western Digital. Download / Listen: Herding Code 163: Sticker Tales and Building [&hellip;]<img src="http://feeds.feedburner.com/~r/HerdingCode/~4/Pl5fGyqqxW0" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://herdingcode.com/herding-code-163-sticker-tales-and-building-windows-store-apps/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 
@@ -4012,84 +4046,7 @@
 
 		<guid isPermaLink="false">http://herdingcode.com/?p=527</guid>
 		<description><![CDATA[This week on Herding Code, the guys talk about what they&#8217;ve been up to lately (including Kevin&#8217;s new Greater Than Parts site), lament the passing of Google Reader, talk about scriptcs, and even fit in a lightning round! Download / Listen: Herding Code 162: Whacha doin, Goodbye Google Reader, scriptcs and Lightning Round! Show Notes: [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>This week on Herding Code, the guys talk about what they&#8217;ve been up to lately (including Kevin&#8217;s new Greater Than Parts site), lament the passing of Google Reader, talk about scriptcs, and even fit in a lightning round!</p>
-<p>Download / Listen:</p>
-<p><a href="http://herdingcode.com/wp-content/uploads/HerdingCode-0162-Discussion.mp3">Herding Code 162: Whacha doin, Goodbye Google Reader, scriptcs and Lightning Round!</a>
-<p>Show Notes:</p>
-<ul>
-<li>What are you up to?
-<ul>
-<li>(00:29) Scott K is doing MVC with a lot of JavaScript.
-<ul>
-<li>He laments the quality of the code he&#8217;s working with. </li>
-<li>There&#8217;s a discussion of how bad code happens and how to clean it up. </li>
-</ul>
-</li>
-<li>(07:58) Kevin&#8217;s been working on his GreaterThanParts site.
-<ul>
-<li>He soft launched it on twitter and got more response than he expected, but it&#8217;s been holding up. </li>
-<li>It&#8217;s a full JavaScript stack &#8211; Node, Backbone, Mongo. </li>
-<li>Kevin was surprised how resistant developers were to trying out the site via Google / Facebook login, so he set up an anonymous (cookie based) login. </li>
-<li>Scott K has some specific feature requests. </li>
-<li>Jon asks if the design feedback was coherent or contradictory. Kevin says some was really good, a lot wasn&#8217;t </li>
-</ul>
-</li>
-<li>(15:40) Jon talks about the ASP.NET Jump Start event he did in February and some upcoming Web Camp he&#8217;s doing &#8211; Denmark, Istanbul, Sunnyvale, San Diego. In his spare time he&#8217;s working on a book about programming Windows 8.
-<ul>
-<li>Scott K mentions a blog post he read about a developer who was frustrated he couldn&#8217;t store password protected zip files or preview office docs. Jon says it&#8217;s an app model and it&#8217;s different than building desktop apps. Kevin wonders about how the updates will work for Windows Store apps. </li>
-<li>Scott K says he read about limitations in displaying help files. Jon says that some things are easier to do using the HTML dev model, and he&#8217;s seeing some people writing business logic in C# and using it in an HTML app. </li>
-<li>K Scott talks about the current campaign to pay developers for apps. Jon says he thinks that may be driven by the fact that all the tech columnists just write about the number of apps in the store, but he agrees that fewer quality apps is better. The Windows Store has a try / buy model, which effectively halves the number of apps required compared to Android and iOS. Jon talks about how he&#8217;s been using the Surface RT. </li>
-</ul>
-</li>
-<li>(25:49) Google Reader
-<ul>
-<li>K Scott asks if anyone&#8217;s upset. Kevin is. </li>
-<li>Scott K hasn&#8217;t used it in a while because he just uses Twitter and an RSS reader he likes. </li>
-<li>Jon says he used to read tons of feed, but he now gets most of his info off Twitter, Hacker News, and TheCadmus.com </li>
-<li>Scott K says he&#8217;s going to need to replace Reader because he follows some feeds he cares about that will never make their way onto Hacker News. </li>
-<li>Jon says he used to use Reader more when it had Google Gears support. He talks about how he tried to write his own RSS reader which never materialized, but he learned a lot along the way. </li>
-<li>Kevin says the bigger problem is that so many apps use Google Reader as an RSS sync backend. </li>
-<li>Jon says he&#8217;s happy that the whole RSS system isn&#8217;t dependent on Google Reader, and that it&#8217;s a good thing that major parts of the web stayed open. </li>
-</ul>
-</li>
-<li>(34:45) scriptcs
-<ul>
-<li>K Scott overviews the idea. </li>
-<li>Scott K says he thinks it&#8217;s interesting &#8211; a natural use of Roslyn. He&#8217;s been wanting something that would output assemblies so it could create projects. </li>
-<li>Jon talks about some of the samples they&#8217;ve got, including WPF, Mono, etc. He says he&#8217;d prefer it to PowerShell since it could be more portable and the syntax is better. </li>
-<li>Kevin says many of these ideas came from the Node community. He&#8217;s really enjoying the low overhead of working in vim. Scott agrees. Jon says he doesn&#8217;t see Visual Studio delays, maybe because he&#8217;s not using heavy add-ins. A border skirmish erupts. Kevin says that he thinks that .NET programming kind of requires Visual Studio. Jon like the new web tools stuff. </li>
-</ul>
-</li>
-<li>(44:27) Lightning Round!
-<ul>
-<li>K Scott asks if anyone cares about the S4 release. Nobody does. We&#8217;re all kind of tired of smartphone releases. </li>
-<li>K Scott asks what we&#8217;d recommend for teaching someone to program. Scott K, Kevin, and Jon all agree that they&#8217;d start with the web and JavaScript and talk about some of their favorite tools. </li>
-<li>K Scott asks what everyone thinks about the new Rearden.js library with the Rearden Metal templating system. </li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>Show Links:</p>
-<ul>
-<li><a href="http://www.greaterthanparts.com/">Greater Than Parts</a> &#8211; Kevin&#8217;s new &quot;simple shopping for complex projects&quot; site</li>
-<li><a href="http://channel9.msdn.com/Series/Building-Web-Apps-with-ASP-NET-Jump-Start">ASP.NET Jump Start</a> </li>
-<li><a href="http://weblogs.asp.net/jgalloway/archive/2013/03/15/announcing-web-camps-spring-tour-2013.aspx">Web Camps tour</a> &#8211; Jon&#8217;s post announcing the Spring 2013 tour<!--EndFragment--></li>
-<li><a title="http://blog.kulman.sk/why-are-there-no-great-windows-8-apps-because-of-winrt-a-developers-view/" href="http://blog.kulman.sk/why-are-there-no-great-windows-8-apps-because-of-winrt-a-developers-view/">Blog post: Why are there no great Windows 8 apps? Because of WinRT. A developer&#8217;s view</a> </li>
-<li><a title="http://en.wikipedia.org/wiki/Gears_(software)" href="http://en.wikipedia.org/wiki/Gears_(software)">Google Gears</a> </li>
-<li><a title="http://treesurgeon.codeplex.com/" href="http://treesurgeon.codeplex.com/">Tree Surgeon</a> </li>
-<li><a href="http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html">Powering Down Google Reader</a> </li>
-<li><a href="http://thecadmus.com/">TheCadmus</a> </li>
-<li><a href="http://codebetter.com/glennblock/2013/02/28/scriptcs-living-on-the-edge-in-c-without-a-project-on-the-wings-of-roslyn-and-nuget/">scriptcs &#8211; Living on the edge in C# without a project on the wings of Roslyn and Nuget</a> </li>
-<li><a title="http://scriptcs.net/" href="http://scriptcs.net/">http://scriptcs.net/</a> </li>
-<li><a href="http://livereload.com/">LiveReload</a> </li>
-<li><a title="http://www.codecademy.com/#!/exercises/0" href="http://www.codecademy.com/">Codecademy</a> </li>
-<li><a href="http://jsbin.com">JS Bin</a> </li>
-<li><a href="http://repl.it">repl.it</a> </li>
-<li><a href="https://github.com/reardenjs/reardenjs">ReardenJS</a> </li>
-<li><a href="https://github.com/madrobby/vapor.js">Vapor.js</a> </li>
-</ul>
-<img src="http://feeds.feedburner.com/~r/HerdingCode/~4/TFdalTyyQJs" height="1" width="1" alt=""/>]]></content:encoded>
+				<content:encoded><![CDATA[This week on Herding Code, the guys talk about what they&#8217;ve been up to lately (including Kevin&#8217;s new Greater Than Parts site), lament the passing of Google Reader, talk about scriptcs, and even fit in a lightning round! Download / Listen: Herding Code 162: Whacha doin, Goodbye Google Reader, scriptcs and Lightning Round! Show Notes: [&hellip;]<img src="http://feeds.feedburner.com/~r/HerdingCode/~4/TFdalTyyQJs" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://herdingcode.com/herding-code-162-whacha-doin-goodbye-google-reader-scriptcs-and-lightning-round/feed/</wfw:commentRss>
 		<slash:comments>4</slash:comments>
 
@@ -5612,43 +5569,11 @@
 		<slash:comments>7</slash:comments>
 
 		<media:content url="http://feedproxy.google.com/~r/HerdingCode/~5/Z6MCjNeRrV4/HerdingCode-0065-Scott-Hanselman-on-his-Ninja-Squad-and-Jon-s-new-job.mp3" fileSize="34479962" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>In this episode, we talk to Scott Hanselman about Jon&amp;#8217;s new job with Microsoft, how (if at all) that affects this podcast, and running Ubuntu on a Dell Mini 9. Scott H talks about how, other than the obvious request to get Scott Koon removed from th</itunes:subtitle><itunes:author>Herding Code</itunes:author><itunes:summary>In this episode, we talk to Scott Hanselman about Jon&amp;#8217;s new job with Microsoft, how (if at all) that affects this podcast, and running Ubuntu on a Dell Mini 9. Scott H talks about how, other than the obvious request to get Scott Koon removed from the show, there&amp;#8217;s no need to fear any changes [&amp;#8230;]</itunes:summary><itunes:keywords>dotnet,asp,net,programming,software,web,development</itunes:keywords><feedburner:origLink>http://herdingcode.com/herding-code-65-scott-hanselman-on-his-secret-ninja-squad-and-jons-new-job-bonus-netbook-operating-system-install-clinic/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/HerdingCode/~5/Z6MCjNeRrV4/HerdingCode-0065-Scott-Hanselman-on-his-Ninja-Squad-and-Jon-s-new-job.mp3" length="34479962" type="audio/mpeg" /><feedburner:origEnclosureLink>http://herdingcode.com/wp-content/uploads/HerdingCode-0065-Scott-Hanselman-on-his-Ninja-Squad-and-Jon-s-new-job.mp3</feedburner:origEnclosureLink></item>
-		<item>
-		<title>Herding Code 64: Phil Haack on MVC 2</title>
-		<link>http://feedproxy.google.com/~r/HerdingCode/~3/7-XUrHprmV0/</link>
-		<comments>http://herdingcode.com/herding-code-64-phil-haack-on-mvc-2/#comments</comments>
-		<pubDate>Sun, 22 Nov 2009 15:10:56 +0000</pubDate>
-		<dc:creator>jon_galloway@yahoo.com (Herding Code)</dc:creator>
-				<category><![CDATA[interview]]></category>
-		<category><![CDATA[podcast]]></category>
-
-		<guid isPermaLink="false">http://herdingcode.com/?p=222</guid>
-		<description><![CDATA[The guys grill Phil on ASP.NET MVC2, and introduce a new segment: Abusive Questions From Twitter! Phil starts with the new &#60;%: code block syntax, IHtmlString, HtmlString, MvcHtmlString Jon asks about DisplayFor, EditorFor improvements Phil discusses validation improvements – validation extensibility and client-side validation MVC 2 is built on .NET 3.5 SP1 Phil talks about [&#8230;]]]></description>
-				<content:encoded><![CDATA[The guys grill Phil on ASP.NET MVC2, and introduce a new segment: Abusive Questions From Twitter! Phil starts with the new &lt;%: code block syntax, IHtmlString, HtmlString, MvcHtmlString Jon asks about DisplayFor, EditorFor improvements Phil discusses validation improvements – validation extensibility and client-side validation MVC 2 is built on .NET 3.5 SP1 Phil talks about [&hellip;]<img src="http://feeds.feedburner.com/~r/HerdingCode/~4/7-XUrHprmV0" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://herdingcode.com/herding-code-64-phil-haack-on-mvc-2/feed/</wfw:commentRss>
-		<slash:comments>3</slash:comments>
-
-		<media:content url="http://feedproxy.google.com/~r/HerdingCode/~5/TOjyQ0zic6w/HerdingCode-0064-Phil-Haack-on-MVC-2.mp3" fileSize="52945970" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>The guys grill Phil on ASP.NET MVC2, and introduce a new segment: Abusive Questions From Twitter! Phil starts with the new &amp;#60;%: code block syntax, IHtmlString, HtmlString, MvcHtmlString Jon asks about DisplayFor, EditorFor improvements Phil discusses v</itunes:subtitle><itunes:author>Herding Code</itunes:author><itunes:summary>The guys grill Phil on ASP.NET MVC2, and introduce a new segment: Abusive Questions From Twitter! Phil starts with the new &amp;#60;%: code block syntax, IHtmlString, HtmlString, MvcHtmlString Jon asks about DisplayFor, EditorFor improvements Phil discusses validation improvements – validation extensibility and client-side validation MVC 2 is built on .NET 3.5 SP1 Phil talks about [&amp;#8230;]</itunes:summary><itunes:keywords>dotnet,asp,net,programming,software,web,development</itunes:keywords><feedburner:origLink>http://herdingcode.com/herding-code-64-phil-haack-on-mvc-2/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/HerdingCode/~5/TOjyQ0zic6w/HerdingCode-0064-Phil-Haack-on-MVC-2.mp3" length="52945970" type="audio/mpeg" /><feedburner:origEnclosureLink>http://herdingcode.com/wp-content/uploads/HerdingCode-0064-Phil-Haack-on-MVC-2.mp3</feedburner:origEnclosureLink></item>
-		<item>
-		<title>Herding Code 63: Victory in Software Development with K Scott Allen</title>
-		<link>http://feedproxy.google.com/~r/HerdingCode/~3/Bz5SqXFY1GU/</link>
-		<comments>http://herdingcode.com/herding-code-63-victory-in-software-development-with-k-scott-allen/#comments</comments>
-		<pubDate>Sat, 24 Oct 2009 14:40:10 +0000</pubDate>
-		<dc:creator>jon_galloway@yahoo.com (Herding Code)</dc:creator>
-				<category><![CDATA[podcast]]></category>
-		<category><![CDATA[monotouch]]></category>
-
-		<guid isPermaLink="false">http://herdingcode.com/?p=221</guid>
-		<description><![CDATA[On the heels of his recent Concept Camp 2009 fireside keynote, K Scott brings his opinion about victory in software development to the podcast. Listen in as the guys consider how to define and measure success, how to solve business problems despite our customers and ourselves, and how to focus less on risk and more [&#8230;]]]></description>
-				<content:encoded><![CDATA[On the heels of his recent Concept Camp 2009 fireside keynote, K Scott brings his opinion about victory in software development to the podcast. Listen in as the guys consider how to define and measure success, how to solve business problems despite our customers and ourselves, and how to focus less on risk and more [&hellip;]<img src="http://feeds.feedburner.com/~r/HerdingCode/~4/Bz5SqXFY1GU" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://herdingcode.com/herding-code-63-victory-in-software-development-with-k-scott-allen/feed/</wfw:commentRss>
-		<slash:comments>6</slash:comments>
-
-		<media:content url="http://feedproxy.google.com/~r/HerdingCode/~5/n_Y96p_Ougs/HerdingCode-0063-Victory-in-Software-Development-with-K-Scott-Allen.mp3" fileSize="30161510" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>On the heels of his recent Concept Camp 2009 fireside keynote, K Scott brings his opinion about victory in software development to the podcast. Listen in as the guys consider how to define and measure success, how to solve business problems despite our cu</itunes:subtitle><itunes:author>Herding Code</itunes:author><itunes:summary>On the heels of his recent Concept Camp 2009 fireside keynote, K Scott brings his opinion about victory in software development to the podcast. Listen in as the guys consider how to define and measure success, how to solve business problems despite our customers and ourselves, and how to focus less on risk and more [&amp;#8230;]</itunes:summary><itunes:keywords>dotnet,asp,net,programming,software,web,development</itunes:keywords><feedburner:origLink>http://herdingcode.com/herding-code-63-victory-in-software-development-with-k-scott-allen/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/HerdingCode/~5/n_Y96p_Ougs/HerdingCode-0063-Victory-in-Software-Development-with-K-Scott-Allen.mp3" length="30161510" type="audio/mpeg" /><feedburner:origEnclosureLink>http://herdingcode.com/wp-content/uploads/HerdingCode-0063-Victory-in-Software-Development-with-K-Scott-Allen.mp3</feedburner:origEnclosureLink></item>
 	<copyright>Creative Commons (by-nc-sa)</copyright><media:credit role="author">Herding Code</media:credit><media:rating>nonadult</media:rating><media:description type="plain">A weekly discussion on software development</media:description></channel>
 </rss><!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using disk
-Database Caching 2/154 queries in 0.102 seconds using disk
-Object Caching 5536/5835 objects using disk
+Database Caching 2/161 queries in 0.092 seconds using disk
+Object Caching 5531/5850 objects using disk
 
- Served from: herdingcode.com @ 2015-11-12 03:53:48 by W3 Total Cache -->
+ Served from: herdingcode.com @ 2015-12-30 00:09:12 by W3 Total Cache -->

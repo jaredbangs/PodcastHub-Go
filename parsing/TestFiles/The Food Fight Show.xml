@@ -3,8 +3,8 @@
 	<channel>
 		
 		<title>The Food Fight Show</title>
-		<pubDate>Mon, 09 Nov 2015 14:38:03 +0000</pubDate>
-		<lastBuildDate>Mon, 09 Nov 2015 14:46:10 +0000</lastBuildDate>
+		<pubDate>Thu, 31 Dec 2015 00:13:52 +0000</pubDate>
+		<lastBuildDate>Thu, 31 Dec 2015 00:18:16 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://foodfight.libsyn.com</link>
 		<language>en</language>
@@ -29,6 +29,19 @@
 		<description><![CDATA[The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show.]]></description>
 		<itunes:subtitle>The Chef community podcast</itunes:subtitle>
 				<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheFoodFightShow" /><feedburner:info uri="thefoodfightshow" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>CC-BY 3.0 Unported</media:copyright><media:thumbnail url="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" /><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><feedburner:browserFriendly></feedburner:browserFriendly><item>
+			<title>Food Fight Show 96 - Chef and OpenStack</title>
+			<pubDate>Thu, 31 Dec 2015 00:13:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f4d8e752ccce34055ab02e865375287c]]></guid>
+			<link><![CDATA[http://foodfight.libsyn.com/food-fight-show-96-chef-and-openstack]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/c/e/3/4ce36e29cc95ece1/one_chef.png" />
+			<description />
+			<enclosure length="46262373" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/foodfight-96-chef-and-openstack.mp3" />
+			<itunes:duration>48:12</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle />
+					<media:content url="http://traffic.libsyn.com/foodfight/foodfight-96-chef-and-openstack.mp3" fileSize="46262373" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
+		<item>
 			<title>Food Fight Show - 95 - Learning Reviews</title>
 			<pubDate>Mon, 09 Nov 2015 14:38:03 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[ed5f27ca1dc3ec3bca6ee7259c56fee3]]></guid>
@@ -1417,35 +1430,5 @@ Various sessions of the day...]]></itunes:subtitle>
 			<itunes:keywords />
 			<itunes:subtitle><![CDATA[Join Bryan and Nathen for a discussion about the future of Vagrant.]]></itunes:subtitle>
 					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-27-Vagrant.mp3" fileSize="35254357" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
-		<item>
-			<title>Episode 26: Test Kitchen with Joshua Timberman &amp; Andrew Crump</title>
-			<pubDate>Sat, 25 Aug 2012 07:40:03 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[4b9cae98ab23c8eb743e21e6393e92d0]]></guid>
-			<link><![CDATA[http://foodfight.libsyn.com/episode-26-test-kitchen-with-joshua-timberman-andrew-crump]]></link>
-			<itunes:image href="http://static.libsyn.com/p/assets/2/0/d/c/20dc8eac1d37a22a/FoodFight_348.jpg" />
-			<description><![CDATA[<p>In this episode, Bryan and Nathen sat down with Joshua Timberman and Andrew Crump to talk about Test Kitchen.</p>
-<p>Outline:</p>
-<ul>
-<li>Introduction to Test Kitchen</li>
-<li>Anatomy of a Test Kitchen run</li>
-<li>Examples in apache2 and mysql cookbooks</li>
-<li>Configuring Test Kitchen</li>
-<li>Future of Test Kitchen</li>
-<li>Contributing to Test Kitchen</li>
-</ul>
-<p></p>]]></description>
-			<enclosure length="30148777" type="audio/mpeg" url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-26-Test-Kitchen.mp3" />
-			<itunes:duration>01:02:49</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords />
-			<itunes:subtitle><![CDATA[In this episode, Bryan and Nathen sat down with Joshua Timberman and Andrew Crump to talk about Test Kitchen.
-Outline:
-
-Introduction to Test Kitchen
-Anatomy of a Test Kitchen run
-Examples in apache2 and mysql cookbooks
-Configuring Test Kitchen
-Future...]]></itunes:subtitle>
-					<media:content url="http://traffic.libsyn.com/foodfight/Food-Fight-Show-26-Test-Kitchen.mp3" fileSize="30148777" type="audio/mpeg" /><itunes:summary>The Chef community podcast</itunes:summary></item>
 	<media:credit role="author">Bryan Berry</media:credit><media:rating>nonadult</media:rating><media:description type="plain">The Chef community podcast</media:description></channel>
 </rss>

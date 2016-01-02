@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>WebDevRadio.com - web development podcast</title>
+	
+	<link>http://webdevradio.com</link>
+	<description>Topics include tools, tips and techniques to make your web application development life more productive.</description>
+	<lastBuildDate>Sat, 21 Feb 2015 17:41:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+<!-- podcast_generator="Blubrry PowerPress/5.0.7" mode="advanced" -->
+	<itunes:summary>Topics, tools and tips for web application developers, including testing strategies, upcoming conferences, interviews with developers, seo techniques, optimization tip and more.</itunes:summary>
+	<itunes:author>Michael Kimsal</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://webdevradio.com/wp-content/uploads/powerpress/webdevradio1400x1400.jpg" />
+	
+	<managingEditor>mgkimsal@gmail.com (WebDevRadio)</managingEditor>
+	<itunes:subtitle>Topics, tools and tips for web application developers, including testing strategies, upcoming conferences, interviews with developers, seo techniques, optimization tip and more.</itunes:subtitle>
+	<itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords>
+	<image>
+		<title>WebDevRadio</title>
+		<url>http://webdevradio.com/wp-content/uploads/powerpress/webdevradio1400x1400.jpg</url>
+		<link>http://webdevradio.com</link>
+	</image>
+	
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/WebdevradioPodcastHome" /><feedburner:info uri="webdevradiopodcasthome" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>(C) 2005</media:copyright><media:thumbnail url="http://webdevradio.com/wp-content/uploads/powerpress/webdevradio1400x1400.jpg" /><media:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Audio Blogs</media:category><itunes:owner><itunes:email>comments@webdevradio.com</itunes:email><itunes:name>Michael Kimsal</itunes:name></itunes:owner><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><itunes:category text="Audio Blogs" /><geo:lat>40.91255</geo:lat><geo:long>-77.773871</geo:long><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use.</feedburner:browserFriendly><item>
+		<title>episode 123 – fastclick, hhvm, node-io split</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/78-AJAwzlSE/</link>
+		<comments>http://webdevradio.com/2015/02/episode-123-fastclick-hhvm/#comments</comments>
+		<pubDate>Sat, 21 Feb 2015 17:41:16 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[grails]]></category>
+		<category><![CDATA[groovy]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[php]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=326</guid>
+		<description>nodejs vs io.js - http://www.theregister.co.uk/2015/01/14/io_dot_js_version_1_0/ Fastclick: https://github.com/ftlabs/fastclick HHVM &amp;#8211; http://hhvm.com/blog/8405/coming-soon-in-hhvm async mysql support HHVM &amp;#8211; XHP v2 https://github.com/facebook/xhp-lib &amp;#160; &amp;#160; &amp;#160;</description>
+				<content:encoded><![CDATA[<p>nodejs vs io.js - <a href="http://www.theregister.co.uk/2015/01/14/io_dot_js_version_1_0/">http://www.theregister.co.uk/2015/01/14/io_dot_js_version_1_0/</a></p>
+<p>Fastclick: <a href="https://github.com/ftlabs/fastclick">https://github.com/ftlabs/fastclick</a></p>
+<p>HHVM &#8211; <a href="http://hhvm.com/blog/8405/coming-soon-in-hhvm">http://hhvm.com/blog/8405/coming-soon-in-hhvm</a> async mysql support</p>
+<p>HHVM &#8211; XHP v2 <a href="https://github.com/facebook/xhp-lib">https://github.com/facebook/xhp-lib</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=78-AJAwzlSE:P6SEccM0638:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=78-AJAwzlSE:P6SEccM0638:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=78-AJAwzlSE:P6SEccM0638:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=78-AJAwzlSE:P6SEccM0638:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=78-AJAwzlSE:P6SEccM0638:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=78-AJAwzlSE:P6SEccM0638:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=78-AJAwzlSE:P6SEccM0638:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=78-AJAwzlSE:P6SEccM0638:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/78-AJAwzlSE" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2015/02/episode-123-fastclick-hhvm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>nodejs vs io.js - http://www.theregister.co.uk/2015/01/14/io_dot_js_version_1_0/ - Fastclick: https://github.com/ftlabs/fastclick - HHVM - http://hhvm.com/blog/8405/coming-soon-in-hhvm async mysql support - HHVM - XHP v2 https://github.</itunes:subtitle>
+		<itunes:summary>nodejs vs io.js - http://www.theregister.co.uk/2015/01/14/io_dot_js_version_1_0/
+
+Fastclick: https://github.com/ftlabs/fastclick
+
+HHVM - http://hhvm.com/blog/8405/coming-soon-in-hhvm async mysql support
+
+HHVM - XHP v2 https://github.com/facebook/xhp-lib
+
+ 
+
+ 
+
+ </itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>19:25</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/bNc16Ft3UwE/wdr123.mp3" fileSize="13985771" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2015/02/episode-123-fastclick-hhvm/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-123-fastclick-hhvm</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/bNc16Ft3UwE/wdr123.mp3" length="13985771" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2015/02/wdr123.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 122: Back to life</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/nmKJ0LnMvTY/</link>
+		<comments>http://webdevradio.com/2015/02/episode-122-back-to-life/#comments</comments>
+		<pubDate>Sat, 07 Feb 2015 19:03:10 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[php]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=320</guid>
+		<description>Very brief update re: my earlier absence and a couple thoughts on the Sunshine PHP conference. Rasmus&amp;#8217; keynote notes Paul Jones ADR post Sunshine PHP 2015 &amp;#160;</description>
+				<content:encoded><![CDATA[<p>Very brief update re: my earlier absence and a couple thoughts on the Sunshine PHP conference.</p>
+<p><a href="http://talks.php.net/sunshinephp15">Rasmus&#8217; keynote notes</a></p>
+<p><a href="http://paul-m-jones.com/archives/5970">Paul Jones ADR post</a></p>
+<p><a href="http://2015.sunshinephp.com">Sunshine PHP 2015</a></p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=nmKJ0LnMvTY:U9mMyKHRu3Y:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=nmKJ0LnMvTY:U9mMyKHRu3Y:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=nmKJ0LnMvTY:U9mMyKHRu3Y:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=nmKJ0LnMvTY:U9mMyKHRu3Y:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=nmKJ0LnMvTY:U9mMyKHRu3Y:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=nmKJ0LnMvTY:U9mMyKHRu3Y:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=nmKJ0LnMvTY:U9mMyKHRu3Y:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=nmKJ0LnMvTY:U9mMyKHRu3Y:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/nmKJ0LnMvTY" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2015/02/episode-122-back-to-life/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>Very brief update re: my earlier absence and a couple thoughts on the Sunshine PHP conference. - Rasmus' keynote notes - Paul Jones ADR post - Sunshine PHP 2015 -  </itunes:subtitle>
+		<itunes:summary>Very brief update re: my earlier absence and a couple thoughts on the Sunshine PHP conference.
+
+Rasmus' keynote notes
+
+Paul Jones ADR post
+
+Sunshine PHP 2015
+
+ </itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>7:49</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/LoUhH704xkQ/wdr122a.mp3" fileSize="5636514" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2015/02/episode-122-back-to-life/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-122-back-to-life</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/LoUhH704xkQ/wdr122a.mp3" length="5636514" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2015/02/wdr122a.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 121: Hitting the Titanium conference, and some new tools to try</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/Gzw6OZpFqvc/</link>
+		<comments>http://webdevradio.com/2014/05/episode-121-hitting-the-titanium-conference-and-some-new-tools-to-try/#comments</comments>
+		<pubDate>Thu, 08 May 2014 20:37:16 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[conference]]></category>
+		<category><![CDATA[database]]></category>
+		<category><![CDATA[php]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=310</guid>
+		<description>https://placeit.net - Place your website in stock photos with ease http://www.orm-designer.com &amp;#8211; Create a visual model and generate code for popular ORM tools (Doctrine, Hibernate, Propel). http://ormcheatsheet.com &amp;#8211; Quick overview of various ORM configs for popular PHP frameworks. http://ticonf.org/#nyc_location &amp;#8211; &amp;#8230; &lt;a href="http://webdevradio.com/2014/05/episode-121-hitting-the-titanium-conference-and-some-new-tools-to-try/"&gt;Continue reading &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;</description>
+				<content:encoded><![CDATA[<p><a href="https://placeit.net">https://placeit.net </a>- Place your website in stock photos with ease</p>
+<p><a href="http://www.orm-designer.com">http://www.orm-designer.com</a> &#8211; Create a visual model and generate code for popular ORM tools (Doctrine, Hibernate, Propel).</p>
+<p><a href="http://ormcheatsheet.com">http://ormcheatsheet.com</a> &#8211; Quick overview of various ORM configs for popular PHP frameworks.</p>
+<p><a href="http://ticonf.org/#nyc_location">http://ticonf.org/#nyc_location</a> &#8211; Heading to the Titanium conference May 9-11</p>
+<p><a href="https://metric.io/blog/2014/04/simple-client-side-error-logging">https://metric.io/blog/2014/04/simple-client-side-error-logging</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Gzw6OZpFqvc:ZR4pff-nlLg:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=Gzw6OZpFqvc:ZR4pff-nlLg:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Gzw6OZpFqvc:ZR4pff-nlLg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Gzw6OZpFqvc:ZR4pff-nlLg:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Gzw6OZpFqvc:ZR4pff-nlLg:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=Gzw6OZpFqvc:ZR4pff-nlLg:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Gzw6OZpFqvc:ZR4pff-nlLg:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=Gzw6OZpFqvc:ZR4pff-nlLg:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/Gzw6OZpFqvc" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2014/05/episode-121-hitting-the-titanium-conference-and-some-new-tools-to-try/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>https://placeit.net - Place your website in stock photos with ease - http://www.orm-designer.com - Create a visual model and generate code for popular ORM tools (Doctrine, Hibernate, Propel). - http://ormcheatsheet.</itunes:subtitle>
+		<itunes:summary>https://placeit.net - Place your website in stock photos with ease
+
+http://www.orm-designer.com - Create a visual model and generate code for popular ORM tools (Doctrine, Hibernate, Propel).
+
+http://ormcheatsheet.com - Quick overview of various ORM configs for popular PHP frameworks.
+
+http://ticonf.org/#nyc_location - Heading to the Titanium conference May 9-11
+
+https://metric.io/blog/2014/04/simple-client-side-error-logging</itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>15:00</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/Dr2hmM3xvtk/wdr121-51014-12.04-AM.mp3" fileSize="14396939" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2014/05/episode-121-hitting-the-titanium-conference-and-some-new-tools-to-try/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-121-hitting-the-titanium-conference-and-some-new-tools-to-try</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/Dr2hmM3xvtk/wdr121-51014-12.04-AM.mp3" length="14396939" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2014/05/wdr121-51014-12.04-AM.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 120: Quick update, rant about PHP, upcoming interview</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/W_YPRWhSN70/</link>
+		<comments>http://webdevradio.com/2014/04/episode-120-quick-update-rant-about-php-upcoming-interview/#comments</comments>
+		<pubDate>Wed, 09 Apr 2014 03:27:13 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[css]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[python]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=306</guid>
+		<description>Upcoming Upcoming interview with former Twitpiccer about scaling service up to billions of requests &amp;#8211; get your questions in ASAP. Sass 3.3 released http://blog.sass-lang.com/posts/184094-sass-33-is-released Free python screencasts from neckbeard republic https://www.neckbeardrepublic.com/ New free font : Clear Sans https://01.org/clear-sans &amp;#160; PHP/HipHop/HHVM/Hack/Zephir/etc &amp;#8230; &lt;a href="http://webdevradio.com/2014/04/episode-120-quick-update-rant-about-php-upcoming-interview/"&gt;Continue reading &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;</description>
+				<content:encoded><![CDATA[<p><strong>Upcoming</p>
+<p></strong>Upcoming interview with former Twitpiccer about scaling service up to billions of requests &#8211; get your questions in ASAP.</p>
+<p><strong>Sass 3.3 released</strong></p>
+<p><a href="http://blog.sass-lang.com/posts/184094-sass-33-is-released">http://blog.sass-lang.com/posts/184094-sass-33-is-released</a></p>
+<p><strong>Free python screencasts from neckbeard republic</strong></p>
+<p><a href="https://www.neckbeardrepublic.com/">https://www.neckbeardrepublic.com/</a></p>
+<p><strong>New free font : Clear Sans</strong></p>
+<p><a href="https://01.org/clear-sans">https://01.org/clear-sans</a></p>
+<p>&nbsp;</p>
+<p><strong>PHP/HipHop/HHVM/Hack/Zephir/etc</strong></p>
+<p>Lots of movement happening in the PHP world recently, and I barely scratch the surface of even beginning to make a dent in making sense of it all, but hopefully some of this will be of interest nonetheless <img src='http://webdevradio.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+<p><a href="http://www.sitepoint.com/look-hack-php-replacement-hhvm/">http://www.sitepoint.com/look-hack-php-replacement-hhvm/</a></p>
+<p><a href="http://hacklang.org">http://hacklang.org</a></p>
+<p><a href="https://code.facebook.com/posts/264544830379293/hack-a-new-programming-language-for-hhvm/">https://code.facebook.com/posts/264544830379293/hack-a-new-programming-language-for-hhvm/</a></p>
+<p><a href="http://zephir-lang.com/intro.html">http://zephir-lang.com/intro.html</a></p>
+<p><a href="http://www.php-cpp.com">http://www.php-cpp.com</a></p>
+<p><a href="http://hippyvm.com">http://hippyvm.com</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=W_YPRWhSN70:rZ9n8_FFTBk:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=W_YPRWhSN70:rZ9n8_FFTBk:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=W_YPRWhSN70:rZ9n8_FFTBk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=W_YPRWhSN70:rZ9n8_FFTBk:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=W_YPRWhSN70:rZ9n8_FFTBk:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=W_YPRWhSN70:rZ9n8_FFTBk:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=W_YPRWhSN70:rZ9n8_FFTBk:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=W_YPRWhSN70:rZ9n8_FFTBk:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/W_YPRWhSN70" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2014/04/episode-120-quick-update-rant-about-php-upcoming-interview/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+
+		<itunes:subtitle>Upcoming - Upcoming interview with former Twitpiccer about scaling service up to billions of requests - get your questions in ASAP. - Sass 3.3 released - http://blog.sass-lang.com/posts/184094-sass-33-is-released - </itunes:subtitle>
+		<itunes:summary>Upcoming
+
+Upcoming interview with former Twitpiccer about scaling service up to billions of requests - get your questions in ASAP.
+
+Sass 3.3 released
+
+http://blog.sass-lang.com/posts/184094-sass-33-is-released
+
+Free python screencasts from neckbeard republic
+
+https://www.neckbeardrepublic.com/
+
+New free font : Clear Sans
+
+https://01.org/clear-sans
+
+ 
+
+PHP/HipHop/HHVM/Hack/Zephir/etc
+
+Lots of movement happening in the PHP world recently, and I barely scratch the surface of even beginning to make a dent in making sense of it all, but hopefully some of this will be of interest nonetheless ;)
+
+http://www.sitepoint.com/look-hack-php-replacement-hhvm/
+
+http://hacklang.org
+
+https://code.facebook.com/posts/264544830379293/hack-a-new-programming-language-for-hhvm/
+
+http://zephir-lang.com/intro.html
+
+http://www.php-cpp.com
+
+http://hippyvm.com
+
+ 
+
+ </itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>24:21</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/K2yGw9T0DEY/wdr120a.mp3" fileSize="23377211" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2014/04/episode-120-quick-update-rant-about-php-upcoming-interview/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-120-quick-update-rant-about-php-upcoming-interview</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/K2yGw9T0DEY/wdr120a.mp3" length="23377211" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2014/04/wdr120a.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 119: Toran Billups interview</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/4xfbmKMCHGg/</link>
+		<comments>http://webdevradio.com/2014/03/episode-119-toran-billups-interview/#comments</comments>
+		<pubDate>Sat, 15 Mar 2014 15:58:44 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[javascript]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=298</guid>
+		<description>I had a chance to chat with Toran Billups about EmberJS, PyTenn and other stuff.  Take a listen toranbillups.com emberjs.com</description>
+				<content:encoded><![CDATA[<p>I had a chance to chat with Toran Billups about EmberJS, PyTenn and other stuff.  Take a listen <img src='http://webdevradio.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p><a href="http://toranbillups.com" target="_blank">toranbillups.com</a></p>
+<p><a href="http://emberjs.com" target="_blank">emberjs.com</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=4xfbmKMCHGg:-mq0OtKmKGQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=4xfbmKMCHGg:-mq0OtKmKGQ:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=4xfbmKMCHGg:-mq0OtKmKGQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=4xfbmKMCHGg:-mq0OtKmKGQ:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=4xfbmKMCHGg:-mq0OtKmKGQ:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=4xfbmKMCHGg:-mq0OtKmKGQ:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=4xfbmKMCHGg:-mq0OtKmKGQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=4xfbmKMCHGg:-mq0OtKmKGQ:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/4xfbmKMCHGg" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2014/03/episode-119-toran-billups-interview/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+
+		<itunes:subtitle>I had a chance to chat with Toran Billups about EmberJS, PyTenn and other stuff.  Take a listen :) - toranbillups.com - emberjs.com</itunes:subtitle>
+		<itunes:summary>I had a chance to chat with Toran Billups about EmberJS, PyTenn and other stuff.  Take a listen :)
+
+toranbillups.com
+
+emberjs.com</itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:05:13</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/ta9x-s-lVLQ/wdr_119_mono_96.mp3" fileSize="46958676" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2014/03/episode-119-toran-billups-interview/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-119-toran-billups-interview</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/ta9x-s-lVLQ/wdr_119_mono_96.mp3" length="46958676" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2014/03/wdr_119_mono_96.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 118: Safe navigation coming to C#, PHP object injection in WordPress</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/tzJDX5r2bO4/</link>
+		<comments>http://webdevradio.com/2014/02/episode-118-safe-navigation-coming-to-c-php-object-injection-in-wordpress/#comments</comments>
+		<pubDate>Wed, 26 Feb 2014 19:30:43 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=291</guid>
+		<description>C# may get the safe navigation operator soon! http://blogs.msdn.com/b/jerrynixon/archive/2014/02/26/at-last-c-is-getting-sometimes-called-the-safe-navigation-operator.aspx Bing Code Search for Visual Studio http://blogs.msdn.com/b/visualstudio/archive/2014/02/17/introducing-bing-code-search-for-c.aspx PHP Object Injection in WordPress http://vagosec.org/2013/09/wordpress-php-object-injection/ Dates are hard &amp;#8211; Ben Ramsey http://benramsey.com/blog/2014/02/dates-are-hard/wdr_118</description>
+				<content:encoded><![CDATA[<p>C# may get the safe navigation operator soon!</p>
+<p><a href="http://blogs.msdn.com/b/jerrynixon/archive/2014/02/26/at-last-c-is-getting-sometimes-called-the-safe-navigation-operator.aspx" target="_blank">http://blogs.msdn.com/b/jerrynixon/archive/2014/02/26/at-last-c-is-getting-sometimes-called-the-safe-navigation-operator.aspx</a></p>
+<p>Bing Code Search for Visual Studio</p>
+<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2014/02/17/introducing-bing-code-search-for-c.aspx" target="_blank">http://blogs.msdn.com/b/visualstudio/archive/2014/02/17/introducing-bing-code-search-for-c.aspx</a></p>
+<p>PHP Object Injection in WordPress</p>
+<p><a href="http://vagosec.org/2013/09/wordpress-php-object-injection/" target="_blank">http://vagosec.org/2013/09/wordpress-php-object-injection/</a></p>
+<p>Dates are hard &#8211; Ben Ramsey</p>
+<p><a href="http://benramsey.com/blog/2014/02/dates-are-hard/" target="_blank">http://benramsey.com/blog/2014/02/dates-are-hard/</a><a href="http://webdevradio.com/wp-content/uploads/2014/03/wdr_118.mp3">wdr_118</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=tzJDX5r2bO4:BsqPu7adYlM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=tzJDX5r2bO4:BsqPu7adYlM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=tzJDX5r2bO4:BsqPu7adYlM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=tzJDX5r2bO4:BsqPu7adYlM:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=tzJDX5r2bO4:BsqPu7adYlM:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=tzJDX5r2bO4:BsqPu7adYlM:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=tzJDX5r2bO4:BsqPu7adYlM:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=tzJDX5r2bO4:BsqPu7adYlM:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/tzJDX5r2bO4" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2014/02/episode-118-safe-navigation-coming-to-c-php-object-injection-in-wordpress/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+
+		<itunes:subtitle>C# may get the safe navigation operator soon! - http://blogs.msdn.com/b/jerrynixon/archive/2014/02/26/at-last-c-is-getting-sometimes-called-the-safe-navigation-operator.aspx - Bing Code Search for Visual Studio - http://blogs.msdn.</itunes:subtitle>
+		<itunes:summary>C# may get the safe navigation operator soon!
+
+http://blogs.msdn.com/b/jerrynixon/archive/2014/02/26/at-last-c-is-getting-sometimes-called-the-safe-navigation-operator.aspx
+
+Bing Code Search for Visual Studio
+
+http://blogs.msdn.com/b/visualstudio/archive/2014/02/17/introducing-bing-code-search-for-c.aspx
+
+PHP Object Injection in WordPress
+
+http://vagosec.org/2013/09/wordpress-php-object-injection/
+
+Dates are hard - Ben Ramsey
+
+http://benramsey.com/blog/2014/02/dates-are-hard/wdr_118</itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>18:20</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/sdz8z2kGi7I/wdr_118.mp3" fileSize="17599761" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2014/02/episode-118-safe-navigation-coming-to-c-php-object-injection-in-wordpress/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-118-safe-navigation-coming-to-c-php-object-injection-in-wordpress</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/sdz8z2kGi7I/wdr_118.mp3" length="17599761" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2014/03/wdr_118.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 117: XDK, security headers and a bit more</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/0gxeFx6ql7U/</link>
+		<comments>http://webdevradio.com/2014/01/xdk-security-headers-bit-more/#comments</comments>
+		<pubDate>Thu, 30 Jan 2014 13:57:57 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[php]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[testing]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=286</guid>
+		<description>Intel&amp;#8217;s XDK cross platform mobile development: http://xdk-software.intel.com Try out ElasticSearch in a &amp;#8216;fiddle-like&amp;#8217; environment: https://www.found.no/play/ NightwatchJS browser test: http://nightwatchjs.org Security headers you should know about: http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using</description>
+				<content:encoded><![CDATA[<p>Intel&#8217;s XDK cross platform mobile development: <a href="http://xdk-software.intel.com">http://xdk-software.intel.com</a></p>
+<p>Try out ElasticSearch in a &#8216;fiddle-like&#8217; environment: <a href="https://www.found.no/play/">https://www.found.no/play/</a></p>
+<p>NightwatchJS browser test: <a href="http://nightwatchjs.org">http://nightwatchjs.org</a></p>
+<p>Security headers you should know about: <a href="http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using">http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using</a><a href="http://webdevradio.com/wp-content/uploads/2014/02/wdr_117.mp3"><br />
+</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=0gxeFx6ql7U:z7-qm12b0KU:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=0gxeFx6ql7U:z7-qm12b0KU:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=0gxeFx6ql7U:z7-qm12b0KU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=0gxeFx6ql7U:z7-qm12b0KU:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=0gxeFx6ql7U:z7-qm12b0KU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=0gxeFx6ql7U:z7-qm12b0KU:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=0gxeFx6ql7U:z7-qm12b0KU:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=0gxeFx6ql7U:z7-qm12b0KU:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/0gxeFx6ql7U" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2014/01/xdk-security-headers-bit-more/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>Intel's XDK cross platform mobile development: http://xdk-software.intel.com - Try out ElasticSearch in a 'fiddle-like' environment: https://www.found.no/play/ - NightwatchJS browser test: http://nightwatchjs.org - </itunes:subtitle>
+		<itunes:summary>Intel's XDK cross platform mobile development: http://xdk-software.intel.com
+
+Try out ElasticSearch in a 'fiddle-like' environment: https://www.found.no/play/
+
+NightwatchJS browser test: http://nightwatchjs.org
+
+Security headers you should know about: http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using</itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/xIIYykqS6RE/wdr_117.mp3" fileSize="5242880" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2014/01/xdk-security-headers-bit-more/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xdk-security-headers-bit-more</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/xIIYykqS6RE/wdr_117.mp3" length="5242880" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/www.webdevradio.com/wp-content/uploads/2014/02/wdr_117.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 116 – Foundation 5, DotNetFiddle and more</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/B6EYuq9vhyo/</link>
+		<comments>http://webdevradio.com/2013/12/episode-116-foundation-5-dotnetfiddle-more/#comments</comments>
+		<pubDate>Tue, 24 Dec 2013 03:00:37 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[.net]]></category>
+		<category><![CDATA[dotnet]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[Software How-To]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=276</guid>
+		<description>Puppet vs Chef vs Ansible vs Salt post and discussion http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308 http://www.alpacajs.org Zurb Foundation 5 released discussion Yii framework 2.0 alpha DotNetFiddle &amp;#8211; Fiddle with C# from your browser &amp;#160; &amp;#160;</description>
+				<content:encoded><![CDATA[<p>Puppet vs Chef vs Ansible vs Salt <a href="http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308" target="_blank">post</a> and <a href="http://tech.slashdot.org/story/13/11/22/0239230/review-puppet-vs-chef-vs-ansible-vs-salt" target="_blank">discussion</a></p>
+<p><a href="http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308" target="_blank">http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308</a></p>
+<p><a href="http://www.alpacajs.org" target="_blank">http://www.alpacajs.org</a></p>
+<p><a href="https://news.ycombinator.com/item?id=6776644" target="_blank">Zurb Foundation 5 released discussion</a></p>
+<p><a href="http://www.yiiframework.com/news/76/yii-2-0-alpha-is-released/" target="_blank">Yii framework 2.0 alpha</a></p>
+<p><a href="http://dotnetfiddle.net" target="_blank">DotNetFiddle &#8211; Fiddle with C# from your browser</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=B6EYuq9vhyo:e4DA4r431PE:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=B6EYuq9vhyo:e4DA4r431PE:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=B6EYuq9vhyo:e4DA4r431PE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=B6EYuq9vhyo:e4DA4r431PE:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=B6EYuq9vhyo:e4DA4r431PE:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=B6EYuq9vhyo:e4DA4r431PE:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=B6EYuq9vhyo:e4DA4r431PE:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=B6EYuq9vhyo:e4DA4r431PE:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/B6EYuq9vhyo" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2013/12/episode-116-foundation-5-dotnetfiddle-more/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>Puppet vs Chef vs Ansible vs Salt post and discussion - http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308 - http://www.alpacajs.org - Zurb Foundation 5 released discussion - Yii framework 2.0 alpha - </itunes:subtitle>
+		<itunes:summary>Puppet vs Chef vs Ansible vs Salt post and discussion
+
+http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308
+
+http://www.alpacajs.org
+
+Zurb Foundation 5 released discussion
+
+Yii framework 2.0 alpha
+
+DotNetFiddle - Fiddle with C# from your browser
+
+ 
+
+ </itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>22:17</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/ohGs-HJfjwc/wdr_116.mp3" fileSize="21392740" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2013/12/episode-116-foundation-5-dotnetfiddle-more/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-116-foundation-5-dotnetfiddle-more</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/ohGs-HJfjwc/wdr_116.mp3" length="21392740" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2013/12/wdr_116.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 115: The confessional, PHP BDD and PHP VCR</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/Oftd5oPtRNU/</link>
+		<comments>http://webdevradio.com/2013/12/episode-115-the-confessional-php-bdd-and-php-vcr/#comments</comments>
+		<pubDate>Thu, 12 Dec 2013 13:12:42 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[css]]></category>
+		<category><![CDATA[php]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=274</guid>
+		<description>PHP BDD Framework: https://github.com/danielstjules/pho Comparison chart of front-end CSS frameworks: http://usablica.github.io/front-end-frameworks/compare.html PHP VCR: http://php-vcr.github.io reddit discussion Protect yourself with different terminal colors based on what server you&amp;#8217;re connecting to! &amp;#160; &amp;#160;</description>
+				<content:encoded><![CDATA[<p>PHP BDD Framework: <a href="https://github.com/danielstjules/pho">https://github.com/danielstjules/pho</a></p>
+<p>Comparison chart of front-end CSS frameworks: <a href="http://usablica.github.io/front-end-frameworks/compare.html">http://usablica.github.io/front-end-frameworks/compare.html</a></p>
+<p>PHP VCR: <a href="http://php-vcr.github.io">http://php-vcr.github.io</a> <a href="http://www.reddit.com/r/PHP/comments/1pqsnf/phpvcr_automatically_record_http_interactions_in/">reddit discussion</a></p>
+<p><a href="http://askubuntu.com/questions/13705/automatically-change-terminal-colors-on-remote-connection">Protect yourself with different terminal colors based on what server you&#8217;re connecting to!</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Oftd5oPtRNU:eA1tbu8S3sA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=Oftd5oPtRNU:eA1tbu8S3sA:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Oftd5oPtRNU:eA1tbu8S3sA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Oftd5oPtRNU:eA1tbu8S3sA:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Oftd5oPtRNU:eA1tbu8S3sA:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=Oftd5oPtRNU:eA1tbu8S3sA:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=Oftd5oPtRNU:eA1tbu8S3sA:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=Oftd5oPtRNU:eA1tbu8S3sA:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/Oftd5oPtRNU" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2013/12/episode-115-the-confessional-php-bdd-and-php-vcr/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>PHP BDD Framework: https://github.com/danielstjules/pho - Comparison chart of front-end CSS frameworks: http://usablica.github.io/front-end-frameworks/compare.html - PHP VCR: http://php-vcr.github.io reddit discussion - </itunes:subtitle>
+		<itunes:summary>PHP BDD Framework: https://github.com/danielstjules/pho
+
+Comparison chart of front-end CSS frameworks: http://usablica.github.io/front-end-frameworks/compare.html
+
+PHP VCR: http://php-vcr.github.io reddit discussion
+
+Protect yourself with different terminal colors based on what server you're connecting to!
+
+ 
+
+ </itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>23:41</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/01_tInqLupM/wdr_115.mp3" fileSize="22744838" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2013/12/episode-115-the-confessional-php-bdd-and-php-vcr/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-115-the-confessional-php-bdd-and-php-vcr</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/01_tInqLupM/wdr_115.mp3" length="22744838" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2013/12/wdr_115.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Episode 114: Netbeans 7.4, Fontello, and Timing Attacks</title>
+		<link>http://feedproxy.google.com/~r/WebdevradioPodcastHome/~3/acyRTzxOwpw/</link>
+		<comments>http://webdevradio.com/2013/11/episode-114-netbeans-7-4-fontello-and-timing-attacks/#comments</comments>
+		<pubDate>Mon, 11 Nov 2013 06:51:05 +0000</pubDate>
+		<dc:creator>comments@webdevradio.com (Michael Kimsal)</dc:creator>
+				<category><![CDATA[php]]></category>
+		<category><![CDATA[security]]></category>
+
+		<guid isPermaLink="false">http://webdevradio.com/?p=270</guid>
+		<description>Netbeans 7.4 is out. HTML5 development for Android and iOS devices HTML5 development in Java EE and PHP applications Editing support for Knockout and AngularJS frameworks fontello &amp;#8211; icon fonts generator effekt.css timing attacks via html5</description>
+				<content:encoded><![CDATA[<p><a href="http://netbeans.org" target="_blank">Netbeans</a> 7.4 is out.</p>
+<ul>
+<li>HTML5 development for Android and iOS devices</li>
+<li>HTML5 development in Java EE and PHP applications</li>
+<li>Editing support for Knockout and AngularJS frameworks</li>
+</ul>
+<p><a href="http://fontello.com" target="_blank">fontello</a> &#8211; icon fonts generator</p>
+<p><a href="http://h5bp.github.io/Effeckt.css/dist/" target="_blank">effekt.css</a></p>
+<p><a href="http://contextis.co.uk/research/white-papers/pixel-perfect-timing-attacks-html5/" target="_blank">timing attacks via html5</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=acyRTzxOwpw:GBA27gfZDtQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=acyRTzxOwpw:GBA27gfZDtQ:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=acyRTzxOwpw:GBA27gfZDtQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=acyRTzxOwpw:GBA27gfZDtQ:dnMXMwOfBR0"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?d=dnMXMwOfBR0" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=acyRTzxOwpw:GBA27gfZDtQ:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=acyRTzxOwpw:GBA27gfZDtQ:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?a=acyRTzxOwpw:GBA27gfZDtQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/WebdevradioPodcastHome?i=acyRTzxOwpw:GBA27gfZDtQ:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/WebdevradioPodcastHome/~4/acyRTzxOwpw" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://webdevradio.com/2013/11/episode-114-netbeans-7-4-fontello-and-timing-attacks/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+
+		<itunes:subtitle>Netbeans 7.4 is out.  HTML5 development for Android and iOS devices   HTML5 development in Java EE and PHP applications   Editing support for Knockout and AngularJS frameworks - fontello - icon fonts generator - effekt.css - timing attacks via html5</itunes:subtitle>
+		<itunes:summary>Netbeans 7.4 is out.
+
+	HTML5 development for Android and iOS devices
+	HTML5 development in Java EE and PHP applications
+	Editing support for Knockout and AngularJS frameworks
+
+fontello - icon fonts generator
+
+effekt.css
+
+timing attacks via html5</itunes:summary>
+		<itunes:author>wdradmin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>28:09</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/NU-kfBlU6NY/wdr_114.mp3" fileSize="27020561" type="audio/mpeg" /><itunes:keywords>web,application,development,developer,testing,software,php,java,coldfusion,flash,macromedia,asp,asp,net,microsoft,sun,perl,python,jsp,php5,pear,quality,assurance,qa,search,engine,seo</itunes:keywords><feedburner:origLink>http://webdevradio.com/2013/11/episode-114-netbeans-7-4-fontello-and-timing-attacks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=episode-114-netbeans-7-4-fontello-and-timing-attacks</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/WebdevradioPodcastHome/~5/NU-kfBlU6NY/wdr_114.mp3" length="27020561" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/webdevradio/webdevradio.com/wp-content/uploads/2013/11/wdr_114.mp3</feedburner:origEnclosureLink></item>
+	<copyright>(C) 2005</copyright><media:credit role="author">Michael Kimsal</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Topics, tools and tips for web application developers, including testing strategies, upcoming conferences, interviews with developers, seo techniques, optimization tip and more.</media:description></channel>
+</rss>

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss?before=85374416" rel="next" type="application/rss+xml"/>
     <title>StarTalk Radio</title>
     <link>http://startalkradio.net</link>
-    <pubDate>Fri, 13 Nov 2015 19:18:00 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2015 19:18:00 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Jan 2016 23:59:02 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Jan 2016 23:59:02 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -30,6 +31,106 @@ Listen to StarTalk Radio podcasts on our website, www.startalkradio.net, and jus
       <link>http://startalkradio.net</link>
     </image>
     <itunes:category text="Science &amp; Medicine"/>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/239856271</guid>
+      <title>Extended Classic: Time Lords: The Science of Keeping Time with Chris Hardwick</title>
+      <pubDate>Thu, 31 Dec 2015 17:21:26 +0000</pubDate>
+      <link>https://soundcloud.com/startalk/extended-classic-time-lords-the-science-of-keeping-time-with-chris-hardwick</link>
+      <itunes:duration>00:53:56</itunes:duration>
+      <itunes:author>StarTalk Radio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Travel back in time to Season 2 as Neil Tyson and Chris Hardwick take a mind-bending journey into the science of time, from relativity and leap seconds, to neutrinos and time-telling oysters. Now with 12 new minutes of Neil, Bill Nye and Steven Soter in the “Cosmic Crib!”</itunes:summary>
+      <itunes:subtitle>Travel back in time to Season 2 as Neil Tyson and…</itunes:subtitle>
+      <description>Travel back in time to Season 2 as Neil Tyson and Chris Hardwick take a mind-bending journey into the science of time, from relativity and leap seconds, to neutrinos and time-telling oysters. Now with 12 new minutes of Neil, Bill Nye and Steven Soter in the “Cosmic Crib!”</description>
+      <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/239856271-startalk-extended-classic-time-lords-the-science-of-keeping-time-with-chris-hardwick.mp3" length="77848303"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000141417086-qu1yyc-original.jpg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/238921858</guid>
+      <title>Extended Classic: Holiday Lights</title>
+      <pubDate>Thu, 24 Dec 2015 07:44:11 +0000</pubDate>
+      <link>https://soundcloud.com/startalk/extended-classic-holiday-lights</link>
+      <itunes:duration>00:54:45</itunes:duration>
+      <itunes:author>StarTalk Radio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Neil Tyson celebrates the cosmic significance of the season, from the solstice to the Star of Bethlehem. Leighann Lord and Chuck Nice co host, with Seth MacFarlane and Brother Guy Consolmagno. Now with 12 minutes of Neil, Bill Nye and Steven Soter in the “Cosmic Crib!”</itunes:summary>
+      <itunes:subtitle>Neil Tyson celebrates the cosmic significance of …</itunes:subtitle>
+      <description>Neil Tyson celebrates the cosmic significance of the season, from the solstice to the Star of Bethlehem. Leighann Lord and Chuck Nice co host, with Seth MacFarlane and Brother Guy Consolmagno. Now with 12 minutes of Neil, Bill Nye and Steven Soter in the “Cosmic Crib!”</description>
+      <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/238921858-startalk-extended-classic-holiday-lights.mp3" length="79015940"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000140657625-ijuj9d-original.jpg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/238150014</guid>
+      <title>The Science of Creativity, with David Byrne</title>
+      <pubDate>Fri, 18 Dec 2015 18:23:45 +0000</pubDate>
+      <link>https://soundcloud.com/startalk/the-science-of-creativity-with-david-byrne</link>
+      <itunes:duration>00:56:54</itunes:duration>
+      <itunes:author>StarTalk Radio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Neil Tyson explores art, science and creativity with the help of musician and Talking Heads frontman David Byrne. Providing backup are cognitive scientist/pianist Dr. Mónica López-González, composer/programmer Prof. David Cope, and co-host Maeve Higgins, with a guest solo by Bill Nye.
+</itunes:summary>
+      <itunes:subtitle>Neil Tyson explores art, science and creativity w…</itunes:subtitle>
+      <description>Neil Tyson explores art, science and creativity with the help of musician and Talking Heads frontman David Byrne. Providing backup are cognitive scientist/pianist Dr. Mónica López-González, composer/programmer Prof. David Cope, and co-host Maeve Higgins, with a guest solo by Bill Nye.
+</description>
+      <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/238150014-startalk-the-science-of-creativity-with-david-byrne.mp3" length="82313036"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000140038366-sjmnnm-original.jpg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/237144007</guid>
+      <title>Expanding Our Perspectives, with Susan Sarandon</title>
+      <pubDate>Fri, 11 Dec 2015 21:11:50 +0000</pubDate>
+      <link>https://soundcloud.com/startalk/expanding-our-perspectives-with-susan-sarandon</link>
+      <itunes:duration>00:56:48</itunes:duration>
+      <itunes:author>StarTalk Radio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Ready to have your perspectives expanded, cosmically and otherwise? Neil deGrasse Tyson welcomes actress and activist Susan Sarandon, exoplanetary scientist Dr. Rebecca Oppenheimer, astrophysicist Dr. Emily Rice, Bill Nye and co-host Maeve Higgins.</itunes:summary>
+      <itunes:subtitle>Ready to have your perspectives expanded, cosmica…</itunes:subtitle>
+      <description>Ready to have your perspectives expanded, cosmically and otherwise? Neil deGrasse Tyson welcomes actress and activist Susan Sarandon, exoplanetary scientist Dr. Rebecca Oppenheimer, astrophysicist Dr. Emily Rice, Bill Nye and co-host Maeve Higgins.</description>
+      <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/237144007-startalk-expanding-our-perspectives-with-susan-sarandon.mp3" length="82900287"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000139240512-z84ybo-original.jpg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/236075078</guid>
+      <title>The Science of Illusion with Penn &amp; Teller</title>
+      <pubDate>Fri, 04 Dec 2015 16:59:24 +0000</pubDate>
+      <link>https://soundcloud.com/startalk/the-science-of-illusion-with-penn-teller</link>
+      <itunes:duration>00:53:01</itunes:duration>
+      <itunes:author>StarTalk Radio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Learn the secret of magic when Penn &amp; Teller sit down with Neil deGrasse Tyson. Chuck Nice and neuroscientist Susana Martinez-Conde join Neil in studio, Michael Shermer calls in about skepticism, and Bill Nye explains why we want to believe.</itunes:summary>
+      <itunes:subtitle>Learn the secret of magic when Penn &amp; Teller sit …</itunes:subtitle>
+      <description>Learn the secret of magic when Penn &amp; Teller sit down with Neil deGrasse Tyson. Chuck Nice and neuroscientist Susana Martinez-Conde join Neil in studio, Michael Shermer calls in about skepticism, and Bill Nye explains why we want to believe.</description>
+      <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/236075078-startalk-the-science-of-illusion-with-penn-teller.mp3" length="79076728"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000138401334-hnbqfo-original.jpg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234864076</guid>
+      <title>Extended Classic: Tour of the Solar System</title>
+      <pubDate>Thu, 26 Nov 2015 20:58:16 +0000</pubDate>
+      <link>https://soundcloud.com/startalk/extended-classic-tour-of-the-solar-system</link>
+      <itunes:duration>01:01:03</itunes:duration>
+      <itunes:author>StarTalk Radio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Join Neil deGrasse Tyson and Chuck Nice as they tour the solar system with Mars Exploration Rover principal investigator Steve Squyres and planetary scientist Heidi Hammel. Extended with an update on Pluto from Neil deGrasse Tyson and  10 minutes of new Cosmic Queries with Bill Nye and Chuck Nice!</itunes:summary>
+      <itunes:subtitle>Join Neil deGrasse Tyson and Chuck Nice as they t…</itunes:subtitle>
+      <description>Join Neil deGrasse Tyson and Chuck Nice as they tour the solar system with Mars Exploration Rover principal investigator Steve Squyres and planetary scientist Heidi Hammel. Extended with an update on Pluto from Neil deGrasse Tyson and  10 minutes of new Cosmic Queries with Bill Nye and Chuck Nice!</description>
+      <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/234864076-startalk-extended-classic-tour-of-the-solar-system.mp3" length="89155857"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000137481230-f3sjt0-original.jpg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/233942946</guid>
+      <title>The Science of Family Guy with Seth MacFarlane</title>
+      <pubDate>Fri, 20 Nov 2015 16:25:17 +0000</pubDate>
+      <link>https://soundcloud.com/startalk/the-science-of-family-guy-with-seth-macfarlane</link>
+      <itunes:duration>00:57:09</itunes:duration>
+      <itunes:author>StarTalk Radio</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Neil Tyson and his friend Seth MacFarlane delve into the science of “Family Guy”, from the Big Bang to the multiverse. Chuck Nice and Charles Liu join Neil in studio, Simon Singh calls in about math in “The Simpsons”, and Bill Nye gets super-heroic.</itunes:summary>
+      <itunes:subtitle>Neil Tyson and his friend Seth MacFarlane delve i…</itunes:subtitle>
+      <description>Neil Tyson and his friend Seth MacFarlane delve into the science of “Family Guy”, from the Big Bang to the multiverse. Chuck Nice and Charles Liu join Neil in studio, Simon Singh calls in about math in “The Simpsons”, and Bill Nye gets super-heroic.</description>
+      <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/233942946-startalk-the-science-of-family-guy-with-seth-macfarlane.mp3" length="56305502"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000136785165-s1j1pu-original.jpg"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/232920472</guid>
       <title>Exploring Science and Comedy with Larry Wilmore</title>

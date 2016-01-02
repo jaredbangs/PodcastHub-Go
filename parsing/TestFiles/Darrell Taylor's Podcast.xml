@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Darrell Taylor's Podcast</title>
     <link>http://noapologies1225.podomatic.com</link>
     <description></description>
     <language>en-us</language>
     <generator>podOmatic RSS Generator</generator>
-    <pubDate>Mon, 09 Dec 2013 01:21:33 GMT</pubDate>
-    <itunes:keywords>books,sci,comic,comics,fi,marvel,dc,Comedy,New York</itunes:keywords>
+    <pubDate>Wed, 16 Dec 2015 18:09:33 +0000</pubDate>
+    <itunes:keywords>comic,books,sci,fi,marvel,dc,comics,Comedy,New York</itunes:keywords>
     <itunes:subtitle>Give it a listen!</itunes:subtitle>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:block>no</itunes:block>
-    <itunes:image href="http://noapologies1225.podomatic.com/images/pcast240.jpg"/>
+    <itunes:image href="http://noapologies1225.podomatic.com/images/default/podcast-4-1400.png"/>
     <itunes:author>Darrell Taylor</itunes:author>
     <itunes:summary></itunes:summary>
     <itunes:category text="Comedy"/>
-    <atom:link type="application/rss+xml" href="http://noapologies1225.podomatic.com/rss2.xml" rel="self"/>
+    <atom:link href="http://noapologies1225.podomatic.com/rss2.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Noapologies( The Local edition)</title>
-      <description>
-        <![CDATA[<img src="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2725707.jpg" alt="itunes pic" /><br />This is the first of episodes where ill discuss the book Local by Brian Wood & Ryan Kelly.
-Chapters 1 "Ten Thousand Thoughts Per Second"
-Chapter 2 "Polaroid Boyfriend"
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2725707.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;This is the first of episodes where ill discuss the book Local by Brian Wood &amp; Ryan Kelly.
+Chapters 1 &quot;Ten Thousand Thoughts Per Second&quot;
+Chapter 2 &quot;Polaroid Boyfriend&quot;
 
 you can send me feedback to noapologies1225@gmail.com
-or my FaceBook page Noapologies podcast]]>
-      </description>
+or my FaceBook page Noapologies podcast</description>
       <guid isPermaLink="true">http://noapologies1225.podomatic.com/entry/2010-03-08T18_04_56-08_00</guid>
       <comments>http://noapologies1225.podomatic.com/entry/2010-03-08T18_04_56-08_00</comments>
-      <pubDate>Tue, 09 Mar 2010 02:04:56 GMT</pubDate>
-      <dcterms:modified>2010-03-09</dcterms:modified>
-      <dcterms:created>2010-03-09</dcterms:created>
+      <pubDate>Tue, 09 Mar 2010 02:04:56 +0000</pubDate>
+      <dcterms:modified>2013-12-05</dcterms:modified>
+      <dcterms:created>2013-12-05</dcterms:created>
       <link>http://noapologies1225.podomatic.com</link>
       <dc:creator>Darrell Taylor</dc:creator>
-      <itunes:keywords>local,brian,wood</itunes:keywords>
-      <enclosure url="http://noapologies1225.podomatic.com/enclosure/2010-03-08T18_04_56-08_00.mp3" type="audio/mpeg" length="9911114"/>
-      <itunes:image href="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2725707.jpg"/>
+      <itunes:keywords>local brian,wood</itunes:keywords>
+      <enclosure url="http://noapologies1225.podOmatic.com/enclosure/2010-03-08T18_04_56-08_00.mp3" length="9911114" type="audio/mpeg"/>
       <itunes:duration>619</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2725707.jpg"/>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
       <itunes:summary>This is the first of episodes where ill discuss the book Local by Brian Wood &amp; Ryan Kelly.
 Chapters 1 &quot;Ten Thousand Thoughts Per Second&quot;
 Chapter 2 &quot;Polaroid Boyfriend&quot;
@@ -50,24 +47,21 @@ Chapt...</itunes:subtitle>
     </item>
     <item>
       <title>Noapologies ep22</title>
-      <description>
-        <![CDATA[In this weeks episode we talk about the recent issue of Justice League
+      <description>In this weeks episode we talk about the recent issue of Justice League
 Cry for Justice and the surprise ending. We also throw in
 Namor,Buffygate,Valiant comics,Legion of Superheroes and the new Kevin
-Smith Green Hornet book.]]>
-      </description>
+Smith Green Hornet book.</description>
       <guid isPermaLink="true">http://noapologies1225.podomatic.com/entry/2010-03-07T17_22_37-08_00</guid>
       <comments>http://noapologies1225.podomatic.com/entry/2010-03-07T17_22_37-08_00</comments>
-      <pubDate>Mon, 08 Mar 2010 01:22:37 GMT</pubDate>
-      <dcterms:modified>2010-03-08</dcterms:modified>
-      <dcterms:created>2010-03-08</dcterms:created>
+      <pubDate>Mon, 08 Mar 2010 01:22:37 +0000</pubDate>
+      <dcterms:modified>2013-12-05</dcterms:modified>
+      <dcterms:created>2013-12-05</dcterms:created>
       <link>http://noapologies1225.podomatic.com</link>
       <dc:creator>Darrell Taylor</dc:creator>
       <itunes:keywords></itunes:keywords>
-      <enclosure url="http://noapologies1225.podomatic.com/enclosure/2010-03-07T17_22_37-08_00.mp3" type="audio/mpeg" length="158877624"/>
+      <enclosure url="http://noapologies1225.podOmatic.com/enclosure/2010-03-07T17_22_37-08_00.mp3" length="158877624" type="audio/mpeg"/>
       <itunes:duration>9929</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
       <itunes:summary>In this weeks episode we talk about the recent issue of Justice League
 Cry for Justice and the surprise ending. We also throw in
 Namor,Buffygate,Valiant comics,Legion of Superheroes and the new Kevin
@@ -77,45 +71,39 @@ Cry for Justice and the s...</itunes:subtitle>
     </item>
     <item>
       <title>Noapologies My Manifesto</title>
-      <description>
-        <![CDATA[<img src="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2710876.jpg" alt="itunes pic" /><br />This is my Manifesto for fandom]]>
-      </description>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2710876.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;This is my Manifesto for fandom</description>
       <guid isPermaLink="true">http://noapologies1225.podomatic.com/entry/2010-03-04T20_02_44-08_00</guid>
       <comments>http://noapologies1225.podomatic.com/entry/2010-03-04T20_02_44-08_00</comments>
-      <pubDate>Fri, 05 Mar 2010 04:02:44 GMT</pubDate>
-      <dcterms:modified>2010-03-05</dcterms:modified>
-      <dcterms:created>2010-03-05</dcterms:created>
+      <pubDate>Fri, 05 Mar 2010 04:02:44 +0000</pubDate>
+      <dcterms:modified>2013-12-05</dcterms:modified>
+      <dcterms:created>2013-12-05</dcterms:created>
       <link>http://noapologies1225.podomatic.com</link>
       <dc:creator>Darrell Taylor</dc:creator>
-      <itunes:keywords>comics,comics,xmen,wonder,marvel,woman,dc</itunes:keywords>
-      <enclosure url="http://noapologies1225.podomatic.com/enclosure/2010-03-04T20_02_44-08_00.mp3" type="audio/mpeg" length="27628508"/>
-      <itunes:image href="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2710876.jpg"/>
+      <itunes:keywords>marvel,comics xmen wonder,woman dc,comics</itunes:keywords>
+      <enclosure url="http://noapologies1225.podOmatic.com/enclosure/2010-03-04T20_02_44-08_00.mp3" length="27628508" type="audio/mpeg"/>
       <itunes:duration>1726</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2710876.jpg"/>
       <itunes:explicit>yes</itunes:explicit>
-      <itunes:order>3</itunes:order>
       <itunes:summary>This is my Manifesto for fandom</itunes:summary>
       <itunes:subtitle>This is my Manifesto for fandom</itunes:subtitle>
     </item>
     <item>
       <title>Noapologies ep21</title>
-      <description>
-        <![CDATA[<img src="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2702213.jpg" alt="itunes pic" /><br />Another masterpiece of geeky mayhem and this time Im joined by Geeks
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2702213.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Another masterpiece of geeky mayhem and this time Im joined by Geeks
 Unites Raph and Comic Timings Ian Levenstein. Im also joined by Ryan
-and Jesse from the 11oclocks forum.]]>
-      </description>
+and Jesse from the 11oclocks forum.</description>
       <guid isPermaLink="true">http://noapologies1225.podomatic.com/entry/2010-03-02T18_35_45-08_00</guid>
       <comments>http://noapologies1225.podomatic.com/entry/2010-03-02T18_35_45-08_00</comments>
-      <pubDate>Wed, 03 Mar 2010 02:35:45 GMT</pubDate>
-      <dcterms:modified>2010-03-03</dcterms:modified>
-      <dcterms:created>2010-03-03</dcterms:created>
+      <pubDate>Wed, 03 Mar 2010 02:35:45 +0000</pubDate>
+      <dcterms:modified>2013-12-05</dcterms:modified>
+      <dcterms:created>2013-12-05</dcterms:created>
       <link>http://noapologies1225.podomatic.com</link>
       <dc:creator>Darrell Taylor</dc:creator>
       <itunes:keywords></itunes:keywords>
-      <enclosure url="http://noapologies1225.podomatic.com/enclosure/2010-03-02T18_35_45-08_00.mp3" type="audio/mpeg" length="115211338"/>
-      <itunes:image href="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2702213.jpg"/>
+      <enclosure url="http://noapologies1225.podOmatic.com/enclosure/2010-03-02T18_35_45-08_00.mp3" length="115211338" type="audio/mpeg"/>
       <itunes:duration>7200</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/60/62/b9/noapologies1225/1400x1400_2702213.jpg"/>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
       <itunes:summary>Another masterpiece of geeky mayhem and this time Im joined by Geeks
 Unites Raph and Comic Timings Ian Levenstein. Im also joined by Ryan
 and Jesse from the 11oclocks forum.</itunes:summary>

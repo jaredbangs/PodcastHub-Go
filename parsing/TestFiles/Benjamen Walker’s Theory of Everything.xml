@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.prx.org/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.prx.org/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 
 <channel>
 	<title>Benjamen Walker’s Theory of Everything</title>
 	
 	<link>http://toe.prx.org</link>
 	<description>Personally connecting the dots. All of them.  Proud member of PRX’s Radiotopia.</description>
-	<lastBuildDate>Sat, 31 Oct 2015 01:11:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Dec 2015 17:20:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	
-<!-- podcast_generator="Blubrry PowerPress/6.0.5" mode="advanced" -->
+<!-- podcast_generator="Blubrry PowerPress/6.1" mode="advanced" -->
 	<itunes:summary>Personally connecting the dots. All of them.
 Proud member of PRX's Radiotopia.</itunes:summary>
 	<itunes:author>Benjamen Walker</itunes:author>
@@ -32,8 +32,80 @@ Proud member of PRX's Radiotopia.</itunes:summary>
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals" />
 	</itunes:category>
-		<rawvoice:location>New York, NY</rawvoice:location>
+	<rawvoice:location>New York, NY</rawvoice:location>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.prx.org/TOE" /><feedburner:info uri="toe" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>70×7 (Holy War part II of II)</title>
+		<link>http://feeds.prx.org/~r/TOE/~3/ME7cHn447jY/</link>
+		<comments>http://toe.prx.org/2015/12/70x7-holy-war-part-ii-of-ii/#comments</comments>
+		<pubDate>Tue, 29 Dec 2015 17:20:04 +0000</pubDate>
+		<dc:creator><![CDATA[Benjamen Walker]]></dc:creator>
+				<category><![CDATA[Theory Of Everything]]></category>
+
+		<guid isPermaLink="false">http://toe.prx.org/?p=700</guid>
+		<description><![CDATA[The second half of our  sly-fi story about redemption, forgiveness and torture.  Margo hopes to leave Christian America with Ali Baba ( a terrorist clone she was given as recompense for the death of her husband). But can they escape before evil Freddie catches wind of their plans? Plus a meditation on the parable of the unforgiving servant.]]></description>
+				<content:encoded><![CDATA[<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239569521&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe><br />
+The second half of our  sly-fi story about redemption, forgiveness and torture.  Margo hopes to leave Christian America with Ali Baba ( a terrorist clone she was given as recompense for the death of her husband). But can they escape before evil Freddie catches wind of their plans? Plus a meditation on the parable of the unforgiving servant.</p>
+<p><img class="alignnone size-full wp-image-701" src="http://toe.prx.org.s3.amazonaws.com/wp-content/uploads/holywar2.jpg?71eaef" alt="holywar2" width="640" height="360" /></p>
+<img src="http://feeds.feedburner.com/~r/TOE/~4/ME7cHn447jY" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://toe.prx.org/2015/12/70x7-holy-war-part-ii-of-ii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>The second half of our  sly-fi story about redemption, forgiveness and torture.  Margo hopes to leave Christian America with Ali Baba ( a terrorist clone she was given as recompense for the death of her husband).</itunes:subtitle>
+		<itunes:summary>The second half of our  sly-fi story about redemption, forgiveness and torture.  Margo hopes to leave Christian America with Ali Baba ( a terrorist clone she was given as recompense for the death of her husband). But can they escape before evil Freddie catches wind of their plans? Plus a meditation on the parable of the unforgiving servant.</itunes:summary>
+		<itunes:author>Benjamen Walker</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>26:57</itunes:duration>
+	<feedburner:origLink>http://toe.prx.org/2015/12/70x7-holy-war-part-ii-of-ii/</feedburner:origLink><enclosure url="http://feeds.prx.org/~r/TOE/~5/I9frLUntuJ0/toe58holywar2.mp3" length="25870836" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/toe/cdn.toe.prx.org/wp-content/uploads/toe58holywar2.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Alaska Is Closer (Holy War part I of II)</title>
+		<link>http://feeds.prx.org/~r/TOE/~3/fpzXuiRl3Mk/</link>
+		<comments>http://toe.prx.org/2015/12/alaska-is-closer-holy-war-part-i-of-ii/#comments</comments>
+		<pubDate>Tue, 22 Dec 2015 16:35:36 +0000</pubDate>
+		<dc:creator><![CDATA[Benjamen Walker]]></dc:creator>
+				<category><![CDATA[Theory Of Everything]]></category>
+
+		<guid isPermaLink="false">http://toe.prx.org/?p=693</guid>
+		<description><![CDATA[As 2015 winds down we offer you a story about redemption, forgiveness and torture. When Margo&#8217;s husband is killed in a terrorist attack, she is given Ali Baba, a terrorist clone. This is how it works in Christian America in this piece of speculative fiction (although we like the term Sly-fi). Will Margo use her new Walmart deluxe torture [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/238677183&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+<p>As 2015 winds down we offer you a story about redemption, forgiveness and torture. When Margo&#8217;s husband is killed in a terrorist attack, she is given Ali Baba, a terrorist clone. This is how it works in Christian America in this piece of speculative fiction (although we like the term Sly-fi). Will Margo use her new Walmart deluxe torture kit? Or does she have a greater plan? Also your host declares war on God!</p>
+<p><img class="alignnone size-full wp-image-695" src="http://toe.prx.org.s3.amazonaws.com/wp-content/uploads/Crusade.jpg?71eaef" alt="Crusade" width="1600" height="794" /></p>
+<img src="http://feeds.feedburner.com/~r/TOE/~4/fpzXuiRl3Mk" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://toe.prx.org/2015/12/alaska-is-closer-holy-war-part-i-of-ii/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+
+		<itunes:subtitle>As 2015 winds down we offer you a story about redemption, forgiveness and torture. When Margo's husband is killed in a terrorist attack, she is given Ali Baba, a terrorist clone. This is how it works in Christian America in this piece of speculative fi...</itunes:subtitle>
+		<itunes:summary>As 2015 winds down we offer you a story about redemption, forgiveness and torture. When Margo's husband is killed in a terrorist attack, she is given Ali Baba, a terrorist clone. This is how it works in Christian America in this piece of speculative fiction (although we like the term Sly-fi). Will Margo use her new Walmart deluxe torture kit? Or does she have a greater plan? Also your host declares war on God!</itunes:summary>
+		<itunes:author>Benjamen Walker</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>36:53</itunes:duration>
+	<feedburner:origLink>http://toe.prx.org/2015/12/alaska-is-closer-holy-war-part-i-of-ii/</feedburner:origLink><enclosure url="http://feeds.prx.org/~r/TOE/~5/k23gYc2rmbc/toe57holywar1.mp3" length="35406993" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/toe/cdn.toe.prx.org/wp-content/uploads/toe57holywar1.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>New York After Rent (post prop f director’s cut)</title>
+		<link>http://feeds.prx.org/~r/TOE/~3/rH8DfqUzIsg/</link>
+		<comments>http://toe.prx.org/2015/11/new-york-after-rent-post-prop-f-directors-cut/#comments</comments>
+		<pubDate>Wed, 25 Nov 2015 06:32:19 +0000</pubDate>
+		<dc:creator><![CDATA[Benjamen Walker]]></dc:creator>
+				<category><![CDATA[Theory Of Everything]]></category>
+
+		<guid isPermaLink="false">http://toe.prx.org/?p=687</guid>
+		<description><![CDATA[Now that Airbnb has proved it can beat regulation we return to the post-gentrified city. Two! new segments:  we meet a landlord (named Benny) who built an illegal artists space in Bushwick, and we visit Astor Place, the embodiment of the New New York, with writer Ada Calhoun (Saint Marks is Dead). &#160;]]></description>
+				<content:encoded><![CDATA[<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/234618298&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+<p>Now that Airbnb has proved it can beat regulation we return to the post-gentrified city. Two! new segments:  we meet a landlord (named Benny) who built an illegal artists space in Bushwick, and we visit Astor Place, the embodiment of the New New York, with writer Ada Calhoun (Saint Marks is Dead).</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-688" src="http://toe.prx.org.s3.amazonaws.com/wp-content/uploads/astorplace.jpg?71eaef" alt="astorplace" width="500" height="333" /></p>
+<img src="http://feeds.feedburner.com/~r/TOE/~4/rH8DfqUzIsg" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://toe.prx.org/2015/11/new-york-after-rent-post-prop-f-directors-cut/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+
+		<itunes:subtitle>Now that Airbnb has proved it can beat regulation we return to the post-gentrified city. Two! new segments:  we meet a landlord (named Benny) who built an illegal artists space in Bushwick, and we visit Astor Place, the embodiment of the New New York,</itunes:subtitle>
+		<itunes:summary>Now that Airbnb has proved it can beat regulation we return to the post-gentrified city. Two! new segments:  we meet a landlord (named Benny) who built an illegal artists space in Bushwick, and we visit Astor Place, the embodiment of the New New York, with writer Ada Calhoun (Saint Marks is Dead).
+
+ </itunes:summary>
+		<itunes:author>Benjamen Walker</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:09:36</itunes:duration>
+	<feedburner:origLink>http://toe.prx.org/2015/11/new-york-after-rent-post-prop-f-directors-cut/</feedburner:origLink><enclosure url="http://feeds.prx.org/~r/TOE/~5/dco62LpgGE8/toe57rentdircut.mp3" length="66812028" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/toe/cdn.toe.prx.org/wp-content/uploads/toe57rentdircut.mp3</feedburner:origEnclosureLink></item>
+		<item>
 		<title>The things we do for money</title>
 		<link>http://feeds.prx.org/~r/TOE/~3/49N9dXaln34/</link>
 		<comments>http://toe.prx.org/2015/10/the-things-we-do-for-money/#comments</comments>
@@ -49,7 +121,7 @@ Proud member of PRX's Radiotopia.</itunes:summary>
 <p>image: Celeste Lai</p>
 <img src="http://feeds.feedburner.com/~r/TOE/~4/49N9dXaln34" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://toe.prx.org/2015/10/the-things-we-do-for-money/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<slash:comments>1</slash:comments>
 
 		<itunes:subtitle>Allen Ginsberg tries his hand at Market Research,  Walter Benjamin goes on the radio and ToE's Chris drops in on a new bar in DC called the Freedom Cock. Also visit radiotopia.fm and become a sustaining member today! - image: Celeste Lai</itunes:subtitle>
 		<itunes:summary>Allen Ginsberg tries his hand at Market Research,  Walter Benjamin goes on the radio and ToE's Chris drops in on a new bar in DC called the Freedom Cock. Also visit &lt;a href="http://radiotopia.fm"&gt;radiotopia.fm&lt;/a&gt; and become a sustaining member today!
@@ -359,7 +431,7 @@ In the sharing economy no one  can hear you work. This is because companies li
 			<wfw:commentRss>http://toe.prx.org/2015/06/instaserfs-i-of-iii/feed/</wfw:commentRss>
 		<slash:comments>19</slash:comments>
 
-		<itunes:subtitle>In the sharing economy no one  can hear you work. This is because companies like Uber, Lyft, Postmates and others only employ "partners" or independent contractors. So your host decided to partner with Andrew Callaway, a 25 year old San Francisco native,</itunes:subtitle>
+		<itunes:subtitle>In the sharing economy no one  can hear you work. This is because companies like Uber, Lyft, Postmates and others only employ "partners" or independent contractors. So your host decided to partner with Andrew Callaway,</itunes:subtitle>
 		<itunes:summary>In the sharing economy no one  can hear you work. This is because companies like Uber, Lyft, Postmates and others only employ "partners" or independent contractors. So your host decided to partner with Andrew Callaway, a 25 year old San Francisco native, to find out what its like to work in the sharing economy. As the official ToE instapoder Andrew will drive, shop, clean, deliver, and serve for a whole month, and he’s going to record his entire experience.  Plus in this episode technology journalist Sarah Lacey tells us the truth about Uber.
 
 &lt;a href="https://medium.com/@benjamenwalker/instaserfs-i-of-iii-25540f0f1b43"&gt;&lt;/a&gt;
@@ -424,7 +496,7 @@ Thanks to our sponsors &lt;a href="http://www.parachutehome.com/theory"&gt;http
 			<wfw:commentRss>http://toe.prx.org/2015/05/art-de-vivre-i-of-ii/feed/</wfw:commentRss>
 		<slash:comments>4</slash:comments>
 
-		<itunes:subtitle>The voice of the ToE episode announcer revealed! (her name is Mathilde)  and she joins our host for this two part series about the intersection between France and China and wine. The story of the red obsession of Wealthy Chinese has been told many times,</itunes:subtitle>
+		<itunes:subtitle>The voice of the ToE episode announcer revealed! (her name is Mathilde)  and she joins our host for this two part series about the intersection between France and China and wine. The story of the red obsession of Wealthy Chinese has been told many time...</itunes:subtitle>
 		<itunes:summary>The voice of the ToE episode announcer revealed! (her name is Mathilde)  and she joins our host for this two part series about the intersection between France and China and wine. The story of the red obsession of Wealthy Chinese has been told many times, but what is going to happen when China's elusive emerging middle class gets wine fever? Can wine transmit cultural values? Can it transcend consumerism?  In this installment Benjamen and  Mathilde traverse France to discover this vino nouvelle vague.
 
 Thanks to our sponsors &lt;a href="http://www.parachutehome.com/theory"&gt;http://www.parachutehome.com/theory&lt;/a&gt; and &lt;a href="https://casper.com/theory"&gt;https://casper.com/theory&lt;/a&gt;
@@ -850,7 +922,7 @@ The Dislike Club is  a story-in-progress, it will play out on the podcast over 
 			<wfw:commentRss>http://toe.prx.org/2014/11/backspace-to-the-future-the-dislike-club-part-i/feed/</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 
-		<itunes:subtitle>Paul Ford is a technologist and a writer, sometimes these two things blur. For example, he’s currently working on a book about webpages, but he’s also building a content management system for webpages -  because you know it could help with the writing.</itunes:subtitle>
+		<itunes:subtitle>Paul Ford is a technologist and a writer, sometimes these two things blur. For example, he’s currently working on a book about webpages, but he’s also building a content management system for webpages -  because you know it could help with the writing....</itunes:subtitle>
 		<itunes:summary>Paul Ford is a technologist and a writer, sometimes these two things blur. For example, he’s currently working on a book about webpages, but he’s also building a content management system for webpages -  because you know it could help with the writing.  (yeah his book is late) Its not like he's trying to procrastinate, this is just what life is like when you are Paul Ford.  A couple of Monday night's ago he was sitting on his couch drinking some rye whisky and chatting with his friends on twitter  and he accidentally a brand new webpage community.  This is the true origin story of his tilde.club. Yours truly also started a new thing it is called dislike.club. We also check in with Librarian and community manager Jessamyn West for advice on how to start an online community that doesn't suck.
 
 &lt;a href="http://toe.prx.org/wp-content/uploads/Screen-shot-2014-11-14-at-12.03.46-PM.png"&gt;&lt;/a&gt;

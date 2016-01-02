@@ -6,7 +6,7 @@
 	
 	<link>http://www.storycentral.org/</link>
 	<description>From Lea Thau, Peabody award-winning producer and creator of The Moth Podcast and The Moth Radio Hour, comes her new storytelling baby, Strangers, part of KCRW’s Independent Producer Project and of PRX’s Radiotopia network. Each episode is an empathy shot in your arm, featuring true stories about about the people we meet, the connections we make, the heartbreaks we suffer, the kindnesses we encounter, and those frightful moments when we discover that WE aren’t even who we thought we were.</description>
-	<lastBuildDate>Fri, 06 Nov 2015 22:31:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Dec 2015 16:10:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -34,6 +34,27 @@
 	</itunes:category>
 		<rawvoice:location>New York, NY</rawvoice:location>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.strangersnomore.org/StrangersNoMore" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="strangersnomore" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Left Right Black White</title>
+		<link>http://strangers.prx.org/2015/12/left-right-black-white/</link>
+		<comments>http://strangers.prx.org/2015/12/left-right-black-white/#comments</comments>
+		<pubDate>Fri, 04 Dec 2015 16:10:59 +0000</pubDate>
+		<dc:creator><![CDATA[Lea Thau]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://strangers.prx.org/?p=1242</guid>
+		<description><![CDATA[A stereotypical, Whole-Foods-shopping, NPR-listening liberal finds herself in an alliance of Republicans.]]></description>
+				<content:encoded><![CDATA[<p class="p1"><span class="s1">A stereotypical, Whole-Foods-shopping, NPR-listening liberal finds herself in an alliance of Republicans.</span></p>
+]]></content:encoded>
+			<wfw:commentRss>http://strangers.prx.org/2015/12/left-right-black-white/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/strangersnomore/cdn.strangers.prx.org/wp-content/uploads/Strangers68_LeftRightBlackWhite.mp3" length="36526208" type="audio/mpeg" />
+		<itunes:subtitle>A stereotypical, Whole-Foods-shopping, NPR-listening liberal finds herself in an alliance of Republicans.</itunes:subtitle>
+		<itunes:summary>A stereotypical, Whole-Foods-shopping, NPR-listening liberal finds herself in an alliance of Republicans.</itunes:summary>
+		<itunes:author>Lea Thau</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>38:03</itunes:duration>
+	</item>
+		<item>
 		<title>A Portrait of the Artist as a Young Woman</title>
 		<link>http://strangers.prx.org/2015/11/a-portrait-of-the-artist-as-a-young-woman/</link>
 		<comments>http://strangers.prx.org/2015/11/a-portrait-of-the-artist-as-a-young-woman/#comments</comments>

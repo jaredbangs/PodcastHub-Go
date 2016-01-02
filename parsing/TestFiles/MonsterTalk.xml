@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="http://monstertalk.skeptic.com/rss" rel="self" type="application/rss+xml"/>
 		<title>MonsterTalk</title>
-		<pubDate>Wed, 15 Jul 2015 07:00:00 +0000</pubDate>
-		<lastBuildDate>Fri, 13 Nov 2015 10:02:03 +0000</lastBuildDate>
+		<pubDate>Wed, 30 Dec 2015 08:00:00 +0000</pubDate>
+		<lastBuildDate>Wed, 30 Dec 2015 08:01:47 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://www.skeptic.com/podcasts/monstertalk/</link>
 		<language>en</language>
@@ -30,6 +30,21 @@
 		<description><![CDATA[Presented by SKEPTIC magazine, MonsterTalk is a free audio podcast that critically examines the science behind cryptozoological (and legendary) creatures, such as Bigfoot, the Loch Ness Monster, or werewolves. ]]></description>
 		<itunes:subtitle><![CDATA[MonsterTalk]]></itunes:subtitle>
 				<item>
+			<title>Christmas Special # 3:  Pickman's Model</title>
+			<pubDate>Wed, 30 Dec 2015 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[14ec979866e856df7d28f52ddad7d502]]></guid>
+			<link><![CDATA[http://www.skeptic.com/podcasts/monstertalk/15/12/30/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/0/c/1/7/0c179cf782345abf/complete-fiction-of-hp-lovecraft-cover.jpg" />
+			<description><![CDATA[<p>In this <em>MonsterTalk</em> Christmas Special episode, Blake Smith reads aloud <em><a title="Order it from Amazon" href="http://amzn.to/1QFBjFq">Pickman’s Model</a></em>, a story by H.P. Lovecraft and gives a brief update about the <em>MonsterTalk</em> podcast.</p>
+<p><a style="margin: 0; font-style: normal; width: 200px;" href="http://www.skeptic.com/podcasts/monstertalk/15/12/30/"> Read the episode notes </a></p>]]></description>
+			<enclosure length="29044497" type="audio/mpeg" url="http://traffic.libsyn.com/skeptic/MonsterTalk_ChristmasSpecial_003.mp3" />
+			<itunes:duration>32:55</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[In this MonsterTalk Christmas Special episode, Blake Smith reads aloud Pickman’s Model, a story by H.P. Lovecraft and gives a brief update about the MonsterTalk podcast.
+ Read the episode notes]]></itunes:subtitle>
+					</item>
+		<item>
 			<title>Conclusions (Episode 100)</title>
 			<pubDate>Wed, 15 Jul 2015 07:00:00 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[fff39fe033ede8cff32fa8336abb6948]]></guid>

@@ -12,12 +12,329 @@
 	<atom:link href="http://gettingthingsdone.com/feed/?usm=1" rel="self" type="application/rss+xml" />
 	<link>http://gettingthingsdone.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 13 Nov 2015 00:52:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Dec 2015 23:02:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.2</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Email Best Practices for Teams</title>
+		<link>http://gettingthingsdone.com/2015/12/email-best-practices-for-teams/</link>
+		<comments>http://gettingthingsdone.com/2015/12/email-best-practices-for-teams/#comments</comments>
+		<pubDate>Fri, 18 Dec 2015 18:47:13 +0000</pubDate>
+		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
+				<category><![CDATA[Productivity Tips]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[Email Best Practices]]></category>
+		<category><![CDATA[email management]]></category>
+		<category><![CDATA[GTD for Teams]]></category>
+		<category><![CDATA[Implementing GTD]]></category>
+
+		<guid isPermaLink="false">http://gettingthingsdone.com/?p=14295</guid>
+		<description><![CDATA[A client asked me for our best practices around email communications, to share with their globally dispersed teams. They had learned the keys to getting to inbox zero, but their productivity was stymied by the sheer volume of unproductive emails being sent around the company. These tips were born out of the shared practices we use here at [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright wp-image-14296 colorbox-14295" src="http://gettingthingsdone.com/wp-content/uploads/2015/12/photo-1444201716572-c60ec66d0494-2-300x155.jpeg" alt="photo-1444201716572-c60ec66d0494-2" width="500" height="259" />A client asked me for our best practices around email communications, to share with their globally dispersed teams.</p>
+<p>They had learned the keys to getting to inbox zero, but their productivity was stymied by the sheer volume of unproductive emails being sent around the company. These tips were born out of the shared practices we use here at the David Allen Company with our own staff, and I wanted to share them with the GTD community.</p>
+<p><strong>1. Appropriate Use</strong><br />
+Match the message to the best medium. Recognize when email is not the best method of communicating. There are times when a face-to-face meeting is better than a string of unclear or sensitive emails going back and forth. Just because the topic started on email, doesn’t mean it should stay on email. On the flip side, are there meetings being held that could be more efficiently be done over email if you trusted people were getting to inbox zero on a regular basis? (See David Allen’s article on Getting Email Under Control for great tips on that.)</p>
+<p><strong>2. To: vs. Cc:</strong><br />
+Be discerning about your use of To: vs. Cc:. Why? Ever receive an email where it’s unclear who has the action because everyone is in the “To:” field? We designate the To: field for who has the action (could be multiple people). Cc: is simply for their information—with no expectation that they will take action on the email, other than receive it. Personally, I find I am much more conscious about what I am asking for, and from whom, when I clearly delineate between who has action and who just needs to receive the information. And, I appreciate when that distinction is made for me in return. I’m still processing the email to get to inbox zero, but it’s very clear to me that no action is expected of me in return.</p>
+<p><strong>3. Subject Lines</strong><br />
+Use clear subject lines that clearly describe the topic. I bet you’ve had times when you’ve done an emergency scan of your email (particularly on your mobile device) and appreciated having clear subject lines (versus the proverbial “checking in” or “update”). Also, don’t be afraid to change subject lines if the topic has changed and you want to make the it clearer what the email string is about. While it might have initially started as “checking in,” now it’s moved into the “Q3 budget”–change the subject line to reflect that. Another spin on effective subject lines is to use code to indicate the end of a message, when appropriate. This kind of kind of code, such as “EOM,” can be useful for those times when you just need to send a quick bit of information back to someone<br />
+and it can be done through the email subject line. For example, for short responses such as acknowledging with “thanks” or<br />
+“I’m on it.” simply append your subject line with “EOM” after your text, to indicate “end of message.” What that means to the<br />
+person receiving it is that everything that need to know is in the subject line and they can process it based on what they are<br />
+seeing in the subject line, without even opening the email. For example: “Re: I posted Q2 spreadsheets to the database.<br />
+—THANKS! GOT IT. EOM”</p>
+<p><strong>4. Reply to All</strong><br />
+Resist the urge to simply click reply to all, if not everyone needs to receive your reply. Many clients tell us that their staff seem to use the Reply to All function because it’s quick and easy, not because it’s productive. On the flip side, if you’re sending emails to your designated groups, pause to consider if everyone in that group (and subsequent replies to all) really need to be receiving that email. Are their roles in the company relevant to the information? If you’re not sure, ask them. I bet they will appreciate being asked about what they are getting to help with their own email management. Another tip to avoid the Reply to All cycle is to use the Bcc: field for all recipients, when appropriate. That way only the sender will receive the replies.</p>
+<p><strong>5. Response Times</strong><br />
+What are your agreed upon response times for internal and external communications? If that’s never been made explicit, there’s a good chance those who think it’s “ASAP” are feeling resentful about the ones who think it’s “when I can get to it” and think they are breaking an agreement. And the “when I can get to it” folks get annoyed by the “ASAP” folks who ask them in the hallway, “Did you get my email?”</p>
+<p>At the David Allen Company, we have a standard to reply within two business days to all internal communications. And, it’s important to note that responding doesn’t mean completing the action. It may just be a simple acknowledgment of “I’m on it” so the other person can relax about it. Two business days is our standard that works for us. You may find you need a shorter or longer time period in your organization. The key here is not about the time, but having an agreement that’s explicit so that everyone is clear about the rules to play by.</p>
+<p>I hope these best practices have been useful for you. I encourage you to take these ideas back to your team and organization. Get some healthy debates going about them! Adapt them to make them more your own.</p>
+<p>–Kelly Forrister, Senior GTD Coach &amp; Trainer</p>
+]]></content:encoded>
+			<wfw:commentRss>http://gettingthingsdone.com/2015/12/email-best-practices-for-teams/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Podcast #10 &#8211; Improving an Organization with GTD</title>
+		<link>http://gettingthingsdone.com/2015/12/podcast-10-improving-organization-with-gtd/</link>
+		<comments>http://gettingthingsdone.com/2015/12/podcast-10-improving-organization-with-gtd/#comments</comments>
+		<pubDate>Wed, 09 Dec 2015 18:06:58 +0000</pubDate>
+		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
+				<category><![CDATA[Community Stories]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://gettingthingsdone.com/?p=14272</guid>
+		<description><![CDATA[In this podcast interview, you'll hear Bob Hendriksen talking with Mike Williams. Bob is a plant manager for Steelcase, and a complete GTD enthusiast. He has a keen interest in improving systems, with an emphasis on 'lean' production. He discusses how lean improves flow to reduce waste, and points out that GTD is all about improving the mental flow. You'll also hear how Bob applies GTD in his work and life.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://gettingthingsdone.com/wp-content/uploads/2015/12/Hendriksen-2.jpeg"><img class="alignnone wp-image-14273 size-full colorbox-14272" src="http://gettingthingsdone.com/wp-content/uploads/2015/12/Hendriksen-2.jpeg" alt="" width="550" height="275" /></a></p>
+<p>In this podcast interview, Mike Williams chats with Bob Hendriksen, plant manager for Steelcase, about Bob&#8217;s GTD practice, how the methodology is becoming a key part of the culture of his company, navigating the Weekly Review when you get interrupted, and more.</p>
+<h2>Listen Now</h2>
+<div id="video-container"><iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/3963450/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" width="640" height="360" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
+<h2></h2>
+<h2>Subscribe or Download</h2>
+<p><a href="https://itunes.apple.com/us/podcast/getthing-things-done/id999098861" target="_blank">iTunes</a><br />
+<a href="http://www.stitcher.com/s?fid=66868&amp;refid=stpr" target="_blank">Stitcher</a><br />
+<a href="http://gettingthingsdone.libsyn.com/" target="_blank">Lisbyn</a></p>
+<h2>Podcast Transcript</h2>
+<p>PODCAST WITH BOB HENDRIKSEN<br />
+MIKE WILLIAMS: Hello everybody. Mike Williams here, back with another GTD Slice Of Life and today I am joined by Bob Hendriksen of Steelcase and Bob and I met oh a couple months ago now when David Allen and I went to Steelcase and had a tour. David did an event and I walked away just thinking, “Wow! Bob you’ve got a lot of really cool stuff going on there and this would be a wonderful conversation to bring to the GTD community.<br />
+So what we’d like to do here today is just have a Slice of Life conversation and explore what’s going on in your world. So as we set the context for this, Bob, why don’t you tell us a little bit about yourself, who you are, what’s your position, anything else you’d like to share in that domain?<br />
+BOB HENDRIKSEN: Thanks Mike. Well, I’m 45 years old and I’ve worked with Steelcase for 27 years, so I started right out of high school and I’ve got three amazing kids, two 17 year-olds and a 12 year-old and uh working on getting them into using GTD.<br />
+What I do here at Steelcase is I’m in charge of one of our factories, so we’ve got five factories around North America and others around the world and the one that I’m responsible for makes file cabinets and desks and various other forms of office furniture.<br />
+MIKE WILLIAMS: Wonderful, and uh just for context, I have a 17 year-old and I have a 13 year-old, a daughter and a son. Are your 17 year-olds seniors – gonna be seniors this year?<br />
+BOB HENDRIKSEN: Yeah, one a senior and one we adopted from Russia …<br />
+MIKE WILLIAMS: Uh huh.<br />
+BOB HENDRIKSEN: … five years ago. He’s gonna be a junior.<br />
+MIKE WILLIAMS: Good, good. So you’re in that senior year transition stage as well. Maybe we can play with that towards the end or something.<br />
+BOB HENDRIKSEN: Yeah, two girls and a boy on my side.<br />
+MIKE WILLIAMS: Two girls and a boy, okay.<br />
+And let’s just jump right in, because one of the things that really caught my attention when I was at Steelcase was your role as a Lean Leader, uh and in some of the TQM stuff that you’ve done, Total Quality Management stuff that you’ve done in the past and I always love connecting with people in that community and how does GTD look through that lens. So as part of the context for that conversation, I just want to carve that out as a big bucket we’d like to pursue, but before we jump really into that, how the heck did you even find GTD? When and where – what was ground zero for you, you know; where were you in your career and how did you intersect with David Allen’s work?<br />
+BOB HENDRIKSEN: Well I had been interested in this type of thing as a young leader and getting very, very busy with work responsibilities and such and I had read a book called The Ten Natural Laws of Time and Life Management, I think it was called by Hyrum Smith and I was a Franklin Planner user, but I kind of outgrew it and as my responsibilities increased, you know, A, B, C, 1, 2, 3, wasn’t cutting it anymore and then a good friend of mine, a guy named Rush Sharda, who – one of the most brilliant people I know said, “You gotta read this! This – this guy’s figured it out.”<br />
+And I said, “Figured what out?”<br />
+He said, “Life! Everything!”<br />
+I said, “Wow!” and uh like I said, I really respected his opinion and so I read it. I was like, “Wow! This is really practical and usable.” So I went about trying to make changes to my system and really thought I was following it for a number of years and then about uh five years ago, our HR guy asked me to teach my quirky system to our staff – to my team. And I said, “They don’t need that. They’ve all got their own way of accomplishing things and they don’t seem to be particularly stressed.”<br />
+And he said, “Oh, they’ve got you fooled Bob. They’re just hiding it well. So why don’t you go ahead and teach it?”<br />
+Well before I did that, I re-read the book for the second time and realized I had missed 80 or 90% of it the first time through and so really started trying to apply all of it in earnest and then shared it with my team and it was tremendously beneficial to them and been a huge advocate and tell everybody about it. I’ve put the book in more people’s hands than I even know …<br />
+MIKE WILLIAMS: You have.<br />
+BOB HENDRIKSEN: … or even remember.<br />
+MIKE WILLIAMS: Oh that’s great. I remember saying the same exact words when I read David’s book for the first time. I walked upstairs and said to my wife, “This guy’s got it figured out! This guy’s got it figured out!”<br />
+BOB HENDRIKSEN: Yeah.<br />
+MIKE WILLIAMS: Everything, you know, all the stuff and I think I scared her away for like three years because I was so enthusiastic about what I had just read. And then I was working at General Electric at the time. Then I went back to my office and the next two days I just put everything in the in-box and processed it into the new system and started my practice from that day forward, but I specifically remembering this guy is gonna help me clear out the runway level stuff that’s been clogging me up.<br />
+And then the other thing you mentioned too is it sounded like at that point in your career, because you did such a great job beforehand, you got rewarded with more work and then just going back to the personal side of your life, it sounds like you had kids and it got more complex, so …<br />
+BOB HENRIKSEN: Absolutely.<br />
+MIKE WILLAIMS: … you needed something right? And I’ve had multiple GTDer’s say that as they read the book once and then once they read it again it’s a whole different book for them. It’s a full context for it.<br />
+BOB HENDRIKSEN: Ha, ha, oh absolutely! I think I’ve read it about five times now and I get more out of it every time.<br />
+MIKE WILLIAMS: Yeah, yeah, no …<br />
+BOB HENRIKSEN: The same thing with Making it All Work. The first time I reads it I maybe wasn’t ready with my practices at that point and then went back and re-read that as well and it opened up, you know, the whole perspective side really, where I had been very focused on the control side of GTD, even though he talks about it with the Horizons of Focus and The Natural Planning Model and everything in the first book, just expanding on it in Making it All Work, really helpful.<br />
+MIKE WILLIAMS: That’s great. I love the in between book too, Ready for Anything. Have you read that book?<br />
+BOB HENRIKSEN: Oh yes, with all the quotes and yeah – super.<br />
+MIKE WILLIAMS: Oh and the stories, uh I’m heading out to Chicago next week to teach our level II training, which is Projects and Priorities and we focus on Areas of Focus, we focus on Natural Planning Model, we focus on stalking the wild projects that may not be on your project list yet. So between those two books, gaining that higher level of perspective and the next version of your GTD game, it gets really exciting. So I’m excited to be …<br />
+BOB HENDRIKSEN: Really!<br />
+MIKE WILLIAMS: … going out there for that. Um, let’s – okay I’m gonna shift gears here a little bit. Now I’d love to, I’m reflecting back and I’m walking back into your facility and one of the things that I notice when I was – uh when you were giving us our tour was, first of all we walked in your office and then I started seeing all this really cool ambient information, reminders about the GTD work flow. I think you had the work flow map up in your office as a reminder. You definitely had your cockpit set up with your in-box and such. So that was your personal space and then I remember walking into what I believe you called The Nerve Center. And The Nerve Center, for folks on the podcast, is this beautiful wooden table, kind of oval table and then on the outside of the – the walls is all this wonderful ambient information that I’d like to explore with you, but right in the middle of the table, etched in the table is, “What’s your desired outcome? What’s your next action?”<br />
+And when David and I saw that, we’re like, “How cool is that?”<br />
+So, let’s start exploring here. So tell us a little bit about – I’d like to go to the team aspect of GTD and I’d also like to explore the Lean aspect of GTD. What would you like to start with first?<br />
+BOB HENDRIKSEN: Let’s go with Lean I guess.<br />
+MIKE WILLIAMS: Okay, so you’re an experienced Lean Leader. One of the things that we found is there’s a lot of GTD passion within the Lean community. So what does GTD look like and if you were to process it through the Lean lens, what are some things that pop to mind for you?<br />
+BOB HENDRIKSEN: So Lean is a methodology developed by the Toyota Motor Corporation largely to process improvement approach to increasing value through the eyes of the customers where they start the discussion. And it was developed over years and years at Toyota and then some researchers at MIT discovered it and coined the term Lean, but it’s all about you know, increasing value and doing more with less, more efficiently, higher quality, more employee engagement, that’s what Lean is kind of all about and we had worked with other process improvement approaches at Steelcase through our whole existence. We’re a what’s called a Make to Order company, so we don’t make anything to stock like most companies do, which is a Lean approach to not having as much inventory because we make everything once we get an order from customer.<br />
+But in the early 2000’s, we really started gaining traction on applying the Toyota principles in house. And there’s really the production, industrial engineering side of Lean. The other side needs to complement it for it to sustain and continue to grow is uh what’s called the Lean Management System side of it.<br />
+So we went about building this Lean Management System internally to help us you know, understand our performance, understand where our performance wasn’t what we wanted it to be, understand the causes, and drive action to improve.<br />
+Well eventually it became obvious as we learned more about and we had more years of GTD, to integrate the two.<br />
+MIKE WILLIAMS: Great. And what are the major categories within Lean. Aren’t there like six or seven buckets of waste or something like that?<br />
+BOB HENDRIKSEN: Yeah, there’s seven forms of waste, like inventory and waiting and over-production are some of them.<br />
+MIKE WILLIAMS: Okay. And uh …<br />
+BOB HENDRIKSEN: And you kind of eliminate those.<br />
+MIKE WILLIAMS: Uh and this – in the mental construct when we’re thinking about all the stuff on our mind and over-thinking things and under-thinking things and that’s where I see sometimes some connection between the Lead principles and the GTD principles come into alignment on reducing the thinking waste.<br />
+Have you found, as you personally introduce GTD and reflect on things like that, where do you find some of the pain points that you had before and how has GTD helped simplify and bring efficiency into your personal life?<br />
+BOB HENDRIKSEN: Well back on your point about, you know, the elimination of waste, the main way in Lead that you eliminate waste is by improving the flow.<br />
+MIKE WILLIAMS: Yeah.<br />
+BOB HENDRIKSEN: So GTD and you know the processing steps and the five phases are all about improving mental processing flow, right?<br />
+MIKE WILLIAMS: Yep.<br />
+BOB HENDRIKSEN: A huge parallel there.<br />
+MIKE WILLIAMS: If you go back to before GTD and then you found the book, there’s probably some sticking points or – that you may or may not have been aware of and now that you’ve been a practitioner for a period of time, I’m wondering if you have any kind of before or after scenarios of, “Oh I had this pain point and this came in and helped me with that”, or “I didn’t realize I had this pain point and GTD came in and eliminated it and helped me with that”.<br />
+BOB HENDRIKSEN: Sure. I mean the biggest before and after and really in my progression with GTD, I started using it to gain greater productivity, so I could get more done in less time and you know, achieve the goals that the company has set and so on and so forth.<br />
+The big benefit though in using this over time is the freedom that it brings, the clear space and what I’m able to do with that space because I’m not bogged down by trying to remember to follow-up on things in a busy – a busy job and a busy life outside of work.<br />
+MIKE WILLIAMS: Yeah. So let me go down just a little deeper in the rabbit trail here because I – I seem to recall like if you’re driving home and something’s on your mind, boom what’s your work flow?<br />
+BOB HENDRIKSEN: Sure. So I try to not keep anything on my mind. In fact my mind sweep and my weekly review is a pretty quick process, ‘cause I try to dump as I go. So I use a list manager called Wunderlist and it’s a – it’s a German software app, in the Cloud, runs on – on the web, on all my IOS devices. It’s ubiquitous, always on me, always synced up. So I can use Siri on my IPhone and throw things right into Wunderlist In. I basically e-mail in, without ever looking at my phone or anything, so very easy to capture on any device that’s at hand.<br />
+MIKE WILLIAMS: Oh good and then when do you come back and take what you’ve captured and bring it to the next step? Do you do that at home or do you generally have some processing time at work, or all the above?<br />
+BOB HENDRIKSEN: Yeah, I process a few times throughout the day and try and get all three of my main in-boxes to zero; e-mail, my Wunderlist in-box and anything that might be in my red folder that I carry around in my bag, but I do a lot of capture on my phone or my IPad or whatever, but I do almost all my processing on the computer. I just found it’s quicker, I can drag and drop things a little bit easier than I can on other devices.<br />
+MIKE WILLIAMS: Yeah, I’ve uh – Bryan Palmer who is another In-Conversation Slice of Life conversation that we had was very similar. He found that you know, just trying to use that mobile screen was just too limiting on that and then processing happened in the cockpit and it was much faster and more efficient. Cool.<br />
+So now let’s go back to, I want to pick up the thread at improving flow. Love the evolution of just productivity pick-up, as David has always mentioned, it’s like layers of an onion and then going back to it, “Wow! Freedom and clear space!” tasting that’s pretty interesting.<br />
+Let’s jump over to the team side of this real quickly. So how has GTD influenced the team that you’re responsible for; how have you introduced that and how has it improved the team flow?<br />
+BOB HENDRIKSEN: Oh significantly, significantly! So what we did is we – we all read the book, of course, and then we just set up some discussions as a team. So our team, at our factory here, is made – our leadership team is, you know, the manager of engineering, the manager of materials management and so on and so forth. All the functions that are required to run this plant. The plant’s got about 900 employees and we make about – oh about 8,000 pieces of furniture a day. So it’s a staff of 23 or so manager positions.<br />
+So we each read the book, had these discussions to get on the same page and then one of the key things we did and I was a little hesitant to do this, because I never want to force a tool, but like I said, my personal list manager is this Wunderlist software, we found that it had this shared list capability and so that was tremendously powerful for us.<br />
+So about two years ago we kind of landed on that and we all started trying to adopt it as our own personal list manager but then as you saw in our team space, our nerve center, we also have a large touch screen where we display the shared lists, the project lists and the next actions list where we come back to any items that are significant to the team. So what I mean by that is often in a meeting or when we’re out on the factory floor, they’ll be a follow-up and if it’s kind of a one-off and someone has a trusted system, it’ll just go into their own Wunderlist to be followed up on. But things that impact multiple stake-holders and is just good for all of us to know what was done to maybe correct a problem or go after an opportunity or whatever, we put on the shared list and then in our daily stand-up we follow-up on those things to see what got done. We’re able to assign owners and dates and it’s just really streamlined how we operate. It makes things very clear.<br />
+You know, one of the things that was interesting about that was clarity around what “done” means. So in this team environment when someone is you know going to the board and saying, “I did this and I did this …” we kind of do a check in as a team and say, you know, “Do we agree that that’s complete, that that’s done?” And sometimes we’ll say, “Nah, there’s more to do here”, or “Yeah, it’s done” and go in that box, scream make the noise, a ding sound and everybody claps and we try to make if fun getting things done.<br />
+MIKE WILLIAMS: Yeah, David and I had a chance to stand around a table and watch you all, you know, run a meeting and in this context, how many people do you have standing around that table? You must have like fifteen.<br />
+BOB HENDRIKSEN: Yeah, it’s 20 to 23.<br />
+MIKE WILLIAMS: 20 to 23 people standing around this table. What do you call that session that we witnessed where everybody’s just going around giving a status update; what’s the name for that?<br />
+BOB HENDRIKSEN: Yeah, we call it our staff exchange.<br />
+MIKE WILLIAMS: Staff exchange. And how much time did you have allocated to that?<br />
+BOB HENDRIKSEN: It takes between 15 and 20 minutes.<br />
+MIKE WILLIAMS: That was amazing. I mean about 20 people giving an update in about 15 to 20 minutes. This thing was so dialed in. It was absolutely amazing and a piece of art from my perspective. So I just wanted to acknowledge that. I was really excited to see that.<br />
+The other thing I noticed though, what enabled the very crisp, clean updates from your perspective? Is there anything like in the GTD, like outcome/action thinking and what you have there in the middle of the table that helped you just really say, “Okay, here’s what we want to communicate and here is some of the ground rules”?<br />
+BOB HENDRIKSEN: Oh, absolutely! It’s all about defining desired outcomes, if there’s something in our world that we don’t like the way it is, something bad happened or something isn’t the way we want we want it, then we define the desired outcome and we decided very finitely, very granularly, what is the next step to get moving towards it? And when we take the time to get the clarity around that, that’s what makes everything move crisp.<br />
+In fact, when things get stalled we’ll often have to go back to, “We’ve got more thinking to do to get this moving again.”<br />
+MIKE WILLIAMS: Nice.<br />
+Now, so having the individual team members understand GTD and start to practice GTD and then seeing it at the team level collectively, I’m wondering what kind of feedback – what have others reflected back at you with a before and after kind of scenario sense of what GTD’s brought into their personal life or what they’ve experienced at the team level?<br />
+BOB HENDRIKSEN: Well, feedback we get from others outside of our plant is you know, we need to teach this, share this with other areas of Steelcase operations which we’re doing. North America is following it very well.<br />
+MIKE WILLIAMS: And what are people specifically drawn to, what are they seeing that say, “Hey, we need to duplicate this!” &#8211; why, why are they even seeing this?<br />
+BOB HENDRIKSEN: They’re seeing fun, they’re seeing action and proven in the metrics is the key thing, right? So you can have whatever methodology or philosophy but if it’s not moving the needle, so that – that’s the bottom line and when they see steady – you know we measure ourselves against safety, quality, on-time delivery, cost and as you saw in our room, we make those metrics very visual, very easy to understand and so if you can make a connection between the actions people are taking and improvement in the performance then you want to applicate and scale that up. So that’s what’s going on.<br />
+MIKE WILLIAMS: Okay.<br />
+Now what about at like an individual team member sense when you have a one-on-one with a team member and you’re just talking about their own personal performance, any kind of before or after sense that you’re seeing with particular team members or any particular stories that you just say, “Wow! That was cool!”?<br />
+BOB HENDRIKSEN: Yeah, I’ve seen transformation after transformation in individuals and how they work and the clarity of our discussions, so each of us have you know, a set of one-on-one lists in our list manager and so we’re able to share those as well which is also a huge way to cut down on e-mail because if I know I have a one-on-one with Mike later this week, instead of going back and forth on e-mail, I can just throw it over into Wunderlist and both of us will see that it’s in there and kind of queue it up for discussion.<br />
+MIKE WILLIAMS: So stepping back a little bit, kind of going back up to the higher level, maybe I can borrow your Lean brain here for a second. If you were to design a hypothesis or a measurement system to say, “Here’s the pragmatic value that GTD has brought, an increase in this, a decrease in that …” what kind of things come to mind for you, if you try to frame it within that perspective?<br />
+BOB HENDRIKSEN: A big increase in clarity, clarity around what we’re trying to accomplish, clarity around the actions that we’re choosing to take to achieve the goals and vision that we have for our operation. And so having it all kind of laid out in front of us so we can decide we’re gonna do that, we’re not gonna do that – I’d just say way better clarity.<br />
+MIKE WILLIAMS: Nice.<br />
+Anything else?<br />
+BOB HENDRIKSEN: Well I think what you experienced when you were with us is a whole lot more fun. It’s very enjoyable to work around people who are – and I’m blessed with the greatest group of people I could ever ask for to work with, our team is amazing and they gravitated to this so naturally. For one, they’re all pretty – they can see a good process when it’s laid out, especially as in operations and I work quite closely with IT and our IT group as well really resonated with and other groups all over the company, but yeah, it’s just helped us – yeah, get clear and progress easily and have a lot more fun at work.<br />
+MIKE WILLIAMS: Great!<br />
+Now one of the things that I find interesting, ‘cause sometimes when people ask me about, “Okay, what’s the value or the measurable outcome of GTD?” it kind of starts to your point earlier where, okay, you know level one, you’ll have a little productivity pick-up. You’ll pick-up some time, you’ll shave off time on doing e-mails, you’ll get clear and things like that. But the second level of the onion goes towards the value of what you’re cranking off your project list and the economic value – it’s hard for me to answer their question without knowing the economic value of what is on that project list.<br />
+So one of the things that I’m reminded of when I went to your site was how life can throw you a curve ball and how you’re gonna deal with it. So I think at the time I was there, the ports on the West Coast were clogged up and there was a longshoremen strike happening and you had some castors that you had to get on your product in order to get it out the door to hit a customer deliverable. So that was your curve ball that was thrown at you and watching that get operationalized onto a project list, nailed down to a next action and having a waiting for for the air shipment to drop, (I’m not sure I’m using the right terms) but that was reality in action. And I was thinking to myself at the time, “Hmm, I wonder what the economic value of that one project brings to a team like this to hit a customer’s deliverable?” I’m sure you see that in spades.<br />
+BOB HENDRIKSEN: Oh all the time, yeah. Our business is – like I said, the fact that we’ll make the order with short customer lead times makes our business model very dynamic, you know – seasonal and we got all these priority agreements with certain customers and then you have things like the port strike and other interesting things that are going on in the world that affect the plan basically. So you can make you know, a very good plan and then it goes out the window sometimes very quickly so our ability to come together, decide what we’re gonna do, who’s gonna do it, and then follow-up relentlessly to make sure – like the port issue didn’t impact our customers one bit and you know, that was significant and could have, and what you experienced in our little 15 minute stand-up was one element of us sorting through that issue, you know but there were obviously many other actions and owners and due dates and follow-up, follow-up, follow-up …<br />
+MIKE WILLIAMS: Right.<br />
+BOB HENDRIKSEN: Smooth as possible anyway.<br />
+MIKE WILLIAMS: That was just – you know, it’s just wonderful to experience that and when I close the door and do executive coaching with folks and see some of the stuff that gets cleared off their project list, the economic value of any one of those items or the ability to put one more on, in some instances, the ability to say, “No” faster creates space for the next one to come on.<br />
+And going back to the theme of clarity that comes from reducing waste in the system from a Lean perspective is what I experience over and over again.<br />
+BOB HENDRIKSEN: Absolutely.<br />
+MIKE WILLIAMS: Let’s shift gears here just a little then. The other thing I recall walking around and seeing your team is they have a little orange sticker on the corner of their name tag and what did that little orange sticker say?<br />
+BOB HENDRIKSEN: Yeah, it says, “Ask me about GTD”.<br />
+MIKE WILLIAMS: Ha, ha! Tell me the story about the sticker. I was – when I saw that I’m like, “Of course, that’s a thing of beauty!” Then the second thing was, “Tell me more! How does that come to be? What’s that all about?”<br />
+BOB HENDRIKSEN: Yeah so a few years ago one of our brainiacs in IT Jim Horbath and I were chatting about things and we both, we found this common interest where I was a big fan of GTD, as was Jim. We found a few others and started this little make-shift hearing team, endorsing team, whatever you want to call it and we just started thinking about ways that we could spread it through the organization. We had this movement going and obviously your visit with David and David’s keynote was a huge catalyst for continuing to spread, but yeah, the sticker was just an idea that somebody on the core team came up with. In fact, someone asked me yesterday, you know, “What does that mean? What’s GTD?” and it allowed me to – she opened the door to a conversation about it.<br />
+MIKE WILLIAMS: Oh nice. And when you have a conversation with somebody about GTD, let’s use one that you had yesterday. One of the common themes and questions is how do you introduce people to GTD? How do you personally engage in a conversation like that?<br />
+BOB HENDRIKSEN: So I’ll explain it as you know, it’s a life management system. It’s an approach that was developed by this David Allen guy over many years of working with various busy people and he kind of knitted it together into a systematic approach that you use for your whole life. So I basically run my life at work and at home on the same system.<br />
+It starts by getting everything out of your head, capturing it into a system you trust, clarifying what it means, what outcomes you want, what actions you need to move towards those outcomes and then you just basically track it in a way that make it really easy to bump into the right things at the right time. And the outcome is freedom, freedom to enjoy your time and be in the moment.<br />
+MIKE WILLIAMS: Yeah. Well, well said and uh you know on the freedom side of things, you know one of our GTD champions said he was free to be at his daughter’s soccer game and actually be there and not be on his IPhone or something, and actually engaged in watching.<br />
+You know, others they find the freedom of enjoying a dinner with their spouse or life-partner and actually being there at dinner and not being distracted by work.<br />
+And it shows up in little spaces or you call those big spaces like that and it’s a thing that happens.<br />
+BOB HENDRIKSEN: Our company is a real big advocate of well-being for our employees and we have these six aspects of well-being and one of them is mindfulness, being present, being in the moment. Our CEO Jim Keane is a huge believer in unplugging when you’re in a meeting with him. He is always there. And I think you and David met with him.<br />
+MIKE WILLIAMS: Yes, yeah, beautiful gentleman.<br />
+BOB HENDRIKSEN: He’s amazing and you know, you can’t be in the moment if your head is full of all these commitments that you’ve made that you’re afraid of dropping the ball on. So GTD is an enabler to mindfulness like no other thing, more so than meditation or anything else we found.<br />
+MIKE WILLIAMS: Um hm. You know, I recently went on vacation to Mexico and I just got back with the family and we had very limited internet access so we had the whole family off of technology for a week and it was amazing how much signal came back through all the noise that we thought was so important before being so connected and in that kind of silent present space you get more sensitive to new stuff coming in, the quality of it, the quality of being together and now that we’re back, I can see the behaviors kind of snapping back into place and it’s a very interesting thing to pay attention to. As David, I think when he was out there, mentioned the book Brain Chains, C-H-A-I-N-S, the chains that bind your brain and how technology and the way the brain reacts to it can be really kind of interesting to pay attention to. Because every time you take a look at that news feed or that Facebook feed, a shot of Dopamine goes into your brain and you’re like, “Ah that felt so good!” But when I personally stepped back, I was like, “What did I really accomplish there?” I was going in to check something else and I get distracted by all this other stuff. It’s very interesting.<br />
+So let’s jump over to a different side of things. A couple maybe rapid-fire questions for you: If you were to dial it back to say ten years ago and try to introduce GTD to an earlier version of yourself, what would you say to somebody who’s just starting out their career about GTD and how it might be relevant to them?<br />
+BOB HENDRIKSEN: I think no matter what point you’re at in your life or your career, read the book and just start. What I’ve experienced is people will read the book and be a bit overwhelmed, you know, obviously. There’s all these – even if you’re young, there’s a lot of habits that you have to change like writing things down.<br />
+MIKE WILLIAMS: Yeah.<br />
+BOB HENDRIKSEN: And building a habit like the weekly review, those sort of things, but the key is just to get started and know that it’s possible to follow an approach like this. Anyone can do it, so that’s the advice I have, get started.<br />
+MIKE WILLIAMS: Do you find any particular components, particularly for people starting out are a bit more accessible and once people engage with those components, they’re like, “Wow! That was a little more profound than I thought it would be.”<br />
+I mean, do you have any experiences, based on your experience with your team members on what they find most useful, say at the front end of GTD and then – then we can explore the back end later?<br />
+BOB HENDRIKSEN: So the waiting for follow-up list and really a one-on-one list is a form of waiting for follow-up; tremendous value in that because our world out here in the plant is very busy, very dynamic and often they’ll be things delegated that aren’t followed up on. So one of the biggest transformations we’ve had in the plant are these one-on-one lists and the waiting for follow-up lists. Just circling back to things until all parties feel it’s done is tremendously powerful.<br />
+Uh, the weekly review has been an interesting journey for us. I would say by far the most difficult habit to build organizationally in terms of getting to do it. We try to keep our Fridays light loaded in terms of meetings and kind of a heavier load Monday through Thursday and about 80% of our team does their weekly reviews on Friday.<br />
+I take the weekly review reminder that day and I forward it out to our entire team, even our team leaders. So team leaders have about 10-12 employees that report to them and so the weekly review reminder goes out to everyone and then I’ll add a few comments, but that’s been a challenge for a lot of us, including myself, to build that habit.<br />
+MIKE WILLIAMS: Yeah, but once you step into it what happens? Once you get through the weekly review, what do you feel on the other end?<br />
+BOB HENDRIKSEN: Oh, freedom and control. You feel on top of your game and I hear that from people all the time. And you can almost sense when someone short-circuited their weekly review because it’s a more frantic individual.<br />
+MIKE WILLIAMS: Yeah, that feels so true to me because when I’m fallen out of the weekly review, I get frantic. That’s a good term and I feel scattered. I can feel the disturbance in the field – the force field.<br />
+I actually did just a quick analysis of the weekly review. So let’s say, let’s pretend you work a 40 hour work week and you spend 90 minutes on your weekly review, that’s 3.75% of your time and then the question becomes, you know, if you do the 3.75%, how’s that going to improve the quality of the other 96.25%? Ha, ha! So that keeps me motivated, engaged and honest to like, “Oh man, it’s only 3.5%!” I just need to step into it and then let it take over and then when I walk out the other end it’s like, “Why do I resist this at all, if at all?”<br />
+BOB HENDRIKSEN: Absolutely! What we found is if they use their weekly review time to catch up on e-mail and catch up on their in-box, a lot of times they’ll use their whole weekly review for processing and so we’ve had that – you know, continue to remind ourselves that that’s not the – obviously you want to zero out your in-box, but that should be a small portion. So just trying to be mindful of that and prepare for that. Okay? Friday afternoon is coming, let’s try and get clean you know. If we have to work a little longer on Thursday or whatever. So we go into it and could really zoom out and you know look at our project lists, make sure there’s a next action associated with each one and really do a weekly review the way it’s meant to be done.<br />
+MIKE WILLIAMS: Yeah, now and have you found folks go to their own special place to do their weekly review, because man that’s at Steelcase headquarters. How many beautiful special places can you go to in the space that you have designed at your headquarters and some folks that I know need to get out of like their normal place of operations and actually walk someplace different, their own special hiding place. Do you see that within your team or yourself as a tactic?<br />
+BOB HENDRIKSEN: Yeah, it’s kind of a mixed bag and I’m actually considering changing the location. I do mine in my office but I still, even though I hang my little GTD Weekly Review in Progress sign on the door, do not disturb sign on the door, I still get interrupted from time to time, so I’m gonna try to chance up the location, but yeah, a lot of people do go and find a quiet space to do it. Some do it at their desks.<br />
+MIKE WILLIAMS: Yeah.<br />
+BOB HENDRIKSEN: And it’s, you know, varying degrees of effectiveness I would say. We’re still learning.<br />
+MIKE WILLIAMS: Good, good.<br />
+Now I’m gonna shift topics. Again I want to go back to the nerve center a bit and talk to me a little bit about you know, some of things I saw were ambient information that you had hanging within that nerve center with really kind of your key information that you use to show the health and well being of what you’re managing. Can you tell me a little bit more about that and how that supports your team and the principles behind that and then how that leads to any actions or projects that you might capture in your system?<br />
+BOB HENDRIKSEN: Absolutely. So it’s a Lead technique of visual management of visual controls and the idea is just to not have things hidden in a spread sheet or on a, you know, on MS Project, or whatever behind the scenes. Try and make, like you said the health of our operation very obvious to the team, so we know what the points of struggle are and we know the areas that are working well, so we can redirect the focus and drive appropriate actions to include the performance.<br />
+MIKE WILLIAMS: Nice. And the way it struck me is – is these daily scrums or even the weekly review, there’s the last step in get current is review any relevant check-lists in the weekly review. What I saw there was kind of the visual equivalent of any relevant check-list that you want to see if it triggers anything that you want to capture into your system. So thanks for sharing the resources behind that so if others are interested they could pursue that further.<br />
+But I thought it was again, there are so many points of beauty in the flow that you had at an individual level and a team level, that’s another one that caught my attention.<br />
+So Bob to shift topics a little bit to go on the personal side, what GTD principles have trickled over to that side that seems to be working for you?<br />
+BOB HENDRIKSEN: Well I’ve got a lot of hobbies. I love to be outdoors, outdoors with the kids, you know, we’re into kayaking, back-packing, you name it, just anything that we can do together that’s outdoors. We ski and snowboard in the winter, which is great around here; just love being outdoors. So we have, you know, if we’re going to the beach we have a check-list for what to bring to the beach. If we’re going back-packing, of course, we have that check-list; very important, especially if it’s an overnight one or a multi-day one that we have everything with us. It just makes it really, really easy.<br />
+I’m learning to kite surf now, which has been an interesting adventure. I’ve drank more Lake Michigan water than I care to mention, uh steep learning curve, but because of GTD I could be out you know, whatever I’m doing enjoying it, focused on it and not worrying about something blowing up in my world that I wasn’t keeping track of like I should have. That’s a huge – a huge benefit to this system, is you know, the freedom. Not just the mental clarity freedom, but the freedom to enjoy the things in your life you want to pay attention to.<br />
+MIKE WILLIAMS: That sounds – it sounds like you’ve had the clarity to find some of those fun places to play and explore those.<br />
+BOB HENDRIKSEN: Absolutely. Uh, my oldest daughter is using a list manager. I do have to admit I use a bit of a technique to get her on board. She really wanted an IPhone and I agreed that I would get her an IPhone as long as she downloaded Wunderlist and we set a shared list, so she’s doing a good job capturing things that she needs to follow-up on, whether it be for school or things around the house and I’ll throw things on there and she’ll do a check-in with me before she goes to the beach with her friends or whatever to make sure we’re in agreement on the things that need to be accomplished beforehand. So …<br />
+MIKE WILLIAMS: That’s great!<br />
+BOB HENDRIKSEN: A little leverage there.<br />
+MIKE WILLIAMS: I had another GTD champion and he developed these things called GTD bucks and if and – he has a little picture of himself on the buck and then he had in-boxes for all his kids and he would put a buck in an in-box with maybe an instruction on it and an expiration date. So if they went to the in-box, found the buck and did what was on the instruction (and the instruction could be just say, “Hey, I checked my in-box and I found this in it” and bring it back to him) they would get buck credit, whatever that was in their family to help promote the behaviors, you know, as you know, form follows functions and it’s a good thing. So kudos to you! Ha, ha, ha. Folks emerge and find their own unique systems as they go. That’s awesome.<br />
+And check-lists – where do you keep your check-lists?<br />
+BOB HENDRIKSEN: They’re all in my list manager. My uh Wunderlist is my external brain. I use it for random check-lists as well as the context based lists, you know, @computer, in-car. Oh, we actually figured out a way to consolidate two of the lists in this book, so instead of a @phone, or calls-list and an errands list, because we can safely do it with ear buds and Siri, most of us just use a list called in-car, and then we put phone calls in, things to get at the store on that. So, anyway, yeah, it’s all in one turbo-charged list manager that we love.<br />
+MIKE WILLIAMS: That’s great. Now do you have any favorite customized context that you like to use outside the standards?<br />
+BOB HENDRIKSEN: Well yes. So I have one called Horizons of Focus and it contains all the way from 50,000 through 20,000 foot level, so I have my own personal purpose statement, some vision statements, one to three years out and then I’ve got goals listed to support my vision. I’ve got my roles and then of course, projects and actions are separate from those, but I do scan – kind of scan through my Horizons of Focus as part of my weekly review. It’s attached to my check-list for my weekly review. And then I go a little more in depth quarterly and annually.<br />
+I used to have to come in and I said, “Why not put it all in the same place.”<br />
+MIKE WILLIAMS: Oh excellent.<br />
+BOB HENDRIKSEN: Uh let’s see, I’ve got a &#8211; obviously my weekly review agenda, our shared list. Most of the other ones are right out of the book; Taylor-Dad stuff, that’s the one with my 17 year-old and then I’ve got a set of Wunderlists as a cool feature of these folders that you can take lists and sort of collapse them, so you see a high level and then you can expand it and go down. Uh, let’s see I’ve got a list of cool quotes, I’ve got, yeah, various check-lists for the different outside of work activities that I enjoy, movies to watch all that kind of standard stuff.<br />
+Oh, there’s one – podcast with Mike Williams.<br />
+MIKE WILLIAMS: Who’s that guy? Ha, ha, ha.<br />
+BOB HENDRIKSEN: The &#8211; some stuff I was thinking about in advance.<br />
+MIKE WILLIAMS: Well is there anything else on that list that we should cover?<br />
+BOB HENDRIKSEN: No, we’re hitting it pretty good.<br />
+MIKE WILLIAMS: Well, let’s see here. Now is there any question that you wanted me to ask you that I didn’t ask or anything you want to bring forward about your GTD experience, system, practice?<br />
+BOB HENDRIKSEN: Well David mentioned that those who need it least sort of gravitate to it the most and we have found that here at Steelcase in spades. Our Senior Vice-President of Global Operations, Bob Krestakos is a huge believer in GTD, read the book, gave it to all of his direct reports and his boss and he just – I couldn’t have more of an advocate at the top and that’s why it’s spreading like it is. It’s wonderful.<br />
+MIKE WILLIAMS: That’s great. And sage words of wisdom on helping people get a taste and then the taste draws them in further. And we share the same mission here, we’re trying to give people a taste of all of that as well. Probably a good place to stop.<br />
+If folks were interested in contacting you or learning more about anything that’s kind of important in your world, where would you like them to go, if that’s okay?<br />
+BOB HENDRIKSEN: Oh, yeah, absolutely. Yeah, just drop me an e-mail. I’m at RHendrik@Steelcase.com.<br />
+MIKE WILLIAMS: Okay. And Bob thank you so much for your time, thank you so much for being a GTD champion. Thank you so much for your friendship. I really appreciate our exchanges over time and I look forward to intersecting again, hopefully on a snowboard on the mountains someplace. That’d be a lot of fun. Ha, ha, ha.<br />
+BOB HENDRIKSEN: That’d be fun. Thanks Mike.<br />
+MIKE WILLIAMS: Alright. Take care.<br />
+End</p>
+]]></content:encoded>
+			<wfw:commentRss>http://gettingthingsdone.com/2015/12/podcast-10-improving-organization-with-gtd/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>When you start to make things happen&#8230;</title>
+		<link>http://gettingthingsdone.com/2015/12/when-you-start-to-make-things-happen/</link>
+		<comments>http://gettingthingsdone.com/2015/12/when-you-start-to-make-things-happen/#comments</comments>
+		<pubDate>Tue, 01 Dec 2015 23:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
+				<category><![CDATA[David Allen]]></category>
+		<category><![CDATA[Featured]]></category>
+
+		<guid isPermaLink="false">http://gettingthingsdone.com/?p=14259</guid>
+		<description><![CDATA[When you start to make things happen, you begin to believe that you can make things happen. And that makes things happen. –David Allen &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;]]></description>
+				<content:encoded><![CDATA[<p>When you start to make things happen, you begin to believe that you can make things happen. And <em>that</em> makes things happen. –David Allen</p>
+<p><img class="alignleft wp-image-14260 colorbox-14259" src="http://gettingthingsdone.com/wp-content/uploads/2015/12/Copy-of-Copy-of-Social-Media-General.jpg" alt="" width="600" height="600" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://gettingthingsdone.com/2015/12/when-you-start-to-make-things-happen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Power of the Weekly Review</title>
+		<link>http://gettingthingsdone.com/2015/11/the-power-of-the-weekly-review/</link>
+		<comments>http://gettingthingsdone.com/2015/11/the-power-of-the-weekly-review/#comments</comments>
+		<pubDate>Thu, 19 Nov 2015 16:54:47 +0000</pubDate>
+		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
+				<category><![CDATA[Community Stories]]></category>
+
+		<guid isPermaLink="false">http://gettingthingsdone.com/?p=14234</guid>
+		<description><![CDATA[The Weekly Review has meant so much to me. It is the difference between having my life in my own hands or not. I realized that the work I was doing didn&#8217;t make me happy. I made a project of it and I made the commitment to myself that I would make one step every week, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="alignleft wp-image-14235 size-full colorbox-14234" src="http://gettingthingsdone.com/wp-content/uploads/2015/11/avatar100138_0.jpeg" alt="avatar100138_0" width="100" height="100" />The Weekly Review has meant so much to me. It is the difference between having my life in my own hands or not. I realized that the work I was doing didn&#8217;t make me happy. I made a project of it and I made the commitment to myself that I would make one step every week, to find out what talents I have, which things I like to do, what lifestyle I would like to have, and which job will fit in all of that. Doing the Weekly Review helped remind me to do at least one step every week. I got so much value from GTD that I want other young professionals to also learn and know it, so I became a <a href="http://gettingthingsdone.com/training-certification/" target="_blank">Certified GTD Trainer</a>. And now I can do what I am so passionate about!</p>
+<p>—Vivianne Kroone, The Netherlands</p>
+]]></content:encoded>
+			<wfw:commentRss>http://gettingthingsdone.com/2015/11/the-power-of-the-weekly-review/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>David Allen on the Dr. Oz Show</title>
+		<link>http://gettingthingsdone.com/2015/11/david-allen-on-the-dr-oz-show/</link>
+		<comments>http://gettingthingsdone.com/2015/11/david-allen-on-the-dr-oz-show/#comments</comments>
+		<pubDate>Sat, 14 Nov 2015 18:24:25 +0000</pubDate>
+		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
+				<category><![CDATA[David Allen]]></category>
+		<category><![CDATA[Productivity Tips]]></category>
+
+		<guid isPermaLink="false">http://gettingthingsdone.com/?p=14199</guid>
+		<description><![CDATA[David was on the Dr. Oz show talking about GTD. &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Watch this 3 1/2 minute clip to see him answering audience questions about GTD, such as: &#8220;At the end of the day, and the things that I wasn&#8217;t able to get to, how do I not feel [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>David was on the Dr. Oz show talking about GTD.</p>
+<p><img class="alignleft wp-image-14200 colorbox-14199" src="http://gettingthingsdone.com/wp-content/uploads/2015/11/Dr-Oz-300x200.jpg" alt="Dr Oz" width="450" height="300" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://www.doctoroz.com/episode/straight-red-carpet-burning-health-questions-country-music-s-biggest-stars?video_id=4609252041001" target="_blank">Watch this 3 1/2 minute clip</a> to see him answering audience questions about GTD, such as:</p>
+<blockquote><p>&#8220;At the end of the day, and the things that I wasn&#8217;t able to get to, how do I not feel like I failed?&#8221;</p>
+<p>&#8220;I&#8217;m the queen of to do lists, and I make a to do list to remind me to do my to do list. Is it really strange that if I&#8217;ve done something that wasn&#8217;t on my to do list, I write it on my to do list just to cross it off because it makes me feel accomplished?&#8221;</p>
+<p>&#8220;As a mom, working-at-home entrepreneur, and wife, how do you prioritize the things you know you need to do to be successful for the day without being guilty? How do you know how to prioritize when everything is as equally important to you to get done?&#8221;</p></blockquote>
+<p><strong>You can also catch two other clips here:</strong></p>
+<p><a href="http://www.doctoroz.com/episode/straight-red-carpet-burning-health-questions-country-music-s-biggest-stars?video_id=4609441401001" target="_blank">5 things organized people can&#8217;t live without &#8211; part one</a></p>
+<p><a href="http://www.doctoroz.com/episode/straight-red-carpet-burning-health-questions-country-music-s-biggest-stars?video_id=4611282019001" target="_blank">5 things organized people can&#8217;t live without &#8211; part two</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://gettingthingsdone.com/2015/11/david-allen-on-the-dr-oz-show/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Are you appropriately engaged?</title>
 		<link>http://gettingthingsdone.com/2015/11/are-you-appropriately-engaged/</link>
 		<comments>http://gettingthingsdone.com/2015/11/are-you-appropriately-engaged/#comments</comments>
@@ -59,13 +376,14 @@
 		<category><![CDATA[Videos]]></category>
 
 		<guid isPermaLink="false">http://gettingthingsdone.com/?p=14081</guid>
-		<description><![CDATA[Here&#8217;s a rare glimpse inside David Allen coaching Dutch TV host Linda Geerdink on the Getting Things Done methodology. He addresses some of the common challenges people have with GTD, and shares his wisdom on making it work. 15 minutes. To learn more about our GTD Coaching Services, click here.]]></description>
+		<description><![CDATA[Here&#8217;s a rare glimpse inside David Allen coaching Dutch TV host Linda Geerdink on the Getting Things Done methodology. He addresses some of the common challenges people have with GTD, and shares his wisdom on making it work. 15 minutes. To learn more about our GTD Coaching Services, click here. Please note that the animations shown [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Here&#8217;s a rare glimpse inside David Allen coaching Dutch TV host Linda Geerdink on the Getting Things Done methodology. He addresses some of the common challenges people have with GTD, and shares his wisdom on making it work. 15 minutes.</p>
 <p><iframe style="border: none; overflow: hidden;" src="http://www.spirit24.nl/player/frame/?episode=urn:vpro:media:program:64466041&amp;type=urn&amp;width=560&amp;height=320&amp;still=&amp;autostart=off&amp;volume=5&amp;startTime=00:00:00" width="560" height="320" frameborder="0"></iframe></p>
 <p>To learn more about our GTD Coaching Services, <a href="http://gettingthingsdone.com/coaching/">click here</a>.</p>
+<p><em>Please note that the animations shown in this video are from <a href="https://www.youtube.com/watch?v=IZp0eHCOEJs" target="_blank">OmniFocus + Getting Things Done (GTD)</a>,<br />which was produced by <a href="https://www.omnigroup.com/" target="_blank">The Omni Group</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://gettingthingsdone.com/2015/10/a-look-inside-a-gtd-coaching-session/feed/</wfw:commentRss>
-		<slash:comments>8</slash:comments>
+		<slash:comments>18</slash:comments>
 		</item>
 		<item>
 		<title>Podcast #9 &#8211; GTD and Technology</title>
@@ -126,163 +444,8 @@
 			<wfw:commentRss>http://gettingthingsdone.com/2015/09/gtd-is-not-an-overnight-little-time-management-tip/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
-		<item>
-		<title>Podcast #8 &#8211; Introducing GTD to a Friend</title>
-		<link>http://gettingthingsdone.com/2015/08/podcast-8-introducing-gtd-to-a-friend/</link>
-		<comments>http://gettingthingsdone.com/2015/08/podcast-8-introducing-gtd-to-a-friend/#comments</comments>
-		<pubDate>Mon, 24 Aug 2015 22:19:32 +0000</pubDate>
-		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
-				<category><![CDATA[Community Stories]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Podcasts]]></category>
-
-		<guid isPermaLink="false">http://gettingthingsdone.com/?p=13806</guid>
-		<description><![CDATA[David Allen Company President and CEO Mike Williams interviews Andy Armstrong, with a focus on what it's like to introduce GTD to a friend. Years ago, Mike gave Andy a copy of <em>Getting Things Done</em>. They talk about how Andy's GTD practice has developed, the value of the Mind Sweep and how he approaches the Weekly Review. Andy is a great example of stress-free productivity.]]></description>
-				<content:encoded><![CDATA[<p><a href="http://gettingthingsdone.com/2015/08/podcast-8-introducing-gtd-to-a-friend/"><img class="alignnone wp-image-13820 size-full colorbox-13806" src="http://gettingthingsdone.com/wp-content/uploads/2015/08/3.jpg" alt="3" width="550" height="275" /></a></p>
-<p>David Allen Company President and CEO Mike Williams interviews Andy Armstrong, with a focus on what it&#8217;s like to introduce GTD to a friend. Years ago, Mike gave Andy a copy of <em>Getting Things Done</em>. They talk about how Andy&#8217;s GTD practice has developed, the value of the Mind Sweep, and how he approaches the Weekly Review. Andy is a great example of stress-free productivity.</p>
-<h2>Listen Now</h2>
-<div id="video-container"><iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/3741851/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" width="640" height="360" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
-<p>&nbsp;</p>
-<h2>Subscribe or Download</h2>
-<p><a href="https://itunes.apple.com/us/podcast/getthing-things-done/id999098861" target="_blank">iTunes</a><br />
-<a href="http://www.stitcher.com/s?fid=66868&amp;refid=stpr" target="_blank">Stitcher</a><br />
-<a href="http://gettingthingsdone.libsyn.com/" target="_blank">Lisbyn</a></p>
-]]></content:encoded>
-			<wfw:commentRss>http://gettingthingsdone.com/2015/08/podcast-8-introducing-gtd-to-a-friend/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>Moving from tree-hugging to forest management</title>
-		<link>http://gettingthingsdone.com/2015/08/moving-from-tree-hugging-to-forest-management/</link>
-		<comments>http://gettingthingsdone.com/2015/08/moving-from-tree-hugging-to-forest-management/#comments</comments>
-		<pubDate>Fri, 21 Aug 2015 21:41:40 +0000</pubDate>
-		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
-				<category><![CDATA[Community Stories]]></category>
-		<category><![CDATA[Featured]]></category>
-
-		<guid isPermaLink="false">http://gettingthingsdone.com/?p=13796</guid>
-		<description><![CDATA[Thanks to E. Jones for sharing his story below with us about his journey with GTD. David Allen has often said that learning GTD is like peeling an onion&#8211;the layers continue to unfold.  Here is E.&#8217;s story about how his knowledge, tools, and mastery of GTD has evolved: Hey GTD Crew, I’m an aspiring GTD practitioner &#8211; [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Thanks to E. Jones for sharing his story below with us about his journey with GTD. David Allen has often said that learning GTD is like peeling an onion&#8211;the layers continue to unfold.  Here is E.&#8217;s story about how his knowledge, tools, and mastery of GTD has evolved:</p>
-<blockquote><p>Hey GTD Crew,</p>
-<p>I’m an aspiring GTD practitioner &#8211; not necessarily a novice, but definitely not a master.  Was introduced to GTD back in 2007 or so.  Took me a while, but have finally gotten the “Desired Outcome, Current Status, and Next Action” themes ingrained in my way of daily thinking.</p>
-<p>As with many who aspire to effectively and efficiently use the GTD methodology &#8211; you sometimes fall off the wagon, and new events help you recognize the need and value of getting back on.  I’ve had a couple of those lately, and just wanted to share a few thoughts:</p>
-<p>1. In November of 2014, I stepped into a new role.  Lots of change &#8211; a good bit of turmoil &#8211; and a much faster environment.  Things like that help you to immediately recognize the need for a system.  I felt very much prepared because I had a “system” (at least I thought I was prepared).</p>
-<p>2. After a few months in the new role, I realized how much my “system” was tailored to my previous environment.  It became evident that what worked well for me before wasn’t going to work well for me now.  That was a significant (not monumental &#8211; but significant) challenge.  I had to learn what pieces of my system would work “as is”, what pieces needed tweaked, and what pieces needed overhauled.</p>
-<p>3. As I continue to refine my system, I started (re)reading <a href="https://gettingthingsdone.com/store/product.php?productid=17035">Getting Things Done</a> (the 2015 version).  I should add that in the midst of all the above, I got a new manager.  Here’s where one of the big light bulbs went off.  I have long recognized the value of the Weekly Review, but mine can be a bit draining &#8211; and time consuming.  I try to be thorough &#8211; and if I haven’t touched a particular project in a while, that can add to the challenge and time required for a Weekly Review.  In preparation for a 1-on-1 meeting with my new boss, I spent about 3 hours doing a good Weekly Review &#8211; capturing current status and next action on 20-30 projects.  That structure worked well.  I think my boss appreciated the structure and the thoroughness &#8211; and has asked me to continue that practice.  At the same time, I read a key statement in the 2015 version of GTD:</p>
-<p><strong>“A complete and current Projects list is the major operational tool for moving from tree-hugging to forest management”.  </strong></p>
-<p>That practice has (and will continue) to help me.  So what’s the next action?  I’ve decided that the tool I was using to capture my Weekly Review needs to change.  I’m very visual &#8211; so I love the practice of doing a Weekly Review on a big whiteboard &#8211; the issue is the time it takes to transfer the results from “being in the zone” at the whiteboard to something more portable.  I used to use OneNote as a tool for Weekly Review (still do use it for general capture) &#8211; but am now working on a master projects list in Excel.  Will share some of the secrets if it helps others &#8211; once I get the kinks worked out.</p>
-<p>Keep up the good work!!</p></blockquote>
-<p>What&#8217;s your GTD story? We&#8217;d love to <a href="mailto: socialmedia@davidco.com">hear from you</a>!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://gettingthingsdone.com/2015/08/moving-from-tree-hugging-to-forest-management/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>New GTD Guide for Android now available</title>
-		<link>http://gettingthingsdone.com/2015/08/new-gtd-guide-for-android-now-available/</link>
-		<comments>http://gettingthingsdone.com/2015/08/new-gtd-guide-for-android-now-available/#comments</comments>
-		<pubDate>Thu, 20 Aug 2015 19:06:55 +0000</pubDate>
-		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
-				<category><![CDATA[Educational Tools]]></category>
-		<category><![CDATA[Featured]]></category>
-
-		<guid isPermaLink="false">http://gettingthingsdone.com/?p=13773</guid>
-		<description><![CDATA[We&#8217;ve added a new option to our catalog of popular Setup Guides. Android users can now learn our GTD best practices for using Google Apps on their handheld. This Guide is packed with practical recommendations, loads of screen shots, tips, tricks, and options for getting the most out of GTD on the Android. It&#8217;s a great complement [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://gettingthingsdone.com/store/home.php?cat=263"><img class="alignright wp-image-13775 size-medium colorbox-13773" src="http://gettingthingsdone.com/wp-content/uploads/2015/08/AndroidImage-249x300.png" alt="AndroidImage" width="249" height="300" /></a>We&#8217;ve added a new option to our catalog of popular Setup Guides. Android users can now learn our GTD best practices for using Google Apps on their handheld. This Guide is packed with practical recommendations, loads of screen shots, tips, tricks, and options for getting the most out of GTD on the Android. It&#8217;s a great complement to our Google Apps for Desktop Setup Guide as well.</p>
-<p>You&#8217;ll find both Guides in our <a href="https://gettingthingsdone.com/store/home.php?cat=263">online store</a>.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-			<wfw:commentRss>http://gettingthingsdone.com/2015/08/new-gtd-guide-for-android-now-available/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>New GTD public courses just added to our U.S. schedule</title>
-		<link>http://gettingthingsdone.com/2015/08/new-public-courses-just-added-to-our-u-s-schedule/</link>
-		<comments>http://gettingthingsdone.com/2015/08/new-public-courses-just-added-to-our-u-s-schedule/#comments</comments>
-		<pubDate>Sat, 01 Aug 2015 19:21:58 +0000</pubDate>
-		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Public Events]]></category>
-
-		<guid isPermaLink="false">http://gettingthingsdone.com/?p=13749</guid>
-		<description><![CDATA[Our new Mastering Workflow Series courses are coming to Chicago on August 26 and Atlanta on Sept. 22.]]></description>
-				<content:encoded><![CDATA[<p><img class="alignleft size-medium wp-image-13278 colorbox-13749" src="http://gettingthingsdone.com/wp-content/uploads/2015/06/courses-300x155.jpg" alt="courses" width="300" height="155" />Our new <a href="http://gettingthingsdone.com/mastering-workflow-series/">Mastering Workflow Series</a> courses are coming to <a href="http://gettingthingsdone.com/events/united-states/mastering-workflow-series-level-2-projects-priorities-chicago-il/">Chicago on August 26</a> and <a href="http://gettingthingsdone.com/events/united-states/mastering-workflow-series-level-1-atlanta/">Atlanta on Sept. 22</a>. If you&#8217;re new to GTD or looking for a refresher, start with Level 1: Fundamentals. If you have the basics down and are ready to go deeper with your GTD implementation, take Level 2: Projects &amp; Priorities.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Special rates are available for:</strong></p>
-<ul>
-<li>Groups of 5 or more people (must register together)</li>
-<li>Staff of not-for-profit organizations</li>
-<li>Full-time students</li>
-<li>Educators</li>
-<li>Government employees (inlcuding military)</li>
-<li>Graduates of the same previous GTD Mastering Workflow course (please send us year and city where you last attended)</li>
-<li>GTD Connect monthly or annual members</li>
-</ul>
-<p>Qualify for a special rate?<br />
-Simply email <a href="mailto:seminars@davidco.com">seminars@davidco.com</a> from your qualifying email address (the address your GTD Connect membership is linked to or your .org, .gov, .mil, or .edu address) to receive the appropriate coupon code.</p>
-<p>We look forward to seeing you at the event!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://gettingthingsdone.com/2015/08/new-public-courses-just-added-to-our-u-s-schedule/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Podcast #7 &#8211; Guided GTD Weekly Review</title>
-		<link>http://gettingthingsdone.com/2015/07/podcast-07-guided-gtd-weekly-review/</link>
-		<comments>http://gettingthingsdone.com/2015/07/podcast-07-guided-gtd-weekly-review/#comments</comments>
-		<pubDate>Wed, 22 Jul 2015 03:36:44 +0000</pubDate>
-		<dc:creator><![CDATA[GTD Times Staff]]></dc:creator>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Podcasts]]></category>
-
-		<guid isPermaLink="false">http://gettingthingsdone.com/?p=13618</guid>
-		<description><![CDATA[&#160; Ever wonder what it would be like to have a David Allen Company coach guide you through an entire GTD Weekly Review? Now, in this interactive session, Senior GTD Coach Meg Edwards takes you through the entire process step by step. As you get clear, get current, and get creative, you’ll quickly see why [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://itunes.apple.com/us/podcast/getthing-things-done/id999098861" target="_blank"><img class="alignnone wp-image-13619 size-full colorbox-13618" src="http://gettingthingsdone.com/wp-content/uploads/2015/07/meg.jpg" alt="" width="550" height="285" /></a></p>
-<p>&nbsp;</p>
-<p>Ever wonder what it would be like to have a David Allen Company coach guide you through an entire GTD Weekly Review? Now, in this interactive session, Senior GTD Coach Meg Edwards takes you through the entire process step by step. As you get clear, get current, and get creative, you’ll quickly see why the Weekly Review is considered *the* critical success factor in maintaining an integrated life management system.</p>
-<h2>Listen Now</h2>
-<div id="video-container"><iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3648265/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
-<h2>Subscribe or Download</h2>
-<p><a href="https://itunes.apple.com/us/podcast/getthing-things-done/id999098861" target="_blank">iTunes</a><br />
-<a href="http://www.stitcher.com/s?fid=66868&amp;refid=stpr" target="_blank">Stitcher</a><br />
-<a href="http://gettingthingsdone.libsyn.com/" target="_blank">Lisbyn</a></p>
-<h2>GTD Weekly Review<sup>®</sup></h2>
-<p><strong>GET CLEAR</strong><br />
-Collect Loose Papers and Materials<br />
-Gather all accumulated business cards, receipts, and miscellaneous paper-based materials into your in-tray.<br />
-Get “IN” to Zero<br />
-Process completely all outstanding paper materials, journal and meeting notes, voicemails, dictation, and emails.<br />
-Empty Your Head<br />
-Put in writing and process any uncaptured new projects, action items, waiting for’s, someday maybe’s, etc.</p>
-<p><strong>GET CURRENT</strong><br />
-Review Action Lists<br />
-Mark off completed actions. Review for reminders of further action steps to record.<br />
-Review Previous Calendar Data<br />
-Review past calendar in detail for remaining action items, reference data, etc., and transfer into the active system.<br />
-Review Upcoming Calendar<br />
-Review upcoming calendar events–long and short term. Capture actions triggered.<br />
-Review Waiting For List<br />
-Record appropriate actions for any needed follow-up. Check off received ones.<br />
-Review Project (and Larger Outcome) Lists<br />
-Evaluate status of projects, goals, and outcomes, one by one, ensuring at least one current action item on each.<br />
-Browse through project plans, support material, and any other work-in-progress material to trigger new actions, completions,<br />
-waiting fors, etc.<br />
-Review Any Relevant Checklists<br />
-Use as a trigger for any new actions.</p>
-<p><strong>GET CREATIVE</strong><br />
-Review Someday/Maybe List<br />
-Review for any projects which may now have become active, and transfer to “Projects.” Delete items no longer of interest.<br />
-Be Creative and Courageous<br />
-Any new, wonderful, hare-brained, creative, thought-provoking, risk-taking ideas to add into your system???</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-			<wfw:commentRss>http://gettingthingsdone.com/2015/07/podcast-07-guided-gtd-weekly-review/feed/</wfw:commentRss>
-		<slash:comments>3</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.335 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-11-13 20:56:03 -->
+<!-- Dynamic page generated in 0.410 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-02 12:34:53 -->

@@ -20,8 +20,175 @@
       <itunes:category text="Software How-To" />
       <itunes:category text="Tech News" />
     </itunes:category>
-    <itunes:keywords>accessibility,agile,book,community,computer science,consulting,devops,diversity,elixir,emacs,guest,guests,haskell,interviewing,interviews,ios,javascript,learning,pairing,paper,philly,productivity,quitting,rails,random,remote,ruby,security,self promotion,software craftsmanship,swift,tdd,testing</itunes:keywords>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Turing-Incomplete" /><feedburner:info uri="turing-incomplete" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>2014-2015 Turing-Incomplete</media:copyright><media:thumbnail url="http://turing.cool/cover-art-1400.png" /><media:keywords>accessibility,agile,book,community,computer science,consulting,devops,diversity,elixir,emacs,guest,guests,haskell,interviewing,interviews,ios,javascript,learning,pairing,paper,philly,productivity,quitting,rails,random,remote,ruby,security,self promotion,software craftsmanship,swift,tdd,testing</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:subtitle>A Podcast About Programming</itunes:subtitle><item>
+    <itunes:keywords>accessibility,agile,book,clojure,community,computer science,conferences,consulting,devops,diversity,elixir,emacs,guest,guests,haskell,interviewing,interviews,ios,javascript,learning,pairing,paper,philly,productivity,quitting,rails,random,react,remote,ruby,security,self promotion,software craftsmanship,swift,tdd,testing</itunes:keywords>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Turing-Incomplete" /><feedburner:info uri="turing-incomplete" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>2014-2015 Turing-Incomplete</media:copyright><media:thumbnail url="http://turing.cool/cover-art-1400.png" /><media:keywords>accessibility,agile,book,clojure,community,computer science,conferences,consulting,devops,diversity,elixir,emacs,guest,guests,haskell,interviewing,interviews,ios,javascript,learning,pairing,paper,philly,productivity,quitting,rails,random,react,remote,ruby,security,self promotion,software craftsmanship,swift,tdd,testing</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:subtitle>A Podcast About Programming</itunes:subtitle><item>
+      <title>72: Inevitability and what have you</title>
+      <link>http://turing.cool/72/</link>
+      <description>
+  LGBTQ Tech Podcast
+  LGBTQ in Technology - LGBTQ in Technology
+  Keep Talking and Nobody Explodes
+  One framework. - Angular 2
+  What Is Spacetime, Really?—Stephen Wolfram Blog
+  Doctor Carl Cosmic Therapist
+  AmazonSmile: Witness Board Game: Toys &amp;amp; Games
+
+</description>
+      <content:encoded>&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://lgbtq.fm/"&gt;LGBTQ Tech Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://lgbtq.technology/"&gt;LGBTQ in Technology - LGBTQ in Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.keeptalkinggame.com/"&gt;Keep Talking and Nobody Explodes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://angular.io/"&gt;One framework. - Angular 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://blog.stephenwolfram.com/2015/12/what-is-spacetime-really/"&gt;What Is Spacetime, Really?—Stephen Wolfram Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://doctor-carl.com/"&gt;Doctor Carl Cosmic Therapist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://smile.amazon.com/Asmodee-BEM01ASM-Witness-Board-Game/dp/B00QEAJVKU"&gt;AmazonSmile: Witness Board Game: Toys &amp;amp; Games&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Picks&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Pam: &lt;a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ"&gt;What the heck is the Event Loop Anyway?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Justin: &lt;a href="https://github.com/krisajenkins/yesql"&gt;YeSQL&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Jearvon: &lt;a href="http://www.dewalt.com/tools/cordless-combo-packs-20v-max-combo-packs-dck281d2.aspx"&gt;DeWALT drills&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=XPzCzaBhF7s"&gt;Jai Wolf - Indian Summer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Len: &lt;a href="http://www.youtube.com/red"&gt;YouTube Red&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;These shownotes are also available at&amp;nbsp;&lt;a href="http://turing.cool/72/"&gt;turing.cool/72&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://turing.cool"&gt;turing.cool&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://twitter.com/turingcool"&gt;@turingcool&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/turing-incomplete/turing-incomplete"&gt;github.com/turing-incomplete&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Justin Campbell:&amp;nbsp;&lt;a href="http://twitter.com/justincampbell"&gt;@justincampbell&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Jearvon Dharrie:&amp;nbsp;&lt;a href="http://twitter.com/jearvon"&gt;@jearvon&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Pam Selle:&amp;nbsp;&lt;a href="http://twitter.com/pamasaur"&gt;@pamasaur&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Len Smith:&amp;nbsp;&lt;a href="http://twitter.com/ignu"&gt;@ignu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <pubDate>Fri, 18 Dec 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://turing.cool/72/</guid>
+      <media:content url="http://feedproxy.google.com/~r/Turing-Incomplete/~5/EFyrWUIRdSY/Turing-Incomplete-72.mp3" type="audio/mpeg" fileSize="34562018" />
+      
+      <itunes:subtitle>
+  LGBTQ Tech Podcast
+  LGBTQ in Technology - LGBTQ in Technology
+  Keep Talking and Nobody Explodes
+  One framework. - Angular 2
+  What Is Spacetime, Really?—Stephen Wolfram Blog
+  Doctor Carl Cosmic Therapist
+  AmazonSmile: Witness Board Game: Toys &amp;amp; Games
+
+</itunes:subtitle>
+      <itunes:summary>
+  LGBTQ Tech Podcast
+  LGBTQ in Technology - LGBTQ in Technology
+  Keep Talking and Nobody Explodes
+  One framework. - Angular 2
+  What Is Spacetime, Really?—Stephen Wolfram Blog
+  Doctor Carl Cosmic Therapist
+  AmazonSmile: Witness Board Game: Toys &amp;amp; Games
+
+</itunes:summary>
+      <itunes:author>Turing-Incomplete</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2160</itunes:duration>
+      <itunes:keywords>random</itunes:keywords>
+      <itunes:image href="http://turing.cool/cover-art-1400.png" />
+    <enclosure url="http://feedproxy.google.com/~r/Turing-Incomplete/~5/EFyrWUIRdSY/Turing-Incomplete-72.mp3" length="34562018" type="audio/mpeg" /><feedburner:origEnclosureLink>http://episodes.turing.cool/Turing-Incomplete-72.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>71: Just start with something</title>
+      <link>http://turing.cool/71/</link>
+      <description>We talk about Len's Funemployment, React, React Native, Clojure, ClojureScript, giving better conference talks, and Angular 2.
+
+
+  Cross-Platform Native Development with Javascript
+  React Native with Nick Lockwood
+  Clojure/conj 2015
+  Mobile Apps with ClojureScript - Jearvon Dharrie - YouTube
+  Quick Start (om.next)
+  Om Next - David Nolen - YouTube
+  Angular 2 Generator
+
+</description>
+      <content:encoded>&lt;p&gt;We talk about &lt;a href="http://twitter.com/ignu"&gt;Len&lt;/a&gt;'s Funemployment, React, React Native, Clojure, ClojureScript, giving better conference talks, and Angular 2.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.nativescript.org/"&gt;Cross-Platform Native Development with Javascript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.raywenderlich.com/106144/react-native-with-nick-lockwood-podcast-s04-e02"&gt;React Native with Nick Lockwood&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://clojure-conj.org/"&gt;Clojure/conj 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=GDA-g6Ca_dQ"&gt;Mobile Apps with ClojureScript - Jearvon Dharrie - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/omcljs/om/wiki/Quick-Start-(om.next)"&gt;Quick Start (om.next)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ByNs9TG30E8"&gt;Om Next - David Nolen - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/swirlycheetah/generator-angular2"&gt;Angular 2 Generator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Picks&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Pam: &lt;a href="https://vimeo.com/144625829"&gt;Angular2 Data Flow on Vimeo&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Jearvon: &lt;a href="https://www.youtube.com/watch?v=YQHsXMglC9A"&gt;Adele Hello&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=FihU5JxmnBg&amp;amp;list=PLZdCLR02grLrl5ie970A24kvti21hGiOf&amp;amp;index=2"&gt;Debugging with the Scientific Method&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Len: &lt;a href="http://www.netflix.com/title/80002311"&gt;Jessica Jones&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;These shownotes are also available at&amp;nbsp;&lt;a href="http://turing.cool/71/"&gt;turing.cool/71&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://turing.cool"&gt;turing.cool&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://twitter.com/turingcool"&gt;@turingcool&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/turing-incomplete/turing-incomplete"&gt;github.com/turing-incomplete&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Justin Campbell:&amp;nbsp;&lt;a href="http://twitter.com/justincampbell"&gt;@justincampbell&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Jearvon Dharrie:&amp;nbsp;&lt;a href="http://twitter.com/jearvon"&gt;@jearvon&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Pam Selle:&amp;nbsp;&lt;a href="http://twitter.com/pamasaur"&gt;@pamasaur&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Len Smith:&amp;nbsp;&lt;a href="http://twitter.com/ignu"&gt;@ignu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <pubDate>Wed, 02 Dec 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://turing.cool/71/</guid>
+      <media:content url="http://feedproxy.google.com/~r/Turing-Incomplete/~5/MqvfakZTDKQ/Turing-Incomplete-71.mp3" type="audio/mpeg" fileSize="34613427" />
+      
+      <itunes:subtitle>We talk about Len's Funemployment, React, React Native, Clojure, ClojureScript, giving better conference talks, and Angular 2.
+
+
+  Cross-Platform Native Development with Javascript
+  React Native with Nick Lockwood
+  Clojure/conj 2015
+  Mobile Apps with ClojureScript - Jearvon Dharrie - YouTube
+  Quick Start (om.next)
+  Om Next - David Nolen - YouTube
+  Angular 2 Generator
+
+</itunes:subtitle>
+      <itunes:summary>We talk about Len's Funemployment, React, React Native, Clojure, ClojureScript, giving better conference talks, and Angular 2.
+
+
+  Cross-Platform Native Development with Javascript
+  React Native with Nick Lockwood
+  Clojure/conj 2015
+  Mobile Apps with ClojureScript - Jearvon Dharrie - YouTube
+  Quick Start (om.next)
+  Om Next - David Nolen - YouTube
+  Angular 2 Generator
+
+</itunes:summary>
+      <itunes:author>Turing-Incomplete</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2163</itunes:duration>
+      <itunes:keywords>react,clojure,conferences</itunes:keywords>
+      <itunes:image href="http://turing.cool/cover-art-1400.png" />
+    <enclosure url="http://feedproxy.google.com/~r/Turing-Incomplete/~5/MqvfakZTDKQ/Turing-Incomplete-71.mp3" length="34613427" type="audio/mpeg" /><feedburner:origEnclosureLink>http://episodes.turing.cool/Turing-Incomplete-71.mp3</feedburner:origEnclosureLink></item>
+    <item>
+      <title>70: The extent of my spice knowledge</title>
+      <link>http://turing.cool/70/</link>
+      <description>We talk about Apple TVs, BarCamp, Spices, Self-Organizing Teams, Productivity and Project Tracking Systems.
+
+
+  Apple TV - Apple
+  BarCamp Philly 2015
+  The Rope Game on Vimeo
+  Should your self-driving car kill you to save a school bus?
+  Trello
+
+</description>
+      <content:encoded>&lt;p&gt;We talk about Apple TVs, BarCamp, Spices, Self-Organizing Teams, Productivity and Project Tracking Systems.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.apple.com/tv/"&gt;Apple TV - Apple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://2015.barcampphilly.org/"&gt;BarCamp Philly 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://vimeo.com/61237895"&gt;The Rope Game on Vimeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.digitaltrends.com/cars/self-driving-car-moral-decisions/"&gt;Should your self-driving car kill you to save a school bus?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://trello.com/"&gt;Trello&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Picks&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Pam: &lt;a href="https://kaitlin.github.io/elasticsearch/"&gt;Fun with Elasticsearch!&lt;/a&gt;, &lt;a href="http://devtoolschallenger.com/"&gt;DevTools Challenger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Jearvon: &lt;a href="https://soundcloud.com/odesza/diplo-and-friends"&gt;ODESZA&lt;/a&gt;, &lt;a href="https://facebook.github.io/react-native/"&gt;React Native&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Len: &lt;a href="http://www.shutupandsitdown.com/blog/post/some-tips-rules-explanations/"&gt;Sit Down | Some Tips for Rules Explanations!&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Justin: &lt;a href="https://github.com/LRDesign/rspec-steps"&gt;rspec-steps&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;These shownotes are also available at&amp;nbsp;&lt;a href="http://turing.cool/70/"&gt;turing.cool/70&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://turing.cool"&gt;turing.cool&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://twitter.com/turingcool"&gt;@turingcool&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/turing-incomplete/turing-incomplete"&gt;github.com/turing-incomplete&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Justin Campbell:&amp;nbsp;&lt;a href="http://twitter.com/justincampbell"&gt;@justincampbell&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Jearvon Dharrie:&amp;nbsp;&lt;a href="http://twitter.com/jearvon"&gt;@jearvon&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Pam Selle:&amp;nbsp;&lt;a href="http://twitter.com/pamasaur"&gt;@pamasaur&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Len Smith:&amp;nbsp;&lt;a href="http://twitter.com/ignu"&gt;@ignu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <pubDate>Tue, 24 Nov 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://turing.cool/70/</guid>
+      <media:content url="http://feedproxy.google.com/~r/Turing-Incomplete/~5/xgprIIlR9C4/Turing-Incomplete-70.mp3" type="audio/mpeg" fileSize="36587440" />
+      
+      <itunes:subtitle>We talk about Apple TVs, BarCamp, Spices, Self-Organizing Teams, Productivity and Project Tracking Systems.
+
+
+  Apple TV - Apple
+  BarCamp Philly 2015
+  The Rope Game on Vimeo
+  Should your self-driving car kill you to save a school bus?
+  Trello
+
+</itunes:subtitle>
+      <itunes:summary>We talk about Apple TVs, BarCamp, Spices, Self-Organizing Teams, Productivity and Project Tracking Systems.
+
+
+  Apple TV - Apple
+  BarCamp Philly 2015
+  The Rope Game on Vimeo
+  Should your self-driving car kill you to save a school bus?
+  Trello
+
+</itunes:summary>
+      <itunes:author>Turing-Incomplete</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2041</itunes:duration>
+      <itunes:keywords>random,javascript,conferences</itunes:keywords>
+      <itunes:image href="http://turing.cool/cover-art-1400.png" />
+    <enclosure url="http://feedproxy.google.com/~r/Turing-Incomplete/~5/xgprIIlR9C4/Turing-Incomplete-70.mp3" length="36587440" type="audio/mpeg" /><feedburner:origEnclosureLink>http://episodes.turing.cool/Turing-Incomplete-70.mp3</feedburner:origEnclosureLink></item>
+    <item>
       <title>69: Slack Up</title>
       <link>http://turing.cool/69/</link>
       <description>We talk about Slack, React, and more.

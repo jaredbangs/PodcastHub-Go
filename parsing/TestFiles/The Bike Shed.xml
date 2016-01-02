@@ -8,8 +8,8 @@
 
 For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</description>
     <language>en</language>
-    <pubDate>Wed, 11 Nov 2015 00:01:00 -0500</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2015 10:03:42 -0500</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2015 00:01:00 -0500</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2015 10:47:24 -0500</lastBuildDate>
     <link>http://bikeshed.fm</link>
     <image>
       <url>http://simplecast-media.s3.amazonaws.com/podcast/image/282/1433513863-artwork.jpg</url>
@@ -29,6 +29,76 @@ For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</itunes:sum
       <itunes:email>hosts@bikeshed.fm</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
+    <item>
+      <title>41: Ugh, I Have to Write Web Apps in This Thing</title>
+      <guid isPermaLink="false">f5515cd2-bf8d-4545-92ac-1f7e203d6b70</guid>
+      <link>http://bikeshed.fm/41</link>
+      <description>Derek and Sean talk about Derek's exploration into Elixir and Phoenix, when and how performance matters, and ways to keep your Rails app fast from day 1.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek and Sean talk about Derek's exploration into Elixir and Phoenix, when and how performance matters, and ways to keep your Rails app fast from day 1.</p>
+
+<ul>
+<li><a href="http://elixir-lang.org/">The Elixir Programming Language</a></li>
+<li><a href="http://www.phoenixframework.org/">Phoenix Web Framework</a></li>
+<li><a href="https://robots.thoughtbot.com/announcing-ex-machina">Announcing Ex Machina</a></li>
+<li><a href="https://github.com/thoughtbot/ex_machina">ex_machina on Github</a></li>
+<li><a href="https://github.com/rails/rails/pull/19324">touches are now batched in Rails 5</a></li>
+<li><a href="http://bitfission.com/redirect_blame/">Basecamp 3 Source Code</a></li>
+<li><a href="https://github.com/flyerhzm/bullet">Bullet</a> and <a href="https://github.com/MiniProfiler/rack-mini-profiler">Rack MiniProfiler</a></li>
+<li><a href="http://bikeshed.fm/17">Railing About Performance with Sam Saffron</a></li>
+<li><a href="https://robots.thoughtbot.com/a-client-project-two-years-later">A Client Project, Two Years Later</a></li>
+<li><a href="http://i.imgur.com/WBz29mK.png">Derek at a Coworking Space</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 25 Nov 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/21212.mp3" length="25521973" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/21212/1448408823-artwork.jpg"/>
+      <itunes:duration>00:35:25</itunes:duration>
+      <itunes:summary>Derek and Sean talk about Derek's exploration into Elixir and Phoenix, when and how performance matters, and ways to keep your Rails app fast from day 1.
+</itunes:summary>
+      <itunes:subtitle>Derek and Sean talk about Derek's exploration into Elixir and Phoenix, when and how performance matters, and ways to keep your Rails app fast from day 1.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>40: ActiveRecord Deprecated Persistence</title>
+      <guid isPermaLink="false">373627d8-922e-4735-835f-1534dce77a40</guid>
+      <link>http://bikeshed.fm/40</link>
+      <description>The ActiveRecord update API is a mess of methods that confuse even ActiveRecord’s maintainer. What are the problems and is there any hope for a solution?
+</description>
+      <content:encoded>
+        <![CDATA[<p>The ActiveRecord update API is a mess of methods that confuse even ActiveRecord’s maintainer. What are the problems and is there any hope for a solution?</p>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=AjtpplE39_g">40</a></li>
+<li><a href="https://greg.molnar.io/tech/2015/10/28/prevent-rails-information-leaking.html">Prevent Information leaking In Rails</a></li>
+<li><a href="http://www.davidverhasselt.com/set-attributes-in-activerecord/">Different ways to update in Rails</a></li>
+<li><a href="https://robots.thoughtbot.com/the-perils-of-uniqueness-validations">The Perils of Uniqueness Validations</a></li>
+<li><a href="https://github.com/rails/rails/pull/21135"><code>disable with</code> is default in Rails 5</a></li>
+<li><a href="http://bikeshed.fm/11">The Bike Shed #11: Forming Opinions</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 18 Nov 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/20314.mp3" length="24769695" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/20314/1447781604-artwork.jpg"/>
+      <itunes:duration>00:34:22</itunes:duration>
+      <itunes:summary>The ActiveRecord update API is a mess of methods that confuse even ActiveRecord’s maintainer. What are the problems and is there any hope for a solution?
+</itunes:summary>
+      <itunes:subtitle>The ActiveRecord update API is a mess of methods that confuse even ActiveRecord’s maintainer. What are the problems and is there any hope for a solution?
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>39: Okay with Instability (with Yehuda Katz)</title>
       <guid isPermaLink="false">ed9aad07-e9cf-4564-9eee-1bea588d0cf2</guid>

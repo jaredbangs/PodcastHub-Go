@@ -8,8 +8,8 @@
 
 For sponsorship opportunities, inquire  at thoughtbot.com/sponsorship</description>
     <language>en-us</language>
-    <pubDate>Mon, 09 Nov 2015 00:01:00 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2015 00:01:01 -0500</lastBuildDate>
+    <pubDate>Tue, 01 Dec 2015 00:01:00 -0500</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2015 00:01:02 -0500</lastBuildDate>
     <image>
       <url>http://simplecast-media.s3.amazonaws.com/podcast/image/271/1437963534-artwork.jpg</url>
       <title>Giant Robots Smashing into other Giant Robots Podcast</title>
@@ -29,6 +29,72 @@ For sponsorship opportunities, inquire  at thoughtbot.com/sponsorship</itunes:su
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <item>
+      <title>172: Go After the Hard Stuff (Eric Normand)</title>
+      <guid isPermaLink="false">9a14ab67-6d7e-411a-a462-60f2850715f1</guid>
+      <link>http://giantrobots.fm/172</link>
+      <description>Ben and Eric Normand of LispCast and PurelyFunctional.tv talk about the pros and cons of Haskell and Clojure, empathize on some of the pain points of running an educational coding platform, and hypothesize on how the next great programming "killer demo" will present itself.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Ben and Eric Normand of LispCast and PurelyFunctional.tv talk about the pros and cons of Haskell and Clojure, empathize on some of the pain points of running an educational coding platform, and hypothesize on how the next great programming "killer demo" will present itself.</p>
+
+<ul>
+<li><a href="https://upcase.com/halfoff">Upcase</a>: 50% Off Your First Month For Giant Robots Listeners!</li>
+<li><a href="http://www.lispcast.com/giantrobots">LispCast</a>- With welcome message for <em>Giant Robots</em> listeners</li>
+<li><a href="http://www.purelyfunctional.tv/">PurelyFunctional.tv</a></li>
+<li><a href="http://www.lispcast.com/nil-punning">Nil Punning</a></li>
+<li><a href="https://www.kickstarter.com/projects/376627045/lispcast-introduction-to-clojure-videos/description">Original LispCast Kickstarter</a></li>
+<li><a href="https://youtu.be/Gzj723LkRJY">Ruby on Rails 15 Minute Blog Demo</a></li>
+<li><a href="https://twitter.com/ericnormand">Eric on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 01 Dec 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/21368.mp3" length="29898846" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/21368/1448914383-artwork.jpg"/>
+      <itunes:duration>00:41:27</itunes:duration>
+      <itunes:summary>Ben and Eric Normand of LispCast and PurelyFunctional.tv talk about the pros and cons of Haskell and Clojure, empathize on some of the pain points of running an educational coding platform, and hypothesize on how the next great programming "killer demo" will present itself.
+</itunes:summary>
+      <itunes:subtitle>Ben and Eric Normand of LispCast and PurelyFunctional.tv talk about the pros and cons of Haskell and Clojure, empathize on some of the pain points of running an educational coding platform, and hypothesize on how the next great programming "killer demo" w</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>171: Always Be Hustling (Steli Efti)</title>
+      <guid isPermaLink="false">f71b184a-f8c8-4ded-bbec-b3f129420bbd</guid>
+      <link>http://giantrobots.fm/171</link>
+      <description>Ben talks with Steli Efti, CEO and Co-founder of Close.io, on maintaining energy and passion in speaking, why engineers make great sales people (and how they can be even better), and managing your emotions to be more productive and happy.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Ben talks with Steli Efti, CEO and Co-founder of Close.io, on maintaining energy and passion in speaking, why engineers make great sales people (and how they can be even better), and  managing your emotions to be more productive and happy.</p>
+
+<ul>
+<li><a href="https://upcase.com/halfoff">Upcase</a>: 50% Off Your First Month For Giant Robots Listeners!</li>
+<li><a href="http://close.io/">Close.io</a></li>
+<li><a href="https://vimeo.com/131441010">How to Build a Solo SaaS Sales Machine</a></li>
+<li><a href="http://blog.close.io/engineer-sales-lessons">Engineers Vs Sales People</a></li>
+<li><a href="http://thestartupchat.com/landing/">The Startup Chat</a></li>
+<li><a href="https://twitter.com/Steli">Steli on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 23 Nov 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/21012.mp3" length="27165357" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/21012/1448056968-artwork.jpg"/>
+      <itunes:duration>00:37:39</itunes:duration>
+      <itunes:summary>Ben talks with Steli Efti, CEO and Co-founder of Close.io, on maintaining energy and passion in speaking, why engineers make great sales people (and how they can be even better), and managing your emotions to be more productive and happy.
+</itunes:summary>
+      <itunes:subtitle>Ben talks with Steli Efti, CEO and Co-founder of Close.io, on maintaining energy and passion in speaking, why engineers make great sales people (and how they can be even better), and managing your emotions to be more productive and happy.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>170: Make Things People Want (C. Todd Lombardo &amp; Trace Wax)</title>
       <guid isPermaLink="false">4c1bb4a2-6450-4aab-a987-03e6dbbb3e9f</guid>
@@ -4405,7 +4471,7 @@ This episode of Giant Robots is sponsored by Digital Ocean. Simple and fast clou
       <description>This week we try something a little different. Joe Ferris, Matt Jankowski, Ben Orenstein, and Chad Pytel get together and have a little fun, in what we're calling "Tiny Robots cuddling with other Tiny Robots". We'd love to get your thoughts on this special format, tweet us @thoughtbot or email learn@thoughtbot.com.
 </description>
       <content:encoded>
-        <![CDATA[<p>This week we try something a little different. Joe Ferris, Matt Jankowski, Ben Orenstein, and Chad Pytel get together and have a little fun, in what we're calling "Tiny Robots cuddling with other Tiny Robots". We'd love to get your thoughts on this special format, tweet us @thoughtbot or email <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x6c;&#x65;&#x61;&#x72;&#110;&#x40;&#x74;&#104;&#111;&#x75;&#x67;&#x68;&#x74;&#98;&#x6f;&#x74;&#x2e;&#x63;&#x6f;&#109;&#x2e;">&#108;&#101;&#x61;&#114;&#110;&#x40;&#116;&#x68;&#111;&#117;&#x67;&#x68;&#x74;&#98;&#x6f;&#116;&#x2e;&#x63;&#111;&#109;&#46;</a></p>
+        <![CDATA[<p>This week we try something a little different. Joe Ferris, Matt Jankowski, Ben Orenstein, and Chad Pytel get together and have a little fun, in what we're calling "Tiny Robots cuddling with other Tiny Robots". We'd love to get your thoughts on this special format, tweet us @thoughtbot or email <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#x6c;&#101;&#97;&#114;&#x6e;&#x40;&#x74;&#104;&#111;&#x75;&#103;&#x68;&#x74;&#98;&#111;&#x74;&#46;&#99;&#111;&#109;&#46;">&#108;&#x65;&#97;&#114;&#110;&#x40;&#x74;&#104;&#x6f;&#x75;&#x67;&#x68;&#x74;&#x62;&#111;&#x74;&#46;&#x63;&#x6f;&#x6d;&#x2e;</a></p>
 
 <p>Follow <a href="http://twitter.com/thoughtbot">@thoughtbot</a>, <a href="http://twitter.com/joeferris">@joeferris</a>, <a href="http://twitter.com/jankowski">@jankowski</a>, <a href="http://twitter.com/r00k">@r00k</a>, and <a href="http://twitter.com/cpytel">@cpytel</a> on twitter.</p>
 ]]>

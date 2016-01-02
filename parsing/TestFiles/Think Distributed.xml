@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:50980903/sounds.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:50980903/sounds.rss?before=100811088" rel="next" type="application/rss+xml"/>
     <title>Think Distributed</title>
     <link>http://thinkdistributed.io</link>
     <pubDate>Tue, 16 Dec 2014 14:28:54 +0000</pubDate>

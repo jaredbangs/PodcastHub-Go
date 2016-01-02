@@ -27,6 +27,51 @@
 
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/NodeUp" /><feedburner:info uri="nodeup" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>nodeup.com</media:copyright><media:thumbnail url="http://nodeup.com/logo2.jpg" /><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>nodeup@gmail.com</itunes:email></itunes:owner><itunes:explicit>no</itunes:explicit><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category><item>
 
+<title>96 - A Node v5.0 Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rich Trott is joined by Rebecca Turner and Rod Vagg to talk about Node v5.0!</itunes:subtitle>
+
+<itunes:summary>Rich Trott is joined by Rebecca Turner and Rod Vagg to talk about Node v5.0!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp96/NodeUp96.mp3</guid>
+
+<pubDate>Wed, 25 Nov 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>38:33</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, 5</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/WSf3-u5CWqQ/NodeUp96.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/WSf3-u5CWqQ" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/WSf3-u5CWqQ/NodeUp96.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp96/NodeUp96.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/WSf3-u5CWqQ/NodeUp96.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp96/NodeUp96.mp3</feedburner:origEnclosureLink></item>
+
+
+<item>
+
+<title>95 - A Build/CI Show.</title>
+
+<itunes:author>NodeUp</itunes:author>
+
+<itunes:subtitle>Rod Vagg is joined by Alexis Campailla, João Reis and Hans Kristian Flaatten to talk about Node\'s build and CI infrastructure!</itunes:subtitle>
+
+<itunes:summary>Rod Vagg is joined by Alexis Campailla, João Reis and Hans Kristian Flaatten to talk about Node\'s build and CI infrastructure!</itunes:summary>
+
+
+
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp95/NodeUp95.mp3</guid>
+
+<pubDate>Tue, 17 Nov 2015 12:00:00 EST</pubDate>
+
+<itunes:duration>50:19</itunes:duration>
+
+<itunes:keywords>node.js, node, javascript, build, ci</itunes:keywords>
+
+<author>nodeup@gmail.com</author><media:content url="http://feedproxy.google.com/~r/NodeUp/~5/bA4dSWxHjc8/NodeUp95.mp3" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><description>&lt;img src="http://feeds.feedburner.com/~r/NodeUp/~4/bA4dSWxHjc8" height="1" width="1" alt=""/&gt;</description><link>http://feedproxy.google.com/~r/NodeUp/~3/bA4dSWxHjc8/NodeUp95.mp3</link><feedburner:origLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp95/NodeUp95.mp3</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NodeUp/~5/bA4dSWxHjc8/NodeUp95.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp95/NodeUp95.mp3</feedburner:origEnclosureLink></item>
+
+<item>
+
 <title>94 - A Node.js Interactive Show.</title>
 
 <itunes:author>NodeUp</itunes:author>

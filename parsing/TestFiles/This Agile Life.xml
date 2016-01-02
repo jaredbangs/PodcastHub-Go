@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 
 <channel>
 	<title>This Agile Life</title>
 	
 	<link>http://www.thisagilelife.com</link>
 	<description>A podcast about what it's like to be Agile in the real world.</description>
-	<lastBuildDate>Wed, 14 Oct 2015 19:30:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Nov 2015 07:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
-<!-- podcast_generator="Blubrry PowerPress/6.0.5" mode="advanced" -->
+	<generator>https://wordpress.org/?v=4.4</generator>
+<!-- podcast_generator="Blubrry PowerPress/6.2.1" mode="advanced" -->
 	<itunes:summary>Agile software development is a mix of best practices and philosophical tenants. But there is a big difference between the ideal situations and what developers face in the real world. This Agile Life talks with some of the best in the business about the challenges of software engineering and how real world solutions can bring the promise of Agile methodologies to your software projects.</itunes:summary>
 	<itunes:author>John Sextro</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
@@ -22,6 +22,108 @@
 	<image><link>http://www.thisagilelife.com</link><url>http://www.thisagilelife.com/wp-content/uploads/2012/08/copy-thisagilelife.jpg</url><title>This Agile Life</title></image>
 	
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/thisagilelife/podcast" /><feedburner:info uri="thisagilelife/podcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Copyright 2012</media:copyright><media:thumbnail url="http://www.thisagilelife.com/wp-content/uploads/2012/07/thisagilelife.png" /><media:keywords>thisagilelife,John,Sextro,Amos,King,Nate,McKie,Lee,McCauley,Craig,Buchek,Jason,Tice</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>john.sextro@gmail.com</itunes:email><itunes:name>John Sextro</itunes:name></itunes:owner><itunes:keywords>thisagilelife,John,Sextro,Amos,King,Nate,McKie,Lee,McCauley,Craig,Buchek,Jason,Tice</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category><item>
+		<title>Chasing the Dragon (Giving Thanks for Agile) – 103</title>
+		<link>http://feedproxy.google.com/~r/thisagilelife/podcast/~3/0-HqY8zCR6E/</link>
+		<comments>http://www.thisagilelife.com/103/#respond</comments>
+		<pubDate>Sun, 29 Nov 2015 07:03:25 +0000</pubDate>
+		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://www.thisagilelife.com/?p=1098</guid>
+		<description><![CDATA[Released Sunday, November 29th, 2015 Hosts: Jason Tice, Craig Buchek and John Sextro Discussion Things we’re thankful for about agile Tice I’m thankful agile embracing self managing teams and empowering the people who have access to the most relevant information to make decisions (vs. project managers who sit in offices removed from team) I’m thankful for agile [&#8230;]]]></description>
+				<content:encoded><![CDATA[
+<p>Released Sunday, November 29th, 2015<br />
+Hosts: Jason Tice, Craig Buchek and John Sextro</p>
+<h2><span style="font-weight: 400;">Discussion</span></h2>
+<h4><span style="font-weight: 400;">Things we’re thankful for about agile</span></h4>
+<p><span style="font-weight: 400;">Tice</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">I’m thankful agile embracing self managing teams and empowering the people who have access to the most relevant information to make decisions (vs. project managers who sit in offices removed from team)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">I’m thankful for agile encouraging us to “make work fun, happy &amp; engaging” &#8211; solve challenging problems, use metaphors to get everyone involved (tech staff learn the business &amp; business learn some stuff about tech)</span></li>
+</ul>
+<p><span style="font-weight: 400;">Craig</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We (theoretically) put people above processes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We don’t rest on our laurels &#8211; we have a culture of looking for better ways to work</span></li>
+</ul>
+<p><span style="font-weight: 400;">John</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The agile manifesto</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The power of retrospectives for continuous improvement</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Thanks to principles of self org/manage we are removing the supervisory role for knowledge workers</span></li>
+</ul>
+<p><a href="http://www.danpink.com/video/"><span style="font-weight: 400;">Daniel Pink video on Drive</span><span style="font-weight: 400;"><br />
+</span></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Picks</span></h2>
+<h3><span style="font-weight: 400;">Craig</span></h3>
+<ul>
+<li style="font-weight: 400;"><a href="http://blog.boochtek.com/2015/09/28/no-estimates"><span style="font-weight: 400;">The Problem With Estimates</span></a><span style="font-weight: 400;"> &#8211; why I lean toward #NoEstimates</span></li>
+<li style="font-weight: 400;"><a href="https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience"><span style="font-weight: 400;">Ten Ways to Improve Your Pairing Experience</span></a><span style="font-weight: 400;"> &#8211; some tips from ThoughtWorks</span></li>
+<li style="font-weight: 400;"><a href="https://en.wikipedia.org/wiki/Braess%27_paradox"><span style="font-weight: 400;">Braess’ paradox</span></a><span style="font-weight: 400;"> &#8211; building more roads can make traffic worse</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Jason</span></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Proceedings from the AgileDialogs.org #NoEstimates conference &#8211; Interested in learning more about #NoEstimates, #YesForecasts, #LessEstimates &#8211; check out the proceedings from the first AgileDialogs conference held in DC on 11/13/2015 &#8211; lots of insights and ideas about various estimates / planning approaches &#8211; </span><a href="http://agiledialogs.org/category/the-unconferences/"><span style="font-weight: 400;">http://agiledialogs.org/category/the-unconferences/</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">AgileDialogs un-conferences &#8211; organized out of DC by Paul Boos (@pmboos) &#8211; groups that meet to discuss a topic which has mixed views &#8211; additional topics / events coming in 2016 &#8211; </span><span style="font-weight: 400;"><a href="http://www.agiledialogs.org">www.agiledialogs.org</a></span></li>
+</ul>
+<h3><span style="font-weight: 400;">John</span></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="http://www.principlesofchaos.org/">The Principles of Chaos Engineering</a></span></li>
+<li style="font-weight: 400;"><a href="http://www.devx.com/enterprise/seven-secrets-of-successful-pair-programming.html"><span style="font-weight: 400;">7 Secrets of Effective Pair Programming</span></a></li>
+</ul>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=0-HqY8zCR6E:jsOKspHo-tM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=0-HqY8zCR6E:jsOKspHo-tM:63t7Ie-LG7Y"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=63t7Ie-LG7Y" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=0-HqY8zCR6E:jsOKspHo-tM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?i=0-HqY8zCR6E:jsOKspHo-tM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=0-HqY8zCR6E:jsOKspHo-tM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/thisagilelife/podcast/~4/0-HqY8zCR6E" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.thisagilelife.com/103/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>Released Sunday, November 29th, 2015 Hosts: Jason Tice, Craig Buchek and John Sextro Discussion Things we’re thankful for about agile Tice I’m thankful agile embracing self managing teams and empowering the people who have access to the most re...</itunes:subtitle>
+		<itunes:summary>Released Sunday, November 29th, 2015
+Hosts: Jason Tice, Craig Buchek and John Sextro
+Discussion
+Things we’re thankful for about agile
+Tice
+
+	I’m thankful agile embracing self managing teams and empowering the people who have access to the most relevant information to make decisions (vs. project managers who sit in offices removed from team)
+	I’m thankful for agile encouraging us to “make work fun, happy &amp; engaging” - solve challenging problems, use metaphors to get everyone involved (tech staff learn the business &amp; business learn some stuff about tech)
+
+Craig
+
+	We (theoretically) put people above processes
+	We don’t rest on our laurels - we have a culture of looking for better ways to work
+
+John
+
+	The agile manifesto
+	The power of retrospectives for continuous improvement
+	Thanks to principles of self org/manage we are removing the supervisory role for knowledge workers
+
+&lt;a href="http://www.danpink.com/video/"&gt;Daniel Pink video on Drive
+&lt;/a&gt;
+
+ 
+Picks
+Craig
+
+	&lt;a href="http://blog.boochtek.com/2015/09/28/no-estimates"&gt;The Problem With Estimates&lt;/a&gt; - why I lean toward #NoEstimates
+	&lt;a href="https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience"&gt;Ten Ways to Improve Your Pairing Experience&lt;/a&gt; - some tips from ThoughtWorks
+	&lt;a href="https://en.wikipedia.org/wiki/Braess%27_paradox"&gt;Braess’ paradox&lt;/a&gt; - building more roads can make traffic worse
+
+Jason
+
+	Proceedings from the AgileDialogs.org #NoEstimates conference - Interested in learning more about #NoEstimates, #YesForecasts, #LessEstimates - check out the proceedings from the first AgileDialogs conference held in DC on 11/13/2015 - lots of insights and ideas about various estimates / planning approaches - &lt;a href="http://agiledialogs.org/category/the-unconferences/"&gt;http://agiledialogs.org/category/the-unconferences/&lt;/a&gt;
+	AgileDialogs un-conferences - organized out of DC by Paul Boos (@pmboos) - groups that meet to discuss a topic which has mixed views - additional topics / events coming in 2016 - &lt;a href="http://www.agiledialogs.org"&gt;www.agiledialogs.org&lt;/a&gt;
+
+John
+
+	&lt;a href="http://www.principlesofchaos.org/"&gt;The Principles of Chaos Engineering&lt;/a&gt;
+	&lt;a href="http://www.devx.com/enterprise/seven-secrets-of-successful-pair-programming.html"&gt;7 Secrets of Effective Pair Programming&lt;/a&gt;</itunes:summary>
+		<itunes:author>John Sextro</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>56:38</itunes:duration>
+	<media:content url="http://feedproxy.google.com/~r/thisagilelife/podcast/~5/31Ugpmuy-6o/103.mp3" fileSize="40866005" type="audio/mpeg" /><itunes:keywords>thisagilelife,John,Sextro,Amos,King,Nate,McKie,Lee,McCauley,Craig,Buchek,Jason,Tice</itunes:keywords><feedburner:origLink>http://www.thisagilelife.com/103/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/thisagilelife/podcast/~5/31Ugpmuy-6o/103.mp3" length="40866005" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/thisagilelife/content.blubrry.com/thisagilelife/103.mp3</feedburner:origEnclosureLink></item>
+		<item>
 		<title>We’re more similar than we know (Feedback Game) – 102</title>
 		<link>http://feedproxy.google.com/~r/thisagilelife/podcast/~3/JUKZ9Q0r5Ps/</link>
 		<comments>http://www.thisagilelife.com/102/#respond</comments>
@@ -153,7 +255,7 @@ Jason
 Hosts: John Sextro, Amos King and Lee McCauley</p>
 <h2>Discussion</h2>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Technical Debt <a href="http://www.thisagilelife.com/wp-content/uploads/2015/09/603666004.jpg"><img class="alignright size-medium wp-image-1078" src="http://www.thisagilelife.com/wp-content/uploads/2015/09/603666004-300x260.jpg" alt="60366600" width="300" height="260" /></a></span>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Technical Debt <a href="http://www.thisagilelife.com/wp-content/uploads/2015/09/603666004.jpg"><img class="alignright size-medium wp-image-1078" src="http://www.thisagilelife.com/wp-content/uploads/2015/09/603666004-300x260.jpg" alt="60366600" width="300" height="260" srcset="http://www.thisagilelife.com/wp-content/uploads/2015/09/603666004-300x260.jpg 300w, http://www.thisagilelife.com/wp-content/uploads/2015/09/603666004.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></span>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Quote “Software is never finished”</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Phases of a project</span>
@@ -471,7 +573,21 @@ Hosts: Jason Tice and Natalie Simonsen</p>
 		<itunes:summary>Released Sunday, August 16th, 2015
 Hosts: Jason Tice and Natalie Simonsen
 Discussion
-Now that the Agile2015 conference has concluded, join Natalie Simonsen and Jason Tice for a round-robin discussion of their key take-aways and themes from the week ...</itunes:summary>
+Now that the Agile2015 conference has concluded, join Natalie Simonsen and Jason Tice for a round-robin discussion of their key take-aways and themes from the week long Agile2015 conference held in August 2015.
+
+	Luke Hohmann inspired us in his keynote to think about applying the skills we have in the agile community related to problem solving, collaboration, and continuous improvement to help with challenges outside of just software development (examples could include: school funding, government, social challenges, etc).  The Agile Alliance has posted Luke’s Keynote at the following URL: &lt;a href="http://agilealliance.org/resources/learning-center/keynote-awesome-superproblems"&gt;http://agilealliance.org/resources/learning-center/keynote-awesome-superproblems&lt;/a&gt;
+	The importance of invitation over mandate with regard to adopting agile practices - people that are forced to adopt agile practices will abandon them the first opportunity that presents themselves - if you are a coach, this is a great thing to reflect on - what are you doing to “invite” people to work with you vs. “preaching” the adoption of agile practices.
+	When attending a large week-long conference like Agile2015, “Go with the flow” and challenge yourself to do something other than go to all the sessions.  Don’t get us wrong the sessions are great, but there are lots of other ways to learn, network and grow at the agile conference outside of the sessions - there’s the open jam where anyone can speak, the coaching clinic where you can get 1-on-1 advice, and even just chatting with other community members in the hallway.
+	Process and metrics are intended to serve people - processes should enable people to improve and metrics should provide insights to guide improvement without imprisoning the people doing the work.
+	We encountered several sessions at the conference that seemed to be very much focused on “selling” a particular product and/or approach that was not licensed in the public domain (Creative Commons) - we also heard similar comments to this effect during our episodes recorded at Agile2015.  Remember that the law of 2 feet is in effect at the annual Agile Alliance conference (or just about anywhere for that matter), and if you find yourself in a session where you don’t want to be “sold” to, get up and do something about it.
+	While we don’t have a standard method to assess adoption of agile methods, if a group is working to improve their agility they should be doing something to improve at all times (Kaizen, etc), something to learn and better understand how they work and what they are doing, and having fun (playing a game and/or doing a bit of Improv).
+	Bonus - the outcome of Jason’s experiment attending a 2 day agile coach camp, then a 5 day agile conference all back to back - 7 full days of immersion in “agile” was awesome, but was definitely overwhelming - 7 days came from the 2 day agile coach camp, and then the 5 day Agile2015 conference - if you’re into “high endurance learning experiences” I would recommend you put this kind of immersion on your bucket list.
+
+Picks
+Jason
+
+	PlayForAgile North America - Looking for your next FUN conference attend - join many of your colleagues from Agile Games, Agile2015 and/or Agile Coach Camp at PlayForAgile North America held September 11 - 13, 2015 - just outside of Toronto, Canada - Information and Registration is online: &lt;a href="http://play4agilenorthamerica.com/"&gt;http://play4agilenorthamerica.com/&lt;/a&gt;
+	Bonus pick from Agile2015 - Check out Spartez - most innovative item in the Agile2015 expo hall - they have a JIRA Plugin that allow you to print physical cards from JIRA that include QR-type codes, you can then photograph your board with the cards, and their plug-in will automatically update JIRA for you - you can now have the benefits of physical kanban/cards with the precision of online / tool-generated metrics...</itunes:summary>
 		<itunes:author>John Sextro</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>40:29</itunes:duration>
@@ -944,7 +1060,50 @@ Hosts: Natalie Simonsen, Lee McCauley and Jason Tice
 Discussion
 
 
-On episode 90 of ThisAgileLife, join Natalie, Lee and Jason for our annual tradition of providing insights and commentary based upon the 9th annual ...</itunes:summary>
+On episode 90 of ThisAgileLife, join Natalie, Lee and Jason for our annual tradition of providing insights and commentary based upon the 9th annual state of agile survey administered each year by VersionOne.
+
+In this extended episode, we review the survey cover-to-cover and discuss unknowns about how the data was collect but more importantly discuss how some of the findings in the survey point to trends or concerns within the agile community.
+
+As our commentary did run long, feel free to take a timeout if needed as since you can imagine, Jason did go off on metrics (since the survey was based on them), and surprisingly we learned that Natalie is quite passionate about what’s going on with all the frameworks to scale agile and whether framework development aligns to the ideals of the agile community.
+
+Highlights include:
+
+	Questioning the merit of the survey findings citing unknowns and inconsistencies in the reported demographics of the survey respondents.
+
+
+	Hypothesizing on what kind of criteria respondents used to determine if their organization “had adopted agile” and for which Natalie, Lee and Jason offer their own ideas about how to determine if agile has been adopted.
+
+
+	Questions surrounding the validity of the data for the benefits of adoption agile when compared with real agile transformation experiences - while many respondents reported the ability to deliver faster and change priorities, we have experienced that during initial adoption of agile methods, product delivery may actually slow and changing priorities can really hurt.
+
+
+	Thoughts that some on “distributed teams” (highlighted in the survey) using being distributed as an excuse to not engage in face-to-face communication when they are plenty of tools and technologies available to make face-to-face communication feasible in nearly all circumstances as recommended by the agile manifesto.
+
+
+	A discussion regarding the pros &amp; cons regarding the prevalence of adopting “Scrum” vs. other methodologies cited in the survey data.
+
+
+	Sharing ideas on the rather consistent data from year to year regarding the adoption of specific agile practices - if the agile community is growing and maturing as has been proposed, why do we not see corresponding upward trends across the adoption of all agile practices listed.
+
+
+	Could there be a correlation between failed agile projects and the high percentage of organizations that are unable to change their culture to allow for activities necessary for agile success including sharing work, shifting away from promoting heros, and allowing learn from failure (meaning it is OK to fail).
+
+
+	An alarming trend and hypothesis that many are questioning the “value” of agile because we aren’t using precise metrics to determine success when there are opportunities to do so within agile software development projects.
+
+
+	Questions and concerns regarding if the increasing number of competing frameworks to scale agile (of which several have interesting acronyms: SAFe, LeSS, RAGE) are providing effective guidance to the community or are they creating more confusion citing the there is much overlap between practices in the various frameworks to scale agile.
+
+
+	A really interesting observation that given the growth of the DevOps community, agile practices &amp; tools supportive of DevOps such as Automated Build tools, and Continuous Deployment tools have actually seen decreased usage in the last year - one would think use of such tools should have grown significantly as more organizations have reported to have achieved Continuous Deployment.
+
+
+	And of course, our thoughts on the continued domination of Microsoft Excel as the #1 tool used to support agile projects.
+
+Picks
+Jason - &lt;a href="https://twitter.com/theagilefactor"&gt;twitter.com/theagilefactor&lt;/a&gt;
+
+	SURVEY - The VersionOne 9th Annual State of Agile Survey...</itunes:summary>
 		<itunes:author>John Sextro</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>93:20</itunes:duration>
@@ -956,15 +1115,15 @@ On episode 90 of ThisAgileLife, join Natalie, Lee and Jason for our annual tradi
 		<pubDate>Sun, 12 Jul 2015 07:51:51 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[advice]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[coaching]]></category>
-		<category><![CDATA[planning]]></category>
-		<category><![CDATA[practices]]></category>
-		<category><![CDATA[practitioner]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[wishful]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[coaching]]></category>
+		<category><![CDATA[practices]]></category>
+		<category><![CDATA[planning]]></category>
+		<category><![CDATA[wishful]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[practitioner]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=1003</guid>
 		<description><![CDATA[Released Sunday, July 12th, 2015 Hosts: Natalie Simonsen, Nate McKie and Jason Tice Discussion Join Natalie, Nate and Jason for a discussion about “Wishful planning” on ThisAgileLife Episode 89. Jason shares some recent work he did as supporting the Product Owner role where he was wondering how many stories he should create for a new product story [&#8230;]]]></description>
@@ -1078,14 +1237,14 @@ Natalie - &lt;a href="https://www.twitter.com/aussienatso"&gt;twitter.com/aussie
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[agility]]></category>
-		<category><![CDATA[commitment]]></category>
-		<category><![CDATA[development]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[trust]]></category>
-		<category><![CDATA[Value]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[Value]]></category>
+		<category><![CDATA[trust]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[commitment]]></category>
+		<category><![CDATA[agility]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=995</guid>
 		<description><![CDATA[Released Sunday, June 28th, 2015 Hosts: John Sextro, Nate McKie and Amos King Special Guest: Wes Higbee (Full City Tech) author of Commitment To Value: How to make technical projects worthwhile. Discussion Commitment to Value Building trust Successful projects require commitment to value Value and value pricing on agile projects. How should we decide what to charge for a [&#8230;]]]></description>
@@ -1135,7 +1294,7 @@ Hosts: John Sextro, Nate McKie and Amos King</p>
 			<wfw:commentRss>http://www.thisagilelife.com/88/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 
-		<itunes:subtitle>Released Sunday, June 28th, 2015 Hosts: John Sextro, Nate McKie and Amos King - Special Guest: Wes Higbee (Full City Tech) author of Commitment To Value: How to make technical projects worthwhile. Discussion Commitment to Value Building trust </itunes:subtitle>
+		<itunes:subtitle>Released Sunday, June 28th, 2015 Hosts: John Sextro, Nate McKie and Amos King - Special Guest: Wes Higbee (Full City Tech) author of Commitment To Value: How to make technical projects worthwhile. Discussion Commitment to Value - </itunes:subtitle>
 		<itunes:summary>Released Sunday, June 28th, 2015
 Hosts: John Sextro, Nate McKie and Amos King
 
@@ -1186,20 +1345,20 @@ Wes Higbee
 		<pubDate>Sun, 14 Jun 2015 13:00:14 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[acceleration]]></category>
 		<category><![CDATA[agile]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[vision]]></category>
+		<category><![CDATA[kotter's change leadership]]></category>
+		<category><![CDATA[sense of urgency]]></category>
 		<category><![CDATA[coalition]]></category>
 		<category><![CDATA[initiatives]]></category>
-		<category><![CDATA[institute change]]></category>
-		<category><![CDATA[kotter's change leadership]]></category>
-		<category><![CDATA[removing barriers]]></category>
-		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[sense of urgency]]></category>
-		<category><![CDATA[short term wins]]></category>
-		<category><![CDATA[sustain acceleration]]></category>
-		<category><![CDATA[vision]]></category>
 		<category><![CDATA[volunteer army]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[removing barriers]]></category>
+		<category><![CDATA[short term wins]]></category>
+		<category><![CDATA[acceleration]]></category>
+		<category><![CDATA[sustain acceleration]]></category>
+		<category><![CDATA[institute change]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=990</guid>
 		<description><![CDATA[Released Sunday, June 14th, 2015 Hosts: Jason Tice, Craig Buchek and Lee McCauley Discussion On Episode 87 of ThisAgileLife, join Lee, Craig and Jason for a discussion on John Kotter’s ideas about “Change Leadership” and how this concept relates to agile transformation. Kotter’s work outlines an eight-step process to enable organizational change by building influence rather than mandate, and [&#8230;]]]></description>
@@ -1246,7 +1405,44 @@ Additional insights about Kotter’s 8-step process for organizational change an
 
 		<itunes:subtitle>Released Sunday, June 14th, 2015 Hosts: Jason Tice, Craig Buchek and Lee McCauley Discussion On Episode 87 of ThisAgileLife, join Lee, Craig and Jason for a discussion on John Kotter’s ideas about “Change Leadership” and how this concept relates to ...</itunes:subtitle>
 		<itunes:summary>Released Sunday, June 14th, 2015
-Hosts: &lt;a href="http://twitter.com/theagilefactor" target="_blank"&gt;Jason Tice&lt;/a&gt;, &lt;a href="http://twitter.com/craigbuchek"&gt;Craig Buchek&lt;/a&gt; and &lt;a href="http://twitter.com/agileatheist" target="_blank"&gt;Lee McCauley&lt;/a...</itunes:summary>
+Hosts: &lt;a href="http://twitter.com/theagilefactor" target="_blank"&gt;Jason Tice&lt;/a&gt;, &lt;a href="http://twitter.com/craigbuchek"&gt;Craig Buchek&lt;/a&gt; and &lt;a href="http://twitter.com/agileatheist" target="_blank"&gt;Lee McCauley&lt;/a&gt;
+Discussion
+On Episode 87 of ThisAgileLife, join Lee, Craig and Jason for a discussion on John Kotter’s ideas about “Change Leadership” and how this concept relates to agile transformation.
+
+Kotter’s work outlines an eight-step process to enable organizational change by building influence rather than mandate, and as is discussed on the episode, several of our hosts have had experience applying Kotter’s process or several steps within it.
+
+Craig, Lee and Jason engage in a lengthy discussion to talk through each of the 8 steps and share experiences and insights related to each step in their prior activities to support the adoption of agile methods in various organizations.
+
+The key steps of Kotter’s Change Leadership process are summarized below:
+
+#1 - Create a sense of urgency - Craft and use a significant opportunity as a means for exciting people to sign up to change their organization.
+
+#2 - Build a guiding coalition - Assemble a group with the power and energy to lead and support a collaborative change effort.
+
+#3 - Form a strategic vision and initiatives - Shape a vision to help steer the change effort and develop strategic initiatives to achieve that vision.
+
+#4 - Enlist a volunteer army - Raise a large force of people who are ready, willing and urgent to drive change.
+
+#5 - Enable action by removing barriers - Remove obstacles to change, change systems or structures that pose threats to the achievement of the vision.
+
+#6 - Generate short term wins - Consistently produce, track, evaluate and celebrate volumes of small and large accomplishments – and correlate them to results.
+
+#7 - Sustain acceleration - Use increasing credibility to change systems, structures and policies that don’t align with the vision; hire, promote and develop employees who can implement the vision; reinvigorate the process with new projects, themes and volunteers.
+
+#8 - Institute Change - Articulate the connections between the new behaviors and organizational success, and develop the means to ensure leadership development and succession.
+Additional insights about Kotter’s 8-step process for organizational change and “Change Leadership is available at: &lt;a href="http://www.kotterinternational.com/the-8-step-process-for-leading-change/"&gt;http://www.kotterinternational.com/the-8-step-process-for-leading-change/&lt;/a&gt;
+Picks
+Craig - &lt;a href="https://twitter.com/CraigBuchek"&gt;@CraigBuchek&lt;/a&gt;
+
+	&lt;a href="https://twitter.com/CraigBuchek/status/601420063111925760"&gt;Two comics showing the difference between a boss and a leader&lt;/a&gt;.
+	&lt;a href="http://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en"&gt;Derek Sivers’ TED Talk on How to Start A Movement&lt;/a&gt;
+
+Jason - &lt;a href="https://twitter.com/theagilefactor"&gt;@theagilefactor&lt;/a&gt;
+
+	BOOK - &lt;a href="http://www.amazon.com/Leading-Change-New-Preface-Author/dp/1422186431/"&gt;Leading Change (John Kotter)&lt;/a&gt; - the updated book by the creator of the “Change Leadership” concept
+	BOOK - &lt;a href="http://www.amazon.com/Culture-Game-Tools-Agile-Manager/dp/0984875301/"&gt;The Culture Game: Tools for the Agile Manager (Dan Mezick)&lt;/a&gt; - useful tools for agile manager and talks about change by influence rather than mandate
+	THANKS - to all the ThisAgileLife fans that attended &lt;a href="http://www.bigapplescrumday.org/"&gt;Big Apple Scrum Day&lt;/a&gt; and said HI - Tweet us with ideas and/or questions from Big Apple Scrum Day and we’ll talk about them on future episodes of ThisAgileLife.
+	METRICS - &lt;a href="http://www.theagilefactor.com/live-from-new-york-its-30-metrics-for-agile-scrum-teams/"&gt;Live from New York, it’s 30+ metrics for agile &amp; scrum teams&lt;/a&gt; - Thanks to the organizers of the inaugural Big Apple Scrum Day in June 2015 for the chance t...</itunes:summary>
 		<itunes:author>John Sextro</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>69:36</itunes:duration>
@@ -1259,13 +1455,13 @@ Hosts: &lt;a href="http://twitter.com/theagilefactor" target="_blank"&gt;Jason T
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[barriers to organizational learning]]></category>
-		<category><![CDATA[centralized agile coaching]]></category>
-		<category><![CDATA[continuous improvement]]></category>
-		<category><![CDATA[dependence]]></category>
-		<category><![CDATA[questatement]]></category>
 		<category><![CDATA[scrum]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[centralized agile coaching]]></category>
+		<category><![CDATA[questatement]]></category>
+		<category><![CDATA[barriers to organizational learning]]></category>
+		<category><![CDATA[dependence]]></category>
+		<category><![CDATA[continuous improvement]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=984</guid>
 		<description><![CDATA[Released Sunday, May 31st, 2015 Hosts: John Sextro, Craig Buchek and Amos King Discussion Central teams consisting of coaches As a barrier to organizational learning Once people become designated coaches they want to perpetuate themselves and everyone becomes dependent Picks Craig The Little Lisper series The Little Lisper The Little Schemer The Seasoned Schemer The Reasoned Schemer [&#8230;]]]></description>
@@ -1353,15 +1549,15 @@ Amos
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile games]]></category>
 		<category><![CDATA[agile games 2015]]></category>
-		<category><![CDATA[ellen grove]]></category>
+		<category><![CDATA[puppet mastery game]]></category>
+		<category><![CDATA[origami]]></category>
 		<category><![CDATA[improv]]></category>
+		<category><![CDATA[team first development]]></category>
 		<category><![CDATA[lego]]></category>
 		<category><![CDATA[lego serious play]]></category>
-		<category><![CDATA[Matthieu Cornillon]]></category>
+		<category><![CDATA[ellen grove]]></category>
 		<category><![CDATA[mike bowler]]></category>
-		<category><![CDATA[origami]]></category>
-		<category><![CDATA[puppet mastery game]]></category>
-		<category><![CDATA[team first development]]></category>
+		<category><![CDATA[Matthieu Cornillon]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=976</guid>
 		<description><![CDATA[Released Sunday, May 24th, 2015 Hosts: John Sextro, Jason Tice and Amos King Discussion Agile Games 2015 Recap and Review (Held at the Microsoft NERD building in Cambridge, MA) Opening Keynote and Game by Renee Troughton The Puppet Mastery Game Mobbing Origami Specialization of skills Warm up your meetings with Improv by Wayde Stallman Team First [&#8230;]]]></description>
@@ -1512,17 +1708,17 @@ Agile Games 2015 Recap and Review (Held at the &lt;a href="https://microsoftnewe
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[kanban]]></category>
-		<category><![CDATA[lean]]></category>
-		<category><![CDATA[po]]></category>
-		<category><![CDATA[product owner]]></category>
-		<category><![CDATA[product ownership]]></category>
-		<category><![CDATA[roadmap]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[stories]]></category>
-		<category><![CDATA[testing]]></category>
-		<category><![CDATA[vision]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[kanban]]></category>
+		<category><![CDATA[stories]]></category>
+		<category><![CDATA[lean]]></category>
+		<category><![CDATA[product owner]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[product ownership]]></category>
+		<category><![CDATA[po]]></category>
+		<category><![CDATA[vision]]></category>
+		<category><![CDATA[roadmap]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=970</guid>
 		<description><![CDATA[Released Sunday, May 17th, 2015 Hosts: John Sextro, Natalie Simonsen and Craig Buchek Discussion Product Owners  and their product vision, or lack there of. The product owner has a clear vision but the team or team members are not bought in/disagree. Market Viability – the team does not think it will be successful The product [&#8230;]]]></description>
@@ -1605,20 +1801,20 @@ Craig
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[test driven development]]></category>
+		<category><![CDATA[when to do tdd]]></category>
 		<category><![CDATA[agile testing]]></category>
+		<category><![CDATA[test first development]]></category>
+		<category><![CDATA[when to test]]></category>
+		<category><![CDATA[when not to test]]></category>
+		<category><![CDATA[quality]]></category>
+		<category><![CDATA[testing and quality]]></category>
+		<category><![CDATA[xp and testing]]></category>
+		<category><![CDATA[testing practices]]></category>
 		<category><![CDATA[code complete]]></category>
 		<category><![CDATA[code quality]]></category>
-		<category><![CDATA[quality]]></category>
-		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[test driven development]]></category>
-		<category><![CDATA[test first development]]></category>
-		<category><![CDATA[testing and quality]]></category>
-		<category><![CDATA[testing practices]]></category>
-		<category><![CDATA[when not to test]]></category>
-		<category><![CDATA[when to do tdd]]></category>
-		<category><![CDATA[when to test]]></category>
-		<category><![CDATA[xp]]></category>
-		<category><![CDATA[xp and testing]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=952</guid>
 		<description><![CDATA[Released Sunday, May 3rd, 2015 Hosts: Jason Tice and Craig Buchek Discussion Craig wanted to provide some feedback on a few of our recent topics, where he had been called out: When should we do TDD? (Episode 78) Craig said that we should only do testing or TDD when the benefits outweigh the costs. Unfortunately, we usually [&#8230;]]]></description>
@@ -1660,7 +1856,34 @@ When there’s no test framework for the situation you’re testing. This might 
 		<itunes:summary>Released Sunday, May 3rd, 2015
 Hosts: &lt;a href="https://twitter.com/theagilefactor" target="_blank"&gt;Jason&lt;/a&gt; Tice and &lt;a href="http://twitter.com/craigbuchek" target="_blank"&gt;Craig&lt;/a&gt; Buchek
 Discussion
-Craig wanted to provide some feedback on a few...</itunes:summary>
+Craig wanted to provide some feedback on a few of our recent topics, where he had been called out:
+
+When should we do TDD? (Episode 78)
+
+Craig said that we should only do testing or TDD when the benefits outweigh the costs. Unfortunately, we usually greatly underestimate the benefits. And the costs often seem high at first, because it takes some time to get good at writing automated tests. Not to mention that both the costs and the benefits are usually hard to measure.
+
+Craig asked what is the cost of writing automated tests? He found he had asked the question before and recorded the answers (inasmuch as we have them) to &lt;a href="http://blog.boochtek.com/2014/05/05/tdd-is-alive-and-well" target="_blank"&gt;his blog&lt;/a&gt;:
+
+So we don’t have much science on TDD. But we do have some. Here’s a collection of several: &lt;a href="http://biblio.gdinwiddie.com/biblio/StudiesOfTestDrivenDevelopment" target="_blank"&gt;StudiesOfTestDrivenDevelopment&lt;/a&gt;. And here’s one that explicitly looks are the difference between test-first and test-last: &lt;a href="http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1027&amp;context=csse_fac" target="_blank"&gt;Does Test-Driven Development Really Improve Software Design Quality&lt;/a&gt;? What do these tell us? They tell us that TDD costs us about 10-30% in short-term productivity, reduces bugs by 30-90%, and decreases code complexity by about 30%. As &lt;a href="http://www.cc2e.com/Default.aspx" target="_blank"&gt;Code Complete&lt;/a&gt; tells us (in section 20.5, with studies to back it up), improving quality reduces development costs. So, like most Agile practices, this is a case where spending a bit more time in the short term leads to time savings in the long term.
+
+A couple scenarios where Craig thinks that it might make sense to not write tests:
+When we’re more concerned about time to market than quality. We agreed that this is almost always a mistake. But sometimes that’s the best knowledge we have to work with at the time we make that decision.
+When there’s no test framework for the situation you’re testing. This might be a new language or framework that you’re working with. More likely it’s a complex API that you have to mock out. So that could increase the cost of automated testing so as to outweigh the benefits --- especially on a short project. OR Jason mentioned creating a test framework for an emerging technology / language could have long-term benefits in terms of future cost-savings and intangible benefits like gaining influence -- where there’s a will there’s a way!
+
+But these situations should not be common; they’re edge cases. In almost all cases, all the This Agile Life hosts agree that TDD is the right thing to do.
+
+Amos mentioned that Craig told him to never call a vote unless you already know the outcome. (Episode 78)
+
+Craig said he usually reserves this for when he’s coaching a team and wants to guide them to an outcome that he’s quite certain is the right direction --- so something major like pair programming or TDD. In most circumstances, he’d let the team make their own decisions without any added influence.
+
+Jason mentioned taking a concurrence vote as another way to achieve similar outcomes. Craig pointed out that this employs some amount of psychological and social influence as well.
+
+ 
+Picks
+&lt;a href="https://twitter.com/theagilefactor" target="_blank"&gt;Jason&lt;/a&gt;
+
+	&lt;a href="http://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315" target="_blank"&gt;BOOK - Business Model You&lt;/a&gt; - Ideas to apply the business model canvas to reinvert your career
+	LIVE EVENT - Come hang out at &lt;a href="http://lkna15.leankanban.com/welcome-lkna15/" target="_blank"&gt;Lean Kanban North America&lt;/a&gt; for a 3 hour workshop on learning games based on Lean &amp; Kanban principles - Jun...</itunes:summary>
 		<itunes:author>John Sextro</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>64:24</itunes:duration>
@@ -1672,21 +1895,21 @@ Craig wanted to provide some feedback on a few...</itunes:summary>
 		<pubDate>Sun, 26 Apr 2015 06:07:08 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[activities]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[agile development]]></category>
-		<category><![CDATA[agility]]></category>
-		<category><![CDATA[am I agile]]></category>
-		<category><![CDATA[are we agile]]></category>
-		<category><![CDATA[being agile]]></category>
-		<category><![CDATA[development]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[software]]></category>
 		<category><![CDATA[exercises]]></category>
 		<category><![CDATA[games]]></category>
+		<category><![CDATA[development]]></category>
 		<category><![CDATA[practices]]></category>
+		<category><![CDATA[agility]]></category>
+		<category><![CDATA[agile development]]></category>
 		<category><![CDATA[revolution]]></category>
-		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[activities]]></category>
+		<category><![CDATA[are we agile]]></category>
+		<category><![CDATA[am I agile]]></category>
+		<category><![CDATA[being agile]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=942</guid>
 		<description><![CDATA[Released Sunday, April 26th, 2015 Hosts: Lee McCauley, Jason Tice, John Sextro and special guest Renee Troughton Discussion Renee is one of the hosts on The Agile Revolution podcast. The other hosts of The Agile Revolution are: Craig Smith Tony Ponton We talk about the keynote Renee will give at Agile Games 2015.  We also talk about the games she [&#8230;]]]></description>
@@ -1772,20 +1995,20 @@ Picks
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[developing agile]]></category>
-		<category><![CDATA[development]]></category>
-		<category><![CDATA[dictator]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[scrum master]]></category>
-		<category><![CDATA[scrum master serving as a dictator]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[software development]]></category>
-		<category><![CDATA[superhero scrum master]]></category>
-		<category><![CDATA[tdd]]></category>
-		<category><![CDATA[technical expert]]></category>
-		<category><![CDATA[test driven development]]></category>
-		<category><![CDATA[too prescriptive]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[tdd]]></category>
+		<category><![CDATA[test driven development]]></category>
+		<category><![CDATA[software development]]></category>
+		<category><![CDATA[scrum master]]></category>
+		<category><![CDATA[dictator]]></category>
+		<category><![CDATA[scrum master serving as a dictator]]></category>
+		<category><![CDATA[superhero scrum master]]></category>
+		<category><![CDATA[too prescriptive]]></category>
+		<category><![CDATA[developing agile]]></category>
+		<category><![CDATA[technical expert]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=936</guid>
 		<description><![CDATA[Released Sunday, April 19th, 2015 Hosts: Matt Korwell, Lee McCauley, Jason Tice and special guest Ryan Ripley Discussion On Episode 81 of ThisAgileLife, your agile coaches at ThisAgileLife completed yet another experiment to improve the Podcast. We invited Ryan Ripley (@ryanripley) a regular listener to join us to share some insights from his presentation at the 2015 Agile Indy conference entitled “The Scrum [&#8230;]]]></description>
@@ -1882,13 +2105,13 @@ Picks
 		<pubDate>Sun, 12 Apr 2015 13:24:17 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[free agile coaching]]></category>
-		<category><![CDATA[how do you know what to test]]></category>
-		<category><![CDATA[live agile coaching]]></category>
 		<category><![CDATA[live coaching]]></category>
-		<category><![CDATA[what to test]]></category>
+		<category><![CDATA[live agile coaching]]></category>
+		<category><![CDATA[free agile coaching]]></category>
 		<category><![CDATA[when to do tdd]]></category>
 		<category><![CDATA[when to test code]]></category>
+		<category><![CDATA[what to test]]></category>
+		<category><![CDATA[how do you know what to test]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=931</guid>
 		<description><![CDATA[Released Sunday, April 12th, 2015 Hosts: Lee McCauley, Jason Tice and Amos King Discussion Episode 80 of “This Agile Life” starts off with a bang as Amos, Lee and Jason discussion times when you shouldn’t test your code.  You may be surprised with what they have to say, and best of all Elvis (yes, Elvis [&#8230;]]]></description>
@@ -1968,17 +2191,17 @@ Amos
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[bell]]></category>
-		<category><![CDATA[celebrate]]></category>
-		<category><![CDATA[celebrating]]></category>
-		<category><![CDATA[celebration]]></category>
-		<category><![CDATA[lean]]></category>
-		<category><![CDATA[lean canvas]]></category>
-		<category><![CDATA[ring]]></category>
-		<category><![CDATA[ring bell]]></category>
 		<category><![CDATA[scrum]]></category>
 		<category><![CDATA[team]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[lean]]></category>
+		<category><![CDATA[celebrate]]></category>
+		<category><![CDATA[celebration]]></category>
+		<category><![CDATA[celebrating]]></category>
+		<category><![CDATA[ring bell]]></category>
+		<category><![CDATA[bell]]></category>
+		<category><![CDATA[ring]]></category>
+		<category><![CDATA[lean canvas]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=929</guid>
 		<description><![CDATA[Released Sunday, April 5th, 2015 Hosts: Jason Tice, Lee McCauley and John Sextro Discussion &#60;&#60; Stuff Jason saw at Gymnastics that made him think about agile teams &#62;&#62; How Teams Celebrate Ringing a bell &#8230;and a lot of our other thoughts Lean Canvas Picks Lee Gateway to Reason Agile Bridge Analogy, by Paulo Caroli John Ten Tips [&#8230;]]]></description>
@@ -2165,17 +2388,17 @@ Matt
 		<pubDate>Sun, 22 Mar 2015 23:48:09 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[adaptability]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[change]]></category>
-		<category><![CDATA[frustration]]></category>
-		<category><![CDATA[hardware]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[slices]]></category>
-		<category><![CDATA[slicing]]></category>
-		<category><![CDATA[stories]]></category>
-		<category><![CDATA[story]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[stories]]></category>
+		<category><![CDATA[slicing]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[change]]></category>
+		<category><![CDATA[adaptability]]></category>
+		<category><![CDATA[slices]]></category>
+		<category><![CDATA[frustration]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=921</guid>
 		<description><![CDATA[Released Sunday, March 22nd, 2015 Hosts: John Sextro, Craig Buchek and Amos King Discussion Hardware The intersection between software and hardware on agile teams. How to manage long running hardware work. The frustrations of working with hardware. Slicing hardware stories. Picks John How to be a great developer, by Ed Finkler Amos How to sell tdd to &#60;x&#62; [&#8230;]]]></description>
@@ -2250,14 +2473,14 @@ Craig
 		<pubDate>Sun, 15 Mar 2015 06:53:48 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[#NoEstimates]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[estimates]]></category>
-		<category><![CDATA[industrial logic]]></category>
-		<category><![CDATA[no estimates]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[woody zuill]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[woody zuill]]></category>
+		<category><![CDATA[#NoEstimates]]></category>
+		<category><![CDATA[estimates]]></category>
+		<category><![CDATA[no estimates]]></category>
+		<category><![CDATA[industrial logic]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=904</guid>
 		<description><![CDATA[Released Sunday, March 15th, 2015 Hosts: John Sextro, Nate McKie and Lee McCauley Special Guest: Woody Zuill Discussion #NOESTIMATES Alternatives to estimates Link to article Woody wrote Twitter hashtag What it is, what it isn’t. How do I get started with #noestimates Picks Woody The Answer to How is Yes, by Peter Bloch John Top 70 [&#8230;]]]></description>
@@ -2344,14 +2567,14 @@ Nate
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[authority]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[software]]></category>
 		<category><![CDATA[development]]></category>
-		<category><![CDATA[influence]]></category>
 		<category><![CDATA[leadership]]></category>
 		<category><![CDATA[managing up]]></category>
-		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[authority]]></category>
+		<category><![CDATA[influence]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=901</guid>
 		<description><![CDATA[Released Sunday, March 8th, 2015 Hosts: John Sextro, Craig Buchek and Jason Tice Special Guest: Natalie Simonsen Discussion Managing Up What is Managing Up &#8211; a Definition thanks to Wikipedia: Managing up and managing down is studied as part of management studies as how a middle manager should effectively deal with his or her manager and [&#8230;]]]></description>
@@ -2595,12 +2818,12 @@ Jason
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[agilelinc]]></category>
-		<category><![CDATA[ba]]></category>
-		<category><![CDATA[coach]]></category>
-		<category><![CDATA[lightning talk]]></category>
-		<category><![CDATA[scrum master]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[agilelinc]]></category>
+		<category><![CDATA[coach]]></category>
+		<category><![CDATA[scrum master]]></category>
+		<category><![CDATA[ba]]></category>
+		<category><![CDATA[lightning talk]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=893</guid>
 		<description><![CDATA[Released Sunday, February 15th, 2015 Hosts: Amos King and John Sextro Discussion We don&#8217;t need Scrum Masters and Business Analysts In the future agile teams will optimize around 2 roles, PO and Engineer.  Over the past 40 years large corporations have excelled at turning people into highly specialized workers. The work done by scrum masters [&#8230;]]]></description>
@@ -2683,14 +2906,14 @@ John
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[atonomy]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[retrospective]]></category>
+		<category><![CDATA[Value]]></category>
 		<category><![CDATA[improvement]]></category>
 		<category><![CDATA[productivity]]></category>
-		<category><![CDATA[retrospective]]></category>
-		<category><![CDATA[scrum]]></category>
 		<category><![CDATA[self organization]]></category>
-		<category><![CDATA[Value]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[atonomy]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=890</guid>
 		<description><![CDATA[Released Sunday, February 1st, 2015 Video Link Hosts: Jason Tice, John Sextro, Lee McCauley and Craig Buchek Discussion Topics contributed by Chris Morgan. Thank you! How much time is considered healthy for an agile team to spend improving themselves? The code coding practices technical debt agile processes collaboration quality All these things require time to make better [&#8230;]]]></description>
@@ -2797,15 +3020,15 @@ John
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[cards]]></category>
-		<category><![CDATA[constraints]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[prioritize]]></category>
 		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
 		<category><![CDATA[stories]]></category>
+		<category><![CDATA[prioritize]]></category>
+		<category><![CDATA[developers]]></category>
 		<category><![CDATA[t-shaped people]]></category>
 		<category><![CDATA[whole team approach]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[constraints]]></category>
+		<category><![CDATA[cards]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=886</guid>
 		<description><![CDATA[Released Sunday, Janury 11th, 2015 Hosts: Jason Tice, John Sextro and Amos King Discussion Topics contributed by Rich Thorn and Firoj Shaikh. Thank you! Driving teams to small stories Cards “Twitter sized” stories Constrain to ½ day to 1 day How business stories and development stories relate with each other? Not embracing whole team approach Development stories are [&#8230;]]]></description>
@@ -2931,13 +3154,13 @@ Jason
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[open floor plan]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[software development]]></category>
-		<category><![CDATA[the new yorker]]></category>
-		<category><![CDATA[waste of space]]></category>
-		<category><![CDATA[workspace]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[software development]]></category>
+		<category><![CDATA[open floor plan]]></category>
+		<category><![CDATA[the new yorker]]></category>
+		<category><![CDATA[workspace]]></category>
+		<category><![CDATA[waste of space]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=883</guid>
 		<description><![CDATA[Released Sunday, Janury 11th, 2015 Hosts: Jason Tice, John Sextro and Amos King Discussion People that responded to my email Marcelo Magallon &#8211; prefers the semi-private partitions Rich Thorn &#8211; cave and common design is the right way to go. Give your people the choice The Open-Office Trap published in the New Yorker, by Maria Konnikova 1997 &#8211; [&#8230;]]]></description>
@@ -3327,24 +3550,24 @@ John
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[agility]]></category>
-		<category><![CDATA[code coverage]]></category>
-		<category><![CDATA[death by charts]]></category>
-		<category><![CDATA[development]]></category>
-		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[software]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[software development]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[development]]></category>
 		<category><![CDATA[testing]]></category>
+		<category><![CDATA[software development]]></category>
+		<category><![CDATA[code coverage]]></category>
 		<category><![CDATA[wall of shame]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[death by charts]]></category>
+		<category><![CDATA[agility]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=862</guid>
 		<description><![CDATA[Released Sunday, November 23rd, 2014. Hosts: John Sextro, Lee McCauley and Jason Tice Discussion The holy practice of measuring code coverage: http://www.stickyminds.com/article/code-coverage-silver-bullet Without code coverage, how do you know if you are writing enough tests? Test First vs. Test Driven vs. Unit Testing The Wall of Shame Implementing a rule requiring a certain percentage of test [&#8230;]]]></description>
 				<content:encoded><![CDATA[
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=67" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=67" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, November 23rd, 2014.</p>
 <p>Hosts: <a title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a> and <a href="https://twitter.com/theagilefactor" target="_blank">Jason Tice</a></p>
 <h3>Discussion</h3>
@@ -3433,22 +3656,22 @@ John
 		<pubDate>Sun, 16 Nov 2014 07:00:04 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[accomplishment]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[blocker]]></category>
-		<category><![CDATA[commitment]]></category>
-		<category><![CDATA[methodology]]></category>
 		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
 		<category><![CDATA[software]]></category>
 		<category><![CDATA[software development]]></category>
+		<category><![CDATA[methodology]]></category>
 		<category><![CDATA[stand up]]></category>
 		<category><![CDATA[standup]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[commitment]]></category>
+		<category><![CDATA[accomplishment]]></category>
+		<category><![CDATA[blocker]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=855</guid>
 		<description><![CDATA[Released Sunday, November 16th, 2014. Hosts: John Sextro Discussion Life Emailing listeners Contacted 11 listeners, only heard back from Rob Park Effective standups Purpose all about communication and commitment not about status updates to management Mechanics everyone stands, everyone (unless you have medical condition) congregate around your workboard has to last 15 minutes or less, 1 [&#8230;]]]></description>
 				<content:encoded><![CDATA[
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=66" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=66" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, November 16th, 2014.</p>
 <p>Hosts: <a title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a></p>
 <h3>Discussion</h3>
@@ -3587,7 +3810,7 @@ John
 <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=nP5ExRxiS54:Fp6KetQYcok:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=nP5ExRxiS54:Fp6KetQYcok:63t7Ie-LG7Y"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=63t7Ie-LG7Y" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=nP5ExRxiS54:Fp6KetQYcok:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?i=nP5ExRxiS54:Fp6KetQYcok:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=nP5ExRxiS54:Fp6KetQYcok:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=qj6IDK7rITs" border="0"></img></a>
 </div><img src="http://feeds.feedburner.com/~r/thisagilelife/podcast/~4/nP5ExRxiS54" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://www.thisagilelife.com/66/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
+		<slash:comments>3</slash:comments>
 
 		<itunes:subtitle>Released Sunday, November 16th, 2014. - Hosts: John Sextro Discussion Life  Emailing listeners Contacted 11 listeners, only heard back from Rob Park  Effective standups Purpose all about communication and commitment </itunes:subtitle>
 		<itunes:summary>&lt;a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=66" target="_blank"&gt;&lt;/a&gt;
@@ -3725,7 +3948,7 @@ Discussion
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=850</guid>
 		<description><![CDATA[Released Sunday, November 2nd, 2014. Hosts: John Sextro, Craig Buchek, Jason Tice Discussion College/University what they should teach? Code Reviews Do you need to do code reviews when pairing? How much time should you spend on a code review? What are the mechanics for a code review? What if the code review fails? The Checklist Manifesto Code Review [&#8230;]]]></description>
 				<content:encoded><![CDATA[
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=65" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=65" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, November 2nd, 2014.</p>
 <p>Hosts: <a title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a>, <a title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a></p>
 <h3>Discussion</h3>
@@ -3850,16 +4073,16 @@ Jason (&lt;a href="http://twitter.com/theagilefactor" target="_blank"&gt;@theag
 		<pubDate>Sun, 05 Oct 2014 07:00:02 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[Craig Buchek]]></category>
-		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[Craig Buchek]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=837</guid>
 		<description><![CDATA[Released Sunday, October 5th, 2014. Hosts: John Sextro, Amos King, Craig Buchek, Lee McCauley, Jason Tice Discussion Why Scrum Should Basically Just Die in a Fire by Giles Bowkett The estimation process in Scrum, planning poker combined with the inevitable technical discussions is broken. Agile values communication, why do we limit the technical discussions that always occur during estimation? Standups don’t [&#8230;]]]></description>
 				<content:encoded><![CDATA[
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=64" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=64" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, October 5th, 2014.</p>
 <p>Hosts: <a title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a>, <a href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a></p>
 <h3>Discussion</h3>
@@ -3978,17 +4201,17 @@ Jason (&lt;a href="http://twitter.com/theagilefactor" target="_blank"&gt;@theag
 		<pubDate>Sun, 21 Sep 2014 07:00:46 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[lee mccauley]]></category>
 		<category><![CDATA[amos king]]></category>
 		<category><![CDATA[Craig Buchek]]></category>
-		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[leadership]]></category>
-		<category><![CDATA[lee mccauley]]></category>
 		<category><![CDATA[servant leadership]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=832</guid>
 		<description><![CDATA[Released Sunday, September 21st, 2014. Hosts: John Sextro, Amos King, Craig Buchek, Lee McCauley Discussion Demystifying Servant Leadership What is it, really? A concept centuries old that was described with this term by Robert Greenleaf in his 1970 essay titled, &#8220;The Servant as Leader.&#8221; Metaphor for servant leadership &#8212; Jesus Christ Setting aside religion, from a historical context; Jesus was a [&#8230;]]]></description>
 				<content:encoded><![CDATA[
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=63" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=63" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, September 21st, 2014.</p>
 <p>Hosts: <a title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a>, <a href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a></p>
 <h3>Discussion</h3>
@@ -4097,7 +4320,85 @@ Jason (&lt;a href="http://twitter.com/theagilefactor" target="_blank"&gt;@theag
 
 Released Sunday, September 21st, 2014.
 
-Hosts: &lt;a title="John Sextro" href="http://tw...</itunes:summary>
+Hosts: &lt;a title="John Sextro" href="http://twitter.com/johnsextro" target="_blank"&gt;John Sextro&lt;/a&gt;, &lt;a href="http://twitter.com/adkron" target="_blank"&gt;Amos King&lt;/a&gt;, &lt;a href="https://twitter.com/craigbuchek" target="_blank"&gt;Craig Buchek&lt;/a&gt;, &lt;a href="https://twitter.com/agileatheist" target="_blank"&gt;Lee McCauley&lt;/a&gt;
+Discussion
+Demystifying Servant Leadership
+
+	What is it, really?
+
+	A concept centuries old that was described with this term by Robert Greenleaf in his 1970 essay titled, "&lt;a href="https://www.leadershiparlington.org/pdf/TheServantasLeader.pdf"&gt;The Servant as Leader&lt;/a&gt;."
+	Metaphor for servant leadership -- Jesus Christ
+
+	Setting aside religion, from a historical context; Jesus was a famous servant leader.
+
+
+
+
+	Common Fallacies
+
+	“Servant Leadership” is a copout that is really code for “I’m going to pay you to do a whole lot of nothing.”
+	It won’t work for my organization/project/team because they require a lot more “command and control.”
+
+
+	&lt;a href="http://en.wikipedia.org/wiki/Servant_leadership#Characteristics"&gt;Characteristics&lt;/a&gt;
+
+	Listening: A servant leader puts the emphasis upon listening effectively to others.
+	Empathy: A servant leader needs to understand others' feelings and perspectives.
+	Healing: A servant leader helps foster each person's emotional and spiritual health and wholeness.
+	Awareness: A servant leader understands his or her own values and feelings, strengths and weaknesses.
+	Persuasion: A servant leader influences others through their persuasiveness.
+	Conceptualization: A servant leader needs to integrate present realities and future possibilities.
+	Foresight: A servant leader needs to have a well developed sense of intuition about how the past, present, and future are connected.
+	Stewardship: A servant leader is a steward who holds an organization's resources in trust for the greater good.
+	Commitment to the growth of people: A servant leader is responsible for serving the needs of others.
+	Building community: A servant leader is to help create a sense of community among people.
+	Our Additions
+
+	Respect: Believe that everyone on the team is doing the best they can, and you are happy they tried their best - Believe that everyone will succeed.
+	Building everyone on the team into leaders.
+	&lt;a href="http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs"&gt;Maslow's hierarchy of needs&lt;/a&gt; (with respect to the “needs” of others in the “Commitment to growth” item)
+	Passion?
+
+
+
+
+	All of these Characteristics can consolidated into four attributes which are:
+
+	Fosters learning
+	Facilitates collaboration
+
+	Craig’s story about his dad - construction worker foreman as choreographer/conductor
+
+
+	Generates trust
+	Acts as the team’s advocate
+
+
+	The &lt;a href="http://www.retrospectives.com/pages/retroPrimeDirective.html"&gt;Retrospective Prime Directive&lt;/a&gt;:
+
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
+
+	How can I improve with Servant Leadership
+
+	Get comfortable with humility
+	Make service your priority
+	Ensure that everyone's base needs are met
+	Remember that your value comes from what those around you are producing
+	Establish trust with your management and with the project members/team members.
+	Act as a shield or filter for the typical command and control from management.
+
+	Shit umbrella
+	“You teach best what you most need to learn.” -- Bach
+	Take more of the blame, and less of the praise.
+
+
+
+
+
+Picks
+Lee (&lt;a href="https://twitter.com/agileatheist"&gt;@agileatheist&lt;/a&gt;)
+
+	&lt;a href="http://www.thoughtworks.com/insights/blog/leadership-agile-environment"&gt;Leader...</itunes:summary>
 		<itunes:author>John Sextro</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:01:02</itunes:duration>
@@ -4109,21 +4410,21 @@ Hosts: &lt;a title="John Sextro" href="http://tw...</itunes:summary>
 		<pubDate>Sun, 14 Sep 2014 07:00:11 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[amos king]]></category>
 		<category><![CDATA[Craig Buchek]]></category>
-		<category><![CDATA[exit strategy]]></category>
 		<category><![CDATA[fail]]></category>
-		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[motivation]]></category>
-		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[exit strategy]]></category>
 		<category><![CDATA[transparency]]></category>
-		<category><![CDATA[xp]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=827</guid>
 		<description><![CDATA[Released Sunday, September 14th, 2014. Hosts: John Sextro, Amos King, Craig Buchek Discussion What to do if agility starts to fail? How do you know when things begin to fail? What can you do to stay motivated? What can you do to bring agility back? What to do if it is time to &#8220;get out&#8221;? Exit strategies Transparency [&#8230;]]]></description>
 				<content:encoded><![CDATA[
 <p>Released Sunday, September 14th, 2014.</p>
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=62" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=62" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Hosts: <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b;" href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a></p>
 <h3>Discussion</h3>
 <ul>
@@ -4217,16 +4518,16 @@ John (&lt;a style="color: #ed702b;" href="http://twitter.com/johnsextro" target
 		<pubDate>Sun, 07 Sep 2014 07:00:18 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[Craig Buchek]]></category>
-		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[Craig Buchek]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=817</guid>
 		<description><![CDATA[Released Sunday, September 7th, 2014. Hosts: Jason Tice, John Sextro, Amos King, Craig Buchek Discussion Bullying in the workplace Tice&#8217;s kindergarten metaphor Self-managing work environments and teams Role as a bystander Responding to bullying 1-on-1 Discussion Higher authority/Management Human Resources Safety Checks Stop Work Authority Anonymous tactics What happens over time? Dealing with continued bad behavior ClassDojo The 5 Whys [&#8230;]]]></description>
 				<content:encoded><![CDATA[
 <p>Released Sunday, September 7th, 2014.</p>
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=61" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=61" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Hosts: <a style="color: #ed702b" title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b" href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a></p>
 <h3>Discussion</h3>
 <ul>
@@ -4372,17 +4673,17 @@ John (&lt;a style="color: #ed702b" href="http://twitter.com/johnsextro" target=
 		<pubDate>Sun, 31 Aug 2014 07:00:22 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[improving]]></category>
-		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[retrospective]]></category>
+		<category><![CDATA[improving]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=811</guid>
 		<description><![CDATA[Released Sunday, August 31, 2014. Hosts: Jason Tice, Lee McCauley, John Sextro, Amos King Discussion Episode 56 call out for info on how you capture your retro notes Evernote Bring things up at standup every day Limit the number of things you&#8217;re trying to change in the week Kanban Boards Responsibility Facilitators Does a 3rd party facilitator make things better [&#8230;]]]></description>
 				<content:encoded><![CDATA[
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=60" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=60" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, August 31, 2014.</p>
 <p>Hosts: <a style="color: #ed702b;" title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a></p>
 <h3>Discussion</h3>
@@ -4546,20 +4847,20 @@ John (&lt;a style="color: #ed702b;" href="http://twitter.com/johnsextro" target
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[kanban]]></category>
+		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[lee mccauley]]></category>
 		<category><![CDATA[amos king]]></category>
 		<category><![CDATA[jason tice]]></category>
-		<category><![CDATA[john sextro]]></category>
-		<category><![CDATA[kanban]]></category>
-		<category><![CDATA[lean]]></category>
-		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[scrum]]></category>
 		<category><![CDATA[story]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[lean]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=804</guid>
 		<description><![CDATA[Released Sunday, August 24, 2014. Hosts: Jason Tice, Lee McCauley, John Sextro, Amos King Discussion Writing great stories So to get things started about writing great stories, let’s talk about WHO writes them? What’s the lifecycle of a good story look like? 3Cs: Card, Confirmation, Conversation Limiting the size of stories by acceptance criteria. 1, 2 or 3 acceptance [&#8230;]]]></description>
 				<content:encoded><![CDATA[
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=59" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=59" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, August 24, 2014.</p>
 <p>Hosts: <a style="color: #ed702b;" title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a></p>
 <h3>Discussion</h3>
@@ -4665,16 +4966,16 @@ John (&lt;a style="color: #ed702b;" href="http://twitter.com/johnsextro" target
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[breaking down]]></category>
-		<category><![CDATA[development]]></category>
-		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[slicing]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[splitting]]></category>
-		<category><![CDATA[story]]></category>
-		<category><![CDATA[sustainable pace]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[splitting]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[sustainable pace]]></category>
+		<category><![CDATA[slicing]]></category>
+		<category><![CDATA[breaking down]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=792</guid>
 		<description><![CDATA[Released Sunday, August 3, 2014 Hosts:  John Sextro Discussion Why I missed the last show. @neil_killick  Neil Killick @aritanninen Ari Tanninen Instead of planning poker, try a story slicing session The importance of slicing stories What’s the right size? How to break down stories Metaphors Toaster vs Space shuttle Building a road First build a dirt [&#8230;]]]></description>
@@ -4863,17 +5164,17 @@ How to break down stories
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[games]]></category>
-		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[scrum]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[games]]></category>
 		<category><![CDATA[story]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=787</guid>
 		<description><![CDATA[Released Sunday, July 20, 2014 Jason Tice, Lee McCauley, John Sextro Discussion What is the role of the Project Manager in the “agile” world? Is there any work for a project manager to do that isn’t captured within the ScrumMaster or Product Owner roles? What coaching advice can you offer to organizations with Project Managers that are [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><br />
-<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=57" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" /></a><br />
+<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=57" target="_blank"><img class="alignnone wp-image-801 size-full" src="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png" alt="" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/08/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a><br />
 Released Sunday, July 20, 2014</p>
 <p><a style="color: #ed702b;" title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a></p>
 <h3>Discussion</h3>
@@ -4955,10 +5256,10 @@ Lee (&lt;a style="color: #ed702b;" href="https://twitter.com/agileatheist"&gt;@
 		<pubDate>Sun, 13 Jul 2014 07:00:10 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=775</guid>
 		<description><![CDATA[Released Sunday, July 13, 2014 Hosts: Jason Tice, Lee McCauley, John Sextro, Amos King Discussion Product Owners How do Product Owners Fit on a Team What do Devs Want/Expect From Product Owners Appropriate Roles/Responsibilities for Product Owners Definitions of a Product Owner Defined Roles Coaching Agile Teams by Lyssa Adkins Scrum Roman Pichler Agile Product Management with Scrum: Creating [&#8230;]]]></description>
@@ -5052,7 +5353,74 @@ Lee (&lt;a style="color: #ed702b;" href="https://twitter.com/agileatheist"&gt;@
 		<itunes:subtitle>Released Sunday, July 13, 2014 - Hosts: Jason Tice, Lee McCauley, John Sextro, Amos King Discussion Product Owners How do Product Owners Fit on a Team  What do Devs Want/Expect From Product Owners </itunes:subtitle>
 		<itunes:summary>Released Sunday, July 13, 2014
 
-Hosts: &lt;a style="color: #ed702b" title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank"&gt;Jason Tice&lt;/a&gt;, &lt;a style="color: #ed702b" href="https://twitter.com/agileatheist" target="_blank"&gt;Lee McCaule...</itunes:summary>
+Hosts: &lt;a style="color: #ed702b" title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank"&gt;Jason Tice&lt;/a&gt;, &lt;a style="color: #ed702b" href="https://twitter.com/agileatheist" target="_blank"&gt;Lee McCauley&lt;/a&gt;, &lt;a style="color: #ed702b" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank"&gt;John Sextro&lt;/a&gt;, &lt;a style="color: #ed702b" href="http://twitter.com/adkron" target="_blank"&gt;Amos King&lt;/a&gt;
+Discussion
+
+	&lt;a href="http://scrummethodology.com/scrum-product-owner/"&gt;Product Owners&lt;/a&gt;
+
+	How do Product Owners Fit on a Team
+	What do Devs Want/Expect From Product Owners
+	Appropriate Roles/Responsibilities for Product Owners
+
+
+	Definitions of a Product Owner
+
+	Defined Roles
+	&lt;a href="http://www.coachingagileteams.com/"&gt;Coaching Agile Teams by Lyssa Adkins&lt;/a&gt;
+	&lt;a href="https://www.scrum.org/"&gt;Scrum&lt;/a&gt;
+	&lt;a href="http://www.romanpichler.com/"&gt;Roman Pichler&lt;/a&gt;
+	&lt;a href="http://www.amazon.com/Agile-Product-Management-Scrum-Addison-Wesley/dp/0321605780/ref=sr_1_1?ie=UTF8&amp;qid=1405089979&amp;sr=8-1&amp;keywords=roman+pichler"&gt;Agile Product Management with Scrum: Creating Products that Customers Love by Roman Pichler&lt;/a&gt;
+	&lt;a href="http://www.agileadvice.com/tag/bucket-system/"&gt;3 Bucket System&lt;/a&gt;
+
+
+	Figuring out Motivational Goals- Team or Product Owner?
+	Location of Product Owner
+	Product Owner vs. Other Titles
+	Communication and Building Relationships
+
+	Admin and Marketing
+	Emails
+
+
+	Full-Time vs. Part-Time
+	&lt;a href="http://www.businessdictionary.com/definition/role-overload.html"&gt;Role Overloading&lt;/a&gt;
+
+	&lt;a href="http://en.wikipedia.org/wiki/Side_effect_(computer_science)"&gt;See back effect&lt;/a&gt;
+	&lt;a href="http://en.wikipedia.org/wiki/Quality_assurance"&gt;Quality Assurance (QA)&lt;/a&gt;
+
+
+	Prioritize Customers/Stakeholders with Scrum/Agile
+	Consolidating/Prioritizing Documents
+
+	&lt;a href="http://www.bing.com/search?q=story%20writing%20workshops%20agile&amp;pc=cosp&amp;ptag=AFDD283CA0BAB41E096F&amp;form=CONMHP&amp;conlogo=CT3210127"&gt;Agile Story Writing Workshops&lt;/a&gt;
+	&lt;a href="http://guide.agilealliance.org/guide/storymap.html"&gt;Story Mapping&lt;/a&gt;
+	&lt;a href="http://en.wikipedia.org/wiki/Fibonacci_sequence"&gt;Fibonacci Sequence (Number)&lt;/a&gt;
+	&lt;a href="http://stack"&gt;Stack&lt;/a&gt;
+	&lt;a href="http://www.hipaa.com/"&gt;HIPAA&lt;/a&gt;&lt;a href="http://whatishipaa.org/hipaa-compliance.php"&gt;Compliances&lt;/a&gt;
+	&lt;a href="http://www.agilemodeling.com/artifacts/userStory.htm"&gt;userStory&lt;/a&gt;
+	&lt;a href="http://storymap.knightlab.com/"&gt;StoryMap JS&lt;/a&gt;
+	Naval Chat
+
+
+	Frequency of Validation and Feedback - &lt;a href="http://en.wikipedia.org/wiki/Business_analyst"&gt;Business Analysts&lt;/a&gt;
+
+	&lt;a href="http://en.wikipedia.org/wiki/Business_plan"&gt;Business Plans&lt;/a&gt;
+
+
+	Communitcation
+	Discussion and Trust
+
+Picks of the Show
+Jason (&lt;a style="color: #ed702b" href="http://twitter.com/theagilefactor" target="_blank"&gt;@theagilefactor&lt;/a&gt;)
+
+	&lt;a href="www.amazon.com/Play-Work-Inspire-Breakthrough-Thinking-ebook/dp/B00AR49GK4" target="_blank"&gt;“Play at Work: How Games Inspire Breakthrough Thinking”&lt;/a&gt; (Penenberg)
+	&lt;a href="http://www.kevincarrollkatalyst.com"&gt;Kevin Carroll&lt;/a&gt; - An awesome guy and motivational speaker with awesome ideas about bringing more fun into your workplace, and he’s done it at places like Nike. Follow him on Twitter &lt;a href="https://twitter.com/kckatalyst" target="_blank"&gt;@kckatalyst&lt;/a&gt;
+	&lt;a href="http://www.redballproject.com" target="_blank"&gt;Red Ball Project&lt;/a&gt; - Stop looking at your device, look around, have a bit of fun, and celebrate the world that you live in.
+
+John (&lt;a style="color: #ed702b" href="http://twitter.com/johnsextro" target="_blank"&gt;@johnsextro&lt;/a&gt;)
+
+	&lt;a href="https://evernote.com/"&gt;Evernote&lt;/a&gt; - How are you tracking commitments made during retrospectives?  How do you follow up on those commitments?
+	&lt;a href="http://gettingthingsdone.com/"&gt;Getting Things Done&lt;/a&gt; by David Allen - This is an old book, but there is some really good insights in the book on knowledg...</itunes:summary>
 		<itunes:author>John Sextro</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>57:26</itunes:duration>
@@ -5097,9 +5465,9 @@ The show will return to its regular schedule on Sunday, July 13, 2014</itunes:su
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
+		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[amos king]]></category>
 		<category><![CDATA[development]]></category>
-		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[test driven development]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=768</guid>
@@ -5172,19 +5540,19 @@ John (&lt;a style="color: #ed702b;" href="http://twitter.com/johnsextro" target
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[agilelinc]]></category>
-		<category><![CDATA[good to great]]></category>
-		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[agilelinc]]></category>
 		<category><![CDATA[unigroup]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[good to great]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=765</guid>
 		<description><![CDATA[Released Sunday, June 8, 2014 Hosts:  Jason Tice, Lee McCauley, John Sextro Discussion Agile&#8230;Good to Great John’s Recommendation Whole team approach Blend your skills Role overloading No single point of failure Easier to swarm and surge Everyone working on the most important thing Eliminate the key person risk Jason’s Recommendation Actually release your software (to PROD) frequently Get [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><br />
-<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=54" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a><br />
+<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=54" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a><br />
 Released Sunday, June 8, 2014</p>
 <p>Hosts:  <a title="Jason Tice" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a></p>
 <h3>Discussion</h3>
@@ -5317,17 +5685,17 @@ Jason (&lt;a href="http://twitter.com/theagilefactor" target="_blank"&gt;@theagi
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[john sextro]]></category>
-		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[practices]]></category>
 		<category><![CDATA[scrum]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[practices]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=762</guid>
 		<description><![CDATA[Released Sunday, June 8, 2014 Hosts:  Amos King, Lee McCauley, John Sextro Discussion What practice would cause you to leave a team? Lee, forced overtime Amos, lack of flexibility in work location, lack of trust. John, living in a cube farm. What practice, if not done, would cause you to leave a team? Amos, Retrospectives Lee, TDD &#8211; [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><br />
-<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=53" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a><br />
+<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=53" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a><br />
 Released Sunday, June 8, 2014</p>
 <p>Hosts:  <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a></p>
 <h3>Discussion</h3>
@@ -5419,18 +5787,18 @@ John (&lt;a style="color: #ed702b;" href="http://twitter.com/johnsextro" target
 		<pubDate>Sun, 08 Jun 2014 07:00:52 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[Agile Games 2014]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[conference]]></category>
-		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[live]]></category>
+		<category><![CDATA[Agile Games 2014]]></category>
+		<category><![CDATA[conference]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=755</guid>
 		<description><![CDATA[Released Sunday, June 8, 2014 Hosts:  Amos King, Lee McCauley, John Sextro, Jason Tice Discussion Agile Games 2014 Jason summarizing the games session by Chris Simms and Laura Powers John summarizes the session by Dr. Roger Greenaway Lee summarizes the session by Doc List Nancy talked about a game to deal with habits and addictions inside of organizations Making [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><br />
-<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=52" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a><br />
+<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=52" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a><br />
 Released Sunday, June 8, 2014</p>
 <p>Hosts:  <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a></p>
 <h3>Discussion</h3>
@@ -5543,15 +5911,15 @@ Jason (&lt;a style="color: #ed702b;" href="http://twitter.com/theagilefactor"&g
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[lee mccauley]]></category>
 		<category><![CDATA[amos king]]></category>
 		<category><![CDATA[Craig Buchek]]></category>
-		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[scrum]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=749</guid>
 		<description><![CDATA[Released Sunday, June 1, 2014 Hosts: Amos King, Craig Buchek, Lee McCauley, Joe Barnes Discussion The Adoption of Agile Embrace vs Adopt [Insert Joe&#8217;s Article] Top-Down vs Bottom-Up Scrum Changing Over Time Continuous Deployment Cross-pollination Throughout Teams Where to Start? The Fear Factor The Art of Doing More with Less Adoption Challenges Developer Defense Top-Down vs Bottom-Up (Cont&#8217;d) [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><br />
-<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=51" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a></p>
+<a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&amp;utm_medium=podcast&amp;utm_campaign=ThisAgileLifePodcast&amp;utm_content=51" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, June 1, 2014</p>
 <p>Hosts: <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b;" href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a href="https://twitter.com/joescii" target="_blank">Joe Barnes</a></p>
 <h3>Discussion</h3>
@@ -5670,18 +6038,18 @@ Joe (&lt;a href="https://twitter.com/joescii" target="_blank"&gt;@joescii&lt;/a&
 		<pubDate>Sun, 25 May 2014 07:00:22 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[Craig Buchek]]></category>
-		<category><![CDATA[improving]]></category>
-		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[retrospective]]></category>
+		<category><![CDATA[improving]]></category>
+		<category><![CDATA[Craig Buchek]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=730</guid>
 		<description><![CDATA[This episode sponsored by: Released Sunday, May 25, 2014 Hosts: John Sextro, Amos King, Craig Buchek and Jason Tice Discussion A self-facilitated retrospective on what we have learned doing the last 50 episodes of ThisAgileLife. Planning Planning gives us time to better prepare for the conversation. Without planning, the conversations are more organic. When we have a prepared topic, we should [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><br />
 This episode sponsored by:</p>
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&#038;utm_medium=podcast&#038;utm_campaign=ThisAgileLifePodcast&#038;utm_content=50" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&utm_medium=podcast&utm_campaign=ThisAgileLifePodcast&utm_content=50" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, May 25, 2014</p>
 <p>Hosts: <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b;" href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a> and <a style="color: #ed702b;" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a></p>
 <h3>Discussion</h3>
@@ -5756,7 +6124,59 @@ This episode sponsored by:</p>
 
 Released Sunday, May 25, 2014
 
-Hosts: &lt;a style="color: ...</itunes:summary>
+Hosts: &lt;a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank"&gt;John Sextro&lt;/a&gt;, &lt;a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank"&gt;Amos King&lt;/a&gt;, &lt;a style="color: #ed702b;" href="https://twitter.com/craigbuchek" target="_blank"&gt;Craig Buchek&lt;/a&gt; and &lt;a style="color: #ed702b;" href="http://twitter.com/theagilefactor" target="_blank"&gt;Jason Tice&lt;/a&gt;
+Discussion
+A self-facilitated retrospective on what we have learned doing the last 50 episodes of &lt;a href="http://thisagilelife.com" target="_blank"&gt;ThisAgileLife&lt;/a&gt;.
+
+	Planning
+
+	Planning gives us time to better prepare for the conversation.
+	Without planning, the conversations are more organic.
+	When we have a prepared topic, we should be prepared to discuss the topic.
+	Improvement: Give the hosts 3 to 4 days lead notice on the date and time of the recording and the potential topics.
+	Improvement: Declare the episode type ahead of time so that we can do the necessary preparation for the recording.
+	Improvement: Delegate to &lt;a href="http://www.twitter.com/therubyrep"&gt;@therubyrep&lt;/a&gt;.
+
+
+	Focus
+
+	Too often we wonder off of the main topic.
+	Use a "parking lot" to control the conversation.
+	Send us a tweet &lt;a href="http://twitter.com/thisagilelife" target="_blank"&gt;@thisagilelife&lt;/a&gt; to let us know how you feel about our focus and conversation flow.
+
+
+	Involving Our Listeners
+
+	How can we get more listener involvement?
+	Live stream the podcast.
+
+	IRC Channel
+	&lt;a href="http://www.twitter.com" target="_blank"&gt;Twitter&lt;/a&gt;
+	&lt;a href="https://www.ustream.tv/" target="_blank"&gt;UStream&lt;/a&gt;
+	&lt;a href="www.justin.tv/" target="_blank"&gt;JustinTV&lt;/a&gt;
+
+
+	Improvement: Engage with the community 48 hours before the scheduled recording time.
+
+
+
+Picks of the Show
+Craig (&lt;a style="color: #ed702b;" href="http://twitter.com/craigbuchek" target="_blank"&gt;@craigbuchek&lt;/a&gt;)
+
+	&lt;a href="http://www.tylervigen.com/"&gt;Spurious Correlations&lt;/a&gt; - finds things that have a strong correlation that are probably completely coincidental
+	Rainbow Parentheses - giving each pair of parentheses a different color in your text editor (available for various text editors - Google it)
+	&lt;a href="https://medium.com/programming-ideas-tutorial-and-experience/3a6db2743a1e"&gt;Semantic Highlighting&lt;/a&gt; - giving each variable name a different color in your text editor (available for various text editors and programming languages)
+
+Jason (&lt;a style="color: #ed702b;" href="http://twitter.com/theagilefactor"&gt;@TheAgileFactor&lt;/a&gt;)
+
+	&lt;a href="http://www.agilegames2014.com/" target="_blank"&gt;The Agile Games 2014&lt;/a&gt; - Don't miss your chance to join 9 presenters, 5 feature games, 5 hours of open space (where you can share the next great agile game and become famous), 1 party at MeadHall in Cambridge, and best of all 1 live episode of &lt;a href="http://thisagilelife.com" target="_blank"&gt;ThisAgileLife&lt;/a&gt; - all in Boston, MA - June 2-4, 2014.
+	&lt;a href="http://drive.google.com" target="_blank"&gt;drive.google.com&lt;/a&gt; - If you haven’t tried collaborating by having multiple people edit the same document at the same time, you need to try it - endorsed and used by &lt;a href="http://thisagilelife.com" target="_blank"&gt;ThisAgileLife&lt;/a&gt; - Work Is Going Google.
+
+John (&lt;a style="color: #ed702b;" href="http://twitter.com/johnsextro" target="_blank"&gt;@johnsextro&lt;/a&gt;)
+
+	&lt;a href="http://www.jimrohn.com/"&gt;You are the average of the 5 people with whom you spend the most time&lt;/a&gt; (Motivational speaker)
+&lt;a href="http://www.lifehack.org/articles/productivity/how-to-start-and-run-a-mastermind-group.html"&gt;Consider starting a mastermind group.&lt;/a&gt;
+	&lt;a href="https://www.linkedin.com/groups/St-Louis-Agile-LINC-4881116"&gt;AgileLINC&lt;/a&gt; (In June we are ...</itunes:summary>
 		<itunes:author>John Sextro</itunes:author>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:duration>50:43</itunes:duration>
@@ -5769,21 +6189,21 @@ Hosts: &lt;a style="color: ...</itunes:summary>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[feature]]></category>
-		<category><![CDATA[jason tice]]></category>
-		<category><![CDATA[john sextro]]></category>
-		<category><![CDATA[prioritization]]></category>
-		<category><![CDATA[product owner]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[story]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[feature]]></category>
+		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[product owner]]></category>
+		<category><![CDATA[prioritization]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=724</guid>
 		<description><![CDATA[This episode sponsored by: Released Sunday, May 18, 2014 Hosts: John Sextro, Amos King and Jason Tice Discussion Deciding how and what to prioritize for development. In a best-case, user stories have business value (think about the GetKanban game &#8211; some stories give you more subscribers &#8211; which in turn gives you more revenue &#8211; the objective of GetKanban, [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><br />
 This episode sponsored by:</p>
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&#038;utm_medium=podcast&#038;utm_campaign=ThisAgileLifePodcast&#038;utm_content=49" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&utm_medium=podcast&utm_campaign=ThisAgileLifePodcast&utm_content=49" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, May 18, 2014</p>
 <p>Hosts: <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a> and <a style="color: #ed702b;" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a></p>
 <h3>Discussion</h3>
@@ -5911,21 +6331,21 @@ Amos (&lt;a style="color: #ed702b;" href="http://twitter.com/adkron" target="_b
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[building teams]]></category>
-		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[sanctioned incompetence]]></category>
-		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[building teams]]></category>
 		<category><![CDATA[umbrella]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[sanctioned incompetence]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=718</guid>
 		<description><![CDATA[This episode sponsored by: Released Sunday, May 11, 2014 Hosts: John Sextro, Amos King, Jason Tice, Lee McCauley Discussion Leadership Organic Growth Power Struggles The Product / Owner Role &#8220;The Shit Umbrella&#8221; Martyrdom The Good and The Bad of Having a Tight Knit Team Being Friends with Everyone Handling Lateness (changing people&#8217;s natural behavioral patterns) Sanctioned Incompetence (keeping someone [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><br />
 This episode sponsored by:</p>
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&#038;utm_medium=podcast&#038;utm_campaign=ThisAgileLifePodcast&#038;utm_content=48" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&utm_medium=podcast&utm_campaign=ThisAgileLifePodcast&utm_content=48" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, May 11, 2014</p>
 <p>Hosts: <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b;" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a></p>
 <h3>Discussion</h3>
@@ -6062,17 +6482,17 @@ John (&lt;a style="color: #ed702b;" href="http://twitter.com/johnsextro" target
 		<pubDate>Sun, 04 May 2014 07:00:40 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[Craig Buchek]]></category>
-		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[test driven development]]></category>
+		<category><![CDATA[Craig Buchek]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=706</guid>
 		<description><![CDATA[This episode sponsored by: Released Sunday, May 4, 2014 Hosts: Amos King, Jason Tice, Craig Buchek, Lee McCauley Discussion DHH Keynote and Article on TDD Talk at RailsConf 2014 (raw feed, starts at 11:30, TDD stuff starts at 35:12) NOTE: Lots of F-bombs. TDD is dead. Long live testing. TDD and Architecture &#8220;Looking Better&#8221; Writing Tests vs Writing Tests [&#8230;]]]></description>
 				<content:encoded><![CDATA[
 <p>This episode sponsored by:</p>
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&#038;utm_medium=podcast&#038;utm_campaign=ThisAgileLifePodcast&#038;utm_content=47" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&utm_medium=podcast&utm_campaign=ThisAgileLifePodcast&utm_content=47" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, May 4, 2014</p>
 <p>Hosts: <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b;" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b;" href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a></p>
 <h3>Discussion</h3>
@@ -6209,20 +6629,20 @@ Lee (&lt;a style="color: #ed702b;" href="https://twitter.com/agileatheist"&gt;@
 		<pubDate>Sun, 27 Apr 2014 07:00:29 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[approval tests]]></category>
-		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[john sextro]]></category>
-		<category><![CDATA[koans]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
 		<category><![CDATA[llewellyn falco]]></category>
+		<category><![CDATA[approval tests]]></category>
 		<category><![CDATA[nate mckie]]></category>
+		<category><![CDATA[koans]]></category>
 		<category><![CDATA[picks]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=701</guid>
 		<description><![CDATA[This episode sponsored by: Released Sunday, April 27, 2014 Hosts: John Sextro, Jason Tice, Amos King, Nate McKie Special Guest: Llewellyn Falco Discussion Origins of Approval Tests Architecture of Approval Tests Recognizing vs Defining 4 Benefits of Unit Testing Spec Feedback Regression Granularity Contributing to Approval Tests Learning More Koans Videos Locking / Combination Tests Picks of the Show Llewellyn (@llewellynfalco) [&#8230;]]]></description>
 				<content:encoded><![CDATA[
 <p>This episode sponsored by:</p>
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&#038;utm_medium=podcast&#038;utm_campaign=ThisAgileLifePodcast&#038;utm_content=46" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&utm_medium=podcast&utm_campaign=ThisAgileLifePodcast&utm_content=46" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, April 27, 2014</p>
 <p>Hosts: <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b;" href="http://twitter.com/adkron" target="_blank">Amos King</a>, <a style="color: #ed702b;" title="Nate McKie" href="http://www.thisagilelife.com/sample-page/nate-mckie/" target="_blank">Nate McKie</a></p>
 <p>Special Guest: <a href="https://twitter.com/LlewellynFalco" target="_blank">Llewellyn Falco</a></p>
@@ -6372,20 +6792,20 @@ Tice (&lt;a style="color: #ed702b;" href="http://twitter.com/theagilefactor"&gt;
 		<pubDate>Sun, 20 Apr 2014 07:00:51 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[Craig Buchek]]></category>
-		<category><![CDATA[database]]></category>
-		<category><![CDATA[development]]></category>
-		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[metrics]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[metrics]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[Craig Buchek]]></category>
+		<category><![CDATA[database]]></category>
 		<category><![CDATA[testing]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=690</guid>
 		<description><![CDATA[This episode sponsored by: Released Sunday, April 20, 2014 Hosts: John Sextro, Lee McCauley, Jason Tice, Craig Buchek Discussion Agile Database Development Discipline &#38; Continuity Forwards &#38; Backwards Release Flow kanban Is it ever too late? Continuos and Automated Deployment Time them Codeship Agile and Lean Metrics Last responsible moment Where to start? Why are metrics important? Cycle Time [&#8230;]]]></description>
 				<content:encoded><![CDATA[
 <p>This episode sponsored by:</p>
-<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&#038;utm_medium=podcast&#038;utm_campaign=ThisAgileLifePodcast&#038;utm_content=45" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" /></a></p>
+<p><a href="https://www.codeship.io/thisagilelife?utm_source=ThisAgileLife&utm_medium=podcast&utm_campaign=ThisAgileLifePodcast&utm_content=45" target="_blank"><img class="alignnone size-full wp-image-697" src="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png" alt="728x90_codeship_thisagilelife" width="728" height="90" srcset="http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife-300x37.png 300w, http://www.thisagilelife.com/wp-content/uploads/2014/04/728x90_codeship_thisagilelife.png 728w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
 <p>Released Sunday, April 20, 2014</p>
 <p>Hosts: <a style="color: #ed702b;" title="John Sextro" href="http://twitter.com/johnsextro" target="_blank">John Sextro</a>, <a style="color: #ed702b;" href="https://twitter.com/agileatheist" target="_blank">Lee McCauley</a>, <a style="color: #ed702b;" href="http://twitter.com/theagilefactor" target="_blank">Jason Tice</a>, <a style="color: #ed702b;" href="https://twitter.com/craigbuchek" target="_blank">Craig Buchek</a></p>
 <h3>Discussion</h3>
@@ -6538,11 +6958,11 @@ Jason (&lt;a style="color: #ed702b;" href="http://twitter.com/theagilefactor"&g
 		<pubDate>Sun, 13 Apr 2014 07:00:37 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos]]></category>
-		<category><![CDATA[improving]]></category>
-		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[kanban]]></category>
+		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[improving]]></category>
+		<category><![CDATA[amos]]></category>
 		<category><![CDATA[test driven development]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=686</guid>
@@ -6643,12 +7063,12 @@ Amos (&lt;a href="http://twitter.com/adkron" target="_blank"&gt;@adkron&lt;/a&gt
 		<pubDate>Sun, 06 Apr 2014 07:00:11 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[#NoEstimates]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[JB Rainsberger]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[JB Rainsberger]]></category>
+		<category><![CDATA[#NoEstimates]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=680</guid>
 		<description><![CDATA[Released Sunday, April 6, 2014 Hosts: John Sextro, Lee McCauley, Amos King Special Guest: JB Rainsberger Discussion with JB Rainsberger Request JB&#8217;s help JB Rainsberger: Reports of Agile’s Death, Yadda, Yadda Trigger: Dave Thomas’ post on the death of Agile: Agile Is Dead (Long Live Agility) Agile = Shibboleth? Interpreting and implementing Agile JB Rainsberger: Keynote &#8211; The Extreme Decade [&#8230;]]]></description>
@@ -6788,16 +7208,16 @@ JB Rainsberger (&lt;a href="https://twitter.com/jbrains" target="_blank"&gt;@jbr
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[development]]></category>
-		<category><![CDATA[jason tice]]></category>
-		<category><![CDATA[john sextro]]></category>
-		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[mechanics]]></category>
 		<category><![CDATA[mob programming]]></category>
 		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[lee mccauley]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[development]]></category>
 		<category><![CDATA[test driven development]]></category>
 		<category><![CDATA[woody zuill]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[mechanics]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=673</guid>
 		<description><![CDATA[Released Sunday, March 30, 2014 Hosts: John Sextro, Jason Tice, Lee McCauley Special Guest: Woody Zuill Discussion with Woody Zuill Mob Programming: Basic Overview Mob Programming Basics Woody&#8217;s Presentation from Øredev The Mechanics of Mob Programming Ground Rules Kindness, Respect &#38; Consideration Team Balance and Contributions Pros of Mob Programming Rapid Feedback Loop Productivity &#38; Efficiency Convincing [&#8230;]]]></description>
@@ -7110,12 +7530,12 @@ Jason (&lt;a href="http://twitter.com/theagilefactor"&gt;@TheAgileFactor&lt;/a&g
 		<pubDate>Sun, 16 Mar 2014 07:00:00 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[angela harms]]></category>
-		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[mob programming]]></category>
 		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[lee mccauley]]></category>
-		<category><![CDATA[mob programming]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[angela harms]]></category>
 		<category><![CDATA[tdd]]></category>
 		<category><![CDATA[test driven development]]></category>
 
@@ -7243,14 +7663,14 @@ Lee (&lt;a href="http://twitter.com/agileatheist" target="_blank"&gt;@AgileAthei
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[booster]]></category>
-		<category><![CDATA[coaching]]></category>
-		<category><![CDATA[lean]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[sustainable pace]]></category>
-		<category><![CDATA[t-shirt]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[lean]]></category>
+		<category><![CDATA[sustainable pace]]></category>
+		<category><![CDATA[booster]]></category>
+		<category><![CDATA[t-shirt]]></category>
+		<category><![CDATA[coaching]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=647</guid>
 		<description><![CDATA[Released Sunday, March 9, 2014 Hosts: John Sextro Booster Thanks to all of the Boosters that supported the podcast by purchasing a &#8220;People Work Here&#8221; t-shirt. Travis Meisenheimer Chris Morgan Joe Barnes Duke Matlock Brian Haggard Thomas Bryant Nick Bimpasis Kevin Ward Alex Pennace Kyle Stevens Benjamin Kanouse Show Retrospective Survey Monkey Questionnaire Personal Coaching Service [&#8230;]]]></description>
@@ -7366,17 +7786,17 @@ Sustainable Pace
 		<pubDate>Sun, 02 Mar 2014 07:00:41 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[10 commandments]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[amos]]></category>
-		<category><![CDATA[douchebag]]></category>
-		<category><![CDATA[egoless]]></category>
-		<category><![CDATA[jason]]></category>
-		<category><![CDATA[john]]></category>
-		<category><![CDATA[lee]]></category>
-		<category><![CDATA[programming]]></category>
 		<category><![CDATA[scrum]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[amos]]></category>
+		<category><![CDATA[john]]></category>
+		<category><![CDATA[lee]]></category>
+		<category><![CDATA[jason]]></category>
+		<category><![CDATA[10 commandments]]></category>
+		<category><![CDATA[egoless]]></category>
+		<category><![CDATA[douchebag]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=642</guid>
 		<description><![CDATA[Released Sunday, March 2, 2014 Hosts: John Sextro, Jason Tice, Lee McCauley and Amos King 10 Commandments of Egoless Programming 10 Commandments of Egoless Programming  &#8220;The Psychology of Computer Programming&#8220;, Jerry Weinberg *source for the 10 commandments A printable version, suitable for posting in your team area Picks of the Show John (@jcsextro) iOhYes Amos (@adkron) Agility, Uncertainty, and Software [&#8230;]]]></description>
@@ -7453,20 +7873,20 @@ Lee (&lt;a href="http://twitter.com/agileatheist" target="_blank"&gt;@AgileAthei
 		<pubDate>Sun, 23 Feb 2014 07:00:17 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[10 commandments]]></category>
-		<category><![CDATA[a to xp]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[amos]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[development]]></category>
-		<category><![CDATA[egoless]]></category>
-		<category><![CDATA[jason]]></category>
-		<category><![CDATA[john]]></category>
-		<category><![CDATA[product owner]]></category>
-		<category><![CDATA[programming]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[technical debt]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[amos]]></category>
+		<category><![CDATA[john]]></category>
+		<category><![CDATA[jason]]></category>
+		<category><![CDATA[technical debt]]></category>
+		<category><![CDATA[a to xp]]></category>
+		<category><![CDATA[10 commandments]]></category>
+		<category><![CDATA[egoless]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[product owner]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=638</guid>
 		<description><![CDATA[Released Sunday, February 23, 2014 Hosts: John Sextro, Jason Tice and Amos King “Get It Started” discussion Jason Tice introduces us to a new way to generate conversation on the team using &#8220;A to XP: The Agile ABC Book&#8221;, by Karen Favazza Spencer We discuss the &#8220;N&#8221; word from the book, &#8220;Narrative&#8221;. Telling stories to enrich conversations Metaphors for systems [&#8230;]]]></description>
@@ -7570,18 +7990,18 @@ Jason (&lt;a href="http://twitter.com/theagilefactor"&gt;@TheAgileFactor&lt;/a&g
 		<pubDate>Sun, 16 Feb 2014 07:00:14 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[2013]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[amos]]></category>
-		<category><![CDATA[jason]]></category>
-		<category><![CDATA[john]]></category>
-		<category><![CDATA[kanban]]></category>
-		<category><![CDATA[lean]]></category>
-		<category><![CDATA[nate]]></category>
 		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[xp]]></category>
+		<category><![CDATA[kanban]]></category>
+		<category><![CDATA[amos]]></category>
+		<category><![CDATA[john]]></category>
+		<category><![CDATA[nate]]></category>
+		<category><![CDATA[2013]]></category>
 		<category><![CDATA[state of agile]]></category>
 		<category><![CDATA[versionone]]></category>
-		<category><![CDATA[xp]]></category>
+		<category><![CDATA[jason]]></category>
+		<category><![CDATA[lean]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=634</guid>
 		<description><![CDATA[Released Sunday, February 17, 2014 Hosts: John Sextro, Nate McKie, Jason Tice and Amos King State of Agile 2013 State of Agile 2013, report from VersionOne Picks of the Show John (@jcsextro) HootSuite for managing your Twitter feed Amos (@adkron) Flaccid Scrum, blog post by Martin Fowler ACA without the overhead Nate (@NateMcKie) Clients from Hell The Goal, by [&#8230;]]]></description>
@@ -7621,7 +8041,7 @@ Similar to Crucial Conversations but more focused on those who have to give dire
 			<wfw:commentRss>http://www.thisagilelife.com/36/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 
-		<itunes:subtitle>Released Sunday, February 17, 2014 - Hosts: John Sextro, Nate McKie, Jason Tice and Amos King State of Agile 2013  State of Agile 2013, report from VersionOne Picks of the Show John (@jcsextro) HootSuite for managing your Twitter feed </itunes:subtitle>
+		<itunes:subtitle>Released Sunday, February 17, 2014 - Hosts: John Sextro, Nate McKie, Jason Tice and Amos King State of Agile 2013  State of Agile 2013, report from VersionOne Picks of the Show John (@jcsextro) - </itunes:subtitle>
 		<itunes:summary>Released Sunday, February 17, 2014
 
 Hosts: &lt;a title="John Sextro" href="http://www.thisagilelife.com/sample-page/john-sextro/" target="_blank"&gt;John Sextro&lt;/a&gt;, &lt;a title="Nate McKie" href="http://www.thisagilelife.com/sample-page/nate-mckie/" target="_blank"&gt;Nate McKie&lt;/a&gt;, &lt;a title="Jason Tice" href="http://www.thisagilelife.com/sample-page/jason-tice/"&gt;Jason Tice&lt;/a&gt; and &lt;a title="Amos King" href="http://www.thisagilelife.com/sample-page/amos-king/"&gt;Amos King&lt;/a&gt;
@@ -7664,15 +8084,15 @@ Similar to Crucial Conversations but more focused on those who have to give dire
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
+		<category><![CDATA[scrum]]></category>
 		<category><![CDATA[amos]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[stories]]></category>
+		<category><![CDATA[split]]></category>
+		<category><![CDATA[splitting]]></category>
 		<category><![CDATA[john]]></category>
 		<category><![CDATA[lee]]></category>
 		<category><![CDATA[nate]]></category>
-		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[split]]></category>
-		<category><![CDATA[splitting]]></category>
-		<category><![CDATA[stories]]></category>
-		<category><![CDATA[story]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=631</guid>
 		<description><![CDATA[Recorded Monday, February 3, 2014 Hosts: John Sextro, Nate McKie, Dr. Lee McCauley and Amos King Splitting Stories Why do we care about splitting a story? Focus Estimation Flexibility Continuous delivery Learning 20 ways to split stories, Bill Wake Story Splitting Flowchart, Richard Lawrence Approaches for splitting stories Password verification field, enter once then enter again Hit the [&#8230;]]]></description>
@@ -7800,13 +8220,13 @@ Lee (&lt;a href="http://twitter.com/agileatheist" target="_blank"&gt;@agileathei
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
+		<category><![CDATA[introspective]]></category>
 		<category><![CDATA[amos]]></category>
 		<category><![CDATA[craig]]></category>
 		<category><![CDATA[fear]]></category>
-		<category><![CDATA[homebrew]]></category>
-		<category><![CDATA[introspective]]></category>
-		<category><![CDATA[pragmatic]]></category>
 		<category><![CDATA[why]]></category>
+		<category><![CDATA[homebrew]]></category>
+		<category><![CDATA[pragmatic]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=628</guid>
 		<description><![CDATA[Recorded Wednesday, January 22, 2014 Hosts: Amos King and Craig Buchek Introspectives Introspectives, defined. How Amos and Craig came up with the idea. Craig&#8217;s blog post Amos&#8217; blog post Using the &#8220;Why Game&#8221; during introspectives Who else is doing this? Fear As human animals, fear plays a big part of why we do things We often need [&#8230;]]]></description>
@@ -7845,7 +8265,7 @@ Lee (&lt;a href="http://twitter.com/agileatheist" target="_blank"&gt;@agileathei
 			<wfw:commentRss>http://www.thisagilelife.com/34/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 
-		<itunes:subtitle>Recorded Wednesday, January 22, 2014 - Hosts: Amos King and Craig Buchek Introspectives Introspectives, defined.  How Amos and Craig came up with the idea. Craig's blog post  Amos' blog post  Using the "Why Game" during introspectives </itunes:subtitle>
+		<itunes:subtitle>Recorded Wednesday, January 22, 2014 - Hosts: Amos King and Craig Buchek Introspectives Introspectives, defined.  How Amos and Craig came up with the idea. Craig's blog post  Amos' blog post </itunes:subtitle>
 		<itunes:summary>Recorded Wednesday, January 22, 2014
 
 Hosts: &lt;a title="Amos King" href="http://www.thisagilelife.com/sample-page/amos-king/"&gt;Amos King&lt;/a&gt; and &lt;a href="http://twitter.com/craigbuchek" target="_blank"&gt;Craig Buchek&lt;/a&gt;
@@ -7887,18 +8307,18 @@ Amos (&lt;a href="http://twitter.com/adkron" target="_blank"&gt;@adkron&lt;/a&gt
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[retrospective]]></category>
 		<category><![CDATA[Ben Linders]]></category>
+		<category><![CDATA[Value]]></category>
+		<category><![CDATA[Getting]]></category>
 		<category><![CDATA[exercises]]></category>
 		<category><![CDATA[games]]></category>
-		<category><![CDATA[Getting]]></category>
 		<category><![CDATA[improving]]></category>
-		<category><![CDATA[john sextro]]></category>
 		<category><![CDATA[programming]]></category>
-		<category><![CDATA[retrospective]]></category>
-		<category><![CDATA[software]]></category>
 		<category><![CDATA[trust]]></category>
-		<category><![CDATA[Value]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=621</guid>
 		<description><![CDATA[Recorded Monday, January 20, 2014 Hosts: John Sextro, Amos King, and Ben Linders Getting Value Out of Agile Retrospectives &#8220;Getting Value Out of Agile Retrospectives&#8220;, by Ben Linders and Luis Gonçalves &#8220;With plenty of exercises for your retrospective toolbox, this book will help you to become more proficient in doing retrospectives, and to get more value out of [&#8230;]]]></description>
@@ -8031,16 +8451,16 @@ Amos (&lt;a style="line-height: 1.5em;" href="http://twitter.com/adkron" target=
 		<pubDate>Sun, 19 Jan 2014 07:00:13 +0000</pubDate>
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[abc]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[amos king]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[jason tice]]></category>
-		<category><![CDATA[john sextro]]></category>
-		<category><![CDATA[karen favazza spence]]></category>
-		<category><![CDATA[kindergarten]]></category>
-		<category><![CDATA[location]]></category>
 		<category><![CDATA[scrum]]></category>
+		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[location]]></category>
+		<category><![CDATA[abc]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[karen favazza spence]]></category>
+		<category><![CDATA[amos king]]></category>
+		<category><![CDATA[jason tice]]></category>
+		<category><![CDATA[kindergarten]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=615</guid>
 		<description><![CDATA[Recorded Wednesday, January 15, 2014 Hosts: John Sextro, Amos King, Jason Tice and Karen Favazza Spencer Location, Location, Location The 3 Faces of Environment You were saying that Agile resonated with you because it reminded you of kindergarten? What’s up with that? But isn’t adult learning different from children’s learning? Can you give us an example [&#8230;]]]></description>
@@ -8138,14 +8558,14 @@ Amos (&lt;a href="http://twitter.com/adkron" target="_blank"&gt;@adkron&lt;/a&gt
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[john sextro]]></category>
-		<category><![CDATA[kanban]]></category>
-		<category><![CDATA[kanban board]]></category>
-		<category><![CDATA[lee mccauley]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[scrum board]]></category>
+		<category><![CDATA[kanban]]></category>
 		<category><![CDATA[software]]></category>
 		<category><![CDATA[work board]]></category>
+		<category><![CDATA[scrum board]]></category>
+		<category><![CDATA[kanban board]]></category>
+		<category><![CDATA[john sextro]]></category>
+		<category><![CDATA[lee mccauley]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=612</guid>
 		<description><![CDATA[Recorded Thursday, January 9, 2014 Hosts: John Sextro and Dr. Lee McCauley Pros and Cons of Physical and Digital Work Boards Digital Pros Easily shared and viewed by many Automatic metric capture Cycle Time Cumulative Flow Velocity Trend Analysis Etc. Easy to change the board configuration, maybe Enforces WIP limits Integration with other tools Can serve as a [&#8230;]]]></description>
@@ -8211,7 +8631,7 @@ Course will close on Jan. 16th. and the discount offer will expire on the same d
 			<wfw:commentRss>http://www.thisagilelife.com/31/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 
-		<itunes:subtitle>Recorded Thursday, January 9, 2014 - Hosts: John Sextro and Dr. Lee McCauley - Pros and Cons of Physical and Digital Work Boards Digital Pros Easily shared and viewed by many  Automatic metric capture Cycle Time  Cumulative Flow  Velocity </itunes:subtitle>
+		<itunes:subtitle>Recorded Thursday, January 9, 2014 - Hosts: John Sextro and Dr. Lee McCauley - Pros and Cons of Physical and Digital Work Boards Digital Pros Easily shared and viewed by many  Automatic metric capture Cycle Time  Cumulative Flow </itunes:subtitle>
 		<itunes:summary>Recorded Thursday, January 9, 2014
 
 Hosts: &lt;a title="John Sextro" href="http://www.thisagilelife.com/?page_id=13"&gt;John Sextro&lt;/a&gt; and &lt;a title="Lee McCauley" href="http://www.thisagilelife.com/sample-page/lee-mccauley/" target="_blank"&gt;Dr. Lee McCauley&lt;/a&gt;&lt;a title="Amos King" href="http://www.thisagilelife.com/?page_id=9"&gt;
@@ -8505,12 +8925,12 @@ John (&lt;a href="https://twitter.com/jcsextro" target="_blank"&gt;@jcsextro&lt;
 		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[agile]]></category>
-		<category><![CDATA[big]]></category>
-		<category><![CDATA[feature]]></category>
 		<category><![CDATA[scrum]]></category>
-		<category><![CDATA[size]]></category>
 		<category><![CDATA[team]]></category>
+		<category><![CDATA[size]]></category>
 		<category><![CDATA[xp]]></category>
+		<category><![CDATA[feature]]></category>
+		<category><![CDATA[big]]></category>
 
 		<guid isPermaLink="false">http://www.thisagilelife.com/?p=578</guid>
 		<description><![CDATA[Recorded Wednesday, December 4, 2013 Hosts: John Sextro, Amos King, and Lee McCauley What is Too Big for a Team How do you know if your team is too big?  Size alone isn’t enough. Can a team be too big? Indicators Stand up takes too long Losing track of stories and vision The larger the team the [&#8230;]]]></description>
@@ -8893,7 +9313,7 @@ Craig (&lt;a href="https://twitter.com/craigbuchek" target="_blank"&gt;@CraigBuc
 			<wfw:commentRss>http://www.thisagilelife.com/episode-25-4-estimates-and-a-gantt-chart-ago/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 
-		<itunes:subtitle>Recorded Tuesday, November 19, 2013 - Hosts: John Sextro, Jason Tice, and Amos King - Planning, How much is too much. Jason planning to create his blog, http://TheAgileFactor.com  Amos' blog using Jeckly and Github, http://DirtyInformation.com </itunes:subtitle>
+		<itunes:subtitle>Recorded Tuesday, November 19, 2013 - Hosts: John Sextro, Jason Tice, and Amos King - Planning, How much is too much. Jason planning to create his blog, http://TheAgileFactor.com  Amos' blog using Jeckly and Github, http://DirtyInformation.</itunes:subtitle>
 		<itunes:summary>Recorded Tuesday, November 19, 2013
 
 Hosts: &lt;a title="John Sextro" href="http://www.thisagilelife.com/?page_id=13"&gt;John Sextro&lt;/a&gt;, &lt;a title="Jason Tice" href="http://www.thisagilelife.com/?page_id=21"&gt;Jason Tice&lt;/a&gt;, and &lt;a title="Amos King" href="http://www.thisagilelife.com/?page_id=9"&gt;Amos King&lt;/a&gt;&lt;a title="Amos King" href="http://www.thisagilelife.com/?page_id=9"&gt;
@@ -9089,7 +9509,7 @@ Craig</itunes:summary>
 			<wfw:commentRss>http://www.thisagilelife.com/episode-23-overloading-yoga-positions/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 
-		<itunes:subtitle>Recorded Wednesday, November 6, 2013 - Hosts: John Sextro, Dr. Lee McCauley, and Jason Tice - Role Overloading What does role overloading mean to you? Swarming / the 'Whole Team Approach'.  Does it have a positive or negative connotation? - </itunes:subtitle>
+		<itunes:subtitle>Recorded Wednesday, November 6, 2013 - Hosts: John Sextro, Dr. Lee McCauley, and Jason Tice - Role Overloading What does role overloading mean to you? Swarming / the 'Whole Team Approach'.  Does it have a positive or negative connotation? </itunes:subtitle>
 		<itunes:summary>Recorded Wednesday, November 6, 2013
 
 Hosts: &lt;a title="John Sextro" href="http://www.thisagilelife.com/?page_id=13"&gt;John Sextro&lt;/a&gt;, &lt;a title="Lee McCauley" href="http://www.thisagilelife.com/?page_id=43"&gt;Dr. Lee McCauley&lt;/a&gt;, and &lt;a title="Jason Tice" href="http://www.thisagilelife.com/?page_id=21"&gt;Jason Tice&lt;/a&gt;&lt;a title="Amos King" href="http://www.thisagilelife.com/?page_id=9"&gt;
@@ -9700,7 +10120,7 @@ Outro Music: Dan Schwabe</p>
 			<wfw:commentRss>http://www.thisagilelife.com/episode-16-steam-punk-virtual-appliance/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 
-		<itunes:subtitle>Recorded Tuesday, May. 14, 2013 - Hosts: John Sextro, Amos King and Nate McKie Audio Engineer and Post-Production: Dr. Lee McCauley Intro Music: Rich Johnson Outro Music: Dan Schwabe Space and Colocation What’s the ideal space for an agile team?</itunes:subtitle>
+		<itunes:subtitle>Recorded Tuesday, May. 14, 2013 - Hosts: John Sextro, Amos King and Nate McKie Audio Engineer and Post-Production: Dr. Lee McCauley Intro Music: Rich Johnson Outro Music: Dan Schwabe Space and Colocation - </itunes:subtitle>
 		<itunes:summary>Recorded Tuesday, May. 14, 2013
 
 Hosts: &lt;a title="John Sextro" href="http://www.thisagilelife.com/?page_id=13"&gt;John Sextro&lt;/a&gt;, &lt;a title="Amos King" href="http://www.thisagilelife.com/?page_id=9"&gt;Amos King&lt;/a&gt; and &lt;a title="Nate McKie" href="http://www.thisagilelife.com/?page_id=17"&gt;Nate McKie&lt;/a&gt;
@@ -10561,7 +10981,7 @@ Audio Equipment: Adam Axe</p>
 </ul>
 <p>Mike Bishop</p>
 <ul>
-<li><a href="http://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_tl?ie=UTF8&#038;camp=1789&#038;creative=9325&#038;creativeASIN=0201835959&#038;linkCode=as2&#038;tag=thiagilif-20">The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)</a><img src="http://www.assoc-amazon.com/e/ir?t=thiagilif-20&#038;l=as2&#038;o=1&#038;a=0201835959" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<li><a href="http://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201835959&linkCode=as2&tag=thiagilif-20">The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)</a><img src="http://www.assoc-amazon.com/e/ir?t=thiagilif-20&l=as2&o=1&a=0201835959" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -10603,36 +11023,5 @@ Mike Bishop
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:01:41</itunes:duration>
 	<media:content url="http://feedproxy.google.com/~r/thisagilelife/podcast/~5/iWhPl6kssh0/episode_6.mp3" fileSize="29606329" type="audio/mpeg" /><itunes:keywords>thisagilelife,John,Sextro,Amos,King,Nate,McKie,Lee,McCauley,Craig,Buchek,Jason,Tice</itunes:keywords><feedburner:origLink>http://www.thisagilelife.com/episode-6-developer-defense/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/thisagilelife/podcast/~5/iWhPl6kssh0/episode_6.mp3" length="29606329" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/thisagilelife/files.thisagilelife.com/podcasts/episode_6.mp3</feedburner:origEnclosureLink></item>
-		<item>
-		<title>Episode 5 – {No Title}</title>
-		<link>http://feedproxy.google.com/~r/thisagilelife/podcast/~3/DXOjGlJKVjQ/</link>
-		<comments>http://www.thisagilelife.com/episode-5-no-title/#respond</comments>
-		<pubDate>Tue, 23 Oct 2012 19:21:44 +0000</pubDate>
-		<dc:creator>john.sextro@gmail.com (John Sextro)</dc:creator>
-				<category><![CDATA[Podcast]]></category>
-
-		<guid isPermaLink="false">http://www.thisagilelife.com/?p=204</guid>
-		<description><![CDATA[Recorded Tuesday, Oct 2, 2012 Hosts: Amos King and Jason Tice Audio Engineer and Post-Production: Dr. Lee McCauley Intro Music: Rich Johnson Audio Equipment: Adam Axe]]></description>
-				<content:encoded><![CDATA[<p>Recorded Tuesday, Oct 2, 2012<br />
-Hosts: <a title="Amos King" href="http://www.thisagilelife.com/?page_id=9" target="_blank">Amos King</a> and <a title="Jason Tice" href="http://www.thisagilelife.com/?page_id=21">Jason Tice</a><br />
-Audio Engineer and Post-Production: <a title="Lee McCauley" href="http://www.thisagilelife.com/?page_id=43">Dr. Lee McCauley</a><br />
-Intro Music: Rich Johnson<br />
-Audio Equipment: Adam Axe</p>
-<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=DXOjGlJKVjQ:LwwETV3AvgM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=DXOjGlJKVjQ:LwwETV3AvgM:63t7Ie-LG7Y"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=63t7Ie-LG7Y" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=DXOjGlJKVjQ:LwwETV3AvgM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?i=DXOjGlJKVjQ:LwwETV3AvgM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/thisagilelife/podcast?a=DXOjGlJKVjQ:LwwETV3AvgM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/thisagilelife/podcast?d=qj6IDK7rITs" border="0"></img></a>
-</div><img src="http://feeds.feedburner.com/~r/thisagilelife/podcast/~4/DXOjGlJKVjQ" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://www.thisagilelife.com/episode-5-no-title/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-
-		<itunes:subtitle>Recorded Tuesday, Oct 2, 2012 Hosts: Amos King and Jason Tice Audio Engineer and Post-Production: Dr. Lee McCauley Intro Music: Rich Johnson Audio Equipment: Adam Axe</itunes:subtitle>
-		<itunes:summary>Recorded Tuesday, Oct 2, 2012
-Hosts: &lt;a title="Amos King" href="http://www.thisagilelife.com/?page_id=9" target="_blank"&gt;Amos King&lt;/a&gt; and &lt;a title="Jason Tice" href="http://www.thisagilelife.com/?page_id=21"&gt;Jason Tice&lt;/a&gt;
-Audio Engineer and Post-Production: &lt;a title="Lee McCauley" href="http://www.thisagilelife.com/?page_id=43"&gt;Dr. Lee McCauley&lt;/a&gt;
-Intro Music: Rich Johnson
-Audio Equipment: Adam Axe</itunes:summary>
-		<itunes:author>John Sextro</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:28:07</itunes:duration>
-	<media:content url="http://feedproxy.google.com/~r/thisagilelife/podcast/~5/Wz7uG-ZOjXc/episode_5.mp3" fileSize="42297820" type="audio/mpeg" /><itunes:keywords>thisagilelife,John,Sextro,Amos,King,Nate,McKie,Lee,McCauley,Craig,Buchek,Jason,Tice</itunes:keywords><feedburner:origLink>http://www.thisagilelife.com/episode-5-no-title/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/thisagilelife/podcast/~5/Wz7uG-ZOjXc/episode_5.mp3" length="42297820" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.blubrry.com/thisagilelife/files.thisagilelife.com/podcasts/episode_5.mp3</feedburner:origEnclosureLink></item>
 	<copyright>Copyright 2012</copyright><media:credit role="author">John Sextro</media:credit><media:rating>nonadult</media:rating><media:description type="plain">A podcast about what it's like to be Agile in the real world.</media:description></channel>
 </rss>

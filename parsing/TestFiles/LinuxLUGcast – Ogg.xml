@@ -6,12 +6,12 @@
 	
 	<link>http://linuxlugcast.com</link>
 	<description>This episode in Ogg format</description>
-	<lastBuildDate>Sat, 07 Nov 2015 13:36:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Nov 2015 11:28:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
-<!-- podcast_generator="Blubrry PowerPress/6.1" mode="advanced" -->
+<!-- podcast_generator="Blubrry PowerPress/6.2.1" mode="advanced" -->
 	<itunes:summary />
 	<itunes:author>LinuxLUGcast – Ogg</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
@@ -23,6 +23,52 @@
 		<link>http://linuxlugcast.com</link>
 	</image>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/linuxlugcast/JZUx" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="linuxlugcast/jzux" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:thumbnail url="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" /><item>
+		<title>Episode-044</title>
+		<link>http://linuxlugcast.com/?p=451</link>
+		<comments>http://linuxlugcast.com/?p=451#comments</comments>
+		<pubDate>Wed, 25 Nov 2015 17:31:50 +0000</pubDate>
+		<dc:creator><![CDATA[Kevin Wisher]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://linuxlugcast.com/?p=451</guid>
+		<description><![CDATA[Show Topics FiftyOneFifty Reviews: Remix Mini http://www.jide.com/en/mini Quassel: http://www.quassel-irc.org/ http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu Next recording date: Dec. 4, 2015 &#160;]]></description>
+				<content:encoded><![CDATA[<p><b>Show Topics</b></p>
+<p><strong>FiftyOneFifty</strong></p>
+<p><em>Reviews: Remix Mini</em></p>
+<p><a href="http://www.jide.com/en/mini">http://www.jide.com/en/mini</a></p>
+<p><em>Quassel:</em></p>
+<p><a href="http://www.quassel-irc.org/">http://www.quassel-irc.org/</a></p>
+<p><a href="http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu">http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu</a></p>
+<p><strong>Next recording date: Dec. 4, 2015</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=451</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-044/LugCast-044.ogg" length="64000447" type="audio/ogg" />
+	<itunes:subtitle>Show Topics - FiftyOneFifty - Reviews: Remix Mini - http://www.jide.com/en/mini - Quassel: - http://www.quassel-irc.org/ - http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu - Next recording date: Dec. 4, 2015 -  </itunes:subtitle>
+		<itunes:summary>Show Topics
+
+FiftyOneFifty
+
+Reviews: Remix Mini
+
+&lt;a href="http://www.jide.com/en/mini"&gt;http://www.jide.com/en/mini&lt;/a&gt;
+
+Quassel:
+
+&lt;a href="http://www.quassel-irc.org/"&gt;http://www.quassel-irc.org/&lt;/a&gt;
+
+&lt;a href="http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu"&gt;http://bugs.quassel-irc.org/projects/1/wiki/Build_Core_On_Ubuntu&lt;/a&gt;
+
+Next recording date: Dec. 4, 2015
+
+ </itunes:summary>
+		<itunes:author>LinuxLUGcast – Ogg</itunes:author>
+		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:21</itunes:duration>
+	<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-044/LugCast-044.ogg" fileSize="64000447" type="audio/ogg" /></item>
+		<item>
 		<title>Episode-043</title>
 		<link>http://linuxlugcast.com/?p=446</link>
 		<comments>http://linuxlugcast.com/?p=446#comments</comments>
@@ -588,32 +634,5 @@ Next recording date: August 07, 2015</itunes:summary>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:06:55</itunes:duration>
 	<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-035/LugCast-035.ogg" fileSize="55520354" type="audio/ogg" /></item>
-		<item>
-		<title>Episode-034</title>
-		<link>http://linuxlugcast.com/?p=394</link>
-		<comments>http://linuxlugcast.com/?p=394#comments</comments>
-		<pubDate>Sat, 04 Jul 2015 15:12:10 +0000</pubDate>
-		<dc:creator><![CDATA[Kevin Wisher]]></dc:creator>
-				<category><![CDATA[Podcast]]></category>
-
-		<guid isPermaLink="false">http://linuxlugcast.com/?p=394</guid>
-		<description><![CDATA[Ep-034Listener Feedback Mark Rice:In reponse to the discussion on youtube-dl, I have a tip and hopefully a useful script. To download a playlist, not just one video at a time, enclose the playlist URL in quotes. I put together a script last month, which takes a list of downloaded Youtube videos, cleans up the file &#8230; <a href="http://linuxlugcast.com/?p=394" class="more-link">Continue reading <span class="screen-reader-text">Episode-034</span> <span class="meta-nav">&#8594;</span></a>]]></description>
-				<content:encoded><![CDATA[<p><!doctype html><html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><title>Ep-034</title><meta name="generator" content="CherryTree"></head><body><span style="font-family: Sans; font-size:12pt"><b><span style="color:#000000;text-decoration:underline;">Listener Feedback</span></b><b><span style="color:#000000;"></p>
-<p>Mark Rice</span></b><span style="color:#000000;">:</span><br /><span style="color:#000000;">In reponse to the discussion on youtube-dl, I have a tip and hopefully a useful script. To download a playlist, not just one video at a time, enclose the playlist URL in quotes. I put together a script last month, which takes a list of downloaded Youtube videos, cleans up the file names, and outputs them to a separate mp3 folder. </span></p>
-<p><a href="https://github.com/ricemark20/youtube-convert">https://github.com/ricemark20/youtube-convert</a><span style="color:#1155cc;"></p>
-<p></span><b><span style="color:#000000;">Ken Fallon</span></b><span style="color:#000000;"><br /></span><br />Ken sends us some encouraging words.</p>
-<p><b>HPR requested topics:</b><br /><a href="http://hackerpublicradio.org/requested_topics.php">http://hackerpublicradio.org/requested_topics.php</a></p>
-<p><b><span style="color:#000000;">Congrats to Tony Beemus &amp; family, birth of new daughter</span></b><span style="color:#000000;"><br /> </span><br /><b><span style="color:#000000;">Next recording date: July 17, 2015</span></b></span></body></html></p>
-]]></content:encoded>
-			<wfw:commentRss>http://linuxlugcast.com/?feed=rss2&amp;p=394</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<enclosure url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-034/LugCast-034.ogg" length="62295628" type="audio/ogg" />
-	<itunes:subtitle>Ep-034Listener FeedbackMark Rice:In reponse to the discussion on youtube-dl, I have a tip and hopefully a useful script. To download a playlist, not just one video at a time, enclose the playlist URL in quotes. I put together a script last month,</itunes:subtitle>
-		<itunes:summary>Ep-034Listener FeedbackMark Rice:In reponse to the discussion on youtube-dl, I have a tip and hopefully a useful script. To download a playlist, not just one video at a time, enclose the playlist URL in quotes. I put together a script last month, which takes a list of downloaded Youtube videos, cleans up the file names, and outputs them to a separate mp3 folder. &lt;a href="https://github.com/ricemark20/youtube-convert"&gt;https://github.com/ricemark20/youtube-convert&lt;/a&gt;Ken FallonKen sends us some encouraging words.HPR requested topics:&lt;a href="http://hackerpublicradio.org/requested_topics.php"&gt;http://hackerpublicradio.org/requested_topics.php&lt;/a&gt;Congrats to Tony Beemus &amp; family, birth of new daughter Next recording date: July 17, 2015</itunes:summary>
-		<itunes:author>LinuxLUGcast – Ogg</itunes:author>
-		<itunes:image href="http://linuxlugcast.com/wp-content/uploads/powerpress/linuxlugcast-logo.png" />
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:15:08</itunes:duration>
-	<media:content url="http://media.blubrry.com/linuxlugcast/archive.org/download/LinuxLugCast-034/LugCast-034.ogg" fileSize="62295628" type="audio/ogg" /></item>
 	<media:credit role="author">LinuxLUGcast – Ogg</media:credit><media:rating>nonadult</media:rating><media:description type="plain"></media:description></channel>
 </rss>

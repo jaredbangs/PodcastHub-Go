@@ -6,12 +6,12 @@
     <link>http://www.hanselminutes.com</link>
     <language>en-us</language>
     <description>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</description>
-    <copyright>Copyright © 2006-2015 by Pwop Productions</copyright>
+    <copyright>Copyright © 2006-2016 by Pwop Productions</copyright>
     <managingEditor>scott@hanselman.com (Scott Hanselman)</managingEditor>
     <webMaster>scott@hanselman.com (Scott Hanselman)</webMaster>
     <rating>G</rating>
-    <pubDate>Sat, 14 Nov 2015 06:33:33 EDT</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2015 06:33:33 EDT</lastBuildDate>
+    <pubDate>Sat, 02 Jan 2016 21:16:20 EDT</pubDate>
+    <lastBuildDate>Sat, 02 Jan 2016 21:16:20 EDT</lastBuildDate>
     <cloud domain="http://www.hanselminutes.com" port="80" path="/RPC2" registerProcedure="pingMe" protocol="soap"></cloud>
     <atom:link href="http://www.pwop.com%2ffeed.aspx%3fshow%3dHanselminutes" rel="self" type="application/rss+xml" />
     <image>
@@ -44,6 +44,104 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" />
     </itunes:category>
+    <item>
+      <title>Is QA a lost art? Node.js quality expert Stacy Kirk</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=17497</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 EDT</pubDate>
+      <description>Stacy Kirk is the CEO of QualityWorks, a node.js-focused QA company, a 20 year software development veteran, and the creator of nodeqa.io. Stacy is a graduate of Stanford and also coaches two Lego League Robotics teams! Scott and Stacy talk about the lack of respect that Quality Assurance has been getting over the last several years. </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=17497">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=17497</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Stacy Kirk is the CEO of QualityWorks, a node.js-focused QA company, a 20 year software development veteran, and the creator of nodeqa.io. Stacy is a graduate of Stanford and also coaches two Lego League Robotics teams! Scott and Stacy talk about the lack of respect that Quality Assurance has been getting over the last several years. </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0508.mp3" length="31913337" type="audio/mp3" />
+      <itunes:duration>00:32:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Data Visualization and D3.js with Irene Ros</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=17496</link>
+      <pubDate>Fri, 25 Dec 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to Data Visualization expert Irene Ros. When she isn't contributing to the Miso Project, teaching her d3.js class, or working on making OpenVis Conf the best data visualization conference it can be, she's working on projects that focus on creating engaging interactive visual displays of information.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=17496">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=17496</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to Data Visualization expert Irene Ros. When she isn't contributing to the Miso Project, teaching her d3.js class, or working on making OpenVis Conf the best data visualization conference it can be, she's working on projects that focus on creating engaging interactive visual displays of information.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0507.mp3" length="34546565" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Today's Startup Accelerators John Henry from Cofound Harlem</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=17495</link>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 EDT</pubDate>
+      <description>John Henry is with Cofound Harlem, a startup accelerator dedicated to building 100 new companies in Harlem by 2020. What does an accelerator look like today? Do companies just need startup cash, or is there a more innovative and effective way to bootstrap tomorrow's companies today?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=17495">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=17495</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>John Henry is with Cofound Harlem, a startup accelerator dedicated to building 100 new companies in Harlem by 2020. What does an accelerator look like today? Do companies just need startup cash, or is there a more innovative and effective way to bootstrap tomorrow's companies today?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0506.mp3" length="37710851" type="audio/mp3" />
+      <itunes:duration>00:37:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>The importance of fixing your own consumer electronics with IFixit's Kyle Wiens</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=17493</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 EDT</pubDate>
+      <description>Kyle Wiens is the CEO and Co-founder of IFixit. IFixit is kind of the Wikipedia of Repair Guides and Teardowns. Scott and Kyle talk about why it's important to be able to fix your own hardware. Do we have the right of repair? Why are so many consumer electronics designed without repairability in mind?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=17493">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=17493</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Kyle Wiens is the CEO and Co-founder of IFixit. IFixit is kind of the Wikipedia of Repair Guides and Teardowns. Scott and Kyle talk about why it's important to be able to fix your own hardware. Do we have the right of repair? Why are so many consumer electronics designed without repairability in mind?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0505.mp3" length="35949339" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Hanselminutiae LIVE 17 with Richard Campbell</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=17494</link>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks with Richard Campbell in this episode of Hanselminutiae LIVE. We did this show on Google Hangouts and you can watch the video at Scott's youtube at http://youtube.com/shanselman if you'd like. We talk about technology, gadgets, new directions, and industry trends.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=17494">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=17494</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks with Richard Campbell in this episode of Hanselminutiae LIVE. We did this show on Google Hangouts and you can watch the video at Scott's youtube at http://youtube.com/shanselman if you'd like. We talk about technology, gadgets, new directions, and industry trends.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0504.mp3" length="32796778" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Imagining the Future of Minority Report with Greg Borenstein</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=17492</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 EDT</pubDate>
+      <description>Greg Borenstein is a computer vision expert, game designer, and author. He's currently a researcher in the Playful Systems Group at the MIT Media Lab. He also works as the futurist for the TV Series "Minority Report." The show tries to stay true to the universe of the movie while imagining a realistic (and socially conscious) future in 2065.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=17492">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=17492</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Greg Borenstein is a computer vision expert, game designer, and author. He's currently a researcher in the Playful Systems Group at the MIT Media Lab. He also works as the futurist for the TV Series "Minority Report." The show tries to stay true to the universe of the movie while imagining a realistic (and socially conscious) future in 2065.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0503.mp3" length="33094072" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>OptiKey - Open Source Assistive Tech for Motor Neuron Disease</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=17491</link>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 EDT</pubDate>
+      <description>Scott talks to Julius Sweetland, developer of OptiKey. OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=17491">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=17491</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to Julius Sweetland, developer of OptiKey. OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0502.mp3" length="31123269" type="audio/mp3" />
+      <itunes:duration>00:32:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
     <item>
       <title>Speak Up and Present with Confidence with Poornima Vijayashanker </title>
       <link>http://www.hanselminutes.com/default.aspx?ShowID=17490</link>
@@ -224,104 +322,6 @@
       <itunes:summary>As open source thinking and open source software goes more mainstream, it heads to the Enterprise. What does that mean for a popular framework like node.js? What features does Node need to thrive in a larger company? Scott talks to NodeSource's Kevin Stewart to explore these questions.</itunes:summary>
       <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0489.mp3" length="34927263" type="audio/mp3" />
       <itunes:duration>00:36:00</itunes:duration>
-      <itunes:keywords></itunes:keywords>
-    </item>
-    <item>
-      <title>Redesigning Computer Science 101 Education with Omoju Miller</title>
-      <link>http://www.hanselminutes.com/default.aspx?ShowID=15484</link>
-      <pubDate>Fri, 14 Aug 2015 00:00:00 EDT</pubDate>
-      <description>PhD Candidate Omoju Miller is a Computer Scientist who is working to unlock the joys of Natural Language Processing as applied to rap lyrics. She is finishing her PhD in Computer Science Education and has big ideas about where the field should go. How should we change Computer Science 101 for the next generation of developers?</description>
-      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15484">Hanselminutes</source>
-      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15484</guid>
-      <itunes:author>Scott Hanselman</itunes:author>
-      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
-      <itunes:summary>PhD Candidate Omoju Miller is a Computer Scientist who is working to unlock the joys of Natural Language Processing as applied to rap lyrics. She is finishing her PhD in Computer Science Education and has big ideas about where the field should go. How should we change Computer Science 101 for the next generation of developers?</itunes:summary>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0488.mp3" length="31246985" type="audio/mp3" />
-      <itunes:duration>00:32:00</itunes:duration>
-      <itunes:keywords></itunes:keywords>
-    </item>
-    <item>
-      <title>Identity Server and ASP.NET with Dominick Baier</title>
-      <link>http://www.hanselminutes.com/default.aspx?ShowID=15483</link>
-      <pubDate>Fri, 07 Aug 2015 00:00:00 EDT</pubDate>
-      <description>Scott talks to Dominick Baier about identity on the web and in ASP.NET. Dominick and Brock Allen have a great series of open source products in the form of Identity Manager, Identity Server, and Identity Model. What does auth on today's web look like? How does Open ID Connect and OAuth work and how can you set it up in your websites today?</description>
-      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15483">Hanselminutes</source>
-      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15483</guid>
-      <itunes:author>Scott Hanselman</itunes:author>
-      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
-      <itunes:summary>Scott talks to Dominick Baier about identity on the web and in ASP.NET. Dominick and Brock Allen have a great series of open source products in the form of Identity Manager, Identity Server, and Identity Model. What does auth on today's web look like? How does Open ID Connect and OAuth work and how can you set it up in your websites today?</itunes:summary>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0487.mp3" length="34294118" type="audio/mp3" />
-      <itunes:duration>00:33:00</itunes:duration>
-      <itunes:keywords></itunes:keywords>
-    </item>
-    <item>
-      <title>Designing Usable Security with Google's Adrienne Porter Felt</title>
-      <link>http://www.hanselminutes.com/default.aspx?ShowID=15482</link>
-      <pubDate>Fri, 31 Jul 2015 00:00:00 EDT</pubDate>
-      <description>Adrienne Porter Felt, Ph.D. is a security and privacy researcher at Google. Her current focus is on designing and building usable security. Scott talks to her about how modern application platforms think about permissions, how users react to the "lock" icon, what we think about HTTPs, and much more!</description>
-      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15482">Hanselminutes</source>
-      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15482</guid>
-      <itunes:author>Scott Hanselman</itunes:author>
-      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
-      <itunes:summary>Adrienne Porter Felt, Ph.D. is a security and privacy researcher at Google. Her current focus is on designing and building usable security. Scott talks to her about how modern application platforms think about permissions, how users react to the "lock" icon, what we think about HTTPs, and much more!</itunes:summary>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0486.mp3" length="32796402" type="audio/mp3" />
-      <itunes:duration>00:33:00</itunes:duration>
-      <itunes:keywords></itunes:keywords>
-    </item>
-    <item>
-      <title>The Problem with DateTime - NodaTime with Matt Johnson</title>
-      <link>http://www.hanselminutes.com/default.aspx?ShowID=15481</link>
-      <pubDate>Fri, 24 Jul 2015 00:00:00 EDT</pubDate>
-      <description>Matt Johnson is a time nerd. He has contributed with the Noda Time project and is helping with making time, dates, and timezones easier to use with .NET and .NET Core. Most of what we think is intuitive about time, isn't!</description>
-      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15481">Hanselminutes</source>
-      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15481</guid>
-      <itunes:author>Scott Hanselman</itunes:author>
-      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
-      <itunes:summary>Matt Johnson is a time nerd. He has contributed with the Noda Time project and is helping with making time, dates, and timezones easier to use with .NET and .NET Core. Most of what we think is intuitive about time, isn't!</itunes:summary>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0485.mp3" length="30593297" type="audio/mp3" />
-      <itunes:duration>00:31:00</itunes:duration>
-      <itunes:keywords></itunes:keywords>
-    </item>
-    <item>
-      <title>Systems Thinking: Less Coding, More Thinking with Kishau Rogers</title>
-      <link>http://www.hanselminutes.com/default.aspx?ShowID=15480</link>
-      <pubDate>Fri, 17 Jul 2015 00:00:00 EDT</pubDate>
-      <description>Kishau Rogers is the Founder and CEO of Websmith Group. She's a twenty-year programming veteran. She talks to Scott about the importance of teaching "Systems Thinking" over just Learning to Code. How do our solutions change when we better understand how they fit into the big picture?</description>
-      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15480">Hanselminutes</source>
-      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15480</guid>
-      <itunes:author>Scott Hanselman</itunes:author>
-      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
-      <itunes:summary>Kishau Rogers is the Founder and CEO of Websmith Group. She's a twenty-year programming veteran. She talks to Scott about the importance of teaching "Systems Thinking" over just Learning to Code. How do our solutions change when we better understand how they fit into the big picture?</itunes:summary>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0484.mp3" length="32958110" type="audio/mp3" />
-      <itunes:duration>00:34:00</itunes:duration>
-      <itunes:keywords></itunes:keywords>
-    </item>
-    <item>
-      <title>Debugging Windows Problems with Mario Hewardt</title>
-      <link>http://www.hanselminutes.com/default.aspx?ShowID=15479</link>
-      <pubDate>Fri, 10 Jul 2015 00:00:00 EDT</pubDate>
-      <description>Scott talks to expert Windows debugger Mario Hewardt about what it takes to be a good debugger. How does the .NET managed heap and garbage collector work and when should you just let it do its job? </description>
-      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15479">Hanselminutes</source>
-      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15479</guid>
-      <itunes:author>Scott Hanselman</itunes:author>
-      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
-      <itunes:summary>Scott talks to expert Windows debugger Mario Hewardt about what it takes to be a good debugger. How does the .NET managed heap and garbage collector work and when should you just let it do its job? </itunes:summary>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0483.mp3" length="35275819" type="audio/mp3" />
-      <itunes:duration>00:35:00</itunes:duration>
-      <itunes:keywords></itunes:keywords>
-    </item>
-    <item>
-      <title>Relationships, Geek Culture, and Raising Nerds with Anjuan Simmons</title>
-      <link>http://www.hanselminutes.com/default.aspx?ShowID=15478</link>
-      <pubDate>Fri, 03 Jul 2015 00:00:00 EDT</pubDate>
-      <description>Scott sits down with Technical Project Manager and Conference Speaker Anjuan Simmons to talk about the rise of "Nerdland" and fan culture, the difficulties raised when Geeks marry Normals, and how we pass our fandom on to our kids.</description>
-      <source url="http://www.hanselminutes.com/default.aspx?ShowID=15478">Hanselminutes</source>
-      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=15478</guid>
-      <itunes:author>Scott Hanselman</itunes:author>
-      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
-      <itunes:summary>Scott sits down with Technical Project Manager and Conference Speaker Anjuan Simmons to talk about the rise of "Nerdland" and fan culture, the difficulties raised when Geeks marry Normals, and how we pass our fandom on to our kids.</itunes:summary>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0482.mp3" length="33294567" type="audio/mp3" />
-      <itunes:duration>00:34:00</itunes:duration>
       <itunes:keywords></itunes:keywords>
     </item>
   </channel>

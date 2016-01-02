@@ -7,7 +7,7 @@
   <description>News and interviews about the latest happenings in the JavaScript world. Hosted by Manuel Lemos of the PHPClasses.org site and Michael Kimsal of the JSMag magazine. It is recorded in MP3 format at least once a month in the beginning of each month.</description>
   <link>http://www.jsclasses.org/blog/category/podcast/</link>
   <title>Lately in JavaScript podcast</title>
-  <pubDate>Fri, 13 Nov 2015 08:00:34 GMT</pubDate>
+  <pubDate>Sat, 02 Jan 2016 08:00:01 GMT</pubDate>
   <language>en</language>
   <itunes:keywords>JavaScript,JSClasses,Web,Developers,podcast,Manuel Lemos,Michael Kimsal</itunes:keywords>
   <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,15 @@
    <title>Lately in JavaScript podcast</title>
    <url>http://files.jsclasses.org/graphics/jsclasses/Lately-In-JavaScript-Podcast.jpg</url>
   </image>
+  <item>
+   <link>http://www.jsclasses.org/blog/post/83-Is-Wordpress-Switching-PHP-for-JavaScript--Lately-in-JavaScript-podcast-episode-61.html</link>
+   <title>Is Wordpress Switching PHP for JavaScript? - Lately in JavaScript podcast episode 61</title>
+   <description>&lt;div style=&quot;clear: both&quot;&gt;&#10;&lt;div style=&quot;margin-top: 1ex&quot;&gt;&lt;a href=&quot;http://www.jsclasses.org/blog/post/83-Is-Wordpress-Switching-PHP-for-JavaScript--Lately-in-JavaScript-podcast-episode-61.html&quot;&gt;Is Wordpress Switching PHP for JavaScript? - Lately in JavaScript podcast episode 61&lt;/a&gt;&lt;/div&gt;&#10;&lt;div style=&quot;margin-top: 1ex&quot;&gt;By Manuel Lemos&lt;/a&gt;&lt;/div&gt;&#10;&lt;div style=&quot;margin-top: 1ex&quot;&gt;The recent announcement of the Calypso project for Wordpress that is based on Node.js and React.js libraries raised some concerns that Wordpress is switching to the JavaScript language.&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;This was one of the main topics discussed by Manuel Lemos and Arturs Sosins in the episode 61 of the Lately in JavaScript podcast.&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;They also talked Adobe stopping to produce tools for Flash applications in favor of HTML5 and JavaScript solutions, a new standard API to access Bluetooth devices from HTML5 and JavaScript pages, Firefox marking login forms as insecure if they are processed via non-HTTPS pages, among other JavaScript related topics of interest.&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;Listen to the podcast now, or watch the hangout video to learn more about these and other interesting JavaScript topics discussed in this podcast.&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;</description>
+   <pubDate>Fri, 11 Dec 2015 10:59:55 GMT</pubDate>
+   <guid>http://www.jsclasses.org/blog/post/83-Is-Wordpress-Switching-PHP-for-JavaScript--Lately-in-JavaScript-podcast-episode-61.html</guid>
+   <category>Lately in JavaScript podcast</category>
+   <enclosure url="http://www.jsclasses.org/blog/post/83/file/133/name/Lately-In-JavaScript-61.mp3" length="34180285" type="audio/mpeg"/>
+  </item>
   <item>
    <link>http://www.jsclasses.org/blog/post/82-How-Web-Assembly-Will-Allow-Compiling-JavaScript-or-Any-Language-to-Portable-Binaries--Lately-in-JavaScript-podcast-episode-60.html</link>
    <title>How Web Assembly Will Allow Compiling JavaScript or Any Language to Portable Binaries - Lately in JavaScript podcast episode 60</title>
@@ -107,17 +116,6 @@
    <guid>http://www.jsclasses.org/blog/post/74-JavaScript-OOP-that-can-Run-Faster-with-Google-SoundScript--Lately-in-JavaScript-podcast-episode-52.html</guid>
    <category>Lately in JavaScript podcast</category>
    <enclosure url="http://www.jsclasses.org/blog/post/74/file/114/name/Lately-In-JavaScript-52.mp3" length="37285765" type="audio/mpeg"/>
-  </item>
-  <item>
-   <link>http://www.jsclasses.org/blog/post/71-Asynchronous-JavaScript-without-Callbacks-in-ECMAScript-7--Lately-in-JavaScript-podcast-episode-50.html</link>
-   <title>Asynchronous JavaScript without Callbacks in ECMAScript 7 - Lately in JavaScript podcast episode 50</title>
-   <description>&lt;div style=&quot;clear: both&quot;&gt;&#10;&lt;div style=&quot;margin-top: 1ex&quot;&gt;&lt;a href=&quot;http://www.jsclasses.org/blog/post/71-Asynchronous-JavaScript-without-Callbacks-in-ECMAScript-7--Lately-in-JavaScript-podcast-episode-50.html&quot;&gt;Asynchronous JavaScript without Callbacks in ECMAScript 7 - Lately in JavaScript podcast episode 50&lt;/a&gt;&lt;/div&gt;&#10;&lt;div style=&quot;margin-top: 1ex&quot;&gt;By Manuel Lemos&lt;/a&gt;&lt;/div&gt;&#10;&lt;div style=&quot;margin-top: 1ex&quot;&gt;JavaScript implementations based on the specification of ECMAScript 7 will provide means to deal with asynchronous activities as if they were blocking activities, thus without using callback functions to handle the responses.&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;That was one of the main topics discussed by Manuel Lemos and Arturs Sosins in the episode 50 of the Lately in JavaScript podcast.&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;They also talked about planing front-end based JavaScript applications, creating your own Prezi like sites with BigPicture.js, discovering what JavaScript libraries are used in each site with LibScore, and find out what JavaScript developers have been looking for in 2014 with the JavaScript Zeitgeist initiative.&lt;br /&gt;&#13;&#10;&lt;br /&gt;&#13;&#10;Listen now to the podcast, or watch the hangout video, or read the text transcript to learn more about these and other interesting topics related with JavaScript development discussed in this episode.&lt;/a&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;</description>
-   <pubDate>Fri, 16 Jan 2015 15:09:32 GMT</pubDate>
-   <guid>http://www.jsclasses.org/blog/post/71-Asynchronous-JavaScript-without-Callbacks-in-ECMAScript-7--Lately-in-JavaScript-podcast-episode-50.html</guid>
-   <category>Lately in JavaScript podcast</category>
-   <category>JavaScript opinions</category>
-   <category>JavaScript Zeitgeist</category>
-   <enclosure url="http://www.jsclasses.org/blog/post/71/file/110/name/Lately-In-JavaScript-50.mp3" length="43935349" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>

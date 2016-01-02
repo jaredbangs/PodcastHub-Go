@@ -6,12 +6,12 @@
 	
 	<link>http://ryanripley.com</link>
 	<description />
-	<lastBuildDate>Fri, 06 Nov 2015 04:44:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Dec 2015 04:47:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	
-<!-- podcast_generator="Blubrry PowerPress/6.1" mode="advanced" -->
+<!-- podcast_generator="Blubrry PowerPress/6.2.1" mode="advanced" -->
 	<itunes:summary />
 	<itunes:author>Ryan Ripley</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
@@ -23,6 +23,144 @@
 		<link>http://ryanripley.com</link>
 	</image>
 		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/agileanswerman" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="agileanswerman" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">agileanswerman</feedburner:emailServiceId><feedburner:feedburnerHostname xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">https://feedburner.google.com</feedburner:feedburnerHostname><item>
+		<title>AFH 023: Remote Teams with Mark Kilby and David Horowitz [PODCAST]</title>
+		<link>http://ryanripley.com/remote-teams-with-mark-kilby-and-david-horowitz/</link>
+		<comments>http://ryanripley.com/remote-teams-with-mark-kilby-and-david-horowitz/#comments</comments>
+		<pubDate>Sun, 06 Dec 2015 04:47:32 +0000</pubDate>
+		<dc:creator>Ryan Ripley</dc:creator>
+				<category><![CDATA[Podcast Episodes]]></category>
+		<guid isPermaLink="false">http://ryanripley.com/?p=604</guid>
+
+				<description><![CDATA[Hosts Ryan Ripley, Mark Kilby, David Horowitz Discussion Mark Kilby (@mkilby) and David Horowitz (@ds_horowitz) &#8211; CEO of Retrium (@RetriumHQ) &#8211; joined me (@RyanRipley) for a discussion about continuous improvement, retrospectives, and remote teams. Agile for Humans is brought to you by audible.com – get one FREE audiobook download and 30 day free trial at [&#8230;]]]></description>
+					<content:encoded><![CDATA[<h2>Hosts</h2>
+<h2><a href="https://twitter.com/ryanripley" target="_blank">Ryan Ripley</a>, <a href="https://twitter.com/mkilby">Mark Kilby</a>, <a href="https://twitter.com/ds_horowitz">David Horowitz</a></p>
+<p>Discussion</h2>
+<p>Mark Kilby (<a href="https://twitter.com/mkilby">@mkilby</a>) and David Horowitz (<a href="https://twitter.com/ds_horowitz">@ds_horowitz</a>) &#8211; CEO of Retrium (<a href="https://twitter.com/RetriumHQ">@RetriumHQ</a>) &#8211; joined me (<a href="https://twitter.com/ryanripley">@RyanRipley</a>) for a discussion about continuous improvement, retrospectives, and remote teams.</p>
+<p><em>Agile for Humans is brought to you by <a href="http://www.audibletrial.com/agile" target="_blank">audible.com</a> – get one FREE audiobook download and 30 day free trial at <a href="http://www.audibletrial.com/agile">www.audibletrial.com/agile</a></em></p>
+<h2>Resources, Plugs, and More</h2>
+<p><strong>Ryan</strong> &#8211; <a href="http://ryanripley.com" target="_blank">http://ryanripley.com</a></p>
+<p>No plugs this week. Just a big thank you to the listeners for continuing to spread the work about the podcast and for your feedback and support.</p>
+<p><strong>Mark</strong> &#8211; <a href="http://markkilby.com/" target="_blank">http://markkilby.com/</a></p>
+<ul>
+<li>Paper &#8211; <a href="http://agilealliance.org/files/3114/3751/8870/ExperienceReport.2015.Kilby.Can_you_be_Remotely_Agile.pdf">Can you be remotely agile?</a></li>
+<li>Slides &#8211; <a href="http://www.slideshare.net/markkilby/can-you-be-remotely-agile-agile2015">Can you be remotely agile?</a></li>
+<li><a href="http://bit.ly/sonatypeagile">More on how Sonatype works 100% distributed and agile</a></li>
+<li><a href="http://www.markkilby.com/category/remotely-agile">More on distributed facilitation</a></li>
+</ul>
+<p>I also work with distributed volunteer teams as well. I&#8217;m not only the co-founder of Agile Orlando, but I&#8217;m the co-founder of Agile Florida, a network of multiple user groups in the state of Florida. We collaborate on events, share information on speakers, and help other user groups through our efforts. You can read our Agile2015 experience report on how we work as a distributed team at&#8230;.</p>
+<ul>
+<li><a href="http://www.agilealliance.org/index.php/download_file/view/570/1410/">User group dying? Time to build a state-wide learning network! rby Mark Kilby, Stephanie Davis and Alex Kanaan.</a></li>
+</ul>
+<p><strong>David</strong> &#8211; <a href="https://www.retrium.com/" target="_blank">https://www.retrium.com/</a></p>
+<ul>
+<li><a href="http://amzn.to/1ljMTsG">Agile Retrospectives: Making Good Teams Great</a> by Esther Derby and Diana Larsen</li>
+<li><a href="https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time">Why Group Brainstorming is a Waste of Time</a></li>
+</ul>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/agileanswerman?a=bFqs2eKiAJ4:BTMBh8DuMZU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/agileanswerman?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			
+
+		<wfw:commentRss>http://ryanripley.com/remote-teams-with-mark-kilby-and-david-horowitz/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<enclosure url="http://traffic.libsyn.com/agileforhumans/AFH_023.mp3" length="66400286" type="audio/mpeg" />
+			<itunes:subtitle>Hosts Ryan Ripley, Mark Kilby, David Horowitz - Discussion Mark Kilby (@mkilby) and David Horowitz (@ds_horowitz) - CEO of Retrium (@RetriumHQ) - joined me (@RyanRipley) for a discussion about continuous improvement, retrospectives,</itunes:subtitle>
+		<itunes:summary>Hosts
+&lt;a href="https://twitter.com/ryanripley" target="_blank"&gt;Ryan Ripley&lt;/a&gt;, &lt;a href="https://twitter.com/mkilby"&gt;Mark Kilby&lt;/a&gt;, &lt;a href="https://twitter.com/ds_horowitz"&gt;David Horowitz&lt;/a&gt;
+
+Discussion
+Mark Kilby (&lt;a href="https://twitter.com/mkilby"&gt;@mkilby&lt;/a&gt;) and David Horowitz (&lt;a href="https://twitter.com/ds_horowitz"&gt;@ds_horowitz&lt;/a&gt;) - CEO of Retrium (&lt;a href="https://twitter.com/RetriumHQ"&gt;@RetriumHQ&lt;/a&gt;) - joined me (&lt;a href="https://twitter.com/ryanripley"&gt;@RyanRipley&lt;/a&gt;) for a discussion about continuous improvement, retrospectives, and remote teams.
+
+Agile for Humans is brought to you by &lt;a href="http://www.audibletrial.com/agile" target="_blank"&gt;audible.com&lt;/a&gt; – get one FREE audiobook download and 30 day free trial at &lt;a href="http://www.audibletrial.com/agile"&gt;www.audibletrial.com/agile&lt;/a&gt;
+Resources, Plugs, and More
+Ryan - &lt;a href="http://ryanripley.com" target="_blank"&gt;http://ryanripley.com&lt;/a&gt;
+
+No plugs this week. Just a big thank you to the listeners for continuing to spread the work about the podcast and for your feedback and support.
+
+Mark - &lt;a href="http://markkilby.com/" target="_blank"&gt;http://markkilby.com/&lt;/a&gt;
+
+	Paper - &lt;a href="http://agilealliance.org/files/3114/3751/8870/ExperienceReport.2015.Kilby.Can_you_be_Remotely_Agile.pdf"&gt;Can you be remotely agile?&lt;/a&gt;
+	Slides - &lt;a href="http://www.slideshare.net/markkilby/can-you-be-remotely-agile-agile2015"&gt;Can you be remotely agile?&lt;/a&gt;
+	&lt;a href="http://bit.ly/sonatypeagile"&gt;More on how Sonatype works 100% distributed and agile&lt;/a&gt;
+	&lt;a href="http://www.markkilby.com/category/remotely-agile"&gt;More on distributed facilitation&lt;/a&gt;
+
+I also work with distributed volunteer teams as well. I'm not only the co-founder of Agile Orlando, but I'm the co-founder of Agile Florida, a network of multiple user groups in the state of Florida. We collaborate on events, share information on speakers, and help other user groups through our efforts. You can read our Agile2015 experience report on how we work as a distributed team at....
+
+	&lt;a href="http://www.agilealliance.org/index.php/download_file/view/570/1410/"&gt;User group dying? Time to build a state-wide learning network! rby Mark Kilby, Stephanie Davis and Alex Kanaan.&lt;/a&gt;
+
+David - &lt;a href="https://www.retrium.com/" target="_blank"&gt;https://www.retrium.com/&lt;/a&gt;
+
+	&lt;a href="http://amzn.to/1ljMTsG"&gt;Agile Retrospectives: Making Good Teams Great&lt;/a&gt; by Esther Derby and Diana Larsen
+	&lt;a href="https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time"&gt;Why Group Brainstorming is a Waste of Time&lt;/a&gt;</itunes:summary>
+		<itunes:author>Ryan Ripley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>46:01</itunes:duration>
+	</item>
+		<item>
+		<title>AFH 022: The Product Owner Role with Mark Davidson [PODCAST]</title>
+		<link>http://ryanripley.com/the-product-owner-role-with-mark-davidson/</link>
+		<comments>http://ryanripley.com/the-product-owner-role-with-mark-davidson/#comments</comments>
+		<pubDate>Sun, 15 Nov 2015 04:05:46 +0000</pubDate>
+		<dc:creator>Ryan Ripley</dc:creator>
+				<category><![CDATA[Podcast Episodes]]></category>
+		<guid isPermaLink="false">http://ryanripley.com/?p=601</guid>
+
+				<description><![CDATA[Hosts Ryan Ripley, Tim Ottinger, Mark Davidson Discussion Tim Ottinger (@tottinge) and Mark Davidson (@agiledelivery) joined me (@RyanRipley) for a discussion about the Product Owner Role, #NoEstimates, Product Management, and the concept of “controlled disappointment”. The Product Owner (PO) role is near super-human. Shared responsibility is one approach to bring this role back down to [&#8230;]]]></description>
+					<content:encoded><![CDATA[<h2>Hosts</h2>
+<p><a href="https://twitter.com/ryanripley" target="_blank">Ryan Ripley</a>, <a href="https://twitter.com/tottinge">Tim Ottinger</a>, <a href="https://twitter.com/agiledelivery">Mark Davidson</a></p>
+<h2>Discussion</h2>
+<p>Tim Ottinger (<a href="https://twitter.com/tottinge">@tottinge</a>) and Mark Davidson (<a href="https://twitter.com/agiledelivery">@agiledelivery</a>) joined me (<a href="https://twitter.com/ryanripley">@RyanRipley</a>) for a discussion about the Product Owner Role, #NoEstimates, Product Management, and the concept of “controlled disappointment”.</p>
+<p>The Product Owner (PO) role is near super-human. Shared responsibility is one approach to bring this role back down to earth. During this discussion we talk about the complexity of the PO role, the impact that the PO has on the project, and how developers and Scrum Masters can support the PO as they lead the team towards delivering a successful product *release*.</p>
+<p>And then…we called it a night.</p>
+<p><strong><em>Agile for Humans is brought to you by <a href="http://www.audibletrial.com/agile">audible.com</a> – get one FREE audiobook download and 30 day free trial at <a href="http://www.audibletrial.com/agile" target="_blank">www.audibletrial.com/agile</a></em></strong></p>
+<h2>Resources, Plugs, and More</h2>
+<p>Ryan &#8211; <a href="http://ryanripley.com" target="_blank">http://ryanripley.com</a></p>
+<ul>
+<li><a href="http://www.slideshare.net/RyanRipley/sdec15-help-the-scrum-master-is-the-impediment">Slide deck from SDEC2015</a></li>
+<li><a href="http://amzn.to/1PtSZmB">Agile in a Flash</a> by Tim Ottinger</li>
+</ul>
+<p>Tim &#8211; <a href="http://agileotter.blogspot.com/" target="_blank">http://agileotter.blogspot.com/</a></p>
+<ul>
+<li><a href="https://www.industriallogic.com/blog/modern-agile/">Modern Agile</a> post by Josh Kerievsky</li>
+<li><a href="http://agileotter.blogspot.com/2015/08/product-owners-maximizing-value.html">Product Owner’s Maximizing Value</a></li>
+</ul>
+<p>Mark &#8211; <a href="https://twitter.com/agiledelivery" target="_blank">https://twitter.com/agiledelivery</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/agileanswerman?a=l6SFFeSxBT4:N_098ZiAI48:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/agileanswerman?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			
+
+		<wfw:commentRss>http://ryanripley.com/the-product-owner-role-with-mark-davidson/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<enclosure url="http://traffic.libsyn.com/agileforhumans/AFH_022.mp3" length="97629808" type="audio/mpeg" />
+			<itunes:subtitle>Hosts Ryan Ripley, Tim Ottinger, Mark Davidson Discussion Tim Ottinger (@tottinge) and Mark Davidson (@agiledelivery) joined me (@RyanRipley) for a discussion about the Product Owner Role, #NoEstimates, Product Management,</itunes:subtitle>
+		<itunes:summary>Hosts
+&lt;a href="https://twitter.com/ryanripley" target="_blank"&gt;Ryan Ripley&lt;/a&gt;, &lt;a href="https://twitter.com/tottinge"&gt;Tim Ottinger&lt;/a&gt;, &lt;a href="https://twitter.com/agiledelivery"&gt;Mark Davidson&lt;/a&gt;
+Discussion
+Tim Ottinger (&lt;a href="https://twitter.com/tottinge"&gt;@tottinge&lt;/a&gt;) and Mark Davidson (&lt;a href="https://twitter.com/agiledelivery"&gt;@agiledelivery&lt;/a&gt;) joined me (&lt;a href="https://twitter.com/ryanripley"&gt;@RyanRipley&lt;/a&gt;) for a discussion about the Product Owner Role, #NoEstimates, Product Management, and the concept of “controlled disappointment”.
+
+The Product Owner (PO) role is near super-human. Shared responsibility is one approach to bring this role back down to earth. During this discussion we talk about the complexity of the PO role, the impact that the PO has on the project, and how developers and Scrum Masters can support the PO as they lead the team towards delivering a successful product *release*.
+
+And then…we called it a night.
+
+Agile for Humans is brought to you by &lt;a href="http://www.audibletrial.com/agile"&gt;audible.com&lt;/a&gt; – get one FREE audiobook download and 30 day free trial at &lt;a href="http://www.audibletrial.com/agile" target="_blank"&gt;www.audibletrial.com/agile&lt;/a&gt;
+Resources, Plugs, and More
+Ryan - &lt;a href="http://ryanripley.com" target="_blank"&gt;http://ryanripley.com&lt;/a&gt;
+
+	&lt;a href="http://www.slideshare.net/RyanRipley/sdec15-help-the-scrum-master-is-the-impediment"&gt;Slide deck from SDEC2015&lt;/a&gt;
+	&lt;a href="http://amzn.to/1PtSZmB"&gt;Agile in a Flash&lt;/a&gt; by Tim Ottinger
+
+Tim - &lt;a href="http://agileotter.blogspot.com/" target="_blank"&gt;http://agileotter.blogspot.com/&lt;/a&gt;
+
+	&lt;a href="https://www.industriallogic.com/blog/modern-agile/"&gt;Modern Agile&lt;/a&gt; post by Josh Kerievsky
+	&lt;a href="http://agileotter.blogspot.com/2015/08/product-owners-maximizing-value.html"&gt;Product Owner’s Maximizing Value&lt;/a&gt;
+
+Mark - &lt;a href="https://twitter.com/agiledelivery" target="_blank"&gt;https://twitter.com/agiledelivery&lt;/a&gt;</itunes:summary>
+		<itunes:author>Ryan Ripley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:42</itunes:duration>
+	</item>
+		<item>
 		<title>AFH 021: Agility with Allen Holub [PODCAST]</title>
 		<link>http://ryanripley.com/021-agility-with-allen-holub/</link>
 		<comments>http://ryanripley.com/021-agility-with-allen-holub/#comments</comments>

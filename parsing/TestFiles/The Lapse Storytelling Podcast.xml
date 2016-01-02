@@ -8,25 +8,23 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
-
 <channel>
 	<title>The Lapse Storytelling Podcast</title>
 	<atom:link href="http://www.thelapse.org/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>http://www.thelapse.org</link>
 	<description>iTunes Best of 2014! &#8220;Beautifully edited &#038; rich in sound,&#8221; true stories that feel like movies. See with your ears. This is The Lapse. New to the show? Try &#8220;His My Arms,&#8221; &#8220;Where&#8217;s Violet,&#8221; or &#8220;Cool Running.&#8221;</description>
-	<lastBuildDate>Wed, 04 Nov 2015 20:25:30 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Jan 2016 19:15:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
-<!-- podcast_generator="Blubrry PowerPress/6.0.5" mode="advanced" -->
-	<itunes:summary>Winner of iTunes Best Podcasts of 2014, &quot;beautifully edited &amp; rich in sound,&quot; sound designer Kyle Gest journeys listeners through true stories, gussied up. See with your ears. This is The Lapse.
-
-New to the show? Try &quot;His My Arms,&quot; &quot;Where&#039;s Violet?&quot; or &quot;Cool Running.&quot; Whether wrongfully arrested in Thailand, contracting flesh-eating bacteria, or taking your parents to Burning Man, we tell true stories that feel like movies.</itunes:summary>
+	<generator>https://wordpress.org/?v=4.4</generator>
+<!-- podcast_generator="Blubrry PowerPress/6.3" mode="advanced" -->
+	<itunes:summary>Winner of iTunes Best Podcasts of 2014, &quot;beautifully edited &amp; rich in sound,&quot; sound designer Kyle Gest journeys listeners through true stories, gussied up. Whether wrongfully arrested in Thailand, contracting flesh-eating bacteria, or taking your parents to Burning Man, we tell true stories that feel like movies. See with your ears. This is The Lapse. New to the show? Try &quot;His My Arms,&quot; &quot;Where&#039;s Violet?&quot; or &quot;Cool Running.&quot;</itunes:summary>
 	<itunes:author>The Lapse Storytellers</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
-	<itunes:image href="http://i.imgur.com/amVKYj5.jpg" />
+	<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 	<itunes:owner>
 		<itunes:name>The Lapse Storytellers</itunes:name>
 		<itunes:email>mellowthello@gmail.com</itunes:email>
@@ -35,7 +33,7 @@ New to the show? Try &quot;His My Arms,&quot; &quot;Where&#039;s Violet?&quot; o
 	<itunes:subtitle>iTunes Best of 2014! &quot;Beautifully edited &amp; rich in sound,&quot; true stories that feel like movies. See with your ears. This is The Lapse.</itunes:subtitle>
 	<image>
 		<title>The Lapse Storytelling Podcast</title>
-		<url>http://thelapse.org/wp-content/uploads/powerpress/The_Lapse_Logo_1400_Blue_Rasterized_2_copy.png</url>
+		<url>http://i.imgur.com/DkBDdcw.jpg</url>
 		<link>http://www.thelapse.org</link>
 	</image>
 	<itunes:category text="Arts">
@@ -44,14 +42,76 @@ New to the show? Try &quot;His My Arms,&quot; &quot;Where&#039;s Violet?&quot; o
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals" />
 	</itunes:category>
-		<rawvoice:rating>TV-14</rawvoice:rating>
-		<rawvoice:frequency>Monthly</rawvoice:frequency>
+	<rawvoice:rating>TV-14</rawvoice:rating>
+	<rawvoice:frequency>Monthly</rawvoice:frequency>
+	<rawvoice:donate href="http://www.patreon.com/thelapse"></rawvoice:donate>
+	<item>
+		<title>The Envelope Please &#8211; Jupiter Diego &#124; Episode 35</title>
+		<link>http://www.thelapse.org/envelope-please-jupiter-diego-episode-35/</link>
+		<pubDate>Fri, 01 Jan 2016 10:04:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thelapse.org/?p=567</guid>
+		<comments>http://www.thelapse.org/envelope-please-jupiter-diego-episode-35/#respond</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[Episodes]]></category>
+		<description>Childhood antics. Adulthood addicts. Jupiter Diego returns for a second story presented without narration.
+
+Like The Lapse? We&#039;re less than $100 from funding season 3. Help us continue making the show you love at patreon.com/thelapse. This month&#039;s executive supporters: Dawn Smith, Cindy Crijns, Jill Galvez, Matthew Gibson, Richard Gwirtz, &amp; Dan Lesser.
+
+Listen to more of Jupiter&#039;s work at JupiterDiego.com</description>
+		<content:encoded><![CDATA[<p>Childhood antics. Adulthood addicts. Jupiter Diego returns for a second story presented without narration.</p>
+<p>Like The Lapse? We&#8217;re less than $100 from funding season 3. Help us continue making the show you love at <a href="http://patreon.com/thelapse">patreon.com/thelapse</a>. This month&#8217;s executive supporters: Dawn Smith, Cindy Crijns, Jill Galvez, Matthew Gibson, Richard Gwirtz, &amp; Dan Lesser.</p>
+<p>Listen to more of Jupiter&#8217;s work at <a href="http://www.jupiterdiego.com">JupiterDiego.com</a></p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/envelope-please-jupiter-diego-episode-35/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Envelope_Please_-_Jupiter_Diego___Episode_35.mp3" length="37739194" type="audio/mpeg" />
+		<itunes:subtitle>Childhood antics. Adulthood addicts. Jupiter Diego returns for a second story presented without narration.</itunes:subtitle>
+		<itunes:summary>Childhood antics. Adulthood addicts. Jupiter Diego returns for a second story presented without narration.
+Like The Lapse? We&#039;re less than $100 from funding season 3. Help us continue making the show you love at patreon.com/thelapse. This month&#039;s executive supporters: Dawn Smith, Cindy Crijns, Jill Galvez, Matthew Gibson, Richard Gwirtz, &amp; Dan Lesser.
+Listen to more of Jupiter&#039;s work at JupiterDiego.com</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>15:18</itunes:duration>
+		</item>
+	<item>
+		<title>Send in the Clowns &#8211; Tom O&#8217;Keefe &#124; Episode 34</title>
+		<link>http://www.thelapse.org/send-in-the-clowns-tom-okeefe-episode-34/</link>
+		<pubDate>Mon, 30 Nov 2015 02:19:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thelapse.org/?p=562</guid>
+		<comments>http://www.thelapse.org/send-in-the-clowns-tom-okeefe-episode-34/#respond</comments>
+		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
+		<category><![CDATA[News]]></category>
+		<description>All Tom had to do was get the band to the show. Problem? It&#039;s &#039;95, it&#039;s Insane Clown Posse, and all their fans want his head.
+
+Itching for season 3? Make it possible! Support The Lapse for as little as $1 a month at patreon.com/thelapse. This month&#039;s executive supporters: Cindy Crijns, Jill Galvez, Dan Lesser, &amp; Richard Gwirtz.
+
+Catch more of Tom on his film review podcast, Reel Spoilers.</description>
+		<content:encoded><![CDATA[<p>All Tom had to do was get the band to the show. Problem? It&#8217;s &#8217;95, it&#8217;s Insane Clown Posse, and all their fans want his head.</p>
+<p>Itching for season 3? Make it possible! Support The Lapse for as little as $1 a month at <a href="http://patreon.com/thelapse">patreon.com/thelapse</a>. This month&#8217;s executive supporters: Cindy Crijns, Jill Galvez, Dan Lesser, &amp; Richard Gwirtz.</p>
+<p>Catch more of Tom on his film review podcast, <a href="http://www.reelspoilers.com/">Reel Spoilers</a>.</p>
+]]></content:encoded>
+		<wfw:commentRss>http://www.thelapse.org/send-in-the-clowns-tom-okeefe-episode-34/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/34_Send_in_the_Clowns_-_Tom_O_Keefe___Episode_34.mp3" length="26038440" type="audio/mpeg" />
+		<itunes:subtitle>All Tom had to do was get the band to the show. Problem? It&#039;s &#039;95, it&#039;s Insane Clown Posse, and all their fans want his head.</itunes:subtitle>
+		<itunes:summary>All Tom had to do was get the band to the show. Problem? It&#039;s &#039;95, it&#039;s Insane Clown Posse, and all their fans want his head.
+
+Itching for season 3? Make it possible! Support The Lapse for as little as $1 a month at patreon.com/thelapse. This month&#039;s executive supporters: Cindy Crijns, Jill Galvez, Dan Lesser, &amp; Richard Gwirtz.</itunes:summary>
+		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>17:43</itunes:duration>
+		<googleplay:description>All Tom had to do was get the band to the show. Problem? It&#039;s &#039;95, it&#039;s Insane Clown Posse, and all their fans want his head.
+
+Itching for season 3? Make it possible! Support The Lapse for as little as $1 a month at patreon.com/thelapse. This month&#039;s executive supporters: Cindy Crijns, Jill Galvez, Dan Lesser, &amp; Richard Gwirtz.</googleplay:description>
+		</item>
 	<item>
 		<title>The Greg Reaper &#8211; Greg Armstrong &#124; Episode 33</title>
 		<link>http://www.thelapse.org/the-greg-reaper-greg-armstrong-episode-33/</link>
 		<pubDate>Sun, 01 Nov 2015 02:38:38 +0000</pubDate>
 		<guid isPermaLink="false">http://www.thelapse.org/?p=551</guid>
-		<comments>http://www.thelapse.org/the-greg-reaper-greg-armstrong-episode-33/#comments</comments>
+		<comments>http://www.thelapse.org/the-greg-reaper-greg-armstrong-episode-33/#respond</comments>
 		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
 		<category><![CDATA[Episodes]]></category>
 		<description>After witnessing the suicide of a young boy, wherever Greg goes, death seems to follow.
@@ -71,6 +131,7 @@ While this month&#039;s story deals with some markedly darker subject matter, 
 
 This month&#039;s executive-level supporters, courtesy patreon.com/thelapse - Dan Lesser, Richard Gwirtz, Cindy Crijns, &amp; Jill Galvez. Support The Lapse for as little as $1 a month and get access to hours of additional content.</itunes:summary>
 		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>16:40</itunes:duration>
 		</item>
@@ -79,7 +140,7 @@ This month&#039;s executive-level supporters, courtesy patreon.com/thelapse - Da
 		<link>http://www.thelapse.org/fatal-attractions-kyle-gest-episode-32/</link>
 		<pubDate>Sun, 04 Oct 2015 02:28:16 +0000</pubDate>
 		<guid isPermaLink="false">http://www.thelapse.org/?p=539</guid>
-		<comments>http://www.thelapse.org/fatal-attractions-kyle-gest-episode-32/#comments</comments>
+		<comments>http://www.thelapse.org/fatal-attractions-kyle-gest-episode-32/#respond</comments>
 		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
 		<category><![CDATA[Episodes]]></category>
 		<description>BOO! How better to scare your pants off than a trip to the local haunted house? Try playing one of the monsters. If you&#039;re not prepared to get punched or spat on, this may not be the job for you. It&#039;s a SPOOKTACULAR Halloween episode of The Lapse!
@@ -96,6 +157,7 @@ This month&#039;s Patreon executive producers, courtesy patreon.com/thelapse - D
 
 This month&#039;s Patreon executive producers, courtesy patreon.com/thelapse - Dan Lesser, Richard Gwirtz, Cindy Crijns, &amp; Jill Galvez. Support us for as little as $1 a month and get access to a wealth of bonus content &lt;3.</itunes:summary>
 		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>16:46</itunes:duration>
 		</item>
@@ -104,7 +166,7 @@ This month&#039;s Patreon executive producers, courtesy patreon.com/thelapse - D
 		<link>http://www.thelapse.org/wheres-violet-felisha-martin/</link>
 		<pubDate>Sun, 06 Sep 2015 00:30:37 +0000</pubDate>
 		<guid isPermaLink="false">http://www.thelapse.org/?p=531</guid>
-		<comments>http://www.thelapse.org/wheres-violet-felisha-martin/#comments</comments>
+		<comments>http://www.thelapse.org/wheres-violet-felisha-martin/#respond</comments>
 		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
 		<category><![CDATA[Episodes]]></category>
 		<description>Felisha&#039;s mother Violet went missing 22 years ago. No body was ever recovered. Could she really still be out there? How do you a tell a true story when you don&#039;t know what the truth really is? Sometimes the need for closure speaks louder.
@@ -126,6 +188,7 @@ Citing a lack of evidence, Violet&#039;s case file was suspended indefinitely. H
 
 This episodes executive producers, courtesy of Patreon.com/thelapse: Jill Galvez, Richard Gwirtz, Dan Lesser, and Cindy Crijns.</itunes:summary>
 		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>22:38</itunes:duration>
 		</item>
@@ -134,7 +197,7 @@ This episodes executive producers, courtesy of Patreon.com/thelapse: Jill Galvez
 		<link>http://www.thelapse.org/best-of-the-lapse-year-one/</link>
 		<pubDate>Sun, 02 Aug 2015 23:32:51 +0000</pubDate>
 		<guid isPermaLink="false">http://www.thelapse.org/?p=506</guid>
-		<comments>http://www.thelapse.org/best-of-the-lapse-year-one/#comments</comments>
+		<comments>http://www.thelapse.org/best-of-the-lapse-year-one/#respond</comments>
 		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
 		<category><![CDATA[Episodes]]></category>
 		<description>Some of our very best stories from year one of The Lapse Storytelling Podcast!
@@ -156,6 +219,7 @@ This compilation stitches major fan faves with some of our personal picks up to 
 
 PLUS: Win a copy of the award-winning Taking My Parents to Burning Man, the now-completed film that inspired our episode of the same name. See http://thelapse.org for details.</itunes:summary>
 		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:11:52</itunes:duration>
 		</item>
@@ -164,7 +228,7 @@ PLUS: Win a copy of the award-winning Taking My Parents to Burning Man, the now-
 		<link>http://www.thelapse.org/his-my-arms-will-lautzenheiser/</link>
 		<pubDate>Sun, 12 Jul 2015 02:00:05 +0000</pubDate>
 		<guid isPermaLink="false">http://www.thelapse.org/?p=495</guid>
-		<comments>http://www.thelapse.org/his-my-arms-will-lautzenheiser/#comments</comments>
+		<comments>http://www.thelapse.org/his-my-arms-will-lautzenheiser/#respond</comments>
 		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
 		<category><![CDATA[Episodes]]></category>
 		<description>Flesh-eating bacteria. A loss of all four of his limbs. And then? That&#039;s when Will&#039;s story gets really wild.
@@ -186,6 +250,7 @@ I could&#039;ve spoken to Will Lautzenheiser for days. He&#039;s a wonderfully i
 
 Huge thank you and shout out to Mara Bresnahan, without whom Will and I may never have met.</itunes:summary>
 		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>29:11</itunes:duration>
 		</item>
@@ -194,7 +259,7 @@ Huge thank you and shout out to Mara Bresnahan, without whom Will and I may neve
 		<link>http://www.thelapse.org/my-so-called-fiance-episode-29/</link>
 		<pubDate>Sun, 14 Jun 2015 03:47:00 +0000</pubDate>
 		<guid isPermaLink="false">http://www.thelapse.org/?p=488</guid>
-		<comments>http://www.thelapse.org/my-so-called-fiance-episode-29/#comments</comments>
+		<comments>http://www.thelapse.org/my-so-called-fiance-episode-29/#respond</comments>
 		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
 		<category><![CDATA[Episodes]]></category>
 		<description>When your love for a stranger is enough to bail them out of prison... by pretending to be their bride.
@@ -216,6 +281,7 @@ Sara is the perfect example of someone who had a story, but didn&#039;t quite kn
 
 Support The Lapse on Patreon for as little as $1! As a solo-produced podcast, your support keeps this show alive.</itunes:summary>
 		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>18:08</itunes:duration>
 		</item>
@@ -224,7 +290,7 @@ Support The Lapse on Patreon for as little as $1! As a solo-produced podcast, yo
 		<link>http://www.thelapse.org/the-last-word-jupiter-diego-episode-28/</link>
 		<pubDate>Sun, 24 May 2015 07:59:51 +0000</pubDate>
 		<guid isPermaLink="false">http://thelapse.org/?p=467</guid>
-		<comments>http://www.thelapse.org/the-last-word-jupiter-diego-episode-28/#comments</comments>
+		<comments>http://www.thelapse.org/the-last-word-jupiter-diego-episode-28/#respond</comments>
 		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
 		<category><![CDATA[Episodes]]></category>
 		<description>Death with dignity. An angel of mercy. Assisted suicide.
@@ -249,6 +315,7 @@ Support The Lapse on Patreon for as little as $1! As a solo-produced podcast, yo
 
 Jupiter Diego&#039;s father is a renowned conductor and violinist, a man used to a certain quality of life. But as he&#039;s struck terminally ill, as his body is no longer what it was, he seeks the help of his family. Shouldn&#039;t he die on his own terms?</itunes:summary>
 		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>14:47</itunes:duration>
 		</item>
@@ -257,7 +324,7 @@ Jupiter Diego&#039;s father is a renowned conductor and violinist, a man used to
 		<link>http://www.thelapse.org/cool-running-jennifer-purdie-episode-27/</link>
 		<pubDate>Sun, 03 May 2015 07:54:15 +0000</pubDate>
 		<guid isPermaLink="false">http://thelapse.org/?p=453</guid>
-		<comments>http://www.thelapse.org/cool-running-jennifer-purdie-episode-27/#comments</comments>
+		<comments>http://www.thelapse.org/cool-running-jennifer-purdie-episode-27/#respond</comments>
 		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
 		<category><![CDATA[Episodes]]></category>
 		<description>Sub-zero temps, chest-high mud, and ravenous birds? We&#039;re going on an adventure.
@@ -284,6 +351,7 @@ Download &quot;Cool Running&quot; NOW on iTunes, Stitcher, or stream it at the l
 
 Jennifer Purdie is on a mission to complete a marathon across all seven continents. But to do that, she&#039;ll have to brave the most grueling trek of them all: a seven hour gauntlet across the Antarctic tundra.</itunes:summary>
 		<itunes:author>The Lapse Storytellers</itunes:author>
+		<itunes:image href="http://i.imgur.com/DkBDdcw.jpg" />
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>16:07</itunes:duration>
 		</item>
@@ -292,9 +360,6 @@ Jennifer Purdie is on a mission to complete a marathon across all seven continen
 		<link>http://www.thelapse.org/the-hole-in-my-sock-natasha-porter-episode-26/</link>
 		<pubDate>Sun, 12 Apr 2015 17:47:52 +0000</pubDate>
 		<guid isPermaLink="false">http://thelapse.org/?p=437</guid>
-		<comments>http://www.thelapse.org/the-hole-in-my-sock-natasha-porter-episode-26/#comments</comments>
-		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
-		<category><![CDATA[Episodes]]></category>
 		<description>How could a hole in your sock mean the end of your life? When you don&#039;t actually find one.
 
 Natasha Porter was on vacation in Australia when she very was struck with a very unlikely illness. Not one in a hundred, but one in a hundred thousand. She still lives with its ramifications to this day.
@@ -304,32 +369,8 @@ What strikes me most about Natasha&#039;s story, aside from the harrowing experi
 Like the show? Support us! Running The Lapse does not pay the rent, but for as little as $1, you can keep it running. Plus you&#039;ll find out about that time I was on a reality show. Awesome, right? That&#039;s Patreon.com/thelapse.
 
 Download &quot;The Hole in My Sock&quot; NOW on iTunes, Stitcher, or stream it at the link below.</description>
-		<content:encoded><![CDATA[<div class="shareContent">How could a hole in your sock mean the end of your life? When you don&#8217;t actually find one.</div>
-<div class="shareContent"></div>
-<p>
-<div class="shareContent">Natasha Porter was on vacation in Australia when she very was struck with a very unlikely illness. Not one in a hundred, but one in a hundred thousand. She still lives with its ramifications to this day.</div>
-</p>
-<div class="shareContent"></div>
-<p>
-<div class="shareContent">What strikes me most about Natasha&#8217;s story, aside from the harrowing experience of it all, are the psychological consequences of such a rare and sudden illness. Like the universe is out to get you. That feeling, at least, is something I can relate to.</div>
-<div class="shareContent"></div>
-</p>
-<p>
-<div class="shareContent">Like the show?<a href="http://www.patreon.com/thelapse"> Support us</a>! Running The Lapse does not pay the rent, but for as little as $1, you can keep it running. Plus you&#8217;ll find out about that time I was on a reality show. Awesome, right? That&#8217;s <a href="http://patreon.com/thelapse">Patreon.com/thelapse</a>.</div>
-<div class="shareContent"></div>
-</p>
-<h3 class="shareContent">Download &#8220;The Hole in My Sock&#8221; NOW on <a href="https://itunes.apple.com/ca/podcast/lapse-storytelling-podcast/id816816401?mt=2">iTunes</a>, <a href="http://www.stitcher.com/podcast/the-lapse">Stitcher</a>, or stream it at the link below.</h3>
-]]></content:encoded>
-		<wfw:commentRss>http://www.thelapse.org/the-hole-in-my-sock-natasha-porter-episode-26/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
 		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Hole_In_My_Sock_-_Natasha_Porter___Episode_26.mp3" length="34789348" type="audio/mpeg" />
 		<itunes:subtitle>How could a hole in your sock mean the end of your life? When you don&#039;t actually find one.</itunes:subtitle>
-		<itunes:summary>How could a hole in your sock mean the end of your life? When you don&#039;t actually find one.
- 
-Natasha Porter was on vacation in Australia when she very was struck with a very unlikely illness. Not one in a hundred, but one in a hundred thousand. She still lives with its ramifications to this day.
-
-Like the show? Support us! Running The Lapse does not pay the rent, but for as little as $1, you can keep it running. Plus you&#039;ll find out about that time I was on a reality show. Awesome, right? That&#039;s Patreon.com/thelapse.</itunes:summary>
-		<itunes:author>The Lapse Storytellers</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>17:54</itunes:duration>
 		</item>
@@ -338,9 +379,6 @@ Like the show? Support us! Running The Lapse does not pay the rent, but for as l
 		<link>http://www.thelapse.org/the-freshman-chad-michael-episode-25/</link>
 		<pubDate>Sun, 22 Mar 2015 15:06:44 +0000</pubDate>
 		<guid isPermaLink="false">http://thelapse.org/?p=428</guid>
-		<comments>http://www.thelapse.org/the-freshman-chad-michael-episode-25/#comments</comments>
-		<dc:creator>The Lapse Storytelling Podcast</dc:creator>
-		<category><![CDATA[Episodes]]></category>
 		<description>You&#039;re 13. You&#039;re gay. And you&#039;re an evangelical Christian.
 
 As a shy, slightly effeminate teen, making friends with the other lads isn&#039;t easy for Chad Michael. But when his eyes meet the big blues of another church boy, the connection is undeniable... and his secret unmentionable.
@@ -354,25 +392,8 @@ If you&#039;re a teen in the Pasadena area and you&#039;re looking for a non-ju
 
 Support The Lapse on Patreon for as little as $1! With your help, we can have more episodes, more often.
 Download &quot;The Freshman&quot; NOW on iTunes, Stitcher, or stream it at the link below.</description>
-		<content:encoded><![CDATA[<p>You&#8217;re 13. You&#8217;re gay. And you&#8217;re an evangelical Christian.</p>
-<p>As a shy, slightly effeminate teen, making friends with the other lads isn&#8217;t easy for Chad Michael. But when his eyes meet the big blues of another church boy, the connection is undeniable&#8230; and his secret unmentionable.<a href="http://thelapse.org/wp-content/uploads/2015/03/Gay-Jesus.png"><br />
-</a></p>
-<p>Chad&#8217;s known as <a href="http://thevideopoet.com/">The Video Poet</a>. As a graduate of USC Film School, he merges filmmaking prowess with slam poetry cred. The poem that inspired him to tell this story, the personal side of this story, is <a href="https://www.youtube.com/watch?v=CBW4R8vjA1Q"><em>Dear American Youth Pastor</em></a>. Check it out.</p>
-<p>If you&#8217;re a teen in the Pasadena area and you&#8217;re looking for a non-judgmental place, somebody to talk to, you&#8217;ll find Chad at <a href="http://allsaints-pas.org/">All Saints Episcopal Church</a>.</p>
-<p><iframe src="https://www.youtube.com/embed/CBW4R8vjA1Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p><a href="http://www.patreon.com/thelapse">Support The Lapse on Patreon</a> for as little as $1! With your help, we can have more episodes, more often.</p>
-<h3>Download &#8220;The Freshman&#8221; NOW on <a href="https://itunes.apple.com/ca/podcast/freshman-chad-michael-episode/id816816401?i=338194047&amp;mt=2">iTunes,</a> <a href="http://www.stitcher.com/podcast/the-lapse">Stitcher,</a> or stream it at the link below.</h3>
-]]></content:encoded>
-		<wfw:commentRss>http://www.thelapse.org/the-freshman-chad-michael-episode-25/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
 		<enclosure url="http://media.blubrry.com/thelapse/content.blubrry.com/thelapse/The_Freshman_-_Chad_Michael___Episode_25.mp3" length="35285338" type="audio/mpeg" />
 		<itunes:subtitle>You&#039;re 13. You&#039;re gay. And you&#039;re an evangelical Christian.</itunes:subtitle>
-		<itunes:summary>You&#039;re 13. You&#039;re gay. And you&#039;re an evangelical Christian.
-
-As a shy, slightly effeminate teen, making friends with the other lads isn&#039;t easy for Chad Michael. But when his eyes meet the big blues of another church boy, the connection is undeniable... and his secret unmentionable.
-
-Support The Lapse on Patreon for as little as $1! www.patreon.com/thelapse</itunes:summary>
-		<itunes:author>The Lapse Storytellers</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>18:09</itunes:duration>
 		</item>

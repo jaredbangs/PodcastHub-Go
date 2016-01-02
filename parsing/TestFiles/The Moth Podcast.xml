@@ -6,7 +6,7 @@
 	
 	<link>http://themoth.org/</link>
 	<description>Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country. For information on all of our programs and live events, visit themoth.org.</description>
-	<lastBuildDate>Tue, 10 Nov 2015 18:14:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Dec 2015 19:11:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -33,132 +33,125 @@
 	</itunes:category>
 	<itunes:category text="Comedy" />
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.themoth.org/themothpodcast" /><feedburner:info uri="themothpodcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>2006-2014</media:copyright><media:thumbnail url="http://cdn.themoth.prx.org/wp-content/uploads/powerpress/moth_podcast_1400x1400.jpg" /><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Performing Arts</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Comedy</media:category><item>
-		<title>Jon Ronson &amp; Micah Truran</title>
-		<link>http://feeds.themoth.org/~r/themothpodcast/~3/PdeZCAglYtE/</link>
-		<comments>http://themoth.prx.org/jon-ronson-micah-truran/#comments</comments>
-		<pubDate>Tue, 10 Nov 2015 18:14:40 +0000</pubDate>
+		<title>Lynnee Breedlove &amp; Jama Jack</title>
+		<link>http://feeds.themoth.org/~r/themothpodcast/~3/sMxMyuWtUaQ/</link>
+		<comments>http://themoth.prx.org/lynnee-breedlove-jama-jack/#comments</comments>
+		<pubDate>Tue, 29 Dec 2015 19:11:50 +0000</pubDate>
 		<dc:creator><![CDATA[Whitney Jones]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[WNYC]]></category>
 
-		<guid isPermaLink="false">http://themoth.prx.org/?p=2653</guid>
-		<description><![CDATA[Stories about Identity: Jon battles a Twitterbot that is using his name and his photo, and Micah&#8217;s lucky red tie leads to a revealing encounter with his musical hero.]]></description>
-				<content:encoded><![CDATA[<p>Stories about Identity: Jon battles a Twitterbot that is using his name and his photo, and Micah&#8217;s lucky red tie leads to a revealing encounter with his musical hero.</p>
-<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/PdeZCAglYtE" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://themoth.prx.org/jon-ronson-micah-truran/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://themoth.prx.org/?p=2681</guid>
+		<description><![CDATA[Lynnee Breedlove creates “Homobiles” &#8212; a ride service serving the LGBT community and others marginalized by society. Jama Jack contemplates her choice between Christianity and Islam.]]></description>
+				<content:encoded><![CDATA[<p>Lynnee Breedlove creates “Homobiles” &#8212; a ride service serving the LGBT community and others marginalized by society. Jama Jack contemplates her choice between Christianity and Islam.</p>
+<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/sMxMyuWtUaQ" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://themoth.prx.org/lynnee-breedlove-jama-jack/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 
-		<itunes:subtitle>Stories about Identity: Jon battles a Twitterbot that is using his name and his photo, and Micah's lucky red tie leads to a revealing encounter with his musical hero.</itunes:subtitle>
-		<itunes:summary>Stories about Identity: Jon battles a Twitterbot that is using his name and his photo, and Micah's lucky red tie leads to a revealing encounter with his musical hero.</itunes:summary>
+		<itunes:subtitle>Lynnee Breedlove creates “Homobiles” -- a ride service serving the LGBT community and others marginalized by society. Jama Jack contemplates her choice between Christianity and Islam.</itunes:subtitle>
+		<itunes:summary>Lynnee Breedlove creates “Homobiles” -- a ride service serving the LGBT community and others marginalized by society. Jama Jack contemplates her choice between Christianity and Islam.</itunes:summary>
 		<itunes:author>The Moth</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
-		<itunes:duration>22:13</itunes:duration>
-	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/G19X14IBLpE/moth_podcast_408_Ronson_Truran.mp3" fileSize="10867258" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/jon-ronson-micah-truran/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/G19X14IBLpE/moth_podcast_408_Ronson_Truran.mp3" length="10867258" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_408_Ronson_Truran.mp3</feedburner:origEnclosureLink></item>
+	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/FIE6hkqEtlo/moth_podcast_415_Breedlove_Jack.mp3" fileSize="14613534" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/lynnee-breedlove-jama-jack/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/FIE6hkqEtlo/moth_podcast_415_Breedlove_Jack.mp3" length="14613534" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_415_Breedlove_Jack.mp3</feedburner:origEnclosureLink></item>
 		<item>
-		<title>The Moth Radio Hour: Hand Transplant, DNA, and a Backwards Heart</title>
-		<link>http://feeds.themoth.org/~r/themothpodcast/~3/TiDQcoQs3so/</link>
-		<comments>http://themoth.prx.org/2648-2/#comments</comments>
-		<pubDate>Tue, 03 Nov 2015 20:21:16 +0000</pubDate>
+		<title>The Moth Radio Hour: Holiday Special 2015</title>
+		<link>http://feeds.themoth.org/~r/themothpodcast/~3/b4aZT7MsB8o/</link>
+		<comments>http://themoth.prx.org/the-moth-radio-hour-holiday-special-2015/#comments</comments>
+		<pubDate>Tue, 22 Dec 2015 20:07:28 +0000</pubDate>
 		<dc:creator><![CDATA[Whitney Jones]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[WNYC]]></category>
 
-		<guid isPermaLink="false">http://themoth.prx.org/?p=2648</guid>
-		<description><![CDATA[An astrophysicist discovers wild parallels in her research and romantic life, a surgeon details his involvement in one of the world&#8217;s first-ever hand transplants, and a geneticist is called to testify in a murder case and lays the groundwork for DNA fingerprinting as forensic evidence. Storytellers: Janna Levin, Kodi Azari, and Eric S. Lander]]></description>
-				<content:encoded><![CDATA[<p>An astrophysicist discovers wild parallels in her research and romantic life, a surgeon details his involvement in one of the world&#8217;s first-ever hand transplants, and a geneticist is called to testify in a murder case and lays the groundwork for DNA fingerprinting as forensic evidence.</p>
-<p>Storytellers: Janna Levin, Kodi Azari, and Eric S. Lander</p>
-<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/TiDQcoQs3so" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://themoth.prx.org/2648-2/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://themoth.prx.org/?p=2677</guid>
+		<description><![CDATA[A special holiday edition of The Moth Radio Hour: A family tradition endures community-wide scandal, a single woman tries to find her soulmate for Hanukkah, a daughter honors her mother&#8217;s last Christmas wish, a guard works New Year&#8217;s Eve at Sing Sing prison, and the holiday spirit fills an emergency room. Storytellers: Tricia Rose Burt, Amy Klein, Alexandra [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A special holiday edition of The Moth Radio Hour: A family tradition endures community-wide scandal, a single woman tries to find her soulmate for Hanukkah, a daughter honors her mother&#8217;s last Christmas wish, a guard works New Year&#8217;s Eve at Sing Sing prison, and the holiday spirit fills an emergency room.</p>
+<p>Storytellers: Tricia Rose Burt, Amy Klein, Alexandra Rosas, Ted Conover, and Matthew Dicks.</p>
+<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/b4aZT7MsB8o" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://themoth.prx.org/the-moth-radio-hour-holiday-special-2015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 
-		<itunes:subtitle>An astrophysicist discovers wild parallels in her research and romantic life, a surgeon details his involvement in one of the world's first-ever hand transplants, and a geneticist is called to testify in a murder case and lays the groundwork for DNA fi...</itunes:subtitle>
-		<itunes:summary>An astrophysicist discovers wild parallels in her research and romantic life, a surgeon details his involvement in one of the world's first-ever hand transplants, and a geneticist is called to testify in a murder case and lays the groundwork for DNA fingerprinting as forensic evidence.
+		<itunes:subtitle>A special holiday edition of The Moth Radio Hour: A family tradition endures community-wide scandal, a single woman tries to find her soulmate for Hanukkah, a daughter honors her mother's last Christmas wish,</itunes:subtitle>
+		<itunes:summary>A special holiday edition of The Moth Radio Hour: A family tradition endures community-wide scandal, a single woman tries to find her soulmate for Hanukkah, a daughter honors her mother's last Christmas wish, a guard works New Year's Eve at Sing Sing prison, and the holiday spirit fills an emergency room.
 
-Storytellers: Janna Levin, Kodi Azari, and Eric S. Lander</itunes:summary>
+Storytellers: Tricia Rose Burt, Amy Klein, Alexandra Rosas, Ted Conover, and Matthew Dicks.</itunes:summary>
+		<itunes:author>The Moth</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>53:24</itunes:duration>
+	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/fc6J_2hyrr8/moth_podcast_414_mrh_1523.mp3" fileSize="25831863" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/the-moth-radio-hour-holiday-special-2015/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/fc6J_2hyrr8/moth_podcast_414_mrh_1523.mp3" length="25831863" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_414_mrh_1523.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Eve Plumb &amp; The Pittsburgh StorySLAM</title>
+		<link>http://feeds.themoth.org/~r/themothpodcast/~3/51GRWeGl0qw/</link>
+		<comments>http://themoth.prx.org/eve-plumb-the-pittsburgh-storyslam/#comments</comments>
+		<pubDate>Tue, 15 Dec 2015 19:34:08 +0000</pubDate>
+		<dc:creator><![CDATA[Whitney Jones]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[WNYC]]></category>
+
+		<guid isPermaLink="false">http://themoth.prx.org/?p=2674</guid>
+		<description><![CDATA[Eve Plumb reflects on the real-life and TV families from her childhood, and a slide show on a family trip goes awry.]]></description>
+				<content:encoded><![CDATA[<p>Eve Plumb reflects on the real-life and TV families from her childhood, and a slide show on a family trip goes awry.</p>
+<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/51GRWeGl0qw" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://themoth.prx.org/eve-plumb-the-pittsburgh-storyslam/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+
+		<itunes:subtitle>Eve Plumb reflects on the real-life and TV families from her childhood, and a slide show on a family trip goes awry.</itunes:subtitle>
+		<itunes:summary>Eve Plumb reflects on the real-life and TV families from her childhood, and a slide show on a family trip goes awry.</itunes:summary>
 		<itunes:author>The Moth</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>54:23</itunes:duration>
-	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/SY4ZhwkqR6s/moth_podcast_407_MRH1201.mp3" fileSize="26305080" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/2648-2/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/SY4ZhwkqR6s/moth_podcast_407_MRH1201.mp3" length="26305080" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_407_MRH1201.mp3</feedburner:origEnclosureLink></item>
+		<itunes:duration>19:34</itunes:duration>
+	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/L4EiyrjRX6o/moth_podcast_413_Plumb_Jessie.mp3" fileSize="9588720" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/eve-plumb-the-pittsburgh-storyslam/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/L4EiyrjRX6o/moth_podcast_413_Plumb_Jessie.mp3" length="9588720" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_413_Plumb_Jessie.mp3</feedburner:origEnclosureLink></item>
 		<item>
-		<title>Kimya Dawson &amp; Kevin Haas: Halloween Stories</title>
-		<link>http://feeds.themoth.org/~r/themothpodcast/~3/xe-bbyYXT1g/</link>
-		<comments>http://themoth.prx.org/kimya-dawson-kevin-haas-halloween-stories/#comments</comments>
-		<pubDate>Tue, 27 Oct 2015 19:39:00 +0000</pubDate>
+		<title>Amir Baghdadchi &amp; Dameon Wilburn: StorySLAM Favorites</title>
+		<link>http://feeds.themoth.org/~r/themothpodcast/~3/l4ha9J3DJJE/</link>
+		<comments>http://themoth.prx.org/amir-baghdadchi-dameon-wilburn-storyslam-favorites/#comments</comments>
+		<pubDate>Tue, 08 Dec 2015 18:13:59 +0000</pubDate>
 		<dc:creator><![CDATA[Whitney Jones]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[WNYC]]></category>
 
-		<guid isPermaLink="false">http://themoth.prx.org/?p=2644</guid>
-		<description><![CDATA[It&#8217;s The Moth Podcast Halloween Special! A young woman working at a haunted maze encounters a pop star and workers at a bar are confronted by a band of roving vampires. Storytellers: Kimya Dawson and Kevin Haas. Music in this episode by The Uncluded.]]></description>
-				<content:encoded><![CDATA[<p>It&#8217;s The Moth Podcast Halloween Special! A young woman working at a haunted maze encounters a pop star and workers at a bar are confronted by a band of roving vampires.</p>
-<p>Storytellers: Kimya Dawson and Kevin Haas.</p>
-<p>Music in this episode by <a href="http://rhymesayers.com/theuncluded">The Uncluded</a>.</p>
-<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/xe-bbyYXT1g" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://themoth.prx.org/kimya-dawson-kevin-haas-halloween-stories/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-
-		<itunes:subtitle>It's The Moth Podcast Halloween Special! A young woman working at a haunted maze encounters a pop star and workers at a bar are confronted by a band of roving vampires. - Storytellers: Kimya Dawson and Kevin Haas. - </itunes:subtitle>
-		<itunes:summary>It's The Moth Podcast Halloween Special! A young woman working at a haunted maze encounters a pop star and workers at a bar are confronted by a band of roving vampires.
-
-Storytellers: Kimya Dawson and Kevin Haas.
-
-Music in this episode by &lt;a href="http://rhymesayers.com/theuncluded"&gt;The Uncluded&lt;/a&gt;.</itunes:summary>
-		<itunes:author>The Moth</itunes:author>
-		<itunes:explicit>yes</itunes:explicit>
-		<itunes:duration>20:33</itunes:duration>
-	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/I9xbSFXzDR8/moth_podcast_406_halloween.mp3" fileSize="19930281" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/kimya-dawson-kevin-haas-halloween-stories/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/I9xbSFXzDR8/moth_podcast_406_halloween.mp3" length="19930281" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_406_halloween.mp3</feedburner:origEnclosureLink></item>
-		<item>
-		<title>The Moth Radio Hour: Red Sox, Jerusalem, and Coming Home</title>
-		<link>http://feeds.themoth.org/~r/themothpodcast/~3/uVOvX-fVxTo/</link>
-		<comments>http://themoth.prx.org/the-moth-radio-hour-red-sox-jerusalem-and-coming-home/#comments</comments>
-		<pubDate>Tue, 20 Oct 2015 10:00:16 +0000</pubDate>
-		<dc:creator><![CDATA[Whitney Jones]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[WNYC]]></category>
-
-		<guid isPermaLink="false">http://themoth.prx.org/?p=2638</guid>
-		<description><![CDATA[A father bonds with his son over baseball, a boy realizes that his single father is not a superhero, a worker at a community center has a knife pulled on her, a newly divorced mother is evicted from her home, and a young writer moves to Jerusalem with the hope that peace will break out. Storytellers: Jimmy [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>A father bonds with his son over baseball, a boy realizes that his single father is not a superhero, a worker at a community center has a knife pulled on her, a newly divorced mother is evicted from her home, and a young writer moves to Jerusalem with the hope that peace will break out.</p>
-<p>Storytellers: Jimmy Tingle, Jason Schmidt, Launa Lea, Gretchen Waschke, and Nathan Englander.</p>
+		<guid isPermaLink="false">http://themoth.prx.org/?p=2669</guid>
+		<description><![CDATA[Amir has a &#8220;chat&#8221; with a government agent in a windowless room at the airport, and Dameon takes a trip to Paris. Storytellers: Amir Baghdadchi and Dameon Wilburn. &#160;]]></description>
+				<content:encoded><![CDATA[<p>Amir has a &#8220;chat&#8221; with a government agent in a windowless room at the airport, and Dameon takes a trip to Paris.</p>
+<p>Storytellers: Amir Baghdadchi and Dameon Wilburn.</p>
 <p>&nbsp;</p>
-<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/uVOvX-fVxTo" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://themoth.prx.org/the-moth-radio-hour-red-sox-jerusalem-and-coming-home/feed/</wfw:commentRss>
+<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/l4ha9J3DJJE" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://themoth.prx.org/amir-baghdadchi-dameon-wilburn-storyslam-favorites/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 
-		<itunes:subtitle>A father bonds with his son over baseball, a boy realizes that his single father is not a superhero, a worker at a community center has a knife pulled on her, a newly divorced mother is evicted from her home,</itunes:subtitle>
-		<itunes:summary>A father bonds with his son over baseball, a boy realizes that his single father is not a superhero, a worker at a community center has a knife pulled on her, a newly divorced mother is evicted from her home, and a young writer moves to Jerusalem with the hope that peace will break out.
+		<itunes:subtitle>Amir has a "chat" with a government agent in a windowless room at the airport, and Dameon takes a trip to Paris. - Storytellers: Amir Baghdadchi and Dameon Wilburn. -  </itunes:subtitle>
+		<itunes:summary>Amir has a "chat" with a government agent in a windowless room at the airport, and Dameon takes a trip to Paris.
 
-Storytellers: Jimmy Tingle, Jason Schmidt, Launa Lea, Gretchen Waschke, and Nathan Englander.
+Storytellers: Amir Baghdadchi and Dameon Wilburn.
 
  </itunes:summary>
 		<itunes:author>The Moth</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
-		<itunes:duration>55:01</itunes:duration>
-	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/wMRjBAoHq1Q/moth_podcast_405_mrh_1523.mp3" fileSize="26605715" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/the-moth-radio-hour-red-sox-jerusalem-and-coming-home/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/wMRjBAoHq1Q/moth_podcast_405_mrh_1523.mp3" length="26605715" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_405_mrh_1523.mp3</feedburner:origEnclosureLink></item>
+		<itunes:duration>18:30</itunes:duration>
+	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/eMx-gBImtQ8/moth_podcast_412_Baghdadchi_Wilburn.mp3" fileSize="9080905" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/amir-baghdadchi-dameon-wilburn-storyslam-favorites/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/eMx-gBImtQ8/moth_podcast_412_Baghdadchi_Wilburn.mp3" length="9080905" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_412_Baghdadchi_Wilburn.mp3</feedburner:origEnclosureLink></item>
 		<item>
-		<title>The Moth Radio Hour: Live from Boston</title>
-		<link>http://feeds.themoth.org/~r/themothpodcast/~3/5y2PQCTBmI8/</link>
-		<comments>http://themoth.prx.org/the-moth-radio-hour-live-from-boston/#comments</comments>
-		<pubDate>Tue, 13 Oct 2015 19:46:07 +0000</pubDate>
+		<title>The Moth Radio Hour: The Moth StorySLAM</title>
+		<link>http://feeds.themoth.org/~r/themothpodcast/~3/HjGDgUYxNAc/</link>
+		<comments>http://themoth.prx.org/the-moth-radio-hour-the-moth-storyslam/#comments</comments>
+		<pubDate>Tue, 01 Dec 2015 20:27:35 +0000</pubDate>
 		<dc:creator><![CDATA[Whitney Jones]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[WNYC]]></category>
 
-		<guid isPermaLink="false">http://themoth.prx.org/?p=2634</guid>
-		<description><![CDATA[A special live edition of The Moth recorded at the Shubert Theatre in Boston. A New York City cop looks into the death of a kid he grew up with, a jazz musician dreams of playing with James Brown, and a woman falls in love over the protestations of her family. Storytellers: Steve Osborne, Christian McBride, and Mary [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>A special live edition of The Moth recorded at the Shubert Theatre in Boston. A New York City cop looks into the death of a kid he grew up with, a jazz musician dreams of playing with James Brown, and a woman falls in love over the protestations of her family.</p>
-<p>Storytellers: Steve Osborne, Christian McBride, and Mary Lou Piland</p>
-<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/5y2PQCTBmI8" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://themoth.prx.org/the-moth-radio-hour-live-from-boston/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://themoth.prx.org/?p=2665</guid>
+		<description><![CDATA[In this hour we’ll travel around the country to hear stories from our live open mic StorySLAM events: Louisville, Kentucky; San Francisco; Burlington, Vermont; Portland, Oregon; as well as the birthplace of the Moth StorySlam, New York City. Storytellers: John Dubuc, Leah Benson, Kathi Kinnear Hill, Tom Herndon, Caitlin Myer, David Sampliner, and Tara Clancy.]]></description>
+				<content:encoded><![CDATA[<p>In this hour we’ll travel around the country to hear stories from our live open mic StorySLAM events: Louisville, Kentucky; San Francisco; Burlington, Vermont; Portland, Oregon; as well as the birthplace of the Moth StorySlam, New York City.</p>
+<p>Storytellers: John Dubuc, Leah Benson, Kathi Kinnear Hill, Tom Herndon, Caitlin Myer, David Sampliner, and Tara Clancy.</p>
+<img src="http://feeds.feedburner.com/~r/themothpodcast/~4/HjGDgUYxNAc" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://themoth.prx.org/the-moth-radio-hour-the-moth-storyslam/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 
-		<itunes:subtitle>A special live edition of The Moth recorded at the Shubert Theatre in Boston. A New York City cop looks into the death of a kid he grew up with, a jazz musician dreams of playing with James Brown, and a woman falls in love over the protestations of her...</itunes:subtitle>
-		<itunes:summary>A special live edition of The Moth recorded at the Shubert Theatre in Boston. A New York City cop looks into the death of a kid he grew up with, a jazz musician dreams of playing with James Brown, and a woman falls in love over the protestations of her family.
+		<itunes:subtitle>In this hour we’ll travel around the country to hear stories from our live open mic StorySLAM events: Louisville, Kentucky; San Francisco; Burlington, Vermont; Portland, Oregon; as well as the birthplace of the Moth StorySlam, New York City. - </itunes:subtitle>
+		<itunes:summary>In this hour we’ll travel around the country to hear stories from our live open mic StorySLAM events: Louisville, Kentucky; San Francisco; Burlington, Vermont; Portland, Oregon; as well as the birthplace of the Moth StorySlam, New York City.
 
-Storytellers: Steve Osborne, Christian McBride, and Mary Lou Piland</itunes:summary>
+Storytellers: John Dubuc, Leah Benson, Kathi Kinnear Hill, Tom Herndon, Caitlin Myer, David Sampliner, and Tara Clancy.</itunes:summary>
 		<itunes:author>The Moth</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
-		<itunes:duration>54:03</itunes:duration>
-	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/gfBmX1AQGkk/moth_podcast_404_mrh_1521.mp3" fileSize="26142407" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/the-moth-radio-hour-live-from-boston/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/gfBmX1AQGkk/moth_podcast_404_mrh_1521.mp3" length="26142407" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_404_mrh_1521.mp3</feedburner:origEnclosureLink></item>
+		<itunes:duration>54:06</itunes:duration>
+	<media:content url="http://feeds.themoth.org/~r/themothpodcast/~5/qPOPcIizo7Q/moth_podcast_411_mrh_1525.mp3" fileSize="26168321" type="audio/mpeg" /><itunes:keywords>Podcasts, WNYC</itunes:keywords><feedburner:origLink>http://themoth.prx.org/the-moth-radio-hour-the-moth-storyslam/</feedburner:origLink><enclosure url="http://feeds.themoth.org/~r/themothpodcast/~5/qPOPcIizo7Q/moth_podcast_411_mrh_1525.mp3" length="26168321" type="audio/mpeg" /><feedburner:origEnclosureLink>http://www.podtrac.com/pts/redirect.mp3/cdn.themoth.prx.org/wp-content/uploads/moth_podcast_411_mrh_1525.mp3</feedburner:origEnclosureLink></item>
 	<media:credit role="author">The Moth</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The story</media:description></channel>
 </rss>

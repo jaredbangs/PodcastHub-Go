@@ -10,8 +10,8 @@
     <managingEditor>Charles Max Wood (chuck@devchat.tv)</managingEditor>
     <webMaster>Charles Max Wood (chuck@devchat.tv)</webMaster>
     <copyright>2014 Intentional Excellence Productions, LLC</copyright>
-    <pubdate>Wed, 11 Nov 2015 09:00:00 -0700</pubdate>
-    <lastBuildDate>Wed, 11 Nov 2015 12:35:46 -0500</lastBuildDate>
+    <pubdate>Wed, 30 Dec 2015 09:00:00 -0700</pubdate>
+    <lastBuildDate>Sat, 02 Jan 2016 12:47:44 -0500</lastBuildDate>
     <image>
       <link>http://rubyrogues.com</link>
       <url>https://s3.amazonaws.com/devchat.tv/ruby-rogues-thumb.jpg</url>
@@ -43,6 +43,1063 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
     </itunes:category>
+
+
+
+    <item>
+      <title>240 RR What Makes a Good Manager with Marcus Blankenship</title>
+      <link>https://devchat.tv/ruby-rogues/240-rr-what-makes-a-good-manager-with-marcus-blankenship</link>
+      <pubDate>Wed, 30 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:05 - Marcus Blankenship Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/justzeros" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://marcusblankenship.com/list/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:52 - Pain and Difficulties of Moving From Programming to Management&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Identity&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Credibility&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:50 - Image and Identity (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Expectations&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Role Models&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:16 - Management; Making the Move to Management&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aikido" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;Aikido&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14px"&gt;&amp;ldquo;Everybody deserves a good manager.&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:37 - How do you know if you have a bad manager?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;27:13 - Feedback; Tone of Communication&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:54 - What should you do when you get promoted to a management position?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Nix Production Code Tasks&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Meet with Your People (Give Feedback)&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14px"&gt;One-on-one Meetings with Team Members&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Zero Surprises Evaluation Policy&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Evaluation Forms&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Goals and Incentives&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14px"&gt;Reviews for Self-Reflection&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Get Your Own Feedback&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;48:25 - How do you know you are doing a good job?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.thefieldguidetosales.com/skip-level-reviews-and-the-benefits-of-360-degree-feedback.htm" style="text-decoration:none;"&gt;Skip-Level Reviews&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Growth of your team and members&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Signs of Loyalty&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;51:06 - What if you don&amp;rsquo;t want to move into a management role?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1450808425&amp;amp;sr=1-1&amp;amp;keywords=hard+thing+about+hard+things" style="text-decoration:none;"&gt;The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Narrow-Road-Deep-North/dp/0804171475/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1450808444&amp;amp;sr=1-1&amp;amp;keywords=narrow+road+to+the+deep+north" style="text-decoration:none;"&gt;The Narrow Road to the Deep North by Richard Flanagan&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.imdb.com/title/tt2488496/" style="text-decoration:none;"&gt;Star Wars: The Force Awakens&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/ruby-2016" style="text-decoration:none;"&gt;Ruby Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/freelance-2016" style="text-decoration:none;"&gt;Freelance Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?ie=UTF8&amp;amp;qid=1450808298&amp;amp;sr=8-1&amp;amp;keywords=the+war+of+art" style="text-decoration:none;"&gt;The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Marcus)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://leanpub.com/predictingtheunpredictable?utm_campaign=predictingtheunpredictable&amp;amp;utm_medium=embed&amp;amp;utm_source=www.jrothman.com" style="text-decoration:none;"&gt;Predicting the Unpredictable: Pragmatic Approaches to Estimating Project Schedule or Cost by Johanna Rothman&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Marcus)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author></author>
+      <guid isPermalink="false">8b29bc9a-79dc-4cc5-a43a-c516d7b17000</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:05 - Marcus Blankenship Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/justzeros" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://marcusblankenship.com/list/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:52 - Pain and Difficulties of Moving From Programming to Management&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Identity&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Credibility&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:50 - Image and Identity (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Expectations&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Role Models&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:16 - Management; Making the Move to Management&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Aikido" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;Aikido&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14px"&gt;&amp;ldquo;Everybody deserves a good manager.&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:37 - How do you know if you have a bad manager?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;27:13 - Feedback; Tone of Communication&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:54 - What should you do when you get promoted to a management position?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Nix Production Code Tasks&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Meet with Your People (Give Feedback)&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14px"&gt;One-on-one Meetings with Team Members&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Zero Surprises Evaluation Policy&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Evaluation Forms&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Goals and Incentives&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14px"&gt;Reviews for Self-Reflection&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Get Your Own Feedback&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;48:25 - How do you know you are doing a good job?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.thefieldguidetosales.com/skip-level-reviews-and-the-benefits-of-360-degree-feedback.htm" style="text-decoration:none;"&gt;Skip-Level Reviews&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Growth of your team and members&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Signs of Loyalty&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;51:06 - What if you don&amp;rsquo;t want to move into a management role?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1450808425&amp;amp;sr=1-1&amp;amp;keywords=hard+thing+about+hard+things" style="text-decoration:none;"&gt;The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Narrow-Road-Deep-North/dp/0804171475/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1450808444&amp;amp;sr=1-1&amp;amp;keywords=narrow+road+to+the+deep+north" style="text-decoration:none;"&gt;The Narrow Road to the Deep North by Richard Flanagan&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.imdb.com/title/tt2488496/" style="text-decoration:none;"&gt;Star Wars: The Force Awakens&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/ruby-2016" style="text-decoration:none;"&gt;Ruby Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/freelance-2016" style="text-decoration:none;"&gt;Freelance Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?ie=UTF8&amp;amp;qid=1450808298&amp;amp;sr=8-1&amp;amp;keywords=the+war+of+art" style="text-decoration:none;"&gt;The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Marcus)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://leanpub.com/predictingtheunpredictable?utm_campaign=predictingtheunpredictable&amp;amp;utm_medium=embed&amp;amp;utm_source=www.jrothman.com" style="text-decoration:none;"&gt;Predicting the Unpredictable: Pragmatic Approaches to Estimating Project Schedule or Cost by Johanna Rothman&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Marcus)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:02:30</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR240Management.mp3?rss=true" length="60004063" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>239 RR Swiss Army Rubyknife with Peter Cooper at Ruby Remote Conf 2015</title>
+      <link>https://devchat.tv/ruby-rogues/239-rr-swiss-army-rubyknife-with-peter-cooper-at-ruby-remote-conf-2015</link>
+      <pubDate>Wed, 23 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:16px"&gt;&lt;strong&gt;This episode is from&amp;nbsp;&lt;a href="https://twitter.com/peterc" style="font-size: 14px; line-height: 22.4px; text-decoration: none;"&gt;Peter Cooper&lt;/a&gt;&amp;rsquo;s talk at Ruby Remote Conf 2015. You can watch the full, unedited presentation,&amp;nbsp;&lt;a href="https://www.youtube.com/watch?v=lcywmx7dF-k" style="font-size: 14px; line-height: 22.4px; text-decoration: none;"&gt;Swiss Army Rubyknife&lt;/a&gt;, on YouTube at your convenience.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;strong&gt;&lt;a href="https://allremoteconfs.com" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; for next year&amp;rsquo;s remote conference lineup!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://rubyremoteconf.com/" style="text-decoration:none;"&gt;Ruby Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; will run from &lt;strong&gt;March 23rd-25th 2016&lt;/strong&gt;. Buy a ticket or submit a CFP!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; is running from &lt;strong&gt;January 14th-16th 2016&lt;/strong&gt;. Check out the speaker lineup!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://allremoteconfs.com/freelance-2016" style="text-decoration:none;"&gt;Freelance Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; will run from &lt;strong&gt;February 24th-26th&lt;/strong&gt;. We&amp;rsquo;ve already got a great list of confirmed speakers. Stay tuned for more details!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;We, the Ruby Rogues panelists (And, &lt;/span&gt;&lt;strong&gt;&lt;a href="http://twitter.com/therubyrep" style="text-decoration:none;"&gt;Mandy&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!), wish you a very happy holiday season.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author></author>
+      <guid isPermalink="false">1f2902c0-b9bf-4ef6-914d-13034c79456b</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:16px"&gt;&lt;strong&gt;This episode is from&amp;nbsp;&lt;a href="https://twitter.com/peterc" style="font-size: 14px; line-height: 22.4px; text-decoration: none;"&gt;Peter Cooper&lt;/a&gt;&amp;rsquo;s talk at Ruby Remote Conf 2015. You can watch the full, unedited presentation,&amp;nbsp;&lt;a href="https://www.youtube.com/watch?v=lcywmx7dF-k" style="font-size: 14px; line-height: 22.4px; text-decoration: none;"&gt;Swiss Army Rubyknife&lt;/a&gt;, on YouTube at your convenience.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;strong&gt;&lt;a href="https://allremoteconfs.com" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; for next year&amp;rsquo;s remote conference lineup!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://rubyremoteconf.com/" style="text-decoration:none;"&gt;Ruby Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; will run from &lt;strong&gt;March 23rd-25th 2016&lt;/strong&gt;. Buy a ticket or submit a CFP!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; is running from &lt;strong&gt;January 14th-16th 2016&lt;/strong&gt;. Check out the speaker lineup!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://allremoteconfs.com/freelance-2016" style="text-decoration:none;"&gt;Freelance Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; will run from &lt;strong&gt;February 24th-26th&lt;/strong&gt;. We&amp;rsquo;ve already got a great list of confirmed speakers. Stay tuned for more details!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;We, the Ruby Rogues panelists (And, &lt;/span&gt;&lt;strong&gt;&lt;a href="http://twitter.com/therubyrep" style="text-decoration:none;"&gt;Mandy&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!), wish you a very happy holiday season.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>46:34</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR239RRCPeterCooper.mp3?rss=true" length="44704681" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>238 RR Refactoring</title>
+      <link>https://devchat.tv/ruby-rogues/238-rr-refactoring</link>
+      <pubDate>Wed, 16 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and submit a &lt;/span&gt;&lt;a href="https://rubyremoteconf.com/" style="text-decoration:none;"&gt;Ruby Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; CFP!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:26 - Refactoring (Definition) and Where People Fail&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:55 - Tests and Refactoring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;How do you decide when your codebase is untestable?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:59 - Managing Scope&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;11:42 - Why We Refactor; The Value of Refactoring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=AcdliNixNhs" style="text-decoration:none;"&gt;Coraline&amp;#39;s Data-Driven Refactoring Talk&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;17:13 - Refactoring Tools &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:40 - When Refactoring Gets Put Off; Establishing a Code Culture&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:23 - Refactoring Strategies&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://refactoring.com/catalog/extractMethod.html" style="text-decoration:none;"&gt;Extract Method&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://refactoring.com/catalog/extractClass.html" style="text-decoration:none;"&gt;Extract Class&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Introduce Explaining Variable&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:38 - Performance Tradeoffs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:42 - &lt;/span&gt;&lt;a href="http://www.pivotaltracker.com/community/tracker-blog/generative-testing" style="text-decoration:none;"&gt;Generative Testing&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/kytrinyx/approvals" style="text-decoration:none;"&gt;approvals&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;50:33 - Measurement&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;53:08 - Examples and Resources&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://refactoring.com/catalog/" style="text-decoration:none;"&gt;Martin Fowler: Catalog of Refactorings&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Refactoring-Ruby-Edition-Addison-Wesley-Professional/dp/0321984137" style="text-decoration:none;"&gt;Refactoring: Ruby Edition by Jay Fields&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=J4dlF0kcThQ" style="text-decoration:none;"&gt;Katrina Owen: Therapeutic Refactoring @ Cascadia Ruby Conf 2012&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://confreaks.tv/videos/lonestarruby2013-fluent-refactoring" style="text-decoration:none;"&gt;Sam Livingston-Gray: Fluent Refactoring @ LoneStarRuby 2013&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.netflix.com/title/70269479" style="text-decoration:none;"&gt;Longmire&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://supercell.com/en/games/clashofclans/" style="text-decoration:none;"&gt;Clash of Clans&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.starwars.com/games-apps/star-wars-commander" style="text-decoration:none;"&gt;Star Wars Commander&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Cleaning your office (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=AcdliNixNhs" style="text-decoration:none;"&gt;Hsing-Hui Hsu: Time flies like an arrow; Fruit flies like a banana: Parsers for Great Good @ RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://confreaks.tv/videos/rubyconf2015-s-regex-dsls-what-regex-teaches-us-about-dsl-design" style="text-decoration:none;"&gt;Betsy Haibel: s/regex/DSLs/: What Regex Teaches Us About DSL Design @ RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://conferences.oreilly.com/velocity/devops-web-performance-ca/public/cfp/430" style="text-decoration:none;"&gt;Velocity 2016 Call for speakers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Saron)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://rubycentral-cfp.herokuapp.com/events/railsconf2016" style="text-decoration:none;"&gt;RailsConf 2016&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Saron)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author></author>
+      <guid isPermalink="false">ea7dd33f-e22a-43e8-a981-ca9488621364</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and submit a &lt;/span&gt;&lt;a href="https://rubyremoteconf.com/" style="text-decoration:none;"&gt;Ruby Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; CFP!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:26 - Refactoring (Definition) and Where People Fail&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:55 - Tests and Refactoring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;How do you decide when your codebase is untestable?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:59 - Managing Scope&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;11:42 - Why We Refactor; The Value of Refactoring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=AcdliNixNhs" style="text-decoration:none;"&gt;Coraline&amp;#39;s Data-Driven Refactoring Talk&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;17:13 - Refactoring Tools &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:40 - When Refactoring Gets Put Off; Establishing a Code Culture&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:23 - Refactoring Strategies&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://refactoring.com/catalog/extractMethod.html" style="text-decoration:none;"&gt;Extract Method&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://refactoring.com/catalog/extractClass.html" style="text-decoration:none;"&gt;Extract Class&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Introduce Explaining Variable&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:38 - Performance Tradeoffs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:42 - &lt;/span&gt;&lt;a href="http://www.pivotaltracker.com/community/tracker-blog/generative-testing" style="text-decoration:none;"&gt;Generative Testing&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/kytrinyx/approvals" style="text-decoration:none;"&gt;approvals&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;50:33 - Measurement&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;53:08 - Examples and Resources&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://refactoring.com/catalog/" style="text-decoration:none;"&gt;Martin Fowler: Catalog of Refactorings&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Refactoring-Ruby-Edition-Addison-Wesley-Professional/dp/0321984137" style="text-decoration:none;"&gt;Refactoring: Ruby Edition by Jay Fields&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=J4dlF0kcThQ" style="text-decoration:none;"&gt;Katrina Owen: Therapeutic Refactoring @ Cascadia Ruby Conf 2012&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://confreaks.tv/videos/lonestarruby2013-fluent-refactoring" style="text-decoration:none;"&gt;Sam Livingston-Gray: Fluent Refactoring @ LoneStarRuby 2013&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.netflix.com/title/70269479" style="text-decoration:none;"&gt;Longmire&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://supercell.com/en/games/clashofclans/" style="text-decoration:none;"&gt;Clash of Clans&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.starwars.com/games-apps/star-wars-commander" style="text-decoration:none;"&gt;Star Wars Commander&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Cleaning your office (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=AcdliNixNhs" style="text-decoration:none;"&gt;Hsing-Hui Hsu: Time flies like an arrow; Fruit flies like a banana: Parsers for Great Good @ RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://confreaks.tv/videos/rubyconf2015-s-regex-dsls-what-regex-teaches-us-about-dsl-design" style="text-decoration:none;"&gt;Betsy Haibel: s/regex/DSLs/: What Regex Teaches Us About DSL Design @ RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://conferences.oreilly.com/velocity/devops-web-performance-ca/public/cfp/430" style="text-decoration:none;"&gt;Velocity 2016 Call for speakers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Saron)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://rubycentral-cfp.herokuapp.com/events/railsconf2016" style="text-decoration:none;"&gt;RailsConf 2016&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Saron)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:01:03</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR238Refactoring.mp3?rss=true" length="58611385" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>237 RR Rails + JavaScript + Functional Programming with Brad Urani</title>
+      <link>https://devchat.tv/ruby-rogues/237-rr-rails-javascript-functional-programming-with-brad-urani</link>
+      <pubDate>Wed, 09 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:32 - Brad Urani Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/bradurani" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/bradurani" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://fractalbanana.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.procore.com/" style="text-decoration:none;"&gt;Procore&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:01 - Immutable/Persistent Data Structures; Advantages&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=gTClDj9Zl1g" style="text-decoration:none;"&gt;Changing the Unchangeable: The Hows and Whys of Immutable Data Structures @ RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/hamstergem/hamster" style="text-decoration:none;"&gt;hamster&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:30 - Tools for Debugging&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:23 - Why do Rubyists care about things like &lt;/span&gt;&lt;a href="http://elm-lang.org/" style="text-decoration:none;"&gt;Elm&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;09:39 - Persistent Data Structure Use Cases; Functional Programming&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:07 - Testability&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:51 - Where does &amp;ldquo;functional play a role in a typical CRUD app?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://guides.rubyonrails.org/active_record_basics.html" style="text-decoration:none;"&gt;Active Record&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;, &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Single_responsibility_principle" style="text-decoration:none;"&gt;The Single Responsibility Principle&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (SRP)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Callbacks&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Object-oriented_programming" style="text-decoration:none;"&gt;Object-oriented Programming&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (OOP)&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Nouns are objects; verbs are methods&amp;rdquo; - &lt;/span&gt;&lt;a href="https://twitter.com/coreyhaines" style="text-decoration:none;"&gt;Corey Haines&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:49 - Coworker Receptiveness of Ruby + JavaScript Style of Programming&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Codebase Inconsistency?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Merit&amp;rdquo;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:41 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Service-oriented_architecture" style="text-decoration:none;"&gt;Service-oriented Architecture&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (SOA) vs &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Monolithic_application" style="text-decoration:none;"&gt;Monolithic Applications&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Remote_procedure_call" style="text-decoration:none;"&gt;Remote Procedure Calls&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (RPC)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Representational_state_transfer" style="text-decoration:none;"&gt;Representational State Transfer (REST)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;30:21 - Monoliths as a Necessary Stage in the Development of a Mature Application&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.phoenixframework.org/" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;The Phoenix Framework&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://github.com/elixir-lang/ecto" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;ecto&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:23 - &lt;/span&gt;&lt;a href="http://martinfowler.com/eaaCatalog/repository.html" style="text-decoration:none;"&gt;The Repository Pattern&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;; Terminology &amp;amp; Naming&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420" style="text-decoration:none;"&gt;Patterns of Enterprise Application Architecture by Martin Fowler&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:40 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/SQL" style="text-decoration:none;"&gt;Structured Query Language&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (SQL)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=T7gNZK8TdaM&amp;amp;feature=youtu.be" style="text-decoration:none;"&gt;Avdi Grimm: The Soul of Software @ RubyConf Portugal &amp;#39;15&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Linguistic_relativity" style="text-decoration:none;"&gt;The Sapir Whorf Hypothesis&lt;/a&gt;&amp;#39;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://itunes.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861?mt=2&amp;amp;ign-mpt=uo%3D4" style="text-decoration:none;"&gt;Dan Carlin&amp;#39;s Hardcore History&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://itunes.apple.com/us/podcast/stuff-you-missed-in-history/id283605519?mt=2&amp;amp;ign-mpt=uo%3D4" style="text-decoration:none;"&gt;Stuff You Missed in History Class&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://buffer.com/" style="text-decoration:none;"&gt;Buffer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.newbelgium.com/beer/accumulation" style="text-decoration:none;"&gt;New Belgium Brewing Accumulation White IPA&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/B014Q9YUKG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B014Q9YUKG&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=4NIXHMESSKXQIFLD" style="text-decoration:none;"&gt;Saramonic SmartMixer Professional Recording Stereo Microphone Rig&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.launchcode.org/" style="text-decoration:none;"&gt;LaunchCode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brad)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1400075998/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1400075998&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=H4FT6VHKHLVJRPSS" style="text-decoration:none;"&gt;Turing&amp;#39;s Cathedral: The Origins of the Digital Universe by George Dyson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.vat19.com/" style="text-decoration:none;"&gt;VAT19&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brad)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author></author>
+      <guid isPermalink="false">6cc9c3d6-03a1-41ba-9a11-17d7467981f9</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:32 - Brad Urani Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/bradurani" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/bradurani" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://fractalbanana.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.procore.com/" style="text-decoration:none;"&gt;Procore&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:01 - Immutable/Persistent Data Structures; Advantages&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=gTClDj9Zl1g" style="text-decoration:none;"&gt;Changing the Unchangeable: The Hows and Whys of Immutable Data Structures @ RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/hamstergem/hamster" style="text-decoration:none;"&gt;hamster&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:30 - Tools for Debugging&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:23 - Why do Rubyists care about things like &lt;/span&gt;&lt;a href="http://elm-lang.org/" style="text-decoration:none;"&gt;Elm&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;09:39 - Persistent Data Structure Use Cases; Functional Programming&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:07 - Testability&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:51 - Where does &amp;ldquo;functional play a role in a typical CRUD app?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://guides.rubyonrails.org/active_record_basics.html" style="text-decoration:none;"&gt;Active Record&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;, &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Single_responsibility_principle" style="text-decoration:none;"&gt;The Single Responsibility Principle&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (SRP)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Callbacks&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Object-oriented_programming" style="text-decoration:none;"&gt;Object-oriented Programming&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (OOP)&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Nouns are objects; verbs are methods&amp;rdquo; - &lt;/span&gt;&lt;a href="https://twitter.com/coreyhaines" style="text-decoration:none;"&gt;Corey Haines&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:49 - Coworker Receptiveness of Ruby + JavaScript Style of Programming&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Codebase Inconsistency?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Merit&amp;rdquo;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:41 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Service-oriented_architecture" style="text-decoration:none;"&gt;Service-oriented Architecture&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (SOA) vs &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Monolithic_application" style="text-decoration:none;"&gt;Monolithic Applications&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Remote_procedure_call" style="text-decoration:none;"&gt;Remote Procedure Calls&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (RPC)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Representational_state_transfer" style="text-decoration:none;"&gt;Representational State Transfer (REST)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;30:21 - Monoliths as a Necessary Stage in the Development of a Mature Application&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.phoenixframework.org/" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;The Phoenix Framework&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://github.com/elixir-lang/ecto" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;ecto&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:23 - &lt;/span&gt;&lt;a href="http://martinfowler.com/eaaCatalog/repository.html" style="text-decoration:none;"&gt;The Repository Pattern&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;; Terminology &amp;amp; Naming&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420" style="text-decoration:none;"&gt;Patterns of Enterprise Application Architecture by Martin Fowler&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:40 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/SQL" style="text-decoration:none;"&gt;Structured Query Language&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (SQL)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=T7gNZK8TdaM&amp;amp;feature=youtu.be" style="text-decoration:none;"&gt;Avdi Grimm: The Soul of Software @ RubyConf Portugal &amp;#39;15&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Linguistic_relativity" style="text-decoration:none;"&gt;The Sapir Whorf Hypothesis&lt;/a&gt;&amp;#39;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://itunes.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861?mt=2&amp;amp;ign-mpt=uo%3D4" style="text-decoration:none;"&gt;Dan Carlin&amp;#39;s Hardcore History&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://itunes.apple.com/us/podcast/stuff-you-missed-in-history/id283605519?mt=2&amp;amp;ign-mpt=uo%3D4" style="text-decoration:none;"&gt;Stuff You Missed in History Class&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://buffer.com/" style="text-decoration:none;"&gt;Buffer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.newbelgium.com/beer/accumulation" style="text-decoration:none;"&gt;New Belgium Brewing Accumulation White IPA&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/B014Q9YUKG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B014Q9YUKG&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=4NIXHMESSKXQIFLD" style="text-decoration:none;"&gt;Saramonic SmartMixer Professional Recording Stereo Microphone Rig&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.launchcode.org/" style="text-decoration:none;"&gt;LaunchCode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brad)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1400075998/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1400075998&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=H4FT6VHKHLVJRPSS" style="text-decoration:none;"&gt;Turing&amp;#39;s Cathedral: The Origins of the Digital Universe by George Dyson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.vat19.com/" style="text-decoration:none;"&gt;VAT19&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brad)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>57:02</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR237BradUrani.mp3?rss=true " length="54766626" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>236 RR Neo4j with Brian Underwood</title>
+      <link>https://devchat.tv/ruby-rogues/236-rr-neo4j-with-brian-underwood</link>
+      <pubDate>Wed, 02 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:10 - Brian Underwood Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/cheerfulstoic" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/cheerfulstoic" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.brian-underwood.codes/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://neo4j.com/" style="text-decoration:none;"&gt;Neo Technology&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:55 - &lt;/span&gt;&lt;a href="http://neo4j.com/" style="text-decoration:none;"&gt;Neo4j&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/neo4j" style="text-decoration:none;"&gt;Neo4j [GitHub]&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:31 - Graph Databases vs Traditional Databases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:02 - Relations Have Directions&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:58 - Modeling a Domain as a Graph; How it Works&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://neo4j.com/developer/cypher/"&gt;&lt;span style="font-size:14px"&gt;cypher&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:25 - Built-in Query Processor&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:04 - &lt;/span&gt;&lt;a href="http://neo4jrb.io/" style="text-decoration:none;"&gt;Neo4j.rb&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; =&amp;gt; ORM; OGM&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/mongodb/mongoid" style="text-decoration:none;"&gt;Mongoid&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Influence&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;18:06 - Declarative Schema &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:09 - The Ruby Client vs The Java Client&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;25:48 - Use Cases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:53 - Who is using Neo4j?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=nrwIYyygBec" style="text-decoration:none;"&gt;Ashley Sun Lending Club: Managing Microservices with Neo4j @ GraphConnect SF 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;38:42 - Challenges as an Open Source Maintainer&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;39:44 - Funding Neo4j&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:00 - Working Abroad&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:16 - Getting Started with Neo4j&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://neo4j.com/developer/ruby-course/" style="text-decoration:none;"&gt;Getting Started with Neo4j and Ruby&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=n0P0pOP34Mw" style="text-decoration:none;"&gt;Neo4j Screencasts&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://neo4j.com/developer/get-started/" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;Neo4j.com/developer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14px"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/neo4j" style="text-decoration:none;"&gt;Neo4j [GitHub]&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0#.ozrbgx7uy" style="text-decoration:none;"&gt;Elle Luna: The Crossroads of Should and Must&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://lynda.com" style="text-decoration:none;"&gt;Lynda Tutorials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0671027034&amp;amp;linkCode=as2&amp;amp;tag=devchattv-20&amp;amp;linkId=BUKYYLYQ2P7B5ASR" style="text-decoration:none;"&gt;How to Win Friends &amp;amp; Influence People by Dale Carnegie&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://marked2app.com" style="text-decoration:none;"&gt;Marked 2&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://joinfundclub.com" style="text-decoration:none;"&gt;Fund Club&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.rubytapas.com/episodes/334-Rspec-Compound-Matchers" style="text-decoration:none;"&gt;RubyTapas #334: Rspec Compound Matchers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brian)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.mnn.com/earth-matters/wilderness-resources/stories/what-in-the-world-is-this-whale-sized-tubular-sea-monster" style="text-decoration:none;"&gt;Pyrosomes&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brian)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=JEYh5WACqEk" style="text-decoration:none;"&gt;Americapox: The Missing Plague&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brian)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author></author>
+      <guid isPermalink="false">525e0d99-c680-47aa-995c-eff7b7a1d962</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:10 - Brian Underwood Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/cheerfulstoic" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/cheerfulstoic" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.brian-underwood.codes/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://neo4j.com/" style="text-decoration:none;"&gt;Neo Technology&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:55 - &lt;/span&gt;&lt;a href="http://neo4j.com/" style="text-decoration:none;"&gt;Neo4j&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/neo4j" style="text-decoration:none;"&gt;Neo4j [GitHub]&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:31 - Graph Databases vs Traditional Databases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:02 - Relations Have Directions&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:58 - Modeling a Domain as a Graph; How it Works&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://neo4j.com/developer/cypher/"&gt;&lt;span style="font-size:14px"&gt;cypher&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:25 - Built-in Query Processor&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:04 - &lt;/span&gt;&lt;a href="http://neo4jrb.io/" style="text-decoration:none;"&gt;Neo4j.rb&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; =&amp;gt; ORM; OGM&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/mongodb/mongoid" style="text-decoration:none;"&gt;Mongoid&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Influence&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;18:06 - Declarative Schema &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:09 - The Ruby Client vs The Java Client&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;25:48 - Use Cases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:53 - Who is using Neo4j?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=nrwIYyygBec" style="text-decoration:none;"&gt;Ashley Sun Lending Club: Managing Microservices with Neo4j @ GraphConnect SF 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;38:42 - Challenges as an Open Source Maintainer&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;39:44 - Funding Neo4j&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:00 - Working Abroad&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:16 - Getting Started with Neo4j&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://neo4j.com/developer/ruby-course/" style="text-decoration:none;"&gt;Getting Started with Neo4j and Ruby&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=n0P0pOP34Mw" style="text-decoration:none;"&gt;Neo4j Screencasts&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://neo4j.com/developer/get-started/" style="font-size: 14px; line-height: 1.6; text-decoration: none;"&gt;Neo4j.com/developer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14px"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/neo4j" style="text-decoration:none;"&gt;Neo4j [GitHub]&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0#.ozrbgx7uy" style="text-decoration:none;"&gt;Elle Luna: The Crossroads of Should and Must&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://lynda.com" style="text-decoration:none;"&gt;Lynda Tutorials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0671027034/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0671027034&amp;amp;linkCode=as2&amp;amp;tag=devchattv-20&amp;amp;linkId=BUKYYLYQ2P7B5ASR" style="text-decoration:none;"&gt;How to Win Friends &amp;amp; Influence People by Dale Carnegie&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://marked2app.com" style="text-decoration:none;"&gt;Marked 2&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://joinfundclub.com" style="text-decoration:none;"&gt;Fund Club&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.rubytapas.com/episodes/334-Rspec-Compound-Matchers" style="text-decoration:none;"&gt;RubyTapas #334: Rspec Compound Matchers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brian)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.mnn.com/earth-matters/wilderness-resources/stories/what-in-the-world-is-this-whale-sized-tubular-sea-monster" style="text-decoration:none;"&gt;Pyrosomes&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brian)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=JEYh5WACqEk" style="text-decoration:none;"&gt;Americapox: The Missing Plague&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Brian)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>52:05</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR236Neo4j.mp3?rss=true" length="50008128" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>235 RR Processing Textual Data with Ruby with Rob Miller</title>
+      <link>https://devchat.tv/ruby-rogues/235-rr-processing-textual-data-with-ruby-with-rob-miller</link>
+      <pubDate>Wed, 25 Nov 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:07 - Rob Miller Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/robmil/" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/robmiller" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://robm.me.uk/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://bigfishmarketing.com/" style="text-decoration:none;"&gt;Big Fish Marketing&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://pragprog.com/book/rmtpruby/text-processi" style="text-decoration:none;"&gt;Text Processing with Ruby: Extracting Value from the Data That Surrounds You with Rob Miller&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:11 - Why does text processing matter?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:32 - One-off Data Processing, Core Competency&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.perl.org/" style="text-decoration:none;"&gt;The Perl Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:36 - Processing Less-structured, Unstructured Data&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:45 - The Command Line &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://robm.me.uk/ruby/2013/11/20/ruby-enp.html" style="text-decoration:none;"&gt;Ruby&amp;#39;s -e, -n and -p switches&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Antipatterns&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://ruby-doc.org/core-2.2.3/IO.html#method-i-each_line" style="text-decoration:none;"&gt;Class: IO&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:15 - Abstractions and Refactoring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:12 - Munging: Tools and Practices&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/solnic/transproc" style="text-decoration:none;"&gt;transproc&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:57 - Text Processing for Textual Visual Things&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" style="text-decoration:none;"&gt;Conway&amp;#39;s Game of Life&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:57 - Parallelization &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;45:45 - Fanning Data&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Join_(Unix)" style="text-decoration:none;"&gt;join&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://pragprog.com/book/rmtpruby/text-processi" style="text-decoration:none;"&gt;Text Processing with Ruby: Extracting Value from the Data That Surrounds You with Rob Miller&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://tinyletter.com/data-is-plural" style="text-decoration:none;"&gt;Data Is Plural by Jeremy Singer-Vine&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/playlist?list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp" style="text-decoration:none;"&gt;RubyConf 2015 Videos&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://paperswelove.org" style="text-decoration:none;"&gt;Papers We Love&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/solnic/transproc" style="text-decoration:none;"&gt;transproc&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://yourdatafitsinram.com/" style="text-decoration:none;"&gt;Does your data fit in RAM?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/rranelli/advisor" style="text-decoration:none;"&gt;advisor&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://swarmsim.github.io" style="text-decoration:none;"&gt;Swarm Simulator&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://rubyrogues.com/15minutes" style="text-decoration:none;"&gt;15 Minute Podcast Listener chat with Charles Wood&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.toastmasters.org/" style="text-decoration:none;"&gt;Toastmasters&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Conferences&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/solnic/transproc" style="line-height: 20.8px; text-decoration: none;"&gt;transproc&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp;(Rob)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://sequel.jeremyevans.net/" style="line-height: 20.8px; text-decoration: none;"&gt;Sequel: The Database Toolkit for Ruby&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp;(Rob)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0809078813/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0809078813&amp;amp;linkCode=as2&amp;amp;tag=devchattv-20&amp;amp;linkId=YA6PADPIOOCIQUSN" style="text-decoration:none;"&gt;Priceless: The Myth of Fair Value (and How to Take Advantage of It) by William Poundstone&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Rob)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author></author>
+      <guid isPermalink="false">93b58fbb-4f5a-4898-95a4-2e7ecaeeacd2</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:07 - Rob Miller Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/robmil/" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/robmiller" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://robm.me.uk/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://bigfishmarketing.com/" style="text-decoration:none;"&gt;Big Fish Marketing&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://pragprog.com/book/rmtpruby/text-processi" style="text-decoration:none;"&gt;Text Processing with Ruby: Extracting Value from the Data That Surrounds You with Rob Miller&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:11 - Why does text processing matter?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;07:32 - One-off Data Processing, Core Competency&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.perl.org/" style="text-decoration:none;"&gt;The Perl Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:36 - Processing Less-structured, Unstructured Data&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:45 - The Command Line &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://robm.me.uk/ruby/2013/11/20/ruby-enp.html" style="text-decoration:none;"&gt;Ruby&amp;#39;s -e, -n and -p switches&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Antipatterns&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://ruby-doc.org/core-2.2.3/IO.html#method-i-each_line" style="text-decoration:none;"&gt;Class: IO&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:15 - Abstractions and Refactoring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:12 - Munging: Tools and Practices&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/solnic/transproc" style="text-decoration:none;"&gt;transproc&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:57 - Text Processing for Textual Visual Things&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" style="text-decoration:none;"&gt;Conway&amp;#39;s Game of Life&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:57 - Parallelization &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;45:45 - Fanning Data&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Join_(Unix)" style="text-decoration:none;"&gt;join&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://pragprog.com/book/rmtpruby/text-processi" style="text-decoration:none;"&gt;Text Processing with Ruby: Extracting Value from the Data That Surrounds You with Rob Miller&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://tinyletter.com/data-is-plural" style="text-decoration:none;"&gt;Data Is Plural by Jeremy Singer-Vine&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/playlist?list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp" style="text-decoration:none;"&gt;RubyConf 2015 Videos&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://paperswelove.org" style="text-decoration:none;"&gt;Papers We Love&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/solnic/transproc" style="text-decoration:none;"&gt;transproc&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://yourdatafitsinram.com/" style="text-decoration:none;"&gt;Does your data fit in RAM?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/rranelli/advisor" style="text-decoration:none;"&gt;advisor&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://swarmsim.github.io" style="text-decoration:none;"&gt;Swarm Simulator&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://rubyrogues.com/15minutes" style="text-decoration:none;"&gt;15 Minute Podcast Listener chat with Charles Wood&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.toastmasters.org/" style="text-decoration:none;"&gt;Toastmasters&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Conferences&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/solnic/transproc" style="line-height: 20.8px; text-decoration: none;"&gt;transproc&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp;(Rob)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://sequel.jeremyevans.net/" style="line-height: 20.8px; text-decoration: none;"&gt;Sequel: The Database Toolkit for Ruby&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp;(Rob)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0809078813/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0809078813&amp;amp;linkCode=as2&amp;amp;tag=devchattv-20&amp;amp;linkId=YA6PADPIOOCIQUSN" style="text-decoration:none;"&gt;Priceless: The Myth of Fair Value (and How to Take Advantage of It) by William Poundstone&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Rob)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:03:14</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR235TextProcessing.mp3?rss=true" length="60719191" type="audio/mpeg"/>
+    </item>
+
+
+
+    <item>
+      <title>234 RR Beyond Code with Jerod Santo and Adam Stacoviak</title>
+      <link>https://devchat.tv/ruby-rogues/234-rr-beyond-code-with-jerod-santo-and-adam-stacoviak</link>
+      <pubDate>Wed, 18 Nov 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:28 - Jerod Santo Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/jerodsanto" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/jerodsanto" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jerodsanto.net/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://objectlateral.com/" style="text-decoration:none;"&gt;Object Lateral, Inc.&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:44 - Adam Stacoviak Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/adamstac" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/adamstac" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://adamstacoviak.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:55 - &lt;/span&gt;&lt;a href="https://changelog.com/" style="text-decoration:none;"&gt;The Changelog&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://beyondcode.tv/" style="text-decoration:none;"&gt;Beyond Code&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Background)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://5by5.tv/" style="text-decoration:none;"&gt;5by5&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/pengwynn" style="text-decoration:none;"&gt;Wynn Netherland&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/172/" style="text-decoration:none;"&gt;The Changelog #172: GitUp, Git UX, and More with Pierre-Olivier Latour&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/145/" style="text-decoration:none;"&gt;The Changelog #145: 10+ Years of Rails with DHH&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/139/" style="text-decoration:none;"&gt;The Changelog #139: The Rise of io.js with Mikeal Rogers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/155/" style="text-decoration:none;"&gt;The Changelog #155: The Future of Node.js with Scott Hammond&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers" style="text-decoration:none;"&gt;JavaScript Jabber #147: io.js with Isaac Schlueter and Mikeal Rogers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:50 - The Corporatization of Open Source&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:00 - Sharing Stories of Fascinating People and Choosing Conferences&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.gophercon.com/" style="text-decoration:none;"&gt;Gophercon&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:21 - Differences Between Communities&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;u&gt;&lt;a href="https://twitter.com/deadprogram" style="text-decoration:none;"&gt;Ron Evans&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/ruby-rogues/141-rr-teaching-kids-with-ron-evans" style="line-height: 1.6; text-decoration: none;"&gt;Ruby Rogues Episode #141: Teaching Kids with Ron Evans&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;24:54 - Where are The Changelog and Beyond Code&amp;rsquo;s future plans?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;u&gt;&lt;a href="http://conferences.oreilly.com/oscon/open-source" style="text-decoration:none;"&gt;OSCON&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.thestrangeloop.com/" style="line-height: 1.6; text-decoration: none;"&gt;Strange Loop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Questions:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Who is your programming hero?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;If you had to relearn how to code all over again, what would you tell yourself?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;What&amp;rsquo;s the most exciting thing in software right now?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:57 - Interview Wishlist&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20 Years of Ruby with Matz&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20 Years of JavaScript with Brendan Eich&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Bill O&amp;rsquo;Reilly&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Linus Torvalds&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10 Years of Git with Junio Hamano&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Apple: &lt;/span&gt;&lt;a href="http://www.apple.com/researchkit/" style="text-decoration:none;"&gt;ResearchKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Sara Chipps&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:43 - Origin Stories&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Mitchell Hashimoto&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/180/" style="text-decoration:none;"&gt;The Changelog #180: Otto, Vagrant, and Automation with Mitchell Hashimoto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.firstlegoleague.org/" style="text-decoration:none;"&gt;LEGO League&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights.html" style="text-decoration:none;"&gt;Personality Insights&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/1622030613/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1622030613&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=CDIQG5XRZTDJJPIF" style="text-decoration:none;"&gt;The Art of Empathy: A Complete Guide to Life&amp;#39;s Most Essential Skill by Karla McLaren&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://familysearch.org/" style="text-decoration:none;"&gt;FamilySearch&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Snow (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://districtroasters.com/" style="text-decoration:none;"&gt;DISTRICT Roasters&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Adam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://us.thebalvenie.com/" style="text-decoration:none;"&gt;The Balvenie&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Adam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://thewhiskeyjug.com/scotch-whiskey/lismore-speyside-single-malt-review/" style="text-decoration:none;"&gt;Lismore Scotch&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Adam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://soundcloud.com/elixirfountain" style="text-decoration:none;"&gt;The Elixir Fountain&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jerod)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://www.theincomparable.com/robot/" style="text-decoration:none;"&gt;Robot or Not?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jerod)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://songexploder.net/" style="text-decoration:none;"&gt;Song Exploder&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jerod)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author></author>
+      <guid isPermalink="false">f909afcd-4e21-403d-962d-6117c820c2d0</guid>
+      <itunes:author></itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:28 - Jerod Santo Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/jerodsanto" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/jerodsanto" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jerodsanto.net/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://objectlateral.com/" style="text-decoration:none;"&gt;Object Lateral, Inc.&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:44 - Adam Stacoviak Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/adamstac" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/adamstac" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://adamstacoviak.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:55 - &lt;/span&gt;&lt;a href="https://changelog.com/" style="text-decoration:none;"&gt;The Changelog&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://beyondcode.tv/" style="text-decoration:none;"&gt;Beyond Code&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Background)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://5by5.tv/" style="text-decoration:none;"&gt;5by5&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/pengwynn" style="text-decoration:none;"&gt;Wynn Netherland&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/172/" style="text-decoration:none;"&gt;The Changelog #172: GitUp, Git UX, and More with Pierre-Olivier Latour&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/145/" style="text-decoration:none;"&gt;The Changelog #145: 10+ Years of Rails with DHH&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/139/" style="text-decoration:none;"&gt;The Changelog #139: The Rise of io.js with Mikeal Rogers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/155/" style="text-decoration:none;"&gt;The Changelog #155: The Future of Node.js with Scott Hammond&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers" style="text-decoration:none;"&gt;JavaScript Jabber #147: io.js with Isaac Schlueter and Mikeal Rogers&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:50 - The Corporatization of Open Source&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:00 - Sharing Stories of Fascinating People and Choosing Conferences&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.gophercon.com/" style="text-decoration:none;"&gt;Gophercon&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;21:21 - Differences Between Communities&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;u&gt;&lt;a href="https://twitter.com/deadprogram" style="text-decoration:none;"&gt;Ron Evans&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/ruby-rogues/141-rr-teaching-kids-with-ron-evans" style="line-height: 1.6; text-decoration: none;"&gt;Ruby Rogues Episode #141: Teaching Kids with Ron Evans&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;24:54 - Where are The Changelog and Beyond Code&amp;rsquo;s future plans?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;u&gt;&lt;a href="http://conferences.oreilly.com/oscon/open-source" style="text-decoration:none;"&gt;OSCON&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.thestrangeloop.com/" style="line-height: 1.6; text-decoration: none;"&gt;Strange Loop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Questions:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Who is your programming hero?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;If you had to relearn how to code all over again, what would you tell yourself?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;What&amp;rsquo;s the most exciting thing in software right now?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:57 - Interview Wishlist&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20 Years of Ruby with Matz&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20 Years of JavaScript with Brendan Eich&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Bill O&amp;rsquo;Reilly&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Linus Torvalds&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10 Years of Git with Junio Hamano&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Apple: &lt;/span&gt;&lt;a href="http://www.apple.com/researchkit/" style="text-decoration:none;"&gt;ResearchKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Sara Chipps&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:43 - Origin Stories&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Mitchell Hashimoto&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://changelog.com/180/" style="text-decoration:none;"&gt;The Changelog #180: Otto, Vagrant, and Automation with Mitchell Hashimoto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.firstlegoleague.org/" style="text-decoration:none;"&gt;LEGO League&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights.html" style="text-decoration:none;"&gt;Personality Insights&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/1622030613/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1622030613&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=CDIQG5XRZTDJJPIF" style="text-decoration:none;"&gt;The Art of Empathy: A Complete Guide to Life&amp;#39;s Most Essential Skill by Karla McLaren&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://familysearch.org/" style="text-decoration:none;"&gt;FamilySearch&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Snow (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://districtroasters.com/" style="text-decoration:none;"&gt;DISTRICT Roasters&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Adam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://us.thebalvenie.com/" style="text-decoration:none;"&gt;The Balvenie&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Adam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://thewhiskeyjug.com/scotch-whiskey/lismore-speyside-single-malt-review/" style="text-decoration:none;"&gt;Lismore Scotch&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Adam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://soundcloud.com/elixirfountain" style="text-decoration:none;"&gt;The Elixir Fountain&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jerod)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://www.theincomparable.com/robot/" style="text-decoration:none;"&gt;Robot or Not?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jerod)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://songexploder.net/" style="text-decoration:none;"&gt;Song Exploder&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jerod)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>54:29</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR234BeyondCode.mp3?rss=true" length="52313612" type="audio/mpeg"/>
+    </item>
 
 
 

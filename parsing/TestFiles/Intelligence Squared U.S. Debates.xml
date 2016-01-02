@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="http://iq2.iq2us.libsynpro.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Intelligence Squared U.S. Debates</title>
-		<pubDate>Mon, 09 Nov 2015 11:00:00 +0000</pubDate>
-		<lastBuildDate>Mon, 09 Nov 2015 13:17:16 +0000</lastBuildDate>
+		<pubDate>Wed, 09 Dec 2015 11:00:00 +0000</pubDate>
+		<lastBuildDate>Wed, 16 Dec 2015 20:12:05 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>http://intelligencesquaredus.org/</link>
 		<language>en</language>
@@ -33,6 +33,45 @@
 		<itunes:subtitle><![CDATA[Intelligence Squared U.S. Debates bring Oxford-style debate to America – one motion, one moderator, two panelists for the motion and two against.]]></itunes:subtitle>
 		<!-- START CHANNEL EXTRA TAGS -->
 <itunes:new-feed-url>http://iq2.iq2us.libsynpro.com/rss</itunes:new-feed-url><!-- CLOSE CHANNEL EXTRA TAGS -->
+		<item>
+			<title>Does the Equal Protection Clause Forbid Racial Preferences in State University Admissions?</title>
+			<pubDate>Wed, 09 Dec 2015 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c34910775adc5239072fb1a1bac06dfb]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/iq2/Debate__Racial_Preferences_-_Podcast.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/a/0/4/9/a0495ffe286d44c0/AffirmativeAction398x239.jpg" />
+			<description><![CDATA[The Fourteenth Amendment to the U.S. Constitution provides that: "No State shall … deny to any person within its jurisdiction the equal protection of the laws.” Yet many state universities give substantial preferences to certain races in their admissions decisions. In Regents of the University of California v. Bakke (1978), the Supreme Court approved such preferences, but the case was close, and controversial, and the question will be back before the Supreme Court this term. One side may argue that these preferences level the playing field, remedy prior discrimination, and enhance diversity within the classroom, thus redeeming the true promise of equal protection. But the other may say that these preferences – in favor of some races, at the expense of others – are racial discrimination pure and simple, the precise evil that the Equal Protection Clause was intended to forbid.]]></description>
+			<enclosure length="25174988" type="audio/mpeg" url="http://traffic.libsyn.com/iq2/Debate__Racial_Preferences_-_Podcast.mp3" />
+			<itunes:duration>52:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>john,action,intelligence,us,debate,preferences,squared,racial,admissions,affirmative,donvan,intelligencesquared,iq2us</itunes:keywords>
+			<itunes:subtitle><![CDATA[With Roger Clegg, Deborah Archer, Erwin Chemerinsky, and Stuart Taylor, Jr.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Can Central Banks Print Prosperity?</title>
+			<pubDate>Wed, 25 Nov 2015 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a10ded86fc146ebbf75a5c9ea75fea80]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/iq2/Debate__Central_Banks_-_Podcast.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/7/5/2/f7529d5435844ca9/CentralBanks398x239.jpg" />
+			<description><![CDATA[Central banks all around the world have been printing money. This policy, known as quantitative easing in banker jargon, has driven up the price of stocks and bonds. But will it lead to real and sustainable increases in global growth, or is it sowing the seeds of future inflation?]]></description>
+			<enclosure length="25717083" type="audio/mpeg" url="http://traffic.libsyn.com/iq2/Debate__Central_Banks_-_Podcast.mp3" />
+			<itunes:duration>53:35</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>john,intelligence,us,policy,debate,economy,recession,squared,fed,quantitative,easing,donvan,iq2us,ntelligencesquared</itunes:keywords>
+			<itunes:subtitle><![CDATA[With Roger Bootle, Edward Conard, Simon Johnson, and Andrew Huszar]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Do U.S. Prosecutors Have Too Much Power?</title>
+			<pubDate>Tue, 17 Nov 2015 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9d8aeacc96cad6aa76f645c05ae45628]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/iq2/Debate__Prosecutorial_Power_-_Podcast.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/6/3/2/d63206e6a0467ec9/Prosecutors398x239.jpg" />
+			<description><![CDATA[Autonomy and secrecy, complex criminal code and mandatory minimums -- in combination, these factors have given prosecutors enormous leverage, and the opportunity to wield it relentlessly and selectively. Do prosecutors have too much power? Would changes reducing the leverage of prosecutors in the criminal justice system weaken their critical responsibility to prosecute crimes and secure equal justice for all?]]></description>
+			<enclosure length="24242728" type="audio/mpeg" url="http://traffic.libsyn.com/iq2/Debate__Prosecutorial_Power_-_Podcast.mp3" />
+			<itunes:duration>50:31</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>john,intelligence,us,debate,squared,donvan,intelligencesquared,iq2us</itunes:keywords>
+			<itunes:subtitle><![CDATA[With Paul Butler, David Hoffman, Nancy Gertner, and Reid Schar]]></itunes:subtitle>
+					</item>
 		<item>
 			<title>Should College Students be Allowed to Take Smart Drugs?</title>
 			<pubDate>Mon, 09 Nov 2015 11:00:00 +0000</pubDate>

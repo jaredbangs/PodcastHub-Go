@@ -6,8 +6,8 @@
         <link>http://www.venturavineyard.org</link>
         <copyright>© Ventura Vineyard</copyright>
         <language>en</language>
-        <lastBuildDate>Sun, 08 Nov 2015 12:42:29 -0800</lastBuildDate>
-        <pubDate>Sun, 08 Nov 2015 12:39:12 -0800</pubDate>
+        <lastBuildDate>Sun, 27 Dec 2015 14:05:47 -0800</lastBuildDate>
+        <pubDate>Sun, 27 Dec 2015 14:05:27 -0800</pubDate>
         <generator>FeedForAll Mac v2.1 (2.1.0.1); http://www.FeedForAll.com/</generator>
         <itunes:subtitle>Sunday Messages and Bible teachings by Bob Harper and others from the Ventura Vineyard in Southern California.</itunes:subtitle>
         <itunes:summary>Sunday Messages and Bible teachings by Bob Harper and others from the Ventura Vineyard in Southern California.</itunes:summary>
@@ -22,6 +22,111 @@
         </itunes:owner>
         <itunes:image href="http://i.imgur.com/kRExE96.jpg" />
         <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Good News For Postmodern Man, An Introduction</title>
+            <description>12/27/15: Good News For Postmodern Man, An Introduction by Bob Harper</description>
+            <link>http://www.venturavineyard.org</link>
+            <enclosure url="http://venturavineyard.org/audio/12-27-15_GoodNewsForPostmodernMan-AnIntroduction.mp3" length="18454108" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">4CCEE5B3-96E4-427F-8DA2-1EAB4DEC3554-13715-000079DD87294AB2-FFA</guid>
+            <pubDate>Sun, 27 Dec 2015 09:00:00 -0800</pubDate>
+            <itunes:subtitle>Good News For Postmodern Man, An Introduction</itunes:subtitle>
+            <itunes:summary>12/27/15: Good News For Postmodern Man, An Introduction by Bob Harper</itunes:summary>
+            <itunes:duration>38:26</itunes:duration>
+            <itunes:keywords>Good News For Postmodern Man, An Introduction, Bob Harper</itunes:keywords>
+            <itunes:author>Bob Harper</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Jesus Came To Town - Part Two</title>
+            <description>12/20/15: Jesus Came To Town - Part Two by Bob Harper</description>
+            <link>http://www.venturavineyard.org</link>
+            <enclosure url="http://venturavineyard.org/audio/12-20-15_JesusCameToTown-PartTwo.mp3" length="16123883" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">7D81D080-6A4E-48A9-BC17-DBFBC1A7837B-10417-000056DB7DADF000-FFA</guid>
+            <pubDate>Sun, 20 Dec 2015 09:00:00 -0800</pubDate>
+            <itunes:subtitle>Jesus Came To Town - Part Two</itunes:subtitle>
+            <itunes:summary>12/20/15: Jesus Came To Town - Part Two by Bob Harper</itunes:summary>
+            <itunes:duration>33:35</itunes:duration>
+            <itunes:keywords>Jesus Came To Town, Bob Harper</itunes:keywords>
+            <itunes:author>Bob Harper</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Jesus Came To Town - Part One</title>
+            <description>12/13/15: Jesus Came To Town by Bob Harper</description>
+            <link>http://www.venturavineyard.org</link>
+            <enclosure url="http://venturavineyard.org/audio/12-13-15_JesusCameToTown-PartOne.mp3" length="14530955" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">F30A40B1-F11C-455D-B4E4-59AD206B6667-4362-000027718042291B-FFA</guid>
+            <pubDate>Sun, 13 Dec 2015 09:00:00 -0800</pubDate>
+            <itunes:subtitle>Jesus Came To Town</itunes:subtitle>
+            <itunes:summary>12/13/15: Jesus Came To Town by Bob Harper</itunes:summary>
+            <itunes:duration>30:16</itunes:duration>
+            <itunes:keywords>Jesus Came To Town, Bob Harper</itunes:keywords>
+            <itunes:author>Bob Harper</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Jesus Came To Town</title>
+            <description>12/6/15: Jesus Came To Town by Jason Lomelino</description>
+            <link>http://www.venturavineyard.org</link>
+            <enclosure url="http://venturavineyard.org/audio/12-06-15_JesusCameToTown.mp3" length="14471332" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">70BF0EDD-EA73-4238-B4FC-912BBCDA1058-20231-0000E01E37EB118C-FFA</guid>
+            <pubDate>Sun, 06 Dec 2015 09:00:00 -0800</pubDate>
+            <itunes:subtitle>Jesus Came To Town</itunes:subtitle>
+            <itunes:summary>12/6/15: Jesus Came To Town by Jason Lomelino</itunes:summary>
+            <itunes:duration>30:09</itunes:duration>
+            <itunes:keywords>Jesus Came To Town, Jason Lomelino</itunes:keywords>
+            <itunes:author>Jason Lomelino</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Salvation</title>
+            <description>11/22/15: Salvation by Bob Harper</description>
+            <link>http://www.venturavineyard.org</link>
+            <enclosure url="http://venturavineyard.org/audio/11-29-15_Salvation.mp3" length="22317879" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">424C848B-5FF8-442A-B84C-66ECDA90F2DF-16452-0000B0E2AA001C7D-FFA</guid>
+            <pubDate>Sun, 29 Nov 2015 09:00:00 -0800</pubDate>
+            <itunes:subtitle>Salvation</itunes:subtitle>
+            <itunes:summary>11/29/15: Salvation by Bob Harper</itunes:summary>
+            <itunes:duration>46:29</itunes:duration>
+            <itunes:keywords>Salvation, Bob Harper</itunes:keywords>
+            <itunes:author>Bob Harper</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>The Gospel</title>
+            <description>11/22/15: The Gospel by Bob Harper</description>
+            <link>http://www.venturavineyard.org</link>
+            <enclosure url="http://venturavineyard.org/audio/11-22-15_TheGospel.mp3" length="19856920" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">0E6AAAB3-AF48-422C-8F19-07CD0EA170B0-14082-000097C600F66F3E-FFA</guid>
+            <pubDate>Sun, 22 Nov 2015 09:00:00 -0800</pubDate>
+            <itunes:subtitle>The Gospel</itunes:subtitle>
+            <itunes:summary>11/22/15: The Gospel by Bob Harper</itunes:summary>
+            <itunes:duration>41:22</itunes:duration>
+            <itunes:keywords>The Gospel, Bob Harper</itunes:keywords>
+            <itunes:author>Bob Harper</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>The Sovereignty Of God</title>
+            <description>11/15/15: The Sovereignty Of God by Bob Harper</description>
+            <link>http://www.venturavineyard.org</link>
+            <enclosure url="http://venturavineyard.org/audio/11-15-15_TheSovereigntyOfGod.mp3" length="18406564" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">0F25080E-7066-462A-B4B8-0B9F4379F5A3-9780-00006B07A81787D2-FFA</guid>
+            <pubDate>Sun, 15 Nov 2015 09:00:00 -0800</pubDate>
+            <itunes:subtitle>The Sovereignty Of God</itunes:subtitle>
+            <itunes:summary>11/15/15: The Sovereignty Of God by Bob Harper</itunes:summary>
+            <itunes:duration>38:21</itunes:duration>
+            <itunes:keywords>The Sovereignty Of God, Bob Harper</itunes:keywords>
+            <itunes:author>Bob Harper</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <item>
             <title>The BIG Day</title>
             <description>11/8/15: The BIG Day by Bryan White</description>
@@ -549,7 +654,7 @@
 
         <item>
             <title>Shalom</title>
-            <description>3/8/15: Baby Steps Into Uncharted Waters by Bob Harper</description>
+            <description>3/8/15: Shalom by Wayne Randolph</description>
             <link>http://www.venturavineyard.org</link>
             <enclosure url="http://venturavineyard.org/audio/03-08-2015_Shalom.mp3" length="23746269" type="audio/mpeg"  ></enclosure>
             <guid isPermaLink="false">B7D20D3F-4CCA-4FF3-82B0-1E0336D9F81B-3169-000037905F7D7B6B-FFA</guid>

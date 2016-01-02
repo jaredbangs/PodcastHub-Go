@@ -14,12 +14,20 @@
 	<atom:link href="https://thecommandline.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thecommandline.net</link>
 	<description>Exploring digital citizenry as a creator and a consumer.</description>
-	<lastBuildDate>Wed, 11 Nov 2015 15:53:46 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Dec 2015 23:09:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
-<atom:link rel="hub" href="http://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="http://pubsubhubbub.superfeedr.com"/><encoded>https%3A%2F%2Fthecommandline.net%2Ffeed%2F</encoded>	<copyright>2005-2010 http://creativecommons.org/licenses/by-sa/3.0/us</copyright>
+	<generator>https://wordpress.org/?v=4.4</generator>
+
+<image>
+	<url>https://thecommandline.net/files/cropped-cmdln_merit_badge-32x32.png</url>
+	<title>The Command Line</title>
+	<link>https://thecommandline.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/><encoded>https%3A%2F%2Fthecommandline.net%2Ffeed%2F</encoded>	<copyright>2005-2010 http://creativecommons.org/licenses/by-sa/3.0/us</copyright>
 	<managingEditor>cmdln@thecommandline.net (The Command Line)</managingEditor>
 	<webMaster>cmdln@thecommandline.net (The Command Line)</webMaster>
 	<ttl>1440</ttl>
@@ -45,17 +53,307 @@
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="https://dl.dropbox.com/u/8126096/color_cover_art.jpg" />
 	<item>
+		<title>2015-12-19 The Command Line Podcast</title>
+		<link>https://thecommandline.net/2015/12/19/2015-12-19-the-command-line-podcast/</link>
+		<comments>https://thecommandline.net/2015/12/19/2015-12-19-the-command-line-podcast/#comments</comments>
+		<pubDate>Sat, 19 Dec 2015 22:42:56 +0000</pubDate>
+		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[copyright]]></category>
+		<category><![CDATA[net neutrality]]></category>
+		<category><![CDATA[copyfight]]></category>
+		<category><![CDATA[DRM]]></category>
+		<category><![CDATA[anonymity]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<category><![CDATA[ad tracking]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[science fiction]]></category>
+		<category><![CDATA[TPP]]></category>
+		<category><![CDATA[mass surveillance]]></category>
+
+		<guid isPermaLink="false">https://thecommandline.net/?p=8663</guid>
+		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/12/19/2015-12-19-the-command-line-podcast/">Read More ...</a>]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright size-medium wp-image-7644" src="https://thecommandline.net/files/old-newspaper-350376_1280-300x199.jpg" alt="old-newspaper-350376_1280" width="300" height="199" />This is an episode of The Command Line Podcast.</p>
+<p>I will be attending <a href="https://www.socallinuxexpo.org/scale/14x">SCALE</a> in the latter half of next month if anyone else planning to be there wants to meet up.</p>
+<p><img src="//www.socallinuxexpo.org/sites/default/files/promo/imspeakingat.png" alt="" /></p>
+<p>I am also thinking about attending this year&#8217;s <a href="https://libreplanet.org/2016/">LibrePlanet</a>, in March. <a href="https://my.fsf.org/civicrm/event/register?id=29&amp;reset=1&amp;pk_campaign=scholarship-appeal&amp;pk_kwd=donate">Please consider donating to their scholarship fund</a> to help attendees who might not otherwise be able to go to join the event and learn more about Free Software and the community that uses and supports it.</p>
+<p>This time, I chat about some recent news stories that caught my attention, including:</p>
+<ul>
+<li><a class="title " href="http://arstechnica.com/tech-policy/2015/12/you-may-soon-need-a-licence-to-take-photos-of-that-classic-designer-chair-you-bought/" target="_blank">UK citizens may soon need licenses to photograph some stuff they already own</a></li>
+<li><a class="title " href="http://news.softpedia.com/news/mit-creates-untraceable-anonymous-messaging-system-called-vuvuzela-497537.shtml" target="_blank">MIT Creates Untraceable Anonymous Messaging System Called Vuvuzela</a></li>
+<li><a href="https://pond.imperialviolet.org/tech.html">Technical article about pond</a></li>
+<li><a class="title " href="http://thehill.com/policy/technology/263181-major-tech-group-backs-pacific-trade-deal" target="_blank">Major tech group backs Pacific trade deal</a></li>
+<li><a class="title " href="http://www.extremetech.com/electronics/219450-philips-updates-hue-introduces-lightbulb-drm" target="_blank">Philips updates Hue, introduces lightbulb DRM</a></li>
+<li><a class="title " href="http://www.developers.meethue.com/content/friends-hue-program-update" target="_blank">Philips reverses decision to close the Hue Platform</a></li>
+<li><a class="title " href="https://www.techdirt.com/blog/netneutrality/articles/20151210/06280933047/add-verizon-to-growing-list-companies-tap-dancing-around-net-neutrality-with-zero-rating.shtml" target="_blank">Add Verizon To The Growing List Of Companies Tap Dancing Around Net Neutrality With Zero Rating</a></li>
+<li><a class="title " href="https://www.eff.org/deeplinks/2015/12/eff-publishes-pwning-tomorrow-speculative-fiction-anthology" target="_blank">EFF Publishes &#8220;Pwning Tomorrow,&#8221; a Speculative Fiction Anthology</a></li>
+<li><a class="title " href="https://www.eff.org/deeplinks/2015/12/eff-access-now-and-white-house-sat-down-talk-about-encryption-details" target="_blank">EFF, Access Now, and the White House Sat Down to Talk About Encryption: The Details</a></li>
+<li><a class="title " href="https://www.eff.org/deeplinks/2015/12/panopticlick-20-launches-featuring-new-tracker-protection-and-fingerprinting-tests" target="_blank">Panopticlick 2.0 Launches, Featuring New Tracker Protection and Fingerprinting Tests</a></li>
+</ul>
+<p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more. You can follow <a href="https://huffduffer.com/cmdln">my random podcast items</a> on HuffDuffer too.</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-8663-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-12-19TheCommandLinePodcast/cmdln.net_2015-12-19.mp3?_=1" /><source type="audio/ogg" src="https://archive.org/download/2015-12-19TheCommandLinePodcast/cmdln.net_2015-12-19.ogg?_=1" /><a href="https://archive.org/download/2015-12-19TheCommandLinePodcast/cmdln.net_2015-12-19.mp3">https://archive.org/download/2015-12-19TheCommandLinePodcast/cmdln.net_2015-12-19.mp3</a></audio>
+<p>You can directly download the <a href="https://archive.org/download/2015-12-19TheCommandLinePodcast/cmdln.net_2015-12-19.mp3">MP3</a> or <a href="https://archive.org/download/2015-12-19TheCommandLinePodcast/cmdln.net_2015-12-19.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-12-19TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
+<p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://thecommandline.net/2015/12/19/2015-12-19-the-command-line-podcast/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="https://archive.org/download/2015-12-19TheCommandLinePodcast/cmdln.net_2015-12-19.ogg" length="0" type="audio/ogg" />
+		<enclosure url="https://archive.org/download/2015-12-19TheCommandLinePodcast/cmdln.net_2015-12-19.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>2015-12-13 The Command Line Podcast</title>
+		<link>https://thecommandline.net/2015/12/13/2015-12-13-the-command-line-podcast/</link>
+		<comments>https://thecommandline.net/2015/12/13/2015-12-13-the-command-line-podcast/#comments</comments>
+		<pubDate>Sun, 13 Dec 2015 21:25:08 +0000</pubDate>
+		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<category><![CDATA[ad tracking]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[broadband access]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[mass surveillance]]></category>
+
+		<guid isPermaLink="false">https://thecommandline.net/?p=8650</guid>
+		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/12/13/2015-12-13-the-command-line-podcast/">Read More ...</a>]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright wp-image-8569 size-medium" src="https://thecommandline.net/files/newspapers-444447_1920-300x199.jpg" alt="" width="300" height="199" />This is an episode of The Command Line Podcast.</p>
+<p>I will be attending <a href="https://www.socallinuxexpo.org/scale/14x">SCALE</a> in the latter half of next month if anyone else planning to be there wants to meet up.</p>
+<p>This time, I chat about some recent news stories that caught my attention, including:</p>
+<ul>
+<li><a class="title " href="http://feeds.wired.com/c/35185/f/661370/s/4c0702a0/sc/28/l/0L0Swired0N0C20A150C120Cmicrosoft0Eto0Eopen0Esource0Ea0Ekey0Epiece0Eof0Eits0Eweb0Ebrowser0C/story01.htm" target="_blank">Microsoft to Open Source A Key Piece of Its Web Browser</a></li>
+<li><a class="title " href="http://gizmodo.com/the-seriously-wacky-way-cosmologists-say-we-could-encry-1746439802" target="_blank">The Seriously Wacky Way Cosmologists Say We Could Encrypt Data</a></li>
+<li><a class="title " href="http://feeds.wired.com/c/35185/f/661370/s/4c0bd2a5/sc/7/l/0L0Swired0N0C20A150C120Ca0Enew0Edeal0Efor0Ebroadband0Eaccess0Ewill0Ebe0Ea0Ekey0Eissue0Ein0E20A160C/story01.htm" target="_blank">A New Deal for Broadband Access Will Be A Key Issue in 2016</a></li>
+<li><a class="title " href="http://boingboing.net/2015/12/10/a-great-low-tech-hack-for-tea.html" target="_blank">A great, low-tech hack for teaching high-tech skills</a></li>
+<li><a class="title " href="http://www.technologyreview.com/review/544371/the-end-of-internet-advertising-as-weve-known-it/" target="_blank">The End of Internet Advertising as We&#8217;ve Known It</a></li>
+<li><a class="title " href="http://www.csoonline.com/article/3014123/security/sha-1-cutoff-could-block-millions-of-users-from-encrypted-websites.html" target="_blank">SHA-1 cutoff could block millions of users from encrypted websites</a></li>
+<li><a class="title " href="http://arstechnica.com/tech-policy/2015/12/france-looking-at-banning-tor-blocking-public-wi-fi/" target="_blank">France looking at banning Tor, blocking public Wi-Fi</a></li>
+<li><a class="title " href="http://go.theregister.com/feed/www.theregister.co.uk/2015/12/11/no_wifi_tor_restrictions_after_france_terror_attack/" target="_blank">France says &#8216;non&#8217; to Wi-Fi and Tor restrictions after terror attack</a></li>
+<li><a class="title " href="http://arstechnica.com/gadgets/2015/12/firefox-os-smartphones-are-dead/" target="_blank">Firefox OS smartphones are dead</a></li>
+<li><a class="title " href="https://blog.mozilla.org/blog/2015/12/10/mozilla-open-source-support-first-awards-made/" target="_blank">Mozilla Open Source Support: First Awards Made</a></li>
+</ul>
+<p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more. You can follow <a href="https://huffduffer.com/cmdln">my random podcast items</a> on HuffDuffer too.</p>
+<audio class="wp-audio-shortcode" id="audio-8650-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-12-13TheCommandLinePodcast/cmdln.net_2015-12-13.mp3?_=2" /><source type="audio/ogg" src="https://archive.org/download/2015-12-13TheCommandLinePodcast/cmdln.net_2015-12-13.ogg?_=2" /><a href="https://archive.org/download/2015-12-13TheCommandLinePodcast/cmdln.net_2015-12-13.mp3">https://archive.org/download/2015-12-13TheCommandLinePodcast/cmdln.net_2015-12-13.mp3</a></audio>
+<p>You can directly download the <a href="https://archive.org/download/2015-12-13TheCommandLinePodcast/cmdln.net_2015-12-13.mp3">MP3</a> or <a href="https://archive.org/download/2015-12-13TheCommandLinePodcast/cmdln.net_2015-12-13.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-12-13TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
+<p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://thecommandline.net/2015/12/13/2015-12-13-the-command-line-podcast/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="https://archive.org/download/2015-12-13TheCommandLinePodcast/cmdln.net_2015-12-13.ogg" length="0" type="audio/ogg" />
+		<enclosure url="https://archive.org/download/2015-12-13TheCommandLinePodcast/cmdln.net_2015-12-13.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>2015-12-05 The Command Line Podcast</title>
+		<link>https://thecommandline.net/2015/12/05/2015-12-05-the-command-line-podcast/</link>
+		<comments>https://thecommandline.net/2015/12/05/2015-12-05-the-command-line-podcast/#comments</comments>
+		<pubDate>Sat, 05 Dec 2015 20:42:21 +0000</pubDate>
+		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[net neutrality]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<category><![CDATA[open access]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[broadband access]]></category>
+		<category><![CDATA[open web]]></category>
+		<category><![CDATA[mass surveillance]]></category>
+		<category><![CDATA[security]]></category>
+
+		<guid isPermaLink="false">https://thecommandline.net/?p=8642</guid>
+		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/12/05/2015-12-05-the-command-line-podcast/">Read More ...</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="https://thecommandline.net/files/old-newspaper-350376_1280.jpg"><img class="alignright size-medium wp-image-7644" src="https://thecommandline.net/files/old-newspaper-350376_1280-300x199.jpg" alt="old-newspaper-350376_1280" width="300" height="199" /></a>This is an episode of The Command Line Podcast.</p>
+<p>This time, I chat about some recent news stories that caught my attention, including:</p>
+<ul>
+<li><a class="title " href="https://www.techdirt.com/articles/20151127/17120732931/nsas-bulk-collection-phone-records-ended-saturday-long-live-bulk-collection-phone-records.shtml" target="_blank">The NSA&#8217;s Bulk Collection Of Phone Records Ended Saturday. Long Live The Bulk Collection Of Phone Records!</a></li>
+<li><a class="title " href="http://thehill.com/policy/national-security/262050-amid-terror-concerns-senate-bill-would-renew-nsa-phone-debate" target="_blank">Senate bill adds new fuel to NSA debate</a></li>
+<li><a class="title " href="http://arstechnica.com/tech-policy/2015/11/the-national-security-letter-spy-tool-has-been-uncloaked-and-its-bad/" target="_blank">The National Security Letter spy tool has been uncloaked, and it&#8217;s bad</a></li>
+<li><a class="title " href="http://thehill.com/policy/technology/261848-net-neutrality-goes-on-trial" target="_blank">Net neutrality goes on trial</a></li>
+<li><a class="title " href="http://arstechnica.com/business/2015/12/towns-want-verizon-investigated-for-abandoning-networks-through-neglect/" target="_blank">Towns want Verizon investigated for abandoning networks through neglect</a></li>
+<li><a class="title " href="https://www.techdirt.com/articles/20151127/06560832915/open-insulin-project-could-help-save-thousands-lives-billions-dollars.shtml" target="_blank">Open Insulin Project Could Help Save Thousands Of Lives And Billions Of Dollars</a></li>
+<li><a class="title " href="https://www.eff.org/deeplinks/2015/12/lets-encrypt-enters-public-beta" target="_blank">Let&#8217;s Encrypt Enters Public Beta</a></li>
+<li><a class="title " href="https://www.eff.org/deeplinks/2015/12/find-security-vulnerability-get-reward-announcing-effs-security-vulnerability" target="_blank">Find a Security Vulnerability, Get a Reward: Announcing EFF&#8217;s Security Vulnerability Disclosure Program</a></li>
+<li><a class="title " href="http://feeds.wired.com/c/35185/f/661370/s/4bffcae8/sc/28/l/0L0Swired0N0C20A150C120Cmozilla0Eis0Eflailing0Ewhen0Ethe0Eweb0Eneeds0Eit0Ethe0Emost0C/story01.htm" target="_blank">Mozilla Is Flailing When the Internet Needs It the Most</a></li>
+<li><a class="title " href="http://arstechnica.com/information-technology/2015/12/thunderbird-a-tax-on-firefox-development-and-mozilla-wants-to-drop-it/" target="_blank">Thunderbird &#8220;a tax&#8221; on Firefox development, and Mozilla wants to drop it</a></li>
+</ul>
+<p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more. You can follow <a href="https://huffduffer.com/cmdln">my random podcast items</a> on HuffDuffer too.</p>
+<audio class="wp-audio-shortcode" id="audio-8642-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-12-05TheCommandLinePodcast/cmdln.net_2015-12-05.mp3?_=3" /><source type="audio/ogg" src="https://archive.org/download/2015-12-05TheCommandLinePodcast/cmdln.net_2015-12-05.ogg?_=3" /><a href="https://archive.org/download/2015-12-05TheCommandLinePodcast/cmdln.net_2015-12-05.mp3">https://archive.org/download/2015-12-05TheCommandLinePodcast/cmdln.net_2015-12-05.mp3</a></audio>
+<p>You can directly download the <a href="https://archive.org/download/2015-12-05TheCommandLinePodcast/cmdln.net_2015-12-05.mp3">MP3</a> or <a href="https://archive.org/download/2015-12-05TheCommandLinePodcast/cmdln.net_2015-12-05.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-12-05TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
+<p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://thecommandline.net/2015/12/05/2015-12-05-the-command-line-podcast/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="https://archive.org/download/2015-12-05TheCommandLinePodcast/cmdln.net_2015-12-05.ogg" length="0" type="audio/ogg" />
+		<enclosure url="https://archive.org/download/2015-12-05TheCommandLinePodcast/cmdln.net_2015-12-05.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>Hack My World</title>
+		<link>https://thecommandline.net/2015/12/05/hack-my-world/</link>
+		<comments>https://thecommandline.net/2015/12/05/hack-my-world/#comments</comments>
+		<pubDate>Sat, 05 Dec 2015 20:20:23 +0000</pubDate>
+		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[life]]></category>
+
+		<guid isPermaLink="false">https://thecommandline.net/?p=8546</guid>
+		<description><![CDATA[(I first shared this essay in a recent podcast.) An online acquaintance, Reg, made my day a while back by posting this tweet: Introducing a new friend to technology and encouraged him to #hackyourworld. h/t @cmdln (srsly, just hearing him <a class="more-link" href="https://thecommandline.net/2015/12/05/hack-my-world/">Read More ...</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="https://thecommandline.net/files/IMG_20150207_124932.jpg"><img class="alignright size-medium wp-image-8637" src="https://thecommandline.net/files/IMG_20150207_124932-225x300.jpg" alt="IMG_20150207_124932" width="225" height="300" /></a>(I first <a href="https://thecommandline.net/2015/11/28/2015-11-28-the-command-line-podcast/">shared this essay in a recent podcast</a>.)</p>
+<p>An online acquaintance, <a href="https://twitter.com/RegLevy">Reg</a>, made my day a while back by posting this tweet:</p>
+<div class="tweet original-tweet js-original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable favorited with-non-tweet-action-follow-button with-social-proof" data-tweet-id="633715596467810304" data-disclosure-type="" data-item-id="633715596467810304" data-permalink-path="/RegLevy/status/633715596467810304" data-screen-name="RegLevy" data-name="Reg Levy" data-user-id="16901213" data-expanded-footer="&lt;div class=&quot;js-tweet-details-fixer tweet-details-fixer&quot;&gt; &lt;div class=&quot;entities-media-container js-media-container&quot; style=&quot;min-height:0px&quot;&gt; &lt;/div&gt; &lt;div class=&quot;js-machine-translated-tweet-container&quot;&gt;&lt;/div&gt; &lt;div class=&quot;js-tweet-stats-container tweet-stats-container &quot;&gt; &lt;/div&gt; &lt;div class=&quot;client-and-actions&quot;&gt; &lt;span class=&quot;metadata&quot;&gt; &lt;span&gt;3:02 PM - 18 Aug 2015&lt;/span&gt; &amp;middot; &lt;a class=&quot;permalink-link js-permalink js-nav&quot; href=&quot;/RegLevy/status/633715596467810304&quot; tabindex=&quot;-1&quot;&gt;Details&lt;/a&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; " data-mentions="cmdln" data-you-follow="false" data-follows-you="false" data-you-block="false">
+<div class="content">
+<blockquote>
+<div class="stream-item-header"><a class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="https://twitter.com/RegLevy" data-user-id="16901213"> <img class="avatar js-action-profile-avatar" src="https://pbs.twimg.com/profile_images/616302190047531008/W7lCaEMs_bigger.jpg" alt="" /></a>Introducing a new friend to technology and encouraged him to <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/hackyourworld?src=hash" data-query-source="hashtag_click"><s>#</s><b>hackyourworld</b></a>.</div>
+<div class="stream-item-header"></div>
+<div class="stream-item-header">h/t <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cmdln"><s>@</s><b>cmdln</b></a> (srsly, just hearing him say that makes me smile)</div>
+</blockquote>
+</div>
+</div>
+<p>I was glad to see that I am still having a positive impact. When I started to think about it some more, though, I wondered just how much lately I had been living up to my saying. Especially when it comes to this site and podcast, I didn&#8217;t feel like I was doing a good job. Up until recently, for the better part of a year, posts and episodes had been few and far between.</p>
+<p>Sure, there are reasons for that. I have written a few posts discussing them. Despite those reasons I had intentionally been keeping at my pastimes even if it didn&#8217;t show. I kept going to my guitar lessons every Sunday and practicing almost every day. I tried to keep writing although with less success. I started baking and re-dedicated myself to brewing. I undertook an experiment in podcasting that worked out so well, it has helped me re-invigorate the show I have been making for over a decade.</p>
+<p>I didn&#8217;t think about it that way at the time, but the deliberate choice to make myself pursue my hobbies was a hack. I worried that in the face of stress, I would shut down. I didn&#8217;t want my world to be solely defined by my difficulties and my struggle to cope. Several other intentional choices or practices snapped into the same focus. I was delighted to realize I could be living up to one of my ideals even though I had not been giving myself the conscious credit for doing so.</p>
+<p>My choice felt hacky in another way. Not all hacks are elegant even if they are effective. Early on I am not sure I really enjoyed or held much enthusiasm for my pastimes. Forcing myself to work at my various hobbies helped on one level. I felt a sense of accomplishment. I had things to talk about with co-workers, acquaintances and friends that were about something other than my family&#8217;s travails. But joy? Until lately, not really.</p>
+<p>The silver lining of a bad hack is it contains the seed of the next hack, the dissatisfaction that prompts a re-think and overhaul that hopefully leads to something better to take its place. Only in the last few weeks have I realized how bad this hack was, namely how the lack of joy was affecting me. It sapped my desire to work on anything truly creative or hard, like writing. As much as I felt like I was coping I didn&#8217;t feel like I was really getting all that much better at truly getting above the stresses in my life.</p>
+<p>There was one exception to my pursuits feeling rote or forced, brewing. It almost didn&#8217;t end up being a cause for joy. My friendship with my long time brewing partner ended last year. That could have been cause to give up, to close that chapter of my life and move on. I wasn&#8217;t brewing as often as I had even two years earlier. The bottling dates on the beers in my cellar showed the time between each brew getting farther apart. That bothered me, not having home brew on hand as often as I wanted to share or enjoy it. I already had the motivation to start brewing more frequently. I just needed to figure out how to do that on my own, with or without the assistance of anyone else.</p>
+<p>At the end of last year with this thought in mind I researched upgrades to my equipment and my process. Before, I needed at least one willing volunteer to help me complete a batch. I still planned to invite friends to the new brew days. Whether anyone showed up or not, I wanted to be able to make a beer. I saw the invitations as an opportunity both to re-connect with old friends and to nourish sustaining friendships. I changed those parts of the process that used to rely on help from other people to use new equipment instead. I added two additional vessels to my rig so I would not be as rushed preparing pots for each step. Instead of lifting gallons of boiling and near boiling liquid, I now use a pump to get the beer where I need it at each stage. Now I can keep the process going on my own. I can teach and share my craft if that&#8217;s what my friends wanted, or just be social. More than anything else, including friends always has been more of a social benefit for me.</p>
+<p>Finding the motivation to podcast again was much harder. I enjoy making a podcast but I enjoy it very differently than the way I enjoy brewing and the end result of making a beer. Both require similar amounts of effort, at least mentally. The reward I get from a podcast is more abstract. Sipping on a fresh beer is both its own immediate reward and encouragement for me to start working on the next beer. A new podcast episode doesn&#8217;t provide me with the same feedback loop. Finding the motivation for the next episode isn&#8217;t any easier for having completed the last episode.</p>
+<p>About six months back, several old friends resuscitated their podcasts. I was inspired by hearing their voices again, especially their stories about why they returned. I had already freed myself of the obligation of a regular schedule. I recorded spontaneous episodes for this podcast when I had a topic in mind, either as a fully written out essay or just an idea I wanted to talk about off the cuff. Those decisions did not result in me producing more episodes. The longer format still felt like a burden even though I still feel it is best suited for the topics I pursue here. I didn&#8217;t want to try yet another change, a shorter format, only to have that fail. I was not, am not, done with this site or this podcast but needed a way to experiment more freely to figure out what I wanted or needed to do next.</p>
+<p>I used to have another, more free form podcast. That ended over a year ago but I didn&#8217;t feel like I was done with the topics I had started to explore there, mostly centered around travel, food, and drink. I realized I had an opportunity to create something new. I took the things that inspired me from my friends&#8217; shows and combined them with the things I thought I could manage in a new project. I didn&#8217;t want to saddle myself with a lot of writing and preparation. A much shorter format, five minutes, felt like a better choice for speaking about some topic on the fly. Keeping a list of topics and just working through each in turn was about all the planning I wanted to do. I used the new show to try to simplify the recording, editing and production process too so that I had less reason not to get a show out.</p>
+<p>So far, the <a href="https://peculiarcharacter.com/">Audio Diary of a Peculiar Character</a> has been an outstanding success. I have not missed a week in six months. If anything, keeping myself to only five minutes has been the only challenge. It would be very easy for me to allow the core segment to creep up by a minute, then another, until shows reached ten and twenty minutes. I have had some more involved stories to tell. To keep them to the strictly self enforced limit, I did some planning, breaking them into a series of back to back episodes. On any given weekend, I sit down to record one or two new segments. When I am ready to post an episode, everything is pretty much cut and paste. I routinely, though not always, have a queue of two or three shows ready to go. Having a safety net, more than anything, has reduced the amount of stress I feel about producing a new weekly show.</p>
+<p>About two months ago, I finally decided to put what I had learned on the new show into practice to help bring back a more regular schedule for The Command Line. I re-recorded and edited a lot of the canned bits to make them easier to just drop in with a single, freshly recorded segment at the core of each episode. I had been meaning to do this for a long time but the practice with the new show finally removed my last excuse. The only remaining challenge was the content. I wasn&#8217;t getting any better at writing on a regular basis for the shows that featured an essay. Then it occurred to me that the way I read my tech news every day might be similar enough to the rolling list of topics in the new show that it would be worth bringing back the news shows.</p>
+<p>The Command Line has been and continues to be about how I keep learning about the world of tech. The news shows were always a large part of that but I used to think they were too labor intensive. I used to prepare them by writing out as much if not more notes than a typical essay. In retrospect, it is no wonder they were feeling like more of a drag than they were worth. Even though I stopped writing up such detailed thoughts on what I was reading, I was still reading. I was still sharing those stories, straight out of my feed reader.</p>
+<p>Quite some time ago I switched readers, to <a href="https://tt-rss.org/gitlab/fox/tt-rss/wikis/home">tiny tiny rss</a>. Since the switch, I have continued to refine and simplify how I use this tool to keep my daily reading manageable. Instead of compiling daily and weekly link dumps on my blog like I used to do I can now just link to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of stories I re-publish</a> out of my reader. Unlike Google&#8217;s now defunct Reader, tt-rss has lots of capabilities designed for sharing stories. I can annotate stories with my thoughts as part of that. I like shifting the sharing down to the individual story rather than compilations. Social sharing feels more natural at this scale. The comment I add into the feed works well as a comment when I share to Google+, Facebook or Twitter.</p>
+<p>What my current reading habits boil down to is that I have a list of the stories I&#8217;ve read, felt were worth sharing, and a quick comment to point out what I found interesting. This list is perfect for a re-vitalized news cast. I can just talk through each story in turn until I am either done with them or hit the twenty minute mark. I don&#8217;t have to do a lot of preparation in advance, I already did as much as I need on a daily basis throughout the week. So far, I think this is working well. The feedback on this new approach has been very positive.</p>
+<p>Even though I have brought the podcast back to life with a refresh on the news format, I am still working on my writing. I don&#8217;t have any hard won lessons to share on that, at least not yet. This essay, alone, has taken me weeks and weeks to draft. I struggle with what I think is probably the simplest, best advice I&#8217;ve heard&#8211;just write. If it were that easy in practice, everyone would be writing constantly. I am still thinking about what I can learn from the other hacks I&#8217;ve discussed here. For me, tooling and work flow matter. Having a process set up about which I get a little excited helps tip the scales towards doing rather than not doing.</p>
+<p>Despite how long it took me to get from starting this essay to sharing it with you, I do feel like I continue to make progress. Much of how I currently go about my professional life and my passions is just the latest in an ongoing series of hacks. Not everything I come up with is so interesting or involved that I feel it is worth sharing. Some days I come up with tweaks, changes and tricks too small and numerous to relate. On a good day, I can&#8217;t help but smile about the latest way, big or small, I&#8217;ve found to keep hacking my world. Feeding that joy is the most important hack of all for me.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://thecommandline.net/2015/12/05/hack-my-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>2015-11-28 The Command Line Podcast</title>
+		<link>https://thecommandline.net/2015/11/28/2015-11-28-the-command-line-podcast/</link>
+		<comments>https://thecommandline.net/2015/11/28/2015-11-28-the-command-line-podcast/#comments</comments>
+		<pubDate>Sat, 28 Nov 2015 19:18:35 +0000</pubDate>
+		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[life]]></category>
+
+		<guid isPermaLink="false">https://thecommandline.net/?p=8640</guid>
+		<description><![CDATA[In a new episode of The Command Line, I talk about living up to my motto. <a class="more-link" href="https://thecommandline.net/2015/11/28/2015-11-28-the-command-line-podcast/">Read More ...</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="https://thecommandline.net/files/IMG_20150207_124932.jpg"><img class="alignright size-medium wp-image-8637" src="https://thecommandline.net/files/IMG_20150207_124932-225x300.jpg" alt="IMG_20150207_124932" width="225" height="300" /></a>This is an episode of The Command Line Podcast.</p>
+<p>This time, I share an essay on how I realized I have been living up to my motto more than I thought. You can read <a href="https://thecommandline.net/2015/12/05/hack-my-world/">a text version of this essay</a>, too.</p>
+<p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more. You can follow <a href="https://huffduffer.com/cmdln">my random podcast items</a> on HuffDuffer too.</p>
+<audio class="wp-audio-shortcode" id="audio-8640-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-11-28TheCommandLinePodcast/cmdln.net_2015-11-28.mp3?_=4" /><source type="audio/ogg" src="https://archive.org/download/2015-11-28TheCommandLinePodcast/cmdln.net_2015-11-28.ogg?_=4" /><a href="https://archive.org/download/2015-11-28TheCommandLinePodcast/cmdln.net_2015-11-28.mp3">https://archive.org/download/2015-11-28TheCommandLinePodcast/cmdln.net_2015-11-28.mp3</a></audio>
+<p>You can directly download the <a href="https://archive.org/download/2015-11-28TheCommandLinePodcast/cmdln.net_2015-11-28.mp3">MP3</a> or <a href="https://archive.org/download/2015-11-28TheCommandLinePodcast/cmdln.net_2015-11-28.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-11-28TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
+<p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://thecommandline.net/2015/11/28/2015-11-28-the-command-line-podcast/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+			<enclosure url="https://archive.org/download/2015-11-28TheCommandLinePodcast/cmdln.net_2015-11-28.ogg" length="0" type="audio/ogg" />
+		<enclosure url="https://archive.org/download/2015-11-28TheCommandLinePodcast/cmdln.net_2015-11-28.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>2015-11-22 The Command Line Podcast</title>
+		<link>https://thecommandline.net/2015/11/22/2015-11-22-the-command-line-podcast/</link>
+		<comments>https://thecommandline.net/2015/11/22/2015-11-22-the-command-line-podcast/#comments</comments>
+		<pubDate>Sun, 22 Nov 2015 22:42:34 +0000</pubDate>
+		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[censorship]]></category>
+		<category><![CDATA[fair use]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[ad tracking]]></category>
+		<category><![CDATA[floss]]></category>
+		<category><![CDATA[mass surveillance]]></category>
+		<category><![CDATA[security]]></category>
+
+		<guid isPermaLink="false">https://thecommandline.net/?p=8630</guid>
+		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/11/22/2015-11-22-the-command-line-podcast/">Read More ...</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="https://thecommandline.net/files/newspapers-444447_1920.jpg"><img class="alignright size-medium wp-image-8569" src="https://thecommandline.net/files/newspapers-444447_1920-300x199.jpg" alt="newspapers-444447_1920" width="300" height="199" /></a>This is an episode of The Command Line Podcast.</p>
+<p>This time, I chat about some recent news stories that caught my attention, including:</p>
+<ul>
+<li><a class="title " href="http://boingboing.net/2015/11/17/david-cameron-capitulates-to-t.html" target="_blank">David Cameron capitulates to terror, proposes Britain&#8217;s USA Patriot Act</a></li>
+<li><a class="title " href="http://arstechnica.com/tech-policy/2015/11/congressman-to-stop-isis-lets-shut-down-websites-and-social-media/" target="_blank">Congressman: To stop ISIS, let&#8217;s shut down websites and social media</a></li>
+<li><a class="title " href="http://threatpost.com/carnegie-mellon-says-it-was-subpoenaed-and-not-paid-for-research-on-breaking-tor/115409/" target="_blank">Carnegie Mellon Says It Was Subpoenaed-And Not Paid-For Research On Breaking Tor</a></li>
+<li><a class="title " href="http://www.extremetech.com/internet/218152-tor-is-getting-a-major-security-upgrade" target="_blank">Tor is getting a major security upgrade</a></li>
+<li><a class="title " href="http://www.locusmag.com/Perspectives/2015/11/cory-doctorow-the-internet-will-always-suck/" target="_blank">The Internet Will Always Suck</a></li>
+<li><a class="title " href="https://www.techdirt.com/articles/20151113/04444032807/fcc-refuses-to-force-websites-to-adhere-to-do-not-track-thats-good-thing.shtml" target="_blank">FCC Refuses To Force Websites To Adhere To &#8216;Do Not Track,&#8217; And That&#8217;s A Good Thing</a></li>
+<li><a class="title " href="http://feeds.wired.com/c/35185/f/661370/s/4baeb819/sc/28/l/0L0Swired0N0C20A150C110Cclive0Ethompson0E10A0C/story01.htm" target="_blank">How to Baffle Web Trackers by Obfuscating Your Movements Online</a></li>
+<li><a class="title " href="https://whispersystems.org/blog/bithub/" target="_blank">BitHub, an experiment in funding privacy OSS</a></li>
+<li><a class="title " href="http://googlepublicpolicy.blogspot.com/2015/11/a-step-toward-protecting-fair-use-on.html?m=1" target="_blank">Google Public Policy Blog: A Step Toward Protecting Fair Use on YouTube</a></li>
+</ul>
+<p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more. You can follow <a href="https://huffduffer.com/cmdln">my random podcast items</a> on HuffDuffer too.</p>
+<audio class="wp-audio-shortcode" id="audio-8630-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-11-22TheCommandLinePodcast/cmdln.net_2015-11-22.mp3?_=5" /><source type="audio/ogg" src="https://archive.org/download/2015-11-22TheCommandLinePodcast/cmdln.net_2015-11-22.ogg?_=5" /><a href="https://archive.org/download/2015-11-22TheCommandLinePodcast/cmdln.net_2015-11-22.mp3">https://archive.org/download/2015-11-22TheCommandLinePodcast/cmdln.net_2015-11-22.mp3</a></audio>
+<p>You can directly download the <a href="https://archive.org/download/2015-11-22TheCommandLinePodcast/cmdln.net_2015-11-22.mp3">MP3</a> or <a href="https://archive.org/download/2015-11-22TheCommandLinePodcast/cmdln.net_2015-11-22.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-11-22TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
+<p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://thecommandline.net/2015/11/22/2015-11-22-the-command-line-podcast/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="https://archive.org/download/2015-11-22TheCommandLinePodcast/cmdln.net_2015-11-22.ogg" length="0" type="audio/ogg" />
+		<enclosure url="https://archive.org/download/2015-11-22TheCommandLinePodcast/cmdln.net_2015-11-22.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
+		<title>2015-11-15 The Command Line Podcast</title>
+		<link>https://thecommandline.net/2015/11/15/2015-11-15-the-command-line-podcast/</link>
+		<comments>https://thecommandline.net/2015/11/15/2015-11-15-the-command-line-podcast/#comments</comments>
+		<pubDate>Sun, 15 Nov 2015 19:23:18 +0000</pubDate>
+		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[copyfight]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[municipal fiber]]></category>
+		<category><![CDATA[ad tracking]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[SOPA]]></category>
+		<category><![CDATA[mass surveillance]]></category>
+		<category><![CDATA[adpocalypse]]></category>
+
+		<guid isPermaLink="false">https://thecommandline.net/?p=8620</guid>
+		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/11/15/2015-11-15-the-command-line-podcast/">Read More ...</a>]]></description>
+				<content:encoded><![CDATA[<p><a href="https://thecommandline.net/files/old-newspaper-350376_1280.jpg"><img class="alignright size-medium wp-image-7644" src="https://thecommandline.net/files/old-newspaper-350376_1280-300x199.jpg" alt="old-newspaper-350376_1280" width="300" height="199" /></a>This is an episode of The Command Line Podcast.</p>
+<p>This time, I chat about some recent news stories that caught my attention, including:</p>
+<ul>
+<li><a class="title " href="http://feeds.wired.com/c/35185/f/661370/s/4b5af496/sc/15/l/0L0Swired0N0C20A150C110Cgoogle0Eopen0Esources0Eits0Eartificial0Eintelligence0Eengine0C/story01.htm" target="_blank">Google Just Open Sourced TensorFlow, Its Artificial Intelligence Engine</a></li>
+<li><a class="title " href="https://thestack.com/world/2015/11/13/microsoft-open-sources-its-machine-learning-toolkit/" target="_blank">Microsoft open sources its machine learning toolkit</a></li>
+<li><a class="title " href="http://arstechnica.com/tech-policy/2015/11/doj-wont-help-fcc-fight-state-laws-that-harm-municipal-broadband/" target="_blank">DOJ won&#8217;t help FCC fight state laws that harm municipal broadband</a></li>
+<li><a class="title " href="http://arstechnica.com/tech-policy/2015/11/supreme-court-punts-issue-if-warrants-needed-to-get-your-cell-site-data/" target="_blank">Supreme Court declines to decide whether you need a warrant to get cell site data</a></li>
+<li><a class="title " href="https://www.techdirt.com/articles/20151110/11330732777/sorry-mpaa-court-rejects-your-plan-secret-sopa-itc.shtml" target="_blank">Sorry, MPAA, Court Rejects Your Plan For A Secret SOPA At The ITC</a></li>
+<li><a class="title " href="http://radar.oreilly.com/2015/11/blocked.html" target="_blank">Blocked!</a></li>
+<li><a class="title " href="http://arstechnica.com/tech-policy/2015/11/beware-of-ads-that-use-inaudible-sound-to-link-your-phone-tv-tablet-and-pc/" target="_blank">Beware of ads that use inaudible sound to link your phone, TV, tablet, and PC</a></li>
+<li><a class="title " href="http://boingboing.net/2015/11/11/did-the-fbi-pay-carnegie-mello.html" target="_blank">Did the FBI pay Carnegie Mellon $1 million to identify and attack Tor users?</a></li>
+</ul>
+<p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more. You can follow <a href="https://huffduffer.com/cmdln">my random podcast items</a> on HuffDuffer too.</p>
+<audio class="wp-audio-shortcode" id="audio-8620-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-11-15TheCommandLinePodcast/cmdln.net_2015-11-15.mp3?_=6" /><source type="audio/ogg" src="https://archive.org/download/2015-11-15TheCommandLinePodcast/cmdln.net_2015-11-15.ogg?_=6" /><a href="https://archive.org/download/2015-11-15TheCommandLinePodcast/cmdln.net_2015-11-15.mp3">https://archive.org/download/2015-11-15TheCommandLinePodcast/cmdln.net_2015-11-15.mp3</a></audio>
+<p>You can directly download the <a href="https://archive.org/download/2015-11-15TheCommandLinePodcast/cmdln.net_2015-11-15.mp3">MP3</a> or <a href="https://archive.org/download/2015-11-15TheCommandLinePodcast/cmdln.net_2015-11-15.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-11-15TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
+<p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://thecommandline.net/2015/11/15/2015-11-15-the-command-line-podcast/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+			<enclosure url="https://archive.org/download/2015-11-15TheCommandLinePodcast/cmdln.net_2015-11-15.ogg" length="0" type="audio/ogg" />
+		<enclosure url="https://archive.org/download/2015-11-15TheCommandLinePodcast/cmdln.net_2015-11-15.mp3" length="0" type="audio/mpeg" />
+	</item>
+		<item>
 		<title>2015-11-08 The Command Line Podcast</title>
 		<link>https://thecommandline.net/2015/11/08/2015-11-08-the-command-line-podcast/</link>
 		<comments>https://thecommandline.net/2015/11/08/2015-11-08-the-command-line-podcast/#comments</comments>
 		<pubDate>Sun, 08 Nov 2015 20:46:02 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[the commons]]></category>
 		<category><![CDATA[licenses]]></category>
+		<category><![CDATA[programming]]></category>
 		<category><![CDATA[mass surveillance]]></category>
 		<category><![CDATA[nudging]]></category>
-		<category><![CDATA[programming]]></category>
-		<category><![CDATA[the commons]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8609</guid>
 		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/11/08/2015-11-08-the-command-line-podcast/">Read More ...</a>]]></description>
@@ -73,8 +371,7 @@
 <li><a class="title " href="http://boingboing.net/2015/11/07/mothership-zeta-a-new-science.html" target="_blank">Mothership Zeta: a new science fiction zine from the creators of the Escape Pod podcast</a></li>
 </ul>
 <p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more. You can follow <a href="https://huffduffer.com/cmdln">my random podcast items</a> on HuffDuffer too.</p>
-<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio class="wp-audio-shortcode" id="audio-8609-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.mp3?_=1" /><source type="audio/ogg" src="https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.ogg?_=1" /><a href="https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.mp3">https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8609-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.mp3?_=7" /><source type="audio/ogg" src="https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.ogg?_=7" /><a href="https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.mp3">https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.mp3</a></audio>
 <p>You can directly download the <a href="https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.mp3">MP3</a> or <a href="https://archive.org/download/2015-11-08TheCommandLinePodcast/cmdln.net_2015-11-08.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-11-08TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
 <p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
 <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
@@ -91,16 +388,16 @@
 		<pubDate>Sat, 31 Oct 2015 19:07:05 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[ageism]]></category>
-		<category><![CDATA[art]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[copyfight]]></category>
 		<category><![CDATA[copyright]]></category>
-		<category><![CDATA[mental health]]></category>
-		<category><![CDATA[Nina Paley]]></category>
 		<category><![CDATA[open source]]></category>
-		<category><![CDATA[security]]></category>
+		<category><![CDATA[copyfight]]></category>
+		<category><![CDATA[Nina Paley]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[art]]></category>
 		<category><![CDATA[wireless]]></category>
+		<category><![CDATA[mental health]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[ageism]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8595</guid>
 		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/10/31/2015-10-31-the-command-line-podcast/">Read More ...</a>]]></description>
@@ -121,7 +418,7 @@
 </ul>
 <p>Also, I am considering attending Scale in the latter half of January. Whether I go or not, <a href="https://www.socallinuxexpo.org/">you should check the event out</a>.</p>
 <p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more. You can follow <a href="https://huffduffer.com/cmdln">my random podcast items</a> on HuffDuffer too.</p>
-<audio class="wp-audio-shortcode" id="audio-8595-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.mp3?_=2" /><source type="audio/ogg" src="https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.ogg?_=2" /><a href="https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.mp3">https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8595-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.mp3?_=8" /><source type="audio/ogg" src="https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.ogg?_=8" /><a href="https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.mp3">https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.mp3</a></audio>
 <p>You can directly download the <a href="https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.mp3">MP3</a> or <a href="https://archive.org/download/2015-10-31TheCommandLinePodcast/cmdln.net_2015-10-31.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-10-31TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
 <p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
 <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
@@ -138,11 +435,11 @@
 		<pubDate>Sun, 25 Oct 2015 00:31:32 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[ageism]]></category>
 		<category><![CDATA[open source]]></category>
+		<category><![CDATA[technology policy]]></category>
 		<category><![CDATA[programming]]></category>
 		<category><![CDATA[security]]></category>
-		<category><![CDATA[technology policy]]></category>
+		<category><![CDATA[ageism]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8584</guid>
 		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/10/24/2015-10-24-the-command-line-podcast/">Read More ...</a>]]></description>
@@ -160,7 +457,7 @@
 <li><a class="title " href="https://www.techdirt.com/articles/20151022/10133932597/cisa-moves-forward-these-83-senators-just-voted-to-expand-surveillance.shtml" target="_blank">CISA Moves Forward: These 83 Senators Just Voted To Expand Surveillance</a></li>
 </ul>
 <p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more.</p>
-<audio class="wp-audio-shortcode" id="audio-8584-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.mp3?_=3" /><source type="audio/ogg" src="https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.ogg?_=3" /><a href="https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.mp3">https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8584-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.mp3?_=9" /><source type="audio/ogg" src="https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.ogg?_=9" /><a href="https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.mp3">https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.mp3</a></audio>
 <p>You can directly download the <a href="https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.mp3">MP3</a> or <a href="https://archive.org/download/2015-10-24TheCommandLinePodcast/cmdln.net_2015-10-24.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-10-24TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
 <p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
 <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
@@ -173,17 +470,17 @@
 		<item>
 		<title>2015-10-17 The Command Line Podcast</title>
 		<link>https://thecommandline.net/2015/10/17/2015-10-17-the-command-line-podcast/</link>
-		<comments>https://thecommandline.net/2015/10/17/2015-10-17-the-command-line-podcast/#comments</comments>
+		<comments>https://thecommandline.net/2015/10/17/2015-10-17-the-command-line-podcast/#respond</comments>
 		<pubDate>Sat, 17 Oct 2015 20:09:27 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[copyfight]]></category>
-		<category><![CDATA[history of computing]]></category>
-		<category><![CDATA[mass surveillance]]></category>
-		<category><![CDATA[open government]]></category>
 		<category><![CDATA[open source]]></category>
-		<category><![CDATA[social justice]]></category>
+		<category><![CDATA[copyfight]]></category>
+		<category><![CDATA[open government]]></category>
+		<category><![CDATA[history of computing]]></category>
 		<category><![CDATA[vim]]></category>
+		<category><![CDATA[mass surveillance]]></category>
+		<category><![CDATA[social justice]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8578</guid>
 		<description><![CDATA[In a new episode of The Command Line, I talk about some recent news stories. <a class="more-link" href="https://thecommandline.net/2015/10/17/2015-10-17-the-command-line-podcast/">Read More ...</a>]]></description>
@@ -201,7 +498,7 @@
 </ul>
 <p>And a special shout out for listener Kevin who just launched <a href="https://www.kickstarter.com/projects/transgeekmovie/trans-geek-movie-gender-identity-and-geek-culture">a Kickstarter campaign for Trans*Geek Movie</a>. Please help spread the word and consider becoming a backer.</p>
 <p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more.</p>
-<audio class="wp-audio-shortcode" id="audio-8578-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.mp3?_=4" /><source type="audio/ogg" src="https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.ogg?_=4" /><a href="https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.mp3">https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8578-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.mp3?_=10" /><source type="audio/ogg" src="https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.ogg?_=10" /><a href="https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.mp3">https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.mp3</a></audio>
 <p>You can directly download the <a href="https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.mp3">MP3</a> or <a href="https://archive.org/download/2015-10-17TheCommandLinePodcast/cmdln.net_2015-10-17.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-10-17TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
 <p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
 <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
@@ -218,8 +515,8 @@
 		<pubDate>Sat, 10 Oct 2015 20:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[copyfight]]></category>
 		<category><![CDATA[copyright]]></category>
+		<category><![CDATA[copyfight]]></category>
 		<category><![CDATA[ethics]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[programming]]></category>
@@ -237,7 +534,7 @@
 <li><a class="title " href="http://linux.slashdot.org/story/15/10/06/1553233/matthew-garrett-forks-the-linux-kernel" target="_blank">Matthew Garrett Forks the Linux Kernel</a></li>
 </ul>
 <p>You can subscribe to <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">a feed of articles I am reading</a> for more.</p>
-<audio class="wp-audio-shortcode" id="audio-8566-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.mp3?_=5" /><source type="audio/ogg" src="https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.ogg?_=5" /><a href="https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.mp3">https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8566-11" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.mp3?_=11" /><source type="audio/ogg" src="https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.ogg?_=11" /><a href="https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.mp3">https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.mp3</a></audio>
 <p>You can directly download the <a href="https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.mp3">MP3</a> or <a href="https://archive.org/download/2015-10-10TheCommandLinePodcast/cmdln.net_2015-10-10.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/2015-10-10TheCommandLinePodcast/">additional formats and audio source files</a> from the Internet Archive.</p>
 <p><img src="/files/cc-by-sa.png" alt="Creative Commons License" /></p>
 <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
@@ -261,7 +558,7 @@
 		<description><![CDATA[In a new episode of The Command Line, I talk about my surprise return to Dragon*Con. <a class="more-link" href="https://thecommandline.net/2015/08/29/returning_to_dragoncon-6/">Read More ...</a>]]></description>
 				<content:encoded><![CDATA[<p><a href="https://thecommandline.net/files/1317311846_13979d614b_b.jpg"><img class="alignright size-medium wp-image-8461" src="https://thecommandline.net/files/1317311846_13979d614b_b-300x200.jpg" alt="1317311846_13979d614b_b" width="300" height="200" /></a>This is an episode of The Command Line Podcast.</p>
 <p>In this episode, I share the wonderful news that due to a very generous friend I&#8217;ll be returning to Dragon*Con this year. I talk a bit about my history with this convention and how this surprise trip is part of a recent positive trend after a rough year.</p>
-<audio class="wp-audio-shortcode" id="audio-8465-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.mp3?_=6" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.ogg?_=6" /><a href="https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.mp3">https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8465-12" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.mp3?_=12" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.ogg?_=12" /><a href="https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.mp3">https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.mp3</a></audio>
 <p>You can directly download the <a href="https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.mp3">MP3</a> or <a href="https://archive.org/download/Tclp2015-08-29ReturningToDragoncon/cmdln.net_2015-08-29.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/Tclp2015-08-29ReturningToDragoncon/">additional formats and audio source files</a> from the Internet Archive.</p>
 <p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
 ]]></content:encoded>
@@ -314,7 +611,7 @@
 		<description><![CDATA[In a new episode of The Command Line, I ponder my new electric toothbrush. <a class="more-link" href="https://thecommandline.net/2015/06/28/my_toothbrush/">Read More ...</a>]]></description>
 				<content:encoded><![CDATA[<p>This is an episode of The Command Line Podcast.</p>
 <p>In this episode, I extemporize for a bit about my toothbrush, having just recently replaced my electric toothbrush with an unexpected upgrade. The experience turned out to be a good opportunity to reflect on certain aspects of how technology improves, or not, and on what time scales.</p>
-<audio class="wp-audio-shortcode" id="audio-8361-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.mp3?_=7" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.ogg?_=7" /><a href="https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.mp3">https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8361-13" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.mp3?_=13" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.ogg?_=13" /><a href="https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.mp3">https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.mp3</a></audio>
 <p>You can directly download the <a href="https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.mp3">MP3</a> or <a href="https://archive.org/download/Tclp2015-06-28MyToothbrush/cmdln.net_2015-06-28.ogg">Ogg Vorbis</a> audio files. You can grab <a href="https://archive.org/details/Tclp2015-06-28MyToothbrush/">additional formats and audio source files</a> from the Internet Archive.</p>
 <p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
 ]]></content:encoded>
@@ -330,15 +627,15 @@
 		<pubDate>Sun, 31 May 2015 23:35:39 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[coping]]></category>
 		<category><![CDATA[life]]></category>
 		<category><![CDATA[mental health]]></category>
+		<category><![CDATA[coping]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8343</guid>
 		<description><![CDATA[In this episode of The Command Line, I explore my struggle being vulnerable and how it can be a source of strength. <a class="more-link" href="https://thecommandline.net/2015/05/31/strength_vulnerability/">Read More ...</a>]]></description>
 				<content:encoded><![CDATA[<p>This is an episode of The Command Line Podcast.</p>
 <p>I released this episode and the <a href="https://thecommandline.net/2015/05/31/strength-through-vulnerability/">text version of the essay</a> it includes at the same time. I owe a huge debt of gratitude to <a href="http://ctmiller.net/">Chris Miller</a> for helping my edit and polish this essay. Before I get into the long promised essay, I talk a bit about my experiences at <a href="http://2015.jsconf.us/">JSConf US</a>.</p>
-<audio class="wp-audio-shortcode" id="audio-8343-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-05-31StrengthThroughVulnerability/cmdln.net_2015-05-31.mp3?_=8" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-05-31StrengthThroughVulnerability/cmdln.net_2015-05-31.ogg?_=8" /><a href="https://archive.org/download/Tclp2015-05-31StrengthThroughVulnerability/cmdln.net_2015-05-31.mp3">https://archive.org/download/Tclp2015-05-31StrengthThroughVulnerability/cmdln.net_2015-05-31.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8343-14" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-05-31StrengthThroughVulnerability/cmdln.net_2015-05-31.mp3?_=14" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-05-31StrengthThroughVulnerability/cmdln.net_2015-05-31.ogg?_=14" /><a href="https://archive.org/download/Tclp2015-05-31StrengthThroughVulnerability/cmdln.net_2015-05-31.mp3">https://archive.org/download/Tclp2015-05-31StrengthThroughVulnerability/cmdln.net_2015-05-31.mp3</a></audio>
 <p>You can grab the <a href="https://archive.org/details/Tclp2015-05-31StrengthThroughVulnerability/">flac encoded audio</a> from the Internet Archive.</p>
 <p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
 ]]></content:encoded>
@@ -354,9 +651,9 @@
 		<pubDate>Sun, 31 May 2015 23:15:02 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[General]]></category>
-		<category><![CDATA[coping]]></category>
-		<category><![CDATA[loss]]></category>
 		<category><![CDATA[mental health]]></category>
+		<category><![CDATA[loss]]></category>
+		<category><![CDATA[coping]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8112</guid>
 		<description><![CDATA[Thoughts on what my family went through this past year, how vulnerability may lead to strength. <a class="more-link" href="https://thecommandline.net/2015/05/31/strength-through-vulnerability/">Read More ...</a>]]></description>
@@ -398,7 +695,7 @@
 				<content:encoded><![CDATA[<div id="attachment_8278" style="width: 160px" class="wp-caption alignright"><a href="https://thecommandline.net/files/181150286_d53c1b399d_b.jpg"><img class="wp-image-8278 size-thumbnail" src="https://thecommandline.net/files/181150286_d53c1b399d_b-150x150.jpg" alt="" width="150" height="150" /></a><p class="wp-caption-text">Used under CC-BY-NC-SA, thanks to Flickr user fieldsbh</p></div>
 <p>This is an episode of The Command Line Podcast.</p>
 <p>In this episode, I talk about how I find the time for all the interests, passions and projects I pursue. Even though I feel like I am doing less than I used to, I still get the question of how I managed to do so much. In starting a couple of new things, from baking for my family to a new job, I came up with some observations and insights might help. Ironically enough, I meant to record this episode last week but a surprise technical difficulty delayed me. That all seems to be sorted so hopefully more new episodes, soon.</p>
-<audio class="wp-audio-shortcode" id="audio-8277-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-05-24FindingTheTime/cmdln.net_2015-05-24.mp3?_=9" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-05-24FindingTheTime/cmdln.net_2015-05-24.ogg?_=9" /><a href="https://archive.org/download/Tclp2015-05-24FindingTheTime/cmdln.net_2015-05-24.mp3">https://archive.org/download/Tclp2015-05-24FindingTheTime/cmdln.net_2015-05-24.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8277-15" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-05-24FindingTheTime/cmdln.net_2015-05-24.mp3?_=15" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-05-24FindingTheTime/cmdln.net_2015-05-24.ogg?_=15" /><a href="https://archive.org/download/Tclp2015-05-24FindingTheTime/cmdln.net_2015-05-24.mp3">https://archive.org/download/Tclp2015-05-24FindingTheTime/cmdln.net_2015-05-24.mp3</a></audio>
 <p>You can grab the <a href="https://archive.org/details/Tclp2015-05-24FindingTheTime/">flac encoded audio</a> from the Internet Archive.</p>
 <p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
 ]]></content:encoded>
@@ -414,9 +711,9 @@
 		<pubDate>Mon, 18 May 2015 22:06:37 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[General]]></category>
-		<category><![CDATA[audio]]></category>
-		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[production]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[audio]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8231</guid>
 		<description><![CDATA[My mixer stopped working, then seemingly randomly works again, here's a bit more on what happened. <a class="more-link" href="https://thecommandline.net/2015/05/18/hiccup-with-my-mixer-under-linux/">Read More ...</a>]]></description>
@@ -438,8 +735,8 @@
 		<pubDate>Tue, 12 May 2015 21:50:28 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Events]]></category>
-		<category><![CDATA[events]]></category>
 		<category><![CDATA[travel]]></category>
+		<category><![CDATA[events]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8213</guid>
 		<description><![CDATA[Soon I will be heading to JSConf US 2015. This may be the first of more, regular work conferences. <a class="more-link" href="https://thecommandline.net/2015/05/12/jsconf-us-2015-and-future-conferences/">Read More ...</a>]]></description>
@@ -467,7 +764,7 @@
 <p>I rushed this episode out for listeners who do not read the web site. I wanted to let those listeners know about the coming change in feeds, in case of any disruptions. I am hoping there are no problems, but if someone has one, I want them to have the heads up and to know I will help where I can if there are any feed hiccups.</p>
 <p>I discuss some listener feedback, namely Pete&#8217;s recommendation of the <a href="http://sjl.bitbucket.org/gundo.vim/">Gundo plugin</a> for vim and Tim&#8217;s move from nano to vim.</p>
 <p>For the rest of the episode, I extemporize on lessons I have learned about the benefit of choosing between a hard or soft aspect as someone who used to almost unilaterally always approach situations with a firm set to his jaw.</p>
-<audio class="wp-audio-shortcode" id="audio-8178-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-04-18ChoosingYourAspect/cmdln.net_2015-04-18.mp3?_=10" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-04-18ChoosingYourAspect/cmdln.net_2015-04-18.ogg?_=10" /><a href="https://archive.org/download/Tclp2015-04-18ChoosingYourAspect/cmdln.net_2015-04-18.mp3">https://archive.org/download/Tclp2015-04-18ChoosingYourAspect/cmdln.net_2015-04-18.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8178-16" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-04-18ChoosingYourAspect/cmdln.net_2015-04-18.mp3?_=16" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-04-18ChoosingYourAspect/cmdln.net_2015-04-18.ogg?_=16" /><a href="https://archive.org/download/Tclp2015-04-18ChoosingYourAspect/cmdln.net_2015-04-18.mp3">https://archive.org/download/Tclp2015-04-18ChoosingYourAspect/cmdln.net_2015-04-18.mp3</a></audio>
 <p>You can grab the <a href="https://archive.org/details/Tclp2015-04-18ChoosingYourAspect/">flac encoded audio</a> from the Internet Archive.</p>
 <p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
 ]]></content:encoded>
@@ -503,20 +800,20 @@
 		<item>
 		<title>TCLP 2015-04-12 Hope and Fear in the World of vim</title>
 		<link>https://thecommandline.net/2015/04/12/hope_fear_vim/</link>
-		<comments>https://thecommandline.net/2015/04/12/hope_fear_vim/#comments</comments>
+		<comments>https://thecommandline.net/2015/04/12/hope_fear_vim/#respond</comments>
 		<pubDate>Sun, 12 Apr 2015 21:20:09 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
 		<category><![CDATA[Review]]></category>
-		<category><![CDATA[coding]]></category>
 		<category><![CDATA[tools]]></category>
+		<category><![CDATA[coding]]></category>
 		<category><![CDATA[vim]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8167</guid>
 		<description><![CDATA[Trying to keep the momentum rolling, a new episode of my podcast is available. <a class="more-link" href="https://thecommandline.net/2015/04/12/hope_fear_vim/">Read More ...</a>]]></description>
 				<content:encoded><![CDATA[<p><a href="https://thecommandline.net/files/blank_preview1.png"><img class="alignright size-thumbnail wp-image-8168" src="https://thecommandline.net/files/blank_preview1-150x150.png" alt="blank_preview1" width="150" height="150" /></a>This is an episode of The Command Line Podcast.</p>
 <p>I share a quick game review in this episode of <a href="http://www.amazon.com/gp/product/B00GDI4HX4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00GDI4HX4&amp;linkCode=as2&amp;tag=thecommandl0a-20&amp;linkId=TYZP4YND4NBWDQLL">Coup</a> and its expansion, <a href="http://www.amazon.com/gp/product/B00NP7E6U0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00NP7E6U0&amp;linkCode=as2&amp;tag=thecommandl0a-20&amp;linkId=HUNITMLHQAMDGTIY">Coup: Reformation</a>. The feature is a reading of <a href="https://thecommandline.net/2015/03/27/hope-and-fear-in-the-world-of-vim/">my recent essay</a> about my favorite text editor, vim.</p>
-<audio class="wp-audio-shortcode" id="audio-8167-11" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-04-12HopeAndFearInTheWorldOfVim/cmdln.net_2015-04-12.mp3?_=11" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-04-12HopeAndFearInTheWorldOfVim/cmdln.net_2015-04-12.ogg?_=11" /><a href="https://archive.org/download/Tclp2015-04-12HopeAndFearInTheWorldOfVim/cmdln.net_2015-04-12.mp3">https://archive.org/download/Tclp2015-04-12HopeAndFearInTheWorldOfVim/cmdln.net_2015-04-12.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8167-17" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-04-12HopeAndFearInTheWorldOfVim/cmdln.net_2015-04-12.mp3?_=17" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-04-12HopeAndFearInTheWorldOfVim/cmdln.net_2015-04-12.ogg?_=17" /><a href="https://archive.org/download/Tclp2015-04-12HopeAndFearInTheWorldOfVim/cmdln.net_2015-04-12.mp3">https://archive.org/download/Tclp2015-04-12HopeAndFearInTheWorldOfVim/cmdln.net_2015-04-12.mp3</a></audio>
 <p>You can grab the <a href="https://archive.org/details/Tclp2015-04-12HopeAndFearInTheWorldOfVim/">flac encoded audio</a> from the Internet Archive.</p>
 <p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
 ]]></content:encoded>
@@ -532,8 +829,8 @@
 		<pubDate>Sun, 29 Mar 2015 21:39:07 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[gadget treadmill]]></category>
 		<category><![CDATA[open source]]></category>
+		<category><![CDATA[gadget treadmill]]></category>
 		<category><![CDATA[ubiquitous computing]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8100</guid>
@@ -541,7 +838,7 @@
 				<content:encoded><![CDATA[<p><a href="https://thecommandline.net/files/wpid-wp-1427664327011-e1427664534840.jpeg"><img class="alignleft wp-image-8102 size-thumbnail" src="https://thecommandline.net/files/wpid-wp-1427664327011-e1427664534840-150x150.jpeg" alt="My New Car" width="150" height="150" /></a>This is an episode of The Command Line Podcast.</p>
 <p>This episode is an experiment. I recorded an extemporized monologue in my car during what is a fairly regular drive for my right now. I expressed my gratitude for, and inspiration from, <a href="http://www.theseanachai.com/">Patrick McLean</a>, in particular his return to The Seanachai, and <a href="http://evilgeniuschronicles.org/">Dave Slusher</a>.</p>
 <p>I talked about the new car I bought at the end of January, my reasons for buying it and my experience of genuinely feeling that I am driving a computer.</p>
-<audio class="wp-audio-shortcode" id="audio-8100-12" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-03-29MyDrivableComputer/cmdln.net_2015-03-29.mp3?_=12" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-03-29MyDrivableComputer/cmdln.net_2015-03-29.ogg?_=12" /><a href="https://archive.org/download/Tclp2015-03-29MyDrivableComputer/cmdln.net_2015-03-29.mp3">https://archive.org/download/Tclp2015-03-29MyDrivableComputer/cmdln.net_2015-03-29.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8100-18" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-03-29MyDrivableComputer/cmdln.net_2015-03-29.mp3?_=18" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-03-29MyDrivableComputer/cmdln.net_2015-03-29.ogg?_=18" /><a href="https://archive.org/download/Tclp2015-03-29MyDrivableComputer/cmdln.net_2015-03-29.mp3">https://archive.org/download/Tclp2015-03-29MyDrivableComputer/cmdln.net_2015-03-29.mp3</a></audio>
 <p>You can grab the <a href="https://archive.org/details/Tclp2015-03-29MyDrivableComputer/">flac encoded audio</a> from the Internet Archive.</p>
 <p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
 ]]></content:encoded>
@@ -557,10 +854,10 @@
 		<pubDate>Fri, 27 Mar 2015 21:29:15 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[expert]]></category>
-		<category><![CDATA[hacking]]></category>
 		<category><![CDATA[tools]]></category>
+		<category><![CDATA[hacking]]></category>
 		<category><![CDATA[vim]]></category>
+		<category><![CDATA[expert]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8096</guid>
 		<description><![CDATA[For some reason, I decided to step back from any integrated development environments at work and just use my preferred power editor of choice, vim. If you are unfamiliar, an IDE is a very powerful tool, like an assistant constantly <a class="more-link" href="https://thecommandline.net/2015/03/27/hope-and-fear-in-the-world-of-vim/">Read More ...</a>]]></description>
@@ -609,9 +906,9 @@
 		<pubDate>Fri, 13 Feb 2015 21:17:48 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Events]]></category>
+		<category><![CDATA[speaking]]></category>
 		<category><![CDATA[Balticon]]></category>
 		<category><![CDATA[convention]]></category>
-		<category><![CDATA[speaking]]></category>
 
 		<guid isPermaLink="false">https://thecommandline.net/?p=8022</guid>
 		<description><![CDATA[I've decided against going to Balticon, this year, and this brief post explains a little bit why. <a class="more-link" href="https://thecommandline.net/2015/02/13/giving-balticon-a-miss/">Read More ...</a>]]></description>
@@ -627,7 +924,7 @@
 		<item>
 		<title>TCLP 2015-02-01 If It Sounds Right and My Site Has a POSSE</title>
 		<link>https://thecommandline.net/2015/02/01/tclp-2015-02-01-if-it-sounds-right-and-my-site-has-a-posse/</link>
-		<comments>https://thecommandline.net/2015/02/01/tclp-2015-02-01-if-it-sounds-right-and-my-site-has-a-posse/#comments</comments>
+		<comments>https://thecommandline.net/2015/02/01/tclp-2015-02-01-if-it-sounds-right-and-my-site-has-a-posse/#respond</comments>
 		<pubDate>Sun, 01 Feb 2015 19:18:22 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Podcast]]></category>
@@ -638,7 +935,7 @@
 <p><a href="https://thecommandline.net/files/15041174260_e7dbe812d8_z.jpg"><img class="alignleft size-thumbnail wp-image-7844" src="https://thecommandline.net/files/15041174260_e7dbe812d8_z-150x150.jpg" alt="One of My Guitars" width="150" height="150" /></a>In this episode, I share another essay, this time also from the web site, on the <a href="http://thecommandline.net/2015/01/27/if-it-sounds-right/">the interplay of critical judgement and skill</a>.</p>
 <p>Following up on a promise to myself towards the end of last year, I extemporize for the latter half of the show. I hope that by allowing myself to just speak with little or no preparation on a subject, I will make it easier to get more shows out in a given year. I decided the work I&#8217;ve done exploring this concept of POSSE, or Post Own Site and Syndicate Everywhere, would be interesting to discuss, in particular responding to some mild criticism and clarifying why I find what I have set up so useful.</p>
 <p>I wrote two posts covering more technical details of what I am using, <a href="http://thecommandline.net/2015/01/24/initial-impressions-of-a-posse-setup/">here</a> and <a href="http://thecommandline.net/2015/01/25/refining-my-posse-setup/">here</a>. You can view my <a href="http://thecommandline.net/category/syndicate">lifestream category on this site</a>, or <a href="http://nohobo.me/category/syndicate">the same category on my new site</a>, to see how this is all working for me. I have to once again give <a href="http://evilgeniuschronicles.org/">Dave Slusher</a> credit for getting my thinking about this idea and for <a href="http://evilgeniuschronicles.org/2014/09/05/this-blog-has-a-posse/">sharing how he has implemented it</a>. Once again, you can <a href="https://cmdln.net/tt-rss/public.php?op=rss&amp;id=-2&amp;view-mode=all_articles&amp;key=kk74zw542e8848c82fe">subscribe to the links I curate</a> throughout the week from my own aggregator.</p>
-<audio class="wp-audio-shortcode" id="audio-7984-13" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse/cmdln.net_2015-02-01.mp3?_=13" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse/cmdln.net_2015-02-01.ogg?_=13" /><a href="https://archive.org/download/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse/cmdln.net_2015-02-01.mp3">https://archive.org/download/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse/cmdln.net_2015-02-01.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-7984-19" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse/cmdln.net_2015-02-01.mp3?_=19" /><source type="audio/ogg" src="https://archive.org/download/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse/cmdln.net_2015-02-01.ogg?_=19" /><a href="https://archive.org/download/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse/cmdln.net_2015-02-01.mp3">https://archive.org/download/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse/cmdln.net_2015-02-01.mp3</a></audio>
 <p>You can grab the <a href="https://archive.org/details/Tclp2015-02-01IfItSoundsRightAndMySiteHasAPosse">flac encoded audio</a> from the Internet Archive.</p>
 <p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
 ]]></content:encoded>
@@ -650,15 +947,15 @@
 		<item>
 		<title>If It Sounds Right</title>
 		<link>https://thecommandline.net/2015/01/27/if-it-sounds-right/</link>
-		<comments>https://thecommandline.net/2015/01/27/if-it-sounds-right/#comments</comments>
+		<comments>https://thecommandline.net/2015/01/27/if-it-sounds-right/#respond</comments>
 		<pubDate>Tue, 27 Jan 2015 20:02:03 +0000</pubDate>
 		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
 		<category><![CDATA[coding]]></category>
-		<category><![CDATA[craft]]></category>
 		<category><![CDATA[learning]]></category>
-		<category><![CDATA[practice]]></category>
 		<category><![CDATA[skills]]></category>
+		<category><![CDATA[practice]]></category>
+		<category><![CDATA[craft]]></category>
 
 		<guid isPermaLink="false">http://thecommandline.net/?p=7834</guid>
 		<description><![CDATA[This essay is a bit overdue but shares some of my latest thinking on play, both in music and in code. <a class="more-link" href="https://thecommandline.net/2015/01/27/if-it-sounds-right/">Read More ...</a>]]></description>
@@ -705,231 +1002,5 @@
 			<wfw:commentRss>https://thecommandline.net/2015/01/25/refining-my-posse-setup/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
-		<item>
-		<title>Initial Impressions of a POSSE Setup</title>
-		<link>https://thecommandline.net/2015/01/24/initial-impressions-of-a-posse-setup/</link>
-		<comments>https://thecommandline.net/2015/01/24/initial-impressions-of-a-posse-setup/#comments</comments>
-		<pubDate>Sat, 24 Jan 2015 20:31:40 +0000</pubDate>
-		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[federation]]></category>
-		<category><![CDATA[open]]></category>
-		<category><![CDATA[POSSE]]></category>
-		<category><![CDATA[social]]></category>
-
-		<guid isPermaLink="false">http://thecommandline.net/?p=7885</guid>
-		<description><![CDATA[I&#8217;ve only been playing with SNAP, a WordPress plugin, a few hours, but have some initial thoughts. I started down this path thanks to Dave Slusher who wrote about POSSE which stands for Post to Own Site, Share Everywhere. I <a class="more-link" href="https://thecommandline.net/2015/01/24/initial-impressions-of-a-posse-setup/">Read More ...</a>]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;ve only been playing with <a href="https://wordpress.org/plugins/social-networks-auto-poster-facebook-twitter-g/">SNAP</a>, a WordPress plugin, a few hours, but have some initial thoughts.</p>
-<div id="attachment_7886" style="width: 310px" class="wp-caption alignright"><a href="https://thecommandline.net/files/6018590577_31d9336321_z.jpg"><img class="wp-image-7886 size-medium" src="https://thecommandline.net/files/6018590577_31d9336321_z-300x238.jpg" alt="NAND Cat Has a Posse, used under CC-BY thanks to Flickr user Paul Downer" width="300" height="238" /></a><p class="wp-caption-text">NAND Cat Has a Posse, used under CC-BY thanks to Flickr user Paul Downey</p></div>
-<p>I started down this path thanks to Dave Slusher who <a href="http://evilgeniuschronicles.org/2014/09/05/this-blog-has-a-posse/">wrote about POSSE</a> which stands for Post to Own Site, Share Everywhere. I like this concept a great deal. Investing the typical time more and more folks do in communications and information only to have that effort evaporate at the whim or circumstance of the platform, tool or channel of the moment seems very foolish to me. I had been experimenting with Bridgy but still manually sharing all of my posts and posting shorter thoughts directly to all these sharing outlets like Twitter and Facebook.</p>
-<p>I stood up <a href="http://nohobo.me">a second site</a> for another set of interests of mine. Doubling my existing workflow was not appealing in the slightest. I decided to take the plunge with the WordPress plugin, SNAP, that Dave mentions. For the most part, I really like it. With a little fine tuning, content showing up on sharing networks looks native but cleanly and clearly originates from my site. I will warn that this is a power tool, which affects the effort to set up and how smoothly it supports more than one workflow.</p>
-<p>In terms of the installation, just getting it into WordPress is easy enough. Connecting it to other services may require a good deal more effort. I have only connected Twitter and Facebook so far as Google+ requires some additional bits. For both Twitter and Facebook, I had to sign up as a developer and essentially create new applications with each of those for each of my sites. The SNAP documentation for this is superb but this may be outside a lot of people&#8217;s comfort zone.</p>
-<p>For the primary workflow of simply sharing regular blog posts, SNAP is great. You can configure templates for messages to each with some pretty clear replacement parameters (although finding the list from the plugin is pretty much impossible, I bookmarked their documentation page.) Unlike other tools I had tried previously, messages can be tailored so they look native to the sites on which they appear. This is a huge plus as the current crop of popular sharing sites increasingly penalize anything coming in that doesn&#8217;t smoothly fit into their design, flow and expectations. Mismatched updates often get down ranked, defeating the point of sharing everywhere.</p>
-<p>I have two other workflows I am still working on. The first is simply using my site, as Dave discusses, as the source for my usual social updates. I have a couple of plugins I use, as he suggests, to have a hidden category for purely social content on my site. Posting to those then only shows on the intended target and if someone follows a link back I provide. Unfortunately, the differences in content size limits makes this a bit clunky. WordPress supports one or two ways to break up content and SNAP can take advantage of those. But if I want a long update on services that support that chunked into three or more shorter updates, there is no good support for that. I am contemplating going back to what I was doing, but doing it via my own site&#8211;writing one long post then just simply copying that out into several shorter messages, massaged to work better on services with tighter limits.</p>
-<p>If SNAP would add a character count to WordPress, for starters, then introduce a way to add markers that are invisible on my site but SNAP uses to break up posts into smaller pieces, as needed, that would be splendid. I haven&#8217;t looked to see if their Pro version does this or it is on their roadmap. I also haven&#8217;t looked to see if they have a robust way to suggest features. I have, after all, been using it less than a day. I will give them the benefit, continuing to investigate and push even if I have to fall back on some manual labor in the meantime.</p>
-<p>The other workflow I use is Twitter specific, for sharing links out of my <a href="http://tt-rss.org/">RSS aggregator</a>. Usually I simply compose a tweet with the title of an article, its link, a via if warranted and then in any space left a comment. Predicting how SNAP will mangle such a post if composed in WordPress is proving difficult as it isn&#8217;t leveraging Twitter&#8217;s own URL shortener or offering its own. Again, the lack of character counting on posts is frustrating, I feel like using WordPress/SNAP for this is a bit like aiming blind. I am less concerned for this workflow since my aggregator is my canonical source for link curation and has its own way to share a feed of what I have shared, with my comments attached.</p>
-<p>I have only just started using SNAP&#8217;s own comment import. Dave recommended Bridgy over this feature but that service doesn&#8217;t appear to support more than one site per sharing service, a use case I now inhabit. Also, it has always bugged me that it was a service rather than a tool I could host and run myself. I did like that Bridgy used an emerging, open standard, web mentions, so I may look for a third option that has the best of both. I&#8217;ll share more thoughts as I have more experience with the import feature.</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-			<wfw:commentRss>https://thecommandline.net/2015/01/24/initial-impressions-of-a-posse-setup/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>More or More of the Same?</title>
-		<link>https://thecommandline.net/2015/01/17/more-or-more-of-the-same/</link>
-		<comments>https://thecommandline.net/2015/01/17/more-or-more-of-the-same/#comments</comments>
-		<pubDate>Sat, 17 Jan 2015 16:49:09 +0000</pubDate>
-		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[beer]]></category>
-		<category><![CDATA[listeners]]></category>
-		<category><![CDATA[topics]]></category>
-
-		<guid isPermaLink="false">http://thecommandline.net/?p=7832</guid>
-		<description><![CDATA[I ended the web site and podcast where I had been discussing some of my other interests, in particular around beer, brewing and cocktail culture. I don&#8217;t want to discuss the reasons why. While that project is definitely over, my <a class="more-link" href="https://thecommandline.net/2015/01/17/more-or-more-of-the-same/">Read More ...</a>]]></description>
-				<content:encoded><![CDATA[<p>I ended the web site and podcast where I had been discussing some of my other interests, in particular around beer, brewing and cocktail culture. I don&#8217;t want to discuss the reasons why. While that project is definitely over, my interests and pursuits related to it continue. Once or twice I have brought those, here, with an OK reception. I&#8217;ve been thinking about how best to continue to share and discuss those interests. I am of two minds.</p>
-<p>This site and podcast, largely by happenstance, has had a a pretty consistent set of themes on which it focused. If I were to expand that drastically, I worry it might be jarring or off putting to readers and listeners who follow along for just those discussions. I do have an idea for another site, a successor to the now defunct project, where I might like to house another constellation of interests, especially as I am really ramping up my pursuit of home brewing.</p>
-<p>On the other hand, I have always viewed this site and podcast as a reflection of myself. As focused as the writing and discussion has been, that has been an accident of my interests, not an intentional focus on just the few things I touch on over and over. Home brewing, beer and libations, as well as some more recent interests to which I&#8217;ve alluded as well, are just as valid for consideration. One of the advantages of a well categorized and/or tagged endeavor like this one is listeners and readers can easily skip the things in which they are less interested and stick around for the rest.</p>
-<p>Whatever I decide, I&#8217;ll share another post so folks are clear on where new content will be appearing so they can follow along if they like. In the meantime, I am genuinely curious to know what all of you think.</p>
-<p>Should I explore all of my interests here in a single site and have faith that folks can and will self select and filter down to what they like? Or should I spin up a fresh site where folks can subscribe additionally if they want to read and hear about my ongoing efforts in the space of home brewing, beer and other things related?</p>
-]]></content:encoded>
-			<wfw:commentRss>https://thecommandline.net/2015/01/17/more-or-more-of-the-same/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>Getting Back Up to Speed</title>
-		<link>https://thecommandline.net/2014/12/30/getting-back-up-to-speed/</link>
-		<comments>https://thecommandline.net/2014/12/30/getting-back-up-to-speed/#comments</comments>
-		<pubDate>Tue, 30 Dec 2014 14:03:25 +0000</pubDate>
-		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[job search]]></category>
-		<category><![CDATA[learning]]></category>
-		<category><![CDATA[practice]]></category>
-
-		<guid isPermaLink="false">http://thecommandline.net/?p=7704</guid>
-		<description><![CDATA[I had three hours to write a JavaScript single page application that implemented a very simple Reddit client in the browser. I was assured I would likely not need more than one hour. At the end of the first hour, <a class="more-link" href="https://thecommandline.net/2014/12/30/getting-back-up-to-speed/">Read More ...</a>]]></description>
-				<content:encoded><![CDATA[<p>I had three hours to write a JavaScript single page application that implemented a very simple Reddit client in the browser. I was assured I would likely not need more than one hour. At the end of the first hour, the interviewer checked back in with me to see how I was progressing. I had been struggling just to get the basic scaffolding of the application put together. I had used a lot of the hour on looking up libraries and tools as well as refreshing myself on my JavaScript syntax.</p>
-<p>I managed to complete the assignment in a little over two hours. I felt not only frustrated but embarrassed at how long it took me as compared to when I was in my top programming form. The interviewer assured me it was fine but I knew it was far from my best possible effort. As it turns out, the interviewer was right. For that particular prospect in my recent job search, I progressed to the next round of interviews.</p>
-<p>I wrote an Inner Chapter years ago about brushing up programming skills after a period of not using them. I wrote that chapter for a listener who had gone through some hardship and was looking for help adjusting. Partly it was coping with changes in physical ability specific to that listener, partly it was more general advice on sharpening skills. I&#8217;ve been thinking a lot again on the subject of getting back up to speed at programming having just left a full time management job to go back to a full time programming one.</p>
-<p>Even in the first year at the job I just left, when I was still in more of an engineering role, I didn&#8217;t feel like I got a lot of practice at programming. They had some technology projects but the pace of and pressures on them were very different, being a non-profit, than what I had experienced up to that point. Even when I was promoted, a lot of my skills as a technical manager didn&#8217;t apply very well. The kinds of stakeholders we had didn&#8217;t really know much about the standard software life-cycle. I ended up spending far more time managing personnel, managing budgets, and fund raising rather than implementing and supporting processes for creating software in a regular and consistent way. It was a rare day when I got to work with technology directly.</p>
-<p>As I&#8217;ve written about recently, a large part of my decision to leave that job was realizing how unhappy the lack of opportunity to code was making me. To make matters more stressful, during my job search I had to explain over and over again why I was leaving an upper management role and looking for work as a programmer.</p>
-<p>&#8220;You are currently director of technology?&#8221; &#8220;Yes.&#8221; &#8220;You know this is not a management job, right?&#8221; &#8220;Yes.&#8221; &#8220;You&#8217;ve been a manager before. You truly understand this is just a programming job?&#8221;</p>
-<p>I got very practiced at telling the story of my multiple runs at management. I would tell them that I never started as a manager. Working at a small organization, it would become clear, usually due to growth, that more leadership was needed. Foolishly, perhaps, I would volunteer, at least until they found someone better at managing. They never did. Eventually the strain and the desire to get back to programming would become overwhelming. Taking a demotion was never a practical option so three times, now, I have found myself in this same juncture.</p>
-<p>I have only been on my new job three weeks but I&#8217;ve been thinking about a few experiences that could be helpful to someone else looking to get up to speed. I already shared the first one but I had several other experiences just as part of the job search process that I think are relevant. Just going through several successive coding assignments, especially in a very reflective state of mind, revealed insights I continue to ponder.</p>
-<p>In that very first coding assignment, I mostly felt frustration. I had to look everything up, even the basic tools and libraries I was using. I had lost the equivalent of muscle tone. I couldn&#8217;t reflexively just spin up the bare minimum set up and configuration to get some arbitrary bit of new code working. I was struggling with my tools rather than feeling that they were smoothing and accelerating my efforts. The silver lining to that frustration was the immense sense of accomplishment on mastering it. As long as I remember this frustration, I am less likely to take my tools for granted. When I have felt that frustration again at the new job, even with more time and resources to get something done, I am able to see it in context, as a very normal part of the experience, trusting that if I persevere, I will be rewarded.</p>
-<p>In a good environment, getting tools and configurations right will be a shared burden. My new gig is very much like this, though the work to keep the tooling up to snuff is a little bit of a guerilla priority. Engineers have to squeeze time in around things other people find more pressing. A lower priority on process and tools compared to more obvious business value is actually common in my experience. Regardless, I was grateful, as a consequence of the frustrations I felt during the coding assignments throughout my search. My new colleagues apologized for the roughness of the code and documentation, I was just glad to not have to do all the necessary grunt work on my own. I was motivated to contribute what I could out of that appreciation. I felt that contributing to improving the basic set up in this way paid forward the kindness done to me, lessening the frustration of the next new hire. Jumping in was also good practice to help with my overall brushing up and gave me an opportunity to understand the set up a bit better, always a good thing when the need to troubleshoot it arises.</p>
-<p>I didn&#8217;t even have to get to the new job to realize some improvements in my disused coding skills. In the subsequent coding assignments, I was able to make better progress more quickly. I had to do a second assignment for the same prospect as that very first, super frustrating assignment. On that second attempt I was better able to focus on the challenge at hand and the quality of my code. I found that trend continued through a few other coding projects I did as part of my search. By the end, I was spending as much time on the code comments and the commit history, to really show off my thought process and how well I understand the problem I had been presented.</p>
-<p>The last coding assignment I did, I completed in less than an hour. I got to show off a little, too. The problem definition included some hints that could easily be missed. It asked to include some comments on the code&#8217;s performance. I was given the maximum expected input size. Once I had the code provably working, as demonstrated by some unit tests I turned in with the assignment, I thought about that maximum input size. I didn&#8217;t think it was included for no reason so added a unit test that run a random input sample that matched the stated max. Not surprisingly, my code slowed to a crawl.</p>
-<p>I was able to recall not just my core programming skills but also some troubleshooting. I didn&#8217;t fire up a full on interactive debugger but did add some logging. I worked from very broad to increasingly narrow sections of code until I had isolated the problem. I figured out and made some changes that my tests now revealed improved the performance to be acceptable. I even left some code comments suggesting how the performance could be improved further.</p>
-<p>I think that just the opportunity to practice with some clear goals can do a lot to help knock off the rust. You may not always have coding assignments like in a job search but there are online resources that can serve a similar purpose. As part of my orientation packet at my new job, I was turned on to <a href="https://www.codeschool.com/">Code School</a>. The topics are limited, focusing on web development with just a few technologies but I like the approach. The courses combine short instructional videos and interactive exercises.</p>
-<p>Whatever resources you find to use, I think the practical aspect is important. I am still relying on books a lot, even if I am loading them on my tablet rather than accumulating heavy stacks of paper as I did far earlier in my career. The best books, just like the online courses, include exercises that give the reader a chance to work with the material covered. Application is key to cementing a new skill or reviving a disused one.</p>
-<p>I suppose there is a role for trivia, accumulating simple facts about programming or tools, but it is less helpful when learning for the first time or getting back into the swing of things. When working through an exercise, I will often have one of two very gratifying experiences. I will either laugh out loud or nod and smile as some bit of skill or knowledge comes flooding back to me. I laugh when feeling the visceral joy of either getting something to work or even more powerfully, of feeling come concept really snap into place in my mind.</p>
-<p>The next challenge for me is getting back into good daily habits for coding. I think I will save my thoughts on that subject for another post. Hopefully, my early experiences getting back up to speed make sense and are useful to at least some of you.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://thecommandline.net/2014/12/30/getting-back-up-to-speed/feed/</wfw:commentRss>
-		<slash:comments>7</slash:comments>
-		</item>
-		<item>
-		<title>TCLP 2014-12-21 A Sense of Scale and Getting Back Up to Speed</title>
-		<link>https://thecommandline.net/2014/12/21/scale_and_speed/</link>
-		<comments>https://thecommandline.net/2014/12/21/scale_and_speed/#comments</comments>
-		<pubDate>Sun, 21 Dec 2014 20:56:52 +0000</pubDate>
-		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
-				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[Programming]]></category>
-		<category><![CDATA[functional decomposition]]></category>
-		<category><![CDATA[job search]]></category>
-		<category><![CDATA[learning]]></category>
-		<category><![CDATA[organization]]></category>
-		<category><![CDATA[practice]]></category>
-		<category><![CDATA[quality]]></category>
-		<category><![CDATA[scale]]></category>
-		<category><![CDATA[walking]]></category>
-
-		<guid isPermaLink="false">http://thecommandline.net/?p=7722</guid>
-		<description><![CDATA[This is an episode of The Command Line Podcast. In this episode, I share a couple more essays. Before the essays, I help spread the request for support from the GnuPG project. You can donate here. The first essay was <a class="more-link" href="https://thecommandline.net/2014/12/21/scale_and_speed/">Read More ...</a>]]></description>
-				<content:encoded><![CDATA[<p><img class="alignleft size-medium wp-image-7723" src="https://thecommandline.net/files/Unit_395008_at_Ebbsfleet_International-300x225.jpg" alt="Used under CC license, by Wikipedia user Sunil060902" width="300" height="225" />This is an episode of The Command Line Podcast.</p>
-<p>In this episode, I share a couple more essays. Before the essays, I help spread the request for support from the <a href="https://gnupg.org/">GnuPG project</a>. You can <a href="https://gnupg.org/donate/index.html">donate here</a>. The first essay was already published on the web site, &#8220;<a href="http://thecommandline.net/2014/11/04/sense-of-scale/">A Sense of Scale</a>.&#8221; The second essay is new, &#8220;Getting Back Up to Speed,&#8221; and I will publish it on the site in the next few days.</p>
-<audio class="wp-audio-shortcode" id="audio-7722-14" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/Tclp2014-12-21ASenseOfScaleAndGettingBackUpToSpeed/cmdln.net_2014-12-21.mp3?_=14" /><source type="audio/ogg" src="https://archive.org/download/Tclp2014-12-21ASenseOfScaleAndGettingBackUpToSpeed/cmdln.net_2014-12-21.ogg?_=14" /><a href="https://archive.org/download/Tclp2014-12-21ASenseOfScaleAndGettingBackUpToSpeed/cmdln.net_2014-12-21.mp3">https://archive.org/download/Tclp2014-12-21ASenseOfScaleAndGettingBackUpToSpeed/cmdln.net_2014-12-21.mp3</a></audio>
-<p>You can grab the <a href="http://www.archive.org/details/Tclp2014-12-21ASenseOfScaleAndGettingBackUpToSpeed">flac encoded audio</a> from the Internet Archive.</p>
-<p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://thecommandline.net/2014/12/21/scale_and_speed/feed/</wfw:commentRss>
-		<slash:comments>5</slash:comments>
-			<enclosure url="https://archive.org/download/Tclp2014-12-21ASenseOfScaleAndGettingBackUpToSpeed/cmdln.net_2014-12-21.mp3" length="0" type="audio/mpeg" />
-		<enclosure url="https://archive.org/download/Tclp2014-12-21ASenseOfScaleAndGettingBackUpToSpeed/cmdln.net_2014-12-21.ogg" length="0" type="audio/ogg" />
-	</item>
-		<item>
-		<title>Help Support a Critical, Free Software Privacy and Security Tool (Updated)</title>
-		<link>https://thecommandline.net/2014/12/20/help-support-a-critical-open-source-privacy-and-security-tool/</link>
-		<comments>https://thecommandline.net/2014/12/20/help-support-a-critical-open-source-privacy-and-security-tool/#comments</comments>
-		<pubDate>Sat, 20 Dec 2014 22:30:33 +0000</pubDate>
-		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[floss]]></category>
-		<category><![CDATA[gnupg]]></category>
-		<category><![CDATA[Privacy]]></category>
-
-		<guid isPermaLink="false">http://thecommandline.net/?p=7717</guid>
-		<description><![CDATA[I noticed an update from the GNU Privacy Guard project (gnupg or gpg) come across my feeds the other day. If you have received an email from me that has a digital signature if you know what that is or <a class="more-link" href="https://thecommandline.net/2014/12/20/help-support-a-critical-open-source-privacy-and-security-tool/">Read More ...</a>]]></description>
-				<content:encoded><![CDATA[<p>I noticed an update from the <a href="https://gnupg.org/">GNU Privacy Guard</a> project (gnupg or gpg) come across my feeds the other day. If you have received an email from me that has a digital signature if you know what that is or a bunch of gobblety-gook characters at the bottom if you don&#8217;t, the tool that makes those signatures possible is gnupg.</p>
-<p>More people seem aware of what encryption is and why it is important. We have had a string of increasingly distressing leaks, the ones from Edward Snowden just the latest, about how many governments in presumed open societies are participating in some very questionable trawling of their citizens&#8217; personal communications. For those still not sure why encryption is important, it is the one technology answer everyone can agree upon that allows individual citizens any sense of secrecy and privacy in their online communications, regardless of who may want to snoop on it and how well resourced those eavesdroppers may be.</p>
-<p>gnupg is especially important as it is is both free of charge and freely licensed. That second point is critical, it means that gnupg is open to scrutiny from any expert to help ensure it is free of back doors or other problems that might compromise its effectiveness. For users of alternate operating systems like BSD and GNU/Linux, it is often the only choice for certain applications of encryption. Thankfully, it happens to be a usable and useful one that interoperates with the commercial, proprietary choices available to users of more mainstream operating systems.</p>
-<p>That post from the gnupg folks? They are in clear need of help in terms of funding.</p>
-<blockquote>
-<div id="text-1" class="outline-text-2">
-<p>Work on GnuPG is mostly financed from donations. To continue maintaining GnuPG so to keep it strong and secure against the ever increasing mass surveillance we need your support. Until the end of November we received a total of 6584 € (~5500 net) donations for this year. Along with the 18000 € net from the <a href="https://gnupg.org/blog/20140512-rewards-sent.html">Goteo campaign</a> this paid for less than 50% of the costs for one developer.</p>
-<p>For a critical project of this size two experienced developers are required for proper operation. This requires gross revenues of 120000 Euro per year. Unfortunately there is currently only one underpaid full time developer who is barely able to keep up with the work; see this <a href="https://gnupg.org/blog/20141214-gnupg-and-g10.html">blog entry</a> for some backgound. Please help to secure the future of GnuPG and consider to <a href="https://gnupg.org/donate/index.html">donate</a> to this project <a href="https://gnupg.org/donate/index.html">now</a>.</p>
-</div>
-</blockquote>
-<p>Support for half of one developer for a project that could easily engage a handful, full time, year round. Do please consider making a donation and if you are unfamiliar with gnupg, spend some time on the project site. It really is a great tool.</p>
-<p><strong>Updated 2014-01-06</strong>: At the request of the primary author of gnupg, I changed the title and a reference to GNU/Linux in recognition of gnupg&#8217;s formal status as part of the umbrella <a href="http://gnu.org/">GNU project</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://thecommandline.net/2014/12/20/help-support-a-critical-open-source-privacy-and-security-tool/feed/</wfw:commentRss>
-		<slash:comments>27</slash:comments>
-		</item>
-		<item>
-		<title>TCLP 2014-12-13 Interview: Cory Doctorow, &#8220;Information Doesn&#8217;t Want to be Free&#8221;</title>
-		<link>https://thecommandline.net/2014/12/13/info_doesnt_want/</link>
-		<comments>https://thecommandline.net/2014/12/13/info_doesnt_want/#comments</comments>
-		<pubDate>Sat, 13 Dec 2014 19:20:16 +0000</pubDate>
-		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
-				<category><![CDATA[Interview]]></category>
-		<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[big content]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[business model]]></category>
-		<category><![CDATA[censorship]]></category>
-		<category><![CDATA[copyright]]></category>
-		<category><![CDATA[Cory Doctorow]]></category>
-		<category><![CDATA[indie creators]]></category>
-		<category><![CDATA[model]]></category>
-
-		<guid isPermaLink="false">http://thecommandline.net/?p=7706</guid>
-		<description><![CDATA[This is an episode of The Command Line Podcast. In this episode, I interview Cory Doctorow about his latest book, &#8220;Information Doesn&#8217;t Want to be Free: Laws for the Internet Age.&#8221; If you are interested in learning more about the <a class="more-link" href="https://thecommandline.net/2014/12/13/info_doesnt_want/">Read More ...</a>]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.amazon.com/gp/product/1940450284/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1940450284&amp;linkCode=as2&amp;tag=thecommandl0a-20&amp;linkId=I7MMNTMTCT2HEDZ3"><img class="alignright size-medium wp-image-7709" src="https://thecommandline.net/files/info_doesnt_want-199x300.jpg" alt="Information Doesn't Want to be Free: Laws for the Internet Age book cover" width="199" height="300" /></a>This is an episode of The Command Line Podcast.</p>
-<p>In this episode, I interview <a href="http://craphound.com/">Cory Doctorow</a> about his latest book, &#8220;<a href="http://www.amazon.com/gp/product/1940450284/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1940450284&amp;linkCode=as2&amp;tag=thecommandl0a-20&amp;linkId=I7MMNTMTCT2HEDZ3">Information Doesn&#8217;t Want to be Free: Laws for the Internet Age</a>.&#8221; If you are interested in learning more about the topics we discuss and that book covers, you can also check out books by the scholars we mention: <a href="http://www.amazon.com/Lawrence-Lessig/e/B001HCW3ZK/ref=sr_ntt_srch_lnk_1?qid=1418493214&amp;sr=1-1">Lawrence Lessig</a>, <a href="http://www.amazon.com/James-Boyle/e/B000AP9LBO/ref=sr_ntt_srch_lnk_1?qid=1418493242&amp;sr=1-1">James Boyle</a> and <a href="http://www.amazon.com/William-Patry/e/B001SQ0Y7O/ref=sr_tc_2_0?qid=1418493259&amp;sr=1-2-ent">William Patry</a>. I compared Cory&#8217;s book to &#8220;<a href="http://indieguide.com/">The Indie Band Survival Guide</a>&#8221; the authors of which are friends of the show whom I have also <a href="http://thecommandline.net/2013/01/07/randy_chertkow_ibsg2/">interviewed</a>.</p>
-<p>The <a href="http://craphound.com/?p=5398">audiobook version of the book</a> is already available. Check <a href="http://craphound.com/">Cory&#8217;s site</a>, the free download and electronic editions should be available soon.</p>
-<p></p>
-<p>You can grab the <a href="http://www.archive.org/details/Tclp2014-12-13InterviewCoryDoctorowinformationDoesntWantToBeFree">flac encoded audio</a> from the Internet Archive.</p>
-<p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://thecommandline.net/2014/12/13/info_doesnt_want/feed/</wfw:commentRss>
-		<slash:comments>30</slash:comments>
-			<enclosure url="https://archive.org/download/Tclp2014-12-13InterviewCoryDoctorowinformationDoesntWantToBeFree/cmdln.net_2014-12-13.mp3" length="40421950" type="audio/mpeg" />
-		<itunes:duration>0:42:04</itunes:duration>
-		<itunes:subtitle>This is an episode of The Command Line Podcast.
-In this episode, I interview Cory Doctorow about his latest book, &#8220;Information Doesn&#8217;t Want to be Free: Laws for the Internet Age.&#8221; If you are interested in learning more about the to[...]</itunes:subtitle>
-		<itunes:summary>This is an episode of The Command Line Podcast.
-In this episode, I interview Cory Doctorow about his latest book, &#8220;Information Doesn&#8217;t Want to be Free: Laws for the Internet Age.&#8221; If you are interested in learning more about the topics we discuss and that book covers, you can also check out books by the scholars we mention: Lawrence Lessig, James Boyle and William Patry. I compared Cory&#8217;s book to &#8220;The Indie Band Survival Guide&#8221; the authors of which are friends of the show whom I have also interviewed.
-The audiobook version of the book is already available. Check Cory&#8217;s site, the free download and electronic editions should be available soon.
-
-You can grab the flac encoded audio from the Internet Archive.
-</itunes:summary>
-		<itunes:keywords>Interview, Podcast</itunes:keywords>
-		<itunes:author>cmdln@thecommandline.net</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:block>yes</itunes:block>
-	</item>
-		<item>
-		<title>TCLP 2014-11-28 Searching for Myself and for Wisdom</title>
-		<link>https://thecommandline.net/2014/11/28/searching_self_wisdom/</link>
-		<comments>https://thecommandline.net/2014/11/28/searching_self_wisdom/#comments</comments>
-		<pubDate>Fri, 28 Nov 2014 18:43:39 +0000</pubDate>
-		<dc:creator><![CDATA[Thomas Gideon]]></dc:creator>
-				<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[job search]]></category>
-		<category><![CDATA[reflection]]></category>
-		<category><![CDATA[wisdom]]></category>
-
-		<guid isPermaLink="false">http://thecommandline.net/?p=7700</guid>
-		<description><![CDATA[This is an episode of The Command Line Podcast. In this episode, I share a couple more recent essays from the web site. In the second one, I refer to another essay about my new practice of walking. You can <a class="more-link" href="https://thecommandline.net/2014/11/28/searching_self_wisdom/">Read More ...</a>]]></description>
-				<content:encoded><![CDATA[<p>This is an episode of The Command Line Podcast.</p>
-<p>In this episode, I share a couple more recent essays from the web site. In the second one, I refer to another essay about my <a href="http://thecommandline.net/2014/10/04/keep-on-walking/">new practice of walking</a>.</p>
-<p></p>
-<p>You can grab the <a href="http://www.archive.org/details/Tclp2014-11-28SearchingForMyselfAndForWisdom">flac encoded audio</a> from the Internet Archive.</p>
-<p><a href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img src="https://thecommandline.net/wp-content/uploads/cc-by-sa.png" alt="Creative Commons License" /></a></p>
-]]></content:encoded>
-			<wfw:commentRss>https://thecommandline.net/2014/11/28/searching_self_wisdom/feed/</wfw:commentRss>
-		<slash:comments>9</slash:comments>
-			<enclosure url="https://archive.org/download/Tclp2014-11-28SearchingForMyselfAndForWisdom/cmdln.net_2014-11-28.mp3" length="16805176" type="audio/mpeg" />
-		<itunes:duration>0:17:28</itunes:duration>
-		<itunes:subtitle>This is an episode of The Command Line Podcast.
-In this episode, I share a couple more recent essays from the web site. In the second one, I refer to another essay about my new practice of walking.
-
-You can grab the flac encoded audio from the Inter[...]</itunes:subtitle>
-		<itunes:summary>This is an episode of The Command Line Podcast.
-In this episode, I share a couple more recent essays from the web site. In the second one, I refer to another essay about my new practice of walking.
-
-You can grab the flac encoded audio from the Internet Archive.
-</itunes:summary>
-		<itunes:keywords>Podcast</itunes:keywords>
-		<itunes:author>cmdln@thecommandline.net</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:block>yes</itunes:block>
-	</item>
 	</channel>
 </rss>

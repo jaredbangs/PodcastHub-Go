@@ -29,6 +29,60 @@ xml:lang='en-GB'>
 </itunes:category>
 
 <item>
+<title>Season 3 Episode 22</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Merry Christmas</itunes:subtitle>
+<description>
+
+In this Christmas special: (recorded live from Ben's house, replete with Ben's cider) we talk about Mozilla, StackExchange and Apple. We've got some great finds, a rant and a warmly festive Voice of the Masses. There's also One More Thing!
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e22.ogg" length="74871311" 
+type="audio/ogg" />
+<pubDate>Tue, 22 Dec 2015 12:00:00 GMT</pubDate>
+<itunes:duration>1:21:05</itunes:duration>
+<itunes:keywords>Mozilla Foundation, Firefox OS, StackExchange, Apple, Swift, Raspberry Pi, LibreOffice, OwnCloud, GNU, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-22/</guid>
+</item>
+
+
+<item>
+<title>Season 3 Episode 21</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: The Best Podcast In The Word. Ever.</itunes:subtitle>
+<description>
+
+In this episode: Pi Zero launches, and we've got one. LibreOffice has had 1,000 developers, and the Software Freedom Conservancy needs funds. We've got more Finds than ever before, a synthesised neuron, plus the internet infamous Open Ballot. 
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e21.ogg" length="52781340" 
+type="audio/ogg" />
+<pubDate>Fri, 4 Dec 2015 14:00:00 GMT</pubDate>
+<itunes:duration>58:25</itunes:duration>
+<itunes:keywords>Raspberry Pi, Pi Zero, Linux Foundation, Software Freedom Conservancy, LibreOffice, GNU, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-21/</guid>
+</item>
+
+
+<item>
+<title>Season 3 Episode 20</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Practicable Surveillance</itunes:subtitle>
+<description>
+
+In this episode: More epic discussions about privacy, encryption and the Investigatory Powers Bill. Steam Machines are finally on sale and Debian Live is Dead. Linus is quite happy with Linux security, thanks, and there's an imminent bug hunting session for LibreOffice 5.1. We've got an awesome Finds section, a brilliant OggBox and the /r/famous Voice of the Masses.
+ 
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e20.ogg" length="68616573" 
+type="audio/ogg" />
+<pubDate>Thu, 18 Nov 2015 10:00:00 GMT</pubDate>
+<itunes:duration>1:18:25</itunes:duration>
+<itunes:keywords>Privacy, Encryption, Politics, Steam, Security, GNU, Linux Voice, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-3-episode-20/</guid>
+</item>
+
+
+<item>
 <title>Season 3 Episode 19</title>
 <itunes:author>Ben Everard, Andrew Conway, Andrew Gregory and Graham Morrison.</itunes:author>
 <itunes:subtitle>Title: Live From OggCamp 2015!</itunes:subtitle>

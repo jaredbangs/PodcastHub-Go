@@ -6,12 +6,12 @@
 	
 	<link>http://radiodiaries.prx.org</link>
 	<description>Extraordinary stories of ordinary life.</description>
-	<lastBuildDate>Thu, 05 Nov 2015 22:22:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Dec 2015 18:59:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	
-<!-- podcast_generator="Blubrry PowerPress/6.1" mode="advanced" -->
+<!-- podcast_generator="Blubrry PowerPress/6.2.1" mode="advanced" -->
 	<itunes:summary>First-person diaries, sound portraits, and hidden chapters of history from Peabody Award-winning producer Joe Richman and the Radio Diaries team. From teenagers to octogenarians, prisoners to prison guards, bra saleswomen to lighthouse keepers. The extraordinary stories of ordinary life.
 
 Radio Diaries is a proud member of PRX's Radiotopia network: www.radiotopia.fm</itunes:summary>
@@ -32,6 +32,74 @@ Radio Diaries is a proud member of PRX's Radiotopia network: www.radiotopia.fm</
 	</image>
 	<itunes:category text="Society &amp; Culture" />
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feed.radiodiaries.org/radio-diaries" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="radio-diaries" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>#43: From Prison to President</title>
+		<link>http://radiodiaries.prx.org/43-from-prison-to-president/</link>
+		<comments>http://radiodiaries.prx.org/43-from-prison-to-president/#comments</comments>
+		<pubDate>Thu, 24 Dec 2015 18:59:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=341</guid>
+		<description><![CDATA[Four years after Nelson Mandela was released from prison, he became president of South Africa. And yet, those 4 years were among the bloodiest and most painful for all South Africans – black and white – as they struggled toward the transition to majority rule. A chapter from Mandela: An Audio History.]]></description>
+				<content:encoded><![CDATA[<p>Four years after Nelson Mandela was released from prison, he became president of South Africa. And yet, those 4 years were among the bloodiest and most painful for all South Africans – black and white – as they struggled toward the transition to majority rule. On the Radio Diaries Podcast we&#8217;ve been revisiting chapters from our documentary series, Mandela: An Audio History. In this episode, we bring you &#8220;From Prison to President.&#8221;  Plus, a bonus chapter about what might have been the most awkward lunch in history.</p>
+<p>We couldn&#8217;t make these stories without your help. Please consider making a donation to Radio Diaries at radiodiaries.org. Thank you!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/43-from-prison-to-president/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Prison-to-President-Podcast.mp3" length="30882586" type="audio/mpeg" />
+		<itunes:subtitle>Four years after Nelson Mandela was released from prison, he became president of South Africa. And yet, those 4 years were among the bloodiest and most painful for all South Africans – black and white – as they struggled toward the transition to majori...</itunes:subtitle>
+		<itunes:summary>Four years after Nelson Mandela was released from prison, he became president of South Africa. And yet, those 4 years were among the bloodiest and most painful for all South Africans – black and white – as they struggled toward the transition to majority rule. On the Radio Diaries Podcast we've been revisiting chapters from our documentary series, Mandela: An Audio History. In this episode, we bring you "From Prison to President."  Plus, a bonus chapter about what might have been the most awkward lunch in history.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/mandela_protrait_vertical-197x300.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>21:27</itunes:duration>
+	</item>
+		<item>
+		<title>#42: The Last Place</title>
+		<link>http://radiodiaries.prx.org/42-the-last-place/</link>
+		<comments>http://radiodiaries.prx.org/42-the-last-place/#comments</comments>
+		<pubDate>Thu, 03 Dec 2015 17:57:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=314</guid>
+		<description><![CDATA[When you spend so much of your life getting to the next stage, thinking about the next move, what is it like to find yourself at...the Last Place? On this episode of the Radio Diaries Podcast, we bring you audio diaries from a retirement home. ]]></description>
+				<content:encoded><![CDATA[<p>When you spend so much of your life getting to the next stage, thinking about the next move, what is it like to find yourself at&#8230;the Last Place? On this episode of the Radio Diaries Podcast, we bring you audio diaries from a retirement home. </p>
+<p>If you enjoy this podcast, please help us reach our year-end fundraising goal! Every dollar will help us produce more stories. Donate at radiodiaries.org</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/42-the-last-place/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Retirement-home-podcast.mp3" length="61339228" type="audio/mpeg" />
+		<itunes:subtitle>When you spend so much of your life getting to the next stage, thinking about the next move, what is it like to find yourself at...the Last Place? On this episode of the Radio Diaries Podcast, we bring you audio diaries from a retirement home.</itunes:subtitle>
+		<itunes:summary>When you spend so much of your life getting to the next stage, thinking about the next move, what is it like to find yourself at...the Last Place? On this episode of the Radio Diaries Podcast, we bring you audio diaries from a retirement home.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Last_Place_002_L-300x138.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>31:57</itunes:duration>
+	</item>
+		<item>
+		<title>#9: A Guitar, A Cello, And The Day That Changed Music</title>
+		<link>http://radiodiaries.prx.org/9-a-guitar-a-cello-and-the-day-that-changed-music-2/</link>
+		<comments>http://radiodiaries.prx.org/9-a-guitar-a-cello-and-the-day-that-changed-music-2/#comments</comments>
+		<pubDate>Thu, 19 Nov 2015 18:36:05 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Kramer]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=309</guid>
+		<description><![CDATA[November 23, 1936 was a good day for recorded music. Two men – an ocean apart – sat before a microphone and began to play. One was a cello prodigy who had performed for the Queen of Spain; the other played guitar and was a regular in the juke joints of the Mississippi Delta. But on this day, Pablo Casals and Robert Johnson both made recordings that would change music history.]]></description>
+				<content:encoded><![CDATA[<p>November 23, 1936 was a good day for recorded music. Two men – an ocean apart – sat before a microphone and began to play. One was a cello prodigy who had performed for the Queen of Spain; the other played guitar and was a regular in the juke joints of the Mississippi Delta. But on this day, Pablo Casals and Robert Johnson both made recordings that would change music history.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://radiodiaries.prx.org/9-a-guitar-a-cello-and-the-day-that-changed-music-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Casals-Johnson-Nov-2015-Podcast-Final.mp3" length="33842678" type="audio/mpeg" />
+		<itunes:subtitle>November 23, 1936 was a good day for recorded music. Two men – an ocean apart – sat before a microphone and began to play. One was a cello prodigy who had performed for the Queen of Spain; the other played guitar and was a regular in the juke joints of...</itunes:subtitle>
+		<itunes:summary>November 23, 1936 was a good day for recorded music. Two men – an ocean apart – sat before a microphone and began to play. One was a cello prodigy who had performed for the Queen of Spain; the other played guitar and was a regular in the juke joints of the Mississippi Delta. But on this day, Pablo Casals and Robert Johnson both made recordings that would change music history.</itunes:summary>
+		<itunes:author>Radio Diaries</itunes:author>
+		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Casals-Johnson_003_L-300x138.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>17:38</itunes:duration>
+	</item>
+		<item>
 		<title>#41: The Story of ‘Ballad for Americans’</title>
 		<link>http://radiodiaries.prx.org/41-the-story-of-ballad-for-americans/</link>
 		<comments>http://radiodiaries.prx.org/41-the-story-of-ballad-for-americans/#comments</comments>
@@ -270,7 +338,7 @@ We pair Marconi's story with our sound portrait of Frank Schubert, the last civi
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/rerun-11-willie-mcgee-and-the-traveling-electric-chair/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Willie-Mcgee-Podcast-Rerun.mp3" length="52686123" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast11_WillieMcgee_adfree.mp3" length="38599914" type="audio/mpeg" />
 		<itunes:subtitle>Bridgette McGee grew up knowing nothing about her grandfather, Willie McGee. Now she is on a quest to unearth everything she can about his life – and his death.</itunes:subtitle>
 		<itunes:summary>Bridgette McGee grew up knowing nothing about her grandfather, Willie McGee. Now she is on a quest to unearth everything she can about his life – and his death.
 
@@ -278,7 +346,7 @@ In 1945, Willie McGee was accused of raping a white woman. The all-white jury to
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Willie-McGee_007_L-300x138.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
-		<itunes:duration>27:26</itunes:duration>
+		<itunes:duration>26:48</itunes:duration>
 	</item>
 		<item>
 		<title>#33: From Bullets to Balance Sheets</title>
@@ -688,13 +756,13 @@ Listen to our story (and be advised that it is disturbing.)</itunes:summary>
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/17-the-gospel-ranger/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Gospel-Podcast.mp3" length="7970305" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast-16_GospelRanger_adfree.mp3" length="28137958" type="audio/mpeg" />
 		<itunes:subtitle>Outside the Appalachian mountains, his name was barely known. But Brother Claude Ely influenced some of the pioneers of rock &amp; roll.</itunes:subtitle>
 		<itunes:summary>This is the story of a song, "Ain’t No Grave Gonna Hold My Body Down," written by a 12-year-old boy on his deathbed. A boy who - instead of dying - went on to become a Pentecostal preacher. A boy who would later help inspire the birth of Rock &amp; Roll. His name was Brother Claude Ely...and he was known as The Gospel Ranger.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/Gospel-Ranger_013_SqL-copy.jpg" />
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>16:36</itunes:duration>
+		<itunes:duration>14:39</itunes:duration>
 	</item>
 		<item>
 		<title>#16: “Halfrican” Revisited</title>
@@ -710,12 +778,12 @@ Listen to our story (and be advised that it is disturbing.)</itunes:summary>
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/16-jeffs-teenage-diary-revisited/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Episode-16-Halfrican-Revisited.mp3" length="13775370" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast16_JeffRevisited_soundcloud.mp3" length="27401400" type="audio/mpeg" />
 		<itunes:subtitle>When Jeff Rogers was 16 years old he started referring to  himself as a “halfrican.” Jeff has a black father and a white  mother. And like many teenagers, he was trying to figure out who he was.</itunes:subtitle>
 		<itunes:summary>When Jeff Rogers was 16 years old he started referring to  himself as a “halfrican.” Jeff has a black father and a white  mother. And like many teenagers, he was trying to figure out who he was. We met Jeff back in 1998, and gave him a tape recorder so he could document his life for our Teenage Diaries series. We started thinking about Jeff when we produced our Teenage Diaries Revisited series last year for NPR. On today’s show, Jeff’s original teenage diary, plus…a conversation we recently had with him, more than 15 years later.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>19:08</itunes:duration>
+		<itunes:duration>19:02</itunes:duration>
 	</item>
 		<item>
 		<title>#15: Walter the Seltzerman – It’s Not Easy Being Last</title>
@@ -780,18 +848,17 @@ Listen to our story (and be advised that it is disturbing.)</itunes:summary>
 
 		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=95</guid>
 		<description><![CDATA[Asa Carter and Forrest Carter couldn't have been more different. But they shared a secret.]]></description>
-				<content:encoded><![CDATA[<p><span style="color: #333333;">Asa Carter was a speechwriter for Alabama Governor George Wallace. He penned one of the most infamous speeches of the era… Wallace’s Segregation Now, Segregation Forever address. Forrest Carter was a Cherokee writer who grew up in Tennessee. His autobiography, The Education of Little Tree, is a beloved classic that has sold millions of copies around the world. But these two men shared a secret.</span></p>
-<p>&nbsp;</p>
+				<content:encoded><![CDATA[<p>Asa Carter was a speechwriter for Alabama Governor George Wallace. He penned one of the most infamous speeches of the era… Wallace’s Segregation Now, Segregation Forever address. Forrest Carter was a Cherokee writer who grew up in Tennessee. His autobiography, The Education of Little Tree, is a beloved classic that has sold millions of copies around the world. But these two men shared a secret.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/14-the-long-shadow-of-forrest-carter/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/AsaPodcastFinal.mp3" length="8215023" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast14_LittleTree_adfree.mp3" length="43890240" type="audio/mpeg" />
 		<itunes:subtitle>Asa Carter and Forrest Carter couldn't have been more different. But they shared a secret.</itunes:subtitle>
 		<itunes:summary>Asa Carter was a speechwriter for Alabama Governor George Wallace. He penned one of the most infamous speeches of the era… Wallace’s Segregation Now, Segregation Forever address. Forrest Carter was a Cherokee writer who grew up in Tennessee. His autobiography, The Education of Little Tree, is a beloved classic that has sold millions of copies around the world. But these two men shared a secret.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/forrest-carter1-300x276.jpg" />
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>17:07</itunes:duration>
+		<itunes:duration>30:29</itunes:duration>
 	</item>
 		<item>
 		<title>#13: The Day Nelson Mandela Became Nelson Mandela</title>
@@ -818,12 +885,12 @@ Listen to our story (and be advised that it is disturbing.)</itunes:summary>
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/13-the-day-nelson-mandela-became-nelson-mandela/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Rivonia-Podcast-Final.mp3" length="17598350" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast13_MandelaRivonia_adfree.mp3" length="24875490" type="audio/mpeg" />
 		<itunes:subtitle>The moment Nelson Mandela really became Nelson Mandela was on April 20th, 1964 - fifty years ago today. It happened when he stood up in a stuffy South African courtroom and gave a speech.</itunes:subtitle>
 		<itunes:summary>The moment Nelson Mandela really became Nelson Mandela was on April 20th, 1964 - fifty years ago today. It happened when he stood up in a stuffy South African courtroom and gave a speech.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>18:20</itunes:duration>
+		<itunes:duration>17:16</itunes:duration>
 	</item>
 		<item>
 		<title>#12: Frankie’s Teenage Diary, Revisited</title>
@@ -853,7 +920,7 @@ Listen to our story (and be advised that it is disturbing.)</itunes:summary>
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/12-frankies-teenage-diary-revisited/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/frankie-revisited-podcast.mp3" length="14732270" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast12_FrankieRevisited_AdFree.mp3" length="43764414" type="audio/mpeg" />
 		<itunes:subtitle>"I went from being on the front page for football, representing my itty-bitty school, to being on the front page as a thief and a meth head." - Frankie Lewchuck</itunes:subtitle>
 		<itunes:summary>As a teenager, Frankie Lewchuck recorded an audio diary about his family in rural Alabama. 16 years later, he recorded a follow up story for the Teenage Diaries Revisited series:
 
@@ -863,7 +930,7 @@ A lot of life happens in 16 years.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:image href="http://radiodiaries.prx.org.s3.amazonaws.com/wp-content/uploads/frankie-itunes-art-300x300.jpg" />
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>30:41</itunes:duration>
+		<itunes:duration>30:24</itunes:duration>
 	</item>
 		<item>
 		<title>#11: Willie McGee and the Traveling Electric Chair</title>
@@ -879,13 +946,13 @@ A lot of life happens in 16 years.</itunes:summary>
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/11-willie-mcgee-and-the-traveling-electric-chair/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/McGee-Podcast-Feb-2014.mp3" length="14211272" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast11_WillieMgee_adfree.mp3" length="51882018" type="audio/mpeg" />
 		<itunes:subtitle>On the night of May 7th, 1951, in the small town of Laurel, Mississippi, close to a thousand people gathered around the courthouse. They came to witness an execution. Willie McGee was a young black man who had been accused of raping a white woman...</itunes:subtitle>
 		<itunes:summary>On the night of May 7th, 1951, in the small town of Laurel, Mississippi, close to a thousand people gathered around the courthouse. They came to witness an execution. Willie McGee was a young black man who had been accused of raping a white woman... and sentenced to death. Six decades later, Bridgette McGee teamed up with Radio Diaries to find the truth about what happened to her grandfather.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:image href="http://cdn.radiodiaries.prx.org/wp-content/uploads/Bridgette-McGee.jpg" />
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>29:36</itunes:duration>
+		<itunes:duration>27:01</itunes:duration>
 	</item>
 		<item>
 		<title>#10: Teenage Diaries Revisited 1-Hour Special</title>
@@ -897,17 +964,17 @@ A lot of life happens in 16 years.</itunes:summary>
 
 		<guid isPermaLink="false">http://radiodiaries.prx.org/?p=6</guid>
 		<description><![CDATA[Back in the 1990s, Radio Diaries producer Joe Richman gave tape recorders to a handful of teens and asked them to report on their own lives. Now, 16 years later, Joe checks back in with them.]]></description>
-				<content:encoded><![CDATA[<p>Three stories from the Teenage Diaries Revisited series on NPR.</p>
+				<content:encoded><![CDATA[<p>Back in the 1990s, Radio Diaries producer Joe Richman gave tape recorders to a handful of teens and asked them to report on their own lives. Now, 16 years later, Joe checks back in with them.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/teenage-diaries-revisited-1-hour-special/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/10-Teenage_Diaries_Revisited_1-Hour_Special.mp3" length="27263691" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast10_TDRhouradfree.mp3" length="80883084" type="audio/mpeg" />
 		<itunes:subtitle>A lot of life happens in 16 years.</itunes:subtitle>
 		<itunes:summary>Back in the 1990s, Radio Diaries producer Joe Richman gave tape recorders to a handful of teens and asked them to report on their own lives. 16 years later, Joe checks back in with them.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:image href="http://cdn.radiodiaries.prx.org/wp-content/uploads/juansquare-300x300.jpg" />
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>56:15</itunes:duration>
+		<itunes:duration>56:10</itunes:duration>
 	</item>
 		<item>
 		<title>#9: A Guitar, A Cello, and the Day that Changed Music</title>
@@ -923,14 +990,14 @@ A lot of life happens in 16 years.</itunes:summary>
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/9-a-guitar-a-cello-and-the-day-that-changed-music/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/9-A_Guitar_A_Cello_and_the_Day_that_Changed_Music.mp3" length="7867824" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast9_CasalsJohnson_adfree.mp3" length="21041240" type="audio/mpeg" />
 		<itunes:subtitle>What would it sound like if one of the world's greatest classical cellists, and the most legendary blues guitarist of all time...jammed together?</itunes:subtitle>
 		<itunes:summary>November 23, 1936 was a good day for recorded music. Two men – an ocean apart – sat before a microphone and began to play. One was a cello prodigy who had performed for the Queen of Spain; the other played guitar and was a regular in the juke joints of the Mississippi Delta.
 
 But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordings that would change music history.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>15:51</itunes:duration>
+		<itunes:duration>14:37</itunes:duration>
 	</item>
 		<item>
 		<title>#8: Mandela: An Audio History</title>
@@ -946,12 +1013,12 @@ But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordin
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/8-mandela-an-audio-history/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/8-Mandela_An_Audio_History.mp3" length="28342234" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast8_MandelaHour_adfree.mp3" length="84307304" type="audio/mpeg" />
 		<itunes:subtitle>The struggle against apartheid, told by the people who lived it.</itunes:subtitle>
 		<itunes:summary>An award-winning radio series documenting the struggle against apartheid through intimate first-person accounts of Nelson Mandela himself, as well as those who fought with him, and against him. Hosted by Archbishop Desmond Tutu.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>58:30</itunes:duration>
+		<itunes:duration>58:33</itunes:duration>
 	</item>
 		<item>
 		<title>#7: The Last Man on the Mountain</title>
@@ -967,12 +1034,12 @@ But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordin
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/7-the-last-man-on-the-mountain/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/7-The_Last_Man_on_the_Mountain.mp3" length="7294383" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast7_LastMan_Adfree.mp3" length="19946366" type="audio/mpeg" />
 		<itunes:subtitle>A profile of the last man standing.</itunes:subtitle>
 		<itunes:summary>In the 1990s, Arch Coal began mountaintop removal mining in a corner of West Virginia called Pigeonroost Hollow. There used to be dozens of houses in the area, but now there is just one. It belongs to Jimmy Weekley.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>14:40</itunes:duration>
+		<itunes:duration>13:51</itunes:duration>
 	</item>
 		<item>
 		<title>#6: The View From the 79th Floor</title>
@@ -988,12 +1055,12 @@ But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordin
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/6-the-view-from-the-79th-floor/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/6-The_View_From_the_79th_Floor.mp3" length="7194730" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast6_EmpireState_adfree.mp3" length="20313202" type="audio/mpeg" />
 		<itunes:subtitle>On July 28, 1945 an army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. Stories from the day a plane crashed into the Empire State Building.</itunes:subtitle>
 		<itunes:summary>On July 28, 1945 an army bomber pilot on a routine ferry mission found himself lost in the fog over Manhattan. Stories from the day a plane crashed into the Empire State Building.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>14:28</itunes:duration>
+		<itunes:duration>14:06</itunes:duration>
 	</item>
 		<item>
 		<title>#5: Teenage Diaries Revisited: Juan</title>
@@ -1009,12 +1076,12 @@ But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordin
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/5-teenage-diaries-revisited-juan/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/5-Teenage_Diaries_Revisited_Juan.mp3" length="14063076" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast5_Juanrevisted_adfree_5.mp3" length="41783124" type="audio/mpeg" />
 		<itunes:subtitle>16 years ago, Juan reported on his life as a recent Mexican immigrant living in poverty in Texas. In his new diary, Juan takes us on a tour of the life he has built since he first crossed the Rio Grande.</itunes:subtitle>
 		<itunes:summary>16 years ago, Juan reported on his life as a recent Mexican immigrant living in poverty in Texas. In his new diary, Juan takes us on a tour of the life he has built since he first crossed the Rio Grande. It looks a lot like the typical American dream: a house, 2 cars, 3 kids—except for the fact he’s still living illegally in the U.S. In this podcast, listen to Juan's diaries as well as a conversation about the recording process with producer Joe Richman.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>28:45</itunes:duration>
+		<itunes:duration>29:01</itunes:duration>
 	</item>
 		<item>
 		<title>#4: Burma ’88: Buried History</title>
@@ -1030,12 +1097,12 @@ But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordin
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/4-burma-88-buried-history/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/4-Burma_88_Buried_History.mp3" length="6554376" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast4_Burma_adfree.mp3" length="18897190" type="audio/mpeg" />
 		<itunes:subtitle>25 years ago, university students in Burma sparked a countrywide uprising. They called for a nationwide strike on 8/8/88, a date they chose for its numerological power.</itunes:subtitle>
 		<itunes:summary>25 years ago, university students in Burma sparked a countrywide uprising. They called for a nationwide strike on 8/8/88, a date they chose for its numerological power.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>13:11</itunes:duration>
+		<itunes:duration>13:07</itunes:duration>
 	</item>
 		<item>
 		<title>#3: Teenage Diaries Revisited: Melissa</title>
@@ -1051,12 +1118,12 @@ But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordin
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/3-teenage-diaries-revisited-melissa/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/3-Teenage_Diaries_Revisited_Melissa.mp3" length="19438851" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast3_MelissaRevisited_adfree.mp3" length="57080060" type="audio/mpeg" />
 		<itunes:subtitle>Melissa's Teenage Diary and her new 'grown-up' diary from Teenage Diaries Revisited.</itunes:subtitle>
 		<itunes:summary>As an 18-year-old raised in the foster care system, Melissa took NPR listeners along when she gave birth to her son Issaiah. Over the past 16 years Melissa and her son have faced many challenges, from eviction notices to her son’s life-threatening medical diagnosis. In this podcast episode, listen to Melissa's Teenage Diary and her new 'grown-up' diary from Teenage Diaries Revisited. Plus, Joe interviews Melissa about the process of documenting her life over the years.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>40:01</itunes:duration>
+		<itunes:duration>39:38</itunes:duration>
 	</item>
 		<item>
 		<title>#2: Teenage Diaries Revisited: Josh</title>
@@ -1072,12 +1139,12 @@ But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordin
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/2-teenage-diaries-revisited-josh/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/2-Teenage_Diaries_Revisited_Josh.mp3" length="19525652" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast2_JoshRevisited_adfree.mp3" length="57536414" type="audio/mpeg" />
 		<itunes:subtitle>Josh’s audio diaries about trying to live a normal life with a brain that often betrays him.</itunes:subtitle>
 		<itunes:summary>In high school, Josh documented his life with Tourette’s Syndrome, a neurological disorder that causes uncontrollable tics and involuntary verbal outbursts. Today, Josh has overcome Tourette’s enough to become a NYC public school teacher, but not enough to remain one. In this episode, listen to Josh’s audio diaries about trying to live a normal life with a brain that often betrays him. Plus, an interview between Josh and Radio Diaries producer Joe Richman.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>40:12</itunes:duration>
+		<itunes:duration>39:57</itunes:duration>
 	</item>
 		<item>
 		<title>#1: Teenage Diaries Revisited: Amanda</title>
@@ -1093,12 +1160,12 @@ But on this day 75 years ago, Pablo Casals and Robert Johnson both made recordin
 ]]></content:encoded>
 			<wfw:commentRss>http://radiodiaries.prx.org/1-teenage-diaries-revisited-amanda/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/1-Teenage_Diaries_Revisited_Amanda.mp3" length="8647426" type="audio/mpeg" />
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radiodiaries/cdn.radiodiaries.prx.org/wp-content/uploads/Podcast1_AmandaRevisited_Adfree.mp3" length="24077966" type="audio/mpeg" />
 		<itunes:subtitle>16 years after her Teenage Diary, Amanda goes back to her parents to find out how they came to accept having a daughter who is gay.</itunes:subtitle>
 		<itunes:summary>At the age of 17, Amanda knew she was gay. But her parents kept insisting she’d grow out of it. Today, a lot has changed in the country, and within her own family. 16 years later, Amanda goes back to her parents to find out how they came to accept having a daughter who is gay.</itunes:summary>
 		<itunes:author>Radio Diaries</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>17:32</itunes:duration>
+		<itunes:duration>16:43</itunes:duration>
 	</item>
 	</channel>
 </rss>
