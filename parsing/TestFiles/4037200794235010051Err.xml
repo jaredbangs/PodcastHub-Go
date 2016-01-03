@@ -1,9 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL /podcast/ogg.xml was not found on this server.</p>
-<hr>
-<address>Apache/2.4.10 (Debian) Server at lottalinuxlinks.com Port 80</address>
-</body></html>
+<html>
+<head>
+<title>429 Too Many Requests</title>
+<style> body { background-color: #F2F2F2; color: #3E3E3E; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; } pre { word-wrap: break-word; } </style>
+</head>
+<body>
+<h1>429 Too Many Requests</h1>
+<p><pre>j1VG2ue7/1AFXSAjR @ Sat, 02 Jan 2016 23:40:09 GMT</pre>
+<p><pre>SEC-60</pre>
+<p><pre></pre>
+</body>
+</html>

@@ -8,8 +8,8 @@
 
 For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</description>
     <language>en</language>
-    <pubDate>Wed, 25 Nov 2015 00:01:00 -0500</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2015 10:47:24 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2015 00:01:00 -0500</pubDate>
+    <lastBuildDate>Sun, 27 Dec 2015 21:46:45 -0500</lastBuildDate>
     <link>http://bikeshed.fm</link>
     <image>
       <url>http://simplecast-media.s3.amazonaws.com/podcast/image/282/1433513863-artwork.jpg</url>
@@ -29,6 +29,151 @@ For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</itunes:sum
       <itunes:email>hosts@bikeshed.fm</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
+    <item>
+      <title>45: I Think I'd Prefer An Error to Nonsense</title>
+      <guid isPermaLink="false">26e29f4b-6beb-41e8-918c-20b42daa0b8b</guid>
+      <link>http://bikeshed.fm/45</link>
+      <description>Derek shipped Scenic 1.0, which spurs a conversation about semantic versioning and the value of the 1.0 milestone. We discuss what the bar for breaking changes in a library should be and look at some specific changes on tap for Scenic and whether they will or should carry a major version bump.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Derek shipped Scenic 1.0, which spurs a conversation about semantic versioning and the value of the 1.0 milestone. We discuss what the bar for breaking changes in a library should be and look at some specific changes on tap for Scenic and whether they will or should carry a major version bump.</p>
+
+<ul>
+<li><a href="https://github.com/thoughtbot/scenic">Scenic</a></li>
+<li><a href="http://semver.org">Semantic Versioning</a> - See points 4 and 5</li>
+<li><a href="https://robots.thoughtbot.com/implementing-multi-table-full-text-search-with-postgres">Implementing Multi-Table Full Text Search with Postgres in Rails</a></li>
+<li><a href="https://github.com/thoughtbot/scenic/issues/96">Issue handling view dependencies in Scenic migrations</a> and a <a href="https://github.com/thoughtbot/scenic/pull/100">potential partial solution</a></li>
+<li><a href="https://github.com/thoughtbot/scenic/issues/99">The trouble with <code>SELECT *</code> in Postgres views</a></li>
+<li><a href="https://github.com/thoughtbot/appraisal">Appraisal</a></li>
+<li><a href="https://github.com/thoughtbot/scenic/blob/master/spec/smoke">Scenic smoke tests</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 23 Dec 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/23543.mp3" length="46066027" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/23543/1450815940-artwork.jpg"/>
+      <itunes:duration>00:47:57</itunes:duration>
+      <itunes:summary>Derek shipped Scenic 1.0, which spurs a conversation about semantic versioning and the value of the 1.0 milestone. We discuss what the bar for breaking changes in a library should be and look at some specific changes on tap for Scenic and whether they will or should carry a major version bump.
+</itunes:summary>
+      <itunes:subtitle>Derek shipped Scenic 1.0, which spurs a conversation about semantic versioning and the value of the 1.0 milestone. We discuss what the bar for breaking changes in a library should be and look at some specific changes on tap for Scenic and whether they wil</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>44: It Won't Crash... It Might Crash</title>
+      <guid isPermaLink="false">9ad635c6-255e-4db7-b8f6-fc02f056b12d</guid>
+      <link>http://bikeshed.fm/44</link>
+      <description>Sean has shipped early versions of Diesel, an ORM for Rust! We discuss its semantic versioning, the ergonomics of use versus the complexities of implementation, early issues with the API and the road to Diesel 1.0.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Sean has shipped early versions of Diesel, an ORM for Rust! We discuss its semantic versioning, the ergonomics of use versus the complexities of implementation, early issues with the API and the road to Diesel 1.0.</p>
+
+<ul>
+<li><a href="https://github.com/sgrif/diesel">Diesel</a></li>
+<li><a href="http://semver.org">Semantic Versioning</a></li>
+<li><a href="http://www.schneems.com/2015/11/29/what-is-semver.html">SemVer for Library Maintainers</a> by Richard Schneeman</li>
+<li><a href="https://github.com/rust-lang/rfcs/blob/master/text/1122-language-semver.md">Rust RFC 1122 - Language SemVer</a></li>
+<li><a href="https://lobste.rs">Lobsters</a></li>
+<li><a href="https://github.com/sgrif/diesel/issues/26">API hole in diesel updates</a></li>
+<li><a href="https://github.com/sgrif/diesel/commit/a3f1055bc8c3bc6b4d47b24fa6dbbccf59c16540">Implementing <code>IS NULL</code> and <code>IS NOT NULL</code> for Diesel</a></li>
+<li><a href="https://github.com/sgrif/diesel/issues/10">Diesel issue for migrations</a></li>
+<li><a href="https://github.com/rust-lang/crates.io/pull/228">Crates.io PR for using Database behavior</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 17 Dec 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/23115.mp3" length="34214799" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/23115/1450301949-artwork.jpg"/>
+      <itunes:duration>00:47:29</itunes:duration>
+      <itunes:summary>Sean has shipped early versions of Diesel, an ORM for Rust! We discuss its semantic versioning, the ergonomics of use versus the complexities of implementation, early issues with the API and the road to Diesel 1.0.
+</itunes:summary>
+      <itunes:subtitle>Sean has shipped early versions of Diesel, an ORM for Rust! We discuss its semantic versioning, the ergonomics of use versus the complexities of implementation, early issues with the API and the road to Diesel 1.0.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>43: That's DOCTOR Internet Technologist</title>
+      <guid isPermaLink="false">54fd3dd7-4cc3-40bc-bb1d-1fa509b043e0</guid>
+      <link>http://bikeshed.fm/43</link>
+      <description>We talk about lessons learned from teachable moments both in the moment and decades later.
+</description>
+      <content:encoded>
+        <![CDATA[<p>We talk about lessons learned from teachable moments both in the moment and decades later.</p>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Teachable_moment">Teachable moment</a></li>
+<li><a href="https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/">Safe Operations for High Volume PostgreSQL</a> by Paul Gross</li>
+<li><a href="https://robots.thoughtbot.com/how-to-create-postgres-indexes-concurrently-in">How to Create Postgres Indexes Concurrently in ActiveRecord Migrations</a> by Dan Croak</li>
+<li><a href="http://www.postgresql.org/docs/9.4/static/sql-copy.html">PostgreSQL <code>COPY FROM</code></a></li>
+<li><a href="https://github.com/thoughtbot/suspenders/pull/601">Guarding against truncating the production database in Suspenders</a></li>
+<li><a href="https://robots.thoughtbot.com/referential-integrity-with-foreign-keys">Have Some (Referential) Integrity with Foreign Keys</a></li>
+<li><a href="https://twitter.com/sarahmei/status/635822455337058304">"Inheritance is not for sharing code"</a> tweet from Sarah Mei</li>
+<li><a href="https://www.youtube.com/watch?v=OMPfEXIlTVE">"Inheritance is for specialization, not for sharing code"</a> from Sandi Metz' "Nothing is Something" talk at RailsConf</li>
+<li><a href="https://robots.thoughtbot.com/lets-not">Let's Not</a> by Joe Ferris</li>
+<li><a href="https://robots.thoughtbot.com/mystery-guest">Mystery Guest</a> by Dan Croak</li>
+<li><a href="http://vertassets.blob.core.windows.net/image/27d976d3/27d976d3-9a08-11d4-8c69-009027de0829/eqamppop.jpg">A modem pool</a></li>
+<li><a href="https://github.com/sgrif/diesel">Diesel née YAQB</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 09 Dec 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/22209.mp3" length="36542617" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/22209/1449674107-artwork.jpg"/>
+      <itunes:duration>00:50:43</itunes:duration>
+      <itunes:summary>We talk about lessons learned from teachable moments both in the moment and decades later.
+</itunes:summary>
+      <itunes:subtitle>We talk about lessons learned from teachable moments both in the moment and decades later.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>42: That's Incredibly Ambitious (Grayson Wright)</title>
+      <guid isPermaLink="false">bffbb32a-f468-474b-a913-1724027c0ba5</guid>
+      <link>http://bikeshed.fm/42</link>
+      <description>We speak to Grayson Wright about building Administrate, an open source Rails framework for administrative interfaces. What makes Administrate different than existing solutions and what are the challenges in maintaining high-level dependencies.
+</description>
+      <content:encoded>
+        <![CDATA[<p>We speak to Grayson Wright about building Administrate, an open source Rails framework for administrative interfaces. What makes Administrate different than existing solutions and what are the challenges in maintaining high-level dependencies.</p>
+
+<ul>
+<li><a href="https://robots.thoughtbot.com/announcing-administrate">Announcing Administrate</a></li>
+<li><a href="https://github.com/thoughtbot/administrate">Administrate on GitHub</a></li>
+<li><a href="https://administrate-prototype.herokuapp.com/admin">Administrate Demo</a></li>
+<li><a href="http://bourbon.io">Bourbon</a> and <a href="http://neat.bourbon.io">Neat</a></li>
+<li><a href="https://css-tricks.com/responsive-data-tables/">Responsive tables</a></li>
+<li><a href="https://github.com/spree/spree">Spree</a></li>
+<li><a href="http://keepachangelog.com">Keep A Changelog</a></li>
+<li><a href="https://github.com/thoughtbot/clearance/blob/master/NEWS.md">Clearance's <code>NEWS</code> file</a></li>
+<li><a href="http://codeforamerica.org">Code For America</a></li>
+<li><a href="https://twitter.com/grayson_wright">Grayson on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Dec 2015 11:30:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/21516.mp3" length="27053585" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/21516/1449073954-artwork.jpg"/>
+      <itunes:duration>00:37:32</itunes:duration>
+      <itunes:summary>We speak to Grayson Wright about building Administrate, an open source Rails framework for administrative interfaces. What makes Administrate different than existing solutions and what are the challenges in maintaining high-level dependencies.
+</itunes:summary>
+      <itunes:subtitle>We speak to Grayson Wright about building Administrate, an open source Rails framework for administrative interfaces. What makes Administrate different than existing solutions and what are the challenges in maintaining high-level dependencies.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>41: Ugh, I Have to Write Web Apps in This Thing</title>
       <guid isPermaLink="false">f5515cd2-bf8d-4545-92ac-1f7e203d6b70</guid>
@@ -100,7 +245,7 @@ For sponsorship opportunities, inquire at thoughtbot.com/sponsorship</itunes:sum
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>39: Okay with Instability (with Yehuda Katz)</title>
+      <title>39: Okay with Instability (Yehuda Katz)</title>
       <guid isPermaLink="false">ed9aad07-e9cf-4564-9eee-1bea588d0cf2</guid>
       <link>http://bikeshed.fm/39</link>
       <description>We talk with Yehuda Katz about how much risk is right for you and your app, the sharp tools of high level abstractions, and how our statistical intuition leads us astray on web performance.

@@ -24,7 +24,21 @@
       <title>Wait Wait... Don't Tell Me!</title>
       <link>http://www.npr.org/programs/wait-wait-dont-tell-me/</link>
     </image>
-    <lastBuildDate>Sat, 26 Dec 2015 17:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2016 17:00:00 -0500</lastBuildDate>
+    <item>
+      <title>2015 Year In Review Continued</title>
+      <description><![CDATA[We continue looking back at the past year (or so), featuring interviews with Richard Lewis, Jenny Slate, and Matthew Weiner. We also revisit panel discussions about Love and Food.]]></description>
+      <pubDate>Sat, 02 Jan 2016 17:00:00 -0500</pubDate>
+      <copyright>2014 NPR</copyright>
+      <guid>a33e4610-bfdc-4449-b689-df8fc4e57fe5</guid>
+      <link>http://waitwait.npr.libsynfusion.com/2015-year-in-review-continued</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We continue looking back at the past year (or so), featuring interviews with Richard Lewis, Jenny Slate, and Matthew Weiner. We also revisit panel discussions about Love and Food.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We continue looking back at the past year (or so), featuring interviews with Richard Lewis, Jenny Slate, and Matthew Weiner. We also revisit panel discussions about Love and Food.]]></itunes:subtitle>
+      <itunes:duration>3015</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/461782976/npr_461782976.mp3?orgId=1&amp;d=3015&amp;p=344098539&amp;story=461782976&amp;t=podcast&amp;e=461782976&amp;ft=pod&amp;f=344098539" length="24337932" type="audio/mpeg"/>
+    </item>
     <item>
       <title>2015 Year In Review</title>
       <description><![CDATA[We take a look back at some of our favorite moments of 2015, featuring Carol Burnett, Trombone Shorty, and George Clinton.]]></description>
@@ -150,20 +164,6 @@
       <itunes:duration>2824</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/453509077/npr_453509077.mp3?orgId=1&amp;d=2824&amp;p=344098539&amp;story=453509077&amp;t=podcast&amp;e=453509077&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Neil deGrasse Tyson</title>
-      <description><![CDATA[Neil deGrasse Tyson, astrophysicist, joins us along with panelists Faith Salie, Maz Jobrani, and Adam Felber.]]></description>
-      <pubDate>Sat, 24 Oct 2015 17:00:00 -0400</pubDate>
-      <copyright>2014 NPR</copyright>
-      <guid>7c7d8488-a074-44fa-a0e5-bb9b57d9320f</guid>
-      <link>http://waitwait.npr.libsynfusion.com/neil-degrasse-tyson</link>
-      <itunes:author>NPR</itunes:author>
-      <itunes:summary><![CDATA[Neil deGrasse Tyson, astrophysicist, joins us along with panelists Faith Salie, Maz Jobrani, and Adam Felber.]]></itunes:summary>
-      <itunes:subtitle><![CDATA[Neil deGrasse Tyson, astrophysicist, joins us along with panelists Faith Salie, Maz Jobrani, and Adam Felber.]]></itunes:subtitle>
-      <itunes:duration>2830</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <enclosure url="http://play.podtrac.com/npr-344098539/npr.mc.tritondigital.com/WAITWAIT_PODCAST/media/anon.npr-podcasts/podcast/344098539/451501400/npr_451501400.mp3?orgId=1&amp;d=2830&amp;p=344098539&amp;story=451501400&amp;t=podcast&amp;e=451501400&amp;ft=pod&amp;f=344098539" length="0" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

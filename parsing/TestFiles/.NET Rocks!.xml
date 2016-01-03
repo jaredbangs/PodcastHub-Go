@@ -11,8 +11,8 @@
 		<managingEditor>carl@franklins.net (Carl Franklin)</managingEditor>
 		<webMaster>carl@franklins.net (Carl Franklin)</webMaster>
 		<rating>PG</rating>
-		<pubDate>Sat, 02 Jan 2016 21:13:07 EDT</pubDate>
-		<lastBuildDate>Sat, 02 Jan 2016 21:13:07 EDT</lastBuildDate>
+		<pubDate>Sat, 02 Jan 2016 23:32:45 EDT</pubDate>
+		<lastBuildDate>Sat, 02 Jan 2016 23:32:45 EDT</lastBuildDate>
 		<cloud domain="http://www.dotnetrocks.com" port="80" path="/RPC2" registerProcedure="pingMe" protocol="soap"> </cloud>
 		
 		<image>

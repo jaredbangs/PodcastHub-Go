@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/jaredbangs/PodcastHub/parsing"
+	"github.com/jaredbangs/go-repository/boltrepository"
 	"io/ioutil"
 	"math/rand"
 	"net/http"
@@ -14,9 +15,9 @@ import (
 
 func main() {
 
-	path := "parsing/TestFiles/subscriptions"
+	subscriptionFilePath := "parsing/TestFiles/subscriptions"
 
-	file, err := os.Open(path)
+	file, err := os.Open(subscriptionFilePath)
 	if err != nil {
 	}
 
@@ -24,13 +25,14 @@ func main() {
 
 	scanner := bufio.NewScanner(file)
 
-	for scanner.Scan() {
-		processFeedUrl(scanner.Text())
-	}
+	repository := boltrepository.NewRepository("PodcastHub.bolt")
 
+	for scanner.Scan() {
+		processFeedUrl(scanner.Text(), repository)
+	}
 }
 
-func processFeedUrl(feedUrl string) {
+func processFeedUrl(feedUrl string, repository *boltrepository.Repository) {
 
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
@@ -46,9 +48,28 @@ func processFeedUrl(feedUrl string) {
 				defer response.Body.Close()
 				body, _ := ioutil.ReadAll(response.Body)
 				//processFeedContent(&body)
-				fmt.Println(checkRssParser(body))
+				//fmt.Println(checkRssParser(body))
+				recordFeedInfo(feedUrl, body, repository)
 			}
 		}
+	}
+}
+
+func recordFeedInfo(feedUrl string, content []byte, repository *boltrepository.Repository) {
+
+	feed, err := tryParse(content)
+
+	if err == nil {
+		ioutil.WriteFile("parsing"+string(os.PathSeparator)+"TestFiles"+string(os.PathSeparator)+feed.Channel.Title+".xml", content, 0644)
+		fmt.Println("OK\t" + feed.Channel.Title + " " + strconv.FormatInt(int64(len(feed.Channel.ItemList)), 10) + " items")
+
+		repository.Save("Feeds", feedUrl, feed)
+
+	} else {
+		errFileName := strconv.FormatInt(int64(rand.Int()), 10) + "Err.xml"
+
+		ioutil.WriteFile("parsing"+string(os.PathSeparator)+"TestFiles"+string(os.PathSeparator)+errFileName, content, 0644)
+		fmt.Println("ERR\t" + err.Error())
 	}
 }
 

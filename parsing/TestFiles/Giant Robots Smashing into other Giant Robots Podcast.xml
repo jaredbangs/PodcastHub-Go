@@ -8,8 +8,8 @@
 
 For sponsorship opportunities, inquire  at thoughtbot.com/sponsorship</description>
     <language>en-us</language>
-    <pubDate>Tue, 01 Dec 2015 00:01:00 -0500</pubDate>
-    <lastBuildDate>Tue, 01 Dec 2015 00:01:02 -0500</lastBuildDate>
+    <pubDate>Mon, 21 Dec 2015 00:01:00 -0500</pubDate>
+    <lastBuildDate>Sun, 27 Dec 2015 21:46:45 -0500</lastBuildDate>
     <image>
       <url>http://simplecast-media.s3.amazonaws.com/podcast/image/271/1437963534-artwork.jpg</url>
       <title>Giant Robots Smashing into other Giant Robots Podcast</title>
@@ -29,6 +29,111 @@ For sponsorship opportunities, inquire  at thoughtbot.com/sponsorship</itunes:su
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
     </itunes:category>
+    <item>
+      <title>175: Broaden Your Worldview (Ashe Dryden)</title>
+      <guid isPermaLink="false">5482fe95-fe0b-4c17-a8cd-c84a1d69cdd3</guid>
+      <link>http://giantrobots.fm/175</link>
+      <description>Ben talks with Ashe Dryden about ways to approach diversity in the tech community from workplace, conference, and personal perspectives.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Ben talks with Ashe Dryden about ways to approach diversity in the tech community from workplace, conference, and personal perspectives.</p>
+
+<ul>
+<li><a href="http://www.alterconf.com/">AlterConf</a></li>
+<li><a href="https://leanpub.com/the-diverse-team"><em>The Diverse Team</em></a></li>
+<li><a href="https://leanpub.com/diverseconfs"><em>The Inclusive Event</em></a></li>
+<li><a href="https://modelviewculture.com/">Model View Culture</a></li>
+<li><a href="https://vimeo.com/108143657">Brianna Wu - 9 Ways to Stop Hurting and Start Helping Women in Tech</a></li>
+<li><a href="http://joinfundclub.com/">Fund Club</a></li>
+<li><a href="https://twitter.com/ashedryden">Ashe on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 21 Dec 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/23201.mp3" length="28931967" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/23201/1450475510-artwork.jpg"/>
+      <itunes:duration>00:30:04</itunes:duration>
+      <itunes:summary>Ben talks with Ashe Dryden about ways to approach diversity in the tech community from workplace, conference, and personal perspectives.
+</itunes:summary>
+      <itunes:subtitle>Ben talks with Ashe Dryden about ways to approach diversity in the tech community from workplace, conference, and personal perspectives.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>174: Building Character (Laura Roeder)</title>
+      <guid isPermaLink="false">f4437be0-7790-4d02-bea5-99dc740b4657</guid>
+      <link>http://giantrobots.fm/174</link>
+      <description>Ben and Laura Roeder, founder of Edgar, chat about anthropomorphizing your brand to build better engagement, going the extra step to care about customer success, and some tips for social media marketing best practices.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Ben and Laura Roeder, founder of Edgar, chat about anthropomorphizing your brand to build better engagement, going the extra step to care about customer success, and some tips for social media marketing best practices.</p>
+
+<p>This episode is brought to you by <a href="https://formkeep.com/?utm_source=giant-robots-podcast&amp;utm_medium=show-notes&amp;utm_campaign=ep-174">Formkeep</a>: Form endpoints for designers and developers</p>
+
+<ul>
+<li><a href="http://meetedgar.com/">Edgar</a></li>
+<li><a href="http://scopcity.com/love-name-edgar/">Edgar is my boyfriend</a>- Sticker shown at the top of this glowing love-letter to Edgar</li>
+<li><a href="https://playbook.thoughtbot.com/">thoughtbot Playbook</a></li>
+<li><a href="https://twitter.com/lkr">Laura on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 14 Dec 2015 12:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/22410.mp3" length="21455826" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/22410/1450112571-artwork.jpg"/>
+      <itunes:duration>00:29:43</itunes:duration>
+      <itunes:summary>Ben and Laura Roeder, founder of Edgar, chat about anthropomorphizing your brand to build better engagement, going the extra step to care about customer success, and some tips for social media marketing best practices.
+</itunes:summary>
+      <itunes:subtitle>Ben and Laura Roeder, founder of Edgar, chat about anthropomorphizing your brand to build better engagement, going the extra step to care about customer success, and some tips for social media marketing best practices.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>173: Obsessed With Helping (Hiten Shah)</title>
+      <guid isPermaLink="false">8cca3580-fd95-4a9c-87ba-0e7b28479009</guid>
+      <link>http://giantrobots.fm/173</link>
+      <description>Ben talks with Hiten Shah, co-founder of Crazy Egg and Kissmetrics, on the value of helping others, frameworks for a better life, being an infovore, and tips for finding a successful product niche.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Ben talks with Hiten Shah, co-founder of Crazy Egg and Kissmetrics, on the value of helping others, frameworks for a better life, being an infovore, and tips for finding a successful product niche.</p>
+
+<ul>
+<li><a href="https://upcase.com/halfoff">Upcase</a>: 50% Off Your First Month For Giant Robots Listeners!</li>
+<li><a href="http://www.crazyegg.com/visual-website-analytics">Crazy Egg</a></li>
+<li><a href="https://www.kissmetrics.com/">Kissmetrics</a></li>
+<li><a href="https://youtu.be/jwG_qR6XmDQ">Jeff Bezos - Regret Minimization Framework</a></li>
+<li><a href="https://hitenism.com/hacks-for-infovores/">Hacks for Infovores</a></li>
+<li><a href="http://paulgraham.com/good.html">"Be Good"</a>- Paul Graham</li>
+<li><a href="http://theleanstartup.com/principles">The Lean Startup</a></li>
+<li><a href="http://www.businessinsider.com/jack-dorsey-on-ceo-as-editor-2011-6">Jack Dorsey on CEO as Editor</a></li>
+<li><a href="http://thestartupchat.com/">The Startup Chat Podcast</a></li>
+<li><a href="http://hiten.com/">Saas Weekly</a></li>
+<li><a href="https://twitter.com/hnshah">Hiten on Twitter</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 07 Dec 2015 00:01:00 -0500</pubDate>
+      <author>thoughtbot</author>
+      <enclosure url="http://audio.simplecast.fm/21904.mp3" length="21997187" type="audio/mpeg"/>
+      <itunes:author>thoughtbot</itunes:author>
+      <itunes:image href="http://simplecast-media.s3.amazonaws.com/episode/image/21904/1449507249-artwork.jpg"/>
+      <itunes:duration>00:30:28</itunes:duration>
+      <itunes:summary>Ben talks with Hiten Shah, co-founder of Crazy Egg and Kissmetrics, on the value of helping others, frameworks for a better life, being an infovore, and tips for finding a successful product niche.
+</itunes:summary>
+      <itunes:subtitle>Ben talks with Hiten Shah, co-founder of Crazy Egg and Kissmetrics, on the value of helping others, frameworks for a better life, being an infovore, and tips for finding a successful product niche.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>172: Go After the Hard Stuff (Eric Normand)</title>
       <guid isPermaLink="false">9a14ab67-6d7e-411a-a462-60f2850715f1</guid>
@@ -4471,7 +4576,7 @@ This episode of Giant Robots is sponsored by Digital Ocean. Simple and fast clou
       <description>This week we try something a little different. Joe Ferris, Matt Jankowski, Ben Orenstein, and Chad Pytel get together and have a little fun, in what we're calling "Tiny Robots cuddling with other Tiny Robots". We'd love to get your thoughts on this special format, tweet us @thoughtbot or email learn@thoughtbot.com.
 </description>
       <content:encoded>
-        <![CDATA[<p>This week we try something a little different. Joe Ferris, Matt Jankowski, Ben Orenstein, and Chad Pytel get together and have a little fun, in what we're calling "Tiny Robots cuddling with other Tiny Robots". We'd love to get your thoughts on this special format, tweet us @thoughtbot or email <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#x6c;&#101;&#97;&#114;&#x6e;&#x40;&#x74;&#104;&#111;&#x75;&#103;&#x68;&#x74;&#98;&#111;&#x74;&#46;&#99;&#111;&#109;&#46;">&#108;&#x65;&#97;&#114;&#110;&#x40;&#x74;&#104;&#x6f;&#x75;&#x67;&#x68;&#x74;&#x62;&#111;&#x74;&#46;&#x63;&#x6f;&#x6d;&#x2e;</a></p>
+        <![CDATA[<p>This week we try something a little different. Joe Ferris, Matt Jankowski, Ben Orenstein, and Chad Pytel get together and have a little fun, in what we're calling "Tiny Robots cuddling with other Tiny Robots". We'd love to get your thoughts on this special format, tweet us @thoughtbot or email <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#58;&#108;&#101;&#x61;&#x72;&#x6e;&#64;&#x74;&#x68;&#111;&#117;&#x67;&#x68;&#116;&#x62;&#111;&#116;&#x2e;&#x63;&#111;&#109;&#46;">&#x6c;&#101;&#x61;&#x72;&#110;&#x40;&#x74;&#104;&#111;&#x75;&#103;&#104;&#116;&#x62;&#x6f;&#116;&#46;&#99;&#x6f;&#109;&#x2e;</a></p>
 
 <p>Follow <a href="http://twitter.com/thoughtbot">@thoughtbot</a>, <a href="http://twitter.com/joeferris">@joeferris</a>, <a href="http://twitter.com/jankowski">@jankowski</a>, <a href="http://twitter.com/r00k">@r00k</a>, and <a href="http://twitter.com/cpytel">@cpytel</a> on twitter.</p>
 ]]>

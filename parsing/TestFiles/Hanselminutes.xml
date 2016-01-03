@@ -10,8 +10,8 @@
     <managingEditor>scott@hanselman.com (Scott Hanselman)</managingEditor>
     <webMaster>scott@hanselman.com (Scott Hanselman)</webMaster>
     <rating>G</rating>
-    <pubDate>Sat, 02 Jan 2016 21:16:20 EDT</pubDate>
-    <lastBuildDate>Sat, 02 Jan 2016 21:16:20 EDT</lastBuildDate>
+    <pubDate>Sat, 02 Jan 2016 23:37:30 EDT</pubDate>
+    <lastBuildDate>Sat, 02 Jan 2016 23:37:30 EDT</lastBuildDate>
     <cloud domain="http://www.hanselminutes.com" port="80" path="/RPC2" registerProcedure="pingMe" protocol="soap"></cloud>
     <atom:link href="http://www.pwop.com%2ffeed.aspx%3fshow%3dHanselminutes" rel="self" type="application/rss+xml" />
     <image>

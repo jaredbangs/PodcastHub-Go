@@ -36,5 +36,6 @@ func (i Item) GetPublicationDate() (time.Time, error) {
 }
 
 type Enclosure struct {
-	Url string `xml:"url,attr"`
+	Downloaded bool
+	Url        string `xml:"url,attr"`
 }
