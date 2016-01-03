@@ -77,7 +77,9 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 
 			if !hasUrl {
 				feedRecord.AddItem(item)
-				fmt.Println("Adding item: " + item.Enclosures[0].Url)
+				for _, enclosure := range item.Enclosures {
+					fmt.Println("Added item: " + enclosure.Url)
+				}
 			}
 		}
 
