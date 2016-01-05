@@ -41,7 +41,7 @@ func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 		fmt.Println("\t" + item.Title)
 		for _, enclosure := range item.Enclosures {
 			if len(enclosure.Url) != 0 {
-				fmt.Printf("\t\t%t"+"  "+enclosure.Url+"\n", enclosure.Downloaded)
+				fmt.Printf("\t\tDownloaded: %t\t"+enclosure.Url+"\n", enclosure.Downloaded)
 			}
 		}
 	}

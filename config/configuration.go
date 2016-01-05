@@ -7,6 +7,7 @@ import (
 )
 
 type Configuration struct {
+	DownloadPath     string
 	RepositoryFile   string
 	SubscriptionFile string
 }
@@ -21,6 +22,7 @@ func GetConfig() Configuration {
 		decoder := json.NewDecoder(file)
 		decoder.Decode(&configuration)
 	} else {
+		configuration.DownloadPath = "~/Podcasts"
 		configuration.RepositoryFile = "PodcastHub.bolt"
 		configuration.SubscriptionFile = "subscriptions"
 

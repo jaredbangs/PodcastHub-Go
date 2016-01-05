@@ -19,6 +19,21 @@ func (feed *Feed) ContainsEnclosureUrl(url string) bool {
 	return containsKey
 }
 
+func (feed *Feed) UpdateEnclosure(enclosure Enclosure) {
+
+	for _, item := range feed.Channel.ItemList {
+		if item.Enclosures != nil {
+			for i, existingEnclosure := range item.Enclosures {
+				if enclosure.Url == existingEnclosure.Url {
+					item.Enclosures = append(item.Enclosures[:i], item.Enclosures[i+1:]...)
+					item.Enclosures = append(item.Enclosures, enclosure)
+					break
+				}
+			}
+		}
+	}
+}
+
 func (feed *Feed) populateExistingUrls() {
 
 	if feed.existingUrls == nil {
