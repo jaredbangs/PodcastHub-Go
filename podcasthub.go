@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"github.com/jaredbangs/PodcastHub/actions"
 	"github.com/jaredbangs/PodcastHub/config"
+	"github.com/jaredbangs/PodcastHub/web"
 	"os"
 )
 
@@ -47,6 +48,9 @@ func main() {
 			} else {
 				u.Update()
 			}
+		case "web":
+			w := &web.Web{Config: config}
+			w.Start()
 		}
 	} else {
 		fmt.Println("Usage: podcasthub action [options]")

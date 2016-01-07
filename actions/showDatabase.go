@@ -1,37 +1,36 @@
 package actions
 
 import (
-	"bufio"
 	"fmt"
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
-	"github.com/jaredbangs/go-repository/boltrepository"
-	"os"
+	"github.com/jaredbangs/PodcastHub/repositories"
 	"strings"
 )
 
 type ShowDatabase struct {
 	Config config.Configuration
-	Repo   *boltrepository.Repository
+	repo   *repositories.FeedRepository
 }
 
 func (show *ShowDatabase) Show(feedUrlToShow string) error {
 
-	show.Repo = boltrepository.NewRepository(show.Config.RepositoryFile)
+	show.initializeRepo()
 
-	file, err := os.Open(show.Config.SubscriptionFile)
-	defer file.Close()
-
-	if err == nil {
-		scanner := bufio.NewScanner(file)
-		for scanner.Scan() {
-			feedUrl := scanner.Text()
-			if feedUrlToShow == "" || feedUrlToShow == feedUrl {
-				show.showFeedUrl(feedUrl)
-			}
+	show.repo.ForEach(func(feedUrl string, feed parsing.Feed) {
+		if feedUrlToShow == "" || feedUrlToShow == feedUrl {
+			show.showFeedUrl(feedUrl)
 		}
+	})
+
+	return nil
+}
+
+func (show *ShowDatabase) initializeRepo() {
+
+	if show.repo == nil {
+		show.repo = repositories.NewFeedRepository(show.Config)
 	}
-	return err
 }
 
 func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
@@ -54,9 +53,7 @@ func (show *ShowDatabase) showFeedUrl(feedUrl string) {
 
 			fmt.Println("Showing " + feedUrl)
 
-			feed := parsing.Feed{}
-
-			err := show.Repo.ReadInto("Feeds", feedUrl, &feed)
+			feed, err := show.repo.Read(feedUrl)
 
 			if err == nil {
 				show.showFeedContent(&feed)
