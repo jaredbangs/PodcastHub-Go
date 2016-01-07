@@ -28,3 +28,4 @@ _testmain.go
 *.prof
 *.bolt
 PodcastHub
+test.out
