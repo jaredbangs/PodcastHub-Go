@@ -32,6 +32,14 @@ func main() {
 			} else {
 				d.MarkAllNewFilesDownloaded()
 			}
+		case "processfiles":
+			p := &actions.ProcessDownloadedFiles{}
+
+			if len(argsWithoutProg) > 1 {
+				p.ApplyAllFilters(argsWithoutProg[1])
+			} else {
+				fmt.Println("Usage: podcasthub processfiles path")
+			}
 		case "show":
 			show := &actions.ShowDatabase{Config: config}
 

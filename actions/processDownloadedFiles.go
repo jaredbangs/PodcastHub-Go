@@ -12,6 +12,7 @@ func (process *ProcessDownloadedFiles) ApplyAllFilters(downloadPath string) {
 	p := files.FileProcessor{}
 
 	//p.Filters = append(p.Filters, files.Id3InfoPrinter{})
+	p.Filters = append(p.Filters, files.RenameFileToTitleForAlbumName{AlbumName: "The Bike Shed"})
 
 	p.Filters = append(p.Filters, files.AddPrefixToFileNameForAlbumName{AlbumName: "Turing-Incomplete"})
 	p.Filters = append(p.Filters, files.AddPrefixToFileNameForAlbumName{AlbumName: "Ventura Vineyard"})
