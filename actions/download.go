@@ -1,11 +1,10 @@
 package actions
 
 import (
-	"bufio"
 	"fmt"
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
-	"github.com/jaredbangs/go-repository/boltrepository"
+	"github.com/jaredbangs/PodcastHub/repositories"
 	"io"
 	"mime"
 	"net/http"
@@ -17,38 +16,29 @@ import (
 
 type Download struct {
 	Config       config.Configuration
-	Repo         *boltrepository.Repository
 	downloadPath string
+	repo         *repositories.FeedRepository
 }
 
 func (d *Download) DownloadAllNewFiles() error {
 
-	d.Repo = boltrepository.NewRepository(d.Config.RepositoryFile)
+	d.initializeRepo()
 
-	file, err := os.Open(d.Config.SubscriptionFile)
-	defer file.Close()
-
-	if err == nil {
-		scanner := bufio.NewScanner(file)
-		for scanner.Scan() {
-			d.DownloadNewFilesInFeed(scanner.Text())
-		}
+	for _, feedUrl := range d.repo.GetAllKeys() {
+		d.DownloadNewFilesInFeed(feedUrl)
 	}
-	return err
+
+	return nil
 }
 
 func (d *Download) DownloadNewFilesInFeed(feedUrl string) {
 
-	if d.Repo == nil {
-		d.Repo = boltrepository.NewRepository(d.Config.RepositoryFile)
-	}
+	d.initializeRepo()
 
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
 
-			feed := parsing.Feed{}
-
-			err := d.Repo.ReadInto("Feeds", feedUrl, &feed)
+			feed, err := d.repo.Read(feedUrl)
 
 			if err == nil {
 				d.downloadNewFilesInFeed(&feed, feedUrl, false)
@@ -63,38 +53,33 @@ func (d *Download) DownloadNewFilesInFeed(feedUrl string) {
 
 func (d *Download) MarkAllNewFilesDownloaded() error {
 
-	d.Repo = boltrepository.NewRepository(d.Config.RepositoryFile)
+	d.initializeRepo()
 
-	file, err := os.Open(d.Config.SubscriptionFile)
-	defer file.Close()
-
-	if err == nil {
-		scanner := bufio.NewScanner(file)
-		for scanner.Scan() {
-			d.MarkAllNewFilesDownloadedInFeed(scanner.Text())
-		}
+	for _, feedUrl := range d.repo.GetAllKeys() {
+		d.MarkAllNewFilesDownloadedInFeed(feedUrl)
 	}
-	return err
+
+	return nil
 }
 
 func (d *Download) MarkAllNewFilesDownloadedInFeed(feedUrl string) {
 
-	if d.Repo == nil {
-		d.Repo = boltrepository.NewRepository(d.Config.RepositoryFile)
-	}
+	d.initializeRepo()
 
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
 
-			feed := parsing.Feed{}
-
-			err := d.Repo.ReadInto("Feeds", feedUrl, &feed)
+			feed, err := d.repo.Read(feedUrl)
 
 			if err == nil {
 				d.downloadNewFilesInFeed(&feed, feedUrl, true)
 			}
 		}
 	}
+
+	d.prepareDownloadPath()
+	process := &ProcessDownloadedFiles{}
+	process.ApplyAllFilters(d.downloadPath)
 }
 
 func (d *Download) downloadFile(url string) (err error) {
@@ -138,6 +123,8 @@ func (d *Download) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl string, ma
 		d.log("Feed: " + feedUrl)
 	}
 
+	d.initializeRepo()
+
 	for _, item := range feed.Channel.ItemList {
 		for _, enclosure := range item.Enclosures {
 			if len(enclosure.Url) != 0 && !enclosure.Downloaded {
@@ -152,7 +139,9 @@ func (d *Download) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl string, ma
 
 				feed.UpdateEnclosure(enclosure)
 
-				d.Repo.Save("Feeds", feedUrl, feed)
+				d.log("Saving feed: " + feedUrl)
+				d.repo.Save(feedUrl, feed)
+				d.log("Saved feed: " + feedUrl)
 			}
 		}
 	}
@@ -182,6 +171,12 @@ func (d *Download) getTargetFilePath(url string, contentDisposition string) (fil
 	}
 
 	return filePath, err
+}
+
+func (d *Download) initializeRepo() {
+	if d.repo == nil {
+		d.repo = repositories.NewFeedRepository(d.Config)
+	}
 }
 
 func (d *Download) logError(err error) {

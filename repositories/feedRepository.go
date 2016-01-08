@@ -29,6 +29,17 @@ func (r *FeedRepository) ForEach(action func(string, parsing.Feed)) {
 	})
 }
 
+func (r *FeedRepository) GetAllKeys() []string {
+
+	allKeys := make([]string, 1)
+
+	r.ForEach(func(key string, feed parsing.Feed) {
+		allKeys = append(allKeys, key)
+	})
+
+	return allKeys
+}
+
 func (r *FeedRepository) Read(keyName string) (feed parsing.Feed, err error) {
 
 	obj, err := r.boltRepo.Read(r.bucketName, keyName)
@@ -38,7 +49,7 @@ func (r *FeedRepository) Read(keyName string) (feed parsing.Feed, err error) {
 	return feed, err
 }
 
-func (r *FeedRepository) Save(keyName string, feed parsing.Feed) {
+func (r *FeedRepository) Save(keyName string, feed *parsing.Feed) {
 	r.boltRepo.Save(r.bucketName, keyName, feed)
 }
 

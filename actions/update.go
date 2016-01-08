@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
-	"github.com/jaredbangs/go-repository/boltrepository"
+	"github.com/jaredbangs/PodcastHub/repositories"
 	"io/ioutil"
 	"net/http"
 	"os"
@@ -14,7 +14,7 @@ import (
 
 type Update struct {
 	Config config.Configuration
-	Repo   *boltrepository.Repository
+	repo   *repositories.FeedRepository
 }
 
 func (update *Update) Update() error {
@@ -56,16 +56,15 @@ func (update *Update) UpdateFeed(feedUrl string) {
 
 func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 
-	if update.Repo == nil {
-		update.Repo = boltrepository.NewRepository(update.Config.RepositoryFile)
+	if update.repo == nil {
+		update.repo = repositories.NewFeedRepository(update.Config)
 	}
 
 	currentFeed, err := parsing.TryParse(content)
 
 	if err == nil {
 
-		feedRecord := parsing.Feed{}
-		update.Repo.ReadInto("Feeds", feedUrl, &feedRecord)
+		feedRecord, _ := update.repo.Read(feedUrl)
 
 		for _, item := range currentFeed.Channel.ItemList {
 
@@ -85,6 +84,6 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 			}
 		}
 
-		update.Repo.Save("Feeds", feedUrl, feedRecord)
+		update.repo.Save(feedUrl, &feedRecord)
 	}
 }
