@@ -118,6 +118,17 @@ func (d *Download) MarkAllNewFilesDownloadedInFeed(feedUrl string) {
 	process.ApplyAllFilters(d.downloadPath)
 }
 
+func (d *Download) TrimExtraPartsFromFileName(fileName string) (adjustedFileName string) {
+
+	if strings.Contains(fileName, "?") {
+		adjustedFileName = strings.Split(fileName, "?")[0]
+	} else {
+		adjustedFileName = fileName
+	}
+
+	return adjustedFileName
+}
+
 func (d *Download) downloadFile(url string) (err error) {
 
 	//transport := &RedirectHandlingTransport{}
@@ -210,14 +221,14 @@ func (d *Download) getTargetFilePath(url string, resp *http.Response) (filePath 
 			_, params, err := mime.ParseMediaType(contentDisposition)
 
 			if err == nil && params["filename"] != "" {
-				filePath = path.Join(d.downloadPath, params["filename"])
-			} else {
-				filePath = path.Join(d.downloadPath, fileNamePart)
+				fileNamePart = params["filename"]
 			}
 			d.log(contentDisposition)
-		} else {
-			filePath = path.Join(d.downloadPath, fileNamePart)
 		}
+
+		fileNamePart = d.TrimExtraPartsFromFileName(fileNamePart)
+
+		filePath = path.Join(d.downloadPath, fileNamePart)
 	}
 
 	return filePath, err
