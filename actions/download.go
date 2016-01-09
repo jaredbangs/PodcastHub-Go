@@ -6,6 +6,7 @@ import (
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
 	"io"
+	"log"
 	"mime"
 	"net/http"
 	"os"
@@ -29,6 +30,41 @@ func (d *Download) DownloadAllNewFiles() error {
 	}
 
 	return nil
+}
+
+func (d *Download) DownloadFileInFeed(feedUrl string, enclosureUrl string) {
+
+	d.initializeRepo()
+
+	if len(feedUrl) > 0 {
+		if !strings.HasPrefix(feedUrl, "#") {
+
+			feed, err := d.repo.Read(feedUrl)
+
+			if err == nil {
+				for _, item := range feed.Channel.ItemList {
+					for _, enclosure := range item.Enclosures {
+						if len(enclosure.Url) != 0 && enclosure.Url == enclosureUrl {
+
+							d.log("Downloading new file: " + enclosure.Url)
+
+							d.downloadFile(enclosure.Url)
+
+							enclosure.Downloaded = true
+
+							feed.UpdateEnclosure(enclosure)
+
+							d.repo.Save(feedUrl, &feed)
+						}
+					}
+				}
+			}
+		}
+	}
+
+	d.prepareDownloadPath()
+	process := &ProcessDownloadedFiles{}
+	process.ApplyAllFilters(d.downloadPath)
 }
 
 func (d *Download) DownloadNewFilesInFeed(feedUrl string) {
@@ -84,6 +120,9 @@ func (d *Download) MarkAllNewFilesDownloadedInFeed(feedUrl string) {
 
 func (d *Download) downloadFile(url string) (err error) {
 
+	//transport := &RedirectHandlingTransport{}
+	//client := &http.Client{Transport: transport}
+
 	resp, err := http.Get(url)
 	if err != nil {
 		d.logError(err)
@@ -91,7 +130,7 @@ func (d *Download) downloadFile(url string) (err error) {
 	}
 	defer resp.Body.Close()
 
-	filePath, err := d.getTargetFilePath(url, resp.Header.Get("Content-Disposition"))
+	filePath, err := d.getTargetFilePath(url, resp)
 	if err != nil {
 		d.logError(err)
 		return err
@@ -139,21 +178,32 @@ func (d *Download) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl string, ma
 
 				feed.UpdateEnclosure(enclosure)
 
-				d.log("Saving feed: " + feedUrl)
 				d.repo.Save(feedUrl, feed)
-				d.log("Saved feed: " + feedUrl)
 			}
 		}
 	}
 }
 
-func (d *Download) getTargetFilePath(url string, contentDisposition string) (filePath string, err error) {
+func (d *Download) getTargetFilePath(url string, resp *http.Response) (filePath string, err error) {
 
 	err = d.prepareDownloadPath()
+
+	if url != resp.Request.URL.String() {
+		url = resp.Request.URL.String()
+	}
 
 	fileNamePart := path.Base(url)
 
 	if err == nil {
+
+		if d.Config.LogAllHeaders {
+
+			for k, v := range resp.Header {
+				log.Println("Header:", k, "value:", v)
+			}
+		}
+
+		contentDisposition := resp.Header.Get("Content-Disposition")
 
 		if contentDisposition != "" {
 

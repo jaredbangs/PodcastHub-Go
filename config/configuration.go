@@ -8,6 +8,7 @@ import (
 
 type Configuration struct {
 	DownloadPath     string
+	LogAllHeaders    bool
 	RepositoryFile   string
 	SubscriptionFile string
 }
