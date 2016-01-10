@@ -17,7 +17,7 @@ func main() {
 	if len(argsWithoutProg) > 0 {
 		switch argsWithoutProg[0] {
 		case "download":
-			d := &actions.Download{Config: config}
+			d := actions.NewDownload(config)
 
 			if len(argsWithoutProg) > 2 {
 				d.DownloadFileInFeed(argsWithoutProg[1], argsWithoutProg[2])
@@ -27,7 +27,7 @@ func main() {
 				d.DownloadAllNewFiles()
 			}
 		case "markdownloaded":
-			d := &actions.Download{Config: config}
+			d := actions.NewDownload(config)
 
 			if len(argsWithoutProg) > 1 {
 				d.MarkAllNewFilesDownloadedInFeed(argsWithoutProg[1])
