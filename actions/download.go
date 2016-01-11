@@ -1,11 +1,12 @@
 package actions
 
 import (
-	"fmt"
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
 	"github.com/jaredbangs/go-download/download"
+	"io"
+	"log"
 	"os"
 	"path"
 	"strings"
@@ -16,6 +17,7 @@ type downloadFiles struct {
 	Config       config.Configuration
 	downloader   *download.Download
 	downloadPath string
+	logFile      *os.File
 	repo         *repositories.FeedRepository
 }
 
@@ -25,8 +27,13 @@ func NewDownload(config config.Configuration) *downloadFiles {
 
 	d.initializeRepo()
 	d.initializeDownloader()
+	d.initializeLog()
 
 	return d
+}
+
+func (d *downloadFiles) Close() {
+	//TODO: close log file here, always use Defer to call this from any endpoints
 }
 
 func (d *downloadFiles) DownloadAllNewFiles() error {
@@ -113,7 +120,7 @@ func (d *downloadFiles) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl strin
 				}
 
 				if shouldDownload {
-					d.log("Downloading new file: " + enclosure.Url)
+					log.Println("Downloading new file: " + enclosure.Url)
 
 					if !markOnly {
 						d.downloader.DownloadFile(enclosure.Url, d.downloadPath)
@@ -139,10 +146,24 @@ func (d *downloadFiles) initializeDownloader() {
 		d.downloader = &download.Download{
 			EnableLogging: true,
 			LogAllHeaders: true,
-			LogToFilePath: d.downloadPath,
 		}
 
 	}
+}
+
+func (d *downloadFiles) initializeLog() {
+
+	t := time.Now()
+	filePath := path.Join(d.downloadPath, t.Format("20060102-150405")+"-download.log")
+
+	f, err := os.OpenFile(filePath, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	if err != nil {
+		panic(err)
+	}
+	d.logFile = f
+
+	log.SetOutput(io.MultiWriter(d.logFile, os.Stdout))
+	log.Println("Initialized log")
 }
 
 func (d *downloadFiles) initializeRepo() {
@@ -152,39 +173,13 @@ func (d *downloadFiles) initializeRepo() {
 	}
 }
 
-func (d *downloadFiles) logError(err error) {
-	d.log(err.Error())
-}
-
 func (d *downloadFiles) logFeedName(feed *parsing.Feed, feedUrl string) {
 
 	if feed.Channel.Title != "" {
-		d.log("Feed: " + feed.Channel.Title)
+		log.Println("Feed: " + feed.Channel.Title)
 	} else {
-		d.log("Feed: " + feedUrl)
+		log.Println("Feed: " + feedUrl)
 	}
-}
-
-func (d *downloadFiles) log(text string) {
-
-	err := d.prepareDownloadPath()
-	if err != nil {
-		panic(err)
-	}
-
-	filePath := path.Join(d.downloadPath, "download.log")
-
-	f, err := os.OpenFile(filePath, os.O_APPEND|os.O_WRONLY, 0600)
-	if err != nil {
-		panic(err)
-	}
-	defer f.Close()
-
-	if _, err = f.WriteString(text + "\n"); err != nil {
-		panic(err)
-	}
-
-	fmt.Println(text)
 }
 
 func (d *downloadFiles) prepareDownloadPath() (err error) {
@@ -198,18 +193,8 @@ func (d *downloadFiles) prepareDownloadPath() (err error) {
 
 		err = os.MkdirAll(d.downloadPath, 0711)
 		if err != nil {
-			d.logError(err)
+			log.Fatalln(err)
 			return err
-		}
-
-		filePath := path.Join(d.downloadPath, "download.log")
-		if _, err := os.Stat(filePath); os.IsNotExist(err) {
-			out, err := os.Create(filePath)
-			if err != nil {
-				d.logError(err)
-				return err
-			}
-			defer out.Close()
 		}
 	}
 
