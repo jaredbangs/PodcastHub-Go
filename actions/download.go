@@ -7,6 +7,7 @@ import (
 	"github.com/jaredbangs/go-download/download"
 	"io"
 	"log"
+	"net/http"
 	"os"
 	"path"
 	"strings"
@@ -105,6 +106,17 @@ func (d *downloadFiles) MarkAllNewFilesDownloadedInFeed(feedUrl string) {
 	process.ApplyAllFilters(d.downloadPath)
 }
 
+func (d *downloadFiles) ShouldDownloadResponseFilter(resp *http.Response) bool {
+
+	contentType := resp.Header.Get("Content-Type")
+
+	if strings.Contains(contentType, "text") {
+		return false
+	}
+
+	return true
+}
+
 func (d *downloadFiles) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl string, markOnly bool, specificEnclosureUrl string) {
 
 	d.logFeedName(feed, feedUrl)
@@ -144,8 +156,9 @@ func (d *downloadFiles) initializeDownloader() {
 		d.prepareDownloadPath()
 
 		d.downloader = &download.Download{
-			EnableLogging: true,
-			LogAllHeaders: true,
+			EnableLogging:                true,
+			LogAllHeaders:                true,
+			ShouldDownloadResponseFilter: d.ShouldDownloadResponseFilter,
 		}
 
 	}
