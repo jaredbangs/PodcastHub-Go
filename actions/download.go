@@ -34,7 +34,10 @@ func NewDownload(config config.Configuration) *downloadFiles {
 }
 
 func (d *downloadFiles) Close() {
-	//TODO: close log file here, always use Defer to call this from any endpoints
+
+	if d.logFile != nil {
+		d.logFile.Close()
+	}
 }
 
 func (d *downloadFiles) DownloadAllNewFiles() error {
