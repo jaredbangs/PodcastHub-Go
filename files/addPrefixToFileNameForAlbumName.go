@@ -11,7 +11,7 @@ type AddPrefixToFileNameForAlbumName struct {
 	AlbumName string
 }
 
-func (p AddPrefixToFileNameForAlbumName) ProcessFile(path string, info os.FileInfo) error {
+func (p AddPrefixToFileNameForAlbumName) ProcessFile(path string, info os.FileInfo) (bool, error) {
 
 	dir := filepath.Dir(path)
 	base := filepath.Base(path)
@@ -20,7 +20,7 @@ func (p AddPrefixToFileNameForAlbumName) ProcessFile(path string, info os.FileIn
 
 	fmt.Println(newname)
 
-	return nil
+	return true, nil
 }
 
 func (p AddPrefixToFileNameForAlbumName) ShouldProcessFile(path string, info os.FileInfo) bool {

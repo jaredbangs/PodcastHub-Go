@@ -11,7 +11,7 @@ type RenameFileToTitleForAlbumName struct {
 	AlbumName string
 }
 
-func (p RenameFileToTitleForAlbumName) ProcessFile(path string, info os.FileInfo) error {
+func (p RenameFileToTitleForAlbumName) ProcessFile(path string, info os.FileInfo) (bool, error) {
 
 	reader := TagReader{}
 	err := reader.Read(path)
@@ -23,9 +23,11 @@ func (p RenameFileToTitleForAlbumName) ProcessFile(path string, info os.FileInfo
 		os.Rename(path, newname)
 
 		fmt.Println(newname)
-	}
 
-	return nil
+		return true, nil
+	} else {
+		return false, err
+	}
 }
 
 func (p RenameFileToTitleForAlbumName) ShouldProcessFile(path string, info os.FileInfo) bool {
