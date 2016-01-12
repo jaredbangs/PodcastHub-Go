@@ -115,6 +115,8 @@ func (d *downloadFiles) ShouldDownloadResponseFilter(resp *http.Response) bool {
 
 	if strings.Contains(contentType, "text") {
 		return false
+	} else if strings.Contains(contentType, "javascript") {
+		return false
 	}
 
 	return true
