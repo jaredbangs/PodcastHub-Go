@@ -9,7 +9,7 @@ import (
 type Id3InfoPrinter struct {
 }
 
-func (p Id3InfoPrinter) ProcessFile(path string, info os.FileInfo) error {
+func (p Id3InfoPrinter) ProcessFile(path string, info os.FileInfo) (bool, error) {
 
 	fmt.Println(path)
 	fmt.Println(info.Size())
@@ -18,7 +18,7 @@ func (p Id3InfoPrinter) ProcessFile(path string, info os.FileInfo) error {
 
 	reader.ReadFileAndPrintFileInfo(path)
 
-	return nil
+	return false, nil
 }
 
 func (p Id3InfoPrinter) ShouldProcessFile(path string, info os.FileInfo) bool {

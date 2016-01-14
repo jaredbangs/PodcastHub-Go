@@ -140,10 +140,16 @@ func (d *downloadFiles) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl strin
 					log.Println("Downloading new file: " + enclosure.Url)
 
 					if !markOnly {
-						d.downloader.DownloadFile(enclosure.Url, d.downloadPath)
-					}
 
-					enclosure.Downloaded = true
+						savedToPath, err := d.downloader.DownloadFile(enclosure.Url, d.downloadPath)
+
+						if err == nil {
+							enclosure.Downloaded = true
+							enclosure.DownloadedFilePath = savedToPath
+						}
+					} else {
+						enclosure.Downloaded = true
+					}
 
 					feed.UpdateEnclosure(enclosure)
 

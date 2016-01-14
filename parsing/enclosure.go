@@ -1,6 +1,7 @@
 package parsing
 
 type Enclosure struct {
-	Downloaded bool
-	Url        string `xml:"url,attr"`
+	Downloaded         bool
+	DownloadedFilePath string
+	Url                string `xml:"url,attr"`
 }

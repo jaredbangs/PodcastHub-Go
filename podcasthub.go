@@ -44,6 +44,14 @@ func main() {
 			} else {
 				fmt.Println("Usage: podcasthub processfiles path")
 			}
+		case "readfiles":
+			p := &actions.ReadFiles{}
+
+			if len(argsWithoutProg) > 1 {
+				p.ApplyAllFilters(argsWithoutProg[1])
+			} else {
+				fmt.Println("Usage: podcasthub readfiles path")
+			}
 		case "show":
 			show := &actions.ShowDatabase{Config: config}
 

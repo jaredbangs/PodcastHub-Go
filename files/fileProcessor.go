@@ -1,7 +1,7 @@
 package files
 
 import (
-	"fmt"
+	"log"
 	"os"
 	"path/filepath"
 )
@@ -29,7 +29,7 @@ func (f *FileProcessor) processFile(path string, info os.FileInfo, err error) er
 			pathChanged, err := filter.ProcessFile(path, info)
 
 			if err != nil {
-				fmt.Fprintf(os.Stderr, "Processing error %s: %s\n", path, err)
+				log.Printf("Processing error %s: %s\n", path, err)
 				return err
 			} else if pathChanged {
 				f.pathChanged = true

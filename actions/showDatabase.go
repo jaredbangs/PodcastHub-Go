@@ -5,6 +5,7 @@ import (
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
 	"log"
+	"os"
 	"strings"
 )
 
@@ -14,6 +15,8 @@ type ShowDatabase struct {
 }
 
 func (show *ShowDatabase) Show(feedUrlToShow string) error {
+
+	log.SetOutput(os.Stdout)
 
 	show.initializeRepo()
 
@@ -37,10 +40,11 @@ func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 
 	log.Println(feed.Channel.Title)
 	for _, item := range feed.Channel.ItemList {
-		log.Println("\t" + item.Title)
+		log.Println("\t" + item.Title + "\t- Published: " + item.PubDate)
 		for _, enclosure := range item.Enclosures {
 			if len(enclosure.Url) != 0 {
 				log.Printf("\t\tDownloaded: %t\t"+enclosure.Url+"\n", enclosure.Downloaded)
+				log.Printf("\t\tDownloaded to: \t" + enclosure.DownloadedFilePath + "\n")
 			}
 		}
 	}
