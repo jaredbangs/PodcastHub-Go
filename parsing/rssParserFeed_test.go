@@ -7,6 +7,15 @@ import (
 	"testing"
 )
 
+func TestFeedContentDescription(t *testing.T) {
+
+	parser := RssParser{}
+
+	feed, _ := parser.ParseFeedContent(getValidTestContent())
+
+	assert.Equal(t, "The happiest place in Roy, New Mexico!", feed.Channel.Description)
+}
+
 func TestFeedContentIsNotParseable(t *testing.T) {
 
 	parser := RssParser{}
@@ -38,13 +47,22 @@ func TestFeedContentHasItems(t *testing.T) {
 	assert.Equal(t, 50, len(feed.Channel.ItemList), "ItemList should have 50 items")
 }
 
-func TestFeedContentHasTitle(t *testing.T) {
+func TestFeedContentLink(t *testing.T) {
 
 	parser := RssParser{}
 
 	feed, _ := parser.ParseFeedContent(getValidTestContent())
 
-	assert.NotNil(t, feed.Channel.Title, "Title should not be nil")
+	assert.Equal(t, "http://www.phonelosers.org", feed.Channel.Link)
+}
+
+func TestFeedContentTitle(t *testing.T) {
+
+	parser := RssParser{}
+
+	feed, _ := parser.ParseFeedContent(getValidTestContent())
+
+	assert.Equal(t, "Phone Losers of America", feed.Channel.Title)
 }
 
 func TestFeedShouldHave47Enclosures(t *testing.T) {

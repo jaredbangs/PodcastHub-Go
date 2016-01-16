@@ -7,12 +7,40 @@ import (
 	"testing"
 )
 
+func TestItemDescription(t *testing.T) {
+
+	item := getValidTestItem(0)
+
+	assert.Contains(t, item.Description, "If you like the picture above")
+	assert.Contains(t, item.Description, "Continue reading <span class=\"meta-nav\">&#8594;</span></a>")
+}
+
+func TestItemDuration(t *testing.T) {
+
+	item := getValidTestItem(0)
+
+	assert.Equal(t, "1:23:48", item.Duration)
+}
+
 func TestItemEnclosures(t *testing.T) {
 
 	item := getValidTestItem(0)
 
 	assert.Equal(t, "http://www.phonelosers.org/podpress_trac/feed/3455/0/snow_plow_show_2014-02-05.mp3", item.Enclosures[0].Url, "Enclosure does not match")
+	assert.Equal(t, 40228971, item.Enclosures[0].Length)
+	assert.Equal(t, "audio/mpeg", item.Enclosures[0].Type)
+
 	assert.Equal(t, "http://friday.erinthepir8.com/misc/carlito%27s%20roommate.mp3", item.Enclosures[1].Url, "Enclosure does not match")
+	assert.Equal(t, 16666560, item.Enclosures[1].Length)
+	assert.Equal(t, "audio/mpeg", item.Enclosures[1].Type)
+}
+
+func TestItemEncoded(t *testing.T) {
+
+	item := getValidTestItem(0)
+
+	assert.Contains(t, item.Encoded, "http://www.phonelosers.org/images/2014/rob_t_firefly_with_nyc_mayor.jpg")
+	assert.Contains(t, item.Encoded, "www.youtube.com/embed/D6MS2SYBjvg")
 }
 
 func TestItemGetPublicationDate(t *testing.T) {
@@ -38,6 +66,20 @@ func TestItemPubDateString(t *testing.T) {
 	item := getValidTestItem(0)
 
 	assert.Equal(t, "Thu, 06 Feb 2014 08:00:10 +0000", item.PubDate, "PubDate does not match")
+}
+
+func TestItemSubtitle(t *testing.T) {
+
+	item := getValidTestItem(0)
+
+	assert.Contains(t, item.Subtitle, "Thanks for this picture of you and the NYC mayor, Rob T Firefly")
+}
+
+func TestItemSummary(t *testing.T) {
+
+	item := getValidTestItem(0)
+
+	assert.Contains(t, item.Summary, "Thanks for this picture of you and the NYC mayor, Rob T Firefly")
 }
 
 func TestItemTitle(t *testing.T) {

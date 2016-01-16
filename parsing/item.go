@@ -5,11 +5,14 @@ import (
 )
 
 type Item struct {
-	// Have to specify where to find the series title since
-	// the field of this struct doesn't match the xml tag
-	Enclosures []Enclosure `xml:"enclosure"`
-	PubDate    string      `xml:"pubDate"`
-	Title      string      `xml:"title"`
+	Description string      `xml:"description"`
+	Duration    string      `xml:"duration"`
+	Enclosures  []Enclosure `xml:"enclosure"`
+	Encoded     string      `xml:"encoded"`
+	PubDate     string      `xml:"pubDate"`
+	Subtitle    string      `xml:"subtitle"`
+	Summary     string      `xml:"summary"`
+	Title       string      `xml:"title"`
 }
 
 func (i Item) GetPublicationDate() (time.Time, error) {

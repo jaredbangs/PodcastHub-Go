@@ -144,12 +144,12 @@ func (d *downloadFiles) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl strin
 						savedToPath, err := d.downloader.DownloadFile(enclosure.Url, d.downloadPath)
 
 						if err == nil {
-							enclosure.Downloaded = true
 							enclosure.DownloadedFilePath = savedToPath
 						}
-					} else {
-						enclosure.Downloaded = true
 					}
+
+					enclosure.Downloaded = true
+					enclosure.DownloadedAt = time.Now()
 
 					feed.UpdateEnclosure(enclosure)
 
