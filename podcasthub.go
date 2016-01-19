@@ -36,6 +36,9 @@ func main() {
 			} else {
 				d.MarkAllNewFilesDownloaded()
 			}
+		case "processitems":
+			p := &actions.ProcessDownloadedItems{}
+			p.ApplyAllFilters(config)
 		case "processfiles":
 			p := &actions.ProcessDownloadedFiles{}
 

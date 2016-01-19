@@ -64,6 +64,9 @@ func (d *downloadFiles) DownloadFileInFeed(feedUrl string, enclosureUrl string) 
 
 	process := &ProcessDownloadedFiles{}
 	process.ApplyAllFilters(d.downloadPath)
+
+	p := &ProcessDownloadedItems{}
+	p.ApplyAllFilters(d.Config)
 }
 
 func (d *downloadFiles) DownloadNewFilesInFeed(feedUrl string) {
@@ -81,6 +84,8 @@ func (d *downloadFiles) DownloadNewFilesInFeed(feedUrl string) {
 
 	process := &ProcessDownloadedFiles{}
 	process.ApplyAllFilters(d.downloadPath)
+	p := &ProcessDownloadedItems{}
+	p.ApplyAllFilters(d.Config)
 }
 
 func (d *downloadFiles) MarkAllNewFilesDownloaded() error {
@@ -107,6 +112,8 @@ func (d *downloadFiles) MarkAllNewFilesDownloadedInFeed(feedUrl string) {
 
 	process := &ProcessDownloadedFiles{}
 	process.ApplyAllFilters(d.downloadPath)
+	p := &ProcessDownloadedItems{}
+	p.ApplyAllFilters(d.Config)
 }
 
 func (d *downloadFiles) ShouldDownloadResponseFilter(resp *http.Response) bool {

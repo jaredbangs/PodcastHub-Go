@@ -36,9 +36,9 @@ func (show *ShowDatabase) initializeRepo() {
 	}
 }
 
-func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
+func (show *ShowDatabase) showFeedContent(feedUrl string, feed *parsing.Feed) {
 
-	log.Println(feed.Channel.Title)
+	log.Println(feed.Channel.Title + "\t" + feedUrl)
 	for _, item := range feed.Channel.ItemList {
 		log.Println("\t" + item.Title + "\t- Published: " + item.PubDate)
 		for _, enclosure := range item.Enclosures {
@@ -60,7 +60,7 @@ func (show *ShowDatabase) showFeedUrl(feedUrl string) {
 			feed, err := show.repo.Read(feedUrl)
 
 			if err == nil {
-				show.showFeedContent(&feed)
+				show.showFeedContent(feedUrl, &feed)
 			}
 		}
 	}
