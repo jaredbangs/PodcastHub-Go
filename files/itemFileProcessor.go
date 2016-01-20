@@ -16,8 +16,6 @@ type ItemFileProcessor struct {
 
 func (f *ItemFileProcessor) ProcessFiles() (err error) {
 
-	log.SetOutput(os.Stdout)
-
 	f.initializeRepo()
 
 	allFeedUrls := f.repo.GetAllKeys()
