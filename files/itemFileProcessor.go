@@ -4,8 +4,6 @@ import (
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
-	"log"
-	"os"
 )
 
 type ItemFileProcessor struct {
