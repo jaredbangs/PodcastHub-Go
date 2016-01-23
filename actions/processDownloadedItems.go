@@ -14,6 +14,7 @@ func (process *ProcessDownloadedItems) ApplyAllFilters(config config.Configurati
 	p.Filters = append(p.Filters, files.AddPrefixToFileNameForFeedName{FeedName: "This Agile Life"})
 	p.Filters = append(p.Filters, files.AddPrefixToFileNameForFeedName{FeedName: "This American Life"})
 	p.Filters = append(p.Filters, files.AddPrefixToFileNameForFeedName{FeedName: "Fighting In The War Room"})
+	p.Filters = append(p.Filters, files.AddPrefixToFileNameForFeedName{FeedName: "Travel with Rick Steves"})
 
 	p.ProcessFiles()
 }
