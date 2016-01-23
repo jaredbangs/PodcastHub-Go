@@ -13,6 +13,7 @@ func (process *ProcessDownloadedItems) ApplyAllFilters(config config.Configurati
 	p := files.ItemFileProcessor{Config: config}
 	p.Filters = append(p.Filters, files.AddPrefixToFileNameForFeedName{FeedName: "This Agile Life"})
 	p.Filters = append(p.Filters, files.AddPrefixToFileNameForFeedName{FeedName: "This American Life"})
+	p.Filters = append(p.Filters, files.AddPrefixToFileNameForFeedName{FeedName: "Fighting In The War Room"})
 
 	p.ProcessFiles()
 }
