@@ -36,6 +36,9 @@ func main() {
 			} else {
 				d.MarkAllNewFilesDownloaded()
 			}
+		case "move":
+			p := &actions.Reorg{Config: config}
+			p.CopyFromOldToNew()
 		case "processitems":
 			p := &actions.ProcessDownloadedItems{}
 			p.ApplyAllFilters(config)

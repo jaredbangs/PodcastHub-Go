@@ -34,7 +34,7 @@ func (f *ItemFileProcessor) initializeRepo() {
 
 func (f *ItemFileProcessor) processFeed(feedUrl string) (err error) {
 
-	feed, err := f.repo.Read(feedUrl)
+	feed, err := f.repo.ReadByUrl(feedUrl)
 
 	if err == nil {
 		for _, item := range feed.Channel.ItemList {

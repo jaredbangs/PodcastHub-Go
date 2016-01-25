@@ -2,6 +2,8 @@ package parsing
 
 type Feed struct {
 	Channel      Channel `xml:"channel"`
+	FeedUrl      string
+	Id           string
 	existingUrls map[string]int
 }
 

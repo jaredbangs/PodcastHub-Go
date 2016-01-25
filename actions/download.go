@@ -54,7 +54,7 @@ func (d *downloadFiles) DownloadFileInFeed(feedUrl string, enclosureUrl string) 
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
 
-			feed, err := d.repo.Read(feedUrl)
+			feed, err := d.repo.ReadByUrl(feedUrl)
 
 			if err == nil {
 				d.downloadNewFilesInFeed(&feed, feedUrl, false, enclosureUrl)
@@ -74,7 +74,7 @@ func (d *downloadFiles) DownloadNewFilesInFeed(feedUrl string) {
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
 
-			feed, err := d.repo.Read(feedUrl)
+			feed, err := d.repo.ReadByUrl(feedUrl)
 
 			if err == nil {
 				d.downloadNewFilesInFeed(&feed, feedUrl, false, "")
@@ -102,7 +102,7 @@ func (d *downloadFiles) MarkAllNewFilesDownloadedInFeed(feedUrl string) {
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
 
-			feed, err := d.repo.Read(feedUrl)
+			feed, err := d.repo.ReadByUrl(feedUrl)
 
 			if err == nil {
 				d.downloadNewFilesInFeed(&feed, feedUrl, true, "")

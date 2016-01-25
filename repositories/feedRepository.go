@@ -7,25 +7,32 @@ import (
 )
 
 type FeedRepository struct {
-	Config     config.Configuration
-	bucketName string
-	boltRepo   *boltrepository.Repository
+	Config              config.Configuration
+	feedsByIdBoltRepo   *boltrepository.Repository
+	feedsByIdBucketName string
+	idsByUrlBoltRepo    *boltrepository.Repository
+	idsByUrlBucketName  string
 }
 
 func NewFeedRepository(config config.Configuration) *FeedRepository {
+
 	r := &FeedRepository{
-		Config:     config,
-		bucketName: "Feeds",
+		Config:              config,
+		feedsByIdBucketName: "FeedsById",
+		idsByUrlBucketName:  "IdsByUrl",
 	}
+
 	r.initializeUnderlyingRepository()
+
 	return r
 }
 
 func (r *FeedRepository) ForEach(action func(string, parsing.Feed)) {
 
-	r.boltRepo.ForEach(r.bucketName, func(key string, val interface{}) {
+	r.feedsByIdBoltRepo.ForEach(r.feedsByIdBucketName, func(key string, val interface{}) {
 
-		action(key, val.(parsing.Feed))
+		feed := val.(parsing.Feed)
+		action(feed.FeedUrl, feed)
 	})
 }
 
@@ -40,28 +47,48 @@ func (r *FeedRepository) GetAllKeys() []string {
 	return allKeys
 }
 
-func (r *FeedRepository) Read(keyName string) (feed parsing.Feed, err error) {
+func (r *FeedRepository) ReadById(id string) (feed parsing.Feed, err error) {
 
-	obj, err := r.boltRepo.Read(r.bucketName, keyName)
+	obj, err := r.feedsByIdBoltRepo.Read(r.feedsByIdBucketName, id)
 
 	feed = obj.(parsing.Feed)
 
 	return feed, err
 }
 
-func (r *FeedRepository) Save(keyName string, feed *parsing.Feed) {
-	r.boltRepo.Save(r.bucketName, keyName, feed)
+func (r *FeedRepository) ReadByUrl(url string) (feed parsing.Feed, err error) {
+
+	id, err := r.idsByUrlBoltRepo.Read(r.idsByUrlBucketName, url)
+
+	feed, err = r.ReadById(id.(string))
+
+	return feed, err
+}
+
+func (r *FeedRepository) Save(id string, feed *parsing.Feed) {
+	r.feedsByIdBoltRepo.Save(r.feedsByIdBucketName, id, feed)
+	r.idsByUrlBoltRepo.Save(r.idsByUrlBucketName, feed.FeedUrl, id)
 }
 
 func (r *FeedRepository) initializeUnderlyingRepository() {
 
-	if r.boltRepo == nil {
-		r.boltRepo = boltrepository.NewRepository(r.Config.RepositoryFile)
+	if r.feedsByIdBoltRepo == nil {
+		r.feedsByIdBoltRepo = boltrepository.NewRepository(r.Config.RepositoryFile)
 
-		r.boltRepo.GetObject = func(val []byte) interface{} {
+		r.feedsByIdBoltRepo.GetObject = func(val []byte) interface{} {
 			feed := &parsing.Feed{}
-			r.boltRepo.Deserialize(val, &feed)
+			r.feedsByIdBoltRepo.Deserialize(val, &feed)
 			return *feed
+		}
+	}
+
+	if r.idsByUrlBoltRepo == nil {
+		r.idsByUrlBoltRepo = boltrepository.NewRepository(r.Config.RepositoryFile)
+
+		r.idsByUrlBoltRepo.GetObject = func(val []byte) interface{} {
+			id := ""
+			r.idsByUrlBoltRepo.Deserialize(val, &id)
+			return id
 		}
 	}
 }

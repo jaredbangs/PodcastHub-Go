@@ -36,9 +36,12 @@ func (show *ShowDatabase) initializeRepo() {
 	}
 }
 
-func (show *ShowDatabase) showFeedContent(feedUrl string, feed *parsing.Feed) {
+func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 
-	log.Println(feed.Channel.Title + "\t" + feedUrl)
+	log.Println(feed.Channel.Title + "\t" + feed.Id + "\t" + feed.FeedUrl)
+	log.Println("Subtitle:\t" + feed.Channel.Subtitle)
+	log.Println("LastBuildDate:\t" + feed.Channel.LastBuildDate)
+	log.Println("Summary:\t" + feed.Channel.Summary)
 	for _, item := range feed.Channel.ItemList {
 		log.Println("\t" + item.Title + "\t- Published: " + item.PubDate)
 		for _, enclosure := range item.Enclosures {
@@ -57,10 +60,10 @@ func (show *ShowDatabase) showFeedUrl(feedUrl string) {
 
 			log.Println("Showing " + feedUrl)
 
-			feed, err := show.repo.Read(feedUrl)
+			feed, err := show.repo.ReadByUrl(feedUrl)
 
 			if err == nil {
-				show.showFeedContent(feedUrl, &feed)
+				show.showFeedContent(&feed)
 			}
 		}
 	}

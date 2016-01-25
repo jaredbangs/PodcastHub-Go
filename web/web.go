@@ -2,29 +2,42 @@ package web
 
 import (
 	"github.com/jaredbangs/PodcastHub/config"
-	"github.com/jaredbangs/go-repository/boltrepository"
+	"github.com/jaredbangs/PodcastHub/parsing"
+	"github.com/jaredbangs/PodcastHub/repositories"
 	"html/template"
+	"log"
 	"net/http"
 )
 
 type Web struct {
 	Config config.Configuration
-	Repo   *boltrepository.Repository
+	repo   *repositories.FeedRepository
 }
 
 func (w *Web) Start() {
 
-	w.Repo = boltrepository.NewRepository(w.Config.RepositoryFile)
+	w.initializeRepo()
 
 	http.HandleFunc("/", w.handleListFeedsRequest)
 
+	log.Println("Listening on :8080")
 	http.ListenAndServe(":8080", nil)
 }
 
 func (w *Web) handleListFeedsRequest(rw http.ResponseWriter, r *http.Request) {
 
-	//feed := nil
+	t, _ := template.ParseFiles("web/listFeeds.html")
 
-	t, _ := template.ParseFiles("listFeeds.html")
-	t.Execute(rw, nil)
+	w.repo.ForEach(func(feedUrl string, feed parsing.Feed) {
+		if feed.Channel.Title != "" {
+			t.Execute(rw, feed)
+		}
+	})
+}
+
+func (w *Web) initializeRepo() {
+
+	if w.repo == nil {
+		w.repo = repositories.NewFeedRepository(w.Config)
+	}
 }

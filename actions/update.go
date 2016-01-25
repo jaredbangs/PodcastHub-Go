@@ -64,7 +64,7 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 
 	if err == nil {
 
-		feedRecord, _ := update.repo.Read(feedUrl)
+		feedRecord, _ := update.repo.ReadByUrl(feedUrl)
 
 		for _, item := range currentFeed.Channel.ItemList {
 
