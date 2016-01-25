@@ -66,6 +66,8 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 
 		feedRecord, _ := update.repo.ReadByUrl(feedUrl)
 
+		update.updateChannelInfo(&feedRecord, &currentFeed.Channel)
+
 		for _, item := range currentFeed.Channel.ItemList {
 
 			hasUrl := true
@@ -85,5 +87,38 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 		}
 
 		update.repo.Save(feedUrl, &feedRecord)
+	}
+}
+
+func (u *Update) updateChannelInfo(existingFeed *parsing.Feed, currentChannel *parsing.Channel) {
+
+	if existingFeed.Channel.Description != currentChannel.Description && currentChannel.Description != "" {
+		existingFeed.Channel.Description = currentChannel.Description
+	}
+
+	if existingFeed.Channel.Generator != currentChannel.Generator && currentChannel.Generator != "" {
+		existingFeed.Channel.Generator = currentChannel.Generator
+	}
+
+	// Images        []Image
+
+	if existingFeed.Channel.LastBuildDate != currentChannel.LastBuildDate && currentChannel.LastBuildDate != "" {
+		existingFeed.Channel.LastBuildDate = currentChannel.LastBuildDate
+	}
+
+	if existingFeed.Channel.Link != currentChannel.Link && currentChannel.Link != "" {
+		existingFeed.Channel.Link = currentChannel.Link
+	}
+
+	if existingFeed.Channel.Subtitle != currentChannel.Subtitle && currentChannel.Subtitle != "" {
+		existingFeed.Channel.Subtitle = currentChannel.Subtitle
+	}
+
+	if existingFeed.Channel.Summary != currentChannel.Summary && currentChannel.Summary != "" {
+		existingFeed.Channel.Summary = currentChannel.Summary
+	}
+
+	if existingFeed.Channel.Title != currentChannel.Title && currentChannel.Title != "" {
+		existingFeed.Channel.Title = currentChannel.Title
 	}
 }
