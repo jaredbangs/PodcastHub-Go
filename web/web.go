@@ -28,7 +28,7 @@ func (w *Web) handleListFeedsRequest(rw http.ResponseWriter, r *http.Request) {
 
 	t, _ := template.ParseFiles("web/listFeeds.html")
 
-	w.repo.ForEach(func(feedUrl string, feed parsing.Feed) {
+	w.repo.ForEach(func(feed parsing.Feed) {
 		if feed.Channel.Title != "" {
 			t.Execute(rw, feed)
 		}

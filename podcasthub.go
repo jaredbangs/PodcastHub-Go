@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"github.com/jaredbangs/PodcastHub/actions"
 	"github.com/jaredbangs/PodcastHub/config"
+	"github.com/jaredbangs/PodcastHub/repositories"
 	"github.com/jaredbangs/PodcastHub/web"
 	"os"
 )
@@ -16,6 +17,9 @@ func main() {
 
 	if len(argsWithoutProg) > 0 {
 		switch argsWithoutProg[0] {
+		case "clone":
+			d := repositories.NewFeedRepository(config)
+			d.Clone()
 		case "download":
 			d := actions.NewDownload(config)
 			defer d.Close()
@@ -26,6 +30,13 @@ func main() {
 				d.DownloadNewFilesInFeed(argsWithoutProg[1])
 			} else {
 				d.DownloadAllNewFiles()
+			}
+		case "dups":
+			show := &actions.FindDuplicates{Config: config}
+			if len(argsWithoutProg) > 1 {
+				show.Show(argsWithoutProg[1])
+			} else {
+				show.Show("")
 			}
 		case "markdownloaded":
 			d := actions.NewDownload(config)

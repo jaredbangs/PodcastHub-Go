@@ -1,9 +1,14 @@
 package parsing
 
+import (
+	"time"
+)
+
 type Feed struct {
 	Channel      Channel `xml:"channel"`
 	FeedUrl      string
 	Id           string
+	LastUpdated  time.Time
 	existingUrls map[string]int
 }
 

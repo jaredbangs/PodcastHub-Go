@@ -16,7 +16,7 @@ func (f *ItemFileProcessor) ProcessFiles() (err error) {
 
 	f.initializeRepo()
 
-	allFeedUrls := f.repo.GetAllKeys()
+	allFeedUrls := f.repo.GetAllUrls()
 
 	for _, feedUrl := range allFeedUrls {
 		err = f.processFeed(feedUrl)
@@ -57,7 +57,7 @@ func (f *ItemFileProcessor) processItem(feedUrl string, feed *parsing.Feed, item
 
 						feed.UpdateEnclosure(enclosure)
 
-						f.repo.Save(feedUrl, feed)
+						f.repo.Save(feed)
 					}
 				}
 			}

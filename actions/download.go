@@ -42,7 +42,7 @@ func (d *downloadFiles) Close() {
 
 func (d *downloadFiles) DownloadAllNewFiles() error {
 
-	for _, feedUrl := range d.repo.GetAllKeys() {
+	for _, feedUrl := range d.repo.GetAllUrls() {
 		d.DownloadNewFilesInFeed(feedUrl)
 	}
 
@@ -90,7 +90,7 @@ func (d *downloadFiles) DownloadNewFilesInFeed(feedUrl string) {
 
 func (d *downloadFiles) MarkAllNewFilesDownloaded() error {
 
-	for _, feedUrl := range d.repo.GetAllKeys() {
+	for _, feedUrl := range d.repo.GetAllUrls() {
 		d.MarkAllNewFilesDownloadedInFeed(feedUrl)
 	}
 
@@ -164,7 +164,7 @@ func (d *downloadFiles) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl strin
 
 					feed.UpdateEnclosure(enclosure)
 
-					d.repo.Save(feedUrl, feed)
+					d.repo.Save(feed)
 				}
 			}
 		}

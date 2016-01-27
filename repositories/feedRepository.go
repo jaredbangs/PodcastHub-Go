@@ -4,6 +4,8 @@ import (
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/go-repository/boltrepository"
+	"log"
+	"time"
 )
 
 type FeedRepository struct {
@@ -27,21 +29,58 @@ func NewFeedRepository(config config.Configuration) *FeedRepository {
 	return r
 }
 
-func (r *FeedRepository) ForEach(action func(string, parsing.Feed)) {
+func (r *FeedRepository) Clone() {
+
+	log.Println("Opening target database")
+
+	target := boltrepository.NewRepository(r.Config.RepositoryCloneTargetFile)
+	target.GetObject = func(val []byte) interface{} {
+		feed := &parsing.Feed{}
+		target.Deserialize(val, &feed)
+		return *feed
+	}
 
 	r.feedsByIdBoltRepo.ForEach(r.feedsByIdBucketName, func(key string, val interface{}) {
 
 		feed := val.(parsing.Feed)
-		action(feed.FeedUrl, feed)
+
+		targetHasItem, _ := target.HasItem(r.feedsByIdBucketName, feed.Id)
+
+		if !targetHasItem {
+			target.Save(r.feedsByIdBucketName, feed.Id, feed)
+			log.Println("Target adding feed " + feed.FeedUrl)
+		} else {
+			log.Println("Target already contains feed " + feed.FeedUrl)
+		}
 	})
 }
 
-func (r *FeedRepository) GetAllKeys() []string {
+func (r *FeedRepository) ForEach(action func(parsing.Feed)) {
+
+	r.feedsByIdBoltRepo.ForEach(r.feedsByIdBucketName, func(key string, val interface{}) {
+
+		feed := val.(parsing.Feed)
+		action(feed)
+	})
+}
+
+func (r *FeedRepository) GetAllIds() []string {
 
 	allKeys := make([]string, 1)
 
-	r.ForEach(func(key string, feed parsing.Feed) {
-		allKeys = append(allKeys, key)
+	r.ForEach(func(feed parsing.Feed) {
+		allKeys = append(allKeys, feed.Id)
+	})
+
+	return allKeys
+}
+
+func (r *FeedRepository) GetAllUrls() []string {
+
+	allKeys := make([]string, 1)
+
+	r.ForEach(func(feed parsing.Feed) {
+		allKeys = append(allKeys, feed.FeedUrl)
 	})
 
 	return allKeys
@@ -65,9 +104,10 @@ func (r *FeedRepository) ReadByUrl(url string) (feed parsing.Feed, err error) {
 	return feed, err
 }
 
-func (r *FeedRepository) Save(id string, feed *parsing.Feed) {
-	r.feedsByIdBoltRepo.Save(r.feedsByIdBucketName, id, feed)
-	r.idsByUrlBoltRepo.Save(r.idsByUrlBucketName, feed.FeedUrl, id)
+func (r *FeedRepository) Save(feed *parsing.Feed) {
+	feed.LastUpdated = time.Now()
+	r.feedsByIdBoltRepo.Save(r.feedsByIdBucketName, feed.Id, feed)
+	r.idsByUrlBoltRepo.Save(r.idsByUrlBucketName, feed.FeedUrl, feed.Id)
 }
 
 func (r *FeedRepository) initializeUnderlyingRepository() {

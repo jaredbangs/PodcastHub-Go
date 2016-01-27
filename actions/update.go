@@ -86,7 +86,7 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 			}
 		}
 
-		update.repo.Save(feedUrl, &feedRecord)
+		update.repo.Save(&feedRecord)
 	}
 }
 

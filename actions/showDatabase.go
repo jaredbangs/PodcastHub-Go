@@ -6,7 +6,6 @@ import (
 	"github.com/jaredbangs/PodcastHub/repositories"
 	"log"
 	"os"
-	"strings"
 )
 
 type ShowDatabase struct {
@@ -20,9 +19,9 @@ func (show *ShowDatabase) Show(feedUrlToShow string) error {
 
 	show.initializeRepo()
 
-	show.repo.ForEach(func(feedUrl string, feed parsing.Feed) {
-		if feedUrlToShow == "" || feedUrlToShow == feedUrl {
-			show.showFeedUrl(feedUrl)
+	show.repo.ForEach(func(feed parsing.Feed) {
+		if feedUrlToShow == "" || feedUrlToShow == feed.FeedUrl {
+			show.showFeedContent(&feed)
 		}
 	})
 
@@ -38,7 +37,7 @@ func (show *ShowDatabase) initializeRepo() {
 
 func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 
-	log.Println(feed.Channel.Title + "\t" + feed.Id + "\t" + feed.FeedUrl)
+	log.Println(feed.Channel.Title + "\t" + feed.Id + "\t" + feed.FeedUrl + "\t" + feed.LastUpdated.String())
 	log.Println("Subtitle:\t" + feed.Channel.Subtitle)
 	log.Println("LastBuildDate:\t" + feed.Channel.LastBuildDate)
 	log.Println("Summary:\t" + feed.Channel.Summary)
@@ -48,22 +47,6 @@ func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 			if len(enclosure.Url) != 0 {
 				log.Printf("\t\tDownloaded: %t\t"+enclosure.Url+"\n", enclosure.Downloaded)
 				log.Printf("\t\tDownloaded to: \t" + enclosure.DownloadedFilePath + "\n")
-			}
-		}
-	}
-}
-
-func (show *ShowDatabase) showFeedUrl(feedUrl string) {
-
-	if len(feedUrl) > 0 {
-		if !strings.HasPrefix(feedUrl, "#") {
-
-			log.Println("Showing " + feedUrl)
-
-			feed, err := show.repo.ReadByUrl(feedUrl)
-
-			if err == nil {
-				show.showFeedContent(&feed)
 			}
 		}
 	}

@@ -7,10 +7,11 @@ import (
 )
 
 type Configuration struct {
-	DownloadPath     string
-	LogAllHeaders    bool
-	RepositoryFile   string
-	SubscriptionFile string
+	DownloadPath              string
+	LogAllHeaders             bool
+	RepositoryCloneTargetFile string
+	RepositoryFile            string
+	SubscriptionFile          string
 }
 
 func GetConfig() Configuration {

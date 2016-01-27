@@ -54,7 +54,7 @@ func (u *Reorg) updateFeed(feedUrl string) {
 				feedRecord.FeedUrl = feedUrl
 			}
 
-			u.repo.Save(feedRecord.Id, &feedRecord)
+			u.repo.Save(&feedRecord)
 		}
 	}
 }
