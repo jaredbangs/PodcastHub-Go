@@ -6,7 +6,6 @@ import (
 	"github.com/jaredbangs/PodcastHub/repositories"
 	"log"
 	"os"
-	"strings"
 )
 
 type FindDuplicates struct {
@@ -22,7 +21,7 @@ func (show *FindDuplicates) Show(feedUrlToShow string) error {
 
 	show.repo.ForEach(func(feed parsing.Feed) {
 		if feedUrlToShow == "" || feedUrlToShow == feed.FeedUrl {
-			show.showFeedUrl(feed.FeedUrl)
+			show.showFeedContent(&feed)
 		}
 	})
 
@@ -39,18 +38,4 @@ func (show *FindDuplicates) initializeRepo() {
 func (show *FindDuplicates) showFeedContent(feed *parsing.Feed) {
 
 	log.Println(feed.Channel.Title + "\t" + feed.Id + "\t" + feed.FeedUrl + "\t" + feed.LastUpdated.String())
-}
-
-func (show *FindDuplicates) showFeedUrl(feedUrl string) {
-
-	if len(feedUrl) > 0 {
-		if !strings.HasPrefix(feedUrl, "#") {
-
-			feed, err := show.repo.ReadByUrl(feedUrl)
-
-			if err == nil {
-				show.showFeedContent(&feed)
-			}
-		}
-	}
 }
