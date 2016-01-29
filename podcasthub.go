@@ -77,6 +77,10 @@ func main() {
 			} else {
 				show.Show("")
 			}
+		case "subscribe":
+			s := &actions.Subscribe{Config: config}
+
+			s.Subscribe(argsWithoutProg[1])
 		case "update":
 			u := &actions.Update{Config: config}
 

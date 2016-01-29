@@ -95,6 +95,20 @@ func (r *FeedRepository) GetAllUrls() []string {
 	return allKeys
 }
 
+func (r *FeedRepository) HasById(id string) (has bool, err error) {
+
+	has, err = r.feedsByIdBoltRepo.HasItem(r.feedsByIdBucketName, id)
+
+	return has, err
+}
+
+func (r *FeedRepository) HasByUrl(url string) (has bool, err error) {
+
+	has, err = r.idsByUrlBoltRepo.HasItem(r.idsByUrlBucketName, url)
+
+	return has, err
+}
+
 func (r *FeedRepository) ReadById(id string) (feed parsing.Feed, err error) {
 
 	obj, err := r.feedsByIdBoltRepo.Read(r.feedsByIdBucketName, id)
