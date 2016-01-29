@@ -1,6 +1,7 @@
 package repositories
 
 import (
+	"fmt"
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/go-repository/boltrepository"
@@ -40,6 +41,13 @@ func (r *FeedRepository) Clone() {
 		return *feed
 	}
 
+	targetIds := boltrepository.NewRepository(r.Config.RepositoryCloneTargetFile)
+	targetIds.GetObject = func(val []byte) interface{} {
+		id := ""
+		targetIds.Deserialize(val, &id)
+		return id
+	}
+
 	r.feedsByIdBoltRepo.ForEach(r.feedsByIdBucketName, func(key string, val interface{}) {
 
 		feed := val.(parsing.Feed)
@@ -48,6 +56,7 @@ func (r *FeedRepository) Clone() {
 
 		if !targetHasItem {
 			target.Save(r.feedsByIdBucketName, feed.Id, feed)
+			targetIds.Save(r.idsByUrlBucketName, feed.FeedUrl, feed.Id)
 			log.Println("Target adding feed " + feed.FeedUrl)
 		} else {
 			log.Println("Target already contains feed " + feed.FeedUrl)
@@ -99,8 +108,11 @@ func (r *FeedRepository) ReadByUrl(url string) (feed parsing.Feed, err error) {
 
 	id, err := r.idsByUrlBoltRepo.Read(r.idsByUrlBucketName, url)
 
-	feed, err = r.ReadById(id.(string))
-
+	if id == nil {
+		err = fmt.Errorf("url %q not found", url)
+	} else {
+		feed, err = r.ReadById(id.(string))
+	}
 	return feed, err
 }
 

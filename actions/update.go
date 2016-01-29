@@ -7,6 +7,7 @@ import (
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
 	"io/ioutil"
+	"log"
 	"net/http"
 	"os"
 	"strings"
@@ -64,29 +65,34 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 
 	if err == nil {
 
-		feedRecord, _ := update.repo.ReadByUrl(feedUrl)
+		feedRecord, err := update.repo.ReadByUrl(feedUrl)
 
-		update.updateChannelInfo(&feedRecord, &currentFeed.Channel)
+		if err == nil {
 
-		for _, item := range currentFeed.Channel.ItemList {
+			update.updateChannelInfo(&feedRecord, &currentFeed.Channel)
 
-			hasUrl := true
+			for _, item := range currentFeed.Channel.ItemList {
 
-			for _, enclosure := range item.Enclosures {
-				if hasUrl {
-					hasUrl = feedRecord.ContainsEnclosureUrl(enclosure.Url)
-				}
-			}
+				hasUrl := true
 
-			if !hasUrl {
-				feedRecord.AddItem(item)
 				for _, enclosure := range item.Enclosures {
-					fmt.Println("Added item: " + enclosure.Url)
+					if hasUrl {
+						hasUrl = feedRecord.ContainsEnclosureUrl(enclosure.Url)
+					}
+				}
+
+				if !hasUrl {
+					feedRecord.AddItem(item)
+					for _, enclosure := range item.Enclosures {
+						fmt.Println("Added item: " + enclosure.Url)
+					}
 				}
 			}
-		}
 
-		update.repo.Save(&feedRecord)
+			update.repo.Save(&feedRecord)
+		} else {
+			log.Println(err)
+		}
 	}
 }
 

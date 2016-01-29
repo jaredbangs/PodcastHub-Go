@@ -58,6 +58,8 @@ func (d *downloadFiles) DownloadFileInFeed(feedUrl string, enclosureUrl string) 
 
 			if err == nil {
 				d.downloadNewFilesInFeed(&feed, feedUrl, false, enclosureUrl)
+			} else {
+				log.Println(err)
 			}
 		}
 	}
@@ -78,6 +80,8 @@ func (d *downloadFiles) DownloadNewFilesInFeed(feedUrl string) {
 
 			if err == nil {
 				d.downloadNewFilesInFeed(&feed, feedUrl, false, "")
+			} else {
+				log.Println(err)
 			}
 		}
 	}
@@ -106,6 +110,8 @@ func (d *downloadFiles) MarkAllNewFilesDownloadedInFeed(feedUrl string) {
 
 			if err == nil {
 				d.downloadNewFilesInFeed(&feed, feedUrl, true, "")
+			} else {
+				log.Println(err)
 			}
 		}
 	}
