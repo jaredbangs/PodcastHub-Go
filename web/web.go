@@ -17,7 +17,7 @@ type Web struct {
 func (w *Web) Start() {
 
 	w.initializeRepo()
-
+	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("web/static"))))
 	http.HandleFunc("/", w.handleListFeedsRequest)
 	http.HandleFunc("/show/", w.showFeed)
 
