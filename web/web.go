@@ -17,8 +17,9 @@ type Web struct {
 func (w *Web) Start() {
 
 	w.initializeRepo()
+	http.HandleFunc("/", w.index)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("web/static"))))
-	http.HandleFunc("/", w.handleListFeedsRequest)
+	http.Handle("/scripts/", http.StripPrefix("/scripts/", http.FileServer(http.Dir("web/scripts"))))
 	http.HandleFunc("/show/", w.showFeed)
 
 	log.Println("Listening on :8080")
@@ -34,6 +35,13 @@ func (w *Web) handleListFeedsRequest(rw http.ResponseWriter, r *http.Request) {
 			t.Execute(rw, feed)
 		}
 	})
+}
+
+func (w *Web) index(rw http.ResponseWriter, r *http.Request) {
+
+	t, _ := template.ParseFiles("web/index.html")
+
+	t.Execute(rw, nil)
 }
 
 func (w *Web) initializeRepo() {
