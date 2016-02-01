@@ -11,10 +11,19 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 	</head>
 	<body>
-		<h1>Podcast Hub</h1>
+		<div id="app-base"></div>
 
 
+		<script type="text/template" id="layout-template">
+			<h1>PodcastHub</h1>
+			<div id="feed-list"></div>
+		</script>
 
+		<script type="text/template" id="itemView-template">
+				<span><b>Title</b>: <%- Title %></span>
+				<span><b>Url</b>: <%- Url %></span>
+				<span><b>Id</b>: <%- Id %></span>
+		</script>
     		<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
     		<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
     		<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.3/backbone-min.js"></script>
