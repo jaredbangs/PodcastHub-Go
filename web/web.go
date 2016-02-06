@@ -27,9 +27,9 @@ func (w *Web) Start() {
 	w.initializeRepo()
 	http.HandleFunc("/", w.index)
 	http.HandleFunc("/feeds", w.listFeeds)
+	http.HandleFunc("/feeds/", w.showFeed)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("web/static"))))
 	http.Handle("/scripts/", http.StripPrefix("/scripts/", http.FileServer(http.Dir("web/scripts"))))
-	http.HandleFunc("/show/", w.showFeed)
 
 	log.Println("Listening on :8080")
 	http.ListenAndServe(":8080", nil)
@@ -74,12 +74,9 @@ func (w *Web) listFeeds(rw http.ResponseWriter, r *http.Request) {
 
 func (w *Web) showFeed(rw http.ResponseWriter, r *http.Request) {
 
-	t, _ := template.ParseFiles("web/showFeed.html")
+	id := r.URL.Path[len("/feeds/"):]
 
-	id := r.URL.Path[len("/show/"):]
+	feed, _ := w.repo.ReadById(id)
 
-	feed, err := w.repo.ReadById(id)
-	if err == nil {
-		t.Execute(rw, feed)
-	}
+	json.NewEncoder(rw).Encode(feed)
 }

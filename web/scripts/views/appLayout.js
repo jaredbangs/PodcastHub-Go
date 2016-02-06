@@ -1,10 +1,11 @@
 var FeedInfoCollection = require('../collections/feedInfo.js');
 var FeedListView = require('./feedList.js');
+var Template = require('../../templates/appLayout.handlebars');
 
 module.exports = AppLayout = Marionette.LayoutView.extend({
 	tagName: "div",
 
-	template: "#layout-template",
+	template: Template,
 
 	regions: {
 		'RegionOne' : '#feed-list'
