@@ -132,7 +132,17 @@ func (d *downloadFiles) ShouldDownloadResponseFilter(resp *http.Response) bool {
 		return false
 	} else if strings.Contains(contentType, "image/png") {
 		return false
+	} else if strings.Contains(contentType, "image/gif") {
+		return false
+	} else if strings.Contains(contentType, "image/jpeg") {
+		return false
+	} else if strings.Contains(contentType, "image/x-icon") {
+		return false
+	} else if strings.Contains(contentType, "application/rss+xml") {
+		return false
 	} else if strings.Contains(contentType, "application/xml") {
+		return false
+	} else if strings.Contains(contentType, "atom+xml") {
 		return false
 	}
 
