@@ -1315,7 +1315,7 @@ module.exports = FeedList = Marionette.CollectionView.extend({
 });
 
 },{"./feedInfoForList.js":31}],33:[function(require,module,exports){
-var css = ".item {\n  border-left-color: #1b809e;\n  padding: 20px;\n  margin: 20px 0;\n  border: 1px solid #eee;\n  border-left-width: 5px;\n  border-radius: 3px;\n}\n.title {\n  display: block;\n  font-size: 1.2em;\n}\n.published {\n  font-size: .8em;\n}\n";(require('lessify'))(css); module.exports = css;
+var css = ".item {\n  border-left-color: #1b809e;\n  padding: 20px;\n  margin: 20px 0;\n  border: 1px solid #eee;\n  border-left-width: 5px;\n  border-radius: 3px;\n}\n.title {\n  clear: both;\n  display: block;\n  font-size: 1.2em;\n}\n.duration,\n.published {\n  font-size: .8em;\n}\n";(require('lessify'))(css); module.exports = css;
 },{"lessify":21}],34:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     return "<h1>PodcastHub</h1>\n<div id=\"feed-list\"></div>\n\n";
@@ -1324,10 +1324,14 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"1":function(container,depth0,helpers,partials,data) {
     var stack1, alias1=container.lambda, alias2=container.escapeExpression;
 
-  return "	<div class=\"col-md-4\">\n		<div class=\"item\">\n			<span class=\"title\">"
-    + alias2(alias1(((stack1 = (depth0 != null ? depth0.attributes : depth0)) != null ? stack1.Title : stack1), depth0))
+  return "	<div class=\"col-md-4\">\n		<div class=\"item\">\n			<span class=\"duration\">"
+    + alias2(alias1(((stack1 = (depth0 != null ? depth0.attributes : depth0)) != null ? stack1.Duration : stack1), depth0))
     + "</span>\n			<span class=\"published pull-right\">"
     + alias2(alias1(((stack1 = (depth0 != null ? depth0.attributes : depth0)) != null ? stack1.PubDisplayDate : stack1), depth0))
+    + "</span>\n			<span class=\"title\">"
+    + alias2(alias1(((stack1 = (depth0 != null ? depth0.attributes : depth0)) != null ? stack1.Title : stack1), depth0))
+    + "</span>\n			<span class=\"description\">"
+    + alias2(alias1(((stack1 = (depth0 != null ? depth0.attributes : depth0)) != null ? stack1.Description : stack1), depth0))
     + "</span>\n		</div>\n	</div>\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=container.escapeExpression, alias2=depth0 != null ? depth0 : {};
