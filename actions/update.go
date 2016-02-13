@@ -89,6 +89,8 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 				}
 			}
 
+			feedRecord.Channel.ParseTimesIfNecessary()
+
 			update.repo.Save(&feedRecord)
 		} else {
 			log.Println(err)
@@ -127,4 +129,5 @@ func (u *Update) updateChannelInfo(existingFeed *parsing.Feed, currentChannel *p
 	if existingFeed.Channel.Title != currentChannel.Title && currentChannel.Title != "" {
 		existingFeed.Channel.Title = currentChannel.Title
 	}
+
 }

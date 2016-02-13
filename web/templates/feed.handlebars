@@ -1,2 +1,17 @@
-<h1>{{Channel.Title}}</h1>
-<p>{{FeedUrl}}</p>
+<div class="row">
+	<div class="col-md-12"><h1>{{Channel.attributes.Title}}</h1></div>
+</div>
+<div class="row">
+	<div class="col-md-12"><span>{{FeedUrl}}</span></div>
+</div>
+
+<div class="row">
+	{{#each Channel.attributes.Items.models}}
+	<div class="col-md-4">
+		<div class="item">
+			<span class="title">{{attributes.Title}}</span>
+			<span class="published pull-right">{{attributes.PubDisplayDate}}</span>
+		</div>
+	</div>
+	{{/each}}
+</div>

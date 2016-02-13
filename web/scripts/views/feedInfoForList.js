@@ -13,13 +13,13 @@ module.exports = FeedInfoForList = Marionette.ItemView.extend({
 
 	goToFeed: function(domEvent) {
 
-		var feed = new Feed({ id: this.model.get("Id")});
+		podcasthub.feed = new Feed({ id: this.model.get("Id")});
 
-		feed.fetch({
+		podcasthub.feed.fetch({
 			reset: true,
 			success: function (model, response, options) {
 			
-				var view = new FeedView({ model: feed });
+				var view = new FeedView({ model: podcasthub.feed });
 				view.render();
 			},
 			error: function (model, response, options) {

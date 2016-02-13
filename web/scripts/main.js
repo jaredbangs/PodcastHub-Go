@@ -1,7 +1,9 @@
+require('../styles/feed.less')
+
 var AppLayoutView = require('./views/appLayout.js');
 
 $( document ).ready(function() {
-	
+
 	var app = new Backbone.Marionette.Application();
 
 	app.addRegions({

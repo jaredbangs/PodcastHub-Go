@@ -50,6 +50,9 @@ func main() {
 		case "move":
 			p := &actions.Reorg{Config: config}
 			p.CopyFromOldToNew()
+		case "parsetimes":
+			d := actions.ParseTimesIfNecessary(config)
+			d.Run()
 		case "processitems":
 			p := &actions.ProcessDownloadedItems{}
 			p.ApplyAllFilters(config)

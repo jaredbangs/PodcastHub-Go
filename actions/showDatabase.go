@@ -39,10 +39,10 @@ func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 
 	log.Println(feed.Channel.Title + "\t" + feed.Id + "\t" + feed.FeedUrl + "\t" + feed.LastUpdated.String())
 	log.Println("Subtitle:\t" + feed.Channel.Subtitle)
-	log.Println("LastBuildDate:\t" + feed.Channel.LastBuildDate)
+	log.Println("LastBuildDate:\t" + feed.Channel.LastBuildTime.String())
 	log.Println("Summary:\t" + feed.Channel.Summary)
 	for _, item := range feed.Channel.ItemList {
-		log.Println("\t" + item.Title + "\t- Published: " + item.PubDate)
+		log.Println("\t" + item.Title + "\t- Published: " + item.PubTime.String())
 		for _, enclosure := range item.Enclosures {
 			if len(enclosure.Url) != 0 {
 				log.Printf("\t\tDownloaded: %t\t"+enclosure.Url+"\n", enclosure.Downloaded)

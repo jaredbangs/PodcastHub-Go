@@ -47,7 +47,9 @@ func TestItemGetPublicationDate(t *testing.T) {
 
 	item := getValidTestItem(0)
 
-	pub, _ := item.GetPublicationDate()
+	assert.Equal(t, false, item.PubTime.IsZero())
+
+	pub := item.PubTime
 
 	assert.Equal(t, 2014, pub.Year(), "Year does not match")
 	assert.Equal(t, 2, pub.Month(), "Month does not match")
@@ -59,13 +61,6 @@ func TestItemGetPublicationDate(t *testing.T) {
 	_, zoneOffset := pub.Zone()
 
 	assert.Equal(t, 0, zoneOffset, "Offset does not match")
-}
-
-func TestItemPubDateString(t *testing.T) {
-
-	item := getValidTestItem(0)
-
-	assert.Equal(t, "Thu, 06 Feb 2014 08:00:10 +0000", item.PubDate, "PubDate does not match")
 }
 
 func TestItemSubtitle(t *testing.T) {
@@ -97,5 +92,9 @@ func getValidTestItem(index int) Item {
 
 	feed, _ := parser.ParseFeedContent(content)
 
-	return feed.Channel.ItemList[index]
+	channel := feed.Channel
+
+	channel.ParseTimesIfNecessary()
+
+	return channel.ItemList[index]
 }

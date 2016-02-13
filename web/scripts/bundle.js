@@ -1099,6 +1099,48 @@ function appendContextPath(contextPath, id) {
 module.exports = require('./dist/cjs/handlebars.runtime')['default'];
 
 },{"./dist/cjs/handlebars.runtime":1}],20:[function(require,module,exports){
+module.exports = function (css, customDocument) {
+  var doc = customDocument || document;
+  if (doc.createStyleSheet) {
+    var sheet = doc.createStyleSheet()
+    sheet.cssText = css;
+    return sheet.ownerNode;
+  } else {
+    var head = doc.getElementsByTagName('head')[0],
+        style = doc.createElement('style');
+
+    style.type = 'text/css';
+
+    if (style.styleSheet) {
+      style.styleSheet.cssText = css;
+    } else {
+      style.appendChild(doc.createTextNode(css));
+    }
+
+    head.appendChild(style);
+    return style;
+  }
+};
+
+module.exports.byUrl = function(url) {
+  if (document.createStyleSheet) {
+    return document.createStyleSheet(url).ownerNode;
+  } else {
+    var head = document.getElementsByTagName('head')[0],
+        link = document.createElement('link');
+
+    link.rel = 'stylesheet';
+    link.href = url;
+
+    head.appendChild(link);
+    return link;
+  }
+};
+
+},{}],21:[function(require,module,exports){
+module.exports = require('cssify');
+
+},{"cssify":20}],22:[function(require,module,exports){
 var FeedInfo = require('../models/feedInfo');
 
 module.exports = FeedInfoCollection = Backbone.Collection.extend({
@@ -1106,11 +1148,26 @@ module.exports = FeedInfoCollection = Backbone.Collection.extend({
 	url: "/feeds"
 });
 
-},{"../models/feedInfo":23}],21:[function(require,module,exports){
+},{"../models/feedInfo":27}],23:[function(require,module,exports){
+var Item = require('../models/item');
+
+module.exports = ItemCollection = Backbone.Collection.extend({
+	model:  Item,
+
+	url: "/items",
+
+	comparator: function(model) {
+		return model.get("PubTime");
+	}
+});
+
+},{"../models/item":28}],24:[function(require,module,exports){
+require('../styles/feed.less')
+
 var AppLayoutView = require('./views/appLayout.js');
 
 $( document ).ready(function() {
-	
+
 	var app = new Backbone.Marionette.Application();
 
 	app.addRegions({
@@ -1128,17 +1185,60 @@ $( document ).ready(function() {
 
 });
 
-},{"./views/appLayout.js":24}],22:[function(require,module,exports){
-module.exports = Feed = Backbone.Model.extend({
-	 urlRoot: "/feeds"
+},{"../styles/feed.less":33,"./views/appLayout.js":29}],25:[function(require,module,exports){
+var ItemCollection = require("../collections/items.js")
+
+module.exports = Channel = Backbone.Model.extend({
+
+	initialize: function () {
+
+		var itemList = this.get("ItemList");
+
+		if (_.isArray(itemList)) {
+			this.unset("ItemList");
+			this.set("Items", new ItemCollection(itemList));
+		}
+	}
 
 });
 
-},{}],23:[function(require,module,exports){
+},{"../collections/items.js":23}],26:[function(require,module,exports){
+var Channel = require("./channel.js")
+
+module.exports = Feed = Backbone.Model.extend({
+
+	urlRoot: "/feeds",
+
+	parse: function (response, options) {
+		
+		var channel = new Channel(response.Channel);
+		response.Channel = channel;
+		return response;
+	}
+
+});
+
+},{"./channel.js":25}],27:[function(require,module,exports){
 module.exports = FeedInfo = Backbone.Model.extend({
 });
 
-},{}],24:[function(require,module,exports){
+},{}],28:[function(require,module,exports){
+module.exports = Item = Backbone.Model.extend({
+
+	initialize: function () {
+
+		if (this.has("PubTime")) {
+			
+			var pubTime = moment(this.get("PubTime"))
+
+			this.unset("PubTime");
+			this.set("PubTime", pubTime._d);
+			this.set("PubDisplayDate", pubTime.format("dddd, MMMM Do YYYY"));
+		}
+	}
+});
+
+},{}],29:[function(require,module,exports){
 var FeedInfoCollection = require('../collections/feedInfo.js');
 var FeedListView = require('./feedList.js');
 var Template = require('../../templates/appLayout.handlebars');
@@ -1165,7 +1265,7 @@ module.exports = AppLayout = Marionette.LayoutView.extend({
 
 });
 
-},{"../../templates/appLayout.handlebars":28,"../collections/feedInfo.js":20,"./feedList.js":27}],25:[function(require,module,exports){
+},{"../../templates/appLayout.handlebars":34,"../collections/feedInfo.js":22,"./feedList.js":32}],30:[function(require,module,exports){
 var Template = require('../../templates/feed.handlebars');
 
 module.exports = FeedView = Marionette.LayoutView.extend({
@@ -1174,7 +1274,7 @@ module.exports = FeedView = Marionette.LayoutView.extend({
 	template: Template
 });
 
-},{"../../templates/feed.handlebars":29}],26:[function(require,module,exports){
+},{"../../templates/feed.handlebars":35}],31:[function(require,module,exports){
 var Feed = require('../models/feed');
 var FeedView = require('./feed');
 var Template = require('../../templates/feedInfoForList.handlebars');
@@ -1190,13 +1290,13 @@ module.exports = FeedInfoForList = Marionette.ItemView.extend({
 
 	goToFeed: function(domEvent) {
 
-		var feed = new Feed({ id: this.model.get("Id")});
+		podcasthub.feed = new Feed({ id: this.model.get("Id")});
 
-		feed.fetch({
+		podcasthub.feed.fetch({
 			reset: true,
 			success: function (model, response, options) {
 			
-				var view = new FeedView({ model: feed });
+				var view = new FeedView({ model: podcasthub.feed });
 				view.render();
 			},
 			error: function (model, response, options) {
@@ -1206,7 +1306,7 @@ module.exports = FeedInfoForList = Marionette.ItemView.extend({
 	}
 });
 
-},{"../../templates/feedInfoForList.handlebars":30,"../models/feed":22,"./feed":25}],27:[function(require,module,exports){
+},{"../../templates/feedInfoForList.handlebars":36,"../models/feed":26,"./feed":30}],32:[function(require,module,exports){
 var FeedInfoForList = require("./feedInfoForList.js")
 
 module.exports = FeedList = Marionette.CollectionView.extend({
@@ -1214,21 +1314,33 @@ module.exports = FeedList = Marionette.CollectionView.extend({
 	childView: FeedInfoForList
 });
 
-},{"./feedInfoForList.js":26}],28:[function(require,module,exports){
+},{"./feedInfoForList.js":31}],33:[function(require,module,exports){
+var css = ".item {\n  border-left-color: #1b809e;\n  padding: 20px;\n  margin: 20px 0;\n  border: 1px solid #eee;\n  border-left-width: 5px;\n  border-radius: 3px;\n}\n.title {\n  display: block;\n  font-size: 1.2em;\n}\n.published {\n  font-size: .8em;\n}\n";(require('lessify'))(css); module.exports = css;
+},{"lessify":21}],34:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     return "<h1>PodcastHub</h1>\n<div id=\"feed-list\"></div>\n\n";
 },"useData":true});
-},{"handlebars/runtime":19}],29:[function(require,module,exports){
-var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    var stack1, helper, alias1=container.escapeExpression;
+},{"handlebars/runtime":19}],35:[function(require,module,exports){
+var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=container.lambda, alias2=container.escapeExpression;
 
-  return "<h1>"
-    + alias1(container.lambda(((stack1 = (depth0 != null ? depth0.Channel : depth0)) != null ? stack1.Title : stack1), depth0))
-    + "</h1>\n<p>"
-    + alias1(((helper = (helper = helpers.FeedUrl || (depth0 != null ? depth0.FeedUrl : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : {},{"name":"FeedUrl","hash":{},"data":data}) : helper)))
-    + "</p>\n";
+  return "	<div class=\"col-md-4\">\n		<div class=\"item\">\n			<span class=\"title\">"
+    + alias2(alias1(((stack1 = (depth0 != null ? depth0.attributes : depth0)) != null ? stack1.Title : stack1), depth0))
+    + "</span>\n			<span class=\"published pull-right\">"
+    + alias2(alias1(((stack1 = (depth0 != null ? depth0.attributes : depth0)) != null ? stack1.PubDisplayDate : stack1), depth0))
+    + "</span>\n		</div>\n	</div>\n";
+},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=container.escapeExpression, alias2=depth0 != null ? depth0 : {};
+
+  return "<div class=\"row\">\n	<div class=\"col-md-12\"><h1>"
+    + alias1(container.lambda(((stack1 = ((stack1 = (depth0 != null ? depth0.Channel : depth0)) != null ? stack1.attributes : stack1)) != null ? stack1.Title : stack1), depth0))
+    + "</h1></div>\n</div>\n<div class=\"row\">\n	<div class=\"col-md-12\"><span>"
+    + alias1(((helper = (helper = helpers.FeedUrl || (depth0 != null ? depth0.FeedUrl : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(alias2,{"name":"FeedUrl","hash":{},"data":data}) : helper)))
+    + "</span></div>\n</div>\n\n<div class=\"row\">\n"
+    + ((stack1 = helpers.each.call(alias2,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.Channel : depth0)) != null ? stack1.attributes : stack1)) != null ? stack1.Items : stack1)) != null ? stack1.models : stack1),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "</div>\n";
 },"useData":true});
-},{"handlebars/runtime":19}],30:[function(require,module,exports){
+},{"handlebars/runtime":19}],36:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
@@ -1238,4 +1350,4 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
     + alias4(((helper = (helper = helpers.Url || (depth0 != null ? depth0.Url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Url","hash":{},"data":data}) : helper)))
     + "</span>\n</div>\n";
 },"useData":true});
-},{"handlebars/runtime":19}]},{},[21]);
+},{"handlebars/runtime":19}]},{},[24]);
