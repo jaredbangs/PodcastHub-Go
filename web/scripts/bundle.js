@@ -1144,8 +1144,17 @@ module.exports = require('cssify');
 var FeedInfo = require('../models/feedInfo');
 
 module.exports = FeedInfoCollection = Backbone.Collection.extend({
+	
 	model:  FeedInfo,
-	url: "/feeds"
+
+	url: "/feeds",
+
+	comparator: function(modelA, modelB) {
+
+		if (modelA.get("LastUpdated") > modelB.get("LastUpdated")) return -1; 
+		if (modelA.get("LastUpdated") < modelB.get("LastUpdated")) return 1; 
+		return 0; // equal
+	}
 });
 
 },{"../models/feedInfo":27}],23:[function(require,module,exports){
@@ -1220,6 +1229,14 @@ module.exports = Feed = Backbone.Model.extend({
 
 },{"./channel.js":25}],27:[function(require,module,exports){
 module.exports = FeedInfo = Backbone.Model.extend({
+
+	parse: function (response, options) {
+
+		var lastUpdated = moment(response.LastUpdated);
+		response.LastUpdated = lastUpdated._d;
+		response.LastUpdatedDisplay = lastUpdated.format("MMMM Do YYYY");
+		return response;
+	}
 });
 
 },{}],28:[function(require,module,exports){
@@ -1280,12 +1297,14 @@ var FeedView = require('./feed');
 var Template = require('../../templates/feedInfoForList.handlebars');
 
 module.exports = FeedInfoForList = Marionette.ItemView.extend({
-	tagName: "li",
+	
+	tagName: "div",
+	className: "row feed-info",
 
 	template: Template,
 
 	events: {
-		'click .feed-info': 'goToFeed'
+		'click': 'goToFeed'
 	},
 
 	goToFeed: function(domEvent) {
@@ -1310,7 +1329,7 @@ module.exports = FeedInfoForList = Marionette.ItemView.extend({
 var FeedInfoForList = require("./feedInfoForList.js")
 
 module.exports = FeedList = Marionette.CollectionView.extend({
-	tagName: "ul",
+	tagName: "div",
 	childView: FeedInfoForList
 });
 
@@ -1348,10 +1367,12 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
-  return "<div class=\"feed-info\">\n	<span><b>Title:</b> "
+  return "	<div class=\"col-md-5\"><b>Title:</b> "
     + alias4(((helper = (helper = helpers.Title || (depth0 != null ? depth0.Title : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Title","hash":{},"data":data}) : helper)))
-    + "</span>\n	<span><b>Url:</b> "
+    + "</div>\n	<div class=\"col-md-5\">"
     + alias4(((helper = (helper = helpers.Url || (depth0 != null ? depth0.Url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Url","hash":{},"data":data}) : helper)))
-    + "</span>\n</div>\n";
+    + "</div>\n	<div class=\"col-md-2\">"
+    + alias4(((helper = (helper = helpers.LastUpdatedDisplay || (depth0 != null ? depth0.LastUpdatedDisplay : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"LastUpdatedDisplay","hash":{},"data":data}) : helper)))
+    + "</div>\n";
 },"useData":true});
 },{"handlebars/runtime":19}]},{},[24]);

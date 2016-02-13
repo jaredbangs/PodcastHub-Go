@@ -3,12 +3,14 @@ var FeedView = require('./feed');
 var Template = require('../../templates/feedInfoForList.handlebars');
 
 module.exports = FeedInfoForList = Marionette.ItemView.extend({
-	tagName: "li",
+	
+	tagName: "div",
+	className: "row feed-info",
 
 	template: Template,
 
 	events: {
-		'click .feed-info': 'goToFeed'
+		'click': 'goToFeed'
 	},
 
 	goToFeed: function(domEvent) {

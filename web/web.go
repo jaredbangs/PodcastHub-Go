@@ -8,6 +8,7 @@ import (
 	"html/template"
 	"log"
 	"net/http"
+	"time"
 )
 
 type Web struct {
@@ -17,9 +18,10 @@ type Web struct {
 }
 
 type FeedInfo struct {
-	Id    string
-	Title string
-	Url   string
+	Id          string
+	LastUpdated time.Time
+	Title       string
+	Url         string
 }
 
 func (w *Web) Start() {
@@ -44,6 +46,7 @@ func (w *Web) getFeedInfo() []FeedInfo {
 
 			feedInfo := FeedInfo{}
 			feedInfo.Id = feed.Id
+			feedInfo.LastUpdated = feed.LastUpdated
 			feedInfo.Title = feed.Channel.Title
 			feedInfo.Url = feed.FeedUrl
 
