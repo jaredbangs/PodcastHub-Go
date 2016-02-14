@@ -1,6 +1,7 @@
 package parsing
 
 import (
+	"github.com/satori/go.uuid"
 	"time"
 )
 
@@ -27,6 +28,23 @@ func (c *Channel) GetLastBuildDate() (time.Time, error) {
 	// input format: Thu, 06 Feb 2014 08:00:10 +0000
 
 	return time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", c.LastBuildDate)
+}
+
+func (c *Channel) MakeSureAllItemsHaveIds(feedId string) (err error) {
+
+	for i, item := range c.ItemList {
+
+		if item.FeedId == "" || item.ItemId == "" {
+
+			newId := uuid.NewV4()
+			item.ItemId = newId.String()
+			item.FeedId = feedId
+
+			c.ItemList[i] = item
+		}
+	}
+
+	return nil
 }
 
 func (c *Channel) ParseTimesIfNecessary() (err error) {

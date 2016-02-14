@@ -30,6 +30,7 @@ func (w *Web) Start() {
 	http.HandleFunc("/", w.index)
 	http.HandleFunc("/feeds", w.listFeeds)
 	http.HandleFunc("/feeds/", w.showFeed)
+	http.HandleFunc("/items/", w.updateItem)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("web/static"))))
 	http.Handle("/scripts/", http.StripPrefix("/scripts/", http.FileServer(http.Dir("web/scripts"))))
 
@@ -82,4 +83,38 @@ func (w *Web) showFeed(rw http.ResponseWriter, r *http.Request) {
 	feed, _ := w.repo.ReadById(id)
 
 	json.NewEncoder(rw).Encode(feed)
+}
+
+func (w *Web) updateItem(rw http.ResponseWriter, r *http.Request) {
+
+	switch r.Method {
+	case "GET":
+		// Serve the resource.
+	case "POST":
+		// Create a new record.
+	case "PUT":
+		// Update an existing record.
+
+		decoder := json.NewDecoder(r.Body)
+		var item parsing.Item
+		err := decoder.Decode(&item)
+		if err != nil {
+
+		} else {
+			feed, _ := w.repo.ReadById(item.FeedId)
+
+			feed.UpdateItem(item)
+
+			w.repo.Save(&feed)
+
+			json.NewEncoder(rw).Encode(item)
+		}
+
+		break
+
+	case "DELETE":
+		// Remove the record.
+	default:
+		// Give an error message.
+	}
 }

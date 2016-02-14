@@ -5,16 +5,19 @@ import (
 )
 
 type Item struct {
-	Description string      `xml:"description"`
-	Duration    string      `xml:"duration"`
-	Enclosures  []Enclosure `xml:"enclosure"`
-	Encoded     string      `xml:"encoded"`
-	IsArchived  bool
-	PubDate     string `xml:"pubDate"`
-	PubTime     time.Time
-	Subtitle    string `xml:"subtitle"`
-	Summary     string `xml:"summary"`
-	Title       string `xml:"title"`
+	Description    string      `xml:"description"`
+	Duration       string      `xml:"duration"`
+	Enclosures     []Enclosure `xml:"enclosure"`
+	Encoded        string      `xml:"encoded"`
+	FeedId         string
+	IsArchived     bool
+	IsToBeArchived bool
+	ItemId         string
+	PubDate        string `xml:"pubDate"`
+	PubTime        time.Time
+	Subtitle       string `xml:"subtitle"`
+	Summary        string `xml:"summary"`
+	Title          string `xml:"title"`
 }
 
 func (i *Item) GetPublicationDate() (time.Time, error) {

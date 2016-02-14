@@ -1,7 +1,13 @@
 var Template = require('../../templates/feed.handlebars');
+var ItemView = require("./item.js")
 
-module.exports = FeedView = Marionette.LayoutView.extend({
+module.exports = FeedView = Marionette.CompositeView.extend({
+	
 	el: "#app-base",
 
-	template: Template
+	template: Template,
+
+	childView: ItemView, 
+
+	childViewContainer: "#feed-items"
 });

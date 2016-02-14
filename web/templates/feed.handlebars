@@ -5,15 +5,5 @@
 	<div class="col-md-12"><span>{{FeedUrl}}</span></div>
 </div>
 
-<div class="row">
-	{{#each Channel.attributes.Items.models}}
-	<div class="col-md-4">
-		<div class="item">
-			<span class="duration">{{attributes.Duration}}</span>
-			<span class="published pull-right">{{attributes.PubDisplayDate}}</span>
-			<span class="title">{{attributes.Title}}</span>
-			<span class="description">{{attributes.Description}}</span>
-		</div>
-	</div>
-	{{/each}}
+<div id="feed-items" class="row">
 </div>

@@ -26,6 +26,13 @@ func (feed *Feed) ContainsEnclosureUrl(url string) bool {
 	return containsKey
 }
 
+func (f *Feed) MakeSureAllItemsHaveIds() (err error) {
+
+	f.Channel.MakeSureAllItemsHaveIds(f.Id)
+
+	return nil
+}
+
 func (feed *Feed) UpdateEnclosure(enclosure Enclosure) {
 
 	for _, item := range feed.Channel.ItemList {
@@ -37,6 +44,15 @@ func (feed *Feed) UpdateEnclosure(enclosure Enclosure) {
 					break
 				}
 			}
+		}
+	}
+}
+
+func (feed *Feed) UpdateItem(item Item) {
+
+	for i, existingItem := range feed.Channel.ItemList {
+		if existingItem.ItemId == item.ItemId {
+			feed.Channel.ItemList[i] = item
 		}
 	}
 }
