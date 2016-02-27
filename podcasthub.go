@@ -17,6 +17,9 @@ func main() {
 
 	if len(argsWithoutProg) > 0 {
 		switch argsWithoutProg[0] {
+		case "archive":
+			a := actions.NewArchive(config)
+			a.ArchivePendingItems()
 		case "clone":
 			d := repositories.NewFeedRepository(config)
 			d.Clone()

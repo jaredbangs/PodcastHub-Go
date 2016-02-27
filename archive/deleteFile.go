@@ -16,7 +16,7 @@ func init() {
 	AvailableArchiveStrategies[thisType.GetName()] = reflect.TypeOf(thisType)
 }
 
-func NewDeleteFile(feed parsing.Feed) (ArchiveStrategy, error) {
+func NewDeleteFile(feed *parsing.Feed) (ArchiveStrategy, error) {
 
 	if feed.ArchiveStrategy == "deleteFile" {
 
@@ -30,12 +30,12 @@ func NewDeleteFile(feed parsing.Feed) (ArchiveStrategy, error) {
 	}
 }
 
-func (a *deleteFile) ArchiveFeedItems(feed parsing.Feed) (err error) {
-	return nil
+func (a *deleteFile) ArchiveFeedItems(feed *parsing.Feed) (itemsUpdated bool, err error) {
+	return false, nil
 }
 
-func (a *deleteFile) ArchiveItem(item parsing.Item) (err error) {
-	return nil
+func (a *deleteFile) ArchiveItem(feed *parsing.Feed, item *parsing.Item) (enclosuresUpdated bool, err error) {
+	return false, nil
 }
 
 func (a *deleteFile) GetName() (name string) {

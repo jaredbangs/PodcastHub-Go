@@ -5,6 +5,13 @@ import (
 	"testing"
 )
 
+func TestGetNullArchiveStrategyByName(t *testing.T) {
+
+	a, _ := GetArchiveStrategyByName("")
+
+	assert.Equal(t, "NullArchiveStrategy", a.GetName())
+}
+
 func TestNullArchiveAvailable(t *testing.T) {
 
 	a := &NullArchiveStrategy{}

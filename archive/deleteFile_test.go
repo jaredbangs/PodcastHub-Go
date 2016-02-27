@@ -18,7 +18,7 @@ func TestInstantiateDeleteArchive(t *testing.T) {
 
 func TestDeleteArchiveAvailable(t *testing.T) {
 
-	a, _ := NewDeleteFile(parsing.Feed{ArchiveStrategy: "deleteFile"})
+	a, _ := NewDeleteFile(&parsing.Feed{ArchiveStrategy: "deleteFile"})
 
 	strategyType := AvailableArchiveStrategies[a.GetName()]
 
@@ -27,14 +27,14 @@ func TestDeleteArchiveAvailable(t *testing.T) {
 
 func TestDeleteFileArchiveNameWithArchivePath(t *testing.T) {
 
-	a, _ := NewDeleteFile(parsing.Feed{ArchiveStrategy: "deleteFile"})
+	a, _ := NewDeleteFile(&parsing.Feed{ArchiveStrategy: "deleteFile"})
 
 	assert.Equal(t, "deleteFile", a.GetName())
 }
 
 func TestDeleteFileArchiveNameWithoutArchivePath(t *testing.T) {
 
-	a, _ := NewDeleteFile(parsing.Feed{})
+	a, _ := NewDeleteFile(&parsing.Feed{})
 
 	assert.Equal(t, "NullArchiveStrategy", a.GetName())
 }

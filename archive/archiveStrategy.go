@@ -6,8 +6,8 @@ import (
 )
 
 type ArchiveStrategy interface {
-	ArchiveFeedItems(feed parsing.Feed) (err error)
-	ArchiveItem(item parsing.Item) (err error)
+	ArchiveFeedItems(feed *parsing.Feed) (itemsUpdated bool, err error)
+	ArchiveItem(feed *parsing.Feed, item *parsing.Item) (enclosuresUpdated bool, err error)
 	GetName() string
 }
 
@@ -20,15 +20,30 @@ func init() {
 	AvailableArchiveStrategies[null.GetName()] = reflect.TypeOf(null)
 }
 
+func GetArchiveStrategyByName(name string) (strategy ArchiveStrategy, err error) {
+
+	if name == "" {
+		null := &NullArchiveStrategy{}
+		return null, nil
+	} else {
+
+		strategyType := AvailableArchiveStrategies[name]
+
+		strategy = reflect.New(strategyType).Elem().Interface().(ArchiveStrategy)
+
+		return strategy, nil
+	}
+}
+
 type NullArchiveStrategy struct {
 }
 
-func (a *NullArchiveStrategy) ArchiveFeedItems(feed parsing.Feed) (err error) {
-	return nil
+func (a *NullArchiveStrategy) ArchiveFeedItems(feed *parsing.Feed) (itemsUpdated bool, err error) {
+	return false, nil
 }
 
-func (a *NullArchiveStrategy) ArchiveItem(item parsing.Item) (err error) {
-	return nil
+func (a *NullArchiveStrategy) ArchiveItem(feed *parsing.Feed, item *parsing.Item) (enclosuresUpdated bool, err error) {
+	return false, nil
 }
 
 func (a *NullArchiveStrategy) GetName() (name string) {
