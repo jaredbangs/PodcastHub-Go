@@ -2,6 +2,7 @@ package web
 
 import (
 	"encoding/json"
+	"github.com/jaredbangs/PodcastHub/archive"
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
@@ -28,8 +29,9 @@ func (w *Web) Start() {
 
 	w.initializeRepo()
 	http.HandleFunc("/", w.index)
+	http.HandleFunc("/feedArchiveStrategies", w.listFeedArchiveStrategies)
 	http.HandleFunc("/feeds", w.listFeeds)
-	http.HandleFunc("/feeds/", w.showFeed)
+	http.HandleFunc("/feeds/", w.processFeed)
 	http.HandleFunc("/items/", w.updateItem)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("web/static"))))
 	http.Handle("/scripts/", http.StripPrefix("/scripts/", http.FileServer(http.Dir("web/scripts"))))
@@ -71,9 +73,39 @@ func (w *Web) initializeRepo() {
 	}
 }
 
+func (w *Web) listFeedArchiveStrategies(rw http.ResponseWriter, r *http.Request) {
+
+	keys := make([]string, 0, len(archive.AvailableArchiveStrategies))
+	for k := range archive.AvailableArchiveStrategies {
+		keys = append(keys, k)
+	}
+	json.NewEncoder(rw).Encode(keys)
+}
+
 func (w *Web) listFeeds(rw http.ResponseWriter, r *http.Request) {
 
 	json.NewEncoder(rw).Encode(w.getFeedInfo())
+}
+
+func (w *Web) processFeed(rw http.ResponseWriter, r *http.Request) {
+
+	switch r.Method {
+	case "GET":
+		// Serve the resource.
+		w.showFeed(rw, r)
+		break
+	case "POST":
+		// Create a new record.
+	case "PUT":
+		// Update an existing record.
+		w.updateFeed(rw, r)
+		break
+	case "DELETE":
+		// Remove the record.
+	default:
+		// Give an error message.
+	}
+
 }
 
 func (w *Web) showFeed(rw http.ResponseWriter, r *http.Request) {
@@ -83,6 +115,25 @@ func (w *Web) showFeed(rw http.ResponseWriter, r *http.Request) {
 	feed, _ := w.repo.ReadById(id)
 
 	json.NewEncoder(rw).Encode(feed)
+}
+
+func (w *Web) updateFeed(rw http.ResponseWriter, r *http.Request) {
+
+	decoder := json.NewDecoder(r.Body)
+	var postedFeed parsing.Feed
+	err := decoder.Decode(&postedFeed)
+	if err != nil {
+
+	} else {
+		feed, _ := w.repo.ReadById(postedFeed.Id)
+
+		feed.ArchivePath = postedFeed.ArchivePath
+		feed.ArchiveStrategy = postedFeed.ArchiveStrategy
+
+		w.repo.Save(&feed)
+
+		json.NewEncoder(rw).Encode(feed)
+	}
 }
 
 func (w *Web) updateItem(rw http.ResponseWriter, r *http.Request) {

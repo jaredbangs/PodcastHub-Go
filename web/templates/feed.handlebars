@@ -2,7 +2,23 @@
 	<div class="col-md-12"><h1>{{Channel.attributes.Title}}</h1></div>
 </div>
 <div class="row">
-	<div class="col-md-12"><span>{{FeedUrl}}</span></div>
+	<div class="col-md-5"><span>{{FeedUrl}}</span></div>
+	<div class="col-md-3">
+		<label for="archive-strategy">Archive Strategy:</label>
+		<select class="archive-strategy" name="archive-strategy">
+			<option selected="selected">{{ArchiveStrategy}}</option>
+		{{#each feedArchiveStrategyNames}}
+			<option>{{this}}</option>
+		{{/each}}
+		</select>
+	</div>
+	<div class="col-md-3">
+		<label for="archive-path">Archive Path:</label>
+		<input class="archive-path" type="text" value="{{ArchivePath}}" />
+	</div>
+	<div class="col-md-1">
+		<button class="save btn btn-default pull-right" type="submit">Save</button>
+	</div>
 </div>
 
 <div id="feed-items" class="row">
