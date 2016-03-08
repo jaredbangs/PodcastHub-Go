@@ -5,21 +5,21 @@ import (
 	"github.com/jaredbangs/PodcastHub/repositories"
 )
 
-type parseTimesIfNecessary struct {
+type reprocessExistingInfo struct {
 	Config config.Configuration
 	repo   *repositories.FeedRepository
 }
 
-func ParseTimesIfNecessary(config config.Configuration) *parseTimesIfNecessary {
+func ReprocessExistingInfo(config config.Configuration) *reprocessExistingInfo {
 
-	d := &parseTimesIfNecessary{Config: config}
+	d := &reprocessExistingInfo{Config: config}
 
 	d.initializeRepo()
 
 	return d
 }
 
-func (d *parseTimesIfNecessary) Run() error {
+func (d *reprocessExistingInfo) Run() error {
 
 	for _, feedId := range d.repo.GetAllIds() {
 
@@ -28,7 +28,7 @@ func (d *parseTimesIfNecessary) Run() error {
 			return err
 		}
 
-		feed.Channel.ParseTimesIfNecessary()
+		feed.Channel.ReprocessExistingInfo()
 
 		d.repo.Save(&feed)
 	}
@@ -36,7 +36,7 @@ func (d *parseTimesIfNecessary) Run() error {
 	return nil
 }
 
-func (d *parseTimesIfNecessary) initializeRepo() {
+func (d *reprocessExistingInfo) initializeRepo() {
 
 	if d.repo == nil {
 		d.repo = repositories.NewFeedRepository(d.Config)

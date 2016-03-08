@@ -89,7 +89,7 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 				}
 			}
 
-			feedRecord.Channel.ParseTimesIfNecessary()
+			feedRecord.Channel.ReprocessExistingInfo()
 			feedRecord.MakeSureAllItemsHaveIds()
 
 			update.repo.Save(&feedRecord)

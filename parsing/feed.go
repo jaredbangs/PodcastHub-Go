@@ -37,6 +37,8 @@ func (f *Feed) MakeSureAllItemsHaveIds() (err error) {
 
 func (feed *Feed) UpdateEnclosure(enclosure Enclosure) {
 
+	enclosure.UpdateCalculatedInfo()
+
 	for _, item := range feed.Channel.ItemList {
 		if item.Enclosures != nil {
 			for i, existingEnclosure := range item.Enclosures {

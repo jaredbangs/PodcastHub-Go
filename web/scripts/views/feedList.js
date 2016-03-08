@@ -1,6 +1,7 @@
-var FeedInfoForList = require("./feedInfoForList.js")
+var FeedInfoForList = require('../views/feedInfoForList.js');
 
-module.exports = FeedList = Marionette.CollectionView.extend({
+module.exports = Marionette.CollectionView.extend({
 	tagName: "div",
 	childView: FeedInfoForList
+
 });

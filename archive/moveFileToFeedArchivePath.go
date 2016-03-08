@@ -74,11 +74,10 @@ func (a *moveFileToFeedArchivePath) ArchiveItem(feed *parsing.Feed, item *parsin
 
 				enclosure.DownloadedFilePath = archiveFilePath
 
-				enclosuresUpdated = true
-				//feed.UpdateEnclosure(enclosure)
 			} else {
 				log.Println(enclosure.DownloadedFilePath + " file does not exist")
 			}
+			enclosuresUpdated = true
 		}
 	}
 

@@ -53,9 +53,6 @@ func main() {
 		case "move":
 			p := &actions.Reorg{Config: config}
 			p.CopyFromOldToNew()
-		case "parsetimes":
-			d := actions.ParseTimesIfNecessary(config)
-			d.Run()
 		case "processitems":
 			p := &actions.ProcessDownloadedItems{}
 			p.ApplyAllFilters(config)
@@ -75,6 +72,9 @@ func main() {
 			} else {
 				fmt.Println("Usage: podcasthub readfiles path")
 			}
+		case "reprocess":
+			d := actions.ReprocessExistingInfo(config)
+			d.Run()
 		case "show":
 			show := &actions.ShowDatabase{Config: config}
 

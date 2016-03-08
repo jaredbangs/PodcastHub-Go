@@ -3,6 +3,7 @@ package archive
 import (
 	"errors"
 	"github.com/jaredbangs/PodcastHub/parsing"
+	"log"
 	"reflect"
 )
 
@@ -31,11 +32,53 @@ func NewDeleteFile(feed *parsing.Feed) (ArchiveStrategy, error) {
 }
 
 func (a *deleteFile) ArchiveFeedItems(feed *parsing.Feed) (itemsUpdated bool, err error) {
-	return false, nil
+
+	itemsUpdated = false
+
+	log.Println("Archiving items in feed " + feed.Channel.Title)
+	for _, item := range feed.Channel.ItemList {
+		if !item.IsArchived && item.IsToBeArchived {
+			log.Println("Deleting item " + item.Title + "in feed " + feed.Channel.Title)
+			itemUpdated, _ := a.ArchiveItem(feed, &item)
+
+			itemsUpdated = itemsUpdated || itemUpdated
+		}
+	}
+
+	return itemsUpdated, err
 }
 
 func (a *deleteFile) ArchiveItem(feed *parsing.Feed, item *parsing.Item) (enclosuresUpdated bool, err error) {
-	return false, nil
+
+	enclosuresUpdated = false
+
+	for _, enclosure := range item.Enclosures {
+
+		if len(enclosure.DownloadedFilePath) != 0 {
+
+			mover := &FileMover{}
+
+			if mover.FileExists(enclosure.DownloadedFilePath) {
+
+				mover.DeleteFile(enclosure.DownloadedFilePath)
+
+				log.Println("Deleted " + enclosure.DownloadedFilePath)
+
+				enclosure.DownloadedFilePath = ""
+
+			} else {
+				log.Println(enclosure.DownloadedFilePath + " file does not exist")
+			}
+			enclosuresUpdated = true
+		}
+	}
+
+	if enclosuresUpdated {
+		item.IsArchived = true
+		feed.UpdateItem(*item)
+	}
+
+	return enclosuresUpdated, nil
 }
 
 func (a *deleteFile) GetName() (name string) {

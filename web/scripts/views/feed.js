@@ -26,7 +26,12 @@ module.exports = FeedView = Marionette.CompositeView.extend({
 	},
 
 	save: function() {
-		this.model.save();
+		this.model.save({
+			success: function() {
+				 podcasthub.FeedList = new FeedInfoCollection();
+		                 podcasthub.FeedList.fetch();
+			}
+		});
 	},
 
   	serializeData: function(){

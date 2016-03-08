@@ -1,6 +1,6 @@
 var Item = require('../models/item');
 
-module.exports = ItemCollection = Backbone.Collection.extend({
+module.exports = Backbone.Collection.extend({
 	model:  Item,
 
 	url: "/items",

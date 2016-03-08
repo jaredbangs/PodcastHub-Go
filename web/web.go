@@ -19,10 +19,11 @@ type Web struct {
 }
 
 type FeedInfo struct {
-	Id          string
-	LastUpdated time.Time
-	Title       string
-	Url         string
+	ArchiveStrategy string
+	Id              string
+	LastUpdated     time.Time
+	Title           string
+	Url             string
 }
 
 func (w *Web) Start() {
@@ -33,6 +34,7 @@ func (w *Web) Start() {
 	http.HandleFunc("/feeds", w.listFeeds)
 	http.HandleFunc("/feeds/", w.processFeed)
 	http.HandleFunc("/items/", w.updateItem)
+	http.HandleFunc("/itemsByDownloadDirectory", w.itemsByDownloadDirectory)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("web/static"))))
 	http.Handle("/scripts/", http.StripPrefix("/scripts/", http.FileServer(http.Dir("web/scripts"))))
 
@@ -48,6 +50,7 @@ func (w *Web) getFeedInfo() []FeedInfo {
 		w.repo.ForEach(func(feed parsing.Feed) {
 
 			feedInfo := FeedInfo{}
+			feedInfo.ArchiveStrategy = feed.ArchiveStrategy
 			feedInfo.Id = feed.Id
 			feedInfo.LastUpdated = feed.LastUpdated
 			feedInfo.Title = feed.Channel.Title
@@ -57,6 +60,36 @@ func (w *Web) getFeedInfo() []FeedInfo {
 		})
 	}
 	return w.feedInfo
+}
+
+func (w *Web) getItemsByDownloadDirectory() map[string][]parsing.Item {
+
+	var itemsByDirectory = make(map[string][]parsing.Item)
+
+	w.repo.ForEach(func(feed parsing.Feed) {
+
+		downloadDirectory := ""
+
+		for _, item := range feed.Channel.ItemList {
+
+			for _, enclosure := range item.Enclosures {
+
+				downloadDirectory = enclosure.DownloadedDirectory
+
+				if downloadDirectory != "" {
+					if _, ok := itemsByDirectory[downloadDirectory]; !ok {
+						itemsByDirectory[downloadDirectory] = make([]parsing.Item, 0)
+					}
+				}
+			}
+
+			if downloadDirectory != "" {
+				itemsByDirectory[downloadDirectory] = append(itemsByDirectory[downloadDirectory], item)
+			}
+		}
+	})
+
+	return itemsByDirectory
 }
 
 func (w *Web) index(rw http.ResponseWriter, r *http.Request) {
@@ -71,6 +104,11 @@ func (w *Web) initializeRepo() {
 	if w.repo == nil {
 		w.repo = repositories.NewFeedRepository(w.Config)
 	}
+}
+
+func (w *Web) itemsByDownloadDirectory(rw http.ResponseWriter, r *http.Request) {
+
+	json.NewEncoder(rw).Encode(w.getItemsByDownloadDirectory())
 }
 
 func (w *Web) listFeedArchiveStrategies(rw http.ResponseWriter, r *http.Request) {

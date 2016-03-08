@@ -41,3 +41,13 @@ func (i *Item) ParseTimeIfNecessary() (err error) {
 
 	return nil
 }
+
+func (i *Item) ReprocessExistingInfo() (err error) {
+
+	for index, enclosure := range i.Enclosures {
+		enclosure.UpdateCalculatedInfo()
+		i.Enclosures[index] = enclosure
+	}
+
+	return nil
+}

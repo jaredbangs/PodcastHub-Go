@@ -26,7 +26,7 @@ module.exports = FeedInfoForList = Marionette.ItemView.extend({
 				new FeedArchiveStrategyCollection().fetch({
 					success: function (collection, feedArchiveStrategyNames) {
 					
-						var nonArchivedItems = new ItemCollection(podcasthub.feed.get("Channel").get("Items").where({Archived: false}));
+						var nonArchivedItems = new ItemCollection(podcasthub.feed.get("Channel").get("Items").filter(function (item) { return item.shouldDisplayByDefault(); }));
 
 						var view = new FeedView({ model: podcasthub.feed, collection: nonArchivedItems, feedArchiveStrategyNames: feedArchiveStrategyNames });
 						view.render();

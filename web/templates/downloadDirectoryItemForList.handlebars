@@ -1,0 +1,14 @@
+<div class="col-md-4">
+	<p class="feed-name">{{FeedName}}</p>
+	<p>{{Title}}</p>
+	<p>{{PubDate}}</p>
+	{{#if HasArchiveStrategy}}
+		<button class="archive btn btn-default pull-right" type="submit">Archive</button>
+	{{/if}}
+
+</div>
+<div class="col-md-8">
+	{{#each Enclosures}}
+		<p>{{DownloadedFilePath}}</p>
+	{{/each}}
+</div>

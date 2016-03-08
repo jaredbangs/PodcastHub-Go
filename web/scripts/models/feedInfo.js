@@ -1,4 +1,6 @@
-module.exports = FeedInfo = Backbone.Model.extend({
+module.exports = Backbone.Model.extend({
+
+	idAttribute: "Id",
 
 	parse: function (response, options) {
 
