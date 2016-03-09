@@ -12,7 +12,6 @@ module.exports = FeedInfoForList = Marionette.ItemView.extend({
 	template: Template,
 
 	events: {
-		'click': 'goToFeed'
 	},
 
 	goToFeed: function(domEvent) {

@@ -8,5 +8,11 @@ module.exports = Backbone.Model.extend({
 		response.LastUpdated = lastUpdated._d;
 		response.LastUpdatedDisplay = lastUpdated.format("MMMM Do YYYY");
 		return response;
+	},
+
+	updateFromModel: function (feedModel) {
+		
+		this.set("ArchivePath", feedModel.get("ArchivePath"));
+                this.set("ArchiveStrategy", feedModel.get("ArchiveStrategy"));
 	}
 });

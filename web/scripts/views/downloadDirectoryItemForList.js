@@ -13,7 +13,6 @@ module.exports = Marionette.ItemView.extend({
 
 	events: {
                 "click .archive": "archive",
-		"click .feed-name": "goToFeed"
         },
 
         archive: function(domEvent) {
@@ -26,29 +25,5 @@ module.exports = Marionette.ItemView.extend({
                                 self.remove();
                         }
                  });
-
-        },
-
-	goToFeed: function(domEvent) {
-
-	   	podcasthub.feed = new Feed({ id: this.model.get("FeedId")});
-
-                podcasthub.feed.fetch({
-		        reset: true,
-		        success: function (model, response, options) {
-
-	                        new FeedArchiveStrategyCollection().fetch({
-		                        success: function (collection, feedArchiveStrategyNames) {
-	
-						var nonArchivedItems = new ItemCollection(podcasthub.feed.get("Channel").get("Items").filter(function (item) { return item.shouldDisplayByDefault(); }));
-
-						var view = new FeedView({ model: podcasthub.feed, collection: nonArchivedItems, feedArchiveStrategyNames: feedArchiveStrategyNames });
-                                                view.render();
-                                        }
-                                });
-                         },
-                         error: function (model, response, options) {
-                         }
-               });
 	}
 });

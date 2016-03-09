@@ -1,4 +1,4 @@
-module.exports = Item = Backbone.Model.extend({
+module.exports = Backbone.Model.extend({
 
 	idAttribute: "ItemId",
 
@@ -18,16 +18,19 @@ module.exports = Item = Backbone.Model.extend({
 
 		this.set("Archived", this.get("IsArchived") || this.get("IsToBeArchived")); 
 
-		if (this.has("FeedId")) {
+		if (this.has("FeedId") && this.get("FeedId") !== "") {
 			
-			var feedInfo = podcasthub.FeedList.get(this.get("FeedId"));
+			var feedInfo = podcasthub.FeedList.findWhere({ Id: this.get("FeedId") });
 
 			if (feedInfo !== undefined) {
 				this.set("FeedName", feedInfo.get("Title"));
 				this.set("HasArchiveStrategy", feedInfo.has("ArchiveStrategy") && feedInfo.get("ArchiveStrategy") !== "");
-
-			 	console.log(this.get("HasArchiveStrategy"));
+			} else {
+				console.log("Feed not found: " + this.get("FeedId"));
 			}
+		} else {
+			console.log("Item has no FeedId");
+			console.log(JSON.stringify(this));
 		}
 	},
 

@@ -1,10 +1,8 @@
 var ItemView = require("./item.js")
 var Template = require('../../templates/feed.handlebars');
 
-module.exports = FeedView = Marionette.CompositeView.extend({
+module.exports = Marionette.CompositeView.extend({
 	
-	el: "#app-base",
-
 	events: {
 		"change .archive-path": "changeArchivePath",
 		"change .archive-strategy": "changeArchiveStrategy",
@@ -26,10 +24,18 @@ module.exports = FeedView = Marionette.CompositeView.extend({
 	},
 
 	save: function() {
-		this.model.save({
+
+		var self = this;
+
+		this.model.save(null, {
 			success: function() {
-				 podcasthub.FeedList = new FeedInfoCollection();
-		                 podcasthub.FeedList.fetch();
+
+				var feedInfo = podcasthub.FeedList.findWhere({ Id: self.model.get("Id") });
+				
+				if (feedInfo !== undefined) {
+
+					feedInfo.updateFromModel(self.model);
+				}
 			}
 		});
 	},

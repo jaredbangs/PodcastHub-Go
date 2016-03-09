@@ -1,22 +1,25 @@
 require('../styles/feed.less')
 
 var AppLayoutView = require('./views/appLayout.js');
+var AppRouter = require('./routers/app.js');
 
 $( document ).ready(function() {
 
-	var app = new Backbone.Marionette.Application();
-
-	app.addRegions({
+	podcasthub.app = new Backbone.Marionette.Application();
+	
+	podcasthub.app.addRegions({
 		/* reference to container element in the HTML file */
 		appRegion: '#app-base'
 	});
 
-	app.start();
+	podcasthub.app.start();
 
 	/* create a new instance of the layout from the module */
-	var layout = new AppLayoutView();
+	podcasthub.appLayout = new AppLayoutView();
 
 	/* display the layout in the region defined at the top of this file */
-	app.appRegion.show(layout);
+	podcasthub.app.appRegion.show(podcasthub.appLayout);
 
+	var router = new AppRouter({controller: this });
+	Backbone.history.start();
 });

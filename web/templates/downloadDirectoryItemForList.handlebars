@@ -1,5 +1,5 @@
 <div class="col-md-4">
-	<p class="feed-name">{{FeedName}}</p>
+	<p class="feed-name"><a href="#feed/{{FeedId}}">{{FeedName}}</a></p>
 	<p>{{Title}}</p>
 	<p>{{PubDate}}</p>
 	{{#if HasArchiveStrategy}}
@@ -11,4 +11,5 @@
 	{{#each Enclosures}}
 		<p>{{DownloadedFilePath}}</p>
 	{{/each}}
+	<p>{{FeedId}}</p>
 </div>
