@@ -1,14 +1,19 @@
+
+var Marionette = require("backbone.marionette");
 var FeedInfoCollection = require('../collections/feedInfo.js');
 var FeedListView = require('./feedList.js');
 var Template = require('../../templates/appLayout.handlebars');
 
 module.exports = Marionette.LayoutView.extend({
-	tagName: "div",
 
 	template: Template,
 
+	el: "#app-base",
+
 	regions: {
-		'RegionOne' : '#feed-list'
+		"Header" : "#header",
+		"Main" : "#main",
+		"Sidebar" : "#sidebar"
 	},
 
 	onRender: function() {
@@ -19,7 +24,7 @@ module.exports = Marionette.LayoutView.extend({
 		var view = new FeedListView({ collection: podcasthub.FeedList });
 
 		/* display the collection view in region 1 */
-		this.RegionOne.show(view);
+		this.regions.Main.show(view);
 	}
 
 });

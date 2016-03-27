@@ -2,6 +2,7 @@ package parsing
 
 import (
 	"github.com/satori/go.uuid"
+	"log"
 	"time"
 )
 
@@ -47,13 +48,19 @@ func (c *Channel) MakeSureAllItemsHaveIds(feedId string) (err error) {
 	return nil
 }
 
-func (c *Channel) ReprocessExistingInfo() (err error) {
+func (c *Channel) ReprocessExistingInfo(logInfo bool) (err error) {
+
+	if logInfo {
+		log.Println("Reprocessing " + c.Title)
+	}
 
 	if c.LastBuildTime.IsZero() && c.LastBuildDate != "" {
 		parsed, err := time.Parse(time.RFC1123Z, c.LastBuildDate)
 
 		if err != nil {
-			return err
+			if logInfo {
+				log.Println("Error parsing time " + c.LastBuildDate)
+			}
 		}
 
 		c.LastBuildTime = parsed
@@ -61,7 +68,7 @@ func (c *Channel) ReprocessExistingInfo() (err error) {
 
 	for i, item := range c.ItemList {
 		item.ParseTimeIfNecessary()
-		item.ReprocessExistingInfo()
+		item.ReprocessExistingInfo(logInfo)
 		c.ItemList[i] = item
 	}
 

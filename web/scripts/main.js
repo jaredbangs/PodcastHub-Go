@@ -1,25 +1,30 @@
-require('../styles/feed.less')
+require("../styles/feed.less")
+
+var $ = require("jquery");
+var Backbone = require("backbone");
+var Marionette = require("backbone.marionette");
+
 
 var AppLayoutView = require('./views/appLayout.js');
 var AppRouter = require('./routers/app.js');
 
-$( document ).ready(function() {
+$(document).ready(function() {
 
-	podcasthub.app = new Backbone.Marionette.Application();
-	
-	podcasthub.app.addRegions({
-		/* reference to container element in the HTML file */
-		appRegion: '#app-base'
+	podcasthub = new Marionette.Application();
+
+	podcasthub.on("before:start", function() {
+
+		podcasthub.layout = new AppLayoutView();
 	});
 
-	podcasthub.app.start();
+	podcasthub.on("start", function() {
+		
+		podcasthub.router = new AppRouter({controller: this });
 
-	/* create a new instance of the layout from the module */
-	podcasthub.appLayout = new AppLayoutView();
+		podcasthub.layout.render();
 
-	/* display the layout in the region defined at the top of this file */
-	podcasthub.app.appRegion.show(podcasthub.appLayout);
+		Backbone.history.start();
+	});
 
-	var router = new AppRouter({controller: this });
-	Backbone.history.start();
+	podcasthub.start();
 });

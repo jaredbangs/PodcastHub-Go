@@ -1,16 +1,42 @@
 var DownloadDirectoryCollection = require('../collections/downloadDirectories.js');
 var DownloadDirectoryListView = require('../views/downloadDirectoryList.js');
+var DownloadDirectoryView = require('../views/downloadDirectory.js');
 var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategies.js');
 var FeedListView = require('../views/feedList.js');
 var FeedView = require('../views/feed.js');
 var ItemCollection = require('../collections/items.js');
+var Marionette = require("backbone.marionette");
 
 module.exports = Marionette.AppRouter.extend({
 
 	routes : {
+		"downloadDirectory/:directory" : "downloadDirectory",
 		"feed/:id" : "feed",
 		"feedList" : "feedList",
 		"itemsByDownloadDirectory" : "itemsByDownloadDirectory"
+	},
+
+	downloadDirectory: function(directory) {
+
+		console.log(directory);
+
+		var ddsWithItems = podcasthub.dd.filter( function (item) { return item.get("ItemCount") > 0;});
+
+		var collection = new DownloadDirectoryCollection(ddsWithItems);
+
+		var model = collection.findWhere({ Name: directory });
+
+		model.set("DirectoryNames", collection.pluck("UrlName"));
+
+		if (model === undefined) {
+			console.log("Could not find " + directory);
+		} else {
+		
+			var items = new ItemCollection(model.get("Items").filter(function (item) { return item.shouldDisplayByDefault(); }));
+			items.comparator = "FeedName";
+			var view = new DownloadDirectoryView({ model: model, collection: items });
+                	podcasthub.appLayout.RegionOne.show(view);
+		}
 	},
 
 	feed: function(feedId) {
@@ -51,19 +77,14 @@ module.exports = Marionette.AppRouter.extend({
 
 		var self = this;
 
-//		if (podcasthub.dd === undefined) {
+                podcasthub.dd = new DownloadDirectoryCollection();
 
-                	podcasthub.dd = new DownloadDirectoryCollection();
-
-                	podcasthub.dd.fetch({
-				reset: true,
-				success: function (model, response, options) {
-					self.showItemsByDownloadDirectory();
-                        	}
-			});
-//		} else {
-//			self.showItemsByDownloadDirectory();
-//		}
+                podcasthub.dd.fetch({
+			reset: true,
+			success: function (model, response, options) {
+				self.showItemsByDownloadDirectory();
+                       	}
+		});
 	},
 
 	showCurrentFeed : function() {

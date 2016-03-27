@@ -1,4 +1,5 @@
 var DownloadDirectoryView = require('./downloadDirectory.js')
+var Marionette = require("backbone.marionette");
 var ItemCollection = require('../collections/items.js')
 var Template = require('../../templates/downloadDirectoryForList.handlebars');
 
@@ -8,11 +9,11 @@ module.exports = Marionette.ItemView.extend({
 	className: "row feed-info",
 
 	template: Template,
-
+/*
 	events: {
 		'click': 'goToDownloadDirectory'
 	},
-
+*/
 	goToDownloadDirectory: function(domEvent) {
 
 		var view = new DownloadDirectoryView({ model: this.model, collection: new ItemCollection(this.model.get("Items").filter(function (item) { return item.shouldDisplayByDefault(); })) });

@@ -19,6 +19,20 @@ func ReprocessExistingInfo(config config.Configuration) *reprocessExistingInfo {
 	return d
 }
 
+func (d *reprocessExistingInfo) ReprocessFeed(feedUrl string) error {
+
+	feed, err := d.repo.ReadByUrl(feedUrl)
+	if err != nil {
+		return err
+	}
+
+	feed.Channel.ReprocessExistingInfo(true)
+
+	d.repo.Save(&feed)
+
+	return nil
+}
+
 func (d *reprocessExistingInfo) Run() error {
 
 	for _, feedId := range d.repo.GetAllIds() {
@@ -28,7 +42,7 @@ func (d *reprocessExistingInfo) Run() error {
 			return err
 		}
 
-		feed.Channel.ReprocessExistingInfo()
+		feed.Channel.ReprocessExistingInfo(false)
 
 		d.repo.Save(&feed)
 	}

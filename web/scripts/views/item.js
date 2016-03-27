@@ -1,6 +1,7 @@
 var Template = require('../../templates/item.handlebars');
+var Marionette = require("backbone.marionette");
 
-module.exports = Item = Marionette.ItemView.extend({
+module.exports = Marionette.ItemView.extend({
 	
 	tagName: "div",
 	className: "col-md-4",

@@ -1,3 +1,4 @@
+var Backbone = require("backbone")
 var ItemCollection = require("../collections/items.js")
 
 module.exports = Channel = Backbone.Model.extend({

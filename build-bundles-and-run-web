@@ -1,3 +1,4 @@
 #!/bin/sh
-browserify --debug -t browserify-handlebars -t lessify web/scripts/main.js -o web/scripts/bundle.js
+#browserify --debug -t browserify-handlebars -t lessify web/scripts/main.js -o web/scripts/bundle.js
+browserify  -t browserify-handlebars -t lessify web/scripts/main.js -o web/scripts/bundle.js
 go run podcasthub.go web

@@ -1,7 +1,14 @@
-<div class="item">
+<div class="item" data-feed-id="{{FeedId}}" data-item-id="{{ItemId}}">
+	<input type="checkbox" data-feed-id="{{FeedId}}" data-item-id="{{ItemId}}" />
 	<span class="duration">{{Duration}}</span>
 	<button class="archive btn btn-default pull-right" type="submit">A</button>
 	<span class="published pull-right">{{PubDisplayDate}}</span>
 	<span class="title">{{Title}}</span>
 	<span class="description">{{Description}}</span>
+	<hr />
+        {{#each Enclosures}}
+		<p>{{DownloadedDirectory}}</p>
+		<p>{{DownloadedFilePath}}</p>
+	{{/each}}
+
 </div>

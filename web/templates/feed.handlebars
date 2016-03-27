@@ -2,7 +2,11 @@
 	<div class="col-md-12"><h1>{{Channel.attributes.Title}}</h1></div>
 </div>
 <div class="row">
-	<div class="col-md-5"><span>{{FeedUrl}}</span></div>
+	<div class="col-md-5">
+		<p>{{FeedUrl}}</p>
+		<button class="select-all btn btn-default">Select All</button>
+		<button class="archive-selected btn btn-default">Archive Selected</button>
+	</div>
 	<div class="col-md-3">
 		<label for="archive-strategy">Archive Strategy:</label>
 		<select class="archive-strategy" name="archive-strategy">

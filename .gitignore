@@ -1,6 +1,7 @@
 downloadedFiles.log
 subscriptions
 *.swp
+node_modules
 
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o

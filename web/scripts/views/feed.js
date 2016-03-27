@@ -1,4 +1,5 @@
 var ItemView = require("./item.js")
+var Marionette = require("backbone.marionette");
 var Template = require('../../templates/feed.handlebars');
 
 module.exports = Marionette.CompositeView.extend({
@@ -6,7 +7,9 @@ module.exports = Marionette.CompositeView.extend({
 	events: {
 		"change .archive-path": "changeArchivePath",
 		"change .archive-strategy": "changeArchiveStrategy",
-		"click .save": "save"
+		"click .archive-selected": "archiveSelected",
+		"click .save": "save",
+		"click .select-all": "selectAll"
 	},
 
 	template: Template,
@@ -14,6 +17,51 @@ module.exports = Marionette.CompositeView.extend({
 	childView: ItemView, 
 
 	childViewContainer: "#feed-items",
+
+	archiveNext: function () {
+
+		var itemId, self;
+
+		self = this;
+
+		if (self.itemIdsToArchive.length > 0) {
+
+			itemId = self.itemIdsToArchive.pop();
+
+			self.collection.each(function (item) {
+
+				if (itemId === item.get("ItemId")) {
+
+					_.defer(function () {
+						item.save({IsToBeArchived: true}, {
+		        				success: function() {
+								console.log("Archived " + item.get("Title"));
+								self.archiveNext();
+							}
+	               				});
+					});
+				}
+			});	
+		}
+	},
+
+	archiveSelected: function () {
+
+		var itemId, self;
+
+		self = this;
+
+		self.itemIdsToArchive = [];
+
+		this.$("input:checkbox:checked").each(function(index, itemCheckbox) {
+			
+			itemId = $(itemCheckbox).data("item-id");
+
+			self.itemIdsToArchive.push(itemId);
+		});
+
+		self.archiveNext();
+	},
 
 	changeArchivePath: function(e) {
 		this.model.set("ArchivePath", $(e.currentTarget).val());
@@ -38,6 +86,10 @@ module.exports = Marionette.CompositeView.extend({
 				}
 			}
 		});
+	},
+
+	selectAll: function () {
+		this.$("input").prop("checked", true);
 	},
 
   	serializeData: function(){

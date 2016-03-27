@@ -1,3 +1,4 @@
+var Backbone = require("backbone")
 var FeedInfo = require('../models/feedInfo');
 
 module.exports = FeedInfoCollection = Backbone.Collection.extend({

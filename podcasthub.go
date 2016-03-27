@@ -74,7 +74,11 @@ func main() {
 			}
 		case "reprocess":
 			d := actions.ReprocessExistingInfo(config)
-			d.Run()
+			if len(argsWithoutProg) > 1 {
+				d.ReprocessFeed(argsWithoutProg[1])
+			} else {
+				d.Run()
+			}
 		case "show":
 			show := &actions.ShowDatabase{Config: config}
 

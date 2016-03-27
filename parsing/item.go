@@ -1,6 +1,7 @@
 package parsing
 
 import (
+	"log"
 	"time"
 )
 
@@ -42,10 +43,14 @@ func (i *Item) ParseTimeIfNecessary() (err error) {
 	return nil
 }
 
-func (i *Item) ReprocessExistingInfo() (err error) {
+func (i *Item) ReprocessExistingInfo(logInfo bool) (err error) {
+
+	if logInfo {
+		log.Println("Processing item " + i.Title)
+	}
 
 	for index, enclosure := range i.Enclosures {
-		enclosure.UpdateCalculatedInfo()
+		enclosure.UpdateCalculatedInfo(logInfo)
 		i.Enclosures[index] = enclosure
 	}
 

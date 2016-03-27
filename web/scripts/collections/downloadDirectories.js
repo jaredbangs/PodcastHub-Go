@@ -1,3 +1,4 @@
+var Backbone = require("backbone")
 var DownloadDirectory = require("../models/downloadDirectory.js");
 var ItemCollection = require("../collections/items.js");
 
@@ -15,6 +16,7 @@ module.exports = Backbone.Collection.extend({
 			dd = new DownloadDirectory();
 
 			dd.set("Name", key);
+			dd.set("UrlName", encodeURIComponent(key));
 
 			dd.set("Items", new ItemCollection(response[key]));
 

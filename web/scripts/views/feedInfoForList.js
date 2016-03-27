@@ -1,10 +1,11 @@
 var Feed = require('../models/feed.js');
+var Marionette = require("backbone.marionette");
 var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategies.js');
 var ItemCollection = require('../collections/items.js');
 var FeedView = require('./feed.js')
 var Template = require('../../templates/feedInfoForList.handlebars');
 
-module.exports = FeedInfoForList = Marionette.ItemView.extend({
+module.exports = Marionette.ItemView.extend({
 	
 	tagName: "div",
 	className: "row feed-info",
