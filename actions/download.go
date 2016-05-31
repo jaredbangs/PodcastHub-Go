@@ -185,6 +185,9 @@ func (d *downloadFiles) downloadNewFilesInFeed(feed *parsing.Feed, feedUrl strin
 			}
 		}
 	}
+
+	feed.ReprocessExistingInfo(false)
+	d.repo.Save(feed)
 }
 
 func (d *downloadFiles) initializeDownloader() {

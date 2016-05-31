@@ -19,11 +19,12 @@ type Web struct {
 }
 
 type FeedInfo struct {
-	ArchiveStrategy string
-	Id              string
-	LastUpdated     time.Time
-	Title           string
-	Url             string
+	ArchiveStrategy    string
+	Id                 string
+	LastFileDownloaded time.Time
+	LastUpdated        time.Time
+	Title              string
+	Url                string
 }
 
 func (w *Web) Start() {
@@ -52,6 +53,7 @@ func (w *Web) getFeedInfo() []FeedInfo {
 			feedInfo := FeedInfo{}
 			feedInfo.ArchiveStrategy = feed.ArchiveStrategy
 			feedInfo.Id = feed.Id
+			feedInfo.LastFileDownloaded = feed.LastFileDownloadedTime
 			feedInfo.LastUpdated = feed.LastUpdated
 			feedInfo.Title = feed.Channel.Title
 			feedInfo.Url = feed.FeedUrl

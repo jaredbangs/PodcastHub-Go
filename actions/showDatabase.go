@@ -41,6 +41,7 @@ func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 	log.Println("Subtitle:\t" + feed.Channel.Subtitle)
 	log.Println("LastBuildDate:\t" + feed.Channel.LastBuildTime.String())
 	log.Println("Summary:\t" + feed.Channel.Summary)
+	log.Println("LastFileDownloaded:\t" + feed.LastFileDownloadedTime.Format("2006-01-02"))
 	for _, item := range feed.Channel.ItemList {
 		log.Println("\t" + item.Title + "\t- Published: " + item.PubTime.String())
 		for _, enclosure := range item.Enclosures {
@@ -50,4 +51,9 @@ func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 			}
 		}
 	}
+	log.Println(feed.Channel.Title + "\t" + feed.Id + "\t" + feed.FeedUrl + "\t" + feed.LastUpdated.String())
+	log.Println("Subtitle:\t" + feed.Channel.Subtitle)
+	log.Println("LastBuildDate:\t" + feed.Channel.LastBuildTime.String())
+	log.Println("Summary:\t" + feed.Channel.Summary)
+	log.Println("LastFileDownloaded:\t" + feed.LastFileDownloadedTime.Format("2006-01-02"))
 }

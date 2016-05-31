@@ -1,4 +1,5 @@
-var Backbone = require("backbone")
+"use scripts";
+
 var Item = require('../models/item');
 
 module.exports = Backbone.Collection.extend({

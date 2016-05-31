@@ -6,19 +6,26 @@ import (
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
+	"io"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
+	"path"
 	"strings"
+	"time"
 )
 
 type Update struct {
-	Config config.Configuration
-	repo   *repositories.FeedRepository
+	Config       config.Configuration
+	downloadPath string
+	logFile      *os.File
+	repo         *repositories.FeedRepository
 }
 
 func (update *Update) Update() error {
+
+	update.initializeLog()
 
 	file, err := os.Open(update.Config.SubscriptionFile)
 	defer file.Close()
@@ -35,6 +42,8 @@ func (update *Update) Update() error {
 }
 
 func (update *Update) UpdateFeed(feedUrl string) {
+
+	update.initializeLog()
 
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
@@ -53,6 +62,44 @@ func (update *Update) UpdateFeed(feedUrl string) {
 			}
 		}
 	}
+}
+
+func (u *Update) initializeLog() {
+
+	if u.downloadPath == "" {
+		u.prepareDownloadPath()
+
+		t := time.Now()
+		filePath := path.Join(u.downloadPath, t.Format("20060102-150405")+"-update.log")
+
+		f, err := os.OpenFile(filePath, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+		if err != nil {
+			panic(err)
+		}
+		u.logFile = f
+
+		log.SetOutput(io.MultiWriter(u.logFile, os.Stdout))
+		log.Println("Initialized log")
+	}
+}
+
+func (u *Update) prepareDownloadPath() (err error) {
+
+	if u.downloadPath == "" {
+		parentDownloadPath := u.Config.DownloadPath
+
+		t := time.Now()
+		todayDirectoryName := t.Format("20060102")
+		u.downloadPath = path.Join(parentDownloadPath, todayDirectoryName)
+
+		err = os.MkdirAll(u.downloadPath, 0711)
+		if err != nil {
+			log.Fatalln(err)
+			return err
+		}
+	}
+
+	return nil
 }
 
 func (update *Update) recordFeedInfo(feedUrl string, content []byte) {

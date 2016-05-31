@@ -1,4 +1,4 @@
-var Backbone = require("backbone")
+"use scripts";
 
 module.exports = Backbone.Model.extend({
 
@@ -13,6 +13,7 @@ module.exports = Backbone.Model.extend({
 			this.unset("PubTime");
 			this.set("PubTime", pubTime._d);
 			this.set("PubDisplayDate", pubTime.format("dddd, MMMM Do YYYY"));
+
 		} else if (this.has("PubDate")) {
 
 			this.set("PubDisplayDate", this.get("PubDate"));

@@ -26,7 +26,7 @@ func (d *reprocessExistingInfo) ReprocessFeed(feedUrl string) error {
 		return err
 	}
 
-	feed.Channel.ReprocessExistingInfo(true)
+	feed.ReprocessExistingInfo(true)
 
 	d.repo.Save(&feed)
 
@@ -42,7 +42,7 @@ func (d *reprocessExistingInfo) Run() error {
 			return err
 		}
 
-		feed.Channel.ReprocessExistingInfo(false)
+		feed.ReprocessExistingInfo(true)
 
 		d.repo.Save(&feed)
 	}

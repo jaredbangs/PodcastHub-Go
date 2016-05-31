@@ -1,4 +1,5 @@
-var Backbone = require("backbone")
+"use strict";
+
 var Channel = require("./channel.js")
 
 module.exports = Backbone.Model.extend({

@@ -22292,6 +22292,30 @@ module.exports = require('cssify');
 
 }));
 },{}],31:[function(require,module,exports){
+var AppController = require('./controllers/app.js');
+var AppLayoutView = require('./views/appLayout.js');
+var AppRouter = require('./routers/app.js');
+
+module.exports = Marionette.Application.extend({
+
+	initialize: function () {
+		this.controller = new AppController({ application: this });
+		this.router = new AppRouter({ controller: this.controller });
+	},
+
+	onBeforeStart: function () {
+		this.layout = new AppLayoutView();
+		this.layout.render();
+	},
+
+	onStart: function () {
+		Backbone.history.start();
+		
+		this.controller.showFeedList();
+	}
+});
+
+},{"./controllers/app.js":36,"./routers/app.js":44,"./views/appLayout.js":45}],32:[function(require,module,exports){
 var Backbone = require("backbone")
 var DownloadDirectory = require("../models/downloadDirectory.js");
 var ItemCollection = require("../collections/items.js");
@@ -22324,7 +22348,7 @@ module.exports = Backbone.Collection.extend({
 
 });
 
-},{"../collections/items.js":34,"../models/downloadDirectory.js":37,"backbone":6}],32:[function(require,module,exports){
+},{"../collections/items.js":35,"../models/downloadDirectory.js":39,"backbone":6}],33:[function(require,module,exports){
 var Backbone = require("backbone")
 var Strategy = require('../models/feedArchiveStrategy.js');
 
@@ -22336,8 +22360,7 @@ module.exports = Backbone.Collection.extend({
 
 });
 
-},{"../models/feedArchiveStrategy.js":39,"backbone":6}],33:[function(require,module,exports){
-var Backbone = require("backbone")
+},{"../models/feedArchiveStrategy.js":41,"backbone":6}],34:[function(require,module,exports){
 var FeedInfo = require('../models/feedInfo');
 
 module.exports = FeedInfoCollection = Backbone.Collection.extend({
@@ -22348,14 +22371,24 @@ module.exports = FeedInfoCollection = Backbone.Collection.extend({
 
 	comparator: function(modelA, modelB) {
 
+		if (modelA.get("LastFileDownloaded") > modelB.get("LastFileDownloaded")) return -1; 
+		if (modelA.get("LastFileDownloaded") < modelB.get("LastFileDownloaded")) return 1; 
 		if (modelA.get("LastUpdated") > modelB.get("LastUpdated")) return -1; 
 		if (modelA.get("LastUpdated") < modelB.get("LastUpdated")) return 1; 
 		return 0; // equal
+	},
+
+	withLoadedFeed: function (id, func) {
+
+		var feedInfo = this.findWhere({ Id: id });
+
+		feedInfo.withLoadedFeed(func);
 	}
 });
 
-},{"../models/feedInfo":40,"backbone":6}],34:[function(require,module,exports){
-var Backbone = require("backbone")
+},{"../models/feedInfo":42}],35:[function(require,module,exports){
+"use scripts";
+
 var Item = require('../models/item');
 
 module.exports = Backbone.Collection.extend({
@@ -22368,39 +22401,111 @@ module.exports = Backbone.Collection.extend({
 	}
 });
 
-},{"../models/item":41,"backbone":6}],35:[function(require,module,exports){
-require("../styles/feed.less")
+},{"../models/item":43}],36:[function(require,module,exports){
+"use strict";
+
+var Feed = require('../models/feed.js');
+var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategies.js');
+var FeedInfoCollection = require('../collections/feedInfo.js');
+var FeedListView = require('../views/feedList.js');
+var FeedView = require('../views/feed.js')
+var ItemCollection = require('../collections/items.js');
+
+module.exports = Marionette.Object.extend({
+
+	initialize: function (options) {
+
+		var self = this;
+
+		this.application = options.application;
+
+		if (this.feedArchiveStrategyNames === undefined) {
+			new FeedArchiveStrategyCollection().fetch({
+				success: function (collection, feedArchiveStrategyNames) {
+					self.feedArchiveStrategyNames = feedArchiveStrategyNames;
+				}
+			});
+		}
+	},
+
+	showFeed: function (id) {
+
+		var nonArchivedItems, self, view;
+		
+		self = this;
+
+		this._withLoadedFeed(id, function (feed) {
+
+			nonArchivedItems = new ItemCollection(feed.get("Channel").get("Items").filter(function (item) { return item.shouldDisplayByDefault(); }));
+			
+			view = new FeedView({ model: feed, collection: nonArchivedItems, feedArchiveStrategyNames: self.feedArchiveStrategyNames });
+			self._showMainView(view);
+			self._updateUrl("/showFeed/" + feed.id);
+		});
+	},
+
+	showFeedList: function () {
+
+		var self, view;
+
+		self = this;
+
+		this._withLoadedFeedList(function () {
+			
+			view = new FeedListView({ collection: self.feedList });
+			//this.listenTo(view, "all", function (eventName) { console.log(eventName) });
+			self.listenTo(view, "childview:show-feed", self._onShowFeed);
+
+			self._showMainView(view);
+			self._updateUrl("/showFeedList");
+		});
+	},
+
+	_onShowFeed: function (view, childViewTriggerArguments) {
+		this.showFeed(childViewTriggerArguments.model.get("Id"));		
+	},
+
+	_showMainView: function (view) {
+		this.application.layout.showChildView("Main", view);
+	},
+
+	_updateUrl: function (url) {
+		this.application.router.navigate(url);
+	},
+
+	_withLoadedFeed: function (id, func) {
+		this.feedList.withLoadedFeed(id, function (feed) { func(feed); });
+	},
+
+	_withLoadedFeedList: function (func) {
+		if (this.feedList === undefined) {
+
+			this.feedList = new FeedInfoCollection();
+			this.feedList.fetch({
+				reset: true,
+				success: func
+			});
+			this.application.FeedList = this.feedList;
+
+		} else {
+			func();
+		}
+	}
+});
+
+},{"../collections/feedArchiveStrategies.js":33,"../collections/feedInfo.js":34,"../collections/items.js":35,"../models/feed.js":40,"../views/feed.js":50,"../views/feedList.js":52}],37:[function(require,module,exports){
+require("../styles/PodcastHub.less")
 
 var $ = require("jquery");
-var Backbone = require("backbone");
-var Marionette = require("backbone.marionette");
 
-
-var AppLayoutView = require('./views/appLayout.js');
-var AppRouter = require('./routers/app.js');
+var App = require('./app.js');
 
 $(document).ready(function() {
-
-	podcasthub = new Marionette.Application();
-
-	podcasthub.on("before:start", function() {
-
-		podcasthub.layout = new AppLayoutView();
-	});
-
-	podcasthub.on("start", function() {
-		
-		podcasthub.router = new AppRouter({controller: this });
-
-		podcasthub.layout.render();
-
-		Backbone.history.start();
-	});
-
+	podcasthub = new App();
 	podcasthub.start();
 });
 
-},{"../styles/feed.less":52,"./routers/app.js":42,"./views/appLayout.js":43,"backbone":6,"backbone.marionette":1,"jquery":27}],36:[function(require,module,exports){
+},{"../styles/PodcastHub.less":54,"./app.js":31,"jquery":27}],38:[function(require,module,exports){
 var Backbone = require("backbone")
 var ItemCollection = require("../collections/items.js")
 
@@ -22418,15 +22523,16 @@ module.exports = Channel = Backbone.Model.extend({
 
 });
 
-},{"../collections/items.js":34,"backbone":6}],37:[function(require,module,exports){
+},{"../collections/items.js":35,"backbone":6}],39:[function(require,module,exports){
 var Backbone = require("backbone")
 
 module.exports = Backbone.Model.extend({
 
 });
 
-},{"backbone":6}],38:[function(require,module,exports){
-var Backbone = require("backbone")
+},{"backbone":6}],40:[function(require,module,exports){
+"use strict";
+
 var Channel = require("./channel.js")
 
 module.exports = Backbone.Model.extend({
@@ -22442,15 +22548,17 @@ module.exports = Backbone.Model.extend({
 
 });
 
-},{"./channel.js":36,"backbone":6}],39:[function(require,module,exports){
+},{"./channel.js":38}],41:[function(require,module,exports){
 var Backbone = require("backbone")
 module.exports = Backbone.Model.extend({
 
 });
 
-},{"backbone":6}],40:[function(require,module,exports){
-var Backbone = require("backbone")
+},{"backbone":6}],42:[function(require,module,exports){
+"use strict";
+
 var moment = require("moment")
+var Feed = require('../models/feed.js');
 
 module.exports = Backbone.Model.extend({
 
@@ -22461,6 +22569,9 @@ module.exports = Backbone.Model.extend({
 		var lastUpdated = moment(response.LastUpdated);
 		response.LastUpdated = lastUpdated._d;
 		response.LastUpdatedDisplay = lastUpdated.format("MMMM Do YYYY");
+		var lastFileDownloaded = moment(response.LastFileDownloaded);
+		response.LastFileDownloaded = lastFileDownloaded._d;
+		response.LastFileDownloadedDisplay = lastFileDownloaded.format("YYYY-MM-DD");
 		return response;
 	},
 
@@ -22468,11 +22579,32 @@ module.exports = Backbone.Model.extend({
 		
 		this.set("ArchivePath", feedModel.get("ArchivePath"));
                 this.set("ArchiveStrategy", feedModel.get("ArchiveStrategy"));
+	},
+
+	withLoadedFeed: function (func) {
+
+		var feed;
+		
+		if (!this.has("FeedModel")) {
+
+			feed = new Feed({ id: this.get("Id")});
+			this.set("FeedModel", feed);
+
+			feed.fetch({
+				reset: true,
+				success: function () { 
+					func(feed); 
+				}
+			});
+
+		} else {
+			func(this.get("FeedModel"));
+		}
 	}
 });
 
-},{"backbone":6,"moment":30}],41:[function(require,module,exports){
-var Backbone = require("backbone")
+},{"../models/feed.js":40,"moment":30}],43:[function(require,module,exports){
+"use scripts";
 
 module.exports = Backbone.Model.extend({
 
@@ -22487,6 +22619,7 @@ module.exports = Backbone.Model.extend({
 			this.unset("PubTime");
 			this.set("PubTime", pubTime._d);
 			this.set("PubDisplayDate", pubTime.format("dddd, MMMM Do YYYY"));
+
 		} else if (this.has("PubDate")) {
 
 			this.set("PubDisplayDate", this.get("PubDate"));
@@ -22518,7 +22651,7 @@ module.exports = Backbone.Model.extend({
 	}
 });
 
-},{"backbone":6}],42:[function(require,module,exports){
+},{}],44:[function(require,module,exports){
 var DownloadDirectoryCollection = require('../collections/downloadDirectories.js');
 var DownloadDirectoryListView = require('../views/downloadDirectoryList.js');
 var DownloadDirectoryView = require('../views/downloadDirectory.js');
@@ -22526,9 +22659,13 @@ var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategie
 var FeedListView = require('../views/feedList.js');
 var FeedView = require('../views/feed.js');
 var ItemCollection = require('../collections/items.js');
-var Marionette = require("backbone.marionette");
 
 module.exports = Marionette.AppRouter.extend({
+
+	appRoutes: {
+		"showFeed/:id" : "showFeed",
+		"showFeedList" : "showFeedList"
+	},
 
 	routes : {
 		"downloadDirectory/:directory" : "downloadDirectory",
@@ -22624,11 +22761,7 @@ module.exports = Marionette.AppRouter.extend({
 	}
 });
 
-},{"../collections/downloadDirectories.js":31,"../collections/feedArchiveStrategies.js":32,"../collections/items.js":34,"../views/downloadDirectory.js":44,"../views/downloadDirectoryList.js":47,"../views/feed.js":48,"../views/feedList.js":50,"backbone.marionette":1}],43:[function(require,module,exports){
-
-var Marionette = require("backbone.marionette");
-var FeedInfoCollection = require('../collections/feedInfo.js');
-var FeedListView = require('./feedList.js');
+},{"../collections/downloadDirectories.js":32,"../collections/feedArchiveStrategies.js":33,"../collections/items.js":35,"../views/downloadDirectory.js":46,"../views/downloadDirectoryList.js":49,"../views/feed.js":50,"../views/feedList.js":52}],45:[function(require,module,exports){
 var Template = require('../../templates/appLayout.handlebars');
 
 module.exports = Marionette.LayoutView.extend({
@@ -22641,22 +22774,10 @@ module.exports = Marionette.LayoutView.extend({
 		"Header" : "#header",
 		"Main" : "#main",
 		"Sidebar" : "#sidebar"
-	},
-
-	onRender: function() {
-		
-		podcasthub.FeedList = new FeedInfoCollection();
-		podcasthub.FeedList.fetch();
-
-		var view = new FeedListView({ collection: podcasthub.FeedList });
-
-		/* display the collection view in region 1 */
-		this.regions.Main.show(view);
 	}
-
 });
 
-},{"../../templates/appLayout.handlebars":53,"../collections/feedInfo.js":33,"./feedList.js":50,"backbone.marionette":1}],44:[function(require,module,exports){
+},{"../../templates/appLayout.handlebars":55}],46:[function(require,module,exports){
 var Marionette = require("backbone.marionette");
 var DownloadDirectoryItemChildView = require('../views/downloadDirectoryItemForList.js');
 var Template = require('../../templates/downloadDirectory.handlebars');
@@ -22667,7 +22788,7 @@ module.exports = Marionette.CollectionView.extend({
 	childViewContainer: "#directory-items"
 });
 
-},{"../../templates/downloadDirectory.handlebars":54,"../views/downloadDirectoryItemForList.js":46,"backbone.marionette":1}],45:[function(require,module,exports){
+},{"../../templates/downloadDirectory.handlebars":56,"../views/downloadDirectoryItemForList.js":48,"backbone.marionette":1}],47:[function(require,module,exports){
 var DownloadDirectoryView = require('./downloadDirectory.js')
 var Marionette = require("backbone.marionette");
 var ItemCollection = require('../collections/items.js')
@@ -22691,7 +22812,7 @@ module.exports = Marionette.ItemView.extend({
 	}
 });
 
-},{"../../templates/downloadDirectoryForList.handlebars":55,"../collections/items.js":34,"./downloadDirectory.js":44,"backbone.marionette":1}],46:[function(require,module,exports){
+},{"../../templates/downloadDirectoryForList.handlebars":57,"../collections/items.js":35,"./downloadDirectory.js":46,"backbone.marionette":1}],48:[function(require,module,exports){
 var Feed = require('../models/feed.js');
 var Marionette = require("backbone.marionette");
 var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategies.js');
@@ -22723,7 +22844,7 @@ module.exports = Marionette.ItemView.extend({
 	}
 });
 
-},{"../../templates/downloadDirectoryItemForList.handlebars":56,"../collections/feedArchiveStrategies.js":32,"../collections/items.js":34,"../models/feed.js":38,"./feed.js":48,"backbone.marionette":1}],47:[function(require,module,exports){
+},{"../../templates/downloadDirectoryItemForList.handlebars":58,"../collections/feedArchiveStrategies.js":33,"../collections/items.js":35,"../models/feed.js":40,"./feed.js":50,"backbone.marionette":1}],49:[function(require,module,exports){
 var DownloadDirectoryChildView = require('../views/downloadDirectoryForList.js');
 var Marionette = require("backbone.marionette");
 
@@ -22733,7 +22854,7 @@ module.exports = Marionette.CollectionView.extend({
 
 });
 
-},{"../views/downloadDirectoryForList.js":45,"backbone.marionette":1}],48:[function(require,module,exports){
+},{"../views/downloadDirectoryForList.js":47,"backbone.marionette":1}],50:[function(require,module,exports){
 var ItemView = require("./item.js")
 var Marionette = require("backbone.marionette");
 var Template = require('../../templates/feed.handlebars');
@@ -22835,9 +22956,8 @@ module.exports = Marionette.CompositeView.extend({
 	}
 });
 
-},{"../../templates/feed.handlebars":57,"./item.js":51,"backbone.marionette":1}],49:[function(require,module,exports){
+},{"../../templates/feed.handlebars":59,"./item.js":53,"backbone.marionette":1}],51:[function(require,module,exports){
 var Feed = require('../models/feed.js');
-var Marionette = require("backbone.marionette");
 var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategies.js');
 var ItemCollection = require('../collections/items.js');
 var FeedView = require('./feed.js')
@@ -22845,51 +22965,38 @@ var Template = require('../../templates/feedInfoForList.handlebars');
 
 module.exports = Marionette.ItemView.extend({
 	
-	tagName: "div",
-	className: "row feed-info",
+	tagName: "tr",
+	className: "feed-info",
 
 	template: Template,
 
-	events: {
-	},
-
-	goToFeed: function(domEvent) {
-
-		podcasthub.feed = new Feed({ id: this.model.get("Id")});
-
-		podcasthub.feed.fetch({
-			reset: true,
-			success: function (model, response, options) {
-
-				new FeedArchiveStrategyCollection().fetch({
-					success: function (collection, feedArchiveStrategyNames) {
-					
-						var nonArchivedItems = new ItemCollection(podcasthub.feed.get("Channel").get("Items").filter(function (item) { return item.shouldDisplayByDefault(); }));
-
-						var view = new FeedView({ model: podcasthub.feed, collection: nonArchivedItems, feedArchiveStrategyNames: feedArchiveStrategyNames });
-						view.render();
-					}
-				});
-
-			},
-			error: function (model, response, options) {
-
-			}
-		});
+	triggers: {
+		"click" : "show-feed"
 	}
 });
 
-},{"../../templates/feedInfoForList.handlebars":58,"../collections/feedArchiveStrategies.js":32,"../collections/items.js":34,"../models/feed.js":38,"./feed.js":48,"backbone.marionette":1}],50:[function(require,module,exports){
+},{"../../templates/feedInfoForList.handlebars":60,"../collections/feedArchiveStrategies.js":33,"../collections/items.js":35,"../models/feed.js":40,"./feed.js":50}],52:[function(require,module,exports){
+"use strict";
+
 var FeedInfoForList = require('../views/feedInfoForList.js');
-var Marionette = require("backbone.marionette");
+var Template = require("../../templates/feedList.handlebars");
 
-module.exports = Marionette.CollectionView.extend({
+module.exports = Marionette.CompositeView.extend({
+	childViewContainer: ".feeds",
+	childView: FeedInfoForList,
 	tagName: "div",
-	childView: FeedInfoForList
+	template: Template,
 
+	onDomRefresh: function () {
+	    $("#FeedList").DataTable({
+		"aoColumnDefs": [
+			{ 'bSortable': false, 'aTargets': [ 0 ] }
+	         ]
+	    });
+	}
 });
 
-},{"../views/feedInfoForList.js":49,"backbone.marionette":1}],51:[function(require,module,exports){
+},{"../../templates/feedList.handlebars":61,"../views/feedInfoForList.js":51}],53:[function(require,module,exports){
 var Template = require('../../templates/item.handlebars');
 var Marionette = require("backbone.marionette");
 
@@ -22918,17 +23025,17 @@ module.exports = Marionette.ItemView.extend({
 	}
 });
 
-},{"../../templates/item.handlebars":59,"backbone.marionette":1}],52:[function(require,module,exports){
+},{"../../templates/item.handlebars":62,"backbone.marionette":1}],54:[function(require,module,exports){
 var css = ".item,\n.feed-info {\n  border-left-color: #1b809e;\n  padding: 20px;\n  margin: 20px 0;\n  border: 1px solid #eee;\n  border-left-width: 5px;\n  border-radius: 3px;\n}\n.title {\n  clear: both;\n  display: block;\n  font-size: 1.2em;\n}\n.duration,\n.published {\n  font-size: .8em;\n}\n.item .archive {\n  margin-left: 1em;\n  padding: 0 .5em 0 .5em;\n}\n";(require('lessify'))(css); module.exports = css;
-},{"lessify":29}],53:[function(require,module,exports){
+},{"lessify":29}],55:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    return "\n<div id=\"header\">\n	<h1>PodcastHub</h1>\n	<a href=\"#feedList\" class=\"feedList\">Feed List</a>\n	<span>&nbsp;|&nbsp;</span>\n	<a href=\"#itemsByDownloadDirectory\" class=\"itemsByDownloadDirectory\">Items by download directory</a>\n</div>\n\n<div id=\"sidebar\"></div>\n\n<div id=\"main\"></div>\n\n";
+    return "\n<div id=\"header\">\n	<h1>PodcastHub <i class=\"fa fa-rss\" aria-hidden=\"true\"></i></h1>\n	<a href=\"#feedList\" class=\"feedList\">Feed List</a>\n	<span>&nbsp;|&nbsp;</span>\n	<a href=\"#itemsByDownloadDirectory\" class=\"itemsByDownloadDirectory\">Items by download directory</a>\n</div>\n\n<div id=\"sidebar\"></div>\n\n<div id=\"main\"></div>\n\n";
 },"useData":true});
-},{"handlebars/runtime":26}],54:[function(require,module,exports){
+},{"handlebars/runtime":26}],56:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     return "<ul>\n</ul>\n\n<div id=\"directory-items\"></div>\n";
 },"useData":true});
-},{"handlebars/runtime":26}],55:[function(require,module,exports){
+},{"handlebars/runtime":26}],57:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
@@ -22940,7 +23047,7 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
     + alias4(((helper = (helper = helpers.ItemCount || (depth0 != null ? depth0.ItemCount : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"ItemCount","hash":{},"data":data}) : helper)))
     + "</div>\n";
 },"useData":true});
-},{"handlebars/runtime":26}],56:[function(require,module,exports){
+},{"handlebars/runtime":26}],58:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"1":function(container,depth0,helpers,partials,data) {
     return "		<button class=\"archive btn btn-default pull-right\" type=\"submit\">Archive</button>\n";
 },"3":function(container,depth0,helpers,partials,data) {
@@ -22968,7 +23075,7 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
     + alias4(((helper = (helper = helpers.FeedId || (depth0 != null ? depth0.FeedId : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"FeedId","hash":{},"data":data}) : helper)))
     + "</p>\n</div>\n";
 },"useData":true});
-},{"handlebars/runtime":26}],57:[function(require,module,exports){
+},{"handlebars/runtime":26}],59:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"1":function(container,depth0,helpers,partials,data) {
     return "			<option>"
     + container.escapeExpression(container.lambda(depth0, depth0))
@@ -22988,23 +23095,23 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
     + alias1(((helper = (helper = helpers.ArchivePath || (depth0 != null ? depth0.ArchivePath : depth0)) != null ? helper : alias3),(typeof helper === alias4 ? helper.call(alias2,{"name":"ArchivePath","hash":{},"data":data}) : helper)))
     + "\" />\n	</div>\n	<div class=\"col-md-1\">\n		<button class=\"save btn btn-default pull-right\" type=\"submit\">Save</button>\n	</div>\n</div>\n\n<div id=\"feed-items\" class=\"row\">\n</div>\n";
 },"useData":true});
-},{"handlebars/runtime":26}],58:[function(require,module,exports){
+},{"handlebars/runtime":26}],60:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
-  return "<div class=\"col-md-5\"><b>Title:</b>&nbsp;<a href=\"#feed/"
-    + alias4(((helper = (helper = helpers.Id || (depth0 != null ? depth0.Id : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Id","hash":{},"data":data}) : helper)))
-    + "\">"
+  return "<td>"
     + alias4(((helper = (helper = helpers.Title || (depth0 != null ? depth0.Title : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Title","hash":{},"data":data}) : helper)))
-    + "</a></div>\n<div class=\"col-md-5\">\n	<p>"
+    + "</td>\n<td>"
     + alias4(((helper = (helper = helpers.Url || (depth0 != null ? depth0.Url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Url","hash":{},"data":data}) : helper)))
-    + "</p>\n	<p>"
-    + alias4(((helper = (helper = helpers.ArchiveStrategy || (depth0 != null ? depth0.ArchiveStrategy : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"ArchiveStrategy","hash":{},"data":data}) : helper)))
-    + "</p>\n</div>\n<div class=\"col-md-2\">"
-    + alias4(((helper = (helper = helpers.LastUpdatedDisplay || (depth0 != null ? depth0.LastUpdatedDisplay : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"LastUpdatedDisplay","hash":{},"data":data}) : helper)))
-    + "</div>\n";
+    + "</td>\n<td>"
+    + alias4(((helper = (helper = helpers.LastFileDownloadedDisplay || (depth0 != null ? depth0.LastFileDownloadedDisplay : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"LastFileDownloadedDisplay","hash":{},"data":data}) : helper)))
+    + "</td>\n";
 },"useData":true});
-},{"handlebars/runtime":26}],59:[function(require,module,exports){
+},{"handlebars/runtime":26}],61:[function(require,module,exports){
+var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<table id=\"FeedList\" class=\"display table table-striped table-bordered\" cellspacing=\"0\">\n\n	<thead>\n		<tr>\n			<th>Name</th>\n			<th>Url</th>\n			<th>Last File</th>\n		</tr>\n	</thead>\n	<tbody class=\"feeds\">\n\n	</tbody>\n</table>\n";
+},"useData":true});
+},{"handlebars/runtime":26}],62:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"1":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
@@ -23036,4 +23143,4 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
     + ((stack1 = helpers.each.call(alias1,(depth0 != null ? depth0.Enclosures : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\n</div>\n";
 },"useData":true});
-},{"handlebars/runtime":26}]},{},[35]);
+},{"handlebars/runtime":26}]},{},[37]);

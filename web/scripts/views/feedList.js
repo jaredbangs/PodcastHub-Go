@@ -1,8 +1,19 @@
+"use strict";
+
 var FeedInfoForList = require('../views/feedInfoForList.js');
-var Marionette = require("backbone.marionette");
+var Template = require("../../templates/feedList.handlebars");
 
-module.exports = Marionette.CollectionView.extend({
+module.exports = Marionette.CompositeView.extend({
+	childViewContainer: ".feeds",
+	childView: FeedInfoForList,
 	tagName: "div",
-	childView: FeedInfoForList
+	template: Template,
 
+	onDomRefresh: function () {
+	    $("#FeedList").DataTable({
+		"aoColumnDefs": [
+			{ 'bSortable': false, 'aTargets': [ 0 ] }
+	         ]
+	    });
+	}
 });

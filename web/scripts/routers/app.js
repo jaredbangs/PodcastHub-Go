@@ -5,9 +5,13 @@ var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategie
 var FeedListView = require('../views/feedList.js');
 var FeedView = require('../views/feed.js');
 var ItemCollection = require('../collections/items.js');
-var Marionette = require("backbone.marionette");
 
 module.exports = Marionette.AppRouter.extend({
+
+	appRoutes: {
+		"showFeed/:id" : "showFeed",
+		"showFeedList" : "showFeedList"
+	},
 
 	routes : {
 		"downloadDirectory/:directory" : "downloadDirectory",
