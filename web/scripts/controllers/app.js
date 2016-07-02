@@ -1,5 +1,8 @@
 "use strict";
 
+var DownloadDirectoryListView = require('../views/downloadDirectoryList.js');
+var DownloadDirectoryCollection = require('../collections/downloadDirectories.js');
+var DownloadDirectoryView = require('../views/downloadDirectory.js')
 var Feed = require('../models/feed.js');
 var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategies.js');
 var FeedInfoCollection = require('../collections/feedInfo.js');
@@ -22,6 +25,34 @@ module.exports = Marionette.Object.extend({
 				}
 			});
 		}
+	},
+
+	showDownloadDirectories: function () {
+
+		var self, view;
+
+		self = this;
+
+		this._withLoadedDownloadDirectories(function () {
+			
+			view = new DownloadDirectoryListView({ collection: self.downloadDirectories.getNonArchivedDirectories() });
+			//self.listenTo(view, "all", function (eventName) { console.log(eventName) });
+			self.listenTo(view, "childview:show-directory", self._onShowDirectory);
+
+			self._showMainView(view);
+			self._updateUrl("/showDownloadDirectories");
+		});
+	},
+
+	showDirectory: function (name) {
+
+		var self = this;
+
+		this._withLoadedFeedList(function () {
+			self._withLoadedDownloadDirectories(function () {
+				self._showDirectory(self.downloadDirectories.findWhere({ Name: name }));
+			});
+		});
 	},
 
 	showFeed: function (id) {
@@ -57,8 +88,26 @@ module.exports = Marionette.Object.extend({
 		});
 	},
 
+	_onShowDirectory: function (view, childViewTriggerArguments) {
+		this._showDirectory(childViewTriggerArguments.model);		
+	},
+
 	_onShowFeed: function (view, childViewTriggerArguments) {
 		this.showFeed(childViewTriggerArguments.model.get("Id"));		
+	},
+
+	_showDirectory: function (model) {
+
+		var self, view;
+		self = this;
+	
+		var view = new DownloadDirectoryView({ model: model, collection: new ItemCollection(model.get("Items").filter(function (item) { return item.shouldDisplayByDefault(); })) });
+		self.listenTo(view, "refresh:download:directories", function () {
+			self.downloadDirectories = undefined;
+			self.showDownloadDirectories();
+		});
+		self._showMainView(view);
+		self._updateUrl("/showDirectory/" + model.get("UrlName"));
 	},
 
 	_showMainView: function (view) {
@@ -69,8 +118,29 @@ module.exports = Marionette.Object.extend({
 		this.application.router.navigate(url);
 	},
 
+	_withLoadedDownloadDirectories: function (func) {
+
+		if (this.downloadDirectories === undefined) {
+
+			this.downloadDirectories = new DownloadDirectoryCollection();
+			this.downloadDirectories.fetch({
+				reset: true,
+				success: func
+			});
+			this.application.DownloadDirectories = this.downloadDirectories;
+
+		} else {
+			func();
+		}
+	},
+
 	_withLoadedFeed: function (id, func) {
-		this.feedList.withLoadedFeed(id, function (feed) { func(feed); });
+		
+		var self = this;
+
+		this._withLoadedFeedList(function () {
+			self.feedList.withLoadedFeed(id, function (feed) { func(feed); });
+		});
 	},
 
 	_withLoadedFeedList: function (func) {

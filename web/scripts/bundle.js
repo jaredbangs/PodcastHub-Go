@@ -22320,10 +22320,14 @@ var Backbone = require("backbone")
 var DownloadDirectory = require("../models/downloadDirectory.js");
 var ItemCollection = require("../collections/items.js");
 
-module.exports = Backbone.Collection.extend({
+DownloadDirectories = Backbone.Collection.extend({
 	model:  DownloadDirectory,
 
 	url: "/itemsByDownloadDirectory",
+
+	getNonArchivedDirectories: function () {
+		return new DownloadDirectories(this.filter(function (dir) { return dir.get("ItemCount") > 0; }));
+	},
 
 	parse: function(response) {
 
@@ -22347,6 +22351,8 @@ module.exports = Backbone.Collection.extend({
       	}
 
 });
+
+module.exports = DownloadDirectories;
 
 },{"../collections/items.js":35,"../models/downloadDirectory.js":39,"backbone":6}],33:[function(require,module,exports){
 var Backbone = require("backbone")
@@ -22404,6 +22410,9 @@ module.exports = Backbone.Collection.extend({
 },{"../models/item":43}],36:[function(require,module,exports){
 "use strict";
 
+var DownloadDirectoryListView = require('../views/downloadDirectoryList.js');
+var DownloadDirectoryCollection = require('../collections/downloadDirectories.js');
+var DownloadDirectoryView = require('../views/downloadDirectory.js')
 var Feed = require('../models/feed.js');
 var FeedArchiveStrategyCollection = require('../collections/feedArchiveStrategies.js');
 var FeedInfoCollection = require('../collections/feedInfo.js');
@@ -22426,6 +22435,34 @@ module.exports = Marionette.Object.extend({
 				}
 			});
 		}
+	},
+
+	showDownloadDirectories: function () {
+
+		var self, view;
+
+		self = this;
+
+		this._withLoadedDownloadDirectories(function () {
+			
+			view = new DownloadDirectoryListView({ collection: self.downloadDirectories.getNonArchivedDirectories() });
+			//self.listenTo(view, "all", function (eventName) { console.log(eventName) });
+			self.listenTo(view, "childview:show-directory", self._onShowDirectory);
+
+			self._showMainView(view);
+			self._updateUrl("/showDownloadDirectories");
+		});
+	},
+
+	showDirectory: function (name) {
+
+		var self = this;
+
+		this._withLoadedFeedList(function () {
+			self._withLoadedDownloadDirectories(function () {
+				self._showDirectory(self.downloadDirectories.findWhere({ Name: name }));
+			});
+		});
 	},
 
 	showFeed: function (id) {
@@ -22461,8 +22498,26 @@ module.exports = Marionette.Object.extend({
 		});
 	},
 
+	_onShowDirectory: function (view, childViewTriggerArguments) {
+		this._showDirectory(childViewTriggerArguments.model);		
+	},
+
 	_onShowFeed: function (view, childViewTriggerArguments) {
 		this.showFeed(childViewTriggerArguments.model.get("Id"));		
+	},
+
+	_showDirectory: function (model) {
+
+		var self, view;
+		self = this;
+	
+		var view = new DownloadDirectoryView({ model: model, collection: new ItemCollection(model.get("Items").filter(function (item) { return item.shouldDisplayByDefault(); })) });
+		self.listenTo(view, "refresh:download:directories", function () {
+			self.downloadDirectories = undefined;
+			self.showDownloadDirectories();
+		});
+		self._showMainView(view);
+		self._updateUrl("/showDirectory/" + model.get("UrlName"));
 	},
 
 	_showMainView: function (view) {
@@ -22473,8 +22528,29 @@ module.exports = Marionette.Object.extend({
 		this.application.router.navigate(url);
 	},
 
+	_withLoadedDownloadDirectories: function (func) {
+
+		if (this.downloadDirectories === undefined) {
+
+			this.downloadDirectories = new DownloadDirectoryCollection();
+			this.downloadDirectories.fetch({
+				reset: true,
+				success: func
+			});
+			this.application.DownloadDirectories = this.downloadDirectories;
+
+		} else {
+			func();
+		}
+	},
+
 	_withLoadedFeed: function (id, func) {
-		this.feedList.withLoadedFeed(id, function (feed) { func(feed); });
+		
+		var self = this;
+
+		this._withLoadedFeedList(function () {
+			self.feedList.withLoadedFeed(id, function (feed) { func(feed); });
+		});
 	},
 
 	_withLoadedFeedList: function (func) {
@@ -22493,7 +22569,7 @@ module.exports = Marionette.Object.extend({
 	}
 });
 
-},{"../collections/feedArchiveStrategies.js":33,"../collections/feedInfo.js":34,"../collections/items.js":35,"../models/feed.js":40,"../views/feed.js":50,"../views/feedList.js":52}],37:[function(require,module,exports){
+},{"../collections/downloadDirectories.js":32,"../collections/feedArchiveStrategies.js":33,"../collections/feedInfo.js":34,"../collections/items.js":35,"../models/feed.js":40,"../views/downloadDirectory.js":46,"../views/downloadDirectoryList.js":49,"../views/feed.js":50,"../views/feedList.js":52}],37:[function(require,module,exports){
 require("../styles/PodcastHub.less")
 
 var $ = require("jquery");
@@ -22528,6 +22604,9 @@ var Backbone = require("backbone")
 
 module.exports = Backbone.Model.extend({
 
+	initialize: function () {
+
+	}
 });
 
 },{"backbone":6}],40:[function(require,module,exports){
@@ -22639,7 +22718,6 @@ module.exports = Backbone.Model.extend({
 			}
 		} else {
 			console.log("Item has no FeedId");
-			console.log(JSON.stringify(this));
 		}
 	},
 
@@ -22647,7 +22725,7 @@ module.exports = Backbone.Model.extend({
 
 		var enclosures = this.get("Enclosures");
 
-		return !this.get("Archived") && _.some(enclosures, function (enclosure) { return enclosure.DownloadedFilePath !== "" });
+		return this.has("FeedId") && this.get("FeedId") !== "" && !this.get("Archived") && _.some(enclosures, function (enclosure) { return enclosure.DownloadedFilePath !== "" });
 	}
 });
 
@@ -22663,6 +22741,8 @@ var ItemCollection = require('../collections/items.js');
 module.exports = Marionette.AppRouter.extend({
 
 	appRoutes: {
+		"showDownloadDirectories" : "showDownloadDirectories",
+		"showDirectory/:urlName" : "showDirectory",
 		"showFeed/:id" : "showFeed",
 		"showFeedList" : "showFeedList"
 	},
@@ -22782,10 +22862,37 @@ var Marionette = require("backbone.marionette");
 var DownloadDirectoryItemChildView = require('../views/downloadDirectoryItemForList.js');
 var Template = require('../../templates/downloadDirectory.handlebars');
 
-module.exports = Marionette.CollectionView.extend({
-	Template: Template,
+module.exports = Marionette.CompositeView.extend({
 	childView: DownloadDirectoryItemChildView,
-	childViewContainer: "#directory-items"
+	childViewContainer: "#directory-items",
+	template: Template,
+
+	events: {
+		"click .archive-all": "archiveAll"
+	},
+	
+        archiveAll: function(domEvent) {
+
+                var saveRequests, self;
+		
+		self = this;
+
+		saveRequests = [];
+
+		self.collection.each(function (model) {
+		
+			saveRequests.push(model.save({IsToBeArchived: true}, {
+				success: function() {
+
+					self.$("#" + model.cid).remove();
+				}
+			}));
+		});
+
+		$.when.apply($, saveRequests).done(function () {
+			self.triggerMethod("refresh:download:directories");
+		});
+	}
 });
 
 },{"../../templates/downloadDirectory.handlebars":56,"../views/downloadDirectoryItemForList.js":48,"backbone.marionette":1}],47:[function(require,module,exports){
@@ -22800,15 +22907,9 @@ module.exports = Marionette.ItemView.extend({
 	className: "row feed-info",
 
 	template: Template,
-/*
-	events: {
-		'click': 'goToDownloadDirectory'
-	},
-*/
-	goToDownloadDirectory: function(domEvent) {
 
-		var view = new DownloadDirectoryView({ model: this.model, collection: new ItemCollection(this.model.get("Items").filter(function (item) { return item.shouldDisplayByDefault(); })) });
-		this._parent._parent._parent._parent.RegionOne.show(view);
+	triggers: {
+		"click": "show-directory"
 	}
 });
 
@@ -22841,6 +22942,10 @@ module.exports = Marionette.ItemView.extend({
                                 self.remove();
                         }
                  });
+	},
+
+	id: function() {
+		return this.model.cid;
 	}
 });
 
@@ -23029,17 +23134,17 @@ module.exports = Marionette.ItemView.extend({
 var css = ".item,\n.feed-info {\n  border-left-color: #1b809e;\n  padding: 20px;\n  margin: 20px 0;\n  border: 1px solid #eee;\n  border-left-width: 5px;\n  border-radius: 3px;\n}\n.title {\n  clear: both;\n  display: block;\n  font-size: 1.2em;\n}\n.duration,\n.published {\n  font-size: .8em;\n}\n.item .archive {\n  margin-left: 1em;\n  padding: 0 .5em 0 .5em;\n}\n";(require('lessify'))(css); module.exports = css;
 },{"lessify":29}],55:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    return "\n<div id=\"header\">\n	<h1>PodcastHub <i class=\"fa fa-rss\" aria-hidden=\"true\"></i></h1>\n	<a href=\"#feedList\" class=\"feedList\">Feed List</a>\n	<span>&nbsp;|&nbsp;</span>\n	<a href=\"#itemsByDownloadDirectory\" class=\"itemsByDownloadDirectory\">Items by download directory</a>\n</div>\n\n<div id=\"sidebar\"></div>\n\n<div id=\"main\"></div>\n\n";
+    return "\n<div id=\"header\" class=\"row\">\n	<div class=\"col-md-9\">\n		<h1>PodcastHub <i class=\"fa fa-rss\" aria-hidden=\"true\"></i></h1>\n	</div>\n	<div class=\"col-md-3\">\n		<a href=\"#showFeedList\">Feed List</a>\n		<span>&nbsp;|&nbsp;</span>\n		<a href=\"#showDownloadDirectories\">Items by download directory</a>\n	</div>\n</div>\n\n<div class=\"row\">\n	<div id=\"sidebar\"></div>\n	<div id=\"main\"></div>\n</div>\n\n";
 },"useData":true});
 },{"handlebars/runtime":26}],56:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    return "<ul>\n</ul>\n\n<div id=\"directory-items\"></div>\n";
+    return "<button type=\"submit\" class=\"archive-all btn btn-default pull-right\">Archive All</button>\n<div id=\"directory-items\"></div>\n";
 },"useData":true});
 },{"handlebars/runtime":26}],57:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
-  return "<div class=\"col-md-10\"><b>Name:</b> <a href=\"#downloadDirectory/"
+  return "<div class=\"col-md-10\"><a href=\"#showDirectory/"
     + alias4(((helper = (helper = helpers.UrlName || (depth0 != null ? depth0.UrlName : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"UrlName","hash":{},"data":data}) : helper)))
     + "\">"
     + alias4(((helper = (helper = helpers.Name || (depth0 != null ? depth0.Name : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Name","hash":{},"data":data}) : helper)))
@@ -23049,7 +23154,7 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
 },"useData":true});
 },{"handlebars/runtime":26}],58:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"1":function(container,depth0,helpers,partials,data) {
-    return "		<button class=\"archive btn btn-default pull-right\" type=\"submit\">Archive</button>\n";
+    return "		<button class=\"archive btn btn-default\" type=\"submit\">Archive</button>\n";
 },"3":function(container,depth0,helpers,partials,data) {
     var helper;
 
@@ -23059,17 +23164,17 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
-  return "<div class=\"col-md-4\">\n	<p class=\"feed-name\"><a href=\"#feed/"
+  return "<div class=\"col-md-1\">\n"
+    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.HasArchiveStrategy : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "</div>\n<div class=\"col-md-4\">\n	<p class=\"feed-name\"><a href=\"#showFeed/"
     + alias4(((helper = (helper = helpers.FeedId || (depth0 != null ? depth0.FeedId : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"FeedId","hash":{},"data":data}) : helper)))
-    + "\">"
+    + "\"><i class=\"fa fa-rss-square\" aria-hidden=\"true\"></i> "
     + alias4(((helper = (helper = helpers.FeedName || (depth0 != null ? depth0.FeedName : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"FeedName","hash":{},"data":data}) : helper)))
     + "</a></p>\n	<p>"
     + alias4(((helper = (helper = helpers.Title || (depth0 != null ? depth0.Title : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Title","hash":{},"data":data}) : helper)))
     + "</p>\n	<p>"
     + alias4(((helper = (helper = helpers.PubDate || (depth0 != null ? depth0.PubDate : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"PubDate","hash":{},"data":data}) : helper)))
-    + "</p>\n"
-    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.HasArchiveStrategy : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n</div>\n<div class=\"col-md-8\">\n"
+    + "</p>\n</div>\n<div class=\"col-md-7\">\n"
     + ((stack1 = helpers.each.call(alias1,(depth0 != null ? depth0.Enclosures : depth0),{"name":"each","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "	<p>"
     + alias4(((helper = (helper = helpers.FeedId || (depth0 != null ? depth0.FeedId : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"FeedId","hash":{},"data":data}) : helper)))

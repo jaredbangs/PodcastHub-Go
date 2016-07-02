@@ -1,13 +1,14 @@
+<div class="col-md-1">
+	{{#if HasArchiveStrategy}}
+		<button class="archive btn btn-default" type="submit">Archive</button>
+	{{/if}}
+</div>
 <div class="col-md-4">
-	<p class="feed-name"><a href="#feed/{{FeedId}}">{{FeedName}}</a></p>
+	<p class="feed-name"><a href="#showFeed/{{FeedId}}"><i class="fa fa-rss-square" aria-hidden="true"></i> {{FeedName}}</a></p>
 	<p>{{Title}}</p>
 	<p>{{PubDate}}</p>
-	{{#if HasArchiveStrategy}}
-		<button class="archive btn btn-default pull-right" type="submit">Archive</button>
-	{{/if}}
-
 </div>
-<div class="col-md-8">
+<div class="col-md-7">
 	{{#each Enclosures}}
 		<p>{{DownloadedFilePath}}</p>
 	{{/each}}

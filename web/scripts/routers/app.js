@@ -9,6 +9,8 @@ var ItemCollection = require('../collections/items.js');
 module.exports = Marionette.AppRouter.extend({
 
 	appRoutes: {
+		"showDownloadDirectories" : "showDownloadDirectories",
+		"showDirectory/:urlName" : "showDirectory",
 		"showFeed/:id" : "showFeed",
 		"showFeedList" : "showFeedList"
 	},

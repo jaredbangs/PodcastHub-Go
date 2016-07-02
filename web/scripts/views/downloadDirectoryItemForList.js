@@ -26,5 +26,9 @@ module.exports = Marionette.ItemView.extend({
                                 self.remove();
                         }
                  });
+	},
+
+	id: function() {
+		return this.model.cid;
 	}
 });

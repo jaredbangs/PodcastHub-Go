@@ -2,10 +2,14 @@ var Backbone = require("backbone")
 var DownloadDirectory = require("../models/downloadDirectory.js");
 var ItemCollection = require("../collections/items.js");
 
-module.exports = Backbone.Collection.extend({
+DownloadDirectories = Backbone.Collection.extend({
 	model:  DownloadDirectory,
 
 	url: "/itemsByDownloadDirectory",
+
+	getNonArchivedDirectories: function () {
+		return new DownloadDirectories(this.filter(function (dir) { return dir.get("ItemCount") > 0; }));
+	},
 
 	parse: function(response) {
 
@@ -29,3 +33,5 @@ module.exports = Backbone.Collection.extend({
       	}
 
 });
+
+module.exports = DownloadDirectories;

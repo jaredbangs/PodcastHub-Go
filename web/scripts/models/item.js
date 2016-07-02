@@ -33,7 +33,6 @@ module.exports = Backbone.Model.extend({
 			}
 		} else {
 			console.log("Item has no FeedId");
-			console.log(JSON.stringify(this));
 		}
 	},
 
@@ -41,6 +40,6 @@ module.exports = Backbone.Model.extend({
 
 		var enclosures = this.get("Enclosures");
 
-		return !this.get("Archived") && _.some(enclosures, function (enclosure) { return enclosure.DownloadedFilePath !== "" });
+		return this.has("FeedId") && this.get("FeedId") !== "" && !this.get("Archived") && _.some(enclosures, function (enclosure) { return enclosure.DownloadedFilePath !== "" });
 	}
 });
