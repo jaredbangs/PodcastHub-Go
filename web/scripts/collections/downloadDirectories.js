@@ -8,7 +8,13 @@ DownloadDirectories = Backbone.Collection.extend({
 	url: "/itemsByDownloadDirectory",
 
 	getNonArchivedDirectories: function () {
-		return new DownloadDirectories(this.filter(function (dir) { return dir.get("ItemCount") > 0; }));
+		var collection = new DownloadDirectories(this.filter(function (dir) { return dir.get("ItemCount") > 0; }));
+
+		collection.each(function(model, index) {
+			model.set("Index", index);
+		});
+
+		return collection;
 	},
 
 	parse: function(response) {

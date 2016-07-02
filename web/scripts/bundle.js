@@ -22326,7 +22326,13 @@ DownloadDirectories = Backbone.Collection.extend({
 	url: "/itemsByDownloadDirectory",
 
 	getNonArchivedDirectories: function () {
-		return new DownloadDirectories(this.filter(function (dir) { return dir.get("ItemCount") > 0; }));
+		var collection = new DownloadDirectories(this.filter(function (dir) { return dir.get("ItemCount") > 0; }));
+
+		collection.each(function(model, index) {
+			model.set("Index", index);
+		});
+
+		return collection;
 	},
 
 	parse: function(response) {
@@ -22506,16 +22512,29 @@ module.exports = Marionette.Object.extend({
 		this.showFeed(childViewTriggerArguments.model.get("Id"));		
 	},
 
+	_pageBack: function (childViewTriggerArguments) {
+		this._showDirectory(this.downloadDirectories.findWhere({Index: childViewTriggerArguments.model.get("Index") - 1}));		
+	},
+		
+	_pageForward: function (childViewTriggerArguments) {
+		this._showDirectory(this.downloadDirectories.findWhere({Index: childViewTriggerArguments.model.get("Index") + 1}));		
+	},
+		
+	_refreshDownloadDirectories: function () {
+		this.downloadDirectories = undefined;
+		this.showDownloadDirectories();
+	},
+
 	_showDirectory: function (model) {
 
 		var self, view;
 		self = this;
 	
 		var view = new DownloadDirectoryView({ model: model, collection: new ItemCollection(model.get("Items").filter(function (item) { return item.shouldDisplayByDefault(); })) });
-		self.listenTo(view, "refresh:download:directories", function () {
-			self.downloadDirectories = undefined;
-			self.showDownloadDirectories();
-		});
+		//self.listenTo(view, "all", function (eventName) { console.log(eventName) });
+		self.listenTo(view, "refresh:download:directories", self._refreshDownloadDirectories); 
+		self.listenTo(view, "page:back", self._pageBack); 
+		self.listenTo(view, "page:forward", self._pageForward); 
 		self._showMainView(view);
 		self._updateUrl("/showDirectory/" + model.get("UrlName"));
 	},
@@ -22870,7 +22889,12 @@ module.exports = Marionette.CompositeView.extend({
 	events: {
 		"click .archive-all": "archiveAll"
 	},
-	
+
+	triggers: {
+		"click .page-back": "page:back",
+		"click .page-forward": "page:forward"
+	},
+
         archiveAll: function(domEvent) {
 
                 var saveRequests, self;
@@ -23138,7 +23162,7 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
 },"useData":true});
 },{"handlebars/runtime":26}],56:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    return "<button type=\"submit\" class=\"archive-all btn btn-default pull-right\">Archive All</button>\n<div id=\"directory-items\"></div>\n";
+    return "<div class=\"row nav\">\n	<div class=\"col-md-4\">\n		<button type=\"submit\" class=\"page-back btn btn-default\">Previous</button>\n	</div>\n	<div class=\"col-md-4\">\n		<button type=\"submit\" class=\"archive-all btn btn-default\">Archive All</button>\n	</div>\n	<div class=\"col-md-4\">\n		<button type=\"submit\" class=\"page-forward btn btn-default\">Next</button>\n	</div>\n</div>\n<div id=\"directory-items\"></div>\n";
 },"useData":true});
 },{"handlebars/runtime":26}],57:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {

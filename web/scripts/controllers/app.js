@@ -96,16 +96,29 @@ module.exports = Marionette.Object.extend({
 		this.showFeed(childViewTriggerArguments.model.get("Id"));		
 	},
 
+	_pageBack: function (childViewTriggerArguments) {
+		this._showDirectory(this.downloadDirectories.findWhere({Index: childViewTriggerArguments.model.get("Index") - 1}));		
+	},
+		
+	_pageForward: function (childViewTriggerArguments) {
+		this._showDirectory(this.downloadDirectories.findWhere({Index: childViewTriggerArguments.model.get("Index") + 1}));		
+	},
+		
+	_refreshDownloadDirectories: function () {
+		this.downloadDirectories = undefined;
+		this.showDownloadDirectories();
+	},
+
 	_showDirectory: function (model) {
 
 		var self, view;
 		self = this;
 	
 		var view = new DownloadDirectoryView({ model: model, collection: new ItemCollection(model.get("Items").filter(function (item) { return item.shouldDisplayByDefault(); })) });
-		self.listenTo(view, "refresh:download:directories", function () {
-			self.downloadDirectories = undefined;
-			self.showDownloadDirectories();
-		});
+		//self.listenTo(view, "all", function (eventName) { console.log(eventName) });
+		self.listenTo(view, "refresh:download:directories", self._refreshDownloadDirectories); 
+		self.listenTo(view, "page:back", self._pageBack); 
+		self.listenTo(view, "page:forward", self._pageForward); 
 		self._showMainView(view);
 		self._updateUrl("/showDirectory/" + model.get("UrlName"));
 	},

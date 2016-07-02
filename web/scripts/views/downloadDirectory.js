@@ -10,7 +10,12 @@ module.exports = Marionette.CompositeView.extend({
 	events: {
 		"click .archive-all": "archiveAll"
 	},
-	
+
+	triggers: {
+		"click .page-back": "page:back",
+		"click .page-forward": "page:forward"
+	},
+
         archiveAll: function(domEvent) {
 
                 var saveRequests, self;
