@@ -22,6 +22,7 @@ module.exports = Backbone.Model.extend({
 		
 		this.set("ArchivePath", feedModel.get("ArchivePath"));
                 this.set("ArchiveStrategy", feedModel.get("ArchiveStrategy"));
+                this.set("ForceAllLinksParser", feedModel.get("ForceAllLinksParser"));
 	},
 
 	withLoadedFeed: function (func) {

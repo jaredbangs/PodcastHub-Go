@@ -10,6 +10,7 @@ type Feed struct {
 	ArchiveStrategy        string
 	Channel                Channel `xml:"channel"`
 	FeedUrl                string
+	ForceAllLinksParser    bool
 	Id                     string
 	LastFileDownloadedTime time.Time
 	LastUpdated            time.Time

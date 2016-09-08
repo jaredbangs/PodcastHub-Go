@@ -37,7 +37,13 @@ func (show *ShowDatabase) initializeRepo() {
 
 func (show *ShowDatabase) showFeedContent(feed *parsing.Feed) {
 
-	log.Println(feed.Channel.Title + "\t" + feed.Id + "\t" + feed.FeedUrl + "\t" + feed.LastUpdated.String())
+	log.Println(feed.Channel.Title + "\t" + feed.FeedUrl)
+	log.Println(feed.Id + "\t" + feed.LastUpdated.String())
+	log.Println("ArchivePath\t" + feed.ArchivePath)
+	log.Println("ArchiveStrategy\t" + feed.ArchiveStrategy)
+	if feed.ForceAllLinksParser {
+		log.Println("ForceAllLinksParser\ttrue")
+	}
 	log.Println("Subtitle:\t" + feed.Channel.Subtitle)
 	log.Println("LastBuildDate:\t" + feed.Channel.LastBuildTime.String())
 	log.Println("Summary:\t" + feed.Channel.Summary)

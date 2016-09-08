@@ -23,6 +23,14 @@ func main() {
 		case "clone":
 			d := repositories.NewFeedRepository(config)
 			d.Clone()
+		case "delete":
+			d := &actions.Delete{Config: config}
+
+			if len(argsWithoutProg) > 1 {
+				d.DeleteFeed(argsWithoutProg[1], true)
+			} else {
+				fmt.Println("Usage: podcasthub delete feedUrl")
+			}
 		case "download":
 			d := actions.NewDownload(config)
 			defer d.Close()
@@ -95,7 +103,7 @@ func main() {
 			u := &actions.Update{Config: config}
 
 			if len(argsWithoutProg) > 1 {
-				u.UpdateFeed(argsWithoutProg[1])
+				u.UpdateFeed(argsWithoutProg[1], true)
 			} else {
 				u.Update()
 			}

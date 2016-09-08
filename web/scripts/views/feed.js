@@ -7,6 +7,7 @@ module.exports = Marionette.CompositeView.extend({
 	events: {
 		"change .archive-path": "changeArchivePath",
 		"change .archive-strategy": "changeArchiveStrategy",
+		"change .force-all-links-parser": "changeForceAllLinksParser",
 		"click .archive-selected": "archiveSelected",
 		"click .save": "save",
 		"click .select-all": "selectAll"
@@ -69,6 +70,13 @@ module.exports = Marionette.CompositeView.extend({
 
 	changeArchiveStrategy: function(e) {
 		this.model.set("ArchiveStrategy", $(e.currentTarget).val());
+	},
+	
+	changeForceAllLinksParser: function(e) {
+
+		var val = $(e.currentTarget).val();
+		
+		this.model.set("ForceAllLinksParser", val === 1 || val === "true");
 	},
 
 	save: function() {

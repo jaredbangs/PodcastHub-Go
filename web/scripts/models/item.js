@@ -40,6 +40,7 @@ module.exports = Backbone.Model.extend({
 
 		var enclosures = this.get("Enclosures");
 
-		return this.has("FeedId") && this.get("FeedId") !== "" && !this.get("Archived") && _.some(enclosures, function (enclosure) { return enclosure.DownloadedFilePath !== "" });
+		//return this.has("FeedId") && this.get("FeedId") !== "" && !this.get("Archived") && _.some(enclosures, function (enclosure) { return enclosure.DownloadedFilePath !== "" });
+		return this.has("FeedId") && this.get("FeedId") !== "" && !this.get("Archived");
 	}
 });

@@ -64,6 +64,28 @@ func (r *FeedRepository) Clone() {
 	})
 }
 
+func (r *FeedRepository) DeleteById(id string) (err error) {
+
+	err = r.feedsByIdBoltRepo.Delete(r.feedsByIdBucketName, id)
+
+	return err
+}
+
+func (r *FeedRepository) DeleteByUrl(url string) (err error) {
+
+	id, err := r.idsByUrlBoltRepo.Read(r.idsByUrlBucketName, url)
+
+	if id == nil {
+		err = fmt.Errorf("url %q not found", url)
+	} else {
+		err = r.DeleteById(id.(string))
+		if err == nil {
+			err = r.idsByUrlBoltRepo.Delete(r.idsByUrlBucketName, url)
+		}
+	}
+	return err
+}
+
 func (r *FeedRepository) ForEach(action func(parsing.Feed)) {
 
 	r.feedsByIdBoltRepo.ForEach(r.feedsByIdBucketName, func(key string, val interface{}) {

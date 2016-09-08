@@ -22677,6 +22677,7 @@ module.exports = Backbone.Model.extend({
 		
 		this.set("ArchivePath", feedModel.get("ArchivePath"));
                 this.set("ArchiveStrategy", feedModel.get("ArchiveStrategy"));
+                this.set("ForceAllLinksParser", feedModel.get("ForceAllLinksParser"));
 	},
 
 	withLoadedFeed: function (func) {
@@ -22744,7 +22745,8 @@ module.exports = Backbone.Model.extend({
 
 		var enclosures = this.get("Enclosures");
 
-		return this.has("FeedId") && this.get("FeedId") !== "" && !this.get("Archived") && _.some(enclosures, function (enclosure) { return enclosure.DownloadedFilePath !== "" });
+		//return this.has("FeedId") && this.get("FeedId") !== "" && !this.get("Archived") && _.some(enclosures, function (enclosure) { return enclosure.DownloadedFilePath !== "" });
+		return this.has("FeedId") && this.get("FeedId") !== "" && !this.get("Archived");
 	}
 });
 
@@ -22993,6 +22995,7 @@ module.exports = Marionette.CompositeView.extend({
 	events: {
 		"change .archive-path": "changeArchivePath",
 		"change .archive-strategy": "changeArchiveStrategy",
+		"change .force-all-links-parser": "changeForceAllLinksParser",
 		"click .archive-selected": "archiveSelected",
 		"click .save": "save",
 		"click .select-all": "selectAll"
@@ -23055,6 +23058,13 @@ module.exports = Marionette.CompositeView.extend({
 
 	changeArchiveStrategy: function(e) {
 		this.model.set("ArchiveStrategy", $(e.currentTarget).val());
+	},
+	
+	changeForceAllLinksParser: function(e) {
+
+		var val = $(e.currentTarget).val();
+		
+		this.model.set("ForceAllLinksParser", val === 1 || val === "true");
 	},
 
 	save: function() {
@@ -23216,7 +23226,9 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
     + alias1(container.lambda(((stack1 = ((stack1 = (depth0 != null ? depth0.Channel : depth0)) != null ? stack1.attributes : stack1)) != null ? stack1.Title : stack1), depth0))
     + "</h1></div>\n</div>\n<div class=\"row\">\n	<div class=\"col-md-5\">\n		<p>"
     + alias1(((helper = (helper = helpers.FeedUrl || (depth0 != null ? depth0.FeedUrl : depth0)) != null ? helper : alias3),(typeof helper === alias4 ? helper.call(alias2,{"name":"FeedUrl","hash":{},"data":data}) : helper)))
-    + "</p>\n		<button class=\"select-all btn btn-default\">Select All</button>\n		<button class=\"archive-selected btn btn-default\">Archive Selected</button>\n	</div>\n	<div class=\"col-md-3\">\n		<label for=\"archive-strategy\">Archive Strategy:</label>\n		<select class=\"archive-strategy\" name=\"archive-strategy\">\n			<option selected=\"selected\">"
+    + "</p>\n		<button class=\"select-all btn btn-default\">Select All</button>\n		<button class=\"archive-selected btn btn-default\">Archive Selected</button>\n		<label for=\"force-all-links-parser\">Force All Links Parser:</label>\n		<input class=\"force-all-links-parser\" type=\"text\" value=\""
+    + alias1(((helper = (helper = helpers.ForceAllLinksParser || (depth0 != null ? depth0.ForceAllLinksParser : depth0)) != null ? helper : alias3),(typeof helper === alias4 ? helper.call(alias2,{"name":"ForceAllLinksParser","hash":{},"data":data}) : helper)))
+    + "\" />\n	</div>\n	<div class=\"col-md-3\">\n		<label for=\"archive-strategy\">Archive Strategy:</label>\n		<select class=\"archive-strategy\" name=\"archive-strategy\">\n			<option selected=\"selected\">"
     + alias1(((helper = (helper = helpers.ArchiveStrategy || (depth0 != null ? depth0.ArchiveStrategy : depth0)) != null ? helper : alias3),(typeof helper === alias4 ? helper.call(alias2,{"name":"ArchiveStrategy","hash":{},"data":data}) : helper)))
     + "</option>\n"
     + ((stack1 = helpers.each.call(alias2,(depth0 != null ? depth0.feedArchiveStrategyNames : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
@@ -23245,6 +23257,8 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
     var helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
   return "		<p>"
+    + alias4(((helper = (helper = helpers.Url || (depth0 != null ? depth0.Url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Url","hash":{},"data":data}) : helper)))
+    + "</p>\n		<p>"
     + alias4(((helper = (helper = helpers.DownloadedDirectory || (depth0 != null ? depth0.DownloadedDirectory : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"DownloadedDirectory","hash":{},"data":data}) : helper)))
     + "</p>\n		<p>"
     + alias4(((helper = (helper = helpers.DownloadedFilePath || (depth0 != null ? depth0.DownloadedFilePath : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"DownloadedFilePath","hash":{},"data":data}) : helper)))

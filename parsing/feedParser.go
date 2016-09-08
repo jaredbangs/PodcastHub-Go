@@ -5,20 +5,22 @@ type FeedParser interface {
 	parseFeedUrl(feedUrl string) (Feed, error)
 }
 
-func TryParse(content []byte) (feed Feed, err error) {
+func TryParse(content []byte, forceAllLinksParser bool) (feed Feed, parserUsed string, err error) {
 
 	parser := RssParser{}
+	parserUsed = "RssParser"
 
 	feed, err = parser.ParseFeedContent(content)
 
-	if err == nil {
-		return feed, err
+	if !forceAllLinksParser && err == nil {
+		return feed, parserUsed, err
 	} else {
 
 		parser := AllLinksParser{}
+		parserUsed = "AllLinksParser"
 
 		feed, err = parser.ParseFeedContent(content)
 
-		return feed, err
+		return feed, parserUsed, err
 	}
 }

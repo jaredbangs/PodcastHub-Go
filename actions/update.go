@@ -2,7 +2,6 @@ package actions
 
 import (
 	"bufio"
-	"fmt"
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
@@ -12,15 +11,17 @@ import (
 	"net/http"
 	"os"
 	"path"
+	"strconv"
 	"strings"
 	"time"
 )
 
 type Update struct {
-	Config       config.Configuration
-	downloadPath string
-	logFile      *os.File
-	repo         *repositories.FeedRepository
+	Config         config.Configuration
+	downloadPath   string
+	logFile        *os.File
+	repo           *repositories.FeedRepository
+	verboseLogging bool
 }
 
 func (update *Update) Update() error {
@@ -34,26 +35,28 @@ func (update *Update) Update() error {
 		scanner := bufio.NewScanner(file)
 
 		for scanner.Scan() {
-			update.UpdateFeed(scanner.Text())
+			update.UpdateFeed(scanner.Text(), false)
 		}
 	}
 
 	return err
 }
 
-func (update *Update) UpdateFeed(feedUrl string) {
+func (update *Update) UpdateFeed(feedUrl string, verbose bool) {
+
+	update.verboseLogging = verbose
 
 	update.initializeLog()
 
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
-			fmt.Println("Getting " + feedUrl)
+			log.Println("Getting " + feedUrl)
 
 			response, httpErr := http.Get(feedUrl)
 
 			if httpErr != nil {
 
-				fmt.Println("ERR\t" + httpErr.Error())
+				log.Println("ERR\t" + httpErr.Error())
 			} else {
 
 				defer response.Body.Close()
@@ -108,7 +111,18 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 		update.repo = repositories.NewFeedRepository(update.Config)
 	}
 
-	currentFeed, err := parsing.TryParse(content)
+	if update.verboseLogging {
+		//		log.Println(string(content))
+	}
+
+	forceAllLinksParser := false
+	tempFeedRecord, err := update.repo.ReadByUrl(feedUrl)
+	if err == nil && tempFeedRecord.ForceAllLinksParser {
+		forceAllLinksParser = true
+	}
+
+	currentFeed, parserUsed, err := parsing.TryParse(content, forceAllLinksParser)
+	log.Println("Parser used: " + parserUsed)
 
 	if err == nil {
 
@@ -125,13 +139,19 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 				for _, enclosure := range item.Enclosures {
 					if hasUrl {
 						hasUrl = feedRecord.ContainsEnclosureUrl(enclosure.Url)
+						if hasUrl && update.verboseLogging {
+							log.Println("Already has item: " + item.Title + " : " + enclosure.Url)
+							log.Println(enclosure.Url)
+							log.Println("IsArchived: " + strconv.FormatBool(item.IsArchived) + " IsToBeArchived: " + strconv.FormatBool(item.IsToBeArchived))
+							log.Println("DownloadedAt: " + enclosure.DownloadedAt.Format("2006-01-02T15:04:05.999999-07:00") + " DownloadedFilePath: " + enclosure.DownloadedFilePath)
+						}
 					}
 				}
 
 				if !hasUrl {
 					feedRecord.AddItem(item)
 					for _, enclosure := range item.Enclosures {
-						fmt.Println("Added item: " + enclosure.Url)
+						log.Println("Added item: " + item.Title + " : " + enclosure.Url)
 					}
 				}
 			}
@@ -141,12 +161,20 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 
 			update.repo.Save(&feedRecord)
 		} else {
+			log.Println("Error reading existing feed record")
 			log.Println(err)
 		}
+	} else {
+		log.Println("Error parsing feed")
+		log.Println(err)
 	}
 }
 
 func (u *Update) updateChannelInfo(existingFeed *parsing.Feed, currentChannel *parsing.Channel) {
+
+	if u.verboseLogging {
+		log.Println("Updating channel Info")
+	}
 
 	if existingFeed.Channel.Description != currentChannel.Description && currentChannel.Description != "" {
 		existingFeed.Channel.Description = currentChannel.Description

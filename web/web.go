@@ -19,12 +19,13 @@ type Web struct {
 }
 
 type FeedInfo struct {
-	ArchiveStrategy    string
-	Id                 string
-	LastFileDownloaded time.Time
-	LastUpdated        time.Time
-	Title              string
-	Url                string
+	ArchiveStrategy     string
+	Id                  string
+	ForceAllLinksParser bool
+	LastFileDownloaded  time.Time
+	LastUpdated         time.Time
+	Title               string
+	Url                 string
 }
 
 func (w *Web) Start() {
@@ -39,8 +40,8 @@ func (w *Web) Start() {
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("web/static"))))
 	http.Handle("/scripts/", http.StripPrefix("/scripts/", http.FileServer(http.Dir("web/scripts"))))
 
-	log.Println("Listening on :8080")
-	http.ListenAndServe(":8080", nil)
+	log.Println("Listening on :" + w.Config.WebPort)
+	http.ListenAndServe(":"+w.Config.WebPort, nil)
 }
 
 func (w *Web) getFeedInfo() []FeedInfo {
@@ -52,6 +53,7 @@ func (w *Web) getFeedInfo() []FeedInfo {
 
 			feedInfo := FeedInfo{}
 			feedInfo.ArchiveStrategy = feed.ArchiveStrategy
+			feedInfo.ForceAllLinksParser = feed.ForceAllLinksParser
 			feedInfo.Id = feed.Id
 			feedInfo.LastFileDownloaded = feed.LastFileDownloadedTime
 			feedInfo.LastUpdated = feed.LastUpdated
@@ -169,6 +171,8 @@ func (w *Web) updateFeed(rw http.ResponseWriter, r *http.Request) {
 
 		feed.ArchivePath = postedFeed.ArchivePath
 		feed.ArchiveStrategy = postedFeed.ArchiveStrategy
+		feed.ForceAllLinksParser = postedFeed.ForceAllLinksParser
+		log.Println(postedFeed.ForceAllLinksParser)
 
 		w.repo.Save(&feed)
 

@@ -12,6 +12,7 @@ type Configuration struct {
 	RepositoryCloneTargetFile string
 	RepositoryFile            string
 	SubscriptionFile          string
+	WebPort                   string
 }
 
 func GetConfig() Configuration {

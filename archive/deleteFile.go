@@ -70,6 +70,8 @@ func (a *deleteFile) ArchiveItem(feed *parsing.Feed, item *parsing.Item) (enclos
 				log.Println(enclosure.DownloadedFilePath + " file does not exist")
 			}
 			enclosuresUpdated = true
+		} else if len(enclosure.Url) != 0 {
+			enclosuresUpdated = true
 		}
 	}
 

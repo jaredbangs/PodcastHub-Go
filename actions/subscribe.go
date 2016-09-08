@@ -40,7 +40,8 @@ func (s *Subscribe) addFeed(feedUrl string, content []byte) {
 		s.repo = repositories.NewFeedRepository(s.Config)
 	}
 
-	currentFeed, err := parsing.TryParse(content)
+	currentFeed, parserUsed, err := parsing.TryParse(content, false)
+	fmt.Println(parserUsed)
 
 	if err == nil {
 
