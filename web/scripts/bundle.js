@@ -23245,12 +23245,16 @@ var templater = require("handlebars/runtime")["default"].template;module.exports
     + "</td>\n<td>"
     + alias4(((helper = (helper = helpers.Url || (depth0 != null ? depth0.Url : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"Url","hash":{},"data":data}) : helper)))
     + "</td>\n<td>"
+    + alias4(((helper = (helper = helpers.ArchiveStrategy || (depth0 != null ? depth0.ArchiveStrategy : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"ArchiveStrategy","hash":{},"data":data}) : helper)))
+    + "</td>\n<td>"
+    + alias4(((helper = (helper = helpers.ArchivePath || (depth0 != null ? depth0.ArchivePath : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"ArchivePath","hash":{},"data":data}) : helper)))
+    + "</td>\n<td>"
     + alias4(((helper = (helper = helpers.LastFileDownloadedDisplay || (depth0 != null ? depth0.LastFileDownloadedDisplay : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"LastFileDownloadedDisplay","hash":{},"data":data}) : helper)))
     + "</td>\n";
 },"useData":true});
 },{"handlebars/runtime":26}],61:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    return "<table id=\"FeedList\" class=\"display table table-striped table-bordered\" cellspacing=\"0\">\n\n	<thead>\n		<tr>\n			<th>Name</th>\n			<th>Url</th>\n			<th>Last File</th>\n		</tr>\n	</thead>\n	<tbody class=\"feeds\">\n\n	</tbody>\n</table>\n";
+    return "<table id=\"FeedList\" class=\"display table table-striped table-bordered\" cellspacing=\"0\">\n\n	<thead>\n		<tr>\n			<th>Name</th>\n			<th>Url</th>\n			<th>ArchiveStrategy</th>\n			<th>ArchivePath</th>\n			<th>Last File</th>\n		</tr>\n	</thead>\n	<tbody class=\"feeds\">\n\n	</tbody>\n</table>\n";
 },"useData":true});
 },{"handlebars/runtime":26}],62:[function(require,module,exports){
 var templater = require("handlebars/runtime")["default"].template;module.exports = templater({"1":function(container,depth0,helpers,partials,data) {

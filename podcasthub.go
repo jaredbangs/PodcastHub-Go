@@ -100,7 +100,7 @@ func main() {
 
 			s.Subscribe(argsWithoutProg[1])
 		case "update":
-			u := &actions.Update{Config: config}
+			u := actions.NewUpdate(config)
 
 			if len(argsWithoutProg) > 1 {
 				u.UpdateFeed(argsWithoutProg[1], true)

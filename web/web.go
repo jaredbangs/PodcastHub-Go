@@ -19,6 +19,7 @@ type Web struct {
 }
 
 type FeedInfo struct {
+	ArchivePath         string
 	ArchiveStrategy     string
 	Id                  string
 	ForceAllLinksParser bool
@@ -52,6 +53,7 @@ func (w *Web) getFeedInfo() []FeedInfo {
 		w.repo.ForEach(func(feed parsing.Feed) {
 
 			feedInfo := FeedInfo{}
+			feedInfo.ArchivePath = feed.ArchivePath
 			feedInfo.ArchiveStrategy = feed.ArchiveStrategy
 			feedInfo.ForceAllLinksParser = feed.ForceAllLinksParser
 			feedInfo.Id = feed.Id

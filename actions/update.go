@@ -1,7 +1,6 @@
 package actions
 
 import (
-	"bufio"
 	"github.com/jaredbangs/PodcastHub/config"
 	"github.com/jaredbangs/PodcastHub/parsing"
 	"github.com/jaredbangs/PodcastHub/repositories"
@@ -16,7 +15,7 @@ import (
 	"time"
 )
 
-type Update struct {
+type update struct {
 	Config         config.Configuration
 	downloadPath   string
 	logFile        *os.File
@@ -24,29 +23,28 @@ type Update struct {
 	verboseLogging bool
 }
 
-func (update *Update) Update() error {
+func NewUpdate(config config.Configuration) *update {
 
-	update.initializeLog()
+	u := &update{Config: config}
 
-	file, err := os.Open(update.Config.SubscriptionFile)
-	defer file.Close()
+	u.initializeLog()
+	u.repo = repositories.NewFeedRepository(u.Config)
 
-	if err == nil {
-		scanner := bufio.NewScanner(file)
-
-		for scanner.Scan() {
-			update.UpdateFeed(scanner.Text(), false)
-		}
-	}
-
-	return err
+	return u
 }
 
-func (update *Update) UpdateFeed(feedUrl string, verbose bool) {
+func (update *update) Update() error {
+
+	for _, feedUrl := range update.repo.GetAllUrls() {
+		update.UpdateFeed(feedUrl, false)
+	}
+
+	return nil
+}
+
+func (update *update) UpdateFeed(feedUrl string, verbose bool) {
 
 	update.verboseLogging = verbose
-
-	update.initializeLog()
 
 	if len(feedUrl) > 0 {
 		if !strings.HasPrefix(feedUrl, "#") {
@@ -67,7 +65,7 @@ func (update *Update) UpdateFeed(feedUrl string, verbose bool) {
 	}
 }
 
-func (u *Update) initializeLog() {
+func (u *update) initializeLog() {
 
 	if u.downloadPath == "" {
 		u.prepareDownloadPath()
@@ -86,7 +84,7 @@ func (u *Update) initializeLog() {
 	}
 }
 
-func (u *Update) prepareDownloadPath() (err error) {
+func (u *update) prepareDownloadPath() (err error) {
 
 	if u.downloadPath == "" {
 		parentDownloadPath := u.Config.DownloadPath
@@ -105,7 +103,7 @@ func (u *Update) prepareDownloadPath() (err error) {
 	return nil
 }
 
-func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
+func (update *update) recordFeedInfo(feedUrl string, content []byte) {
 
 	if update.repo == nil {
 		update.repo = repositories.NewFeedRepository(update.Config)
@@ -170,7 +168,7 @@ func (update *Update) recordFeedInfo(feedUrl string, content []byte) {
 	}
 }
 
-func (u *Update) updateChannelInfo(existingFeed *parsing.Feed, currentChannel *parsing.Channel) {
+func (u *update) updateChannelInfo(existingFeed *parsing.Feed, currentChannel *parsing.Channel) {
 
 	if u.verboseLogging {
 		log.Println("Updating channel Info")
